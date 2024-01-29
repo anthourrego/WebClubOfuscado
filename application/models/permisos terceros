@@ -1,0 +1,88 @@
+0 // Terceros
+60 // Sucursales
+71 // Contactos
+86 // Habilitar como Cliente / Proveedor
+
+1 // Tipo Identificación
+2 // Código de Barras
+92 // Estado
+3 // Razón Social
+90 // Nombre Comercial
+4 // Nombres y Apellidos
+5 // Emails
+6 // Celular
+7 // Estado Civil
+8 // Sexo
+9 // Número de Tarjeta
+80 // Tipo Tercero
+10 // Dirección Residencia
+11 // Ciudad Residencia
+12 // Barrio Residencia
+13 // Departamento Residencia
+14 // País Residencia
+15 // Zona Residencia
+16 // Teléfonos Residencia
+17 // Dirección Correspondencia
+18 // Ciudad Correspondencia
+19 // Barrio Correspondencia
+20 // Departamento Correspondencia
+21 // País Correspondencia
+22 // Teléfonos Correspondencia
+43 // Tipo Régimen
+49 // Actividad Económica
+34 // Fecha Nacimiento
+35 // Ciudad Nacimiento
+36 // Profesión
+37 // Ocupación
+40 // Número Hijos
+41 // Autoriza Utilizar Información Fines Comerciales
+85 // Almacén
+39 // Vendedor
+88 // Clasificación Cliente
+89 // Responsabilidades Fiscales
+23 // Empresa
+24 // Dirección Empresa
+25 // Ciudad Empresa
+26 // Barrio Empresa
+27 // Departamento Empresa
+28 // País Empresa
+29 // Teléfonos Empresa
+30 // Cargo
+31 // Contacto Empresa
+32 // Tipo Contacto Empresa
+33 // Sector Económico Empresa
+52 // Tarifa Retención en la Fuente
+53 // Liquida Retención en la Fuente Sobre Base
+51 // Tarifa Retención IVA
+87 // NO Liquidar IVA
+47 // Días Crédito
+46 // Cupo Crédito
+44 // Tipo Cartera
+81 // Bloqueo por Monto
+82 // Bloqueo por Vencimiento
+83 // Aplicar Bloqueos a Pedidos
+84 // Lista de Precios
+54 // Días Crédito Compras
+45 // Descuentos Financieros
+50 // Tarifas Retención ICA Compras
+55 // Información Adicional
+56 // Foto
+61 // Razón Social Sucursal
+62 // Dirección Sucursal
+63 // Ciudad Sucursal
+64 // Barrio Sucursal
+65 // Departamento Sucursal
+66 // País Sucursal
+67 // Zona Sucursal
+68 // Teléfono Sucursal
+69 // Email Sucursal
+70 // Vendedor Sucursal
+91 // Tarifa Retención ICA
+72 // Nombre Contacto
+73 // Dependencia Contacto
+74 // Cargo Contacto
+75 // Fecha de Nacimiento Contacto
+76 // Email Contacto
+77 // Teléfono Contacto
+78 // Celular Contacto
+79 // Gestión Cartera

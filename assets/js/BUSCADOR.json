@@ -1,0 +1,82 @@
+[
+
+	{
+		"nombre":	"Patios",
+		"modulo":	"Configuración",
+		"submodulo":"Patios",
+		"url":		"Configuracion/Patios"
+	}
+	,{
+		"nombre":	"Distribuciones",
+		"modulo":	"Configuración",
+		"submodulo":"Patios",
+		"url":		"Configuracion/Distribuciones"
+	}
+
+	,{
+		"nombre":	"Tipos de Paradas",
+		"modulo":	"Configuración",
+		"submodulo":"Operativo",
+		"url":		"Configuracion/TiposParadas"
+	}
+
+
+	,{
+		"nombre":	"Importar Archivo",
+		"modulo":	"Recepción",
+		"submodulo":"Cargue de Vehículos",
+		"url":		"Recepcion/ImportarVehiculos"
+	}
+	,{
+		"nombre":	"Cargue Manual",
+		"modulo":	"Recepción",
+		"submodulo":"Cargue de Vehículos",
+		"url":		"Recepcion/CargueManual"
+	}
+
+	,{
+		"nombre":	"Procesar Vehículos",
+		"modulo":	"Recepción",
+		"submodulo":"Tratamiento",
+		"url":		"Recepcion/ProcesarVehiculos"
+	}
+	,{
+		"nombre":	"Procesar Vehículos Automáticamente",
+		"modulo":	"Recepción",
+		"submodulo":"Tratamiento",
+		"url":		"Recepcion/ImportarProcesamiento"
+	}
+	,{
+		"nombre":	"Despachar Vehículos",
+		"modulo":	"Recepción",
+		"submodulo":"Tratamiento",
+		"url":		"Recepcion/DespacharVehiculos"
+	}
+
+	,{
+		"nombre":	"Diligenciar",
+		"modulo":	"Recepción",
+		"submodulo":"Listas de Chequeo",
+		"url":		"Recepcion/DiligenciarCheckList"
+	}
+
+	,{
+		"nombre":	"Vehículos",
+		"modulo":	"Consultas",
+		"submodulo":"Vehículos",
+		"url":		"Consultas/Vehiculos"
+	}
+	,{
+		"nombre":	"Consulta de Patios",
+		"modulo":	"Consultas",
+		"submodulo":"Vehículos",
+		"url":		"Consultas/Patios"
+	}
+
+	,{
+		"nombre":	"Incidencias de Traslados",
+		"modulo":	"Consultas",
+		"submodulo":"Tratamiento",
+		"url":		"Consultas/Incidencias"
+	}
+]

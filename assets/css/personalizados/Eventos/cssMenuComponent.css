@@ -1,0 +1,76 @@
+#lista-tipo-comidas {
+	scrollbar-color: #5a6268 white;
+	scrollbar-width: auto;
+}
+#lista-tipo-comidas::-webkit-scrollbar {
+	height: 25px;
+	width: 25px;
+}
+#lista-tipo-comidas::-webkit-scrollbar-thumb {
+	background: #5a6268;
+}
+#lista-tipo-comidas::-webkit-scrollbar-track {
+	background: #f1f1f1;
+}
+
+.producto-seleccionado,
+.card-vendedor-seleccionado {
+	border: 2px solid #4680ff !important;
+	border-radius: 5px;
+}
+
+.texto-truncado {
+	overflow: hidden;
+	text-overflow: ellipsis;
+	display: -webkit-box;
+	-webkit-line-clamp: 3;
+	-webkit-box-orient: vertical;
+}
+
+.fontProds {
+	font-size: 12px;
+	overflow-wrap: anywhere;
+}
+
+.fontPrecioProds {
+	font-size: 14px;
+	font-weight: bold;
+	margin-bottom: 0px;
+}
+
+.container-item-prod {
+	width: 100%;
+	height: 58px;
+}
+
+.productoSeleccionado .card {
+	border: 3px solid #4680ff;
+}
+
+.btnGroupAgregarMenu {
+	width: 20%;
+	float: right;
+	position: absolute;
+	right: 0;
+	margin-right: 15px;
+}
+
+.olBreadcrumb {
+	width: 79%;
+}
+
+.linea-subgrupos {
+	display: flex;
+}
+
+.selectMenu {
+	background-color: white;
+	width: 33.333%;
+	text-align: right;
+}
+
+@media screen and (max-width: 992px) {
+	.headerMenu {
+		flex-direction: column !important;
+	}
+}
