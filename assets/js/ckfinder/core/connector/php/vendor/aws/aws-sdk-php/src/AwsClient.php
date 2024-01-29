@@ -1,281 +1,328 @@
-<?php //ICB0 56:0 71:2906                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-64K==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use Aws\Api\ApiProvider;
+use Aws\Api\DocModel;
+use Aws\Api\Service;
+use Aws\Signature\SignatureProvider;
+use GuzzleHttp\Psr7\Uri;
 
-?>
-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
+/**
+ * Default AWS client implementation
+ */
+class AwsClient implements AwsClientInterface
+{
+    use AwsClientTrait;
+
+    /** @var array */
+    private $config;
+
+    /** @var string */
+    private $region;
+
+    /** @var string */
+    private $endpoint;
+
+    /** @var Service */
+    private $api;
+
+    /** @var callable */
+    private $signatureProvider;
+
+    /** @var callable */
+    private $credentialProvider;
+
+    /** @var HandlerList */
+    private $handlerList;
+
+    /** @var array*/
+    private $defaultRequestOptions;
+
+    /**
+     * Get an array of client constructor arguments used by the client.
+     *
+     * @return array
+     */
+    public static function getArguments()
+    {
+        return ClientResolver::getDefaultArguments();
+    }
+
+    /**
+     * The client constructor accepts the following options:
+     *
+     * - api_provider: (callable) An optional PHP callable that accepts a
+     *   type, service, and version argument, and returns an array of
+     *   corresponding configuration data. The type value can be one of api,
+     *   waiter, or paginator.
+     * - credentials:
+     *   (Aws\Credentials\CredentialsInterface|array|bool|callable) Specifies
+     *   the credentials used to sign requests. Provide an
+     *   Aws\Credentials\CredentialsInterface object, an associative array of
+     *   "key", "secret", and an optional "token" key, `false` to use null
+     *   credentials, or a callable credentials provider used to create
+     *   credentials or return null. See Aws\Credentials\CredentialProvider for
+     *   a list of built-in credentials providers. If no credentials are
+     *   provided, the SDK will attempt to load them from the environment.
+     * - debug: (bool|array) Set to true to display debug information when
+     *   sending requests. Alternatively, you can provide an associative array
+     *   with the following keys: logfn: (callable) Function that is invoked
+     *   with log messages; stream_size: (int) When the size of a stream is
+     *   greater than this number, the stream data will not be logged (set to
+     *   "0" to not log any stream data); scrub_auth: (bool) Set to false to
+     *   disable the scrubbing of auth data from the logged messages; http:
+     *   (bool) Set to false to disable the "debug" feature of lower level HTTP
+     *   adapters (e.g., verbose curl output).
+     * - stats: (bool|array) Set to true to gather transfer statistics on
+     *   requests sent. Alternatively, you can provide an associative array with
+     *   the following keys: retries: (bool) Set to false to disable reporting
+     *   on retries attempted; http: (bool) Set to true to enable collecting
+     *   statistics from lower level HTTP adapters (e.g., values returned in
+     *   GuzzleHttp\TransferStats). HTTP handlers must support an
+     *   `http_stats_receiver` option for this to have an effect; timer: (bool)
+     *   Set to true to enable a command timer that reports the total wall clock
+     *   time spent on an operation in seconds.
+     * - endpoint: (string) The full URI of the webservice. This is only
+     *   required when connecting to a custom endpoint (e.g., a local version
+     *   of S3).
+     * - endpoint_provider: (callable) An optional PHP callable that
+     *   accepts a hash of options including a "service" and "region" key and
+     *   returns NULL or a hash of endpoint data, of which the "endpoint" key
+     *   is required. See Aws\Endpoint\EndpointProvider for a list of built-in
+     *   providers.
+     * - handler: (callable) A handler that accepts a command object,
+     *   request object and returns a promise that is fulfilled with an
+     *   Aws\ResultInterface object or rejected with an
+     *   Aws\Exception\AwsException. A handler does not accept a next handler
+     *   as it is terminal and expected to fulfill a command. If no handler is
+     *   provided, a default Guzzle handler will be utilized.
+     * - http: (array, default=array(0)) Set to an array of SDK request
+     *   options to apply to each request (e.g., proxy, verify, etc.).
+     * - http_handler: (callable) An HTTP handler is a function that
+     *   accepts a PSR-7 request object and returns a promise that is fulfilled
+     *   with a PSR-7 response object or rejected with an array of exception
+     *   data. NOTE: This option supersedes any provided "handler" option.
+     * - idempotency_auto_fill: (bool|callable) Set to false to disable SDK to
+     *   populate parameters that enabled 'idempotencyToken' trait with a random
+     *   UUID v4 value on your behalf. Using default value 'true' still allows
+     *   parameter value to be overwritten when provided. Note: auto-fill only
+     *   works when cryptographically secure random bytes generator functions
+     *   (random_bytes, openssl_random_pseudo_bytes or mcrypt_create_iv) can be
+     *   found. You may also provide a callable source of random bytes.
+     * - profile: (string) Allows you to specify which profile to use when
+     *   credentials are created from the AWS credentials file in your HOME
+     *   directory. This setting overrides the AWS_PROFILE environment
+     *   variable. Note: Specifying "profile" will cause the "credentials" key
+     *   to be ignored.
+     * - region: (string, required) Region to connect to. See
+     *   http://docs.aws.amazon.com/general/latest/gr/rande.html for a list of
+     *   available regions.
+     * - retries: (int, default=int(3)) Configures the maximum number of
+     *   allowed retries for a client (pass 0 to disable retries).
+     * - scheme: (string, default=string(5) "https") URI scheme to use when
+     *   connecting connect. The SDK will utilize "https" endpoints (i.e.,
+     *   utilize SSL/TLS connections) by default. You can attempt to connect to
+     *   a service over an unencrypted "http" endpoint by setting ``scheme`` to
+     *   "http".
+     * - signature_provider: (callable) A callable that accepts a signature
+     *   version name (e.g., "v4"), a service name, and region, and
+     *   returns a SignatureInterface object or null. This provider is used to
+     *   create signers utilized by the client. See
+     *   Aws\Signature\SignatureProvider for a list of built-in providers
+     * - signature_version: (string) A string representing a custom
+     *   signature version to use with a service (e.g., v4). Note that
+     *   per/operation signature version MAY override this requested signature
+     *   version.
+     * - validate: (bool, default=bool(true)) Set to false to disable
+     *   client-side parameter validation.
+     * - version: (string, required) The version of the webservice to
+     *   utilize (e.g., 2006-03-01).
+     *
+     * @param array $args Client configuration arguments.
+     *
+     * @throws \InvalidArgumentException if any required options are missing or
+     *                                   the service is not supported.
+     */
+    public function __construct(array $args)
+    {
+        list($service, $exceptionClass) = $this->parseClass();
+        if (!isset($args['service'])) {
+            $args['service'] = manifest($service)['endpoint'];
+        }
+        if (!isset($args['exception_class'])) {
+            $args['exception_class'] = $exceptionClass;
+        }
+
+        $this->handlerList = new HandlerList();
+        $resolver = new ClientResolver(static::getArguments());
+        $config = $resolver->resolve($args, $this->handlerList);
+        $this->api = $config['api'];
+        $this->signatureProvider = $config['signature_provider'];
+        $this->endpoint = new Uri($config['endpoint']);
+        $this->credentialProvider = $config['credentials'];
+        $this->region = isset($config['region']) ? $config['region'] : null;
+        $this->config = $config['config'];
+        $this->defaultRequestOptions = $config['http'];
+        $this->addSignatureMiddleware();
+        $this->addInvocationId();
+
+        if (isset($args['with_resolved'])) {
+            $args['with_resolved']($config);
+        }
+    }
+
+    public function getHandlerList()
+    {
+        return $this->handlerList;
+    }
+
+    public function getConfig($option = null)
+    {
+        return $option === null
+            ? $this->config
+            : (isset($this->config[$option])
+                ? $this->config[$option]
+                : null);
+    }
+
+    public function getCredentials()
+    {
+        $fn = $this->credentialProvider;
+        return $fn();
+    }
+
+    public function getEndpoint()
+    {
+        return $this->endpoint;
+    }
+
+    public function getRegion()
+    {
+        return $this->region;
+    }
+
+    public function getApi()
+    {
+        return $this->api;
+    }
+
+    public function getCommand($name, array $args = [])
+    {
+        // Fail fast if the command cannot be found in the description.
+        if (!isset($this->getApi()['operations'][$name])) {
+            $name = ucfirst($name);
+            if (!isset($this->getApi()['operations'][$name])) {
+                throw new \InvalidArgumentException("Operation not found: $name");
+            }
+        }
+
+        if (!isset($args['@http'])) {
+            $args['@http'] = $this->defaultRequestOptions;
+        } else {
+            $args['@http'] += $this->defaultRequestOptions;
+        }
+
+        return new Command($name, $args, clone $this->getHandlerList());
+    }
+
+    public function __sleep()
+    {
+        throw new \RuntimeException('Instances of ' . static::class
+            . ' cannot be serialized');
+    }
+
+    /**
+     * Get the signature_provider function of the client.
+     *
+     * @return callable
+     */
+    final protected function getSignatureProvider()
+    {
+        return $this->signatureProvider;
+    }
+
+    /**
+     * Parse the class name and setup the custom exception class of the client
+     * and return the "service" name of the client and "exception_class".
+     *
+     * @return array
+     */
+    private function parseClass()
+    {
+        $klass = get_class($this);
+
+        if ($klass === __CLASS__) {
+            return ['', 'Aws\Exception\AwsException'];
+        }
+
+        $service = substr($klass, strrpos($klass, '\\') + 1, -6);
+
+        return [
+            strtolower($service),
+            "Aws\\{$service}\\Exception\\{$service}Exception"
+        ];
+    }
+
+    private function addSignatureMiddleware()
+    {
+        $api = $this->getApi();
+        $provider = $this->signatureProvider;
+        $version = $this->config['signature_version'];
+        $name = $this->config['signing_name'];
+        $region = $this->config['signing_region'];
+
+        $resolver = static function (
+            CommandInterface $c
+        ) use ($api, $provider, $name, $region, $version) {
+            $authType = $api->getOperation($c->getName())['authtype'];
+            switch ($authType){
+                case 'none':
+                    $version = 'anonymous';
+                    break;
+                case 'v4-unsigned-body':
+                    $version = 'v4-unsigned-body';
+                    break;
+            }
+            return SignatureProvider::resolve($provider, $version, $name, $region);
+        };
+        $this->handlerList->appendSign(
+            Middleware::signer($this->credentialProvider, $resolver),
+            'signer'
+        );
+    }
+
+    private function addInvocationId()
+    {
+        // Add invocation id to each request
+        $this->handlerList->prependSign(Middleware::invocationId(), 'invocation-id');
+    }
+
+    /**
+     * Returns a service model and doc model with any necessary changes
+     * applied.
+     *
+     * @param array $api  Array of service data being documented.
+     * @param array $docs Array of doc model data.
+     *
+     * @return array Tuple containing a [Service, DocModel]
+     *
+     * @internal This should only used to document the service API.
+     * @codeCoverageIgnore
+     */
+    public static function applyDocFilters(array $api, array $docs)
+    {
+        return [
+            new Service($api, ApiProvider::defaultProvider()),
+            new DocModel($docs)
+        ];
+    }
+
+    /**
+     * @deprecated
+     * @return static
+     */
+    public static function factory(array $config = [])
+    {
+        return new static($config);
+    }
+}

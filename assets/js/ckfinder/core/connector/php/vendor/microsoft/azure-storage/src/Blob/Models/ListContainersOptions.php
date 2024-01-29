@@ -1,107 +1,126 @@
-<?php //ICB0 56:0 71:10b1                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cP+uWb4+H36rWR941R5Ae8w9JAFZKzhqmIuEu9YLVEgOa+eHWKuquuh5R+O78sy8q4o0pWXYN
-D3G2tcwXrGLtrEEL7QRc3mpgzmceW+nXxT2T1n1YRH4h+r/cdYN2dwQE0AGhQ7wCiX/2M366LauI
-b9zBgeKYPDCo64R7Uw6z9Fr364bIVxWcQ19QGqGfbzUv0ExddUQgejQ15nPSWuLf6YpR6PUOrep7
-W1ZbYqHivrtYvyAPPXAQQeXDG0cTddAVmSySxf02/8wULxI9snptqslkK7nbifbO36vIBlsPR5RH
-DaStDoPJY0XbSBS93440TYW3ytRPv2mGIN4PgUDlWlRl2N6NQRVljJBs0asv6Vv/ZrLx6lYM4DYm
-YgENZZOcTJQvYGJXH2sQuO5so/obkbCOJCT9tTEzKrLZfNhk7O5A3zbQRssMUooWg2np9UWWUkPa
-2iRrRgmm+SCZlriwcIYNrid8SdC2E/YekZa3X8DZKfu4AmXgymM7GFL618wghfbxxfnszNXBgYCZ
-NUmB+ZcKbvbJSiLZlpZRWKxOEpAfb3OOMU36bsjijhGnXcfHirrnBf4WmsVS2pZnxqP5RnXVizhG
-oXi6JWq+OthlovTksgZEf7x8TuhY0LTG4P6pxLpg5TcPdtBgJYqB/m5waY+surVSlKQD+YJpsFhE
-IL8Y7I1WVBNMiZQAfd+ZyQoR/8GQoKk3vJMpiE84A2w7LgPMSITICQ77uULnlh/pB2sXMELwgXZF
-uy2FjKpkIOwJb2QVlIQoH/oMWPOuFYwdws2xgStVoYmo5CKEDpOXY9SOrE2GDUhll0ikMO1PhScf
-9hfakoDr4nXtoACER/OTrw6g2yaOi5mTRWMcfojj+FMCoftVaYRkmra8GKR1SQARP1Y51W6cV6Zb
-S3h7ayVcatAtmaiHum/WUV/0KgnhuScVCQ5QfOoIlOD4gHgTbx/R3JjVjYRlFpcSjWKQrwIn6zBK
-ZeHbuWublPTB+rlJMtyalrEdRAH+MYPW2o5C3k+ch6jMoSy2niUGbHE+UNa5pvXZv7h1QE3dwwfK
-VjJUqX3fd1xHTGNYDy4IwzuVC6NMNOhZ8mAnK+I9POlmY75vC/PQyhW0+JecGoGMMEr5U47CWdov
-W/pgsYB+dwuTjXvUytjZAs1Onhrs2i7xkEDQcqLTVnBPNm2kx3XUUxR9TH3BgskT87IWG6G2hF7e
-ExFRoOyzpFR0AbOR+vkR7Yc/ZDbd1G3Q8m9yqB3g8B39akmQwHPH4Z+wVTYRu3A68Tj8B7XPRTFi
-cRYq55MGlFXPSTUsN5gFZPZVPFChxWTq9HtJfxTG2eymApz0kHGScLWtIWWMqb6TiLUQn46OEdiR
-HitWvRPthtM2b+27Hx3Q6UCB+fWRSo4a3ZbNr9Kv4j6Lwg8PnLJ1Ieo80RZbNCGh8tW9iGoaYrp1
-vWJMooNyORc8SVUjfidpVLHNePA5EJNKjQxkju6MXbAzNPXqDBQF9q/Uy1W7c80nWGX2kCpXUDK9
-fxV+r8eDI0Q8+IoRNyRJ5SgKsGjnP3hOgJ1nJAEwpMxx5oI79cOo5QW7kjk9aOUBgFuEd9aiRpzS
-kTCpYvwhiMGD3RQLAL4mQcUj6EN5LPJcO4dJb9PJ7IptUxewRh46qvG0mLn8wIS5kH+05yUlXs/G
-f68RjZE9r27mEiJ9Knz2iJG+ym3NTXGk+qm9+dmb31IrZ+b780vz4b0n0oPprJOqNXxSUL5UwSBI
-cEZGiQdG3wpCqlBS9PvN81JHJGSVbgem3h6RyQzrwQvn+NB9Mz+UGPND1JIXOLr8rHkwYCVmCMSr
-zH0l+8G/nyIzxllrm0NDw1Imu3jfK56r5EUOs7e7wZHrSPHK4WjtBlzkw9UvO9mu2GJeKwO4IHBt
-kX4G3Aog1QMXzfZZWhgGVjrBppceGxDkAcwnjW4/66IKwb/doClM0Pxap7iXFezxuSCh461nWBl1
-YNY9Aics+hQ0am4dgw1t76gjMpK3aYq1BhPW/3UXay8Qabojt7G5C4DkPEDNQgBGtSKw7K9KaYBe
-Y8bOf9b/G926ZOJ8zj6CW1gkz4vd6QJU5gvUHrNNPEsafGd25CVwXvDgBe1lW4q5LrQdpAQkQcrC
-tZCHz3gTeHAyKN1HiUPpuhVP7S7WB7aNVdPdkc/mzTPWVaHNplsddqvNg4R8mF1fqpOKrLjqCTR8
-P3Q/4opPtNv7zdV5hpdC00NsF+8S6Veo6w65n0rAGDFDgt0UCwOeOxjq6LFLgcU2BEBlAAC16Oh0
-ghI60CybPFTgdleTExyFoATYjeAROJb7qF/usrDHVlzgpkJep2IOmXYTS/yicSXeaf4enusTD/Jw
-8UqZC26Ie2sPsebiD4Pg/L68EDszKAKIiNfG/mNJ4frk/iSGfb+NeJxjUnnTKfCa/buJ03LDAVwo
-wwnWJ2vNasnS65UP6tbu2BiW3uELAyP/1gk7IrSaPdIYQeyzs26dMI9r45/+Zw/R+bxY1otWjztU
-Cri02FvcgqNYaEBoTP0/ekPTM6VlCnnCxBhQAnwNJMvQsFy3Sj2j8AMuSHPJtt9JOsHdUWdMzoui
-oT6KtSxap/ZT4DOeNtjPZRB8Ga0ViQyf1VdmHJsLh4nTWqimVOPjGnWGerf0pRAAi9+kflhu7ePe
-zszD/e8Z1NPjdVDT5VnidRnVGPqDApgfz+ZeiH1YtU/vcK1fUaZ9Emabi60ZJyL8HFdoFjZeYph/
-Jl6VHTHkCDjYUEHkgFqzNHHMqzRET2sru3QVhXxXg7wCZCkxJWByDWG2mMQNCGxI20iHbiIF4z6m
-49TJgdH9HgYUWrqzzQObINa0B6xG15vNRJgVapAUDDRk+YHeTOX+A2YZzNYQZr/e0IhW4v0iDoim
-RAvoPMteFoTGfOQrDeG039u30aJlS60rEyAKVl7BdjDorIhR8R5/vXB2nn/WfyDbSvW4lYFmfmoI
-fLv/OGdv6CUiYY+f8HxDHz4YmhKVpC4LzT5SGlQBD+9BsnTQcgAxygpYo1wMX7ynvGerVwYsyOzn
-DEkElHhbuNUt57FvZ5svgw6mMyuvwOTa+OKiO8IOWVUQ8CMGZX++2mLEaeZzw/isSHeMwrlAPSuk
-J937pwIwRryFDNaftfWvDRMTbvn5toua52A0h7rkvkRGs6tCbsTty1vickAYi2K0dF7tJvaR/a8h
-L9txEGKdYXSBhEv7N+QALHL4UV67Hvm9hb8iZmEt6WYsMpx8qeeY8sW+nRyth+A0+ov2kXVcV59a
-QQ7wD2zX+/w9qPzB1iMV1AAm5hFrmvH88mt37DwxXfxt5Wqu93lPOkAp26hMdpXf+pltriUpJHTi
-U5g1ierlVim==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Blob\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+ 
+namespace MicrosoftAzure\Storage\Blob\Models;
 
-?>
-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
-gyYJkdXPZGZxBDBAL+GefrFSQTi=
+use MicrosoftAzure\Storage\Common\MarkerContinuationTokenTrait;
+use MicrosoftAzure\Storage\Common\Internal\Validate;
+
+/**
+ * Options for listBlobs API.
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Blob\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+class ListContainersOptions extends BlobServiceOptions
+{
+    use MarkerContinuationTokenTrait;
+
+    private $_prefix;
+    private $_maxResults;
+    private $_includeMetadata;
+
+    /**
+     * Gets prefix - filters the results to return only containers whose name
+     * begins with the specified prefix.
+     *
+     * @return string
+     */
+    public function getPrefix()
+    {
+        return $this->_prefix;
+    }
+
+    /**
+     * Sets prefix - filters the results to return only containers whose name
+     * begins with the specified prefix.
+     *
+     * @param string $prefix value.
+     *
+     * @return void
+     */
+    public function setPrefix($prefix)
+    {
+        Validate::canCastAsString($prefix, 'prefix');
+        $this->_prefix = $prefix;
+    }
+
+    /**
+     * Gets max results which specifies the maximum number of containers to return.
+     * If the request does not specify maxresults, or specifies a value
+     * greater than 5,000, the server will return up to 5,000 items.
+     * If the parameter is set to a value less than or equal to zero,
+     * the server will return status code 400 (Bad Request).
+     *
+     * @return string
+     */
+    public function getMaxResults()
+    {
+        return $this->_maxResults;
+    }
+
+    /**
+     * Sets max results which specifies the maximum number of containers to return.
+     * If the request does not specify maxresults, or specifies a value
+     * greater than 5,000, the server will return up to 5,000 items.
+     * If the parameter is set to a value less than or equal to zero,
+     * the server will return status code 400 (Bad Request).
+     *
+     * @param string $maxResults value.
+     *
+     * @return void
+     */
+    public function setMaxResults($maxResults)
+    {
+        Validate::canCastAsString($maxResults, 'maxResults');
+        $this->_maxResults = $maxResults;
+    }
+
+    /**
+     * Indicates if metadata is included or not.
+     *
+     * @return string
+     */
+    public function getIncludeMetadata()
+    {
+        return $this->_includeMetadata;
+    }
+
+    /**
+     * Sets the include metadata flag.
+     *
+     * @param bool $includeMetadata value.
+     *
+     * @return void
+     */
+    public function setIncludeMetadata($includeMetadata)
+    {
+        Validate::isBoolean($includeMetadata);
+        $this->_includeMetadata = $includeMetadata;
+    }
+}

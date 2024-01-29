@@ -1,100 +1,87 @@
-<?php //ICB0 56:0 71:fee                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Common\Internal\Authentication
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
 
-?>
-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
-D+LeVI947DbBkyQUk3Dneva=
+namespace MicrosoftAzure\Storage\Common\Internal\Authentication;
+
+use GuzzleHttp\Psr7\Request;
+
+/**
+ * Base class for azure authentication schemes.
+ *
+ * @ignore
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Common\Internal\Authentication
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+class SharedAccessSignatureAuthScheme implements IAuthScheme
+{
+    /**
+     * The sas token
+     */
+    protected $sasToken;
+
+    /**
+     * Constructor.
+     *
+     * @param string $sasToken shared access signature token.
+     *
+     * @return
+     * MicrosoftAzure\Storage\Common\Internal\Authentication\SharedAccessSignatureAuthScheme
+     */
+    public function __construct($sasToken)
+    {
+        $this->sasToken  = $sasToken;
+    }
+
+    /**
+     * Adds authentication header to the request headers.
+     *
+     * @param  \GuzzleHttp\Psr7\Request $request HTTP request object.
+     *
+     * @abstract
+     *
+     * @return \GuzzleHttp\Psr7\Request
+     */
+    public function signRequest(Request $request)
+    {
+        // initial URI
+        $uri = $request->getUri();
+
+        // new query values from SAS token
+        $queryValues = explode('&', $this->sasToken);
+
+        // append SAS token query values to existing URI
+        foreach ($queryValues as $queryField) {
+            list($key, $value) = explode('=', $queryField);
+
+            $uri = \GuzzleHttp\Psr7\Uri::withQueryValue($uri, $key, $value);
+        }
+
+        // replace URI
+        return $request->withUri($uri, true);
+    }
+}

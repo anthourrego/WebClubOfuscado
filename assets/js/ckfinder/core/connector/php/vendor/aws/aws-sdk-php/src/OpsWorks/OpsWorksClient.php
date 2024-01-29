@@ -1,50 +1,158 @@
-<?php //ICB0 56:0 71:8b2                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\OpsWorks;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cPvKFSkKYxaRBExJdnhCRx0l5ggFAFmXrr/yL0Sw0lJ+EqOFYKZsVDjX8B2Ur4SoSkg9HJo78
-u3THkUx4KrrAFrJiES/Ydwy5dbTH1NmJEnaa/IYruuESJxE6vkShBI1bkUjEcxIP4ansq27OSduK
-0PijcaODDhd4BNw8hChL/iYTE8M3krKoDHdN9tDoxo/AfhC2Tut+Tvk3ZTBr5lekp/apEQDVA1Ox
-nTKbT0m/iIeqpCKmhyvi9Zj/83MHrEHLzECFlUwG0loEdbUqYTiSzzDhxb3PQUj+kD5Lt9PMrSn6
-vIESGF+RQ1ByrxwWdjH0o/66+2CfmXlPGzqPsXS165sCvz0bTTNuFgSw2fgU/Ge+vgbWHd6/rZX+
-h1/ToShWMXIQNw0VV6Fz72jtwgkHuT9LBt73l823Fc/yuQhKAuyJr0rjztD/bFOuS7qYIVGLc53D
-c7OhHaPOmlJMR6yfk8XHjkG3wg1d3XHslYeTHpclfllLY76C198T786JfVskt0Q/HPoMeR5lgu83
-zQdnZzKrbuL+kWU4RJ40BMWlc7+ku+3sgjEIAj/DvwCdTIcwxYG7gB7gDpBfrNTBgKaDBqiieVVw
-uZgEjnZ091eV5rG8UdcqDMBSnD+P1sghxagrRwmdPWPmC6U/qfOogexFuMr8Guota7wt6OtOb5YJ
-WfLYMHMbng5EYdEELxVV8CIlDfdO1Vqg390cFJHJGqVbxWSNpDsj34H7MNcBEMk3+8r0nW0QDQle
-cBpTQiljlVC+VtcDYw0vRpkm9v0ZFKhSdQ85TqJe0g2FAWVl2LCYJxF9i0bQUjzhcPaVm6xtTFXq
-7ugjLfglHgFJGcQJmvFxg2Lzks1i0HMjZtmGKWdDLgoY8yPGD4xcNiXhcCy0MtGDLDTYaVDp+hHU
-NNqO68/D6I2xwuOR1BnatKbQiB/FE1rAZZlce5fwmNCvXT8x8KnQa+4WNaBVyyLEunJ8CTEjr5a0
-ya6mSShfks3/xqk9XXzJ1rNBpaWY5pI4hcE0yu+fKGnXl6rwOcKMq/aLjQyFdkUc7IX8YEspxwf/
-0woRzyDFVDrl9nFlPxTAnwKeEpVhM0t+zinWS9anajYxwGpTzGzGIAMV5pKqJW55b9MoOtJvQZia
-Qu8gGYr/1A/WgAUuDCjVP9UY0xnU5xE1OBh6lKZgZg3BhkEv7KKH59L52oVG6IJ2OqU5RTwpbuVB
-U/WQrW+lJV3OT0MOSezbut/BrEIXpWWL26kBoM4r38gKBi0C3FzmUsC+ok+nhAciE6oszxQRuYFD
-aHByKYv8n5s5oshFjUv9pU1t5C+XZnoD9kEdhtrXxm===
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use Aws\AwsClient;
 
-?>
-HR+cP+UdVsq6SqH3tn/gJYwfEcxO+uarvK8iR/veIMWuI/qe996MoNBk2LmHKn9yTULmZmWdcXy/
-FT6M/y/1vImROXCwILFPUtHdB0dyPemIGoWQq8uoHD4/SuuKiZQYosdJNrW38WqkUvc/t6Q01IXJ
-yw7qaM/rOCveUUlBXavG3GehqkMnJtvejr6a/IbsXE2wPvtb2RBNfab8eZyk/PDlXW3Xq6XwTTGB
-I6aQyL5d5twmLoXkCyHvTiK1JcKjnAcb8cRz6fQCiXVt9JsiVp1S6WJbXmGgOIXCBjvAcRyU7Ww3
-bZXm5l/qgK/OI/0iWHiYsi0GRFasJfh0xr5w5H8BugBEhH/QitzJ4/8hd+SOGzaSPqu4QWu7rF1i
-ebulGyMAqdD37PDdqz7tnZBBzfIl1KwSEunc1OqCbzpCXfbHrLIPJVi2LB6o+VBJ4QlcP7T3kH2x
-XqvxcJikh3jl68ICjeIlU/MOyYREdP6w7Pu91BTm7w9b3uzPus/2v9XyqTJvjABi/f7gNUxY6qbS
-NrnLeVYdryPiW2trxJ415egfpTocbabOfRAFNJEr2tH6sMRUXKPXGxO8ExFfQdM1CkTd280YefO0
-TxOjRiB+qgp59aq2XHcBPiTvdQDE7z9l0kM5I/Hgcwy73y0omtQLSgX/LunZgfrqseSM4p9Nhjoh
-PY34Xs0g8wN2b+iz1k/nRGGIXbBG5bZDTsA5fTE2OkItc1fxz+xHPEOlx+vtjPF7S442ZSrOGe4P
-C7UJmsM4viPyUj/K8LMANv5cJktDfyk36c29GP/ajgCKNo/DwHbTX6KoV3OMElPImaDCeCKSvYC2
-Bf1a5dhIAl1zQ5BWb9NafNM4IGAA1vIvB6ZlvyAI/qrfr12cfyjYpjGhYh5fEKL93/6r2pj10PUO
-4hhJlMcFh+3ke3GFfq2+p0NE6TMWCZYCd7eju8pOPTqk1htz/vOrWBtHkfqWx6iAp8/z3fYXDUUu
-ED5fICgYTYmIdPf13vH7UFw/XW1H4BmMY8Ke/C4HcoCcnbkPWWiqUt+xXRwx6ANfd/2hT92+AetC
-MqTOhB3MtzepOpJLI+rZrGmUUCSlw5wiodfPxo+ehiVrqKVnrd1U4/Jw2HRhpSJ+dqfegujuFV4g
-3/EfykW3c3U/ziQtBR4AoG4PiUoi7YASyyz9TrzlWGFOnkzi0Oaoh9wbf1cfxSQTVhX37QGpRdOB
-YaonI55AnSPvJQvJMkISccORqYAiWDwHzydVwr9GSsxnbp9GChwF1G6YZAr1dJDeWeEmE+NejbOj
-ZuqGtf/fDOd3JpY3RZ3lIpt2kmgaTeEyuizgACKeCLbBGDcwtuyJMn0RzYyZhs9VL5R3Sn2vOHtq
-5H5opaYTeKMaiDGImubLQh2EQvrAP8oZEfuKJW==
+/**
+ * This client is used to interact with the **AWS OpsWorks** service.
+ *
+ * @method \Aws\Result assignInstance(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise assignInstanceAsync(array $args = [])
+ * @method \Aws\Result assignVolume(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise assignVolumeAsync(array $args = [])
+ * @method \Aws\Result associateElasticIp(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise associateElasticIpAsync(array $args = [])
+ * @method \Aws\Result attachElasticLoadBalancer(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise attachElasticLoadBalancerAsync(array $args = [])
+ * @method \Aws\Result cloneStack(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise cloneStackAsync(array $args = [])
+ * @method \Aws\Result createApp(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createAppAsync(array $args = [])
+ * @method \Aws\Result createDeployment(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createDeploymentAsync(array $args = [])
+ * @method \Aws\Result createInstance(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createInstanceAsync(array $args = [])
+ * @method \Aws\Result createLayer(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createLayerAsync(array $args = [])
+ * @method \Aws\Result createStack(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createStackAsync(array $args = [])
+ * @method \Aws\Result createUserProfile(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createUserProfileAsync(array $args = [])
+ * @method \Aws\Result deleteApp(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteAppAsync(array $args = [])
+ * @method \Aws\Result deleteInstance(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteInstanceAsync(array $args = [])
+ * @method \Aws\Result deleteLayer(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteLayerAsync(array $args = [])
+ * @method \Aws\Result deleteStack(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteStackAsync(array $args = [])
+ * @method \Aws\Result deleteUserProfile(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteUserProfileAsync(array $args = [])
+ * @method \Aws\Result deregisterEcsCluster(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deregisterEcsClusterAsync(array $args = [])
+ * @method \Aws\Result deregisterElasticIp(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deregisterElasticIpAsync(array $args = [])
+ * @method \Aws\Result deregisterInstance(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deregisterInstanceAsync(array $args = [])
+ * @method \Aws\Result deregisterRdsDbInstance(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deregisterRdsDbInstanceAsync(array $args = [])
+ * @method \Aws\Result deregisterVolume(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deregisterVolumeAsync(array $args = [])
+ * @method \Aws\Result describeAgentVersions(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeAgentVersionsAsync(array $args = [])
+ * @method \Aws\Result describeApps(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeAppsAsync(array $args = [])
+ * @method \Aws\Result describeCommands(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeCommandsAsync(array $args = [])
+ * @method \Aws\Result describeDeployments(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeDeploymentsAsync(array $args = [])
+ * @method \Aws\Result describeEcsClusters(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeEcsClustersAsync(array $args = [])
+ * @method \Aws\Result describeElasticIps(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeElasticIpsAsync(array $args = [])
+ * @method \Aws\Result describeElasticLoadBalancers(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeElasticLoadBalancersAsync(array $args = [])
+ * @method \Aws\Result describeInstances(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeInstancesAsync(array $args = [])
+ * @method \Aws\Result describeLayers(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeLayersAsync(array $args = [])
+ * @method \Aws\Result describeLoadBasedAutoScaling(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeLoadBasedAutoScalingAsync(array $args = [])
+ * @method \Aws\Result describeMyUserProfile(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeMyUserProfileAsync(array $args = [])
+ * @method \Aws\Result describeOperatingSystems(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeOperatingSystemsAsync(array $args = [])
+ * @method \Aws\Result describePermissions(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describePermissionsAsync(array $args = [])
+ * @method \Aws\Result describeRaidArrays(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeRaidArraysAsync(array $args = [])
+ * @method \Aws\Result describeRdsDbInstances(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeRdsDbInstancesAsync(array $args = [])
+ * @method \Aws\Result describeServiceErrors(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeServiceErrorsAsync(array $args = [])
+ * @method \Aws\Result describeStackProvisioningParameters(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeStackProvisioningParametersAsync(array $args = [])
+ * @method \Aws\Result describeStackSummary(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeStackSummaryAsync(array $args = [])
+ * @method \Aws\Result describeStacks(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeStacksAsync(array $args = [])
+ * @method \Aws\Result describeTimeBasedAutoScaling(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeTimeBasedAutoScalingAsync(array $args = [])
+ * @method \Aws\Result describeUserProfiles(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeUserProfilesAsync(array $args = [])
+ * @method \Aws\Result describeVolumes(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeVolumesAsync(array $args = [])
+ * @method \Aws\Result detachElasticLoadBalancer(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise detachElasticLoadBalancerAsync(array $args = [])
+ * @method \Aws\Result disassociateElasticIp(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise disassociateElasticIpAsync(array $args = [])
+ * @method \Aws\Result getHostnameSuggestion(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getHostnameSuggestionAsync(array $args = [])
+ * @method \Aws\Result grantAccess(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise grantAccessAsync(array $args = [])
+ * @method \Aws\Result listTags(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listTagsAsync(array $args = [])
+ * @method \Aws\Result rebootInstance(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise rebootInstanceAsync(array $args = [])
+ * @method \Aws\Result registerEcsCluster(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise registerEcsClusterAsync(array $args = [])
+ * @method \Aws\Result registerElasticIp(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise registerElasticIpAsync(array $args = [])
+ * @method \Aws\Result registerInstance(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise registerInstanceAsync(array $args = [])
+ * @method \Aws\Result registerRdsDbInstance(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise registerRdsDbInstanceAsync(array $args = [])
+ * @method \Aws\Result registerVolume(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise registerVolumeAsync(array $args = [])
+ * @method \Aws\Result setLoadBasedAutoScaling(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise setLoadBasedAutoScalingAsync(array $args = [])
+ * @method \Aws\Result setPermission(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise setPermissionAsync(array $args = [])
+ * @method \Aws\Result setTimeBasedAutoScaling(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise setTimeBasedAutoScalingAsync(array $args = [])
+ * @method \Aws\Result startInstance(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise startInstanceAsync(array $args = [])
+ * @method \Aws\Result startStack(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise startStackAsync(array $args = [])
+ * @method \Aws\Result stopInstance(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise stopInstanceAsync(array $args = [])
+ * @method \Aws\Result stopStack(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise stopStackAsync(array $args = [])
+ * @method \Aws\Result tagResource(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise tagResourceAsync(array $args = [])
+ * @method \Aws\Result unassignInstance(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise unassignInstanceAsync(array $args = [])
+ * @method \Aws\Result unassignVolume(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise unassignVolumeAsync(array $args = [])
+ * @method \Aws\Result untagResource(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise untagResourceAsync(array $args = [])
+ * @method \Aws\Result updateApp(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateAppAsync(array $args = [])
+ * @method \Aws\Result updateElasticIp(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateElasticIpAsync(array $args = [])
+ * @method \Aws\Result updateInstance(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateInstanceAsync(array $args = [])
+ * @method \Aws\Result updateLayer(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateLayerAsync(array $args = [])
+ * @method \Aws\Result updateMyUserProfile(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateMyUserProfileAsync(array $args = [])
+ * @method \Aws\Result updateRdsDbInstance(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateRdsDbInstanceAsync(array $args = [])
+ * @method \Aws\Result updateStack(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateStackAsync(array $args = [])
+ * @method \Aws\Result updateUserProfile(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateUserProfileAsync(array $args = [])
+ * @method \Aws\Result updateVolume(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateVolumeAsync(array $args = [])
+ */
+class OpsWorksClient extends AwsClient {}

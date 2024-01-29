@@ -1,97 +1,71 @@
-<?php //ICB0 56:0 71:f64                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cPoXasEt4pY32aTHDpfESbt1YWDDsWi8ZnOYusq07sUc4x9mMZZbOEF0dGoAWSOCt8IGeM6Lx
-Iv2ntbtFU2P7UVLt2+UDLXA1KcTWSosLpCnArJJZEX04AK5gpMeYc5TjJOp6S/MP2ai7xp+CWBk9
-iLqlieLdr0REJei1eif+f1k4dfokuHWvyykyy307ORTv9mVZeXXcYCpVE/nlOwfRCmRh2ILM0mpI
-IBB/MUybVBakN0cPORwxfsz5Vuy9v/W6j0xbxf02/8wULxI9snptqslkKBTc7opbMbcxkPkqZmwP
-+KHU6sFrp8vC+WFx8LctdOpblkkr+LKSTsXOihPGx9ua5is6jbu0UnxjghJZ5A+4xTFLVXPLXP82
-2DdEdCcFpmhjbPGszzgPs9E2FeyTwjKwRU8loZIZi/4M72vT565iksxjep6uygNvF/8sdithh/bK
-WrmbqMBs5bc+KEs2OKWEoZiGJq6Br7s83ox11TfuLfkpfzhQH2Hr4oVdMJ+xlGYpSkI03MPgnC4e
-bMO8uGfFp9SUTJL1ca1d+Z+YyyXZ4a4I6AFJH4pkOrpzvp6T/rV8Mj1QYGpHT/2D82R29iiB6Z02
-Zo2hFRIQzXAL9+Hubcji5Qy3vt8xSLKAD2aOBDuHX9TMmWNxd5pBii3a8zsLcVwx6OUbyNZ5JiJ7
-xjpDl2BtBbtrrRxQ0NOd7pvxKUOBAK/C2EFTQJUSQqlG3PFHDjrRoRLrmB0oCXr2qy6bkmHVodbp
-xMKGVqvsHMoJAuJ1cpsZeptGfSGK3UEXy+hsGkRx+tHZTrMqb06zTMtPCe5OUjkXTMbprX5G28Sm
-vGlO3MATjksez+SAAA76QlO7XtDcVWAGQX2Y5xmDbMtX6aoffWqEKz/oELEoNfH648M1aFbr4mQe
-+lxR/0inkgKWoHE7ZTgSVYWp3ozQo5vH+j5o+Pd6DqimvUO2VM3vjuvqg1a4TVMmkTe3aUjNdOea
-3oI7PgEqTGuMei8d2wIIJ4dhTWMj5732vVx54NIb3KXAl2WFp9c3/E8tqhK8rMHa7eDrdINRmWdj
-fsnwI+ihwAF1xJ9O8QapOi1IHyU9ovGsTEQbhln6XZfFbF8fefDlRBIVxgLBd7blJDGgxqzSt3rk
-rClTcsgk6PXszq7gPeCk4oJhAvORshjNpnZ/SRNYAOZY9ZcUETQlbFy7lZbyeUvNd76kJal/iBEK
-AcvVsSbci8llAbg+rW03nkcHzMG3VbBnOI7c56bYHPrBZMZjpoW7sz25MMfUb4xdntRGKTyIWHEN
-ygZdYqJK/nSBJ6DQpvCXhrgfikOBq8Zj7g4AFguggzBroZejZdipTPDTcaWc3kuCn6GZKBCec2F6
-CcfaXgDCyAnwexkFmguSDkN81TGW/olfgXooyhhR4+/7+b53BtKtMmv7faou3qPnWkMOQ7ykgxZK
-4dVD2hINIB4tfDaILfqJJsbL8bygPUH3r/ikMVxuNTA39AjFt5L9eg65jKY1jdvnz2LtIbLRs/Ja
-DQHhwSwxqFsVg7/bmQN28HsU1Tpawt9ofm1kFj7VFHctyalEYyRHtVh4qvqiO7rZTkYBtO5+5q7S
-ZhokM+8p5FeVBq0fXsiJ3ZyNEafG8PZPLnhQBJJNBSpXXBw5Zr47eZYg5z8mXFGo+btnjVRCGzQC
-S2gabvdho3zopiVXvLHOxU05vNR/8Kt6gY8lsRPNvORiiJGUNyx2kof2fXlViQmrCPqaAaTfqis0
-qEsxYO61ycs54HO62DHO/5R0+evwo29/5zHeEk4STCcSraWat1QFsnybRuhfVhuJIX7wGRsgpEHT
-GqJol6RkVwVtiVoksnvbc7CGdowEX048Be2jYZSVt0q3Gc01pefqDS9RIkuosAxYrHTy0nxu+EEg
-zYQ1G3YeBCbAxoFDFU+fpeXWNeAPlUbnJwCWiNCuC1ydaQ4573Ziokj9DP1PTR7zXylM3aioePqq
-+kBIn6IuU3NP3qU7v9HuFJPwxJxhhnWCFl+P3h35I82k/aeExjqb25+gIFbQ9eSwMtKTtFLWAQNL
-m6qurIKQ+NFbkFUe96HTvMhTOf3t9MECAF013S2HWOevFnoj+1VLrbHvMrQyM/rPBF0UkFjGdt+E
-uNOf/BDJI8rZrTzM2aDlGB51NOKZ3iaZEcidBEXI5fM1QmFwFmk1K4UmGiZP19WqH3ci3uERbqk9
-mUWAXJvkMHBLKok7Y3JE20txJ1CMq3Urc/MxAHsiODlZwVFzlHaUznAHXzrV9Yt7+WLbRXk40VAP
-8jzGfUCV9T01Zi47MaIT/N8QwnBjWJhMMbGCz9B1jdXt1EPfYBorsAc1Tdsq/YujxOwBe/sz0MhK
-kvHi2kzX//UKpxOg55bej4sHvjoZwiyw3LP1x57F7DMzlHcVPgsQ1I3noV60Nd5kS3rBCc+XItm4
-zYNQanSCt8ucDKoUvEMC7nUFsegk85CckWjyYVYde9diLL4d38j/IwfSWIv+POugSgdLje02IA8w
-wqubwuwuixbgSlfzL8euC+OlN/8rLj7bScdcYgxwPrvYuH3BNyTiVGL/m+md/vRElnfo4VXfATTZ
-0eTUEvVjqebxqJENHf1g3gmacr7Yw+QGKP9pa5ntjXfYeMQ4J2qvXNQA4KbIO+TvsgeMivE/X59E
-CGsWhU1PEcdfX5iYNBUXmz/aksMmBS3yrGPnhj3N/hCd2OpG5xJ8K6j72AJmnUQRYVTUsutl8HNM
-TdCmzJM3jrZnOfod9LDX7j0OJ41lok12WtgHQ0sQrWBV9as9yQ0Ibo6KLwn6clNvf4BWQi5RCw44
-Xlowd2wFA0UU9cevLpjRi+kwkaLQVOqSt7XedmuFu/5I5CAq1u3nKLUlSJBaWksXNjry6v7PL2zd
-1Y5O9DfTo+OwGDXC57t4sK+wEa1/R6oI3/U77U9fXMgdUsi31T08RAhcOSTadXcVQUkTRvq73rO5
-PYzdE+W9cYW0xEePNz8i3EPawY1zpaGXIfxK4OrfJ+1EnQR9LSe8vK2Zaxq2/aal=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/*
+ * This file is part of the Monolog package.
+ *
+ * (c) Jordi Boggiano <j.boggiano@seld.be>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
 
-?>
-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
-9Q3QIZ3l
+namespace Monolog\Handler;
+
+/**
+ * Forwards records to multiple handlers suppressing failures of each handler
+ * and continuing through to give every handler a chance to succeed.
+ *
+ * @author Craig D'Amelio <craig@damelio.ca>
+ */
+class WhatFailureGroupHandler extends GroupHandler
+{
+    /**
+     * {@inheritdoc}
+     */
+    public function handle(array $record)
+    {
+        if ($this->processors) {
+            foreach ($this->processors as $processor) {
+                $record = call_user_func($processor, $record);
+            }
+        }
+
+        foreach ($this->handlers as $handler) {
+            try {
+                $handler->handle($record);
+            } catch (\Exception $e) {
+                // What failure?
+            } catch (\Throwable $e) {
+                // What failure?
+            }
+        }
+
+        return false === $this->bubble;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function handleBatch(array $records)
+    {
+        if ($this->processors) {
+            $processed = array();
+            foreach ($records as $record) {
+                foreach ($this->processors as $processor) {
+                    $processed[] = call_user_func($processor, $record);
+                }
+            }
+            $records = $processed;
+        }
+
+        foreach ($this->handlers as $handler) {
+            try {
+                $handler->handleBatch($records);
+            } catch (\Exception $e) {
+                // What failure?
+            } catch (\Throwable $e) {
+                // What failure?
+            }
+        }
+    }
+}

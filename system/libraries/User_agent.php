@@ -1,148 +1,681 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2017, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2017, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license	http://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 1.0.0
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-JoK4WUchzugyXV9rQ0==
+/**
+ * User Agent Class
+ *
+ * Identifies the platform, browser, robot, or mobile device of the browsing agent
+ *
+ * @package		CodeIgniter
+ * @subpackage	Libraries
+ * @category	User Agent
+ * @author		EllisLab Dev Team
+ * @link		https://codeigniter.com/user_guide/libraries/user_agent.html
+ */
+class CI_User_agent {
+
+	/**
+	 * Current user-agent
+	 *
+	 * @var string
+	 */
+	public $agent = NULL;
+
+	/**
+	 * Flag for if the user-agent belongs to a browser
+	 *
+	 * @var bool
+	 */
+	public $is_browser = FALSE;
+
+	/**
+	 * Flag for if the user-agent is a robot
+	 *
+	 * @var bool
+	 */
+	public $is_robot = FALSE;
+
+	/**
+	 * Flag for if the user-agent is a mobile browser
+	 *
+	 * @var bool
+	 */
+	public $is_mobile = FALSE;
+
+	/**
+	 * Languages accepted by the current user agent
+	 *
+	 * @var array
+	 */
+	public $languages = array();
+
+	/**
+	 * Character sets accepted by the current user agent
+	 *
+	 * @var array
+	 */
+	public $charsets = array();
+
+	/**
+	 * List of platforms to compare against current user agent
+	 *
+	 * @var array
+	 */
+	public $platforms = array();
+
+	/**
+	 * List of browsers to compare against current user agent
+	 *
+	 * @var array
+	 */
+	public $browsers = array();
+
+	/**
+	 * List of mobile browsers to compare against current user agent
+	 *
+	 * @var array
+	 */
+	public $mobiles = array();
+
+	/**
+	 * List of robots to compare against current user agent
+	 *
+	 * @var array
+	 */
+	public $robots = array();
+
+	/**
+	 * Current user-agent platform
+	 *
+	 * @var string
+	 */
+	public $platform = '';
+
+	/**
+	 * Current user-agent browser
+	 *
+	 * @var string
+	 */
+	public $browser = '';
+
+	/**
+	 * Current user-agent version
+	 *
+	 * @var string
+	 */
+	public $version = '';
+
+	/**
+	 * Current user-agent mobile name
+	 *
+	 * @var string
+	 */
+	public $mobile = '';
+
+	/**
+	 * Current user-agent robot name
+	 *
+	 * @var string
+	 */
+	public $robot = '';
+
+	/**
+	 * HTTP Referer
+	 *
+	 * @var	mixed
+	 */
+	public $referer;
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Constructor
+	 *
+	 * Sets the User Agent and runs the compilation routine
+	 *
+	 * @return	void
+	 */
+	public function __construct()
+	{
+		$this->_load_agent_file();
+
+		if (isset($_SERVER['HTTP_USER_AGENT']))
+		{
+			$this->agent = trim($_SERVER['HTTP_USER_AGENT']);
+			$this->_compile_data();
+		}
+
+		log_message('info', 'User Agent Class Initialized');
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Compile the User Agent Data
+	 *
+	 * @return	bool
+	 */
+	protected function _load_agent_file()
+	{
+		if (($found = file_exists(APPPATH.'config/user_agents.php')))
+		{
+			include(APPPATH.'config/user_agents.php');
+		}
+
+		if (file_exists(APPPATH.'config/'.ENVIRONMENT.'/user_agents.php'))
+		{
+			include(APPPATH.'config/'.ENVIRONMENT.'/user_agents.php');
+			$found = TRUE;
+		}
+
+		if ($found !== TRUE)
+		{
+			return FALSE;
+		}
+
+		$return = FALSE;
+
+		if (isset($platforms))
+		{
+			$this->platforms = $platforms;
+			unset($platforms);
+			$return = TRUE;
+		}
+
+		if (isset($browsers))
+		{
+			$this->browsers = $browsers;
+			unset($browsers);
+			$return = TRUE;
+		}
+
+		if (isset($mobiles))
+		{
+			$this->mobiles = $mobiles;
+			unset($mobiles);
+			$return = TRUE;
+		}
+
+		if (isset($robots))
+		{
+			$this->robots = $robots;
+			unset($robots);
+			$return = TRUE;
+		}
+
+		return $return;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Compile the User Agent Data
+	 *
+	 * @return	bool
+	 */
+	protected function _compile_data()
+	{
+		$this->_set_platform();
+
+		foreach (array('_set_robot', '_set_browser', '_set_mobile') as $function)
+		{
+			if ($this->$function() === TRUE)
+			{
+				break;
+			}
+		}
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Set the Platform
+	 *
+	 * @return	bool
+	 */
+	protected function _set_platform()
+	{
+		if (is_array($this->platforms) && count($this->platforms) > 0)
+		{
+			foreach ($this->platforms as $key => $val)
+			{
+				if (preg_match('|'.preg_quote($key).'|i', $this->agent))
+				{
+					$this->platform = $val;
+					return TRUE;
+				}
+			}
+		}
+
+		$this->platform = 'Unknown Platform';
+		return FALSE;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Set the Browser
+	 *
+	 * @return	bool
+	 */
+	protected function _set_browser()
+	{
+		if (is_array($this->browsers) && count($this->browsers) > 0)
+		{
+			foreach ($this->browsers as $key => $val)
+			{
+				if (preg_match('|'.$key.'.*?([0-9\.]+)|i', $this->agent, $match))
+				{
+					$this->is_browser = TRUE;
+					$this->version = $match[1];
+					$this->browser = $val;
+					$this->_set_mobile();
+					return TRUE;
+				}
+			}
+		}
+
+		return FALSE;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Set the Robot
+	 *
+	 * @return	bool
+	 */
+	protected function _set_robot()
+	{
+		if (is_array($this->robots) && count($this->robots) > 0)
+		{
+			foreach ($this->robots as $key => $val)
+			{
+				if (preg_match('|'.preg_quote($key).'|i', $this->agent))
+				{
+					$this->is_robot = TRUE;
+					$this->robot = $val;
+					$this->_set_mobile();
+					return TRUE;
+				}
+			}
+		}
+
+		return FALSE;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Set the Mobile Device
+	 *
+	 * @return	bool
+	 */
+	protected function _set_mobile()
+	{
+		if (is_array($this->mobiles) && count($this->mobiles) > 0)
+		{
+			foreach ($this->mobiles as $key => $val)
+			{
+				if (FALSE !== (stripos($this->agent, $key)))
+				{
+					$this->is_mobile = TRUE;
+					$this->mobile = $val;
+					return TRUE;
+				}
+			}
+		}
+
+		return FALSE;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Set the accepted languages
+	 *
+	 * @return	void
+	 */
+	protected function _set_languages()
+	{
+		if ((count($this->languages) === 0) && ! empty($_SERVER['HTTP_ACCEPT_LANGUAGE']))
+		{
+			$this->languages = explode(',', preg_replace('/(;\s?q=[0-9\.]+)|\s/i', '', strtolower(trim($_SERVER['HTTP_ACCEPT_LANGUAGE']))));
+		}
+
+		if (count($this->languages) === 0)
+		{
+			$this->languages = array('Undefined');
+		}
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Set the accepted character sets
+	 *
+	 * @return	void
+	 */
+	protected function _set_charsets()
+	{
+		if ((count($this->charsets) === 0) && ! empty($_SERVER['HTTP_ACCEPT_CHARSET']))
+		{
+			$this->charsets = explode(',', preg_replace('/(;\s?q=.+)|\s/i', '', strtolower(trim($_SERVER['HTTP_ACCEPT_CHARSET']))));
+		}
+
+		if (count($this->charsets) === 0)
+		{
+			$this->charsets = array('Undefined');
+		}
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Is Browser
+	 *
+	 * @param	string	$key
+	 * @return	bool
+	 */
+	public function is_browser($key = NULL)
+	{
+		if ( ! $this->is_browser)
+		{
+			return FALSE;
+		}
+
+		// No need to be specific, it's a browser
+		if ($key === NULL)
+		{
+			return TRUE;
+		}
+
+		// Check for a specific browser
+		return (isset($this->browsers[$key]) && $this->browser === $this->browsers[$key]);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Is Robot
+	 *
+	 * @param	string	$key
+	 * @return	bool
+	 */
+	public function is_robot($key = NULL)
+	{
+		if ( ! $this->is_robot)
+		{
+			return FALSE;
+		}
+
+		// No need to be specific, it's a robot
+		if ($key === NULL)
+		{
+			return TRUE;
+		}
+
+		// Check for a specific robot
+		return (isset($this->robots[$key]) && $this->robot === $this->robots[$key]);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Is Mobile
+	 *
+	 * @param	string	$key
+	 * @return	bool
+	 */
+	public function is_mobile($key = NULL)
+	{
+		if ( ! $this->is_mobile)
+		{
+			return FALSE;
+		}
+
+		// No need to be specific, it's a mobile
+		if ($key === NULL)
+		{
+			return TRUE;
+		}
+
+		// Check for a specific robot
+		return (isset($this->mobiles[$key]) && $this->mobile === $this->mobiles[$key]);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Is this a referral from another site?
+	 *
+	 * @return	bool
+	 */
+	public function is_referral()
+	{
+		if ( ! isset($this->referer))
+		{
+			if (empty($_SERVER['HTTP_REFERER']))
+			{
+				$this->referer = FALSE;
+			}
+			else
+			{
+				$referer_host = @parse_url($_SERVER['HTTP_REFERER'], PHP_URL_HOST);
+				$own_host = parse_url(config_item('base_url'), PHP_URL_HOST);
+
+				$this->referer = ($referer_host && $referer_host !== $own_host);
+			}
+		}
+
+		return $this->referer;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Agent String
+	 *
+	 * @return	string
+	 */
+	public function agent_string()
+	{
+		return $this->agent;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Get Platform
+	 *
+	 * @return	string
+	 */
+	public function platform()
+	{
+		return $this->platform;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Get Browser Name
+	 *
+	 * @return	string
+	 */
+	public function browser()
+	{
+		return $this->browser;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Get the Browser Version
+	 *
+	 * @return	string
+	 */
+	public function version()
+	{
+		return $this->version;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Get The Robot Name
+	 *
+	 * @return	string
+	 */
+	public function robot()
+	{
+		return $this->robot;
+	}
+	// --------------------------------------------------------------------
+
+	/**
+	 * Get the Mobile Device
+	 *
+	 * @return	string
+	 */
+	public function mobile()
+	{
+		return $this->mobile;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Get the referrer
+	 *
+	 * @return	bool
+	 */
+	public function referrer()
+	{
+		return empty($_SERVER['HTTP_REFERER']) ? '' : trim($_SERVER['HTTP_REFERER']);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Get the accepted languages
+	 *
+	 * @return	array
+	 */
+	public function languages()
+	{
+		if (count($this->languages) === 0)
+		{
+			$this->_set_languages();
+		}
+
+		return $this->languages;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Get the accepted Character Sets
+	 *
+	 * @return	array
+	 */
+	public function charsets()
+	{
+		if (count($this->charsets) === 0)
+		{
+			$this->_set_charsets();
+		}
+
+		return $this->charsets;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Test for a particular language
+	 *
+	 * @param	string	$lang
+	 * @return	bool
+	 */
+	public function accept_lang($lang = 'en')
+	{
+		return in_array(strtolower($lang), $this->languages(), TRUE);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Test for a particular character set
+	 *
+	 * @param	string	$charset
+	 * @return	bool
+	 */
+	public function accept_charset($charset = 'utf-8')
+	{
+		return in_array(strtolower($charset), $this->charsets(), TRUE);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Parse a custom user-agent string
+	 *
+	 * @param	string	$string
+	 * @return	void
+	 */
+	public function parse($string)
+	{
+		// Reset values
+		$this->is_browser = FALSE;
+		$this->is_robot = FALSE;
+		$this->is_mobile = FALSE;
+		$this->browser = '';
+		$this->version = '';
+		$this->mobile = '';
+		$this->robot = '';
+
+		// Set the new user-agent string and parse it, unless empty
+		$this->agent = $string;
+
+		if ( ! empty($string))
+		{
+			$this->_compile_data();
+		}
+	}
+
+}

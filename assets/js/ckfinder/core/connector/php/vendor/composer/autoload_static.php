@@ -1,134 +1,201 @@
-<?php //ICB0 56:0 71:131d                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-AzJ+DbKg/h0pSqD6=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+// autoload_static.php @generated by Composer
 
-?>
-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
+namespace Composer\Autoload;
+
+class ComposerStaticInit2825f8257d28e1164f74feb45314bc0a
+{
+    public static $files = array (
+        '7b11c4dc42b3b3023073cb14e519683c' => __DIR__ . '/..' . '/ralouphie/getallheaders/src/getallheaders.php',
+        'a0edc8309cc5e1d60e3047b5df6b7052' => __DIR__ . '/..' . '/guzzlehttp/psr7/src/functions_include.php',
+        'c964ee0ededf28c96ebd9db5099ef910' => __DIR__ . '/..' . '/guzzlehttp/promises/src/functions_include.php',
+        '37a3dc5111fe8f707ab4c132ef1dbc62' => __DIR__ . '/..' . '/guzzlehttp/guzzle/src/functions_include.php',
+        '0e6d7bf4a5811bfa5cf40c5ccd6fae6a' => __DIR__ . '/..' . '/symfony/polyfill-mbstring/bootstrap.php',
+        'b067bc7112e384b61c701452d53a14a8' => __DIR__ . '/..' . '/mtdowling/jmespath.php/src/JmesPath.php',
+        '8a9dc1de0ca7e01f3e08231539562f61' => __DIR__ . '/..' . '/aws/aws-sdk-php/src/functions.php',
+        '320cde22f66dd4f5d3fd621d3e88b98f' => __DIR__ . '/..' . '/symfony/polyfill-ctype/bootstrap.php',
+    );
+
+    public static $prefixLengthsPsr4 = array (
+        'S' => 
+        array (
+            'Symfony\\Polyfill\\Mbstring\\' => 26,
+            'Symfony\\Polyfill\\Ctype\\' => 23,
+            'Symfony\\Component\\HttpKernel\\' => 29,
+            'Symfony\\Component\\HttpFoundation\\' => 33,
+            'Symfony\\Component\\EventDispatcher\\' => 34,
+            'Symfony\\Component\\Debug\\' => 24,
+            'Spatie\\FlysystemDropbox\\' => 24,
+            'Spatie\\Dropbox\\' => 15,
+        ),
+        'P' => 
+        array (
+            'Psr\\Log\\' => 8,
+            'Psr\\Http\\Message\\' => 17,
+            'Psr\\Container\\' => 14,
+            'Psr\\Cache\\' => 10,
+        ),
+        'M' => 
+        array (
+            'Monolog\\' => 8,
+            'MicrosoftAzure\\Storage\\' => 23,
+        ),
+        'L' => 
+        array (
+            'League\\Flysystem\\Cached\\' => 24,
+            'League\\Flysystem\\Azure\\' => 23,
+            'League\\Flysystem\\AwsS3v3\\' => 25,
+            'League\\Flysystem\\' => 17,
+        ),
+        'J' => 
+        array (
+            'JmesPath\\' => 9,
+        ),
+        'G' => 
+        array (
+            'GuzzleHttp\\Psr7\\' => 16,
+            'GuzzleHttp\\Promise\\' => 19,
+            'GuzzleHttp\\' => 11,
+        ),
+        'C' => 
+        array (
+            'CKSource\\CKFinder\\Plugin\\' => 25,
+        ),
+        'A' => 
+        array (
+            'Aws\\' => 4,
+        ),
+    );
+
+    public static $prefixDirsPsr4 = array (
+        'Symfony\\Polyfill\\Mbstring\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/symfony/polyfill-mbstring',
+        ),
+        'Symfony\\Polyfill\\Ctype\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/symfony/polyfill-ctype',
+        ),
+        'Symfony\\Component\\HttpKernel\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/symfony/http-kernel',
+        ),
+        'Symfony\\Component\\HttpFoundation\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/symfony/http-foundation',
+        ),
+        'Symfony\\Component\\EventDispatcher\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/symfony/event-dispatcher',
+        ),
+        'Symfony\\Component\\Debug\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/symfony/debug',
+        ),
+        'Spatie\\FlysystemDropbox\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/spatie/flysystem-dropbox/src',
+        ),
+        'Spatie\\Dropbox\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/spatie/dropbox-api/src',
+        ),
+        'Psr\\Log\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/psr/log/Psr/Log',
+        ),
+        'Psr\\Http\\Message\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/psr/http-message/src',
+        ),
+        'Psr\\Container\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/psr/container/src',
+        ),
+        'Psr\\Cache\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/psr/cache/src',
+        ),
+        'Monolog\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/monolog/monolog/src/Monolog',
+        ),
+        'MicrosoftAzure\\Storage\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/microsoft/azure-storage/src',
+        ),
+        'League\\Flysystem\\Cached\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/league/flysystem-cached-adapter/src',
+        ),
+        'League\\Flysystem\\Azure\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/league/flysystem-azure/src',
+        ),
+        'League\\Flysystem\\AwsS3v3\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/league/flysystem-aws-s3-v3/src',
+        ),
+        'League\\Flysystem\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/league/flysystem/src',
+        ),
+        'JmesPath\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/mtdowling/jmespath.php/src',
+        ),
+        'GuzzleHttp\\Psr7\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/guzzlehttp/psr7/src',
+        ),
+        'GuzzleHttp\\Promise\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/guzzlehttp/promises/src',
+        ),
+        'GuzzleHttp\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/guzzlehttp/guzzle/src',
+        ),
+        'CKSource\\CKFinder\\Plugin\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/cksource/ckfinder/plugins',
+        ),
+        'Aws\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/aws/aws-sdk-php/src',
+        ),
+    );
+
+    public static $prefixesPsr0 = array (
+        'P' => 
+        array (
+            'Pimple' => 
+            array (
+                0 => __DIR__ . '/..' . '/pimple/pimple/src',
+            ),
+        ),
+        'C' => 
+        array (
+            'CKSource' => 
+            array (
+                0 => __DIR__ . '/..' . '/cksource/ckfinder/src',
+            ),
+        ),
+    );
+
+    public static $classMap = array (
+        'SessionHandlerInterface' => __DIR__ . '/..' . '/symfony/http-foundation/Resources/stubs/SessionHandlerInterface.php',
+    );
+
+    public static function getInitializer(ClassLoader $loader)
+    {
+        return \Closure::bind(function () use ($loader) {
+            $loader->prefixLengthsPsr4 = ComposerStaticInit2825f8257d28e1164f74feb45314bc0a::$prefixLengthsPsr4;
+            $loader->prefixDirsPsr4 = ComposerStaticInit2825f8257d28e1164f74feb45314bc0a::$prefixDirsPsr4;
+            $loader->prefixesPsr0 = ComposerStaticInit2825f8257d28e1164f74feb45314bc0a::$prefixesPsr0;
+            $loader->classMap = ComposerStaticInit2825f8257d28e1164f74feb45314bc0a::$classMap;
+
+        }, null, ClassLoader::class);
+    }
+}

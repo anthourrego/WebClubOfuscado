@@ -1,253 +1,317 @@
-<?php //ICB0 56:0 71:24e4                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\S3;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-P6idgbgh0QhmWGJWj8t43QS==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use Aws\CacheInterface;
+use Aws\CommandInterface;
+use Aws\LruArrayCache;
+use Aws\MultiRegionClient as BaseClient;
+use Aws\Exception\AwsException;
+use Aws\S3\Exception\PermanentRedirectException;
+use GuzzleHttp\Promise;
 
-?>
-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
+/**
+ * **Amazon Simple Storage Service** multi-region client.
+ *
+ * @method \Aws\Result abortMultipartUpload(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise abortMultipartUploadAsync(array $args = [])
+ * @method \Aws\Result completeMultipartUpload(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise completeMultipartUploadAsync(array $args = [])
+ * @method \Aws\Result copyObject(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise copyObjectAsync(array $args = [])
+ * @method \Aws\Result createBucket(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createBucketAsync(array $args = [])
+ * @method \Aws\Result createMultipartUpload(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createMultipartUploadAsync(array $args = [])
+ * @method \Aws\Result deleteBucket(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteBucketAsync(array $args = [])
+ * @method \Aws\Result deleteBucketAnalyticsConfiguration(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteBucketAnalyticsConfigurationAsync(array $args = [])
+ * @method \Aws\Result deleteBucketCors(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteBucketCorsAsync(array $args = [])
+ * @method \Aws\Result deleteBucketEncryption(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteBucketEncryptionAsync(array $args = [])
+ * @method \Aws\Result deleteBucketInventoryConfiguration(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteBucketInventoryConfigurationAsync(array $args = [])
+ * @method \Aws\Result deleteBucketLifecycle(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteBucketLifecycleAsync(array $args = [])
+ * @method \Aws\Result deleteBucketMetricsConfiguration(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteBucketMetricsConfigurationAsync(array $args = [])
+ * @method \Aws\Result deleteBucketPolicy(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteBucketPolicyAsync(array $args = [])
+ * @method \Aws\Result deleteBucketReplication(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteBucketReplicationAsync(array $args = [])
+ * @method \Aws\Result deleteBucketTagging(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteBucketTaggingAsync(array $args = [])
+ * @method \Aws\Result deleteBucketWebsite(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteBucketWebsiteAsync(array $args = [])
+ * @method \Aws\Result deleteObject(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteObjectAsync(array $args = [])
+ * @method \Aws\Result deleteObjectTagging(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteObjectTaggingAsync(array $args = [])
+ * @method \Aws\Result deleteObjects(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteObjectsAsync(array $args = [])
+ * @method \Aws\Result getBucketAccelerateConfiguration(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getBucketAccelerateConfigurationAsync(array $args = [])
+ * @method \Aws\Result getBucketAcl(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getBucketAclAsync(array $args = [])
+ * @method \Aws\Result getBucketAnalyticsConfiguration(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getBucketAnalyticsConfigurationAsync(array $args = [])
+ * @method \Aws\Result getBucketCors(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getBucketCorsAsync(array $args = [])
+ * @method \Aws\Result getBucketEncryption(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getBucketEncryptionAsync(array $args = [])
+ * @method \Aws\Result getBucketInventoryConfiguration(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getBucketInventoryConfigurationAsync(array $args = [])
+ * @method \Aws\Result getBucketLifecycle(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getBucketLifecycleAsync(array $args = [])
+ * @method \Aws\Result getBucketLifecycleConfiguration(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getBucketLifecycleConfigurationAsync(array $args = [])
+ * @method \Aws\Result getBucketLocation(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getBucketLocationAsync(array $args = [])
+ * @method \Aws\Result getBucketLogging(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getBucketLoggingAsync(array $args = [])
+ * @method \Aws\Result getBucketMetricsConfiguration(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getBucketMetricsConfigurationAsync(array $args = [])
+ * @method \Aws\Result getBucketNotification(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getBucketNotificationAsync(array $args = [])
+ * @method \Aws\Result getBucketNotificationConfiguration(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getBucketNotificationConfigurationAsync(array $args = [])
+ * @method \Aws\Result getBucketPolicy(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getBucketPolicyAsync(array $args = [])
+ * @method \Aws\Result getBucketReplication(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getBucketReplicationAsync(array $args = [])
+ * @method \Aws\Result getBucketRequestPayment(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getBucketRequestPaymentAsync(array $args = [])
+ * @method \Aws\Result getBucketTagging(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getBucketTaggingAsync(array $args = [])
+ * @method \Aws\Result getBucketVersioning(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getBucketVersioningAsync(array $args = [])
+ * @method \Aws\Result getBucketWebsite(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getBucketWebsiteAsync(array $args = [])
+ * @method \Aws\Result getObject(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getObjectAsync(array $args = [])
+ * @method \Aws\Result getObjectAcl(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getObjectAclAsync(array $args = [])
+ * @method \Aws\Result getObjectTagging(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getObjectTaggingAsync(array $args = [])
+ * @method \Aws\Result getObjectTorrent(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getObjectTorrentAsync(array $args = [])
+ * @method \Aws\Result headBucket(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise headBucketAsync(array $args = [])
+ * @method \Aws\Result headObject(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise headObjectAsync(array $args = [])
+ * @method \Aws\Result listBucketAnalyticsConfigurations(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listBucketAnalyticsConfigurationsAsync(array $args = [])
+ * @method \Aws\Result listBucketInventoryConfigurations(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listBucketInventoryConfigurationsAsync(array $args = [])
+ * @method \Aws\Result listBucketMetricsConfigurations(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listBucketMetricsConfigurationsAsync(array $args = [])
+ * @method \Aws\Result listBuckets(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listBucketsAsync(array $args = [])
+ * @method \Aws\Result listMultipartUploads(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listMultipartUploadsAsync(array $args = [])
+ * @method \Aws\Result listObjectVersions(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listObjectVersionsAsync(array $args = [])
+ * @method \Aws\Result listObjects(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listObjectsAsync(array $args = [])
+ * @method \Aws\Result listObjectsV2(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listObjectsV2Async(array $args = [])
+ * @method \Aws\Result listParts(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listPartsAsync(array $args = [])
+ * @method \Aws\Result putBucketAccelerateConfiguration(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise putBucketAccelerateConfigurationAsync(array $args = [])
+ * @method \Aws\Result putBucketAcl(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise putBucketAclAsync(array $args = [])
+ * @method \Aws\Result putBucketAnalyticsConfiguration(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise putBucketAnalyticsConfigurationAsync(array $args = [])
+ * @method \Aws\Result putBucketCors(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise putBucketCorsAsync(array $args = [])
+ * @method \Aws\Result putBucketEncryption(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise putBucketEncryptionAsync(array $args = [])
+ * @method \Aws\Result putBucketInventoryConfiguration(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise putBucketInventoryConfigurationAsync(array $args = [])
+ * @method \Aws\Result putBucketLifecycle(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise putBucketLifecycleAsync(array $args = [])
+ * @method \Aws\Result putBucketLifecycleConfiguration(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise putBucketLifecycleConfigurationAsync(array $args = [])
+ * @method \Aws\Result putBucketLogging(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise putBucketLoggingAsync(array $args = [])
+ * @method \Aws\Result putBucketMetricsConfiguration(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise putBucketMetricsConfigurationAsync(array $args = [])
+ * @method \Aws\Result putBucketNotification(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise putBucketNotificationAsync(array $args = [])
+ * @method \Aws\Result putBucketNotificationConfiguration(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise putBucketNotificationConfigurationAsync(array $args = [])
+ * @method \Aws\Result putBucketPolicy(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise putBucketPolicyAsync(array $args = [])
+ * @method \Aws\Result putBucketReplication(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise putBucketReplicationAsync(array $args = [])
+ * @method \Aws\Result putBucketRequestPayment(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise putBucketRequestPaymentAsync(array $args = [])
+ * @method \Aws\Result putBucketTagging(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise putBucketTaggingAsync(array $args = [])
+ * @method \Aws\Result putBucketVersioning(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise putBucketVersioningAsync(array $args = [])
+ * @method \Aws\Result putBucketWebsite(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise putBucketWebsiteAsync(array $args = [])
+ * @method \Aws\Result putObject(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise putObjectAsync(array $args = [])
+ * @method \Aws\Result putObjectAcl(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise putObjectAclAsync(array $args = [])
+ * @method \Aws\Result putObjectTagging(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise putObjectTaggingAsync(array $args = [])
+ * @method \Aws\Result restoreObject(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise restoreObjectAsync(array $args = [])
+ * @method \Aws\Result uploadPart(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise uploadPartAsync(array $args = [])
+ * @method \Aws\Result uploadPartCopy(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise uploadPartCopyAsync(array $args = [])
+ */
+class S3MultiRegionClient extends BaseClient implements S3ClientInterface
+{
+    use S3ClientTrait;
+
+    /** @var CacheInterface */
+    private $cache;
+
+    public static function getArguments()
+    {
+        $args = parent::getArguments();
+        $regionDef = $args['region'] + ['default' => function (array &$args) {
+            $availableRegions = array_keys($args['partition']['regions']);
+            return end($availableRegions);
+        }];
+        unset($args['region']);
+
+        return $args + [
+            'bucket_region_cache' => [
+                'type' => 'config',
+                'valid' => [CacheInterface::class],
+                'doc' => 'Cache of regions in which given buckets are located.',
+                'default' => function () { return new LruArrayCache; },
+            ],
+            'region' => $regionDef,
+        ];
+    }
+
+    public function __construct(array $args)
+    {
+        parent::__construct($args);
+        $this->cache = $this->getConfig('bucket_region_cache');
+
+        $this->getHandlerList()->prependInit(
+            $this->determineRegionMiddleware(),
+            'determine_region'
+        );
+    }
+
+    private function determineRegionMiddleware()
+    {
+        return function (callable $handler) {
+            return function (CommandInterface $command) use ($handler) {
+                $cacheKey = $this->getCacheKey($command['Bucket']);
+                if (
+                    empty($command['@region']) &&
+                    $region = $this->cache->get($cacheKey)
+                ) {
+                    $command['@region'] = $region;
+                }
+
+                return Promise\coroutine(function () use (
+                    $handler,
+                    $command,
+                    $cacheKey
+                ) {
+                    try {
+                        yield $handler($command);
+                    } catch (PermanentRedirectException $e) {
+                        if (empty($command['Bucket'])) {
+                            throw $e;
+                        }
+                        $result = $e->getResult();
+                        $region = null;
+                        if (isset($result['@metadata']['headers']['x-amz-bucket-region'])) {
+                            $region = $result['@metadata']['headers']['x-amz-bucket-region'];
+                            $this->cache->set($cacheKey, $region);
+                        } else {
+                            $region = (yield $this->determineBucketRegionAsync(
+                                $command['Bucket']
+                            ));
+                        }
+
+                        $command['@region'] = $region;
+                        yield $handler($command);
+                    } catch (AwsException $e) {
+                        if ($e->getAwsErrorCode() === 'AuthorizationHeaderMalformed') {
+                            $region = $this->determineBucketRegionFromExceptionBody(
+                                $e->getResponse()->getBody()
+                            );
+                            if (!empty($region)) {
+                                $this->cache->set($cacheKey, $region);
+
+                                $command['@region'] = $region;
+                                yield $handler($command);
+                            } else {
+                                throw $e;
+                            }
+                        } else {
+                            throw $e;
+                        }
+                    }
+                });
+            };
+        };
+    }
+
+    public function createPresignedRequest(CommandInterface $command, $expires)
+    {
+        if (empty($command['Bucket'])) {
+            throw new \InvalidArgumentException('The S3\\MultiRegionClient'
+                . ' cannot create presigned requests for commands without a'
+                . ' specified bucket.');
+        }
+
+        /** @var S3ClientInterface $client */
+        $client = $this->getClientFromPool(
+            $this->determineBucketRegion($command['Bucket'])
+        );
+        return $client->createPresignedRequest(
+            $client->getCommand($command->getName(), $command->toArray()),
+            $expires
+        );
+    }
+
+    public function getObjectUrl($bucket, $key)
+    {
+        /** @var S3Client $regionalClient */
+        $regionalClient = $this->getClientFromPool(
+            $this->determineBucketRegion($bucket)
+        );
+
+        return $regionalClient->getObjectUrl($bucket, $key);
+    }
+
+    public function determineBucketRegionAsync($bucketName)
+    {
+        $cacheKey = $this->getCacheKey($bucketName);
+        if ($cached = $this->cache->get($cacheKey)) {
+            return Promise\promise_for($cached);
+        }
+
+        /** @var S3ClientInterface $regionalClient */
+        $regionalClient = $this->getClientFromPool();
+        return $regionalClient->determineBucketRegionAsync($bucketName)
+            ->then(
+                function ($region) use ($cacheKey) {
+                    $this->cache->set($cacheKey, $region);
+
+                    return $region;
+                }
+            );
+    }
+
+    private function getCacheKey($bucketName)
+    {
+        return "aws:s3:{$bucketName}:location";
+    }
+}

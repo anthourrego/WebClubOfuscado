@@ -1,198 +1,180 @@
-<?php //ICB0 56:0 71:1d3a                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace GuzzleHttp;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cPu94lzBz00Jb+8ugyOkiTEsf3tggcgTFZP2uSuuvpp6I0Q0TOFyA9mK+qJtEb1cx0cLPA7k1
-x1g2j3e/oDwc3cFBc1iqY7FiednsRAzvUQiDjYtHDOIT4uIdLY5Mtm74ZrvC5wgJDsdiebuN1+b4
-tFuaN/3LyoOje/P+2VOZIqNrGzWWkLc3UgRQT20aSjc8t1d2rY0OHwI4TCcTerFMpxiUn4Y/psF/
-eGqMrtpc5jvBz/Zyagwy+W1eD//K7vUI8Ry4xf02/8wULxI9snptqslkK2XhbA+k42s5M86W8SR8
-ybT7ZQN4SrhK/2Ykv0kZNdAEnER91ILuUAVAFJKQszD3zsmBJ+HzS8MXD29zSGjo/mULToW08qSg
-N5l5j6dIfPbJwsZuuPDZNqp5cl22AIWAAb0JkMzKAnBICswKDIHPhd4ofNxPv9J2ZmIhL35zi7Vt
-yVqHH0rMAMWWaARsXYoqXbn87k/lDfhcV6+pQOdCEOVBPt5+WTj/2wLEPKsF7EgXIsbyguMsbfI0
-W+YoRFuSonDeu0H/hd9w7D8YX/IyEaADhGeL74qFYXBIVG7aEBhn+dN4MsLJFd6aqlSFvSTCiyZn
-rhc0tGlBQcaGUXgv0XIbLGidB418k2avETXpgRw5SNH2Hr/MSWmnFSLr5WPChlMQQI2HpI9dLCPW
-WvXBpO+rQRT39A4+IJAGL/G7T/vELVKutfjIkhAbrP+0vVs9zIXKrEMUun5rPBMLRfsGSShnGdNC
-ImEUyHGB2wt5cXt7VvqeS1fZk7AVI2rpkjCkI1OI5sw39xTABquTD9aj0RkyTfIOn1TWfCw4Lowi
-E2dVMOtmFg5sU4I+HJfKdwcwnZcsBWqO4CQwK4h88NbplSTuBQ4WRYto0Uu9RO9QJ64pyI9NEuOQ
-HqISDQoi10veNhOHG/ZCxY/xbmiesv/L8oWSgOxWADtUmX9XcLnQzfsB+/FbZdDUFjz7ROCQAbCm
-X/kfVDEPaOLATV+7aoBMnHS/atuZCUHbXY/TvRgYuXClVHBhx7NJo6kCztI0AChxy2+sL+EBpJ97
-Etp7gJgcBPmHAHLa7hXryFxl4kXJzZr5QlcJf8AgLmez6SodKBzOOnhWLIIu2XCRGrpu0UJUHUIS
-UmwanOQ+P6VrfpAcsISu7OkNC5kBHUo8uWTmOoOEXym0+AsF/oLH+n/NHd0BcJa7/S8VxhZ/iLxZ
-yKEddox2OkPb2Benq5TVXLhem8gWgyryEdUccg9WZ4WMRGyjMUukX0t0KVfT5eCDycaAdAG54aXv
-QNbLSfOrmGxVDuLe3Y/X86GR3SCUA5HdA52SzmZhnJPkinEJJF54OHIRJYnhbwDhGQfNYctG0xKv
-hFwiWV+fOfIst005OXs652CWGKDJq9z+eTCjLiFPlnSmIp4AdlDkPygviCY2Pe7zPxL3A+3mc4M7
-9BNwFPuWX2NFGTwK8RQ2tMFREkv4oCY46mYTrVfvq7C004ECMq/ClrocDp2irV7SP3kBznpy3zk9
-F+ZGOMWqtCCMXR5quBIMsnE9e+2vFr6IiF4EHRXLS4DcuIBvFxdNZZYZYUmBnN+strjBopSYq5hS
-Utk03mhksa8pTjoGv2Bz6nwp6TS/ZSiYlTL2vK4Squx1dxzPN7wgLmWUAIkJlWKV1AfvQmrhP/+g
-iLwZgXR/CelE2ZrR3Xqcolt4mfc4irKaoOSbKAi1WHQ9mxW0Dyb5RSjGAVfjlpAfaZil8g6T2Xl6
-qYdInGWhB/cfuc/wnWWlz4GrDMLRMxUxvb6eywPZcXE1oQP4ELIZ20Wrr/lO6aX/S81oxqfeH5Mf
-Fg3nT8cnFPDgow+u5xdlwSbBPXg6RsNu3NOjz10VQ/RMZfOtYg1uLiDo5XKr7yeJ6dnQlb+J9KQ0
-mENMQDsG2MSnfGImfUmAsRzNh6gVkA+Ha62uc5jUS5xwzv4SEKC97e87gxhgi3LY2XdPIbVW5R9c
-eZR3bDjjQj0qMwRSpmoTqSMCDLkdEcnldygxcmvI4NJ2gqzOMfBwLiFYnSozIQH52b7tTS+9yiA+
-DyLh93lnsxa41gXpP9Xa+UE+V2ub5xu189lr+1KrVVg1CkHK5wW05LZ8aKb5sVc/E8goVNUe4OFd
-ZiTQzXI/OCwoOlYKQZDq8qEAw1+j6aNQ3SI269nz5hdG0TrL/oJ/kT9SXA3fSpgKqFZKhAGiQmmH
-HTUnB3llK/oxPBgGTRj3xOnjK1o0/7LcXpQpa1TQgu/F153E9s9+rKkiiGNvo1k3YiNudwVF3hWi
-CWM4FhxObn76/YVRJWmv9L50BQMQXk7IlVVCqCsmMVzsE7qNLKfdtjqP5eALw3kxQ+cvWFJOCdEr
-S58NwYQhw59kP/96vNb4aBoMHn5vSMyHSeCIiLexGuaJBi79h5TmfVNn0hS+QC1LZEgmPyWsqBG7
-EIXNLeRtC8iB61Mh8zZGaLCKlCOD9ZrCl8140Q3/GDXPRTyNAyqBeMrYxrNNyc2wqaLjvPTxVaJW
-x7WfDHOla+kKihDPj+BqW5udA/Y0opfOhP74QGHWa/2+YLvYXrWE4EGhX45MiRid6loH1yky+idm
-3kQ1YAA7hIeYYIwZelnZ432xUl5AY4+g5B+nHb+4E0nVkIwjlQE/yziRqumMy/ubmsvcfBD+QqeT
-iYyOetijEp3FKEZzE8rr3PA3iBTezlt5rMSGHfxEp8VAL6XvyRv1s8/+vV8jRX97mYkbnicp3KgF
-2aR/vH90A2NcfZGSNEVhmPlzDuD9+f3I27kRw145y/6xWjt8l+BaqHJGnYkcSBH+MM2WKIScsJ+O
-5UJ7BfSAqnzYNCw74iUD7b3qKSukgtDyC72ZMvjEKyLreG6TLMbi3DvrPANXqz1/um3jKpsZz4nZ
-mSMdVC07Yq128sNmwhvvkrVZPA99lO/RrNFhhWrgoMeSVJc1yLw6dNudU+rtfrX1qoQMu0abXbbg
-+uEFU41QxZg0NzBRdqwBBv26aCNnLob2P9+wM/Rj1yxX2r/x5e38SsLCMVyOVljokO5uTbcArJUQ
-T4YDuAd0Lb5/PSkvKE1lzc3Uig0plYMNar9O+745HjYJ+cuebt7EJLERMXiXbBSgR1rVA31KaAa8
-mgQTilaM0qWhB13TdD7oGws5j4Y4FSb1fatCPbOmZfGIc/uZvO5t31L7/p2kZ7KLEiVfylddTsyO
-Tm0QZDOVG1v1SIsYGpKVSfadEyQdBwPM2CeGhzmLUkBPJiJoVVBImurjnr6ZEHKAZsq+PGpfBzTW
-e2Gg0+YeHcjGRaFYDVqbD6QYmxUElBqAk+waZBZeSeJ9wDit5i/hWvL0QZvh9aNMSikkyrAdEeek
-iioXxQMsIO5c0he8Uhl2wf5IqWs6LI4DzxeVVgL0qA2sqUKAve5jE1Wxat+QXpkzvo/LQ1l06Q0i
-IHFW5KwPPkGJLbU75tBdxPAN0c1YIS5UjrtS7GXkBJ0JmfgQqct6akHBVi8jn+BnsH1+nWw2qSnJ
-d6E9QA8d+t13f7Fu2LuzZyI4f9O+CV2W4Bs+Nswt9qigGmRQ7dxtarKXg49TbOJ1ip0PSNmcRlhi
-7H2miFovgXgbQTZVEUixmGC4dJ12BEatC1FewwqrWhT8MlwyA1KrDDblrzEyHM+ZbyN09h741nyI
-4BSpCx7eZSlRYGrQsZ6C+Hb1Th4Fr6tUCFyEvuMvfacKkSnBprwdLYZke3AOI5UoraNVZwErBn7F
-BlH8bmfc+DWCbPyBhkunayl7I+LYlY7+QS2a1ABTxd/jpt5tgkXE23k8SCdaD7Cgkr5XIwRMOqAi
-a3Un9Xv4bW62zgVwvJbWX33NhxKUeMfZsaUV+k/Tac3v+dJdOWBThCKiqV6wq2neg1UmL0rSu5xh
-jeSjmEpJGLO2e9fIc75LQD4f1YoJ4yGwSfnlVlYIOZYyn1lFh/2WOf0hwkvOSijB3nsKrbYQlRG4
-PKrQ1KBrs9l95LTCuPNGPz0pVK3r0W2P3fJ3c/oOCQ1inzLCin1erRaBE8YCOZ/7z4upNtR9OJvG
-J5S8amOYBoOmPvTL4QIQzxADDzWJkAKeeRYkykDD6mRt8UkKpxvs39ELUHyUKVAhHjNB1cV1M8IZ
-OlPL4HaCo6kKf5EC+TwE86yo7xUv4TNA1+YBUulZKb5aywMLa6oZfNnDBVySMPEbS1XNQsTTKiA3
-avb4vEANtpXU9kg+RAXGRxNWV6iSdUPsQXbKAbkeKy3+RU9e/PS9NHLeCgumrHpCYdLTuglTjJVP
-SOir+OUqWY985rHnDBlK5chRx3KkYZkkn1Tclg33btqagCk66QIAE9GD/kghLZ6sGG5IVudyLvhQ
-lIqDgKs8NzC8MsbKUe2icMFB1pOKGMLqC1UJ6DAGu8QVzrKdofWPEtrcpOSCaxbnIaUVXpOS2kJT
-Kz8qKdR2rHj2enxCWyWhO5DfbPHz7p4EWwvJNaFQ44alDnbd0m8svFQ/uKAHID2WN5FrypONqBrt
-FSS7nvPq4Iw9olWCn1I9Euaksp7YaimKzuCI/JONpw1F2xgrOAvTgerjm1dgnR3oPG4A8W/OrMYl
-lPvPfv1RHX3PPFqEOrSivjvKnjuNu9C0x7D9chZAXr7sRdDSssmVxKnB5ZPF3UsHsdUCgzGuts5P
-ElBQOBtRfYcIaY2QP4/yU0n+HgMxDgK3uNZ7fEt6yDqj7KPM4/QtZypT4HAj6Eyp/p87u7jSrb9d
-A6yB5BjqN7aJm7ytOwYqXcaxtyzuSDpKpAkcBUVvFqQUvP6NpbSkbacgiTFGhImSIhnhljdgRoJx
-JJ6z2Tk+EiqWDh8oXjQOsjPn6z/n70QBNFRiu6qWyb0lLdKdfjHmDGPAJtaHuFWL96Jo1n5llM20
-AE8SCxsDhcjFERhSmupTEad7+vVYemWv2V9sQOEVXrxifde+7rt+oBHURL61MLD02iGGtd6cxt0u
-SPO6UbNrZzx3Lk6y342mHJM5KPIXnG2/D59C7gKlPeiWIuv92w9/sGyfocvI0Gvz7ibKvIFSzPnd
-W+dgsZE7FY1BywfYik42mGbesEMFUcsBH4xBV8Wc70k0g0EDB0IJiZVxfUYYC0jQoYuwg0ZS//Uq
-YUgSxbfalGzCwsGFjmfHZLKk2wbJr0FKewQyB6cojzX8v33xmzQ8N4qP3fBFlFXFdxe/uE90fWOu
-qejIOX+ZAnhDpWbGGCRg/PQ8U/6p1Et237xefrajPXKxu8lCJW5aZXWzRE2E5LcgOqW7YijCOhjo
-QPfWujl1eaFEw+5l46D01U7bMdiZKVpBLeSudk2QqIzWYkDZDcVARAQZIWkJ+hiKXOZcDWCEvxac
-4jI2H3wNqdfQb0OaiyDV4QW+HxbEBx/IG9Z6RRd2RDs/S40nFvrmK7L+yN+FXap7BOYv2cyX5X8J
-wQdTOTRUqdbuBpDEdu8YD7qlE3GTgn787xDPxhVz+2lMnci7yLkt26AFOLknqDHwNoNBq6OTIGEq
-WBe249jDsMjTa+d3LE33aqqzz6IG+FOkWq/cI6+ZM7j+UIS7JihLDy20TGqlXfarNe1El2PF8fin
-4pXsVI4hYr0w3T/nElvKk5LzwWkwWrNf/7eQmXb6qPeDgBUp2YIV7YhYalLPGvIyJN3E6TA7kdpf
-NGHpI80daZyKzGrAtaOb/wVzvSlLnxztXjoXyYVZ7g2svA1fwR8XOlqBDz7jMwfRNFyF3KgNdoKN
-8J6Yu9Ol8F3ZZsjKU4sD/B9kK3uokaKW5nDGFO68XfsldDGSAWJB2TxKk14eQjXmCDP09VK8ZxJX
-odPK1bzKrMBeJrGLD4Ph9dDomdTcpjfXfPl/l1D8KJYBDgKlyo41pDcNVr00NEyMZhBI0bvLf3ZD
-C7PIbFkUrDg9fadHwI8p47VOJpJ/haEBmw+Tbpf6WWvNHzXkYv2Majwe0AonBhA2usovnVj/mEhb
-I2O0D18LEgKFydDLh4ntwQ7W0BCTcf/tf/7gx20xcwF0NtWfK75WkWp5Eir1Xed8Wisk6DEtkgLR
-6bG/NfF35Ck6amV3XbRKpdp/gHfnloI1ITEQADobHlk8Koa828m63GILJ0ljPOZFbwAOCELcI3Zr
-zTNcSy4nx1cf/WS1Qd1r1oD4DFLpbJ5T49hUzI5ocO3Wx8u+f0OWV1r08qD+KCU9iqMFjDuNrtr3
-eqZ8PvDLFuFMcCzZlx6FdPJaDt58t7RCu54BaTkUMfP4TvVoODoDeJ8DYzI4axxqPha0Xa5Kvb5I
-MfUG2g9m4ALzdWap69icYno+UKhMXUywUVRWAQ1V+aYNWPLvgtVA9v6xBSSAvO7YWHVHir1mI4FB
-odD8w4vQIUel89Uq56hDsQo6DCSn2tCQPNcWPPR94aqiqrT76EFqWPtZeUI6YSMQedV3m3G3zgdV
-wBkK9Ptm+rn3wZWeQ/ZdJdYOH5YNomoP31Bp/n4xKFL/wzhFhqinK0e6LdXc09W0fEmbZqEgze+H
-LFmrzYZol8PMN1zqxmUG/OdGgk4SVAYXIqZc4zAftGiq1+yCjyFcxPyNe6dxV6e==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use Psr\Http\Message\MessageInterface;
+use Psr\Http\Message\RequestInterface;
+use Psr\Http\Message\ResponseInterface;
 
-?>
-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
-fXLXjmS=
+/**
+ * Formats log messages using variable substitutions for requests, responses,
+ * and other transactional data.
+ *
+ * The following variable substitutions are supported:
+ *
+ * - {request}:        Full HTTP request message
+ * - {response}:       Full HTTP response message
+ * - {ts}:             ISO 8601 date in GMT
+ * - {date_iso_8601}   ISO 8601 date in GMT
+ * - {date_common_log} Apache common log date using the configured timezone.
+ * - {host}:           Host of the request
+ * - {method}:         Method of the request
+ * - {uri}:            URI of the request
+ * - {version}:        Protocol version
+ * - {target}:         Request target of the request (path + query + fragment)
+ * - {hostname}:       Hostname of the machine that sent the request
+ * - {code}:           Status code of the response (if available)
+ * - {phrase}:         Reason phrase of the response  (if available)
+ * - {error}:          Any error messages (if available)
+ * - {req_header_*}:   Replace `*` with the lowercased name of a request header to add to the message
+ * - {res_header_*}:   Replace `*` with the lowercased name of a response header to add to the message
+ * - {req_headers}:    Request headers
+ * - {res_headers}:    Response headers
+ * - {req_body}:       Request body
+ * - {res_body}:       Response body
+ */
+class MessageFormatter
+{
+    /**
+     * Apache Common Log Format.
+     * @link http://httpd.apache.org/docs/2.4/logs.html#common
+     * @var string
+     */
+    const CLF = "{hostname} {req_header_User-Agent} - [{date_common_log}] \"{method} {target} HTTP/{version}\" {code} {res_header_Content-Length}";
+    const DEBUG = ">>>>>>>>\n{request}\n<<<<<<<<\n{response}\n--------\n{error}";
+    const SHORT = '[{ts}] "{method} {target} HTTP/{version}" {code}';
+
+    /** @var string Template used to format log messages */
+    private $template;
+
+    /**
+     * @param string $template Log message template
+     */
+    public function __construct($template = self::CLF)
+    {
+        $this->template = $template ?: self::CLF;
+    }
+
+    /**
+     * Returns a formatted message string.
+     *
+     * @param RequestInterface  $request  Request that was sent
+     * @param ResponseInterface $response Response that was received
+     * @param \Exception        $error    Exception that was received
+     *
+     * @return string
+     */
+    public function format(
+        RequestInterface $request,
+        ResponseInterface $response = null,
+        \Exception $error = null
+    ) {
+        $cache = [];
+
+        return preg_replace_callback(
+            '/{\s*([A-Za-z_\-\.0-9]+)\s*}/',
+            function (array $matches) use ($request, $response, $error, &$cache) {
+                if (isset($cache[$matches[1]])) {
+                    return $cache[$matches[1]];
+                }
+
+                $result = '';
+                switch ($matches[1]) {
+                    case 'request':
+                        $result = Psr7\str($request);
+                        break;
+                    case 'response':
+                        $result = $response ? Psr7\str($response) : '';
+                        break;
+                    case 'req_headers':
+                        $result = trim($request->getMethod()
+                                . ' ' . $request->getRequestTarget())
+                            . ' HTTP/' . $request->getProtocolVersion() . "\r\n"
+                            . $this->headers($request);
+                        break;
+                    case 'res_headers':
+                        $result = $response ?
+                            sprintf(
+                                'HTTP/%s %d %s',
+                                $response->getProtocolVersion(),
+                                $response->getStatusCode(),
+                                $response->getReasonPhrase()
+                            ) . "\r\n" . $this->headers($response)
+                            : 'NULL';
+                        break;
+                    case 'req_body':
+                        $result = $request->getBody();
+                        break;
+                    case 'res_body':
+                        $result = $response ? $response->getBody() : 'NULL';
+                        break;
+                    case 'ts':
+                    case 'date_iso_8601':
+                        $result = gmdate('c');
+                        break;
+                    case 'date_common_log':
+                        $result = date('d/M/Y:H:i:s O');
+                        break;
+                    case 'method':
+                        $result = $request->getMethod();
+                        break;
+                    case 'version':
+                        $result = $request->getProtocolVersion();
+                        break;
+                    case 'uri':
+                    case 'url':
+                        $result = $request->getUri();
+                        break;
+                    case 'target':
+                        $result = $request->getRequestTarget();
+                        break;
+                    case 'req_version':
+                        $result = $request->getProtocolVersion();
+                        break;
+                    case 'res_version':
+                        $result = $response
+                            ? $response->getProtocolVersion()
+                            : 'NULL';
+                        break;
+                    case 'host':
+                        $result = $request->getHeaderLine('Host');
+                        break;
+                    case 'hostname':
+                        $result = gethostname();
+                        break;
+                    case 'code':
+                        $result = $response ? $response->getStatusCode() : 'NULL';
+                        break;
+                    case 'phrase':
+                        $result = $response ? $response->getReasonPhrase() : 'NULL';
+                        break;
+                    case 'error':
+                        $result = $error ? $error->getMessage() : 'NULL';
+                        break;
+                    default:
+                        // handle prefixed dynamic headers
+                        if (strpos($matches[1], 'req_header_') === 0) {
+                            $result = $request->getHeaderLine(substr($matches[1], 11));
+                        } elseif (strpos($matches[1], 'res_header_') === 0) {
+                            $result = $response
+                                ? $response->getHeaderLine(substr($matches[1], 11))
+                                : 'NULL';
+                        }
+                }
+
+                $cache[$matches[1]] = $result;
+                return $result;
+            },
+            $this->template
+        );
+    }
+
+    private function headers(MessageInterface $message)
+    {
+        $result = '';
+        foreach ($message->getHeaders() as $name => $values) {
+            $result .= $name . ': ' . implode(', ', $values) . "\r\n";
+        }
+
+        return trim($result);
+    }
+}

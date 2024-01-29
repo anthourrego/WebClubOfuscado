@@ -1,104 +1,329 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2017, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2017, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license	http://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 2.1.0
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-moKFrZSUYavK6BctdFp6m0==
+/**
+ * PDO Database Adapter Class
+ *
+ * Note: _DB is an extender class that the app controller
+ * creates dynamically based on whether the query builder
+ * class is being used or not.
+ *
+ * @package		CodeIgniter
+ * @subpackage	Drivers
+ * @category	Database
+ * @author		EllisLab Dev Team
+ * @link		https://codeigniter.com/user_guide/database/
+ */
+class CI_DB_pdo_driver extends CI_DB {
+
+	/**
+	 * Database driver
+	 *
+	 * @var	string
+	 */
+	public $dbdriver = 'pdo';
+
+	/**
+	 * PDO Options
+	 *
+	 * @var	array
+	 */
+	public $options = array();
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Class constructor
+	 *
+	 * Validates the DSN string and/or detects the subdriver.
+	 *
+	 * @param	array	$params
+	 * @return	void
+	 */
+	public function __construct($params)
+	{
+		parent::__construct($params);
+
+		if (preg_match('/([^:]+):/', $this->dsn, $match) && count($match) === 2)
+		{
+			// If there is a minimum valid dsn string pattern found, we're done
+			// This is for general PDO users, who tend to have a full DSN string.
+			$this->subdriver = $match[1];
+			return;
+		}
+		// Legacy support for DSN specified in the hostname field
+		elseif (preg_match('/([^:]+):/', $this->hostname, $match) && count($match) === 2)
+		{
+			$this->dsn = $this->hostname;
+			$this->hostname = NULL;
+			$this->subdriver = $match[1];
+			return;
+		}
+		elseif (in_array($this->subdriver, array('mssql', 'sybase'), TRUE))
+		{
+			$this->subdriver = 'dblib';
+		}
+		elseif ($this->subdriver === '4D')
+		{
+			$this->subdriver = '4d';
+		}
+		elseif ( ! in_array($this->subdriver, array('4d', 'cubrid', 'dblib', 'firebird', 'ibm', 'informix', 'mysql', 'oci', 'odbc', 'pgsql', 'sqlite', 'sqlsrv'), TRUE))
+		{
+			log_message('error', 'PDO: Invalid or non-existent subdriver');
+
+			if ($this->db_debug)
+			{
+				show_error('Invalid or non-existent PDO subdriver');
+			}
+		}
+
+		$this->dsn = NULL;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Database connection
+	 *
+	 * @param	bool	$persistent
+	 * @return	object
+	 */
+	public function db_connect($persistent = FALSE)
+	{
+		if ($persistent === TRUE)
+		{
+			$this->options[PDO::ATTR_PERSISTENT] = TRUE;
+		}
+
+		try
+		{
+			return new PDO($this->dsn, $this->username, $this->password, $this->options);
+		}
+		catch (PDOException $e)
+		{
+			if ($this->db_debug && empty($this->failover))
+			{
+				$this->display_error($e->getMessage(), '', TRUE);
+			}
+
+			return FALSE;
+		}
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Database version number
+	 *
+	 * @return	string
+	 */
+	public function version()
+	{
+		if (isset($this->data_cache['version']))
+		{
+			return $this->data_cache['version'];
+		}
+
+		// Not all subdrivers support the getAttribute() method
+		try
+		{
+			return $this->data_cache['version'] = $this->conn_id->getAttribute(PDO::ATTR_SERVER_VERSION);
+		}
+		catch (PDOException $e)
+		{
+			return parent::version();
+		}
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Execute the query
+	 *
+	 * @param	string	$sql	SQL query
+	 * @return	mixed
+	 */
+	protected function _execute($sql)
+	{
+		return $this->conn_id->query($sql);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Begin Transaction
+	 *
+	 * @return	bool
+	 */
+	protected function _trans_begin()
+	{
+		return $this->conn_id->beginTransaction();
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Commit Transaction
+	 *
+	 * @return	bool
+	 */
+	protected function _trans_commit()
+	{
+		return $this->conn_id->commit();
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Rollback Transaction
+	 *
+	 * @return	bool
+	 */
+	protected function _trans_rollback()
+	{
+		return $this->conn_id->rollBack();
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Platform-dependent string escape
+	 *
+	 * @param	string
+	 * @return	string
+	 */
+	protected function _escape_str($str)
+	{
+		// Escape the string
+		$str = $this->conn_id->quote($str);
+
+		// If there are duplicated quotes, trim them away
+		return ($str[0] === "'")
+			? substr($str, 1, -1)
+			: $str;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Affected Rows
+	 *
+	 * @return	int
+	 */
+	public function affected_rows()
+	{
+		return is_object($this->result_id) ? $this->result_id->rowCount() : 0;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Insert ID
+	 *
+	 * @param	string	$name
+	 * @return	int
+	 */
+	public function insert_id($name = NULL)
+	{
+		return $this->conn_id->lastInsertId($name);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Field data query
+	 *
+	 * Generates a platform-specific query so that the column data can be retrieved
+	 *
+	 * @param	string	$table
+	 * @return	string
+	 */
+	protected function _field_data($table)
+	{
+		return 'SELECT TOP 1 * FROM '.$this->protect_identifiers($table);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Error
+	 *
+	 * Returns an array containing code and message of the last
+	 * database error that has occurred.
+	 *
+	 * @return	array
+	 */
+	public function error()
+	{
+		$error = array('code' => '00000', 'message' => '');
+		$pdo_error = $this->conn_id->errorInfo();
+
+		if (empty($pdo_error[0]))
+		{
+			return $error;
+		}
+
+		$error['code'] = isset($pdo_error[1]) ? $pdo_error[0].'/'.$pdo_error[1] : $pdo_error[0];
+		if (isset($pdo_error[2]))
+		{
+			 $error['message'] = $pdo_error[2];
+		}
+
+		return $error;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Truncate statement
+	 *
+	 * Generates a platform-specific truncate string from the supplied data
+	 *
+	 * If the database does not support the TRUNCATE statement,
+	 * then this method maps to 'DELETE FROM table'
+	 *
+	 * @param	string	$table
+	 * @return	string
+	 */
+	protected function _truncate($table)
+	{
+		return 'TRUNCATE TABLE '.$table;
+	}
+
+}

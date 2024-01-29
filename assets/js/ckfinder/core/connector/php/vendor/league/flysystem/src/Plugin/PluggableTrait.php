@@ -1,99 +1,97 @@
-<?php //ICB0 56:0 71:f70                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+namespace League\Flysystem\Plugin;
 
-?>
-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
-0CjGpl7qBe+89ljOLWH08rCOeo+MIB8=
+use BadMethodCallException;
+use League\Flysystem\FilesystemInterface;
+use League\Flysystem\PluginInterface;
+use LogicException;
+
+trait PluggableTrait
+{
+    /**
+     * @var array
+     */
+    protected $plugins = [];
+
+    /**
+     * Register a plugin.
+     *
+     * @param PluginInterface $plugin
+     *
+     * @throws LogicException
+     *
+     * @return $this
+     */
+    public function addPlugin(PluginInterface $plugin)
+    {
+        if ( ! method_exists($plugin, 'handle')) {
+            throw new LogicException(get_class($plugin) . ' does not have a handle method.');
+        }
+
+        $this->plugins[$plugin->getMethod()] = $plugin;
+
+        return $this;
+    }
+
+    /**
+     * Find a specific plugin.
+     *
+     * @param string $method
+     *
+     * @throws PluginNotFoundException
+     *
+     * @return PluginInterface
+     */
+    protected function findPlugin($method)
+    {
+        if ( ! isset($this->plugins[$method])) {
+            throw new PluginNotFoundException('Plugin not found for method: ' . $method);
+        }
+
+        return $this->plugins[$method];
+    }
+
+    /**
+     * Invoke a plugin by method name.
+     *
+     * @param string              $method
+     * @param array               $arguments
+     * @param FilesystemInterface $filesystem
+     *
+     * @throws PluginNotFoundException
+     *
+     * @return mixed
+     */
+    protected function invokePlugin($method, array $arguments, FilesystemInterface $filesystem)
+    {
+        $plugin = $this->findPlugin($method);
+        $plugin->setFilesystem($filesystem);
+        $callback = [$plugin, 'handle'];
+
+        return call_user_func_array($callback, $arguments);
+    }
+
+    /**
+     * Plugins pass-through.
+     *
+     * @param string $method
+     * @param array  $arguments
+     *
+     * @throws BadMethodCallException
+     *
+     * @return mixed
+     */
+    public function __call($method, array $arguments)
+    {
+        try {
+            return $this->invokePlugin($method, $arguments, $this);
+        } catch (PluginNotFoundException $e) {
+            throw new BadMethodCallException(
+                'Call to undefined method '
+                . get_class($this)
+                . '::' . $method
+            );
+        }
+    }
+}

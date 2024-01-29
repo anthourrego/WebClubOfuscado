@@ -1,141 +1,101 @@
-<?php //ICB0 56:0 71:153c                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\Crypto;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-Evazd773lIuSheSVfA8==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use GuzzleHttp\Psr7;
+use GuzzleHttp\Psr7\StreamDecoratorTrait;
+use Psr\Http\Message\StreamInterface;
+use \RuntimeException;
 
-?>
-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
-oY24yU0kRwZcxKIS
+/**
+ * @internal Represents a stream of data to be gcm encrypted.
+ */
+class AesGcmEncryptingStream implements AesStreamInterface
+{
+    use StreamDecoratorTrait;
+
+    private $aad;
+
+    private $initializationVector;
+
+    private $key;
+
+    private $keySize;
+
+    private $plaintext;
+
+    private $tag = '';
+
+    private $tagLength;
+
+    /**
+     * @param StreamInterface $plaintext
+     * @param string $key
+     * @param string $initializationVector
+     * @param string $aad
+     * @param int $tagLength
+     * @param int $keySize
+     */
+    public function __construct(
+        StreamInterface $plaintext,
+        $key,
+        $initializationVector,
+        $aad = '',
+        $tagLength = 16,
+        $keySize = 256
+    ) {
+        if (version_compare(PHP_VERSION, '7.1', '<')) {
+            throw new RuntimeException(
+                'AES-GCM decryption is only supported in PHP 7.1 or greater'
+            );
+        }
+
+        $this->plaintext = $plaintext;
+        $this->key = $key;
+        $this->initializationVector = $initializationVector;
+        $this->aad = $aad;
+        $this->tagLength = $tagLength;
+        $this->keySize = $keySize;
+    }
+
+    public function getOpenSslName()
+    {
+        return "aes-{$this->keySize}-gcm";
+    }
+
+    public function getAesName()
+    {
+        return 'AES/GCM/NoPadding';
+    }
+
+    public function getCurrentIv()
+    {
+        return $this->initializationVector;
+    }
+
+    public function createStream()
+    {
+        return Psr7\stream_for(openssl_encrypt(
+            (string) $this->plaintext,
+            $this->getOpenSslName(),
+            $this->key,
+            OPENSSL_RAW_DATA,
+            $this->initializationVector,
+            $this->tag,
+            $this->aad,
+            $this->tagLength
+        ));
+    }
+
+    /**
+     * @return string
+     */
+    public function getTag()
+    {
+        return $this->tag;
+    }
+
+    public function isWritable()
+    {
+        return false;
+    }
+}

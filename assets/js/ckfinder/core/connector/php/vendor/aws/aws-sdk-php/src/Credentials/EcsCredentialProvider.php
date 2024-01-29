@@ -1,133 +1,88 @@
-<?php //ICB0 56:0 71:146d                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\Credentials;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use Aws\Exception\CredentialsException;
+use GuzzleHttp\Psr7\Request;
+use GuzzleHttp\Promise\PromiseInterface;
+use Psr\Http\Message\ResponseInterface;
 
-?>
-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
+/**
+ * Credential provider that fetches credentials with GET request.
+ * ECS environment variable is used in constructing request URI.
+ */
+class EcsCredentialProvider
+{
+    const SERVER_URI = 'http://169.254.170.2';
+    const ENV_URI = "AWS_CONTAINER_CREDENTIALS_RELATIVE_URI";
+
+    /** @var callable */
+    private $client;
+
+    /**
+     *  The constructor accepts following options:
+     *  - timeout: (optional) Connection timeout, in seconds, default 1.0
+     *  - client: An EcsClient to make request from
+     *
+     * @param array $config Configuration options
+     */
+    public function __construct(array $config = [])
+    {
+        $this->timeout = isset($config['timeout']) ? $config['timeout'] : 1.0;
+        $this->client = isset($config['client'])
+            ? $config['client']
+            : \Aws\default_http_handler();
+    }
+
+    /**
+     * Load ECS credentials
+     *
+     * @return PromiseInterface
+     */
+    public function __invoke()
+    {
+        $client = $this->client;
+        $request = new Request('GET', self::getEcsUri());
+        return $client(
+            $request,
+            [
+                'timeout' => $this->timeout,
+                'proxy' => '',
+            ]
+        )->then(function (ResponseInterface $response) {
+            $result = $this->decodeResult((string) $response->getBody());
+            return new Credentials(
+                $result['AccessKeyId'],
+                $result['SecretAccessKey'],
+                $result['Token'],
+                strtotime($result['Expiration'])
+            );
+        })->otherwise(function ($reason) {
+            $reason = is_array($reason) ? $reason['exception'] : $reason;
+            $msg = $reason->getMessage();
+            throw new CredentialsException(
+                "Error retrieving credential from ECS ($msg)"
+            );
+        });
+    }
+
+    /**
+     * Fetch credential URI from ECS environment variable
+     *
+     * @return string Returns ECS URI
+     */
+    private function getEcsUri()
+    {
+        $creds_uri = getenv(self::ENV_URI);
+        return self::SERVER_URI . $creds_uri;
+    }
+
+    private function decodeResult($response)
+    {
+        $result = json_decode($response, true);
+
+        if (!isset($result['AccessKeyId'])) {
+            throw new CredentialsException('Unexpected ECS credential value');
+        }
+        return $result;
+    }
+}

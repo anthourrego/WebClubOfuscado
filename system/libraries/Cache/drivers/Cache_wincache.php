@@ -1,67 +1,217 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2017, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2017, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license	http://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 3.0.0
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cPnLnG2nAqRW34xtL3nAMWz4Lcfl2P3dDClUESrqLyukahEDmKXF6UpU9q2kuM5cD9Yev8uvS
-TUAnXHEBJ/K57ubSjys1+cCUsBFzXlQD1vs7wxT+8OVT0lzbKcoHaX6cTUo8pejjusOFDTL7SKb6
-XYWkg806XxugfzyvyCOIj255XIpMnpYfnRvOO16FoAo0g/Xb2no8jpOo0KYfdcPWBTi6vo7rpmih
-D9yfswvQ3ydIzHzq6CppyIaeyJ92zvwcelcJMkwG0loEdbUqYTiSzzDhxb2aQ4Noz53EQkfsDAh6
-2D+1RHIWq0ssfne1P/xq+MnAmal2MRcgCOqAJvMyk1S/mYEXkqipNO82cnLSvvBSmzU+p2ccuOq8
-XX8aDUQRbCAyWoEdmiC6nJzUYzNnMLEN8v+0MOfr30MYe1HKTNXFUQjECA1P5zVHY5DrR17vMo0l
-QjKvryUBELGYrjBNpUI1hcuLTIdIZoMWmlrtPd7BAXS5c04SQmL+311znWvN4zAyuPixrfDffiZJ
-/1rZHtgDXu+VDrGAShhdKibVOCoehXO3xNmQKegsdGGI7LucLTBvZLx9CeZjnFXfyaWZ3LL/rlhS
-ZCEh6yvBBxLytg3SsklUBUdn9UP8t4ikxS0iqdgcmTv3JHipC0b3/+23Z83xPuEkM/M+Ksg7K5IR
-J9FEe5jphqBxtCCGAEoCqO8/1YBuEeip5yPcr82iYb2GU1Qlr/7uRdPTSGaX5AcSZSPiDSxo72gN
-czJ3rS8gZTwA8CJ0o4oLEbXy0db9TtRsIuNcrEQ5vxENrjuiatqmad3OpImagQH0GvL1DAWZ6Ua+
-0KfyFTMgHgtoa0proN5B2MktsgsNlxXdUCqiZgbX+ElxumaA9UWqG/FP1pMB7catl0iIV2ta3pjO
-caC4bm/9bu0+3n5/Si+F/OsnkTCDAYiZ0tGMXCUixuwEnBdAyRx5jHyIKETGqc402lqMxHUekmC6
-MfT2HKsl7zU6z6iAzxD0N89V0KtmYOla4J4BK+X+DYcMNnDZ7yiqKiuOQzTxTEfjfWD2DpcQ0iZO
-lFZNliUBv5GwwqoKlHhaNb5ZaSus0mt9hvOhDBwKvDQyl5RXO1mV90SdXUX4M5GaAxz4HV7HSZ5E
-3hyssr06jImQMVbQciDFiN220J1YQUWU9UVtIiIpcGAxcxgbDQ8Z+BihZ6PvyfKGYAmkRrjQmKth
-SmA/FbPQ90V/hzghJXS0l6Crdo6qSRt0++Vj190K86sMcn3xtNVBnhjLaWLAKrDBH49EywCt2gh1
-CT4S9MjHgBvrEfSZ/38a1mXuvML9eFsdPi2Z+futDTQMxM+EmLcoGxFr0JG7zkwv2l+XuSa04cf9
-vwwcBsAs1vrI8aq2nvDfhQ8i4OJv08UpAEZDEzIZNle0CtLNC7QdTt0ziDrMfhA4KiNRP2X7KQtF
-RwPKHZ3sd5NS8pjTjH5rM4iWLYztoAhwFx9JdlrH3PQWpI/cwC/ZKmZYr0dqCqVs7dlU4f4i1OxM
-xpJ+eat8LkGNgEG/iPNZ39Se48QjBZA75jTmexGTmZzh8hXzq7lPne/k7C+YOqZG9mYt5gdlikOY
-ZjUqcCMGdLdcPMob+BKEAxV34JsR164CrUDkByJA5zGQziyr1wpFRn4CjmrJTuMXa04Cg4yviEgG
-NubPUJ/7TQTuZFA+3vjfsBbTI7SaFYIPliFHCwl91qFfi+28HTY/B+Bk6MqBO7Vb99AsfUT7/C8X
-yrAhKN7uvu9m66cdinLs3ZTxsOINsdyAnnK5X4PdIlvEj4hrgfQkuf90l26VCl5RyLVcbr9azCwN
-RDwX0+C8ra4zUNV2PR6w1gAb6iT7Em+Er/xnGszrerPRpu2veIDoXXzp4Yc+MT9fXxaVTKc1j1Jh
-m6gvWBkJrsMqy+dMY70UtiUZgUJZsDHb5/g8qsu/j2WgeBuNxtO1xMvZ5YuW3UxM1E55B2BedZW4
-flB0IiuUT9EUeD6fLMdQAK7444HDS0Z37ZIdW75mLRM12DQiRyig3PLS3z79N+dn5/MReF7yNrMe
-L629eAdzpWQgpZ99cbRyPM60/jF4YSfiI8oOtMl9k4CsoVORVOiGgWmj2LX/SC5uRe98gf1FdSZ3
-cXyYL8zyhXsdaEocst29bJ+O8ogKb7h1BdpG1YxADEFReYlCR3lzh1WWsaUpp7RsQFS0GvPIejjO
-xg1gvf7PXLQ8NWheoaRACvKWofHEu2cKeUPMclfZjiAXGzPqdEm/u0xHDv+jeatUL0CtmCH8bL1F
-LbJ6d0zahsRy2PZPOffZSED0HIjbvJdL5IS+IPB7c4q735KQJ6jIwD2slPq2Al2PDvgJ8Rs7P9fd
-xVoMM2y+zd+QLvb7gc3Jy0GqXEem+BAnz21laNgmSFzHK6EcJkdpdzGaK2vyEwCfaoUnHi6nKCYE
-sFXeIPgUCqVTaN3TjVexsIyPW/sIenq+7GXQ9gXwn7nE/3DhCHh1DR/2QQpn1k5HKpuIvMX1FpOl
-AIeuuFbzHc5wk/zhxz7F47RnPpe1Lso6e1HAhR1asVZt30k/yDCsa94ikWdxFX1aEPf59AEe+gGI
-3frebkwGrmFOuTlHWRviPTc2OZDcUjBDt3GWDBGfbYqUKCecUDWRAogBxbAWQ/Vb708hsImaXvXf
-dE8jCKToOYQ61fcBDt/Fzn8gq0x9RHwWk31TB4QaU1krWZ+wHQ8nbpSGVzIi3i9fmPusVIIfIioF
-z45bBeNVX+uruCERLe7DI/jt8vRVKunefnkJ8Ev3MUkoZuM7k8iO+rjoij6v4zai6vI5JNnLf9AU
-Gyy5i5DqemnKMgZX9RNXrx13e3CAOWiwLQnmOYtCq4yj7WAoRSDs0NYu4gP5fPVSIKldxYhPo3bH
-PZFgQHcBa+7hCTjbot6CpgxbR0k2boAdhfmDVNh/88/+18lI40CppgJ98Nv6bySlArJ+Ski4Uk70
-wHz1Y1Xyxw6JTsRSFO/VtsoZyKeYVHmKThozlFlVsUMcsx8/npxL/m6uWyDtLM7JC8DG7wvs6L7X
-KparSJCgBB+RUIQdWyfKAQQ/8TCg3ty92K+X3STP6R4wrCBu7HCNloMtsfnlxZrCCAZG90I93JRc
-lIa3eLMJ+sXIhW/w+BqbykPtqZWTx91CdNB+FaRvp1dYd0utAyBKYo9YOncuZAHZ1LmG7+Hd4p00
-dltfUOWpc1V+Nbtxll99pLyHrFuvgOSXqh5SfwdLaLcMiOWARHJKSl4Lm8UwBWlh6RQ1jmTh99dm
-Oeqw4NrmUhsXTmEQJCH92zO53cLPqPk/Zye7MlJKB5KcCE5/tLhdASmfy1Lkk6r13X5hsaYxAs/a
-q3hpf6JvABmSFl2WMpFiCxNC0rcccLMtO/tjnlzvH8oROw81Sk6nprzskP5E/TDNeUP6dt1xWO7f
-+j3ONYeadwlThH2DMb0bZ97yE07A4///TMoXCWOA40nDPdDgqDrngCKwIjopc1JehWxV3tlToxHn
-Ux/R1RgEGihadq15Esh+N0y/fInbMfPn8ith7j7viHjZYrkYAEtwyuWscqUnBigDzDuDlMJhW9Qd
-RWz9uq4C5/BeHLge/Y2qBJNnJE42ezK4uMj9Iu8Mij/ZPUbjfEVQuXcd2ovDzFgTwoL98DwgEWCm
-SuvKzHu3GygfqhuIXFAzthOt+pbbd4A0dv2vK8rba5RJl1IWjK7tkxu92dP5c/RFaKsngMyI0zmr
-GIjle8354NDHbbNfW7BQg1ns7KjwKdDo4kp3y0+ZFfrkTcsvqGbs7EwIsIWo+Q/lw6n8/tlwN5/X
-FOT7oC7qjfD7Utr9wu4k5hxqIAqImxMc4apD2TUSfp0ostkycfIL8a49U9whnevCIQpUHvB4Gu88
-K4B25l9kaS/qKPbqqa4rsLlRm5iB89EgakZkItcfISanoAWaRTA9O4UgdIEB6w0TuBYbmU3L4p6F
-p3w+tFphqIuTGjX+3/DqsbJiDjuMjScjHIoEGilLKMP4HV5Get8dnt6pQ9eBfdtG9YwofFoTksvi
-MJyK2V7dq8PkgmHMLR8oQNiz7s+qcnceqf1p7mauWVVdNVGd/XnUiSCTiN99K5wLiBStMHRBtecu
-LQ3Stqi/wTMQBVzbUf3PgYqzKG71FHWULQ/JXP3GiKCG7AzML3kNUWgxTjLJRlnTkr3sVcEpc1nd
-3rPolfHMOH/1Sa2YiRYHCuSbGL/SEBeN8owOMNJBNQbwPod/HYZKQA1nYIWSnr1JrtlSrXF4zAiU
-IYsGEOrRM9UID/IY65M9TC28B9i29E3HwDMcZ4pqbZ/HQDtb7tsMwb275qP9xoO8JxoB+K3RpvSk
-tO5lSt3920FF/nnCHxyWo3CIVKkvmTd16fHDkWi0Qf7GKSC3TFa7eqxTTMd0yb5Y0oq54Kqv+ZL5
-/i+kCwWr5AXNfi3auVB9ANbo3ucpWn0u638dE29T/i2n6JJjmHdJm6FklvQi7NkfoYccTWO64QoO
-rbsx22FgqJShHnjK+8Aq5V5eu6le/oFd/SkGk49T9c17U0DuLfMJKxsC9+Zg
+/**
+ * CodeIgniter Wincache Caching Class
+ *
+ * Read more about Wincache functions here:
+ * http://www.php.net/manual/en/ref.wincache.php
+ *
+ * @package		CodeIgniter
+ * @subpackage	Libraries
+ * @category	Core
+ * @author		Mike Murkovic
+ * @link
+ */
+class CI_Cache_wincache extends CI_Driver {
+
+	/**
+	 * Class constructor
+	 *
+	 * Only present so that an error message is logged
+	 * if APC is not available.
+	 *
+	 * @return	void
+	 */
+	public function __construct()
+	{
+		if ( ! $this->is_supported())
+		{
+			log_message('error', 'Cache: Failed to initialize Wincache; extension not loaded/enabled?');
+		}
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Get
+	 *
+	 * Look for a value in the cache. If it exists, return the data,
+	 * if not, return FALSE
+	 *
+	 * @param	string	$id	Cache Ide
+	 * @return	mixed	Value that is stored/FALSE on failure
+	 */
+	public function get($id)
+	{
+		$success = FALSE;
+		$data = wincache_ucache_get($id, $success);
+
+		// Success returned by reference from wincache_ucache_get()
+		return ($success) ? $data : FALSE;
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Cache Save
+	 *
+	 * @param	string	$id	Cache ID
+	 * @param	mixed	$data	Data to store
+	 * @param	int	$ttl	Time to live (in seconds)
+	 * @param	bool	$raw	Whether to store the raw value (unused)
+	 * @return	bool	true on success/false on failure
+	 */
+	public function save($id, $data, $ttl = 60, $raw = FALSE)
+	{
+		return wincache_ucache_set($id, $data, $ttl);
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Delete from Cache
+	 *
+	 * @param	mixed	unique identifier of the item in the cache
+	 * @return	bool	true on success/false on failure
+	 */
+	public function delete($id)
+	{
+		return wincache_ucache_delete($id);
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Increment a raw value
+	 *
+	 * @param	string	$id	Cache ID
+	 * @param	int	$offset	Step/value to add
+	 * @return	mixed	New value on success or FALSE on failure
+	 */
+	public function increment($id, $offset = 1)
+	{
+		$success = FALSE;
+		$value = wincache_ucache_inc($id, $offset, $success);
+
+		return ($success === TRUE) ? $value : FALSE;
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Decrement a raw value
+	 *
+	 * @param	string	$id	Cache ID
+	 * @param	int	$offset	Step/value to reduce by
+	 * @return	mixed	New value on success or FALSE on failure
+	 */
+	public function decrement($id, $offset = 1)
+	{
+		$success = FALSE;
+		$value = wincache_ucache_dec($id, $offset, $success);
+
+		return ($success === TRUE) ? $value : FALSE;
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Clean the cache
+	 *
+	 * @return	bool	false on failure/true on success
+	 */
+	public function clean()
+	{
+		return wincache_ucache_clear();
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Cache Info
+	 *
+	 * @return	mixed	array on success, false on failure
+	 */
+	 public function cache_info()
+	 {
+		 return wincache_ucache_info(TRUE);
+	 }
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Get Cache Metadata
+	 *
+	 * @param	mixed	key to get cache metadata on
+	 * @return	mixed	array on success/false on failure
+	 */
+	public function get_metadata($id)
+	{
+		if ($stored = wincache_ucache_info(FALSE, $id))
+		{
+			$age = $stored['ucache_entries'][1]['age_seconds'];
+			$ttl = $stored['ucache_entries'][1]['ttl_seconds'];
+			$hitcount = $stored['ucache_entries'][1]['hitcount'];
+
+			return array(
+				'expire'	=> $ttl - $age,
+				'hitcount'	=> $hitcount,
+				'age'		=> $age,
+				'ttl'		=> $ttl
+			);
+		}
+
+		return FALSE;
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * is_supported()
+	 *
+	 * Check to see if WinCache is available on this system, bail if it isn't.
+	 *
+	 * @return	bool
+	 */
+	public function is_supported()
+	{
+		return (extension_loaded('wincache') && ini_get('wincache.ucenabled'));
+	}
+}

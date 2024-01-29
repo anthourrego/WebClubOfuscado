@@ -1,78 +1,34 @@
-<?php //ICB0 56:0 71:cb7                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/*
+ * This file is part of the Monolog package.
+ *
+ * (c) Jordi Boggiano <j.boggiano@seld.be>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
 
-?>
-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
-ZXJeDjnzdY4BOIf3mpjFd058ERZ1ECfo
+namespace Monolog\Handler\FingersCrossed;
+
+use Monolog\Logger;
+
+/**
+ * Error level based activation strategy.
+ *
+ * @author Johannes M. Schmitt <schmittjoh@gmail.com>
+ */
+class ErrorLevelActivationStrategy implements ActivationStrategyInterface
+{
+    private $actionLevel;
+
+    public function __construct($actionLevel)
+    {
+        $this->actionLevel = Logger::toMonologLevel($actionLevel);
+    }
+
+    public function isHandlerActivated(array $record)
+    {
+        return $record['level'] >= $this->actionLevel;
+    }
+}

@@ -1,86 +1,46 @@
-<?php //ICB0 56:0 71:da7                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-qG===
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/*
+ * CKFinder
+ * ========
+ * https://ckeditor.com/ckeditor-4/ckfinder/
+ * Copyright (c) 2007-2018, CKSource - Frederico Knabben. All rights reserved.
+ *
+ * The software, this file and its contents are subject to the CKFinder
+ * License. Please read the license.txt file before using, installing, copying,
+ * modifying or distribute this file or part of its contents. The contents of
+ * this file is part of the Source Code of CKFinder.
+ */
 
-?>
-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
+namespace CKSource\CKFinder\Command;
+
+use CKSource\CKFinder\Acl\Permission;
+use CKSource\CKFinder\Filesystem\Folder\WorkingFolder;
+use Symfony\Component\HttpFoundation\Request;
+
+class GetFileUrl extends CommandAbstract
+{
+    protected $requires = array(Permission::FILE_VIEW);
+
+    public function execute(WorkingFolder $workingFolder, Request $request)
+    {
+        $fileName = (string) $request->get('fileName');
+        $thumbnail = (string) $request->get('thumbnail');
+
+        $fileNames = (array) $request->get('fileNames');
+
+        if (!empty($fileNames)) {
+            $urls = array();
+
+            foreach ($fileNames as $fileName) {
+                $urls[$fileName] = $workingFolder->getFileUrl($fileName);
+            }
+
+            return array('urls' => $urls);
+        }
+
+        return array(
+            'url' => $workingFolder->getFileUrl($fileName, $thumbnail)
+        );
+    }
+}

@@ -1,229 +1,189 @@
-<?php //ICB0 56:0 71:2174                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace GuzzleHttp\Handler;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cPtvWzE2P+CpNPALXmmJlcDMv9TUA7LyuxT67kcIYK0FjhyaOCb2481NSKy3gZHcnbt0qJYGg
-fXDKyv7TI7Rl+/zh3AYhzLCMZLCNKMy7D4C/tDKhP5e0cP48dzSUUkh4RJOaxfDjcajQ96KecAjW
-t/02dMV6VX5prb0ML5JCTrLjorneS4+hVH3pU0W1aTP299C9psYFkxCnaTxhm0AeoIvCYZ00Kom1
-BZZFpzvdtIfzhSmZqtvFCVrOxteVbeb7Gb9ibkwG0loEdbUqYTiSzzDhxb1NPtDIZYmSBwGISxxs
-FTyT3//4VQyoS2z4nFo4CQhGYvH6iLiY4ygaDFOZmt2xTYQuvYTfdagfxo5DlGXPCCewBtV81nVA
-PCgc5NikHYm9dDOlrBZVp3FB4QYtdBBsQPWXQsAFa37dzLfJ5Btt9mS2hB6N3CbxrC6tCc1l+8Pg
-ciRr+DXVw9qFhDPVP0f//YN58JkfVKG/g+tGVAgsk0UTt1WzAYlBn6iFeCFVMIM9c6+UyPQvZfQD
-q/HH0tID/gddqe7KwGIY1qyZ/7y0XYV52tYINXtVWtY60PhRVCLeVPxP1XXlG4QgKpJzTa9RakTy
-78DSTxMl6k0gBnIH4TEwEiTkdmpARbAHO1skitzxEEHZwfiGyY0djYahcaSkiuMH63WEuUdlevPv
-InKlNiiMLXrAd7ADS2pBOYnAa6fOaSE7kzNw0Nq70tI7m66zwg3RSXP/CJhfyGN1HWGsJrbK0IMy
-EpwG992vcSXjbkKUTjBlPTUxsGJMEaXoGVjZFnYET5JfS2eE4rnZN7ZjzKbSsgFZEIm4HhQ3lIJV
-G0N5KaKSKNfmJjEEEIA9TyVhJAzkYYV8rGYhQS6RTEx4u7HS0VxM/qZx3xb4JnQp0WHY9ypUBP2L
-PzdzAsYg/gNBGTg5zHAs080G8XJZRmBuBncZx7qIJqx2h9ZUnqmqmeEy0HG+8+IxlsebcB2dMOId
-TnE4taOijnSHrv5vkhTIxOU5BYED8FEF3+MNPLBTZ/nj3Ky8Ist5MGwd+y9CfWpkAGYkC1Nz5wf5
-l8h36fdqHrNKk5/9y2l5ViIb8qu+jkdebZaot1dQf7DLTlgKcXzh+qlVDkSbYIzm+HLaa3L95PIa
-7DB6iNVJ/sJxdog6n+jaGh9Cy1vg8uHoaZ+kD+rcs0jAOMy1AXJpfaeIzhQfgYAX94NYpngYN3NM
-MHi7Tg4iBSrmPs8uOyd80WfympvN5J9uGow3UbLfRe6a+4HiSjb7Nt9nbwSEtoOtw5TNJIY+7Oar
-Vx1c4+6g+bVnH34m5cqZzZbYDPlV9eMIaZqFFkYeyoiH7MDe6fjCcczEC+PPYgRjWOG4ju9ClNjz
-nARa2wLjpGab+EZUkORed7E6elzlzPagZVDMrHRY8Z9XskWeTAq/CgBkIuX2en5qeLsJNqPKi31V
-76VQc+vyzJkmbh2+y4NXex34bArFiVKQ0fA2/jTBxhnPjq0IU69uLn9LtKDw2x8hC6wHTdd9Xoov
-hoRcJ/ngqhJzozsysdmJtlGnGbxbDJFQJGfrr6+PrSRzzuWagcogCr/ox69RoAEL+TKGKKEtp0AQ
-LYo5yCFRbXYHA2THJ7fhlfvOh7gbD5nps4jYAso1T93702bmSI6KVUDIbREyPfEzFXZ+GmS9mEqU
-Ed+jbp5FaRkhzzm/DNE2k401QO4QHocSH4IFNvGttHphtycdsOntw/9knQSW9lT4ivaNhCJOa3eO
-QDuI27Mny6WsYRJjcCqcWHbIlCY1ltTzxeS/DBcJ3LmcvNkByXUG5+IN3uWkOui9Du3cGmF5B6d2
-CSJh3TuqbaPt786GDG+p6EJPi4IYOxot7iE2JX2LK2E5Yy8FvENm9O841BAhHgHcvKpOmnkjgZB/
-rn3LVZEnAuWiyi9Khc/2wuNEnimf9OCmVUQPyMeO/7iLV/6TcWQzVju9kHXGy3Ni6FBWCW2t7gyk
-wd0jgeyYilw3zuMxCBmb6L9wEfkCq5kRGFPhUKx6SA0merqUqzSLyJsqAbMM2D1DVsfRFroKYEc3
-NE8mDi9NowzKOh7IRI5DDVScjeJo9RNTsuQq7d+vLs6q96L4HfeoiVBadRNc9W8x7OdIQti/ZLnv
-vY/9nHgXNsCc8rYCTdVuij5eprgFb6l34+d8cPfSF+Lj+5sjMKV8tXFfHt6NWFG1i9N+HCqppCms
-PpsFJkkFwmJII3BnjuTwJrEBy2VidpG7Tu1rlRFJi9n3PqEP3bdZ3ylDO92JSwqgAYiW2jUH98MB
-ebKzM86MeqWIHFsgJCHPqyh/ogRwRRTOWxVxDGBifbW6xF7b6jRWaJ87I9JWXojX4xsCMMgOhPFV
-kP0vjZx2PPICgqo1AJeI+jXeB5LZCnquATRu1l7OpfRUDV7b/ja0ly4gYi8tRWwa4OXo2eq+IFK/
-Hs1QbWJb0vC7T6nh0LFVwtkLI0TAHgXy4TThsllL0lbUG4ZJNzsEijXDKAkzBsi7EjsxKZLfj41l
-9Org0Q+T6L92JZgD6RE2cJkUnG9zzXLsPRqj5CfKDQeD+g4iw14R6DqAKYXkhEWdoDHq6pcDPkr1
-9wxnYyvBfaVsv9Jf3YQY9XoGkqkmr13zgEbwS6Jb8xQKaqm22LzP4DRecJT31k7beTuDARHnSZUm
-RZ0Wzy21TrNofKTYVjoSdpHD3bLdiBqHiNToTfmfqUTorSKiNeU9OdeBoTxxseDnbLr63SQiA+Ma
-L9uCEaHntvvN/tYYPOwE1Me0DdL3FwjIVeOPW21eX49g5fTYBKzPFlVH1BfsMNBGUiURM0UpNSvN
-MR6Bsy7+kReLXDQYQd1dHYMxUXmfuCAtuemBuFxaIoGuQlE5zeyaCprF5G8XtVBYq+rGVbVdUBIg
-ldsK8UjpDYjIXXafXQH/RWMxgp8MzetJorE8kux42RVr5GZO0ZbHn9z3jmNFqwbaoAkf7dFA29dT
-EilQFylyiYLt+HysyIRK+0fd+E8AhRjtmVJm1RdxHQS5RD0K69Co/fND0G0SIejtOr04rB1wGHiG
-C8nm3Rt75XJc9GBLB+dNrrCf5KGrhQ2m1x7QxuFVSSbzsFBGBawBA5O5BtntuZWnUQ4sujXbqwJI
-8fDxbwKgH8dYPP+NUasftsiVr+boYQ4FqW+cDunXsfYgWPrz0hDVD3k+Q1ciaRcGXuX/kZKX3fSj
-CnyOSTKaETar2EEtiyw9mRh7acS6Qqjonw7Tan27d3R4fx8JEPHCLTpBgW/Ml7XxNLoSuf2bXQQM
-MR23CfF+aOvS9MAW6+NWjkHHGkEGC8vjMChHkU1sLbHz86PETT7bNBH4qad+4pXsnsO3xCry42mG
-oqRWcyBOhskl9e4/TYmGBTw2zrxOFz+5kFMZ8XlzX/a9yZzVaKeEoAHxtookxIc+CP6lbONQPH1i
-NEKDNRJTFrTT4HbC+ZSfKVzu41yObm5thYah1eiVKnPBt29amN2hp5ybK+UU0E3Ri28ljAlbpUOJ
-4DT/a/0c96vGWbCwtZ1zOMfe+lGKU+8Cu4hYpRWcHDu5K5cZljGcKcpbAMCi0gGtRWGaw4j6Vlye
-WgndwCIjbEUXSiPiYRaRFzKr9tDdK7tkknAXEfT22p5zgxfQDG+qvlioa/ZyEJviJYMhAR0vgvva
-fZSPKD1aXedBSLm3zG43l6gdLogPexOitQjiQ7qEFZbQ29PzWplTRiXg+BdDhrRqn9GDOTkIKW/u
-+UnF/PEDfqYOk9Ze7WNmzqbmS8R3w/7qyDio3pwQuioJVZXVlsRUud+lsTLg/+pnuufyHrcw/PZw
-5v0XOJ6S1B9TzuZg2zfqRsBbNSP0nJsn4EXHAtADjarI0gsKE6l1cF2EHHoQd9x4pT3ROChx7u5d
-9s2OxRZLEbJM9Tr5a7apDmISkI3Rhj3eTyypc9tHrAlN5k8xCs9FOkBUdNtKy4JwyPQVtTh1hLzk
-MMbksv32jctbayBGh58+1u/BNWhMiMEHqxChOl6JU0kEQhkNH/05NmOLdYXs9vBR8NGZkXUGfD6C
-4TOxJ1+FFunEyi4UP06hkeFUq1eHWNws2JEW+PpZWdM0cWi4rVK8w8RKle7xRqtzzzvxVEGCbqKZ
-kP78bok7TY8MNwVCruJG967Tx5f5a37iFU2JAZAmPRiTk8m6JkqiBKvHr0yasPvLEMmGAQSKq2kv
-E8jK201EVqbcm26AevaDlzYh4nOdzFH+rGKatKMxok9OR2vEW/64DlUHp2DxRJsCH5skA7j/cP1e
-pU3t7v7avzsGEp/yYYzrmrRc+iwrsgsdpeuGUGq/2nQd6AF2xJyDNnzayIVJWhu0sLJEA9XSNlEd
-F/us9vj0ld1oiME5pSQctEZkoCxQijsgLnUR60dkaKEh81Ekpbad4ViuqkK02O92UrDaB19sAup3
-8IcGgFhttsLbp+61En4XfkXChMqRfsWXIF/bpPMTXdoR6mP9gAgA9Ir9+Nw2lQ7c3Z3hA47P6bU/
-gng/pwnoPU3x3lZRXRvxXlBq492cgfRMiFrEXAa3ZuTryrCfjod+ACAEGMMUws57bcrpDyYkPWWt
-GCXJz8So5BYcEwm3mV+9isvHOUSTrjVwD4pcKRjKsrnC6ykhCrmh95ZRzwMFu8k4f7E5MejeT/in
-gs0DvkF9PQa9XBq73Tg6/wwID61qh1FlVwotOypjEX9EZ6a5FgirNeVIJvDi6Y7PUFJUWy3F6q0R
-9kDctoNhT/Q7RdpEmjf1Rhx1UHe+/0dd6ta6vr42Zqg5N7ql/NbIntgYsc/2Fn3xI7GBp/j614DC
-s+k/4Fzx1HqjcxIJmofjdRwAcUr+Cv6mnmzZWOO/EcrT0JDvZ3dz3hjpJ+NiPNo3/c56BS6SJFBv
-nzMm7SXsxOrf8Vgi5Y8EeORAEyGqdPTYwbBchr5Setf7/ZBKWfHBwiJHwPgnw/F+1tokU6ruOSpL
-jxbYWzwaUXW/znWgX4YYpKDkel0XecvxNwOd2+GdaGNtwNruewnU4T0tpeFjIrtE5ymIIsJP8ZsU
-1RHwWHvfqqR/qXki8DR5/Z/Sq8697g5VOR8+AD2mPxPWD3EFNUo63OnXrJ/LdvqGqboVxPK/fphg
-ua8LapgxunhI/skOwDdQl7PYkml3gp8uiioBYLaVenOGIHDp0SpucTiutftlRlKbOsMuGaYsgyJ3
-6B/R6qB/TifqzzmRaxgGz1VI9rNKeyieiXlhbfpkyFNokBr9P0Ze0x0CMxpoHaEB/7wjvaR/sGK7
-RTIGKQ79R/bVuY9RBDhIdH5hZWVAqy+D1JMZT1k7Fxk4qn8vLzo4PjRg1bu7jySEDFUdmLZSZThv
-DE2i+S4EDoIrcrDrjxj4LNIajE8132FcHV1CL84C+2pFNYPSq0F0iT67Ir8k6/oXrbqaywYECVno
-gzGeBNsgzwVCxNHK3e7yjdOVFY0A4xcmf51VT8XyGlp0TelDP2m8sWnM8ivnrjCMsRZDPNuBEEIm
-4bWh6wHDw6CXiiuEcyRxkwbD55OCg2XkLuvxZFb7lIlnIF+ZNcoYzEprJdeelh32X9QaYfd6zQZ7
-EI6MG7unU5lEfbk3Rc4nE6Fbn/GvtOXE8JSHqWWRTZ8+flcYrpuCVGX8xG9yjvFDQoLGBqrsyPgM
-0gzrpbONzYXQYWOTdT5TKybHdDjNiKgHMlU5k3YgWuv35xv3TOyxZ4o7/selIPzkY7n3q14nlsar
-Icw0UrZX25b/Y36XyfJSpvosOqyzr5q3cAWBtCAdMGSpDUjmwkkKjSaQTW0/a9bZQn8O6r5WYd6U
-J/9XiYBu8h7xYEz5xUBUz6B9y4WtW/WjswuakeUS8Q8ZybeOMQmFek8mRhyEczVfZSYWAqUqU2rx
-mPUeLxzbs5WY99c7zclTuSfJjRnzERyE19qYQb77v6L8JwTZhhfyoCQQlBLVVzxERYuwVTaV6emJ
-xtIiCRwGvyKwmdHsm5Vrm64+Rl+dbgiqyLjLtLas6raQDlJeG17efQNlLAljfYQbbPL+jhngvUYW
-b63nTYmqKkGd75bBHooc3IhbBI5yLe+dD83e/O+xu4/SmQ1ITdmwa44XSwGfbGngB4rQ92PVBXR2
-laJH/B94PCJ03saHkuajXdDkedRxHLQpJlq1Ky4Z40kY+vW1BdyuK0+DZ+fomcrDmsKnGeLtBnRk
-9DUgZfP1ocx8Dgm2PHWQWjP9346HZzzU3vrkCFJJtms34e+M8czE0sVydeI7qIQnGdf76Jb/16WQ
-VxKZRxCEtGQ36s2PUnwqzyc2XNlWioHdHcrnpu13SKgZZRxvvNHvrBmzxUJu3y1v+isr/0pAy+rn
-c1gu7QiOjDCT3feYl/I2IfKx6wOi0XMQazvWkHA5ZyO4BRBD/RIQFfrFvb5eL6BlZxT3/4VKLAvv
-SK8zETseYxH0lRH3r1g1g0oPKYv9tW35Vayz3cQTPI2LmjVsVAVkc21KDozzGKRWtVJSuSE34c/+
-PQG0/fshRodyeDn31PhYr2wtDEAgn6+GAHgpQqd/1m00OWxXm4QIAycEJpUlnmlP9DYXUo7c0opx
-fVhmAmIMEjPIXqLE0b1IEFzqWZR5FsAXIL3OYjQq2xDhAL6qNdJa1LxsUWaOKDqhcsQ3+W7Mb7wN
-4D9fnWYZ/CRd2SOYQX6DiOI/M5YOwRZvVAw5sqyz9Upu5A1ytfi1OHJenBfjoc8WeXVCl2vJitie
-TbUMXko80/eLpA6xshs4v7lg8WMEI5B6galt3BIsXYr82j7RCPQvXcDfUG1jC2Sb8KeCevBWCrF6
-HDfPblX8l43ggFJMtUKisGNkmZX3kC8j1HuxPh7n7LUogfCj8c0TpA4v8NBZnLFGi1W2x2Nbu02w
-i9xNeIzsEBe7yOIrWvxkjmqIl4W2BUAawZg7pENhSj6fo9LgPCWCtnSnww0Igntu6sy3vztUw9V5
-9M0E3FM0tCYWAbuQgOsf6U8fPUREG4QCaTjg9e0zSLvgr6pX0EII/bRXOK3m6EoRd+6oXtB4AM4f
-5FfB3LNJoHjXF+q6s0/x+BsS1eAiBcPcfel876xmzSxmSwiv4QgWZBuogr35V9ndKwQCQ/LB0iv9
-TWmH3SiLRlSYHhGxH33LRNbk4U3Ze1vlc/PktbrooL2qYv975iOvVK1r28WVP9BbL5CmYyn9puG+
-9oKn6Eg5PSccnXAjXTGP3VByt5mrp560OQg8xKzMyTnvfsJ5lYBeTP6Hav/wDuAWnXyv0SQ8oXho
-Unk8nln89f4EC34kasXZjXWoS3RxwpTkHWlJtmDOuoj/0wCZfZyce2zMMr0AJzZYVJiB9gujkeeA
-pfLa4wOp9Lxxyl1mxplkBmS8t94pKVmGU5He18O21eHfzRwO42tih6PhUD1i3u8jz8mSxUykWnmf
-pTjrgdGzHMlBA43LCsVjp12WN294ZjEgu2Rjrf27sDaiagzLgnY/wp0N7XNRbLAXyJx9sF7cf6eQ
-ZFOmr+z3T0JMmcOmtvep29H7CERyiQp9ywYCWTBjuMO3suV4Zi/Ompby8r5WcawytAUYeCutdW2d
-ZGxO05YrWgKmSvBaQyZxKZfi9eGeeTlbg7mQMXhuSum49qNd0sE7T71hy1AeKQ10Lm===
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use GuzzleHttp\Exception\RequestException;
+use GuzzleHttp\HandlerStack;
+use GuzzleHttp\Promise\PromiseInterface;
+use GuzzleHttp\Promise\RejectedPromise;
+use GuzzleHttp\TransferStats;
+use Psr\Http\Message\RequestInterface;
+use Psr\Http\Message\ResponseInterface;
 
-?>
-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
-ZIfzBaxP0gapBgzc6WoO
+/**
+ * Handler that returns responses or throw exceptions from a queue.
+ */
+class MockHandler implements \Countable
+{
+    private $queue = [];
+    private $lastRequest;
+    private $lastOptions;
+    private $onFulfilled;
+    private $onRejected;
+
+    /**
+     * Creates a new MockHandler that uses the default handler stack list of
+     * middlewares.
+     *
+     * @param array $queue Array of responses, callables, or exceptions.
+     * @param callable $onFulfilled Callback to invoke when the return value is fulfilled.
+     * @param callable $onRejected  Callback to invoke when the return value is rejected.
+     *
+     * @return HandlerStack
+     */
+    public static function createWithMiddleware(
+        array $queue = null,
+        callable $onFulfilled = null,
+        callable $onRejected = null
+    ) {
+        return HandlerStack::create(new self($queue, $onFulfilled, $onRejected));
+    }
+
+    /**
+     * The passed in value must be an array of
+     * {@see Psr7\Http\Message\ResponseInterface} objects, Exceptions,
+     * callables, or Promises.
+     *
+     * @param array $queue
+     * @param callable $onFulfilled Callback to invoke when the return value is fulfilled.
+     * @param callable $onRejected  Callback to invoke when the return value is rejected.
+     */
+    public function __construct(
+        array $queue = null,
+        callable $onFulfilled = null,
+        callable $onRejected = null
+    ) {
+        $this->onFulfilled = $onFulfilled;
+        $this->onRejected = $onRejected;
+
+        if ($queue) {
+            call_user_func_array([$this, 'append'], $queue);
+        }
+    }
+
+    public function __invoke(RequestInterface $request, array $options)
+    {
+        if (!$this->queue) {
+            throw new \OutOfBoundsException('Mock queue is empty');
+        }
+
+        if (isset($options['delay'])) {
+            usleep($options['delay'] * 1000);
+        }
+
+        $this->lastRequest = $request;
+        $this->lastOptions = $options;
+        $response = array_shift($this->queue);
+
+        if (isset($options['on_headers'])) {
+            if (!is_callable($options['on_headers'])) {
+                throw new \InvalidArgumentException('on_headers must be callable');
+            }
+            try {
+                $options['on_headers']($response);
+            } catch (\Exception $e) {
+                $msg = 'An error was encountered during the on_headers event';
+                $response = new RequestException($msg, $request, $response, $e);
+            }
+        }
+
+        if (is_callable($response)) {
+            $response = call_user_func($response, $request, $options);
+        }
+
+        $response = $response instanceof \Exception
+            ? \GuzzleHttp\Promise\rejection_for($response)
+            : \GuzzleHttp\Promise\promise_for($response);
+
+        return $response->then(
+            function ($value) use ($request, $options) {
+                $this->invokeStats($request, $options, $value);
+                if ($this->onFulfilled) {
+                    call_user_func($this->onFulfilled, $value);
+                }
+                if (isset($options['sink'])) {
+                    $contents = (string) $value->getBody();
+                    $sink = $options['sink'];
+
+                    if (is_resource($sink)) {
+                        fwrite($sink, $contents);
+                    } elseif (is_string($sink)) {
+                        file_put_contents($sink, $contents);
+                    } elseif ($sink instanceof \Psr\Http\Message\StreamInterface) {
+                        $sink->write($contents);
+                    }
+                }
+
+                return $value;
+            },
+            function ($reason) use ($request, $options) {
+                $this->invokeStats($request, $options, null, $reason);
+                if ($this->onRejected) {
+                    call_user_func($this->onRejected, $reason);
+                }
+                return \GuzzleHttp\Promise\rejection_for($reason);
+            }
+        );
+    }
+
+    /**
+     * Adds one or more variadic requests, exceptions, callables, or promises
+     * to the queue.
+     */
+    public function append()
+    {
+        foreach (func_get_args() as $value) {
+            if ($value instanceof ResponseInterface
+                || $value instanceof \Exception
+                || $value instanceof PromiseInterface
+                || is_callable($value)
+            ) {
+                $this->queue[] = $value;
+            } else {
+                throw new \InvalidArgumentException('Expected a response or '
+                    . 'exception. Found ' . \GuzzleHttp\describe_type($value));
+            }
+        }
+    }
+
+    /**
+     * Get the last received request.
+     *
+     * @return RequestInterface
+     */
+    public function getLastRequest()
+    {
+        return $this->lastRequest;
+    }
+
+    /**
+     * Get the last received request options.
+     *
+     * @return array
+     */
+    public function getLastOptions()
+    {
+        return $this->lastOptions;
+    }
+
+    /**
+     * Returns the number of remaining items in the queue.
+     *
+     * @return int
+     */
+    public function count()
+    {
+        return count($this->queue);
+    }
+
+    private function invokeStats(
+        RequestInterface $request,
+        array $options,
+        ResponseInterface $response = null,
+        $reason = null
+    ) {
+        if (isset($options['on_stats'])) {
+            $stats = new TransferStats($request, $response, 0, $reason);
+            call_user_func($options['on_stats'], $stats);
+        }
+    }
+}

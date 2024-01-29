@@ -1,72 +1,96 @@
-<?php //ICB0 56:0 71:b98                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\Endpoint;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-1GCWRfsvLudpWW===
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use Aws\Exception\UnresolvedEndpointException;
 
-?>
-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
+/**
+ * Endpoint providers.
+ *
+ * An endpoint provider is a function that accepts a hash of endpoint options,
+ * including but not limited to "service" and "region" key value pairs. The
+ * endpoint provider function returns a hash of endpoint data, which MUST
+ * include an "endpoint" key value pair that represents the resolved endpoint
+ * or NULL if an endpoint cannot be determined.
+ *
+ * You can wrap your calls to an endpoint provider with the
+ * {@see EndpointProvider::resolve} function to ensure that an endpoint hash is
+ * created. If an endpoint hash is not created, then the resolve() function
+ * will throw an {@see Aws\Exception\UnresolvedEndpointException}.
+ *
+ *     use Aws\Endpoint\EndpointProvider;
+ *     $provider = EndpointProvider::defaultProvider();
+ *     // Returns an array or NULL.
+ *     $endpoint = $provider(['service' => 'ec2', 'region' => 'us-west-2']);
+ *     // Returns an endpoint array or throws.
+ *     $endpoint = EndpointProvider::resolve($provider, [
+ *         'service' => 'ec2',
+ *         'region'  => 'us-west-2'
+ *     ]);
+ *
+ * You can compose multiple providers into a single provider using
+ * {@see Aws\or_chain}. This function accepts providers as arguments and
+ * returns a new function that will invoke each provider until a non-null value
+ * is returned.
+ *
+ *     $a = function (array $args) {
+ *         if ($args['region'] === 'my-test-region') {
+ *             return ['endpoint' => 'http://localhost:123/api'];
+ *         }
+ *     };
+ *     $b = EndpointProvider::defaultProvider();
+ *     $c = \Aws\or_chain($a, $b);
+ *     $config = ['service' => 'ec2', 'region' => 'my-test-region'];
+ *     $res = $c($config);  // $a handles this.
+ *     $config['region'] = 'us-west-2';
+ *     $res = $c($config); // $b handles this.
+ */
+class EndpointProvider
+{
+    /**
+     * Resolves and endpoint provider and ensures a non-null return value.
+     *
+     * @param callable $provider Provider function to invoke.
+     * @param array    $args     Endpoint arguments to pass to the provider.
+     *
+     * @return array
+     * @throws UnresolvedEndpointException
+     */
+    public static function resolve(callable $provider, array $args = [])
+    {
+        $result = $provider($args);
+        if (is_array($result)) {
+            return $result;
+        }
+
+        throw new UnresolvedEndpointException(
+            'Unable to resolve an endpoint using the provider arguments: '
+            . json_encode($args) . '. Note: you can provide an "endpoint" '
+            . 'option to a client constructor to bypass invoking an endpoint '
+            . 'provider.');
+    }
+
+    /**
+     * Creates and returns the default SDK endpoint provider.
+     *
+     * @deprecated Use an instance of \Aws\Endpoint\Partition instead.
+     *
+     * @return callable
+     */
+    public static function defaultProvider()
+    {
+        return PartitionEndpointProvider::defaultProvider();
+    }
+
+    /**
+     * Creates and returns an endpoint provider that uses patterns from an
+     * array.
+     *
+     * @param array $patterns Endpoint patterns
+     *
+     * @return callable
+     */
+    public static function patterns(array $patterns)
+    {
+        return new PatternEndpointProvider($patterns);
+    }
+}

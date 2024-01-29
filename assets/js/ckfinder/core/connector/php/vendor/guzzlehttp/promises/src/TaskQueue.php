@@ -1,105 +1,66 @@
-<?php //ICB0 56:0 71:1084                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace GuzzleHttp\Promise;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * A task queue that executes tasks in a FIFO order.
+ *
+ * This task queue class is used to settle promises asynchronously and
+ * maintains a constant stack size. You can use the task queue asynchronously
+ * by calling the `run()` function of the global task queue in an event loop.
+ *
+ *     GuzzleHttp\Promise\queue()->run();
+ */
+class TaskQueue implements TaskQueueInterface
+{
+    private $enableShutdown = true;
+    private $queue = [];
 
-?>
-HR+cPxFJ77PRFkLv8cI9LPq4Be2ZSkNtm6wW2eAuDsjpdO0+ccJtQTRcEY+VZINIK3W02kjlY0+/
-UM8FtYrfzCwdC+RotczDdSCPaT4rnEdpmZfE9oEbm47yUiQ23oZ2RJXTYs2kIk7MAMzI+xx+aPzs
-Tm0NaPiqCZGHs3j0oNcMJYZBRCsFTEm93lPKzzhdw/gJlleOmkbWJkoyL30L/dpxcElHmB8oq8PX
-j1ijpCBuPhH9KjkffH4nOKngP1ARz5RIA55Kbeoo5/SbFQn/C5mQ1EM7179gbEEmR89X+HvkADkI
-ZLyZXc9mW/fSawlg27b2MsszbJ0GFm79DgkH8dXseN4Nzk3pv9/9yHEpXQ2Tu9rB7XJiON9k9RCc
-V7SVCmjHe0hcFox83VF5sKAW9vaecf7ePOyxJfU/KLsLFeHvQbaA4vgEpDGdCBt3L1BsZy69vJJ4
-HFgRb6fPB4zN7E4VP8Bop7R1/4cpqdjyWxuRBAcvUhHhI2mFulysFYknRQCmrWtDY/ojSCtyd50l
-fBHT3VxKiihTLQxBn3jBcwKfIpPaWCkmBgIu5Oli9QHW+gNO4T8rfvLKpkom9Zzds29bI3Hjs9BJ
-jW77PHHYtxQ7SjyhHyURdqChiCcSNd7L7iElTJFfDy/KZqpysriMTp8XGz6Ad2sagbZ5RbguuK01
-LuW8rvj0R5Y4uAmsXIAys01sZ8npRO/jb5wgC7f4i6V9OyDqKPjx53CDmXyWn9GAM7E4+Szk4neQ
-uvZYSwT+ZwJ3meSfDC1EMtgeqIYZjIFmgHauTT9xyZt2+Fh5eLbbZAiLZ+hFKAr2Blr4pCvPnCG4
-jQoMbmGK5Hz+xEkPwS2SBccV0a4lx8ZEGDzHK0IAAajPjeSrG2NugC+mPD3Q8+krDXPVcC5TtBrL
-mePA1HAxGv3PoC/HKR6aopT4ovJbhW02ntQdjvy/KdUH2OJgZB1EV8c+QsYxgNeMDeUaRrd9ARfE
-VfA1ld+MLwhscbqR5+0F5lzHtbiCofKD6Hus1wn18VRdLWcLqWylzoo+loMEXy2W+IeYdacTgKc9
-P2vFi0rjfJQ5l50tV7nPKqoux6R14Ye4Mj6Di4v4TUw4sC2Md+wSapt07uOHuRc5E2IXzJ/0A8Pm
-GTEbwEtcYt0xJ2tdapvOHt6wP/7/H58ODrZYlxKxlFaH5ugW5fjxY8NPkWEZyvqRpGhdgswYEGgz
-zat+ky+5Hp0K2eMVhq2ENuP5rQ/1dKu/+R5VHM6S9MyZ+Xsr/5gaW4Q9mAII341ArVg2S+CwxaSz
-VNCWSNxI6ptNXLtoYHzYKhg4Th1DYz536q5n/2tyzv1RlX2RE/vnbBEt6cbM/w3pp7SEWOhZDY4p
-PV0CsuVJtJioj8HFY/TpXWfqvVllsZ41xdoZ+p050TM9zJWpZEBpk7jJAE6FJ6U4rgYYXiHzVgux
-Z/EjejcXB7r05LZuC36uNC7cOCs/dkNt6En8+/G5PAM2mXCR5k9sgfmrKlZ+stXIBYckEGKsO4Pv
-+b06ZuFyhy7MTBp1uy77n7yHRcWTYjmSudsuqOLi1gqQFpHqraHz5h1AT44S1pSVttjAmlcxiWeY
-ET6YB1PPgL1spqSI/+W3KjENSzh2I+x3n2hg9lEAGL/FmRgdHxWfRzxN0WpOWtQNAPU/qVBVEvVh
-ialz6kyeIjqiIkN8nAg6o5F/696xljp8dMQ+GuCUOFulmUymL+wA9i8G7eASm2/s8PzzG46ls6nG
-13EKwyvRs2FasMxckB+Zjp0kBDRVt2Wqjx9Ge9+TlwYcUX5pa1R0UcT7bOJLP2LrccdVfkvRDPLD
-RYY2a3eWKeyq9SAKo0XeCTpSlg8BcL0q18kxw+fSQZAicsI5Eaoy1GU8OkeIE0eqmfNPcXNz8kHc
-50gEZhGGW+6vZejX14bT0TGFBqzkUZ8m+TnT1Ec7R5NYosm4yXAsgM3zkLi1vh7rNEdtnuLue0gw
-9zzCEDq5UWazMyYzVrjpCU6+mdXknzXU63ZusUrDXseJ0dbiwhvlmq2Eu/mdTl+voeDwsZJWT0VX
-YHd2OXji1ay9STo2PxLvzibfTERCPqCKY6Z3fxzdrEA5ATgblayIBxJhlCBJCe3T5kxNNQf1Qfgt
-4h0TyBHGSfrAckjSfIo5Ao1YlyV39qlheI3SH9F3G+pj/6kn0vAZ4wgxiMpLrg1MpLQk/LVXcHg3
-ObNyFT13nQXAR7MJ7XhmDaxnkHAARK3874km1uBlat/VfsRjZP/hd5S3HRBUPW/4T6IsC8dJNIDy
-5v6zku0DDP0gojX2G+2rGRWQDkgGiLDUemBqIKaQ4luLXXHQCmGVVGA4MFim0gbf1Plcsu+pMQOf
-vdP0k5ACYCIDdOdJLVT9YtjP//koJONJQy9nLHsxIjkwww1MmLR/Jt3GedChTTBO1GpYGBvYYDbY
-mwJGCZ0b+LZ5sZimRqHmh3GoY7K2DYynJFQXmj3giG2hLnfp7CDuIFit/ge6C3Sd0eWB6f9uNgME
-36VjzHSnfvzZgPEiSfsjoy4NDBH8OiTGEw+R8O93AmwP83U0y0dzZIFfvTErwkiNizUr7Wfa6Zt8
-ZFsW9kwse6LDzPsZoefIvcq25vMMBm/TI9D8OA7K+4jT6SQ3C1jeAhxXuCBOYjE7AOJGw/LO6gP7
-oF9+LQ91LT4kgcLzdm4aBjl9dLmQEjZwuypBc6xIJ5mJuIo5mfTDbuzenlVE+pF/gAU7uOgKEYFN
-wDnKV6lXwc8gPtlvNMWOqB5JXPptr7ZLH3I0ZsZ3/HsO/KGXspKa1M1ZUWTVzb3ittEe4Mn6/SO+
-AZOvaTNjhRth6Y4v1kJVzUraSvDTgD6Tec1A8yZmFmIw+xFqcNQrufxtfHgueL1KogVXp4sibQ8i
-P4kvyFtWEzb6Fx7zGVTlYJdGGiK3tRU37zczXzyWUMz4/2OgwOcVCjjL6ZEn93dttKK+LLFv0bEb
-Qc9FQwHI/70/cWok8T2yi6Snqs36aZZfsTd/p0JkTq771PdXKUETbAW49K8Urgw2DIFBvMBY28o2
-/cKxe9Xz8Rr6c473EudivB7YJ0hzfZ5ZljCHOlPzZ5uLzEKXEfIuU0S1Bt6qVRX1jldF8WcVvo3Z
-o5Myl84eC7rD30lAMS6VAqXiV5J8coDHODa2ycSu1M+ClhvsLAGeaVXDd4R1g0zUw8i7nC2n78+5
-0RVoqLku8jjCX1YY9wp7HnzGp26Ewtk+iLVjSHB5oGOS4aMFCfwS1pjy48x8szgU9jDuGgTiSVlY
-Pdc5C+HoGmU8bWa6985r9bzWalvmyow9rxeQ5RJbaJY7oNuwQPxrlo0tSYjWHBFnfelT4HhWBsz4
-VPODL85o82ErvoxS4EmvAZsczN1xYQSsO6tM8Srzvv72DO0NuR07JwyJRDka9WJ4lWHjIW4O/nvs
-a1zSdNk0Pk7dcFeaGXBC7n+tnDvN4i3R9tTn5K9ajx/MkhWIFTQQOAP10hIaS+nxFbYh/lG5Dhyv
-NAgE49HPGRpUsnnKZH0XDD7XVC+CvWHxQV6Wd9GgFWVdq9z/g6wQvdJh2KWWym3ys8CzvkyclIxJ
-sFKJbINhnGsxvp+kejllvW==
+    public function __construct($withShutdown = true)
+    {
+        if ($withShutdown) {
+            register_shutdown_function(function () {
+                if ($this->enableShutdown) {
+                    // Only run the tasks if an E_ERROR didn't occur.
+                    $err = error_get_last();
+                    if (!$err || ($err['type'] ^ E_ERROR)) {
+                        $this->run();
+                    }
+                }
+            });
+        }
+    }
+
+    public function isEmpty()
+    {
+        return !$this->queue;
+    }
+
+    public function add(callable $task)
+    {
+        $this->queue[] = $task;
+    }
+
+    public function run()
+    {
+        /** @var callable $task */
+        while ($task = array_shift($this->queue)) {
+            $task();
+        }
+    }
+
+    /**
+     * The task queue will be run and exhausted by default when the process
+     * exits IFF the exit is not the result of a PHP E_ERROR error.
+     *
+     * You can disable running the automatic shutdown of the queue by calling
+     * this function. If you disable the task queue shutdown process, then you
+     * MUST either run the task queue (as a result of running your event loop
+     * or manually using the run() method) or wait on each outstanding promise.
+     *
+     * Note: This shutdown will occur before any destructors are triggered.
+     */
+    public function disableShutdown()
+    {
+        $this->enableShutdown = false;
+    }
+}

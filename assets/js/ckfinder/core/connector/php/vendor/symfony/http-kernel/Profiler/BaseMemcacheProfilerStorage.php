@@ -1,163 +1,308 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-QGEHYzbB34u60hfwhfXYfF/eARtvrh4c
+/*
+ * This file is part of the Symfony package.
+ *
+ * (c) Fabien Potencier <fabien@symfony.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+namespace Symfony\Component\HttpKernel\Profiler;
+
+/**
+ * Base Memcache storage for profiling information in a Memcache.
+ *
+ * @author Andrej Hudec <pulzarraider@gmail.com>
+ */
+abstract class BaseMemcacheProfilerStorage implements ProfilerStorageInterface
+{
+    const TOKEN_PREFIX = 'sf_profiler_';
+
+    protected $dsn;
+    protected $lifetime;
+
+    /**
+     * @param string $dsn      A data source name
+     * @param string $username
+     * @param string $password
+     * @param int    $lifetime The lifetime to use for the purge
+     */
+    public function __construct($dsn, $username = '', $password = '', $lifetime = 86400)
+    {
+        $this->dsn = $dsn;
+        $this->lifetime = (int) $lifetime;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function find($ip, $url, $limit, $method, $start = null, $end = null)
+    {
+        $indexName = $this->getIndexName();
+
+        $indexContent = $this->getValue($indexName);
+        if (!$indexContent) {
+            return array();
+        }
+
+        $profileList = explode("\n", $indexContent);
+        $result = array();
+
+        foreach ($profileList as $item) {
+            if (0 === $limit) {
+                break;
+            }
+
+            if ('' == $item) {
+                continue;
+            }
+
+            $values = explode("\t", $item, 7);
+            list($itemToken, $itemIp, $itemMethod, $itemUrl, $itemTime, $itemParent) = $values;
+            $statusCode = isset($values[6]) ? $values[6] : null;
+
+            $itemTime = (int) $itemTime;
+
+            if ($ip && false === strpos($itemIp, $ip) || $url && false === strpos($itemUrl, $url) || $method && false === strpos($itemMethod, $method)) {
+                continue;
+            }
+
+            if (!empty($start) && $itemTime < $start) {
+                continue;
+            }
+
+            if (!empty($end) && $itemTime > $end) {
+                continue;
+            }
+
+            $result[$itemToken] = array(
+                'token' => $itemToken,
+                'ip' => $itemIp,
+                'method' => $itemMethod,
+                'url' => $itemUrl,
+                'time' => $itemTime,
+                'parent' => $itemParent,
+                'status_code' => $statusCode,
+            );
+            --$limit;
+        }
+
+        usort($result, function ($a, $b) {
+            if ($a['time'] === $b['time']) {
+                return 0;
+            }
+
+            return $a['time'] > $b['time'] ? -1 : 1;
+        });
+
+        return $result;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function purge()
+    {
+        // delete only items from index
+        $indexName = $this->getIndexName();
+
+        $indexContent = $this->getValue($indexName);
+
+        if (!$indexContent) {
+            return false;
+        }
+
+        $profileList = explode("\n", $indexContent);
+
+        foreach ($profileList as $item) {
+            if ('' == $item) {
+                continue;
+            }
+
+            if (false !== $pos = strpos($item, "\t")) {
+                $this->delete($this->getItemName(substr($item, 0, $pos)));
+            }
+        }
+
+        return $this->delete($indexName);
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function read($token)
+    {
+        if (empty($token)) {
+            return false;
+        }
+
+        $profile = $this->getValue($this->getItemName($token));
+
+        if (false !== $profile) {
+            $profile = $this->createProfileFromData($token, $profile);
+        }
+
+        return $profile;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function write(Profile $profile)
+    {
+        $data = array(
+            'token' => $profile->getToken(),
+            'parent' => $profile->getParentToken(),
+            'children' => array_map(function ($p) { return $p->getToken(); }, $profile->getChildren()),
+            'data' => $profile->getCollectors(),
+            'ip' => $profile->getIp(),
+            'method' => $profile->getMethod(),
+            'url' => $profile->getUrl(),
+            'time' => $profile->getTime(),
+        );
+
+        $profileIndexed = false !== $this->getValue($this->getItemName($profile->getToken()));
+
+        if ($this->setValue($this->getItemName($profile->getToken()), $data, $this->lifetime)) {
+            if (!$profileIndexed) {
+                // Add to index
+                $indexName = $this->getIndexName();
+
+                $indexRow = implode("\t", array(
+                    $profile->getToken(),
+                    $profile->getIp(),
+                    $profile->getMethod(),
+                    $profile->getUrl(),
+                    $profile->getTime(),
+                    $profile->getParentToken(),
+                    $profile->getStatusCode(),
+                ))."\n";
+
+                return $this->appendValue($indexName, $indexRow, $this->lifetime);
+            }
+
+            return true;
+        }
+
+        return false;
+    }
+
+    /**
+     * Retrieve item from the memcache server.
+     *
+     * @param string $key
+     *
+     * @return mixed
+     */
+    abstract protected function getValue($key);
+
+    /**
+     * Store an item on the memcache server under the specified key.
+     *
+     * @param string $key
+     * @param mixed  $value
+     * @param int    $expiration
+     *
+     * @return bool
+     */
+    abstract protected function setValue($key, $value, $expiration = 0);
+
+    /**
+     * Delete item from the memcache server.
+     *
+     * @param string $key
+     *
+     * @return bool
+     */
+    abstract protected function delete($key);
+
+    /**
+     * Append data to an existing item on the memcache server.
+     *
+     * @param string $key
+     * @param string $value
+     * @param int    $expiration
+     *
+     * @return bool
+     */
+    abstract protected function appendValue($key, $value, $expiration = 0);
+
+    private function createProfileFromData($token, $data, $parent = null)
+    {
+        $profile = new Profile($token);
+        $profile->setIp($data['ip']);
+        $profile->setMethod($data['method']);
+        $profile->setUrl($data['url']);
+        $profile->setTime($data['time']);
+        $profile->setCollectors($data['data']);
+
+        if (!$parent && $data['parent']) {
+            $parent = $this->read($data['parent']);
+        }
+
+        if ($parent) {
+            $profile->setParent($parent);
+        }
+
+        foreach ($data['children'] as $token) {
+            if (!$token) {
+                continue;
+            }
+
+            if (!$childProfileData = $this->getValue($this->getItemName($token))) {
+                continue;
+            }
+
+            $profile->addChild($this->createProfileFromData($token, $childProfileData, $profile));
+        }
+
+        return $profile;
+    }
+
+    /**
+     * Get item name.
+     *
+     * @param string $token
+     *
+     * @return string
+     */
+    private function getItemName($token)
+    {
+        $name = self::TOKEN_PREFIX.$token;
+
+        if ($this->isItemNameValid($name)) {
+            return $name;
+        }
+
+        return false;
+    }
+
+    /**
+     * Get name of index.
+     *
+     * @return string
+     */
+    private function getIndexName()
+    {
+        $name = self::TOKEN_PREFIX.'index';
+
+        if ($this->isItemNameValid($name)) {
+            return $name;
+        }
+
+        return false;
+    }
+
+    private function isItemNameValid($name)
+    {
+        $length = strlen($name);
+
+        if ($length > 250) {
+            throw new \RuntimeException(sprintf('The memcache item key "%s" is too long (%s bytes). Allowed maximum size is 250 bytes.', $name, $length));
+        }
+
+        return true;
+    }
+}

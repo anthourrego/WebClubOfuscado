@@ -1,100 +1,243 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2017, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2017, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license	http://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 1.0.0
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-bWIFNUNjBskYZjKvaWtxLuugjEBAuoQjEU7GU0==
+/**
+ * MySQL Forge Class
+ *
+ * @category	Database
+ * @author		EllisLab Dev Team
+ * @link		https://codeigniter.com/user_guide/database/
+ */
+class CI_DB_mysql_forge extends CI_DB_forge {
+
+	/**
+	 * CREATE DATABASE statement
+	 *
+	 * @var	string
+	 */
+	protected $_create_database	= 'CREATE DATABASE %s CHARACTER SET %s COLLATE %s';
+
+	/**
+	 * CREATE TABLE keys flag
+	 *
+	 * Whether table keys are created from within the
+	 * CREATE TABLE statement.
+	 *
+	 * @var	bool
+	 */
+	protected $_create_table_keys	= TRUE;
+
+	/**
+	 * UNSIGNED support
+	 *
+	 * @var	array
+	 */
+	protected $_unsigned		= array(
+		'TINYINT',
+		'SMALLINT',
+		'MEDIUMINT',
+		'INT',
+		'INTEGER',
+		'BIGINT',
+		'REAL',
+		'DOUBLE',
+		'DOUBLE PRECISION',
+		'FLOAT',
+		'DECIMAL',
+		'NUMERIC'
+	);
+
+	/**
+	 * NULL value representation in CREATE/ALTER TABLE statements
+	 *
+	 * @var	string
+	 */
+	protected $_null = 'NULL';
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * CREATE TABLE attributes
+	 *
+	 * @param	array	$attributes	Associative array of table attributes
+	 * @return	string
+	 */
+	protected function _create_table_attr($attributes)
+	{
+		$sql = '';
+
+		foreach (array_keys($attributes) as $key)
+		{
+			if (is_string($key))
+			{
+				$sql .= ' '.strtoupper($key).' = '.$attributes[$key];
+			}
+		}
+
+		if ( ! empty($this->db->char_set) && ! strpos($sql, 'CHARACTER SET') && ! strpos($sql, 'CHARSET'))
+		{
+			$sql .= ' DEFAULT CHARACTER SET = '.$this->db->char_set;
+		}
+
+		if ( ! empty($this->db->dbcollat) && ! strpos($sql, 'COLLATE'))
+		{
+			$sql .= ' COLLATE = '.$this->db->dbcollat;
+		}
+
+		return $sql;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * ALTER TABLE
+	 *
+	 * @param	string	$alter_type	ALTER type
+	 * @param	string	$table		Table name
+	 * @param	mixed	$field		Column definition
+	 * @return	string|string[]
+	 */
+	protected function _alter_table($alter_type, $table, $field)
+	{
+		if ($alter_type === 'DROP')
+		{
+			return parent::_alter_table($alter_type, $table, $field);
+		}
+
+		$sql = 'ALTER TABLE '.$this->db->escape_identifiers($table);
+		for ($i = 0, $c = count($field); $i < $c; $i++)
+		{
+			if ($field[$i]['_literal'] !== FALSE)
+			{
+				$field[$i] = ($alter_type === 'ADD')
+						? "\n\tADD ".$field[$i]['_literal']
+						: "\n\tMODIFY ".$field[$i]['_literal'];
+			}
+			else
+			{
+				if ($alter_type === 'ADD')
+				{
+					$field[$i]['_literal'] = "\n\tADD ";
+				}
+				else
+				{
+					$field[$i]['_literal'] = empty($field[$i]['new_name']) ? "\n\tMODIFY " : "\n\tCHANGE ";
+				}
+
+				$field[$i] = $field[$i]['_literal'].$this->_process_column($field[$i]);
+			}
+		}
+
+		return array($sql.implode(',', $field));
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Process column
+	 *
+	 * @param	array	$field
+	 * @return	string
+	 */
+	protected function _process_column($field)
+	{
+		$extra_clause = isset($field['after'])
+			? ' AFTER '.$this->db->escape_identifiers($field['after']) : '';
+
+		if (empty($extra_clause) && isset($field['first']) && $field['first'] === TRUE)
+		{
+			$extra_clause = ' FIRST';
+		}
+
+
+		return $this->db->escape_identifiers($field['name'])
+			.(empty($field['new_name']) ? '' : ' '.$this->db->escape_identifiers($field['new_name']))
+			.' '.$field['type'].$field['length']
+			.$field['unsigned']
+			.$field['null']
+			.$field['default']
+			.$field['auto_increment']
+			.$field['unique']
+			.(empty($field['comment']) ? '' : ' COMMENT '.$field['comment'])
+			.$extra_clause;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Process indexes
+	 *
+	 * @param	string	$table	(ignored)
+	 * @return	string
+	 */
+	protected function _process_indexes($table)
+	{
+		$sql = '';
+
+		for ($i = 0, $c = count($this->keys); $i < $c; $i++)
+		{
+			if (is_array($this->keys[$i]))
+			{
+				for ($i2 = 0, $c2 = count($this->keys[$i]); $i2 < $c2; $i2++)
+				{
+					if ( ! isset($this->fields[$this->keys[$i][$i2]]))
+					{
+						unset($this->keys[$i][$i2]);
+						continue;
+					}
+				}
+			}
+			elseif ( ! isset($this->fields[$this->keys[$i]]))
+			{
+				unset($this->keys[$i]);
+				continue;
+			}
+
+			is_array($this->keys[$i]) OR $this->keys[$i] = array($this->keys[$i]);
+
+			$sql .= ",\n\tKEY ".$this->db->escape_identifiers(implode('_', $this->keys[$i]))
+				.' ('.implode(', ', $this->db->escape_identifiers($this->keys[$i])).')';
+		}
+
+		$this->keys = array();
+
+		return $sql;
+	}
+
+}

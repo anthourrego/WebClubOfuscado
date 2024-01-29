@@ -1,80 +1,26 @@
-<?php //ICB0 56:0 71:d3d                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\Api\ErrorParser;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use Aws\Api\Parser\PayloadParserTrait;
+use Psr\Http\Message\ResponseInterface;
 
-?>
-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
+/**
+ * Provides basic JSON error parsing functionality.
+ */
+trait JsonParserTrait
+{
+    use PayloadParserTrait;
+
+    private function genericHandler(ResponseInterface $response)
+    {
+        $code = (string) $response->getStatusCode();
+
+        return [
+            'request_id'  => (string) $response->getHeaderLine('x-amzn-requestid'),
+            'code'        => null,
+            'message'     => null,
+            'type'        => $code[0] == '4' ? 'client' : 'server',
+            'parsed'      => $this->parseJson($response->getBody())
+        ];
+    }
+}

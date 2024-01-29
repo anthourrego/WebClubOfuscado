@@ -1,89 +1,124 @@
-<?php //ICB0 56:0 71:e0c                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-fI8g3JagGzAofy3NK7wShrfol8G==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Common\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+ 
+namespace MicrosoftAzure\Storage\Common\Models;
 
-?>
-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
-SQZA8e6BTneHUfntjzsNPaIPxhcue5ZrKGG=
+use MicrosoftAzure\Storage\Common\Internal\Utilities;
+
+/**
+ * Holds elements of queue properties retention policy field.
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Common\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+class RetentionPolicy
+{
+    private $_enabled;
+    private $_days;
+    
+    /**
+     * Creates object from $parsedResponse.
+     *
+     * @param array $parsedResponse XML response parsed into array.
+     *
+     * @internal
+     *
+     * @return MicrosoftAzure\Storage\Common\Models\RetentionPolicy
+     */
+    public static function create(array $parsedResponse = null)
+    {
+        $result = new RetentionPolicy();
+        $result->setEnabled(Utilities::toBoolean($parsedResponse['Enabled']));
+        if ($result->getEnabled()) {
+            $result->setDays(intval($parsedResponse['Days']));
+        }
+        
+        return $result;
+    }
+    
+    /**
+     * Gets enabled.
+     *
+     * @return bool
+     */
+    public function getEnabled()
+    {
+        return $this->_enabled;
+    }
+    
+    /**
+     * Sets enabled.
+     *
+     * @param bool $enabled value to use.
+     *
+     * @return void
+     */
+    public function setEnabled($enabled)
+    {
+        $this->_enabled = $enabled;
+    }
+    
+    /**
+     * Gets days field.
+     *
+     * @return int
+     */
+    public function getDays()
+    {
+        return $this->_days;
+    }
+    
+    /**
+     * Sets days field.
+     *
+     * @param int $days value to use.
+     *
+     * @return void
+     */
+    public function setDays($days)
+    {
+        $this->_days = $days;
+    }
+    
+    /**
+     * Converts this object to array with XML tags
+     *
+     * @internal
+     *
+     * @return array
+     */
+    public function toArray()
+    {
+        $array = array('Enabled' => Utilities::booleanToString($this->_enabled));
+        if (isset($this->_days)) {
+            $array['Days'] = strval($this->_days);
+        }
+        
+        return $array;
+    }
+}

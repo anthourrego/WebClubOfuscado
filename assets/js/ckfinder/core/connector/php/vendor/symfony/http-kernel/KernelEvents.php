@@ -1,21 +1,105 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cPmE0QDUjL54Pg3hzz9Abpd1Xe4mOUmQKWkH12/tv8l7UyCXBIFBBCvnLV725YBa64MCm8E2D
-1ihP5SkehtIQOunq6uvXp8fSdZGLEh234iHN/IuBv+aFFtnf6TVI1UwBbVdVYN1lrkprGQpAIqPK
-DRFWtrYoiHSQacWnmVKaZtKvf/UH5ITWlVjlslIV4WcaLYJNJxpRms1BctzY3OxIAZZSua/WYIhz
-WQKaBvR0ZB+pDO00EzxuVdl1nhM6m1DVrZE/dbVka0ByZfvNj8dR7FVJQ+vGG6vcuG/7ltFm53yS
-tflyRbCQnF+VUnZ2ap3EU76L5f35j0w1ffaXSr6rfk6J16xDy27hTpQAHOn4kBQIniSrKL0LgZ0w
-cFS1FQ1FVDD8hACq0dxKKWfZKAjUtByzicdtsxcpaBOQ6FI2N3zp/UCeUPxPmuqKCyeDR59nZz4T
-lXOPVGVA2zVJeoD/1nN8PJOcOVx0EFcPqzQ38n7uDoeBkq+j/mWdNoZjLGzDLZ3xlH4NeUp58Gv3
-f3vvL3tmVcIwDu0X5lQ0r8dbDdufH9d8m64JAZcWIblJVkH3OUzLooA55qsPayoNwYR0EpXakiIk
-wllSHp3ghwnR4CaLvuxu1XOVbuD+vpHC91gpM8wWTqu+6LyDTRii6/V56X4zEu4oFldnfdGJwrXE
-CWpbgLzu+RQ0M2oR+evh4s/hQ/gBwRj7SeeZnTKpZtVw0YoLBjH2XYW6yuDy29hR1wl2rNhfdTHt
-+tFt+PjtokWmkh6A+3WA5rw8qVGWkwNzRywNVMnuwUq1G8yYwy7TiLLx6nnSKjYAEvLJVVnGuf+M
-fyHme5s1QafNEtWMSpMCTTj/M0DUayfDDKYaSD3QYW6lXu4iMJTE3JSp5J5qhajCap7Fwdoq72Y8
-a2SLd/ZPfZ7SCdkuQSpC8w3S9DLhhLn85VrpY4NiVTtvFwDwUH+5QRJD8es9G+Sx/fNyGvJm6zGD
-7V3YephxRfC=
+/*
+ * This file is part of the Symfony package.
+ *
+ * (c) Fabien Potencier <fabien@symfony.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+namespace Symfony\Component\HttpKernel;
+
+/**
+ * Contains all events thrown in the HttpKernel component.
+ *
+ * @author Bernhard Schussek <bschussek@gmail.com>
+ */
+final class KernelEvents
+{
+    /**
+     * The REQUEST event occurs at the very beginning of request
+     * dispatching.
+     *
+     * This event allows you to create a response for a request before any
+     * other code in the framework is executed. The event listener method
+     * receives a Symfony\Component\HttpKernel\Event\GetResponseEvent
+     * instance.
+     *
+     * @Event
+     */
+    const REQUEST = 'kernel.request';
+
+    /**
+     * The EXCEPTION event occurs when an uncaught exception appears.
+     *
+     * This event allows you to create a response for a thrown exception or
+     * to modify the thrown exception. The event listener method receives
+     * a Symfony\Component\HttpKernel\Event\GetResponseForExceptionEvent
+     * instance.
+     *
+     * @Event
+     */
+    const EXCEPTION = 'kernel.exception';
+
+    /**
+     * The VIEW event occurs when the return value of a controller
+     * is not a Response instance.
+     *
+     * This event allows you to create a response for the return value of the
+     * controller. The event listener method receives a
+     * Symfony\Component\HttpKernel\Event\GetResponseForControllerResultEvent
+     * instance.
+     *
+     * @Event
+     */
+    const VIEW = 'kernel.view';
+
+    /**
+     * The CONTROLLER event occurs once a controller was found for
+     * handling a request.
+     *
+     * This event allows you to change the controller that will handle the
+     * request. The event listener method receives a
+     * Symfony\Component\HttpKernel\Event\FilterControllerEvent instance.
+     *
+     * @Event
+     */
+    const CONTROLLER = 'kernel.controller';
+
+    /**
+     * The RESPONSE event occurs once a response was created for
+     * replying to a request.
+     *
+     * This event allows you to modify or replace the response that will be
+     * replied. The event listener method receives a
+     * Symfony\Component\HttpKernel\Event\FilterResponseEvent instance.
+     *
+     * @Event
+     */
+    const RESPONSE = 'kernel.response';
+
+    /**
+     * The TERMINATE event occurs once a response was sent.
+     *
+     * This event allows you to run expensive post-response jobs.
+     * The event listener method receives a
+     * Symfony\Component\HttpKernel\Event\PostResponseEvent instance.
+     *
+     * @Event
+     */
+    const TERMINATE = 'kernel.terminate';
+
+    /**
+     * The FINISH_REQUEST event occurs when a response was generated for a request.
+     *
+     * This event allows you to reset the global and environmental state of
+     * the application, when it was changed during the request.
+     * The event listener method receives a
+     * Symfony\Component\HttpKernel\Event\FinishRequestEvent instance.
+     *
+     * @Event
+     */
+    const FINISH_REQUEST = 'kernel.finish_request';
+}

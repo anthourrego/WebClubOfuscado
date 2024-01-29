@@ -1,295 +1,236 @@
-<?php //ICB0 56:0 71:2b6e                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-P0===
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use Aws\Endpoint\PartitionEndpointProvider;
+use Aws\Endpoint\PartitionInterface;
 
-?>
-HR+cPvzM0ieP1/Vjv8kNwSRelvvOviOwCKimIOMuxXsHJpHzcE18WJleJb8uAfv5VMUMm//Ru9Re
-0LDAAuEQ73CQXFC11Mp0/OdQjRDp93yE4AVhYNXavmNdG5gW3WbSTsH2xvEy1lJ+bw60GTDiBH7J
-UFc6/gfGtr7h+MRuYJjP/tdX4dQKVRKPSN7SIhuO9BhDzsuX1n5zIp3dHXAmVf3XsEwHjPlRpHpD
-mtEGG10FCFHfgdRVIw/Ze89lAGoHPnLHq5rXbeoo5/SbFQn/C5mQ1EM719reRUzNNJXertR+4ZEF
-vQX1pMAbHiBLgQVfYrJ1InZvV1/k2PPhNA0QEq4rnxfDyJNtJVakeNCjQSulaGpG6Uc3kI7qwUMa
-6HNKFfHt1m0t7cM4VNVZ4wKpPqPqxUeD0ZKmoHgB2kUwdlNTtCjl3hjEtuV5B9GghpwqN5IMvEy7
-ZU40pH6xrR+LFm+JdYoNXYjFoUcdUbGqJreRdqdBxCntdqzV4+vnYZJtl9J/aaPP+As7YTBVzTqT
-V5w58syuqAeZvJE6wCHcKEW5TfcqqFBgemfQXpOomio059zKRsE1Dsan5tsEkQcP2lbWPEfMiv4Y
-Og+P0szSetfsQzKr1pcJbXzxbdZ9NYq40a7+DVKOwcQUp0f+fWKLdhflzp+zXykzgmqJX7wyQeEK
-cDdVAoL58OMlaadCc37un7634M7JEKkNshHIST84cdWxm7KDR7wKmje78QU+2+NOctWUl7uMjnhg
-+UOYFSKqpAUc6vRD1Hma7s0loxXp5eY3G7S4NWmtwlOFF/xquHsZkvPzrbXJH8WbYdyzW2DFe2XP
-U4NOMauTBu6o5Oh9BbnRAvu9bU/yUZCs+VR/LacPKw0X/jWrHw2+rU1JwfU/ISmJV2RYtjP6Bsp+
-o+axKNJsta9b3ooe9ybykIUJtcbme+72BeB4ssBKPnDn5r28pZZcpjEWFoTzpwjEu6wKdil4LjYU
-VcU1+l1T5xfQTtdmoUrzUX3+aExVFvBy/uyIL3jiotLmffGg47MpUH6ijxK4HyEus0Zb3CKveSL1
-DzS/VLgtvjEvb7rw4aT6WP9w4GcGVV/YzE2oLxDxePQvgVbZdGhK1iOH6Xg3REFFOWOmZWH+FjM7
-yNGYMCeEJbPgN3Trks/eDk0Zbzf8T8Tb9bzIfsFfeEdsp9n4oL+Mqkz5lpYgDT1F7jUgsKxbN87p
-NOXjT0sB6SlPo0X0mo4NuxYfIn19x3BaMRc/obZNmsUhj7jgePJPzLsxhm7bJfVYe5Ll0FFA1aZ1
-hCLT0+nlJM3Hf89iEYUgkU0Sx7VwH6EuY7as4BlR90otSkYnZgiLgp3YrRDUgseWJ+lOmUk6zgTf
-YI0879e2GTB8pWvfxKSdm9/gkzENZr8WzPrCffKGueO2MC3qGHdShNOzG8cgmlONc4H7gZ2U+XQe
-JYYGkU8wvf5IVViYNxPIo3Qb0J+HbDPJr2ZRPxgvJ2xq+MokgZ5Xd72Madrmmj4oNlvHeRkhh4ES
-5+R1qPogj1cATG70gxpCVc3pReDXtt7JZ51YMEL0ExM29lzRcocGLGMhAjTK5Px+P5Dte8AruX3N
-fBc/DtJzkgeJlAeNl62yZB4b2O9oDj9NtKvvDRnLxD6d0UZdY93hIodGDghbMd27Jf89pBSI/noD
-GOvsQkCD6aE/Qa0bmJvesimg1qxllVlC4ZIS5Zsk3kBysMD35bmHv/9zAahdU3bcaDvH+s6Qlv/U
-kIlPVpVyKiGeaA1Z8EBxu84639DNYPQzMlKsmLrX06pccnk2XVzmxHSGQoI3eZZN/xIDmguc+hZB
-Fc+2f5y5AoyPIc2DizB8B64KlD/0/gl3eMZRgPBAxAklgBuxVPaQFggXqsRRtUzP/mW/fqkwGjvk
-KwLCPAswErluwZ7BgOimmH/pV8ws49nbZ2RyIkgPr6Pfl7iVG3HpKli27S+EUPDccp714ClIkQvt
-sM4UkEUzT9LohiBbDzGhcJKfyVGuAPfXWNHR+Vc38rwENmaFWoDaabaehtqtnobAVeRiDl+P0Zk7
-UvnwsOnxQrUxrCQOlg+Q1anA+Gic+BhA2ho4TE1uKH3VYYB2Xkd5NBhi2NoHLUzgcE3Nf0hhT9G+
-qfliEixfK6GL+5VJv+BLQyOZBCJkt+RTJPBWtb9pm/pj4ainXL0IkqAe4vSA7p6NC75VdTtaE4eX
-5X9BnaE4a917Fo35Q3StgzRGAygvBiusndcAdzV8aA9sSFZ4YxYXt4qbqzbi+qevrQQmFzZ1a3Kh
-cyS+VxgV7yDV8r0TJt2AyE4TgKdHYgTg9wQir/E6Kb5doRnM6hkb7B7ADktZ+Fq929YyiZsrFp2g
-qNf0aj2GPwkl9NqtCq4jNYSivBNOTKWx/n7kS7d9M6vmoko3T041Ig0mVG5/uQB3kplD5X6WHrq9
-XqjHZM9fThRM9qgDIs+rm4ATzZfKwpPk10E0Eaauyzgik5czR5kIA6c9grbyA/t1E/i07ZwmyrQH
-GqEITFNGd1xWjgd4gfCrn7yfWQIGsbbpGTOjpxA0X/mf7CYjhn2qqJXAM54x7Uo7zIZvPnMxHTVs
-x/5mFKVLfuN14dzo2TFv8ay6xA5vttvY3svSTv3WCk54NW56Z+NFhHkWffScylpZ87xObEMx9KJf
-BRuXmLB1z4Pyw7CzBqr1K5k+GKUXJgr6siNCL8G+9l0dmQV9UcZ8lWN7QydCBLfWc57xGnmb65Se
-C1NNz3N1HeFKWQ9YTeVr3j8RPkbGh9HzXRZAXSZLj0YoM9omCM9Lu1PzpTIvQE/UQ8QSey6HLrgb
-9W63driMtOJLas/IDyyB1GY4Z/OT/gINmeQX4xzyWIfEDlDOzFEb62GMf5rf5dLIixgsAYSQ+7kz
-JReexYXWwkhQZz934VxZSOhngGWhHP64PbFtuPvz+3fpGzH4MooHSMyxUMJEAPWQ6QD93oONmMn4
-oLJ5Eo23E96kA7SnaGAWB6/LJhPOveKXEqvPFrxYXBC7LrbFaQOW+Eo1t5lLR6zFzFQiN8OBLo8h
-zmztkuJTOaMZaTWnEIQ5vSVJ1whgYO1PwsZsVj85x/PIDfkkzxwc7YnAKn6Mk405MnTLLg+2Lh8r
-ZGeAzhdJL1c88KqU9CRgNCXxTpbET2pJQmHWFYx3dT4uDoqb4o0anb2byk4ZmShHCmdZwG0axQf8
-YZcoIe1gS4ySKErtRivdZAPMbE7KUneivloUGB2kwasUfQWahLYKLPGq7LsHL91fwbj2zoaEm1gx
-QbFEoOnt0ozY4Qamn1FBuwvd09QU7cDWO1UtqxFvh2PTrFgnPEOTzYXQAMtZJpujz5nsbSsMKioK
-hMIsuqo7h9gRjh4oG6Gi+sKj9d5+MeqiyTiMLwKNY87JDw0bN4WLUIpToCxyqULUg2m4tqPM1RzV
-fR3WQsWMHojN/uftEowuKbPurKChjMOxR4yMMOS5plrY08rY+E0BjuMtNm5f24dC063rWnqRELBI
-EdoFIoq9AK71vWjnhkss7OxdTN+1HmqJIWaCv3U1ftIusMlPJmsAQeWUznxTdoXirNFfcLCbglUs
-AAd4zSm1Gw6672wb4OYWDqDAgLamCVxt8R4TOTXak/ETR1ZJ9nm3l+egHafLTjUfnzT7386F227Q
-tE8C0imsLHqOdAg51uBDTI+jdPFV3UKVd+3Y9PfoQhQO6BHP+vjJQsEEDi87tslDMmHrKLDnGcHx
-3iRUx+J9DdsAmIMXPcupixQp9xzIbLdH+Yn9biGPU9ZFZMjYhaom3kWWE3eKJT2OQJJDyNUJ/4dA
-PcX2nSYpo0jCzpQtvokDFcgOnHXaQz3RVX35nCJp7NLTxea1q5nBs5iOtU8gxcDUWFy4CI3+Hnqc
-BfTDtJUUWK8Pc0tYiEvcX87XPWMTEgqTTpChEZjfxIqYL33tBzxtNOQK/2EMKVGNFNIphAhy9kg5
-O4jHQDaEs/d8boQr2MAOtvAxUqnskqGRwHdZVGx1LBp6MVJeoatEg7Ayfv2CVXDEQSWpcJBnPo+Q
-Ms9qZwkVcCQN0iBGGNyi/LJB5g//oiolwyz5bCNHU6lOBUXOTNy6rEph9RLWB3Z5TDYrBzpiU62J
-ossHlVtcvbxsc3Z15V/58QJgG8SaWt1lt9+0WmrAQsTXXgD+AGlKH72S7yc6AxlJEuFNe9OGH2uk
-TErmMkUMncl7OxEIa6evZQfDKdpQTsqLykeh9t6zoyoVrcKhpYU174uw1VGghXcmfsv3DJD3Hly2
-SN7Yk2emQOt1rKs9EeftpyDA1vG9nkM5xg0LiP+fjSc8TdC9gKuGyftXD6FYff0xu4arBaLYUemZ
-lWZ09KqUABadH3vHrJKneKTc5axg1fOEYKobPMiBAKg+1QeKaxx/nOa8OzQWEJA/XrWC4BX82IWu
-cNeQDkuoFNyX5x80XbB6e3PGRswQ+owPHyPX7Ijsw5P13sgBx/UlN/SoXwFUALnJDWLf+DAzrfXO
-E+fuoQ+oV57F9/GTkKU3FzyLB+x8+zvxyKIsKnoVS8vTiqcyGk9GVmrdYUAKhIT1IE4OYj+4sAry
-o1QuVYnc7r/Ku5jbPYxE0YDZUzZwSM53ZLAj7tORt0NfMvMOBvGDHXsv2fW6COg8Yr+IPMJvvlmA
-m/ajpTsafvA4DbVN9p22wldqIFbO+CaXcD5te+UPMq8Z9tZ9mxW1chPxi2b49EVX7FOiDj4KmWnU
-6hFcM1VgPH2hWgWTZDg+2I8cihRZKfiunN67a75CZLVyf8/uqn4iGNsMtZSVsnqxOrxDAb/OeksG
-Y7YngCWDyWUQgZEbPFBa7xsyt2bT0yTe64koLXuWMOESQU74nkhQh7OIo4GKs10PBAZ8eRXq7701
-W/o1j2oAOZ4BNaUBeRJlX55OKjvSsH5yeKXvFhHwV2Tb8+dHP0JqsLRfm42cOjIUEbqwoT6iOSmo
-YM4PLiBeJwY6xrfRvZjcT5892BDYhc8kRlqRazZsa9eItYE7JJsAAwl6KwsAU3OmjHYQ5Tlz0Zj/
-4+dgfH+p+7XMf6dS9vr9IpwQR7FTJgHvsW6dGzmCMOspcImZIZexmUAxhykS0kx2NvO1dT9efzYM
-36E1i9jAoeX66irN/0Ph0TOg2wATlAJ6o5p914WaMLXIsYzGaz7NIZRnpC1hor+W1zF7bL/r4/+5
-xOKeMjgn2qlf042C2bE3SOprcqjhnDWn52QcnsBxLKxAkA+E9vXJIP/h9Phpa4+0JF9FHOUz8HHi
-+s+AtS42EDFb41e56j9BgVApviuDjw/8XP5ujvFw/hstq7kB5p2yi7787Cc0woPC5O/F6Lt5wcKW
-P2cxqd6GLpI8IxGizl4GgHna9NH6xUGCsXnOIGniodiOVm5vfxnUzSpoA/jb8AsplUKIqUWdJT5I
-MrJKjSnlpmMaHFEAaFF40KoGGdfVWIB9dQLbGRIPzHlciXpwTtDsGbseVl/Q93rhlFal9kO9Gz7N
-noI8LqtPp+sWv1PTKB5c4BfcGYZCUS0v75aeWB77//djjUtLcYBab2xZ/vaMJo+9hrktXjCzaZqP
-hhKIOrSShM0xpteieT3OuMp3p3e9wORYeuFKpustzouqVC3FtJuXqoOnaNPvlCxZ+oPFcSwhlUPN
-406WLk2wcOvPUmwviaQoPf0WR4gcjVeAV2zflIW4fv7ToCB90zs8IYozY7rTVbct6hU6gKGjO4i+
-Btcg/riFx75ItVtOR4PC0Ha4qFLSTOtOD4hGC0OUP3L2KZEpC0Nl+HrHy+zomoiJAPb05eV5ErHO
-qeW+pifWfUB4PdX3XMKN7lpDrb4GohXsTN8Dm5DRpXJtta6/6lqpv2bRacE7TKthVHi5sYVcmtZA
-Oq3/4nWqf6fesWh/457Rkx6lCCrKi1aRW7tDGX+lfUo8hp5ekI7C4/AyAUzcHnVIIe3K9rvbHXdr
-XdIBSK1x8ApBDgyraT83QvbdNEswHe6o8iIAmlqoY+iGHjPUx81XYv8zJhYc4yKdeEtD/O7Wd5h9
-IHwV3E9rk1b3e+T5OYrPi4Kp6JzjsOJwX/JW2vNoMeL7ImJd80pp8hWM0Z2dN7ROQA+hmIHazRsP
-q6472/PCDQHzWCFz0/XZ9baQ+bB44UOxylSJ/XdtGFvv/0ZneM1yk1IB8PoGP8Ia2RXlyZzPYQ17
-yiR2uklseCCtHsFV0FqMAUHrby8ZhDdBMvzo/1yk7//5oh0AUH7fR7NMBGzqKD/H3qkf4t5yAT5p
-yRNumT57BBiuZ/Zee615jtpz/zBHV5RddA6NLF+nCfBKPZeFOpud7p9M8WJ1kNO0t5fM1RtizYu1
-CSwaQNx92L3sEaUMMXMacL0DRW8zkyQIn5ed/C3BTVVpQnq31fWPb1U7d8H00MaoLk/Dr/hl+GBk
-vM1wMXpLnmK0YSMm3UavsU7LraRaCD1C14LtmiDUeHHaQpztVimNl/qOftEPFYVJdA6jG2nPWjIP
-OaOkwh3C1NSdgLSPwN9MK2V9IzCIW2ZgTu/9VxfxplKiHnFYUj6rKFtAhmcxsZ6GkGr1pb2/C2Vh
-OL0b/zTE0E/8gC2CY8UQ6jlgfP74ghQetGUH2LYy5nk0CoBdlMG91G19+X/Kd0TZb3rDAoseBH2/
-CwRJ1S1e2PJs/aXvpiklAhhjzqQr3H3tyoRqQOJJRZEKIvvMV5y3EzpYWWMqT1rKCjFchyZhTs74
-Y+xxYUmoQPZHLctC5SBlgbLO8sSZ9t/8SDolGWfLyD2tcPoghqpuXF9g6OmvI/0LcqSOv5AvfcEM
-X1+am4gzjKHwmhrjUnIkr1tm3Xl8jAmM5yKRAi8fZAFj9xrkAQVHor+Bm8GVSRt3ahaGCGzaqmkY
-gaJ+W/vIoyCFIbTcCbIkT+mGguA0pDe+RvHDA7TUhdp/SRps+DZc/ebRW1dFnyg8snMXk2qJ/ocU
-YIw1Nnmwjic+70eVRL/l6etsfqYZpq7FtTwq1QYKWoJUE2/XlaHrKX6aNjaF3gDyM2j9D3AXdJk8
-zd+M1Hnb4txSUwzf7ttdnneVONUxdk22pS7uGSCmQdpY/AFnhCBsdghvX20tpyotYjgjDeBBM8jA
-sGsZ/Hh8pv5LW7EEUsYdEB2k7DR2v+EtkWS49+nn0x0/hPcNrztPYZBGmMApT5UmjQLBM+FROh1M
-QxJJJCU5GTg/cPJJZWVkwti7Sv8ou4ekDx/Zgn/BUK+Cqv0ouZW3fjzcNm7FD9tlM+AmK2HZdykD
-97w/Fa6xVKvgQIEhuoDnTvU6jnqjrJ4JowAxq1eVpUpi4b27utuYPVhPm0oA8mm9eXEcW3udvnTw
-g+k1EoaVLRVER1jKtfxtVRtv2rgm0w2uN5sqh3veQMXqqpAoQiYGbk+dF+6zYS2+Z0soGDJgfz9S
-OUROA/9COk8F2R4lw++iD/Rbv8BDqA5XsSyr+LT4mLxP9/7iew8oDfbH57MiVYikYYKvSJW/SnpY
-eFS5FZJrRxF1hoyasUyhslw3pnbHPRmP39duBYKQCEbh/l1YP5v/DI2fHHTUl5c0amaUy91Zj7Kl
-f/qAXqY5CVUO1S3UCcf/NqlgEjEOMrSPmAJoCPVbGoDZ1wrl/p1Rca+u/J8S/wBRtMY7AM0b208+
-LH7gkOO7hqCCGT+dwXasGdj4UVNok1L1bsbs/W/S+hQG8TTA/heovpRGQB8ORNr2wLbRDfKo7PWO
-jMp28f13faZn9nZyKFPpPXNq6gIDvv6lQxoYy6jgU3FlRkI5KMY6RE99Z175y2ru/HnEgdvmkNIA
-4ee9fJ4UNo3ttgAHRPLmjXyJpnQLY0TJ+53ytA+racAGHnHPcj2XE4ubMipwMiL6ssjWXEC0asst
-rYG2pTC4DFSTG4ACn0qj+eoPUOrUI+OlX+5Pt5jupd/qroxSxfiET8kkfg/FYCLci6YtZ5WMFVXw
-D9NambqChq9LY8OEoBv/MEtqZNo2gltohAxGASRxH4M5Ijnst5spC7Atk2IMgnMDBEa/V1nnaWmw
-NzMySAfKcKB620rlKnuew83XlXFWsN0z1RgyhqBRjC2KXgPvTeBv9AdPLOKiWUw89uqoNP5bsS+A
-RvtSE3FBgYB7fXBGVxqJq4R9nx3glQiFeWjA3QCuhdhoI0rX+qShGVU3sMczlcu0U4CL1TJ+c2u6
-09uxS4RUCkYs15Zhg/NdGyge97PWnCxFzfoHVCS/fd7cVzhB27xWsRv66gqRH89Mp7OJ7FWftCnI
-a0QHyji6nYwGZYwePT3RDwTijY1qiGRRNi2q/HJ8EaRE/FjllQIpMl/l3KSQacgXAnfF94ujqm3Z
-+EREmkPrThsaO2oFGr8DJhhLhUfW5/7k27nErYrQCeWYASS1yVl27hYlwW8Es+znmhR4ys0Eo7jf
-7UFelOFsOh/FIUZBrKhIY08gMt9/N+A5Eh7mcJ7oT+d/4eSLaHJfG+qiS0hsf+k4KsSKtddkLDsu
-h1SM81dJVOFoLsvGSJ4lyCVRivaepIAkdzeJ/GttChghVCZlcqaxLpfWccY+GXDgrmCSIgCWPKad
-6/uAWJW7v25dkCxTW4vfu67X+btZ2gwZQ0t+ffZdX85K7HO5jA5yl/tFEbNRghRQYfil6lflghyO
-FVGCCjbVnkUaANuaBfzs1V/9QEdQ68rQKqaeVymk+7uIK/ALepCnyu9tDtF8nlDf7jXyDQr9NK3n
-FQg4yL82uQ2ILaV4Ok8KyRMfxgZe0nz1Pu/j9gNmyN1ypMmzO80Pl045vdsQM7zkxBWl22kVqLCb
-O8EwNlC9W5xv7vIK6G18dqoZKtesX1bFsn0hMJ+1WGHEchU0yKBqjGkXukCS3wDNQpavk01jvPQO
-gM3Osggx8iy7lnWOEqVIb08MNEYPg7ZEJzTjfmd9gpid6lnW0rPu0HLoatB4+NCn1YjuB1h4WBOj
-CyxVy2sEVhTjnBaNodeIILXg7QdG6zCn7ROeYMpLGNGHrRlQPuUd7mXsOf9YAWKq3L5m+FTIXOv5
-BcbbZLOJQjj6qWM6bNMaavolneV522/j/FcuzmIIVvGVxe4lPo8fr0wUk8duboxjp8i2oPptsZJ4
-SAvCMhnE98jEWdO2r7FgPddiPNtK054+pmz+hfYqorMuLcgeRMKY2UV9u6io1Od7L94lAexk6HSQ
-0OboBmJR0V4Vf2wr+T1IRmGU5qzPi4NUp2YdhuRcmX8+1kQpfDX3XDB4Zxyd2ix904yVkMfsHRnx
-bdxiK6zGge1V9bO5MmVLxZJ5KoW+r6KbMN3xUC+4kCVv2+MeWD5FR1j2m109wyVA+VJH5MzkJgeP
-Pl6gRAXFyTae+UZ5Ee49XpANDY8Jq5r3OxNh576DFRIVX6pKKy6XqTcPa6bGMPErUR6oA9W9bb4C
-0Usr5J/nNEvXx3gUrBflmM7TNj1bIkPbI3lyfK+wOnHYPn+y7B7gCeubmgUlho9s9EOoiO9yC296
-MAA2sNlvsJ3+vxdvlpT8R02cGzPPaN+dr38E3O4CFooqxZEeHO0GrXrB80VhOAVUAjxnP239wW1c
-EJcwkdJBqrIxMrWiabRysvgRPTDY2Ma6iYwpCLJ6EoU6n0UuWrygFQj5d80m89EjyJZXfag6yrRu
-B3i+LdzeH9Q4zaWRfQUO0p5f8pADVOS97IIH4l5eBTxmZb7TeRnb2DWjzuoAs6OBoK79t63hUcCK
-ynjTs4o7K/JK6MpuxkV6z9fkKbgsCrHZkro7BL9REh2dbqZkxE9CbbzLPCJwvsqT8zJ0yRWTo9B2
-FrFvDhwQLsGQzSG1++eTl1elxHcKSDfolYN1Kg1WpNODSSzIYwknTg7iIp4z2C/nnNz/7LQDDELU
-X1JU2qWpwJlqFsVRjwHHViaGR8WM2dF2dLm7US6VCOVVXoO6NKIhPZ3Eyxy135ldOTj2Y5kTu5MQ
-Bb9zpMatED5P7jyMT9s0tKLMrUtWrWM0oEWNsTSTMuqA7JUTrY2QTemRNx+4lStSSfq8VoRh6dXz
-PQdzYVdSBmhZYqPw0Ii01S+YiPLzdi/EDDwv6lITwQFcy0mnpFN0VCUsljCA0JZ/xzoBxLzBx1NO
-m6Iu8FnGb4NSetjGegGZnIITaqHzNgejJB1aiunA3LN4yxpjzHx7jWZrkW8ki8iqlqpbdSmnlL+1
-UtZYNzg6hgnnzR/UM8CpiwH/b6dsGxqe3wX86zC1TH0qZE1MIGfIFcdjIkZbfCsUJ6GdMMeV12Xs
-7g62ZQuxTuvYnIenCImGpOImSIMLb/vP8WprYYEQvbtao+m0UiCikEtYNqF5ji6ex7vDert4Rh0U
-weltaDRRaAmVUBc7ztTYY1joKg8+P/v8Wv96bbfOH2EOu/zVay3wHMyFQvQGn33uBolNkgtMDRzr
-ud79HMQj4aYihm9iIV+OrFUzssgG9gPxkJN2tR4IyHIEEvQZ9pSNsDmLPkZCardWSFKB/R8u9vNG
-8iNVgreYNFJ9H6bzH4K5nJJlDf4cPeawC0MzkFB4qJ/SPocgx0d+LPucfcK6Ak4GVNEUEhp0TuDx
-EKmJSvj2Tbi4YNYl9rcuYxPQHmxV6V9OjhkETk1ulwGaxot6oifYmSnXso0lBKamEluArMGjdM41
-2A0biq738r/XRMf+EQoUDSI9YGu5G0go9jbTsBbCmIdUWDR5dyNRBuTo7vOKletcQVKjqS+RJ9Fz
-oe//z++ydBBMiEFj6EJOhDowJsAbANxrw1ruYM9MhAh3CNjapvQCdFGw/mBn7ssD8R0kFQPBpARJ
-nUVguuMR4bkOHVGnaZxvFdnGm3txW66WPzgCEc01KjUAoo/Q/rA3GgIE1xE0wASTCTW4OyZv92i5
-aT0/PJMMa8d1dAN5iI3nxs3kuwUpRxj7qdqW+LmFojHD1i+fPOXZ4JdR94UGk4ulcsRFmGz8lZy4
-a8ecJxWuWLFI5QaGfL93xq1TJ5EGXLtEY3F/V/g3KiiYg5PalAP+Aos7kLlBIVYZLA7/XGuDzd3x
-j0OZ+u0m/ipsJAD2zacLy0eESHVdCe0LOGV8ogwPjlgEULrVDHKAg2+cyw5iSf7ymXTEPttIUrCQ
-K1rBTo/zqOjVmdo7xcY0xlVZioVRyUL0yvvu6ttPZ/8LAQL50ovmAAu4OaaECBS0Ky0uXt/z0+S8
-mhbpxIsUX0wO8ckHyaWwGaxwtYcJ5p7zwmSslGLvGLrbMU+FBMtJz3zKwYF+x8BYqqEwfUlgu5Oe
-HtctfL/U7WmS7tkDUWtpJIYwuvESMA6B7j8VKwwsN0hMiW==
+class MultiRegionClient implements AwsClientInterface
+{
+    use AwsClientTrait;
+
+    /** @var AwsClientInterface[] A pool of clients keyed by region. */
+    private $clientPool = [];
+    /** @var callable */
+    private $factory;
+    /** @var PartitionInterface */
+    private $partition;
+    /** @var array */
+    private $args;
+    /** @var array */
+    private $config;
+    /** @var HandlerList */
+    private $handlerList;
+
+    public static function getArguments()
+    {
+        $args = array_intersect_key(
+            ClientResolver::getDefaultArguments(),
+            ['service' => true, 'region' => true]
+        );
+        $args['region']['required'] = false;
+
+        return $args + [
+            'client_factory' => [
+                'type' => 'config',
+                'valid' => ['callable'],
+                'doc' => 'A callable that takes an array of client'
+                    . ' configuration arguments and returns a regionalized'
+                    . ' client.',
+                'required' => true,
+                'internal' => true,
+                'default' => function (array $args) {
+                    $namespace = manifest($args['service'])['namespace'];
+                    $klass = "Aws\\{$namespace}\\{$namespace}Client";
+                    $region = isset($args['region']) ? $args['region'] : null;
+
+                    return function (array $args) use ($klass, $region) {
+                        if ($region && empty($args['region'])) {
+                            $args['region'] = $region;
+                        }
+
+                        return new $klass($args);
+                    };
+                },
+            ],
+            'partition' => [
+                'type'    => 'config',
+                'valid'   => ['string', PartitionInterface::class],
+                'doc'     => 'AWS partition to connect to. Valid partitions'
+                    . ' include "aws," "aws-cn," and "aws-us-gov." Used to'
+                    . ' restrict the scope of the mapRegions method.',
+                'default' => function (array $args) {
+                    $region = isset($args['region']) ? $args['region'] : '';
+                    return PartitionEndpointProvider::defaultProvider()
+                        ->getPartition($region, $args['service']);
+                },
+                'fn'      => function ($value, array &$args) {
+                    if (is_string($value)) {
+                        $value = PartitionEndpointProvider::defaultProvider()
+                            ->getPartitionByName($value);
+                    }
+
+                    if (!$value instanceof PartitionInterface) {
+                        throw new \InvalidArgumentException('No valid partition'
+                            . ' was provided. Provide a concrete partition or'
+                            . ' the name of a partition (e.g., "aws," "aws-cn,"'
+                            . ' or "aws-us-gov").'
+                        );
+                    }
+
+                    $args['partition'] = $value;
+                    $args['endpoint_provider'] = $value;
+                }
+            ],
+        ];
+    }
+
+    /**
+     * The multi-region client constructor accepts the following options:
+     *
+     * - client_factory: (callable) An optional callable that takes an array of
+     *   client configuration arguments and returns a regionalized client.
+     * - partition: (Aws\Endpoint\Partition|string) AWS partition to connect to.
+     *   Valid partitions include "aws," "aws-cn," and "aws-us-gov." Used to
+     *   restrict the scope of the mapRegions method.
+     * - region: (string) Region to connect to when no override is provided.
+     *   Used to create the default client factory and determine the appropriate
+     *   AWS partition when present.
+     *
+     * @param array $args Client configuration arguments.
+     */
+    public function __construct(array $args = [])
+    {
+        if (!isset($args['service'])) {
+            $args['service'] = $this->parseClass();
+        }
+
+        $this->handlerList = new HandlerList(function (
+            CommandInterface $command
+        ) {
+            list($region, $args) = $this->getRegionFromArgs($command->toArray());
+            $command = $this->getClientFromPool($region)
+                ->getCommand($command->getName(), $args);
+            return $this->executeAsync($command);
+        });
+
+        $argDefinitions = static::getArguments();
+        $resolver = new ClientResolver($argDefinitions);
+        $args = $resolver->resolve($args, $this->handlerList);
+        $this->config = $args['config'];
+        $this->factory = $args['client_factory'];
+        $this->partition = $args['partition'];
+        $this->args = array_diff_key($args, $args['config']);
+    }
+
+    /**
+     * Get the region to which the client is configured to send requests by
+     * default.
+     *
+     * @return string
+     */
+    public function getRegion()
+    {
+        return $this->getClientFromPool()->getRegion();
+    }
+
+    /**
+     * Create a command for an operation name.
+     *
+     * Special keys may be set on the command to control how it behaves,
+     * including:
+     *
+     * - @http: Associative array of transfer specific options to apply to the
+     *   request that is serialized for this command. Available keys include
+     *   "proxy", "verify", "timeout", "connect_timeout", "debug", "delay", and
+     *   "headers".
+     * - @region: The region to which the command should be sent.
+     *
+     * @param string $name Name of the operation to use in the command
+     * @param array  $args Arguments to pass to the command
+     *
+     * @return CommandInterface
+     * @throws \InvalidArgumentException if no command can be found by name
+     */
+    public function getCommand($name, array $args = [])
+    {
+        return new Command($name, $args, clone $this->getHandlerList());
+    }
+
+    public function getConfig($option = null)
+    {
+        if (null === $option) {
+            return $this->config;
+        }
+
+        if (isset($this->config[$option])) {
+            return $this->config[$option];
+        }
+
+        return $this->getClientFromPool()->getConfig($option);
+    }
+
+    public function getCredentials()
+    {
+        return $this->getClientFromPool()->getCredentials();
+    }
+
+    public function getHandlerList()
+    {
+        return $this->handlerList;
+    }
+
+    public function getApi()
+    {
+        return $this->getClientFromPool()->getApi();
+    }
+
+    public function getEndpoint()
+    {
+        return $this->getClientFromPool()->getEndpoint();
+    }
+
+    /**
+     * @param string $region    Omit this argument or pass in an empty string to
+     *                          allow the configured client factory to apply the
+     *                          region.
+     *
+     * @return AwsClientInterface
+     */
+    protected function getClientFromPool($region = '')
+    {
+        if (empty($this->clientPool[$region])) {
+            $factory = $this->factory;
+            $this->clientPool[$region] = $factory(
+                array_replace($this->args, array_filter(['region' => $region]))
+            );
+        }
+
+        return $this->clientPool[$region];
+    }
+
+    /**
+     * Parse the class name and return the "service" name of the client.
+     *
+     * @return string
+     */
+    private function parseClass()
+    {
+        $klass = get_class($this);
+
+        if ($klass === __CLASS__) {
+            return '';
+        }
+
+        return strtolower(substr($klass, strrpos($klass, '\\') + 1, -17));
+    }
+
+    private function getRegionFromArgs(array $args)
+    {
+        $region = isset($args['@region'])
+            ? $args['@region']
+            : $this->getRegion();
+        unset($args['@region']);
+
+        return [$region, $args];
+    }
+}

@@ -1,256 +1,294 @@
-<?php //ICB0 56:0 71:263c                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/*
+ * CKFinder
+ * ========
+ * https://ckeditor.com/ckeditor-4/ckfinder/
+ * Copyright (c) 2007-2018, CKSource - Frederico Knabben. All rights reserved.
+ *
+ * The software, this file and its contents are subject to the CKFinder
+ * License. Please read the license.txt file before using, installing, copying,
+ * modifying or distribute this file or part of its contents. The contents of
+ * this file is part of the Source Code of CKFinder.
+ */
 
-?>
-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
+namespace CKSource\CKFinder\Operation;
+
+use CKSource\CKFinder\CKFinder;
+use CKSource\CKFinder\Filesystem\Path;
+use CKSource\CKFinder\Response\JsonResponse;
+use Symfony\Component\HttpFoundation\Response;
+use Symfony\Component\HttpKernel\Event\FilterResponseEvent;
+use Symfony\Component\HttpKernel\KernelEvents;
+
+/**
+ * The OperationManager class.
+ *
+ * A class used for tracking the progress of the time consuming operations.
+ */
+class OperationManager
+{
+    /**
+     * Time interval in seconds for operation status updates.
+     */
+    const UPDATE_STATUS_INTERVAL = 2;
+
+    /**
+     * Time interval in seconds for extending the execution time of the script.
+     */
+    const EXTEND_EXECUTION_INTERVAL = 20;
+
+    /**
+     * @var CKFinder
+     */
+    protected $app;
+
+    /**
+     * The CKFinder temporary directory path.
+     *
+     * @var string
+     */
+    protected $tempDirectory;
+
+    /**
+     * @var string unique identifier of started operation
+     */
+    protected $startedOperationId;
+
+    /**
+     * Start time timestamp.
+     *
+     * @var int
+     */
+    protected $startTime;
+
+    /**
+     * Last status update timestamp.
+     *
+     * @var int
+     */
+    protected $lastUpdateTime;
+
+    /**
+     * Last execution time extending timestamp.
+     *
+     * @var int
+     */
+    protected $lastExtendExecutionTime;
+
+    /**
+     * Constructor.
+     *
+     * @param CKFinder $app
+     */
+    public function __construct(CKFinder $app)
+    {
+        $this->app = $app;
+        $this->tempDirectory = $app['config']->get('tempDirectory');
+    }
+
+    /**
+     * Validates the operation ID.
+     *
+     * @param string $operationId
+     *
+     * @return bool `true` if the operation ID format is valid.
+     */
+    protected function isValidOperationId($operationId)
+    {
+        return (bool) preg_match('/^[a-z0-9]{16}$/', $operationId);
+    }
+
+    /**
+     * Starts a time consuming operation in the current request.
+
+     * @return bool `true` if operation tracking was started.
+     */
+    public function start()
+    {
+        $request = $this->app->getRequest();
+        $operationId = (string) $request->query->get('operationId');
+
+        if (null === $operationId || !$this->isValidOperationId($operationId)) {
+            return false;
+        }
+
+        if (!mkdir($this->getFilePath($operationId, null))) {
+            return false;
+        }
+
+        $this->startedOperationId = $operationId;
+        $this->startTime = time();
+
+        ignore_user_abort();
+
+        // Session needs to be closed to not block probing requests
+        session_write_close();
+
+        return true;
+    }
+
+    /**
+     * Aborts an operation with a given ID.
+     *
+     * @param string $operationId
+     *
+     * @return bool `true` if the operation was aborted.
+     */
+    public function abort($operationId)
+    {
+        if (!$this->isValidOperationId($operationId) || !$this->operationStarted($operationId)) {
+            return false;
+        }
+
+        file_put_contents($this->getFilePath($operationId, 'abort'), serialize(true));
+
+        return true;
+    }
+
+    /**
+     * Checks if the operation started in the current request was aborted.
+     *
+     * @return bool `true` if the operation was aborted.
+     */
+    public function isAborted()
+    {
+        if (!$this->startedOperationId) {
+            return false;
+        }
+
+        clearstatcache();
+
+        return $this->operationStarted($this->startedOperationId) &&
+               file_exists($this->getFilePath($this->startedOperationId, 'abort'));
+    }
+
+    /**
+     * Updates the status of the current operation.
+     *
+     * @param array $status data describing the operation status.
+     */
+    public function updateStatus(array $status)
+    {
+        if ($this->startedOperationId) {
+            $currentTime = time();
+
+            if ($currentTime - $this->lastUpdateTime >= self::UPDATE_STATUS_INTERVAL) {
+                $this->extendExecutionTime($currentTime);
+
+                $this->lastUpdateTime = $currentTime;
+
+                file_put_contents($this->getFilePath($this->startedOperationId), serialize($status));
+            }
+        }
+    }
+
+    /**
+     * Extends the execution time of the script.
+     *
+     * @param int $currentTime current timestamp
+     */
+    protected function extendExecutionTime($currentTime)
+    {
+        if ($currentTime - $this->lastExtendExecutionTime >= self::EXTEND_EXECUTION_INTERVAL) {
+            set_time_limit(30);
+
+            $this->lastExtendExecutionTime = $currentTime;
+
+            // Emit some whitespaces for Nginx + FPM configuration to avoid 504 Gateway Timeout error
+            if (function_exists('fastcgi_finish_request')) {
+                // Clear the buffer to remove any garbage before flushing
+                Response::closeOutputBuffers(0, false);
+                echo ' ';
+                @ob_end_flush();
+                @flush();
+            }
+        }
+    }
+
+    /**
+     * Returns the status of the current operation.
+     *
+     * @param string $operationId
+     *
+     * @return array operation status data
+     */
+    public function getStatus($operationId)
+    {
+        if ($this->isValidOperationId($operationId)) {
+            $filePath = $this->getFilePath($operationId);
+            if (file_exists($filePath)) {
+                return unserialize(file_get_contents($filePath));
+            }
+        }
+
+        return null;
+    }
+
+    /**
+     * Returns a path for a file located in the current operation temporary directory.
+     *
+     * @param string $operationId
+     * @param string $file
+     *
+     * @return string file path
+     */
+    protected function getFilePath($operationId, $file = 'status')
+    {
+        return Path::combine($this->tempDirectory, 'ckf-operation-' . $operationId, $file);
+    }
+
+    /**
+     * Checks if a temporary directory for an operation with a given ID exists.
+     *
+     * @param string $operationId
+     *
+     * @return bool `true` if the directory exists - the operation was started.
+     */
+    protected function operationStarted($operationId)
+    {
+        $directoryPath = $this->getFilePath($operationId, null);
+
+        return is_dir($directoryPath);
+    }
+
+    /**
+     * Adds information about aborting to the long running request response.
+     */
+    public function addInfoToResponse()
+    {
+        $this->app->on(KernelEvents::RESPONSE, function (FilterResponseEvent $event) {
+            $response = $event->getResponse();
+
+            if ($response instanceof JsonResponse) {
+                $responseData = (array) $response->getData();
+                $responseData = array('aborted' => $this->isAborted()) + $responseData;
+                $response->setData($responseData);
+            }
+        }, 512);
+    }
+
+    /**
+     * Destructor to remove temporary files if the operation was started for the current request.
+     */
+    public function __destruct()
+    {
+        if ($this->startedOperationId) {
+            $directoryPath = $this->getFilePath($this->startedOperationId, null);
+            $toRemove = array(
+                $statusFilePath = Path::combine($directoryPath, 'status'),
+                $abortFilePath = Path::combine($directoryPath, 'abort')
+            );
+
+            foreach ($toRemove as $filePath) {
+                if (file_exists($filePath)) {
+                    unlink($filePath);
+                }
+            }
+
+            if (is_dir($directoryPath)) {
+                rmdir($directoryPath);
+            }
+        }
+    }
+}

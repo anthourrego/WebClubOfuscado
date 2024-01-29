@@ -1,90 +1,218 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2017, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2017, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license	http://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 1.0.0
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-EUxOtgMNQLo+7gbgeVQz
+/**
+ * Initialize the database
+ *
+ * @category	Database
+ * @author	EllisLab Dev Team
+ * @link	https://codeigniter.com/user_guide/database/
+ *
+ * @param 	string|string[]	$params
+ * @param 	bool		$query_builder_override
+ *				Determines if query builder should be used or not
+ */
+function &DB($params = '', $query_builder_override = NULL)
+{
+	// Load the DB config file if a DSN string wasn't passed
+	if (is_string($params) && strpos($params, '://') === FALSE)
+	{
+		// Is the config file in the environment folder?
+		if ( ! file_exists($file_path = APPPATH.'config/'.ENVIRONMENT.'/database.php')
+			&& ! file_exists($file_path = APPPATH.'config/database.php'))
+		{
+			show_error('The configuration file database.php does not exist.');
+		}
+
+		include($file_path);
+
+		// Make packages contain database config files,
+		// given that the controller instance already exists
+		if (class_exists('CI_Controller', FALSE))
+		{
+			foreach (get_instance()->load->get_package_paths() as $path)
+			{
+				if ($path !== APPPATH)
+				{
+					if (file_exists($file_path = $path.'config/'.ENVIRONMENT.'/database.php'))
+					{
+						include($file_path);
+					}
+					elseif (file_exists($file_path = $path.'config/database.php'))
+					{
+						include($file_path);
+					}
+				}
+			}
+		}
+
+		if ( ! isset($db) OR count($db) === 0)
+		{
+			show_error('No database connection settings were found in the database config file.');
+		}
+
+		if ($params !== '')
+		{
+			$active_group = $params;
+		}
+
+		if ( ! isset($active_group))
+		{
+			show_error('You have not specified a database connection group via $active_group in your config/database.php file.');
+		}
+		elseif ( ! isset($db[$active_group]))
+		{
+			show_error('You have specified an invalid database connection group ('.$active_group.') in your config/database.php file.');
+		}
+
+		$params = $db[$active_group];
+	}
+	elseif (is_string($params))
+	{
+		/**
+		 * Parse the URL from the DSN string
+		 * Database settings can be passed as discreet
+		 * parameters or as a data source name in the first
+		 * parameter. DSNs must have this prototype:
+		 * $dsn = 'driver://username:password@hostname/database';
+		 */
+		if (($dsn = @parse_url($params)) === FALSE)
+		{
+			show_error('Invalid DB Connection String');
+		}
+
+		$params = array(
+			'dbdriver'	=> $dsn['scheme'],
+			'hostname'	=> isset($dsn['host']) ? rawurldecode($dsn['host']) : '',
+			'port'		=> isset($dsn['port']) ? rawurldecode($dsn['port']) : '',
+			'username'	=> isset($dsn['user']) ? rawurldecode($dsn['user']) : '',
+			'password'	=> isset($dsn['pass']) ? rawurldecode($dsn['pass']) : '',
+			'database'	=> isset($dsn['path']) ? rawurldecode(substr($dsn['path'], 1)) : ''
+		);
+
+		// Were additional config items set?
+		if (isset($dsn['query']))
+		{
+			parse_str($dsn['query'], $extra);
+
+			foreach ($extra as $key => $val)
+			{
+				if (is_string($val) && in_array(strtoupper($val), array('TRUE', 'FALSE', 'NULL')))
+				{
+					$val = var_export($val, TRUE);
+				}
+
+				$params[$key] = $val;
+			}
+		}
+	}
+
+	// No DB specified yet? Beat them senseless...
+	if (empty($params['dbdriver']))
+	{
+		show_error('You have not selected a database type to connect to.');
+	}
+
+	// Load the DB classes. Note: Since the query builder class is optional
+	// we need to dynamically create a class that extends proper parent class
+	// based on whether we're using the query builder class or not.
+	if ($query_builder_override !== NULL)
+	{
+		$query_builder = $query_builder_override;
+	}
+	// Backwards compatibility work-around for keeping the
+	// $active_record config variable working. Should be
+	// removed in v3.1
+	elseif ( ! isset($query_builder) && isset($active_record))
+	{
+		$query_builder = $active_record;
+	}
+
+	require_once(BASEPATH.'database/DB_driver.php');
+
+	if ( ! isset($query_builder) OR $query_builder === TRUE)
+	{
+		require_once(BASEPATH.'database/DB_query_builder.php');
+		if ( ! class_exists('CI_DB', FALSE))
+		{
+			/**
+			 * CI_DB
+			 *
+			 * Acts as an alias for both CI_DB_driver and CI_DB_query_builder.
+			 *
+			 * @see	CI_DB_query_builder
+			 * @see	CI_DB_driver
+			 */
+			class CI_DB extends CI_DB_query_builder { }
+		}
+	}
+	elseif ( ! class_exists('CI_DB', FALSE))
+	{
+		/**
+	 	 * @ignore
+		 */
+		class CI_DB extends CI_DB_driver { }
+	}
+
+	// Load the DB driver
+	$driver_file = BASEPATH.'database/drivers/'.$params['dbdriver'].'/'.$params['dbdriver'].'_driver.php';
+
+	file_exists($driver_file) OR show_error('Invalid DB driver');
+	require_once($driver_file);
+
+	// Instantiate the DB adapter
+	$driver = 'CI_DB_'.$params['dbdriver'].'_driver';
+	$DB = new $driver($params);
+
+	// Check for a subdriver
+	if ( ! empty($DB->subdriver))
+	{
+		$driver_file = BASEPATH.'database/drivers/'.$DB->dbdriver.'/subdrivers/'.$DB->dbdriver.'_'.$DB->subdriver.'_driver.php';
+
+		if (file_exists($driver_file))
+		{
+			require_once($driver_file);
+			$driver = 'CI_DB_'.$DB->dbdriver.'_'.$DB->subdriver.'_driver';
+			$DB = new $driver($params);
+		}
+	}
+
+	$DB->initialize();
+	return $DB;
+}

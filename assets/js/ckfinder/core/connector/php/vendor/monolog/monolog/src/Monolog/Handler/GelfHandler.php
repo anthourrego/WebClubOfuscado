@@ -1,94 +1,65 @@
-<?php //ICB0 56:0 71:edf                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-kf2h25G==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/*
+ * This file is part of the Monolog package.
+ *
+ * (c) Jordi Boggiano <j.boggiano@seld.be>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
 
-?>
-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
-w1T6i1pv7vq=
+namespace Monolog\Handler;
+
+use Gelf\IMessagePublisher;
+use Gelf\PublisherInterface;
+use Gelf\Publisher;
+use InvalidArgumentException;
+use Monolog\Logger;
+use Monolog\Formatter\GelfMessageFormatter;
+
+/**
+ * Handler to send messages to a Graylog2 (http://www.graylog2.org) server
+ *
+ * @author Matt Lehner <mlehner@gmail.com>
+ * @author Benjamin Zikarsky <benjamin@zikarsky.de>
+ */
+class GelfHandler extends AbstractProcessingHandler
+{
+    /**
+     * @var Publisher the publisher object that sends the message to the server
+     */
+    protected $publisher;
+
+    /**
+     * @param PublisherInterface|IMessagePublisher|Publisher $publisher a publisher object
+     * @param int                                            $level     The minimum logging level at which this handler will be triggered
+     * @param bool                                           $bubble    Whether the messages that are handled can bubble up the stack or not
+     */
+    public function __construct($publisher, $level = Logger::DEBUG, $bubble = true)
+    {
+        parent::__construct($level, $bubble);
+
+        if (!$publisher instanceof Publisher && !$publisher instanceof IMessagePublisher && !$publisher instanceof PublisherInterface) {
+            throw new InvalidArgumentException('Invalid publisher, expected a Gelf\Publisher, Gelf\IMessagePublisher or Gelf\PublisherInterface instance');
+        }
+
+        $this->publisher = $publisher;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    protected function write(array $record)
+    {
+        $this->publisher->publish($record['formatted']);
+    }
+
+    /**
+     * {@inheritDoc}
+     */
+    protected function getDefaultFormatter()
+    {
+        return new GelfMessageFormatter();
+    }
+}

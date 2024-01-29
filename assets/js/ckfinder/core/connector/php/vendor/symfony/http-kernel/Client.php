@@ -1,117 +1,197 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-bAvhg092
+/*
+ * This file is part of the Symfony package.
+ *
+ * (c) Fabien Potencier <fabien@symfony.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+namespace Symfony\Component\HttpKernel;
+
+use Symfony\Component\BrowserKit\Client as BaseClient;
+use Symfony\Component\BrowserKit\Request as DomRequest;
+use Symfony\Component\BrowserKit\Response as DomResponse;
+use Symfony\Component\BrowserKit\Cookie as DomCookie;
+use Symfony\Component\BrowserKit\History;
+use Symfony\Component\BrowserKit\CookieJar;
+use Symfony\Component\HttpFoundation\File\UploadedFile;
+use Symfony\Component\HttpFoundation\Request;
+use Symfony\Component\HttpFoundation\Response;
+
+/**
+ * Client simulates a browser and makes requests to a Kernel object.
+ *
+ * @author Fabien Potencier <fabien@symfony.com>
+ *
+ * @method Request|null  getRequest()  A Request instance
+ * @method Response|null getResponse() A Response instance
+ */
+class Client extends BaseClient
+{
+    protected $kernel;
+
+    /**
+     * @param HttpKernelInterface $kernel    An HttpKernel instance
+     * @param array               $server    The server parameters (equivalent of $_SERVER)
+     * @param History             $history   A History instance to store the browser history
+     * @param CookieJar           $cookieJar A CookieJar instance to store the cookies
+     */
+    public function __construct(HttpKernelInterface $kernel, array $server = array(), History $history = null, CookieJar $cookieJar = null)
+    {
+        // These class properties must be set before calling the parent constructor, as it may depend on it.
+        $this->kernel = $kernel;
+        $this->followRedirects = false;
+
+        parent::__construct($server, $history, $cookieJar);
+    }
+
+    /**
+     * Makes a request.
+     *
+     * @return Response A Response instance
+     */
+    protected function doRequest($request)
+    {
+        $response = $this->kernel->handle($request);
+
+        if ($this->kernel instanceof TerminableInterface) {
+            $this->kernel->terminate($request, $response);
+        }
+
+        return $response;
+    }
+
+    /**
+     * Returns the script to execute when the request must be insulated.
+     *
+     * @return string
+     */
+    protected function getScript($request)
+    {
+        $kernel = str_replace("'", "\\'", serialize($this->kernel));
+        $request = str_replace("'", "\\'", serialize($request));
+
+        $r = new \ReflectionClass('\\Symfony\\Component\\ClassLoader\\ClassLoader');
+        $requirePath = str_replace("'", "\\'", $r->getFileName());
+        $symfonyPath = str_replace("'", "\\'", dirname(dirname(dirname(__DIR__))));
+        $errorReporting = error_reporting();
+
+        $code = <<<EOF
+<?php
+
+error_reporting($errorReporting);
+
+require_once '$requirePath';
+
+\$loader = new Symfony\Component\ClassLoader\ClassLoader();
+\$loader->addPrefix('Symfony', '$symfonyPath');
+\$loader->register();
+
+\$kernel = unserialize('$kernel');
+\$request = unserialize('$request');
+EOF;
+
+        return $code.$this->getHandleScript();
+    }
+
+    protected function getHandleScript()
+    {
+        return <<<'EOF'
+$response = $kernel->handle($request);
+
+if ($kernel instanceof Symfony\Component\HttpKernel\TerminableInterface) {
+    $kernel->terminate($request, $response);
+}
+
+echo serialize($response);
+EOF;
+    }
+
+    /**
+     * Converts the BrowserKit request to a HttpKernel request.
+     *
+     * @return Request A Request instance
+     */
+    protected function filterRequest(DomRequest $request)
+    {
+        $httpRequest = Request::create($request->getUri(), $request->getMethod(), $request->getParameters(), $request->getCookies(), $request->getFiles(), $request->getServer(), $request->getContent());
+
+        foreach ($this->filterFiles($httpRequest->files->all()) as $key => $value) {
+            $httpRequest->files->set($key, $value);
+        }
+
+        return $httpRequest;
+    }
+
+    /**
+     * Filters an array of files.
+     *
+     * This method created test instances of UploadedFile so that the move()
+     * method can be called on those instances.
+     *
+     * If the size of a file is greater than the allowed size (from php.ini) then
+     * an invalid UploadedFile is returned with an error set to UPLOAD_ERR_INI_SIZE.
+     *
+     * @see UploadedFile
+     *
+     * @return array An array with all uploaded files marked as already moved
+     */
+    protected function filterFiles(array $files)
+    {
+        $filtered = array();
+        foreach ($files as $key => $value) {
+            if (is_array($value)) {
+                $filtered[$key] = $this->filterFiles($value);
+            } elseif ($value instanceof UploadedFile) {
+                if ($value->isValid() && $value->getSize() > UploadedFile::getMaxFilesize()) {
+                    $filtered[$key] = new UploadedFile(
+                        '',
+                        $value->getClientOriginalName(),
+                        $value->getClientMimeType(),
+                        0,
+                        UPLOAD_ERR_INI_SIZE,
+                        true
+                    );
+                } else {
+                    $filtered[$key] = new UploadedFile(
+                        $value->getPathname(),
+                        $value->getClientOriginalName(),
+                        $value->getClientMimeType(),
+                        $value->getClientSize(),
+                        $value->getError(),
+                        true
+                    );
+                }
+            }
+        }
+
+        return $filtered;
+    }
+
+    /**
+     * Converts the HttpKernel response to a BrowserKit response.
+     *
+     * @return DomResponse A DomResponse instance
+     */
+    protected function filterResponse($response)
+    {
+        $headers = $response->headers->all();
+        if ($response->headers->getCookies()) {
+            $cookies = array();
+            foreach ($response->headers->getCookies() as $cookie) {
+                $cookies[] = new DomCookie($cookie->getName(), $cookie->getValue(), $cookie->getExpiresTime(), $cookie->getPath(), $cookie->getDomain(), $cookie->isSecure(), $cookie->isHttpOnly());
+            }
+            $headers['Set-Cookie'] = $cookies;
+        }
+
+        // this is needed to support StreamedResponse
+        ob_start();
+        $response->sendContent();
+        $content = ob_get_clean();
+
+        return new DomResponse($content, $response->getStatusCode(), $headers);
+    }
+}

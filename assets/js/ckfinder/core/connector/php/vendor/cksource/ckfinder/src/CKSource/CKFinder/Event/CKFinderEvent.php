@@ -1,108 +1,145 @@
-<?php //ICB0 56:0 71:1106                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-wPdG8XNHTj7rdw+ieFLt=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/*
+ * CKFinder
+ * ========
+ * https://ckeditor.com/ckeditor-4/ckfinder/
+ * Copyright (c) 2007-2018, CKSource - Frederico Knabben. All rights reserved.
+ *
+ * The software, this file and its contents are subject to the CKFinder
+ * License. Please read the license.txt file before using, installing, copying,
+ * modifying or distribute this file or part of its contents. The contents of
+ * this file is part of the Source Code of CKFinder.
+ */
 
-?>
-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
+namespace CKSource\CKFinder\Event;
+
+use CKSource\CKFinder\CKFinder;
+use Symfony\Component\EventDispatcher\Event;
+use Symfony\Component\HttpFoundation\Request;
+
+/**
+ * The CKFinderEvent class.
+ *
+ * The base class for all CKFinder events.
+ */
+class CKFinderEvent extends Event
+{
+    /**
+     * The beforeCommand events.
+     *
+     * These events occur before a command is executed, after a particular
+     * command is resolved, i.e. it is decided which command class should be used
+     * to handle the current request.
+     */
+    const BEFORE_COMMAND_PREFIX             = 'ckfinder.beforeCommand.';
+
+    const BEFORE_COMMAND_INIT               = 'ckfinder.beforeCommand.init';
+    const BEFORE_COMMAND_COPY_FILES         = 'ckfinder.beforeCommand.copyFiles';
+    const BEFORE_COMMAND_CREATE_FOLDER      = 'ckfinder.beforeCommand.createFolder';
+    const BEFORE_COMMAND_DELETE_FILES       = 'ckfinder.beforeCommand.deleteFiles';
+    const BEFORE_COMMAND_DELETE_FOLDER      = 'ckfinder.beforeCommand.deleteFolder';
+    const BEFORE_COMMAND_DOWNLOAD_FILE      = 'ckfinder.beforeCommand.downloadFile';
+    const BEFORE_COMMAND_FILE_UPLOAD        = 'ckfinder.beforeCommand.fileUpload';
+    const BEFORE_COMMAND_GET_FILES          = 'ckfinder.beforeCommand.getFiles';
+    const BEFORE_COMMAND_GET_FILE_URL       = 'ckfinder.beforeCommand.getFileUrl';
+    const BEFORE_COMMAND_GET_FOLDERS        = 'ckfinder.beforeCommand.getFolders';
+    const BEFORE_COMMAND_GET_RESIZED_IMAGES = 'ckfinder.beforeCommand.getResizedImages';
+    const BEFORE_COMMAND_IMAGE_EDIT         = 'ckfinder.beforeCommand.imageEdit';
+    const BEFORE_COMMAND_IMAGE_INFO         = 'ckfinder.beforeCommand.imageInfo';
+    const BEFORE_COMMAND_IMAGE_PREVIEW      = 'ckfinder.beforeCommand.imagePreview';
+    const BEFORE_COMMAND_IMAGE_RESIZE       = 'ckfinder.beforeCommand.imageResize';
+    const BEFORE_COMMAND_MOVE_FILES         = 'ckfinder.beforeCommand.moveFiles';
+    const BEFORE_COMMAND_QUICK_UPLOAD       = 'ckfinder.beforeCommand.quickUpload';
+    const BEFORE_COMMAND_RENAME_FILE        = 'ckfinder.beforeCommand.renameFile';
+    const BEFORE_COMMAND_RENAME_FOLDER      = 'ckfinder.beforeCommand.renameFolder';
+    const BEFORE_COMMAND_SAVE_IMAGE         = 'ckfinder.beforeCommand.saveImage';
+    const BEFORE_COMMAND_THUMBNAIL          = 'ckfinder.beforeCommand.thumbnail';
+
+    /**
+     * Intermediate events.
+     */
+    const COPY_FILE              = 'ckfinder.copyFiles.copy';
+    const CREATE_FOLDER          = 'ckfinder.createFolder.create';
+    const DELETE_FILE            = 'ckfinder.deleteFiles.delete';
+    const DELETE_FOLDER          = 'ckfinder.deleteFolder.delete';
+    const DOWNLOAD_FILE          = 'ckfinder.downloadFile.download';
+    const PROXY_DOWNLOAD         = 'ckfinder.proxy.download';
+    const FILE_UPLOAD            = 'ckfinder.uploadFile.upload';
+    const MOVE_FILE              = 'ckfinder.moveFiles.move';
+    const RENAME_FILE            = 'ckfinder.renameFile.rename';
+    const RENAME_FOLDER          = 'ckfinder.renameFolder.rename';
+    const SAVE_IMAGE             = 'ckfinder.saveImage.save';
+    const EDIT_IMAGE             = 'ckfinder.imageEdit.save';
+    const CREATE_THUMBNAIL       = 'ckfinder.thumbnail.createThumbnail';
+    const CREATE_RESIZED_IMAGE   = 'ckfinder.imageResize.createResizedImage';
+
+    const CREATE_RESPONSE_PREFIX = 'ckfinder.createResponse.';
+
+    /**
+     * The afterCommand events.
+     *
+     * These events occur after a command execution, when a response for
+     * a command was created.
+     */
+    const AFTER_COMMAND_PREFIX             = 'ckfinder.afterCommand.';
+
+    const AFTER_COMMAND_INIT               = 'ckfinder.afterCommand.init';
+    const AFTER_COMMAND_COPY_FILES         = 'ckfinder.afterCommand.copyFiles';
+    const AFTER_COMMAND_CREATE_FOLDER      = 'ckfinder.afterCommand.createFolder';
+    const AFTER_COMMAND_DELETE_FILES       = 'ckfinder.afterCommand.deleteFiles';
+    const AFTER_COMMAND_DELETE_FOLDER      = 'ckfinder.afterCommand.deleteFolder';
+    const AFTER_COMMAND_DOWNLOAD_FILE      = 'ckfinder.afterCommand.downloadFile';
+    const AFTER_COMMAND_FILE_UPLOAD        = 'ckfinder.afterCommand.fileUpload';
+    const AFTER_COMMAND_GET_FILES          = 'ckfinder.afterCommand.getFiles';
+    const AFTER_COMMAND_GET_FILE_URL       = 'ckfinder.afterCommand.getFileUrl';
+    const AFTER_COMMAND_GET_FOLDERS        = 'ckfinder.afterCommand.getFolders';
+    const AFTER_COMMAND_GET_RESIZED_IMAGES = 'ckfinder.afterCommand.getResizedImages';
+    const AFTER_COMMAND_IMAGE_EDIT         = 'ckfinder.afterCommand.imageEdit';
+    const AFTER_COMMAND_IMAGE_INFO         = 'ckfinder.afterCommand.imageInfo';
+    const AFTER_COMMAND_IMAGE_PREVIEW      = 'ckfinder.afterCommand.imagePreview';
+    const AFTER_COMMAND_IMAGE_RESIZE       = 'ckfinder.afterCommand.imageResize';
+    const AFTER_COMMAND_MOVE_FILES         = 'ckfinder.afterCommand.moveFiles';
+    const AFTER_COMMAND_QUICK_UPLOAD       = 'ckfinder.afterCommand.quickUpload';
+    const AFTER_COMMAND_RENAME_FILE        = 'ckfinder.afterCommand.renameFile';
+    const AFTER_COMMAND_RENAME_FOLDER      = 'ckfinder.afterCommand.renameFolder';
+    const AFTER_COMMAND_SAVE_IMAGE         = 'ckfinder.afterCommand.saveImage';
+    const AFTER_COMMAND_THUMBNAIL          = 'ckfinder.afterCommand.thumbnail';
+
+    /**
+     * The CKFinder instance.
+     *
+     * @var CKFinder $app
+     */
+    protected $app;
+
+    /**
+     * Constructor.
+     *
+     * @param CKFinder $app
+     */
+    public function __construct(CKFinder $app)
+    {
+        $this->app = $app;
+    }
+
+    /**
+     * Returns the application dependency injection container.
+     *
+     * @return CKFinder
+     */
+    public function getContainer()
+    {
+        return $this->app;
+    }
+
+    /**
+     * Returns the current request object.
+     *
+     * @return Request|null
+     */
+    public function getRequest()
+    {
+        return $this->app['request_stack']->getCurrentRequest();
+    }
+}

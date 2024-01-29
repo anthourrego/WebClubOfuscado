@@ -1,81 +1,161 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-jV6ZS24PP+07EhMmIQxIJm==
+/*
+ * This file is part of the Symfony package.
+ *
+ * (c) Fabien Potencier <fabien@symfony.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+namespace Symfony\Component\HttpFoundation\Session\Flash;
+
+/**
+ * AutoExpireFlashBag flash message container.
+ *
+ * @author Drak <drak@zikula.org>
+ */
+class AutoExpireFlashBag implements FlashBagInterface
+{
+    private $name = 'flashes';
+    private $flashes = array('display' => array(), 'new' => array());
+    private $storageKey;
+
+    /**
+     * @param string $storageKey The key used to store flashes in the session
+     */
+    public function __construct($storageKey = '_sf2_flashes')
+    {
+        $this->storageKey = $storageKey;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function getName()
+    {
+        return $this->name;
+    }
+
+    public function setName($name)
+    {
+        $this->name = $name;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function initialize(array &$flashes)
+    {
+        $this->flashes = &$flashes;
+
+        // The logic: messages from the last request will be stored in new, so we move them to previous
+        // This request we will show what is in 'display'.  What is placed into 'new' this time round will
+        // be moved to display next time round.
+        $this->flashes['display'] = array_key_exists('new', $this->flashes) ? $this->flashes['new'] : array();
+        $this->flashes['new'] = array();
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function add($type, $message)
+    {
+        $this->flashes['new'][$type][] = $message;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function peek($type, array $default = array())
+    {
+        return $this->has($type) ? $this->flashes['display'][$type] : $default;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function peekAll()
+    {
+        return array_key_exists('display', $this->flashes) ? (array) $this->flashes['display'] : array();
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function get($type, array $default = array())
+    {
+        $return = $default;
+
+        if (!$this->has($type)) {
+            return $return;
+        }
+
+        if (isset($this->flashes['display'][$type])) {
+            $return = $this->flashes['display'][$type];
+            unset($this->flashes['display'][$type]);
+        }
+
+        return $return;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function all()
+    {
+        $return = $this->flashes['display'];
+        $this->flashes['display'] = array();
+
+        return $return;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function setAll(array $messages)
+    {
+        $this->flashes['new'] = $messages;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function set($type, $messages)
+    {
+        $this->flashes['new'][$type] = (array) $messages;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function has($type)
+    {
+        return array_key_exists($type, $this->flashes['display']) && $this->flashes['display'][$type];
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function keys()
+    {
+        return array_keys($this->flashes['display']);
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function getStorageKey()
+    {
+        return $this->storageKey;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function clear()
+    {
+        return $this->all();
+    }
+}

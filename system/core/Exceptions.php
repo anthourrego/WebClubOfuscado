@@ -1,94 +1,274 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2017, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2017, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license	http://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 1.0.0
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cPuF/DEYczMdHYO0rVONl1P4Rfj8LUSingkityaDJqbuhGHYw2c22wXwVv1F5PUIZS11pWiMw
-EvBf7iC6aYQrWZFwrKnLoOzaOvtOIFP7KfBl7+8JZANS65G3xMGiEMeEE5tC1yzL29riYYs1GBUk
-/anumFw2PEpDLvmRyxYnyj4JmJVO+XhQaNLahsgbqpEOCYLOtLTA2yg2hWhZjT/7K1ExBYVRqrFw
-7aUA1/IiHsyTd940PEHk2VkL5TAYRwvs4gy2Qb3ka0ByZfvNj8dR7FVJQ+vGcMi8l2qLUkdXoKrN
-HXK5Tn9EZl3H3E+B0acrn00Wkw/WNsNreDzW2qvZyKHkJIJ3DOJLwuKV6SVkG4ui5BheLeOvAJUn
-J3E6a0n2ZD35AlQZv5UA1+ku9OICgqKTFvd5al9RPDbQPGsSfx4dUCiwfhU7OBpcCFXsuxroOz5Y
-kf86Xw60/EanPr9Us2sW+N2WruA0MsRTRO20IX7hU8ZOlxCVxJG1XEWrESweMduTbk/IrxKf8Gic
-wZRCurtx4WNTFzKnxyzLddQRspqtgKqwHmdLeRaRm7KKHQDJBhdNrl85m+Y+3QH8ixLVB3AnjIDp
-Az2Zhg64hpaWR7YfpFXbkmjgRPqhUXEXuixe+opVn5aCZcBqsk6Tc9YOK/ymh6Vby3csmkmDbebZ
-KLfPybD5wbNvHQlO716zy7esxkBNyZ0e3oFbfvcYLPPazrA/qWDmlBaLC292DkTEtTMGvKbONkkB
-LflwhhyW3Tv0imD2GD5dPgHJNSBfzYaWmVRR3H50fKmMZShvg1lsL0NtMuWwz145he6onxSHFqTA
-aW/thR0Riwr2FWi/dchIHxMaIlgE3jMsPmilMeX6lVHnPnQTV/CrcZ1iZpLCc7N+UGGTGDNmZz4s
-DAVx+60QcCNWKAdegzGVSL4V8vTnw7Okn+GkTCrRUvJzjx6UNijOs6ashdD/M4M4MQR1QDvLxzbd
-7jQq6y4VHgLZxJJlxXXYcEPoramfokxbuaLDLR1lvaEcE35wATFtuzN254Rnd7A8nrMFFWyEfRZI
-eEsBSD+8o0IarA8ohYJRLKfAgr+cnfYPjtP268gPLQMGsBMANJF3EuJrK27c6HIvDrzHbHySlPjm
-swsu+3Jz6Tilbd4Q4dDMSo5YtnOkiHyJhP5V2wK210HjfDe8oUDB0vNiDVFxmy8wqyNUsYf/WgrG
-PWmzcmCt9Sv5badcRF/kY4YW1cMdn+mS6OzBRt8zDLdFNNTUVU4ZLbMSBRlwwGehFPPqSimtiiVO
-UBd6hcQ6Om1+LoCaCiuYxAnEsjQb+3/Ka4AW7afg3knJb252dlB+kwJcjZ6+zacg1lBadFEgd9mM
-zz7VND3G6TojZ63mFUoAuqKh0mj7MaqhTb7G9ovvSt8atCceqpAJtBp7OcpMEf5Op5ulZiW8MAMH
-+xC+lPfhdYLMqAM/utiHnqGA3TSC4lPdRQ8KgBWJYAKvGZMqfp2LwGCdDdiusItCykYVWssd/srW
-bNHcehCrjrSgQTWbbRCoI6RhCLcyy1+G6RpRbR4uDiEDJa3kIgBWKFw59d36vfY9prPKZYzbNPD8
-u9Dj8krZTS56WV89biIdAKjrz0jL1J6bQ1LIbSXYqkcjJi8b7KySuzqj7pwX/6HOP5JY37DSsjR7
-FUukdU7gSNj0OEcVIqkkOuSnuulhHN4hURJUqOTllIecHLjajM5e/qNGS+O3LwfQFZzKyewzJwzn
-9MlP0c2U1Lm1IuyKG01RD92QPNull+XJE+4B3yCtqZtRR/R5IdDCdiJFGxhRR50EZSlkeceg4Z5O
-W5JPQW3btbU9Jp+T1uazfNkDQ6B6DeKa48tPMn4/qn6xmC/yZJiJHgHnWfcPd1qjiRd21HhDVulP
-7nCWUw6Ke9xs1l2kMEsg07bWXygAVdzmjA4E7aE81CJEe46yoZXckhXNXOX5fX/DyBcnBDryTegl
-YIZbd6JElniOLzUMiDx4gmvcl8ei/+xRXVedT8MRAxDscQkoaht2Pqprs1wiPi68X2YDUEvKvg9c
-EKjCb2Z2nMyVA1u9UyZMbqeYtJr4HsaKyXrUD4FbHaWv/MReYIAEaHB3zwkq6kI7Vr6PndOCdvbW
-I9nOP+pt/n/UszV7sxiXk2mD/2chLBo0TAvK5/8kxS2DQzubVa6CRpq/hBzIZtPHEbByUPVTPM/j
-H1mHC6pJDA7hn64Eny1vEvwDGhK2nTi4HvdxYO3nU0FcsacCipGGxF71kaQ3E9JjAIduO9x0/3iZ
-05mRFxgY0Bv0r9JIuN02mEOErV93VRFhjxUXDOBrZPXc7IziRYNbrlg5iTHuBtNuoqsdcZ3UeIWR
-b8vN671L/S5SZ+F+V0JH256nCelK3WI1De/iKY//wA431VVJCMJ+z6Pa2698gBH41YWQFxAdGjO8
-J3vYs1viZZt7kIT271WJnQ0LCWQ9N0KFFnkx/+xyQgWOerbiDuMDuTK3HlX/rplJfHwiBJ/dmHEz
-Zfp57U7LDEVjTOchzPOdcgTNaRxbMVJBV4pwcYAAkEoi3cRVHan12JyX96a7xMcsKMhlz1wATox2
-vi0V5J/QiX1f4kK+1ifTy1O4ec2PdDtwpTw6jSpSXdkxvewm9fyFgYTfCw+N/X0sLlIYrFH8wvPK
-06CNMDBMnZHTpgVBVTYvVU3f9/ACX6xfZZHB73CFjDClqtTkwUg7L9IyyfmW1i/vpqw/xzfbh1Gs
-3IERosa211YJY1r/GwfUwdUB6QeSyT/KAOWmCUSI97nHrc7X2OqmVSdwfVXzUcVPL/kK+K+hOhTD
-TzJOMRNwwI0TwEn/CgT12xLacDvzEvAtfYAxHD2L0XjRbebI1Gqi5LN4JOi7qUGc/3vecj6nQTpq
-/OM0dabj+9oqFkgMPYPavazrycUfiDwa+gMEsLUeYO73pHncRLvzinQv+yH5Jnpjxqn5EHpLtJN9
-se8YcfQ9QskvcssH+4Ti44y26kLlOeNBJBPKb52THP92MKk7jgg/55OEpWiVCLrBqBQKRG8YK8ic
-LIlqsYNRpxc/lOmEvloTDqqHAsWCW9Rj3pKGRwPQr71lWRrb/zrppgJLr/h7J14hpxm3BgI7RJXg
-Oyamyx3lQBXKsbzjsb2Pt6zcZ5gmsCjoy28lI2A/cRy5zsa8FMd/vC+KgoQakoK9oqj4GeuLVwVn
-t/EE7Iff6gN6twMQpqjYNVHsxz2Wg+OOPENkZF48PPSXcUzZaAC1BAtJxjefOqk+zYEyYzRePvbn
-QHh6T9P/XrMiaQ8lrgyXpHefcgL6PEh6w0oej4B0gQbSW/MIMOH1mpUsxNx3HRpFyBIcH6hYsJy7
-l3TUh3RKgAL6nlaqY73JbQ5XHFEBqcB9Xort9ZKnTYLSld5QV39zQtHzZhhjdBV3wzMGgbOkwYos
-kLX2ZnXyMqjmLeUJVKVpl3IBuu4KFpdHwAPEeEST194ZBVRYlmH3526ZyvM5JuSP7XySwK8Al3Va
-t9SmG2EcAdd8jxMiNXu3KXfB+fpSPqunrwvvv+aRKUFppoK63pkuPXPa/ioZJfoXL/eDYNTw4exC
-WWVoO19nOulWN64f3Z7CAKBnGypmf0RClXJuuaCdIpFxr+10Op8FjeVJGR+3ar4kmxSBRhGb6sT1
-tekXtpRi/DoPnQmwiprU5+yXAgZpUqE96DFYr9IG3O5YnMLut+LmY7WmH5/h7hUDnKCdd8jsBDZ2
-zJTjIO4VC5z0M1S+xRr/sKI3qTOmm7dgkLZXnY6+LR8RbD2wWGjSq73gQVyKHQbcQEYJiv0FKu8G
-8hS0qd0PrCR48zIDFU9HuSTewVVSOFmAWgfiMam7Je/zvnGeAF0JR2nSJlDvSeueFOy3YS42rhTC
-Mx6+XiHtDhmlZMGISrdpbyq+XOD28fIQ14DuoxY5ElqtJcsfEQ5ZpYJJucrmzNInt2UO3qJIPoSL
-xFG6r1UactiZDShT9QTZrr5fWVwYet5nGVcq+XzzSprUshKpDUTth7JPAxC/tGssdPRvdznhAiEH
-P+mWquiMtJGS8UybCOkgfgar9hmtt+EBZx+ZlBQi/+rHGs3Qnd5QDo1eH///UGf9lEYq1IoWIUJy
-mhjYP0E3TuxzoTZ697DW/zQTWBdFWNpIJcYycTrnCIFY/vm4y0RlFORkpF9cqovhlKfmEPvZlPd1
-xC2QfrbcW802Kb8rLNnd2FTgvxe4aOry9MjbMhl6ECAYfg3ozXiQZdD1aUsdrRSIbMoBMtLht+Id
-b/nBoivprL8N/8hI4lhum8VJnaXr4iHcjwl5eCueW4a0MvStPWpfnGemUl89Ewe0Bh1FyMWZJgJI
-5KmRNexuyoKfkMkPf7bmOVyVXUxWNvAKTvO+eNL4nE6IrjEPq6KWerANeDz66LHyzkV8w1RESs0C
-zxc/nY9ex3jo9Fl280x60Vt/6aVy5gDcaJBtPcyr/tlV3w3ymworzRVcMmd/O2XRdFfO30OxKPd0
-Duv0nZJxRA0gmLBwFplfmCHDFzrt9yDDg2S+wel6B1TvImO29Bi2sJha3YsklX9o25DYa3NLwn8J
-+pCGxtEaLywmtxiM3n/yA/mYblOAl9GUvhjAdiIN6Q68OvIfH2IMEEKRqelm8HYTidaBFy8PhKKm
-mg51n3T/n7j9uYp/g3LZMrns8G95rF6swlLuw7lWtsrDGDgcx7ChutKK3gyMKRzmjD32K9lJp4rO
-H/LQJg7y8/mI3J52apCn/hzy3EnEwzfkFqppRWQBbn3hrJSXYXgpoSsDg6UH/RQ5lGnz7LsMD7Yf
-p9VDNQzbHl+dAqkPmKSxJgg0aj4VapYC1toQmy/B9M2NvyUcd/+qRDsKXnRSmQEwHkAqWOvcuNZx
-azyMvTswU2ubr2lZOpz8ZQX6VFY1mh2XY5uCqLnSSPaQpy3IOhziAhR8Iv5CYwwIuhgUE2cfULn8
-rgbSPBUEQW2Hbb+1mCOX413r5531ODIFJ0x4Z4gWvMGOzFGlmdwvAdgdhKLaSioaVK4JXCSTTUeb
-4RBSWpKTRoLmJU0Wx0MlquwmSrGA4m9TRZ4OAAUjtvpBfkuNb1nGS1GjHdb/8zzL6t61yjs/l6AQ
-FwoTVN1BUIU5/XTy3F4tVJLAE7+ANYXbjCv47o7L+Ju3AYUA6fFO/E0Gv0CAdCKFQPvybuuYcGAf
-568nC/6p4k6PIvFmsOyWEIjZ/UQWCXteIjWtbLQMf1Z/rQyi5OmT1F7ZZt3lihcT13AjIdEUBnBK
-jBHo9sfI1I1cZfubmxV3VcTVg/IMG8ugFnH3oTubqXLih6PW/7nO6e/wQPL/232MyuXkUhfpMcNk
-+9FofaM8D4qIZz3depz9ymoIw0ynV40jCHeRXW192fJILEXea9fDeqPnjVbV3Wozh9sYIeQXWWa8
-31SXRKp3GXfWnAwgMMj+rMqOCUocO15v23DxJ+B5M+bTH2lxeXzcwbwj4BhSTuVhtj0LdJAPE0ie
-uOlL8ZzlAIFjmLYWj+phm1GWrQDOpopp4iBGziW/daxTjoFCN/R5VxfNR4k7EvkaQ+ClX1xhuWW2
-sE6zxm8dZR8zfLL8kJD6hNTkiic6H0PimGuMMOVaixGOkUDRSAcGmvzhZTiLm6XEcZLUcWUPPZX7
-H7vC2Wg9COuVOS7/mHCEV19+/N71vU9gkMBv2agrAlLsIhP88XzBgXuodmFuEEoEdwYMcxZwHcV0
-DpLdu9bDre2oNQ0Wz5sT8/E5cNxMPBf9GCHDKNTIHNfhdjSmOh0iLsDFxhbvqN/Zje24i+HP5z7S
-uKOxLMoX9k7brLG8hdV7LJOlMyGa5exOMraLUqpZ5zq6fYJOQfpFZ44D2uU/H2vRvA3B0tQBPF/s
-gVfQciYxi+WxhgkiOnEX183yypwW0Vc8x+h+d+8coZ4zgoZZCa7sNcWjZfABBcrgwkKKXiQpL3vV
-QfYPsZ4BTHy8UXQwbhjIQuNASRoLy8rSpGep1VRiPzQ85zVs05Xe1O4p6iHSZPL7FNmtkJXrxwGC
-XqEauY2UJOMH6GbUv96eKMwxHe5DMp4tY+GwuacxndYY5Y6vbDEoD7W65Jkm7RSPPKKPl5vqZvM+
-pZ+992Lk/l7stHZWEhC0JaWnmf9hg/fWgUjK8tiU0sO4zpLGjeZ3O7ja09Up0xZ92c21p5R/Y8Ue
-HVImQ1v3HV1n/taQ7PI7WaPHkcdXx4iDSt0o/mgqPV+WlsaaU9TU8yan9b0AWZLTreNB74tDiF/O
-Su/lltzZYCrTrkxL483hBP1ZbiCUW6C/t4qLCMDz8Yllr9qLsArGeFPNNBq7NgOKjW1UZpfNkFEl
-6deH0xrkaGLfTZvu5JMBVHCP6gufwu8E1xiIsgrepblTtsKgUG2gJI0Pqqh4Ex+NPVhmAsYNtvvy
-COQSEgvIEAnuBq1bz5tXpV7c7Ub7drysVMZOWTJZVuknk92JR0HEfRUMlLEHlNJJn6M6NrdAoydB
-5CPQ60V3VjLu6/P4QmJNJw4SRemfehZWywiMhLKG6ZHOe2gbwGV2XFHyciLn8oVLk8vlsBjf+0CL
-zhJ+UnBj91Mflkpi/gWLlk+IOI1oWp5k4SFb64D10Vim9TYhnnbd83fQjRezvqa=
+/**
+ * Exceptions Class
+ *
+ * @package		CodeIgniter
+ * @subpackage	Libraries
+ * @category	Exceptions
+ * @author		EllisLab Dev Team
+ * @link		https://codeigniter.com/user_guide/libraries/exceptions.html
+ */
+class CI_Exceptions {
+
+	/**
+	 * Nesting level of the output buffering mechanism
+	 *
+	 * @var	int
+	 */
+	public $ob_level;
+
+	/**
+	 * List of available error levels
+	 *
+	 * @var	array
+	 */
+	public $levels = array(
+		E_ERROR			=>	'Error',
+		E_WARNING		=>	'Warning',
+		E_PARSE			=>	'Parsing Error',
+		E_NOTICE		=>	'Notice',
+		E_CORE_ERROR		=>	'Core Error',
+		E_CORE_WARNING		=>	'Core Warning',
+		E_COMPILE_ERROR		=>	'Compile Error',
+		E_COMPILE_WARNING	=>	'Compile Warning',
+		E_USER_ERROR		=>	'User Error',
+		E_USER_WARNING		=>	'User Warning',
+		E_USER_NOTICE		=>	'User Notice',
+		E_STRICT		=>	'Runtime Notice'
+	);
+
+	/**
+	 * Class constructor
+	 *
+	 * @return	void
+	 */
+	public function __construct()
+	{
+		$this->ob_level = ob_get_level();
+		// Note: Do not log messages from this constructor.
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Exception Logger
+	 *
+	 * Logs PHP generated error messages
+	 *
+	 * @param	int	$severity	Log level
+	 * @param	string	$message	Error message
+	 * @param	string	$filepath	File path
+	 * @param	int	$line		Line number
+	 * @return	void
+	 */
+	public function log_exception($severity, $message, $filepath, $line)
+	{
+		$severity = isset($this->levels[$severity]) ? $this->levels[$severity] : $severity;
+		log_message('error', 'Severity: '.$severity.' --> '.$message.' '.$filepath.' '.$line);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * 404 Error Handler
+	 *
+	 * @uses	CI_Exceptions::show_error()
+	 *
+	 * @param	string	$page		Page URI
+	 * @param 	bool	$log_error	Whether to log the error
+	 * @return	void
+	 */
+	public function show_404($page = '', $log_error = TRUE)
+	{
+		if (is_cli())
+		{
+			$heading = 'Not Found';
+			$message = 'The controller/method pair you requested was not found.';
+		}
+		else
+		{
+			$heading = '404 Page Not Found';
+			$message = 'The page you requested was not found.';
+		}
+
+		// By default we log this, but allow a dev to skip it
+		if ($log_error)
+		{
+			log_message('error', $heading.': '.$page);
+		}
+
+		echo $this->show_error($heading, $message, 'error_404', 404);
+		exit(4); // EXIT_UNKNOWN_FILE
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * General Error Page
+	 *
+	 * Takes an error message as input (either as a string or an array)
+	 * and displays it using the specified template.
+	 *
+	 * @param	string		$heading	Page heading
+	 * @param	string|string[]	$message	Error message
+	 * @param	string		$template	Template name
+	 * @param 	int		$status_code	(default: 500)
+	 *
+	 * @return	string	Error page output
+	 */
+	public function show_error($heading, $message, $template = 'error_general', $status_code = 500)
+	{
+		$templates_path = config_item('error_views_path');
+		if (empty($templates_path))
+		{
+			$templates_path = VIEWPATH.'errors'.DIRECTORY_SEPARATOR;
+		}
+
+		if (is_cli())
+		{
+			$message = "\t".(is_array($message) ? implode("\n\t", $message) : $message);
+			$template = 'cli'.DIRECTORY_SEPARATOR.$template;
+		}
+		else
+		{
+			set_status_header($status_code);
+			$message = '<p>'.(is_array($message) ? implode('</p><p>', $message) : $message).'</p>';
+			$template = 'html'.DIRECTORY_SEPARATOR.$template;
+		}
+
+		if (ob_get_level() > $this->ob_level + 1)
+		{
+			ob_end_flush();
+		}
+		ob_start();
+		include($templates_path.$template.'.php');
+		$buffer = ob_get_contents();
+		ob_end_clean();
+		return $buffer;
+	}
+
+	// --------------------------------------------------------------------
+
+	public function show_exception($exception)
+	{
+		$templates_path = config_item('error_views_path');
+		if (empty($templates_path))
+		{
+			$templates_path = VIEWPATH.'errors'.DIRECTORY_SEPARATOR;
+		}
+
+		$message = $exception->getMessage();
+		if (empty($message))
+		{
+			$message = '(null)';
+		}
+
+		if (is_cli())
+		{
+			$templates_path .= 'cli'.DIRECTORY_SEPARATOR;
+		}
+		else
+		{
+			$templates_path .= 'html'.DIRECTORY_SEPARATOR;
+		}
+
+		if (ob_get_level() > $this->ob_level + 1)
+		{
+			ob_end_flush();
+		}
+
+		ob_start();
+		include($templates_path.'error_exception.php');
+		$buffer = ob_get_contents();
+		ob_end_clean();
+		echo $buffer;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Native PHP error handler
+	 *
+	 * @param	int	$severity	Error level
+	 * @param	string	$message	Error message
+	 * @param	string	$filepath	File path
+	 * @param	int	$line		Line number
+	 * @return	string	Error page output
+	 */
+	public function show_php_error($severity, $message, $filepath, $line)
+	{
+		$templates_path = config_item('error_views_path');
+		if (empty($templates_path))
+		{
+			$templates_path = VIEWPATH.'errors'.DIRECTORY_SEPARATOR;
+		}
+
+		$severity = isset($this->levels[$severity]) ? $this->levels[$severity] : $severity;
+
+		// For safety reasons we don't show the full file path in non-CLI requests
+		if ( ! is_cli())
+		{
+			$filepath = str_replace('\\', '/', $filepath);
+			if (FALSE !== strpos($filepath, '/'))
+			{
+				$x = explode('/', $filepath);
+				$filepath = $x[count($x)-2].'/'.end($x);
+			}
+
+			$template = 'html'.DIRECTORY_SEPARATOR.'error_php';
+		}
+		else
+		{
+			$template = 'cli'.DIRECTORY_SEPARATOR.'error_php';
+		}
+
+		if (ob_get_level() > $this->ob_level + 1)
+		{
+			ob_end_flush();
+		}
+		ob_start();
+		include($templates_path.$template.'.php');
+		$buffer = ob_get_contents();
+		ob_end_clean();
+		echo $buffer;
+	}
+
+}

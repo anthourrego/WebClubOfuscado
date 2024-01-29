@@ -1,99 +1,67 @@
-<?php //ICB0 56:0 71:1006                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/*
+ * This file is part of the Monolog package.
+ *
+ * (c) Jordi Boggiano <j.boggiano@seld.be>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
 
-?>
-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
+namespace Monolog\Handler;
+
+/**
+ * Base class for all mail handlers
+ *
+ * @author Gyula Sallai
+ */
+abstract class MailHandler extends AbstractProcessingHandler
+{
+    /**
+     * {@inheritdoc}
+     */
+    public function handleBatch(array $records)
+    {
+        $messages = array();
+
+        foreach ($records as $record) {
+            if ($record['level'] < $this->level) {
+                continue;
+            }
+            $messages[] = $this->processRecord($record);
+        }
+
+        if (!empty($messages)) {
+            $this->send((string) $this->getFormatter()->formatBatch($messages), $messages);
+        }
+    }
+
+    /**
+     * Send a mail with the given content
+     *
+     * @param string $content formatted email body to be sent
+     * @param array  $records the array of log records that formed this content
+     */
+    abstract protected function send($content, array $records);
+
+    /**
+     * {@inheritdoc}
+     */
+    protected function write(array $record)
+    {
+        $this->send((string) $record['formatted'], array($record));
+    }
+
+    protected function getHighestRecord(array $records)
+    {
+        $highestRecord = null;
+        foreach ($records as $record) {
+            if ($highestRecord === null || $highestRecord['level'] < $record['level']) {
+                $highestRecord = $record;
+            }
+        }
+
+        return $highestRecord;
+    }
+}

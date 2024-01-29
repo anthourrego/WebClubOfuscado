@@ -1,101 +1,46 @@
-<?php //ICB0 56:0 71:f70                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+if (!function_exists('getallheaders')) {
 
-?>
-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
-gasr7k0=
+    /**
+     * Get all HTTP header key/values as an associative array for the current request.
+     *
+     * @return string[string] The HTTP header key/value pairs.
+     */
+    function getallheaders()
+    {
+        $headers = array();
+
+        $copy_server = array(
+            'CONTENT_TYPE'   => 'Content-Type',
+            'CONTENT_LENGTH' => 'Content-Length',
+            'CONTENT_MD5'    => 'Content-Md5',
+        );
+
+        foreach ($_SERVER as $key => $value) {
+            if (substr($key, 0, 5) === 'HTTP_') {
+                $key = substr($key, 5);
+                if (!isset($copy_server[$key]) || !isset($_SERVER[$key])) {
+                    $key = str_replace(' ', '-', ucwords(strtolower(str_replace('_', ' ', $key))));
+                    $headers[$key] = $value;
+                }
+            } elseif (isset($copy_server[$key])) {
+                $headers[$copy_server[$key]] = $value;
+            }
+        }
+
+        if (!isset($headers['Authorization'])) {
+            if (isset($_SERVER['REDIRECT_HTTP_AUTHORIZATION'])) {
+                $headers['Authorization'] = $_SERVER['REDIRECT_HTTP_AUTHORIZATION'];
+            } elseif (isset($_SERVER['PHP_AUTH_USER'])) {
+                $basic_pass = isset($_SERVER['PHP_AUTH_PW']) ? $_SERVER['PHP_AUTH_PW'] : '';
+                $headers['Authorization'] = 'Basic ' . base64_encode($_SERVER['PHP_AUTH_USER'] . ':' . $basic_pass);
+            } elseif (isset($_SERVER['PHP_AUTH_DIGEST'])) {
+                $headers['Authorization'] = $_SERVER['PHP_AUTH_DIGEST'];
+            }
+        }
+
+        return $headers;
+    }
+
+}

@@ -1,76 +1,187 @@
-<?php //ICB0 56:0 71:cc4                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-ShHy3QaO=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+namespace Psr\Http\Message;
 
-?>
-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
+/**
+ * HTTP messages consist of requests from a client to a server and responses
+ * from a server to a client. This interface defines the methods common to
+ * each.
+ *
+ * Messages are considered immutable; all methods that might change state MUST
+ * be implemented such that they retain the internal state of the current
+ * message and return an instance that contains the changed state.
+ *
+ * @link http://www.ietf.org/rfc/rfc7230.txt
+ * @link http://www.ietf.org/rfc/rfc7231.txt
+ */
+interface MessageInterface
+{
+    /**
+     * Retrieves the HTTP protocol version as a string.
+     *
+     * The string MUST contain only the HTTP version number (e.g., "1.1", "1.0").
+     *
+     * @return string HTTP protocol version.
+     */
+    public function getProtocolVersion();
+
+    /**
+     * Return an instance with the specified HTTP protocol version.
+     *
+     * The version string MUST contain only the HTTP version number (e.g.,
+     * "1.1", "1.0").
+     *
+     * This method MUST be implemented in such a way as to retain the
+     * immutability of the message, and MUST return an instance that has the
+     * new protocol version.
+     *
+     * @param string $version HTTP protocol version
+     * @return static
+     */
+    public function withProtocolVersion($version);
+
+    /**
+     * Retrieves all message header values.
+     *
+     * The keys represent the header name as it will be sent over the wire, and
+     * each value is an array of strings associated with the header.
+     *
+     *     // Represent the headers as a string
+     *     foreach ($message->getHeaders() as $name => $values) {
+     *         echo $name . ": " . implode(", ", $values);
+     *     }
+     *
+     *     // Emit headers iteratively:
+     *     foreach ($message->getHeaders() as $name => $values) {
+     *         foreach ($values as $value) {
+     *             header(sprintf('%s: %s', $name, $value), false);
+     *         }
+     *     }
+     *
+     * While header names are not case-sensitive, getHeaders() will preserve the
+     * exact case in which headers were originally specified.
+     *
+     * @return string[][] Returns an associative array of the message's headers. Each
+     *     key MUST be a header name, and each value MUST be an array of strings
+     *     for that header.
+     */
+    public function getHeaders();
+
+    /**
+     * Checks if a header exists by the given case-insensitive name.
+     *
+     * @param string $name Case-insensitive header field name.
+     * @return bool Returns true if any header names match the given header
+     *     name using a case-insensitive string comparison. Returns false if
+     *     no matching header name is found in the message.
+     */
+    public function hasHeader($name);
+
+    /**
+     * Retrieves a message header value by the given case-insensitive name.
+     *
+     * This method returns an array of all the header values of the given
+     * case-insensitive header name.
+     *
+     * If the header does not appear in the message, this method MUST return an
+     * empty array.
+     *
+     * @param string $name Case-insensitive header field name.
+     * @return string[] An array of string values as provided for the given
+     *    header. If the header does not appear in the message, this method MUST
+     *    return an empty array.
+     */
+    public function getHeader($name);
+
+    /**
+     * Retrieves a comma-separated string of the values for a single header.
+     *
+     * This method returns all of the header values of the given
+     * case-insensitive header name as a string concatenated together using
+     * a comma.
+     *
+     * NOTE: Not all header values may be appropriately represented using
+     * comma concatenation. For such headers, use getHeader() instead
+     * and supply your own delimiter when concatenating.
+     *
+     * If the header does not appear in the message, this method MUST return
+     * an empty string.
+     *
+     * @param string $name Case-insensitive header field name.
+     * @return string A string of values as provided for the given header
+     *    concatenated together using a comma. If the header does not appear in
+     *    the message, this method MUST return an empty string.
+     */
+    public function getHeaderLine($name);
+
+    /**
+     * Return an instance with the provided value replacing the specified header.
+     *
+     * While header names are case-insensitive, the casing of the header will
+     * be preserved by this function, and returned from getHeaders().
+     *
+     * This method MUST be implemented in such a way as to retain the
+     * immutability of the message, and MUST return an instance that has the
+     * new and/or updated header and value.
+     *
+     * @param string $name Case-insensitive header field name.
+     * @param string|string[] $value Header value(s).
+     * @return static
+     * @throws \InvalidArgumentException for invalid header names or values.
+     */
+    public function withHeader($name, $value);
+
+    /**
+     * Return an instance with the specified header appended with the given value.
+     *
+     * Existing values for the specified header will be maintained. The new
+     * value(s) will be appended to the existing list. If the header did not
+     * exist previously, it will be added.
+     *
+     * This method MUST be implemented in such a way as to retain the
+     * immutability of the message, and MUST return an instance that has the
+     * new header and/or value.
+     *
+     * @param string $name Case-insensitive header field name to add.
+     * @param string|string[] $value Header value(s).
+     * @return static
+     * @throws \InvalidArgumentException for invalid header names or values.
+     */
+    public function withAddedHeader($name, $value);
+
+    /**
+     * Return an instance without the specified header.
+     *
+     * Header resolution MUST be done without case-sensitivity.
+     *
+     * This method MUST be implemented in such a way as to retain the
+     * immutability of the message, and MUST return an instance that removes
+     * the named header.
+     *
+     * @param string $name Case-insensitive header field name to remove.
+     * @return static
+     */
+    public function withoutHeader($name);
+
+    /**
+     * Gets the body of the message.
+     *
+     * @return StreamInterface Returns the body as a stream.
+     */
+    public function getBody();
+
+    /**
+     * Return an instance with the specified message body.
+     *
+     * The body MUST be a StreamInterface object.
+     *
+     * This method MUST be implemented in such a way as to retain the
+     * immutability of the message, and MUST return a new instance that has the
+     * new body stream.
+     *
+     * @param StreamInterface $body Body.
+     * @return static
+     * @throws \InvalidArgumentException When the body is not valid.
+     */
+    public function withBody(StreamInterface $body);
+}

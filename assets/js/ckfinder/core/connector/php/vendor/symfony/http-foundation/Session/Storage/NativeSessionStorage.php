@@ -1,192 +1,447 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
+/*
+ * This file is part of the Symfony package.
+ *
+ * (c) Fabien Potencier <fabien@symfony.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+namespace Symfony\Component\HttpFoundation\Session\Storage;
+
+use Symfony\Component\HttpFoundation\Session\SessionBagInterface;
+use Symfony\Component\HttpFoundation\Session\Storage\Handler\NativeSessionHandler;
+use Symfony\Component\HttpFoundation\Session\Storage\Proxy\NativeProxy;
+use Symfony\Component\HttpFoundation\Session\Storage\Proxy\AbstractProxy;
+use Symfony\Component\HttpFoundation\Session\Storage\Proxy\SessionHandlerProxy;
+
+/**
+ * This provides a base class for session attribute storage.
+ *
+ * @author Drak <drak@zikula.org>
+ */
+class NativeSessionStorage implements SessionStorageInterface
+{
+    /**
+     * Array of SessionBagInterface.
+     *
+     * @var SessionBagInterface[]
+     */
+    protected $bags;
+
+    /**
+     * @var bool
+     */
+    protected $started = false;
+
+    /**
+     * @var bool
+     */
+    protected $closed = false;
+
+    /**
+     * @var AbstractProxy
+     */
+    protected $saveHandler;
+
+    /**
+     * @var MetadataBag
+     */
+    protected $metadataBag;
+
+    /**
+     * Depending on how you want the storage driver to behave you probably
+     * want to override this constructor entirely.
+     *
+     * List of options for $options array with their defaults.
+     *
+     * @see http://php.net/session.configuration for options
+     * but we omit 'session.' from the beginning of the keys for convenience.
+     *
+     * ("auto_start", is not supported as it tells PHP to start a session before
+     * PHP starts to execute user-land code. Setting during runtime has no effect).
+     *
+     * cache_limiter, "" (use "0" to prevent headers from being sent entirely).
+     * cookie_domain, ""
+     * cookie_httponly, ""
+     * cookie_lifetime, "0"
+     * cookie_path, "/"
+     * cookie_secure, ""
+     * entropy_file, ""
+     * entropy_length, "0"
+     * gc_divisor, "100"
+     * gc_maxlifetime, "1440"
+     * gc_probability, "1"
+     * hash_bits_per_character, "4"
+     * hash_function, "0"
+     * lazy_write, "1"
+     * name, "PHPSESSID"
+     * referer_check, ""
+     * serialize_handler, "php"
+     * use_strict_mode, "0"
+     * use_cookies, "1"
+     * use_only_cookies, "1"
+     * use_trans_sid, "0"
+     * upload_progress.enabled, "1"
+     * upload_progress.cleanup, "1"
+     * upload_progress.prefix, "upload_progress_"
+     * upload_progress.name, "PHP_SESSION_UPLOAD_PROGRESS"
+     * upload_progress.freq, "1%"
+     * upload_progress.min-freq, "1"
+     * url_rewriter.tags, "a=href,area=href,frame=src,form=,fieldset="
+     * sid_length, "32"
+     * sid_bits_per_character, "5"
+     * trans_sid_hosts, $_SERVER['HTTP_HOST']
+     * trans_sid_tags, "a=href,area=href,frame=src,form="
+     *
+     * @param array                                                            $options Session configuration options
+     * @param AbstractProxy|NativeSessionHandler|\SessionHandlerInterface|null $handler
+     * @param MetadataBag                                                      $metaBag MetadataBag
+     */
+    public function __construct(array $options = array(), $handler = null, MetadataBag $metaBag = null)
+    {
+        $options += array(
+            // disable by default because it's managed by HeaderBag (if used)
+            'cache_limiter' => '',
+            'use_cookies' => 1,
+        );
+
+        if (\PHP_VERSION_ID >= 50400) {
+            session_register_shutdown();
+        } else {
+            register_shutdown_function('session_write_close');
+        }
+
+        $this->setMetadataBag($metaBag);
+        $this->setOptions($options);
+        $this->setSaveHandler($handler);
+    }
+
+    /**
+     * Gets the save handler instance.
+     *
+     * @return AbstractProxy
+     */
+    public function getSaveHandler()
+    {
+        return $this->saveHandler;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function start()
+    {
+        if ($this->started) {
+            return true;
+        }
+
+        if (\PHP_VERSION_ID >= 50400 && \PHP_SESSION_ACTIVE === session_status()) {
+            throw new \RuntimeException('Failed to start the session: already started by PHP.');
+        }
+
+        if (\PHP_VERSION_ID < 50400 && !$this->closed && isset($_SESSION) && session_id()) {
+            // not 100% fool-proof, but is the most reliable way to determine if a session is active in PHP 5.3
+            throw new \RuntimeException('Failed to start the session: already started by PHP ($_SESSION is set).');
+        }
+
+        if (ini_get('session.use_cookies') && headers_sent($file, $line)) {
+            throw new \RuntimeException(sprintf('Failed to start the session because headers have already been sent by "%s" at line %d.', $file, $line));
+        }
+
+        // ok to try and start the session
+        if (!session_start()) {
+            throw new \RuntimeException('Failed to start the session');
+        }
+
+        $this->loadSession();
+        if (!$this->saveHandler->isWrapper() && !$this->saveHandler->isSessionHandlerInterface()) {
+            // This condition matches only PHP 5.3 with internal save handlers
+            $this->saveHandler->setActive(true);
+        }
+
+        return true;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function getId()
+    {
+        return $this->saveHandler->getId();
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function setId($id)
+    {
+        $this->saveHandler->setId($id);
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function getName()
+    {
+        return $this->saveHandler->getName();
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function setName($name)
+    {
+        $this->saveHandler->setName($name);
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function regenerate($destroy = false, $lifetime = null)
+    {
+        // Cannot regenerate the session ID for non-active sessions.
+        if (\PHP_VERSION_ID >= 50400 && \PHP_SESSION_ACTIVE !== session_status()) {
+            return false;
+        }
+
+        // Check if session ID exists in PHP 5.3
+        if (\PHP_VERSION_ID < 50400 && '' === session_id()) {
+            return false;
+        }
+
+        if (headers_sent()) {
+            return false;
+        }
+
+        if (null !== $lifetime) {
+            ini_set('session.cookie_lifetime', $lifetime);
+        }
+
+        if ($destroy) {
+            $this->metadataBag->stampNew();
+        }
+
+        $isRegenerated = session_regenerate_id($destroy);
+
+        // The reference to $_SESSION in session bags is lost in PHP7 and we need to re-create it.
+        // @see https://bugs.php.net/bug.php?id=70013
+        $this->loadSession();
+
+        return $isRegenerated;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function save()
+    {
+        session_write_close();
+
+        if (!$this->saveHandler->isWrapper() && !$this->saveHandler->isSessionHandlerInterface()) {
+            // This condition matches only PHP 5.3 with internal save handlers
+            $this->saveHandler->setActive(false);
+        }
+
+        $this->closed = true;
+        $this->started = false;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function clear()
+    {
+        // clear out the bags
+        foreach ($this->bags as $bag) {
+            $bag->clear();
+        }
+
+        // clear out the session
+        $_SESSION = array();
+
+        // reconnect the bags to the session
+        $this->loadSession();
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function registerBag(SessionBagInterface $bag)
+    {
+        if ($this->started) {
+            throw new \LogicException('Cannot register a bag when the session is already started.');
+        }
+
+        $this->bags[$bag->getName()] = $bag;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function getBag($name)
+    {
+        if (!isset($this->bags[$name])) {
+            throw new \InvalidArgumentException(sprintf('The SessionBagInterface %s is not registered.', $name));
+        }
+
+        if (!$this->started && $this->saveHandler->isActive()) {
+            $this->loadSession();
+        } elseif (!$this->started) {
+            $this->start();
+        }
+
+        return $this->bags[$name];
+    }
+
+    public function setMetadataBag(MetadataBag $metaBag = null)
+    {
+        if (null === $metaBag) {
+            $metaBag = new MetadataBag();
+        }
+
+        $this->metadataBag = $metaBag;
+    }
+
+    /**
+     * Gets the MetadataBag.
+     *
+     * @return MetadataBag
+     */
+    public function getMetadataBag()
+    {
+        return $this->metadataBag;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function isStarted()
+    {
+        return $this->started;
+    }
+
+    /**
+     * Sets session.* ini variables.
+     *
+     * For convenience we omit 'session.' from the beginning of the keys.
+     * Explicitly ignores other ini keys.
+     *
+     * @param array $options Session ini directives array(key => value)
+     *
+     * @see http://php.net/session.configuration
+     */
+    public function setOptions(array $options)
+    {
+        if (headers_sent() || (\PHP_VERSION_ID >= 50400 && \PHP_SESSION_ACTIVE === session_status())) {
+            return;
+        }
+
+        $validOptions = array_flip(array(
+            'cache_expire', 'cache_limiter', 'cookie_domain', 'cookie_httponly',
+            'cookie_lifetime', 'cookie_path', 'cookie_secure',
+            'entropy_file', 'entropy_length', 'gc_divisor',
+            'gc_maxlifetime', 'gc_probability', 'hash_bits_per_character',
+            'hash_function', 'lazy_write', 'name', 'referer_check',
+            'serialize_handler', 'use_strict_mode', 'use_cookies',
+            'use_only_cookies', 'use_trans_sid', 'upload_progress.enabled',
+            'upload_progress.cleanup', 'upload_progress.prefix', 'upload_progress.name',
+            'upload_progress.freq', 'upload_progress.min_freq', 'url_rewriter.tags',
+            'sid_length', 'sid_bits_per_character', 'trans_sid_hosts', 'trans_sid_tags',
+        ));
+
+        foreach ($options as $key => $value) {
+            if (isset($validOptions[$key])) {
+                ini_set('url_rewriter.tags' !== $key ? 'session.'.$key : $key, $value);
+            }
+        }
+    }
+
+    /**
+     * Registers session save handler as a PHP session handler.
+     *
+     * To use internal PHP session save handlers, override this method using ini_set with
+     * session.save_handler and session.save_path e.g.
+     *
+     *     ini_set('session.save_handler', 'files');
+     *     ini_set('session.save_path', '/tmp');
+     *
+     * or pass in a NativeSessionHandler instance which configures session.save_handler in the
+     * constructor, for a template see NativeFileSessionHandler or use handlers in
+     * composer package drak/native-session
+     *
+     * @see http://php.net/session-set-save-handler
+     * @see http://php.net/sessionhandlerinterface
+     * @see http://php.net/sessionhandler
+     * @see http://github.com/drak/NativeSession
+     *
+     * @param AbstractProxy|NativeSessionHandler|\SessionHandlerInterface|null $saveHandler
+     *
+     * @throws \InvalidArgumentException
+     */
+    public function setSaveHandler($saveHandler = null)
+    {
+        if (!$saveHandler instanceof AbstractProxy &&
+            !$saveHandler instanceof NativeSessionHandler &&
+            !$saveHandler instanceof \SessionHandlerInterface &&
+            null !== $saveHandler) {
+            throw new \InvalidArgumentException('Must be instance of AbstractProxy or NativeSessionHandler; implement \SessionHandlerInterface; or be null.');
+        }
+
+        // Wrap $saveHandler in proxy and prevent double wrapping of proxy
+        if (!$saveHandler instanceof AbstractProxy && $saveHandler instanceof \SessionHandlerInterface) {
+            $saveHandler = new SessionHandlerProxy($saveHandler);
+        } elseif (!$saveHandler instanceof AbstractProxy) {
+            $saveHandler = \PHP_VERSION_ID >= 50400 ?
+                new SessionHandlerProxy(new \SessionHandler()) : new NativeProxy();
+        }
+        $this->saveHandler = $saveHandler;
+
+        if (headers_sent() || (\PHP_VERSION_ID >= 50400 && \PHP_SESSION_ACTIVE === session_status())) {
+            return;
+        }
+
+        if ($this->saveHandler instanceof \SessionHandlerInterface) {
+            if (\PHP_VERSION_ID >= 50400) {
+                session_set_save_handler($this->saveHandler, false);
+            } else {
+                session_set_save_handler(
+                    array($this->saveHandler, 'open'),
+                    array($this->saveHandler, 'close'),
+                    array($this->saveHandler, 'read'),
+                    array($this->saveHandler, 'write'),
+                    array($this->saveHandler, 'destroy'),
+                    array($this->saveHandler, 'gc')
+                );
+            }
+        }
+    }
+
+    /**
+     * Load the session with attributes.
+     *
+     * After starting the session, PHP retrieves the session from whatever handlers
+     * are set to (either PHP's internal, or a custom save handler set with session_set_save_handler()).
+     * PHP takes the return value from the read() handler, unserializes it
+     * and populates $_SESSION with the result automatically.
+     */
+    protected function loadSession(array &$session = null)
+    {
+        if (null === $session) {
+            $session = &$_SESSION;
+        }
+
+        $bags = array_merge($this->bags, array($this->metadataBag));
+
+        foreach ($bags as $bag) {
+            $key = $bag->getStorageKey();
+            $session[$key] = isset($session[$key]) ? $session[$key] : array();
+            $bag->initialize($session[$key]);
+        }
+
+        $this->started = true;
+        $this->closed = false;
+    }
+}

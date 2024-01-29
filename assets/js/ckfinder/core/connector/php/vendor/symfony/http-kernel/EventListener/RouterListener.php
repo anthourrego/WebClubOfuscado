@@ -1,117 +1,177 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-A5fGJ8UkafV4xQJkuAf4knWc
+/*
+ * This file is part of the Symfony package.
+ *
+ * (c) Fabien Potencier <fabien@symfony.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+namespace Symfony\Component\HttpKernel\EventListener;
+
+use Psr\Log\LoggerInterface;
+use Symfony\Component\HttpKernel\Event\GetResponseEvent;
+use Symfony\Component\HttpKernel\Event\FinishRequestEvent;
+use Symfony\Component\HttpKernel\KernelEvents;
+use Symfony\Component\HttpKernel\Exception\BadRequestHttpException;
+use Symfony\Component\HttpKernel\Exception\MethodNotAllowedHttpException;
+use Symfony\Component\HttpKernel\Exception\NotFoundHttpException;
+use Symfony\Component\HttpFoundation\RequestStack;
+use Symfony\Component\Routing\Exception\MethodNotAllowedException;
+use Symfony\Component\Routing\Exception\ResourceNotFoundException;
+use Symfony\Component\Routing\Matcher\UrlMatcherInterface;
+use Symfony\Component\Routing\Matcher\RequestMatcherInterface;
+use Symfony\Component\Routing\RequestContext;
+use Symfony\Component\Routing\RequestContextAwareInterface;
+use Symfony\Component\EventDispatcher\EventSubscriberInterface;
+use Symfony\Component\HttpFoundation\Request;
+
+/**
+ * Initializes the context from the request and sets request attributes based on a matching route.
+ *
+ * This listener works in 2 modes:
+ *
+ *  * 2.3 compatibility mode where you must call setRequest whenever the Request changes.
+ *  * 2.4+ mode where you must pass a RequestStack instance in the constructor.
+ *
+ * @author Fabien Potencier <fabien@symfony.com>
+ */
+class RouterListener implements EventSubscriberInterface
+{
+    private $matcher;
+    private $context;
+    private $logger;
+    private $request;
+    private $requestStack;
+
+    /**
+     * RequestStack will become required in 3.0.
+     *
+     * @param UrlMatcherInterface|RequestMatcherInterface $matcher      The Url or Request matcher
+     * @param RequestContext|null                         $context      The RequestContext (can be null when $matcher implements RequestContextAwareInterface)
+     * @param LoggerInterface|null                        $logger       The logger
+     * @param RequestStack|null                           $requestStack A RequestStack instance
+     *
+     * @throws \InvalidArgumentException
+     */
+    public function __construct($matcher, RequestContext $context = null, LoggerInterface $logger = null, RequestStack $requestStack = null)
+    {
+        if (!$matcher instanceof UrlMatcherInterface && !$matcher instanceof RequestMatcherInterface) {
+            throw new \InvalidArgumentException('Matcher must either implement UrlMatcherInterface or RequestMatcherInterface.');
+        }
+
+        if (null === $context && !$matcher instanceof RequestContextAwareInterface) {
+            throw new \InvalidArgumentException('You must either pass a RequestContext or the matcher must implement RequestContextAwareInterface.');
+        }
+
+        if (!$requestStack instanceof RequestStack) {
+            @trigger_error('The '.__METHOD__.' method now requires a RequestStack instance as '.__CLASS__.'::setRequest method will not be supported anymore in 3.0.', E_USER_DEPRECATED);
+        }
+
+        $this->matcher = $matcher;
+        $this->context = $context ?: $matcher->getContext();
+        $this->requestStack = $requestStack;
+        $this->logger = $logger;
+    }
+
+    /**
+     * Sets the current Request.
+     *
+     * This method was used to synchronize the Request, but as the HttpKernel
+     * is doing that automatically now, you should never call it directly.
+     * It is kept public for BC with the 2.3 version.
+     *
+     * @param Request|null $request A Request instance
+     *
+     * @deprecated since version 2.4, to be removed in 3.0.
+     */
+    public function setRequest(Request $request = null)
+    {
+        @trigger_error('The '.__METHOD__.' method is deprecated since Symfony 2.4 and will be made private in 3.0.', E_USER_DEPRECATED);
+
+        $this->setCurrentRequest($request);
+    }
+
+    private function setCurrentRequest(Request $request = null)
+    {
+        if (null !== $request && $this->request !== $request) {
+            try {
+                $this->context->fromRequest($request);
+            } catch (\UnexpectedValueException $e) {
+                throw new BadRequestHttpException($e->getMessage(), $e, $e->getCode());
+            }
+        }
+
+        $this->request = $request;
+    }
+
+    public function onKernelFinishRequest(FinishRequestEvent $event)
+    {
+        if (null === $this->requestStack) {
+            return; // removed when requestStack is required
+        }
+
+        $this->setCurrentRequest($this->requestStack->getParentRequest());
+    }
+
+    public function onKernelRequest(GetResponseEvent $event)
+    {
+        $request = $event->getRequest();
+
+        // initialize the context that is also used by the generator (assuming matcher and generator share the same context instance)
+        // we call setCurrentRequest even if most of the time, it has already been done to keep compatibility
+        // with frameworks which do not use the Symfony service container
+        // when we have a RequestStack, no need to do it
+        if (null !== $this->requestStack) {
+            $this->setCurrentRequest($request);
+        }
+
+        if ($request->attributes->has('_controller')) {
+            // routing is already done
+            return;
+        }
+
+        // add attributes based on the request (routing)
+        try {
+            // matching a request is more powerful than matching a URL path + context, so try that first
+            if ($this->matcher instanceof RequestMatcherInterface) {
+                $parameters = $this->matcher->matchRequest($request);
+            } else {
+                $parameters = $this->matcher->match($request->getPathInfo());
+            }
+
+            if (null !== $this->logger) {
+                $this->logger->info(sprintf('Matched route "%s".', isset($parameters['_route']) ? $parameters['_route'] : 'n/a'), array(
+                    'route_parameters' => $parameters,
+                    'request_uri' => $request->getUri(),
+                ));
+            }
+
+            $request->attributes->add($parameters);
+            unset($parameters['_route'], $parameters['_controller']);
+            $request->attributes->set('_route_params', $parameters);
+        } catch (ResourceNotFoundException $e) {
+            $message = sprintf('No route found for "%s %s"', $request->getMethod(), $request->getPathInfo());
+
+            if ($referer = $request->headers->get('referer')) {
+                $message .= sprintf(' (from "%s")', $referer);
+            }
+
+            throw new NotFoundHttpException($message, $e);
+        } catch (MethodNotAllowedException $e) {
+            $message = sprintf('No route found for "%s %s": Method Not Allowed (Allow: %s)', $request->getMethod(), $request->getPathInfo(), implode(', ', $e->getAllowedMethods()));
+
+            throw new MethodNotAllowedHttpException($e->getAllowedMethods(), $message, $e);
+        }
+    }
+
+    public static function getSubscribedEvents()
+    {
+        return array(
+            KernelEvents::REQUEST => array(array('onKernelRequest', 32)),
+            KernelEvents::FINISH_REQUEST => array(array('onKernelFinishRequest', 0)),
+        );
+    }
+}

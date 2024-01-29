@@ -1,93 +1,48 @@
-<?php //ICB0 56:0 71:ed2                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\S3;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use Aws\Api\Parser\AbstractParser;
+use Aws\Api\Parser\Exception\ParserException;
+use Aws\CommandInterface;
+use Aws\Exception\AwsException;
+use Psr\Http\Message\ResponseInterface;
 
-?>
-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
-D0yrgxK9Adic5E7P5vjkpBZVZHBa22DDiIecDfC=
+/**
+ * Converts malformed responses to a retryable error type.
+ *
+ * @internal
+ */
+class RetryableMalformedResponseParser extends AbstractParser
+{
+    /** @var callable */
+    private $parser;
+    /** @var string */
+    private $exceptionClass;
+
+    public function __construct(
+        callable $parser,
+        $exceptionClass = AwsException::class
+    ) {
+        $this->parser = $parser;
+        $this->exceptionClass = $exceptionClass;
+    }
+
+    public function __invoke(
+        CommandInterface $command,
+        ResponseInterface $response
+    ) {
+        $fn = $this->parser;
+
+        try {
+            return $fn($command, $response);
+        } catch (ParserException $e) {
+            throw new $this->exceptionClass(
+                "Error parsing response for {$command->getName()}:"
+                    . " AWS parsing error: {$e->getMessage()}",
+                $command,
+                ['connection_error' => true, 'exception' => $e],
+                $e
+            );
+        }
+    }
+}

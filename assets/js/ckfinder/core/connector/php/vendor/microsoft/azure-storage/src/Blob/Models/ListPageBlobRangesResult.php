@@ -1,149 +1,182 @@
-<?php //ICB0 56:0 71:160a                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Blob\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+ 
+namespace MicrosoftAzure\Storage\Blob\Models;
 
-?>
-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
-9uSoVYEq0PkTqQWpgYZi
+use MicrosoftAzure\Storage\Common\Internal\Validate;
+use MicrosoftAzure\Storage\Common\Internal\Utilities;
+use MicrosoftAzure\Storage\Common\Internal\Resources;
+use MicrosoftAzure\Storage\Common\Models\Range;
+
+/**
+ * Holds result of calling listPageBlobRanges wrapper
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Blob\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+class ListPageBlobRangesResult
+{
+    private $_lastModified;
+    private $_etag;
+    private $_contentLength;
+    private $_pageRanges;
+    
+    /**
+     * Creates BlobProperties object from $parsed response in array representation
+     *
+     * @param array $headers HTTP response headers
+     * @param array $parsed  parsed response in array format.
+     *
+     * @internal
+     *
+     * @return ListPageBlobRangesResult
+     */
+    public static function create(array $headers, array $parsed = null)
+    {
+        $result  = new ListPageBlobRangesResult();
+        $headers = array_change_key_case($headers);
+        
+        $date          = $headers[Resources::LAST_MODIFIED];
+        $date          = Utilities::rfc1123ToDateTime($date);
+        $blobLength    = intval($headers[Resources::X_MS_BLOB_CONTENT_LENGTH]);
+        $rawRanges = array();
+        
+        if (!empty($parsed[Resources::XTAG_PAGE_RANGE])) {
+            $parsed        = array_change_key_case($parsed);
+            $rawRanges = Utilities::getArray($parsed[strtolower(RESOURCES::XTAG_PAGE_RANGE)]);
+        }
+        
+        $pageRanges = array();
+        foreach ($rawRanges as $value) {
+            $pageRanges[] = new Range(
+                intval($value[Resources::XTAG_RANGE_START]),
+                intval($value[Resources::XTAG_RANGE_END])
+            );
+        }
+        $result->setRanges($pageRanges);
+        $result->setContentLength($blobLength);
+        $result->setETag($headers[Resources::ETAG]);
+        $result->setLastModified($date);
+        
+        return $result;
+    }
+    
+    /**
+     * Gets blob lastModified.
+     *
+     * @return \DateTime
+     */
+    public function getLastModified()
+    {
+        return $this->_lastModified;
+    }
+
+    /**
+     * Sets blob lastModified.
+     *
+     * @param \DateTime $lastModified value.
+     *
+     * @return void
+     */
+    protected function setLastModified(\DateTime $lastModified)
+    {
+        Validate::isDate($lastModified);
+        $this->_lastModified = $lastModified;
+    }
+
+    /**
+     * Gets blob etag.
+     *
+     * @return string
+     */
+    public function getETag()
+    {
+        return $this->_etag;
+    }
+
+    /**
+     * Sets blob etag.
+     *
+     * @param string $etag value.
+     *
+     * @return void
+     */
+    protected function setETag($etag)
+    {
+        Validate::canCastAsString($etag, 'etag');
+        $this->_etag = $etag;
+    }
+    
+    /**
+     * Gets blob contentLength.
+     *
+     * @return integer
+     */
+    public function getContentLength()
+    {
+        return $this->_contentLength;
+    }
+
+    /**
+     * Sets blob contentLength.
+     *
+     * @param integer $contentLength value.
+     *
+     * @return void
+     */
+    protected function setContentLength($contentLength)
+    {
+        Validate::isInteger($contentLength, 'contentLength');
+        $this->_contentLength = $contentLength;
+    }
+    
+    /**
+     * Gets page ranges
+     *
+     * @return array
+     */
+    public function getRanges()
+    {
+        return $this->_pageRanges;
+    }
+    
+    /**
+     * Sets page ranges
+     *
+     * @param array $pageRanges page ranges to set
+     *
+     * @return void
+     */
+    protected function setRanges(array $pageRanges)
+    {
+        $this->_pageRanges = array();
+        foreach ($pageRanges as $pageRange) {
+            $this->_pageRanges[] = clone $pageRange;
+        }
+    }
+}

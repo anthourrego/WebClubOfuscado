@@ -1,66 +1,144 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
+/*
+ * This file is part of the Symfony package.
+ *
+ * (c) Fabien Potencier <fabien@symfony.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+namespace Symfony\Component\HttpKernel\Fragment;
+
+use Symfony\Component\HttpFoundation\Request;
+use Symfony\Component\HttpFoundation\Response;
+use Symfony\Component\HttpFoundation\StreamedResponse;
+use Symfony\Component\HttpFoundation\RequestStack;
+use Symfony\Component\HttpKernel\Controller\ControllerReference;
+
+/**
+ * Renders a URI that represents a resource fragment.
+ *
+ * This class handles the rendering of resource fragments that are included into
+ * a main resource. The handling of the rendering is managed by specialized renderers.
+ *
+ * This listener works in 2 modes:
+ *
+ *  * 2.3 compatibility mode where you must call setRequest whenever the Request changes.
+ *  * 2.4+ mode where you must pass a RequestStack instance in the constructor.
+ *
+ * @author Fabien Potencier <fabien@symfony.com>
+ *
+ * @see FragmentRendererInterface
+ */
+class FragmentHandler
+{
+    private $debug;
+    private $renderers = array();
+    private $request;
+    private $requestStack;
+
+    /**
+     * RequestStack will become required in 3.0.
+     *
+     * @param FragmentRendererInterface[] $renderers    An array of FragmentRendererInterface instances
+     * @param bool                        $debug        Whether the debug mode is enabled or not
+     * @param RequestStack|null           $requestStack The Request stack that controls the lifecycle of requests
+     */
+    public function __construct(array $renderers = array(), $debug = false, RequestStack $requestStack = null)
+    {
+        $this->requestStack = $requestStack;
+        foreach ($renderers as $renderer) {
+            $this->addRenderer($renderer);
+        }
+        $this->debug = $debug;
+    }
+
+    /**
+     * Adds a renderer.
+     */
+    public function addRenderer(FragmentRendererInterface $renderer)
+    {
+        $this->renderers[$renderer->getName()] = $renderer;
+    }
+
+    /**
+     * Sets the current Request.
+     *
+     * This method was used to synchronize the Request, but as the HttpKernel
+     * is doing that automatically now, you should never call it directly.
+     * It is kept public for BC with the 2.3 version.
+     *
+     * @param Request|null $request A Request instance
+     *
+     * @deprecated since version 2.4, to be removed in 3.0.
+     */
+    public function setRequest(Request $request = null)
+    {
+        @trigger_error('The '.__METHOD__.' method is deprecated since Symfony 2.4 and will be removed in 3.0.', E_USER_DEPRECATED);
+
+        $this->request = $request;
+    }
+
+    /**
+     * Renders a URI and returns the Response content.
+     *
+     * Available options:
+     *
+     *  * ignore_errors: true to return an empty string in case of an error
+     *
+     * @param string|ControllerReference $uri      A URI as a string or a ControllerReference instance
+     * @param string                     $renderer The renderer name
+     * @param array                      $options  An array of options
+     *
+     * @return string|null The Response content or null when the Response is streamed
+     *
+     * @throws \InvalidArgumentException when the renderer does not exist
+     * @throws \LogicException           when no master request is being handled
+     */
+    public function render($uri, $renderer = 'inline', array $options = array())
+    {
+        if (!isset($options['ignore_errors'])) {
+            $options['ignore_errors'] = !$this->debug;
+        }
+
+        if (!isset($this->renderers[$renderer])) {
+            throw new \InvalidArgumentException(sprintf('The "%s" renderer does not exist.', $renderer));
+        }
+
+        if (!$request = $this->getRequest()) {
+            throw new \LogicException('Rendering a fragment can only be done when handling a Request.');
+        }
+
+        return $this->deliver($this->renderers[$renderer]->render($uri, $request, $options));
+    }
+
+    /**
+     * Delivers the Response as a string.
+     *
+     * When the Response is a StreamedResponse, the content is streamed immediately
+     * instead of being returned.
+     *
+     * @return string|null The Response content or null when the Response is streamed
+     *
+     * @throws \RuntimeException when the Response is not successful
+     */
+    protected function deliver(Response $response)
+    {
+        if (!$response->isSuccessful()) {
+            throw new \RuntimeException(sprintf('Error when rendering "%s" (Status code is %s).', $this->getRequest()->getUri(), $response->getStatusCode()));
+        }
+
+        if (!$response instanceof StreamedResponse) {
+            return $response->getContent();
+        }
+
+        $response->sendContent();
+    }
+
+    private function getRequest()
+    {
+        return $this->requestStack ? $this->requestStack->getCurrentRequest() : $this->request;
+    }
+}

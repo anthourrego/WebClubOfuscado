@@ -1,99 +1,67 @@
-<?php //ICB0 56:0 71:fc6                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-y0ToMW===
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/*
+ * CKFinder
+ * ========
+ * https://ckeditor.com/ckeditor-4/ckfinder/
+ * Copyright (c) 2007-2018, CKSource - Frederico Knabben. All rights reserved.
+ *
+ * The software, this file and its contents are subject to the CKFinder
+ * License. Please read the license.txt file before using, installing, copying,
+ * modifying or distribute this file or part of its contents. The contents of
+ * this file is part of the Source Code of CKFinder.
+ */
 
-?>
-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
+namespace CKSource\CKFinder\Response;
+
+use Symfony\Component\HttpFoundation;
+
+/**
+ * The CKFinder JSON response class.
+ *
+ * @copyright 2016 CKSource - Frederico Knabben
+ */
+class JsonResponse extends HttpFoundation\JsonResponse
+{
+    protected $rawData;
+
+    public function __construct($data = null, $status = 200, $headers = array())
+    {
+        if (null === $data) {
+            $data = new \stdClass();
+        }
+
+        parent::__construct($data, $status, $headers);
+
+        $this->rawData = $data;
+    }
+
+    public function getData()
+    {
+        return $this->rawData;
+    }
+
+    public function setData($data = array())
+    {
+        $this->rawData = $data;
+
+        return parent::setData($this->rawData);
+    }
+
+    public function withError($errorNumber, $errorMessage = null)
+    {
+        $errorData = array('number' => $errorNumber);
+
+        if ($errorMessage) {
+            $errorData['message'] = $errorMessage;
+        }
+
+        $data = (array) $this->rawData;
+
+        $data = array('error' => $errorData) + $data;
+
+        $this->setData($data);
+
+        return $this;
+    }
+}

@@ -1,282 +1,324 @@
-<?php //ICB0 56:0 71:29cc                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\CloudTrail;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cPojnYNf/x75z1h8SMQAA/okxPenbdcs6sCSdNh8VX68s4+nw/7iLW/xVJ/dW/sa8GkhG9y1A
-hqrtBtOa9cmsa8W8wmV1c7lYXnhweeXdE9XybOgXfblWGImN4nJgIssLDvFOpZwEI9Hsx7eSZqzl
-XJsBvnJXFcRO1fUi/Ac1QmTL/t3mD8acu/4SmEMIHN32dmR2gdtroko9UoKCJIvpV7oY6dYKPmD3
-bNLzneLh3ncw9FagdIuqP3rYgUA7Pf9H+0Sf5Gtka0ByZfvNj8dR7FVJQ+vGnMS2Nscnxn8SHMBr
-/cGaSYJ/herHqBFO0s+brKbabK3VjsosPzW4ILzo4h5UEFOpNqB7C9w65+0raCvLCKz24SPAPW+2
-HMW92LxQ1N0ilUL9I/MbxQHDlNVIVqD5zP/G9EYjSqsjoezrfwZo/QwN2agYueya8A8pKhbeK5MP
-MtD8Oo+PeNjhN7qVzlvOQwujK10XEFQ7dyBa9veVpv+GFIe3LUmz+6PLCHw6puLRIQ9ZMJGzFa2c
-s3LQdvN8yt4nfzs3nbs+IwdDRKpCScI6/s667TPE23DIMTk198bTR27URF9prcQQDSOLBUnBE0eE
-Dli4AAFDtjrKvq5XwHjUv3NNbgfuyVsXKu75OUES4jodKEOip/tnNyPuFdsBhradokrH+MXCcLad
-USdOWyQJ3p0rTHdCHQYIISyAaJOkPbVwSIs/CQcMJKfQen0Gd+SQM4cp32zlEQkqzlz7ePtmR+8/
-s1+wrNYrCsjQ8zQKt8mF7gtxKfanEnWk6dpaJGhGxgoi3OCH9kUuK4yglpGAvjK5HVHS6/ugEc7l
-ad3gZgR73Qww9vDNcE6xn5OKs1uCqyhW7sqamzDOp0HTjnB99i1JInxXuO72n4he9/+vASS06Y2H
-fn4Yikom1iDR/ZcUQJqvPdx5fRhHx6spt7XRwdE2FuMULJUPtP2/MnXVgyMNozddNuPpAFtVT9xG
-Hn3vO+Pbiqb7rNxBKK2UapuCAkWr//32MkRYBQOFLlFyNCkL+1bjQIbdROL2DUUjWIgf5vHNA1+u
-TT/h7B+l1RJiyhNsyqZ+IrfkQFXXupGcnvbxx3+aurNh68di5afOSYcJTr8S4BzC2WhB5ve68EZc
-ar5TIzrKaw/SujkakldWBAwnXhTGWaL4Pbed776fJt8Hzn4mzwvNAbePpdQjdAG3f/S1bsZW4wnv
-ZeB8zXv3fYgq7st33+MWHAkiy7httl4uGtENEG65BvA9dGQQJgjyk5Cg/AXalnSd77NsU8VDKIcM
-i358AuDJ1W1UdNmB5qWqK9EP15BeEBeZnSzqVzzTX+XfIzN1A9qSit27OXEFo3GBnxlm1WZiK8J6
-k1aYgqKwEuesBs7X2Z39P8X2NrKUxd8ErycmgnssGvtv8ahvOg0C4Mkb8cOwYWoGPnBFXv4h6xWo
-M3wON30RKy6ad17KvVlwyY6lC55YWe3mQJ8MH0OQPXa7vdKrBzScxGi/g5CX6u1AkQQiwTFeJ6J/
-JgTfYGpVaBDZTm82REOvdbwpKsaZYrjqmGwhBnwb0DG9bxqXRaddVdO3xSiwEl8RZZ53akOKNlfN
-cNX83QVYEhfMkawor/LB64Ie6N3s+if48Mg6vkgChksb5y0TJJlHTWYmPO+nBLMmcm2untZtFI2/
-HxipRa9at/mVs8d04R3dJIg40QAfpT2QufMyje3fA6XCS3DBeYGH7z+VTVYy+yeHf+cJSViL73hP
-B5UDO4wqUFgs8GnKlWh7SaaA2g2izepLhJYZ9LaTiw7GeKMiTJiPdem5gavu4EWUrklah+JSKSaZ
-EITlCamveEiPLdu+8bYkYH2srzhHTdSgRWBX6NhD3cYw/UikwaZzXGdJQ+teKpH9CgIDXNxKnk1F
-8eiqguleHQ63Kd4ChXGRMLzU3byDI7sD8swIhF4Gogw6l9afwiigFNRr4/jezygWRKVjZpwHWhmx
-jMn9XfSOPWBnWAUHqnbvZfLW7uXIkkKoIOYRj/ylGkkb6rTHJqWdEi6metWoavP1LtaH/o3tZsLl
-1wPSH8tmjzOOdmX0JIUF0mVWEMbrlLYmpXpdaAp3zK1P/HMTBYSBrkQLwa7erCf/McgwnWyKbM/9
-/pKeSH2+FQprV1ZrE/Mjy9jQV+BuNApGdYjqvWolX45DDCkWnE2MrsRDXWSJIrgjLffMEB9+kZ4p
-uTRYi99CA7N2jo6fxDhEmh+6O7UiEsSPeiaVr4P0P9lCa2h9ZSloblzktpCiaxx5H+56LYG5mPvZ
-aMCxBmUVy9T8VMySzZddvdcuhgTGkkTuSjPwAyXPLntzhHPi5ZelhAmViJ8PzN+PZC/Vn+V4XyJ0
-/Z2VodHHR7GVMTFnZ8RUe+iTN+0JkKd/YXlUgrYrC+icC208QWlKBhD7N4l+7EmGsHRXclDrqWnt
-3ARlHz+A7uHSS3joYr5qyFm/1wzFeUdnLnXG9Eld1w0tzq74vj/V671lMsRZDjIzTHHBwLoFDKmx
-VpNUELHyJcjwhYqD4x5ACFFulm/MXT9idM5cRcu3NlP5CBJ77yX7jktSKgtvw/sn8DPyoVNseV9b
-MeUs91wVCmUHpHShlONwRb3OfLOKXk47jxoM3ZjLiqGa/TzOYC75Uc/3AR/z93OiKh4C2UASSOFk
-r3PxAVu2fpliqLB9nS/wvpCbiR+N8o9HdJB4TTWNg7EeHaVTDwxfMiLGa1w8HR5oZ71xLXe8QdnL
-jhs96GMvE/lqmRhWbdysGYtmY5WGfvRKGxBCSOOiOgkYlNZd2Gxe+FnGpqsd29ZAwI8LBTpusRWo
-fPf7HPY9gJ0TkUM2MZeisgi+MAuGrm3yHOrj80yM7JS/m1sLXmp5Q0R8+S5vLetdvbLJvJeKJlXB
-gMThycLZmzhNCHFOiEWh50l4HGTy3EWlzEjRMxltEzYSHmuek68EKyhk2g4ISCr5tCGvg/hUbOgR
-jhJKK0a8mcKsKpLBY0U9uKccWYOTud+/Rdiw+ekqSTtKWyaEBwoQcSP+1Qz2JntxpHTJo8se5zGt
-UhMWTKov4mL2oJZXvHJBW36hzcxO6HqBGCeJZbXg0KXh/nV2ZXJ+aSw4Q4dCgGpyBDKKaKJAToHo
-IUzNgSLMLXQOuwHmwYI5XO7dzmK0I3yRIqweEFiW/7rgnjM6C5UQG6uhr5YpyAl4F+wixN1cS0Lt
-jmu9PDP6iLgkjXzZwLAmWmck8O/h3vi3LPmQiS1XmnfYYW8AU5TnDWH9i2Lnswpj3q80NhSu/aJd
-s9JLoTxWhNlvIw1YhEn8CjpTAEi3fHVi95juRxaNSfV18YiLSi4fJ4TfCa6UsOsfIx1+BAMmJ4sH
-xVaWYdNsv6hv1PhCm2dC+Y5Y0dEHdONKaRtQVeWdefnlw+lvrpr8YooI8rKVL3K1UnRVgieSYj64
-dQc3IZx/OYsn7kvXehWrrw8U+uuFRUHnTJfcoGgxs/DirxJqE+e60XaH3q0tT6mEf7QO0s+F6LSv
-IuHaWVZcka7ZB3dF8gc0Co1UU6/vVKO4BIHYOIXzGMiRROC9/r1guR2cIyRwemn9u/kLrM4ZMNZJ
-Qo4bEcnOshE+vGD7g0etwoopegwIXG2LMW7j7xWfzUpDWE7Bomwh25WHyIErPi6NovNihe1tcAim
-npWbHpRy5v6aq2q2H1olHtgm70Sw2ep8Yf7ieYkp9uhj/TY8x42U6cx6fjkmc5/mSQfKMUtMS6GC
-qXpngmXpV8RcLUfpuGFrbpUtaff06i9amRMEgvNw0UVf2l/X6thV5mWBBagir0a9D2muH7mL6ore
-C95joPPkKCP3btKE+JFT7o0eCSodSnCA3N0q0IzExjPEWYri6/UergHa5gdOFdmFmKCgGqWpoJIP
-m7KQkMhoO8H/0NLzMDPAiDGPXHYNDN6+7YDwBPAJncHF6lxcHiT0tGpxggYmYRaH7uUaUPCMP3lA
-ZE3Z1x6eODN/4aw1f+d1Y7vaWH5cG1vYaIMOnmUz4yJow7Q4VMHKpy7KM130c83sCWdFf9YMccJl
-/bP0HKlo3v+/e5S0LpauY5VFRFQ6tgHekvnLQS0PxxOASo9CgS3ThRkRcpWxL6L1i9xMq4+nOa6v
-wuURQoyxBopE66BSS0zqyvaXxfrzHPjtTDlS36/9znmO41lT9bfm1et1PTEDsFMAAL8xKKV5cpLI
-JfL8ySgpM3btEhiNe1GOWL4LxQyXvFQpwY4dUSgewfydvGqh2g1i2oVr209qq8c/YiFrvtdgnPjx
-RzCoDvjGJGhy31ITfK5QlTYTOHFEKP9sS83PAGv02HcFMwKCs95CqZy7RCOfWIviBrW3/Y7CzAy1
-uatpFKyvqN+AzZ8EaL//DPDU6xvsJJtyCqWArZdEqmUOJztrrxuIaZZKkpz6ZgIaLKDaPIsCGSir
-DrQdZpNXE3GhQU98hTlh1uEPKAisxoJ05GAHe7k3pa5/3pqKfRJgamoygEkGAf/yTABdS5aa8sE4
-wxwi46U+MlGEelm4t/DpSYvWROgDkPFJhUO0kf4Vdql31mJmfp3Zv0Nts+mWMyFj+apfUTxNBKfF
-E/pUvSp2cP+PQti307RftnZ1REVgMduArttknYPgq2kqGa/M/gVm4CMX8flZV4q+MnelByyzDUQG
-10Gn9zd+JNIu51HSnMqtlyaAjLLJ/f9LzwUpwdwftdyOXlBk80acoumprmePJw0FrTDWSUp00sob
-p/sC0cT2hPDASKncby6PIJj30BsMWwLJgM5CQCU3ZmcyRVJLmUc0XidB++2gfTgsv8+TqaHKuyor
-+kmn5L2SQziYZoWo79kfUVz/heOmpTmAVAXeEwuDJZzL3ozxjEtMuDvPBRojBcMZCijulcZF9v9X
-twG9Ka+Ky82kKdtHmuJ3THs7Y1ipWcxCAikaDZ2Yb4A651Yu3sE8AD6sfwmFVbLuIvbw2mQFS7PZ
-mH295Zr6vT+mFyw5I2uZkVm9sUsSvdCB5XZlR4/JhSuNYJVgNFnezj/++2SdygnYuf1jTXpvLNFT
-wotj8laI6ICTZd8oN8fDTHlIf4f99ZfiBw1SSESRq5zy5K7UvbOHwNbHCVfPVfrjAu0FbMVIKvJe
-5fQYWaGnm6HiIPc15IFf3C53Yv4TzjUhPUOapeTwByv6ooVbZhkg+c/3bpbo/okLgkWoIagebO1C
-Wh139kJv9PYS6HUxvt6s65j1ZOjhY3XxsLri7anejptQ3OsRtArAhcIk2nQ/IP/jSNPG9T8GNhY2
-oBjipGJT5TY4K1gP3BUaLpel6pDlYZ9PnctWEZDSp4qQTYP4D5CkqTbGVc1FYGkSJErcCyuaxw/R
-HCniFjdfYzG3p2D0nnUb0iz/7REJgptweWZltciVWyjnygxBAvfM2ncXyt+sDB/7TQxljpTOvu8s
-gX7UDuD6lnNQ4EhkanLpGMVIccKqRXLJpb6hEmZJode080d3GyAoS0C71oww4CgaUNwwzr0e33g/
-Dvar5/IvMHqeeH6dgMy2KmE0ulhRAFjqI9MoQbE3m1yCl1E5/B7rVEXm6QHpjKDjuMVuXtkv3ED6
-nUuMo7U/tQrtNAYtXjMqbqg+KRj0xVHBhYSQrEauHiKRUBHOdOyBxXTgw8KvK9Xolz69qY7L0Cqe
-ysPypixo66vscYGQtkb8sFVOfdU2meeUVVJqEEUIWzs3TM1+s+IeUZjOQopySHqh86wF+W9kSnw0
-8jQZ8TTqAWuinJJOdkZqisuVfD5Wvx++obxZumFWA82Bse2AZywzL7boRj2KPM48vmmPqWvdDWGj
-3Eon23I7Uu/uwSLRYJtiLh6QhxM9i+c1SV572uRXRhkZ1imuLKqZQwTJdWtNpjlt6/y1KpS4A4C/
-yyJxMrZTifoP9bQFtUBDyquwxRDM5jV9VBu4dF5f7+PsQmHoyPShm9eHZh4k3fbW/n9YU3+wzBys
-i8TggYACCwD3UcXfZTW7kLodebqL6iPhRMRWKN02BgzSu8lnV31b5CY7Q3q9mjdf97mk09mfpYsT
-eGAi3XVAVIlmgnSxgKyoHwBE5CYX2LKZ1N0HG1XSyugTqjBMv+apYf3uJbazCIVjQps5ya1fRx7u
-1hlphng68B+KP+zivXvaAthtibvvW2BEVRCfChpU4Wvsi9ZhZcHv9/S5vPQVWCTVOkwXUxlxip7r
-OIzEGo3CbWNsHxaHgSzfZe0bp74fgxPbKQ4XCjbmMsedFLqGidDNzQeK8P2HYD4FI+IYk8tKimJO
-xqOZ6FTXPgWpdcD/8W0XO9XesaZtdgjjtRQkqfebrShtm+gZNCyJIDhSHKA892GW2VdU168ee3rn
-PSZJ+4CUoJOKpocBCvFVtaOYLg8l1OxH/tZdHAQuwIFc3iyKOzoZhggGr+R/E1Oi0QmOJ6ZC7581
-+o58aFggIklZOC/wpKPgBCEUzVRL6ObT05FG5oUUr9hutHkdEosAO0P++g3p3a3YpumO6IQWCW2z
-+oRq01vPs2pwubOw8ue/Tbsunq5Dg74h/IfLK+4mdzPw43OSCIYpcvNfWVrRdXGX5Rnhb0mKlOdf
-PHvdizrPOhA4Ih6ZHw6Nva+CbmXL+WUcG3Fl6+xg677omNypHGmXt9H0YCHC3Em57LUo4bImBwUq
-89ye5hjZjQ3bKu8kzuAl/NpBS+g6khbcCwwsJxQRVYbt9ikOZb1eQ8NnFHvUZ0zSAeZVGMglQUfX
-cFdz0X54UUOaxj/gvyTIQLscZ9EwPtOStpwqMkwOqB7OodS/VMrS4LWHyb5y/K7w+eCnxyA/4YRc
-phL/jo+vshtisOz0p+TDGqalEVlA2Pvwumnm5EmGeHJ0A//h03Zks6i6UxYJWHOaAV3Hp2oE+OSG
-2wQxVVK0XYE6BTJJuUqugkkMDXr1sUwH+eYMIRSGobpvFUeZOG6FiRi8e6ffImWWbnnToWLtKGE7
-6WMB2hSnhoBni7p6V5ZkBUAF/4fz88hUuqEOhz8jrdOdDjglKS1SRoftVgLkccllg7KADmAcuBLU
-mtaFLIFdJuMZNq6dOLFLFtHGCfvAxYVVPjfu/AcbSrQQ6ximej8ifRIn8JWWy8IQWBzKu6Dd1hxi
-9EfOXg5IdiO+sO9Fx9qfUdjhogR+qK37RIDZou2vaOROnIyDKW4Z9CSpG33ZPOeS/AsRvAZRQkCg
-7YrOhm4AGtdUUOusVTUrN+zQHELAzzsUWDYj+A2GiHu4f8RmAa+DE1QTGWmKvbbp/B4UWffJB11A
-Nqbo8JD8XMXE/pzAqOhOJdgF5d19dYS4hdmjEsPqTiGG4AinHPWUd2FgUsohpy8kUzXEOhPFMU/8
-7tfaLt4JjLvl2xAY7sS1cV4/yz2Mjd+rkOu5ypSpnB/dSN71kTrOowPkQ/BwEHWsUNVzPih1vzMW
-BYHWN/t02qma2bsgnpisWFFjvLkDYNdGozWNyLhshg9PLlT2qI35U48uqxRqA18RGzQclc7tqkKl
-fIma3gAvBuTSct1ncKmlS/ZlWtxjYnVxTohLIalcu+/27wrg7sLN08R6TNDOfBmBlY6K813KI6In
-MTJR1SgZSvT4IDIxSUl1eX0Wr0igSTL5iNczfy4lg3JyRYUWiY+lhLF47fA0KWWwVG7B/gm6ETyk
-/r/cEeO0VlREIKJNjIonYoDRu+PX8zHYlEb3bhkvWQyDiw12+n1SLZeoHjy4Zp722J5Z8L3cCR3v
-YBDWl2gt5tmotVi/GBu/yXV6mbhYbtSfwu3YwFTHMyQtg5A3NI1W4x3mMsLJS6T9LvkmwWBPEACC
-GhvOVdzFARUcuLwXP7/bXlHxQALnWQillmZO5ablyrPse+gSFUpy497/WO/h2ayHlZFNgs7Kxox5
-pAcCAJ0MhnVPYtcWfeRSdlQ/ZM38C9Bv5qenXUb53I4bShC6NTIr6AHVX2KVn/GND/o05DCAhgzk
-B9DV67+KH1J2D75M98WgYUFPbUYG9bh9GK9V+tVmeIDPK87d1YNRYANEfot91lpEYTGJoMuLgqNR
-kzpqgSIuTXWKc9kea0e+K7wZzyr9TKuVf23Y1vjSXbRXiE+F5tn2AH8h0YFpONcbIQtpjQZIrjP7
-/0y1S5Ytc85SH+UXGHLWQ6E/o/qERZ9I8yq0teqGU9FtnpYnX0mLTfHVBPeOkDUdPkmAU23w2u94
-zS09LyY9mjzQ1JzANpIIWT6OxQjGYBMlAUbD93ZWQD8K4cdCxFxiciYxF/NIYrBTHjLgnI3unRn3
-2JI5wuGSlzVJHtOPyJyEJQuz6aHiov4seekE0pfkeRTeAGPw7lLb1YZvlCfV/+16xx+gr3tFLGcW
-SKMv0gJrZ2b+7xJK4wDWJmfeIf39belDqOQ0cdeK69mTY6yAasubtKshm/MZx66viMVaO2i0JUiL
-lHwIJaJ/oguemAy8d87YcBgpgJ5xgghmyOyXBsYFwX02uToFCIEJlU8ZQQbEW3LdAXbxsZe+ip86
-D1iSA6xyAemBuaXfOGOPEjLbdNlwEJYGFGJUndAzVQGX66x/Zl8ZYnAN2vkTcUSZz1z6oFfxeula
-Hn5qMOS0cPKMPcoEJT4g1PqHi02s74I4P5O+5rzwcqQKIxT9DMUSYlzFsqgBbyFHI0+EAjFfxzxH
-1TxakfcYmccoM0zI6PRHLJkxgfY9tlMdHulLWsKJR6LQ8Lf8dGaqYsudXBPWI5g3yyeUlEvoMfoi
-EHVNOrPXuEoaKDz5qGg5Rw0Dlxao/tpYDt50sxX0bl0CfaP7MsgOqBHeITZsBbdkcEH9jRTbaBGN
-Jj1kSw0wUe7aNfLz4ErHadJBtHw4r04j/4isN8/CkBDWOtBm8TEbw5FMvbFseb3m9jCRg5MQQmgq
-ipHGOME3aGev/JlIeoS6d/UCBQ+aqIyF5J5zLYhPhgUqHvkt3meZZ8bkZy5sJ89LZtKAEFq6us68
-Lr4o3NAUn8Bkl6z/9uMeQFBimqrrCGSMcsTSUI1BBZasoXywqsloI6WBY1Ime+yYpx1S0VywvKsJ
-3pStHxz/yK1zkOgVjun1YuzGSJrQl1JQv5W768foz/PeRjn0Z82SEjMdqpxVsFTcU9m0SdNLADY/
-vcQHhb3gSoGQvrWqu4FQmAsNa7xnoZejpUCd77rt754Mcl/+rp+iaETF9n8cX96RGN1IFw8V6l0i
-+blIU7Y7c38hQskXyaivFYNoZHeqn2I9/AjITNfC6N1IpUzjxkUSljpq41v1rDlzB1LNzts5zNL8
-o5qwweymOJQ1cyuFw7sInzlI9maVX7sl2rt77/MJMIn+vbHAoeKGm25gSfkHAakhUXAaBDkvBjZU
-KozuAD9MWnPaUk5IGEU/O1sN/munkAufZhP4xonQz7ynvTqIXL2S6QVOYAEruixnAYhmMG34NwzU
-aImfWdnF1DwuIPcEvEENRprR1SwCX+5fGsgLYhGr6RkJBO8fh/22O24XBI7BWIA/xBK9W/DnQ84k
-H3Z1dafpzsk7qkIdZo3z9iUL1gytM5KmYVfeOp6pgwIqTWL/6k+Y1koRu7NsjUXOUCTD8dg9V2nm
-tD8fXPrWlV19Gs6QdAqJaYnO5A8kbNq1u+4D0aKi1dYGjPdX2IcZeSu8jdbpoo56lsnqoCGtnJek
-+7sb0SDyDEkMy9zujEMLqelrkyE1wASQ8eClzNTucGNfOkhDVmPX/LfaCnb7tGpmpRUSPmGxCNeV
-PIoAdJBBkeTvk0f4AfVOZyz563sVH0ztaiqOwaK/ThbEZxK1=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use Aws\S3\S3Client;
+use Aws\CloudTrail\Exception\CloudTrailException;
 
-?>
-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
+/**
+ * The `Aws\CloudTrail\LogFileIterator` provides an easy way to iterate over
+ * log file generated by AWS CloudTrail.
+ *
+ * CloudTrail log files contain data about your AWS API calls and are stored in
+ * Amazon S3 at a predictable path based on a bucket name, a key prefix, an
+ * account ID, a region, and date information. This class allows you to specify
+ * options, including a date range, and emits each log file that match the
+ * provided options.
+ *
+ * Yields an array containing the Amazon S3 bucket and key of the log file.
+ */
+class LogFileIterator extends \IteratorIterator
+{
+    // For internal use
+    const DEFAULT_TRAIL_NAME = 'Default';
+    const PREFIX_TEMPLATE = 'prefix/AWSLogs/account/CloudTrail/region/date/';
+    const PREFIX_WILDCARD = '*';
+
+    // Option names used internally or externally
+    const TRAIL_NAME = 'trail_name';
+    const KEY_PREFIX = 'key_prefix';
+    const START_DATE = 'start_date';
+    const END_DATE = 'end_date';
+    const ACCOUNT_ID = 'account_id';
+    const LOG_REGION = 'log_region';
+
+    /** @var S3Client S3 client used to perform ListObjects operations */
+    private $s3Client;
+
+    /** @var string S3 bucket that contains the log files */
+    private $s3BucketName;
+
+    /**
+     * Constructs a LogRecordIterator. This factory method is used if the name
+     * of the S3 bucket containing your logs is not known. This factory method
+     * uses a CloudTrail client and the trail name (or "Default") to find the
+     * information about the trail necessary for constructing the
+     * LogRecordIterator.
+     *
+     * @param S3Client         $s3Client
+     * @param CloudTrailClient $cloudTrailClient
+     * @param array            $options
+     *
+     * @return LogRecordIterator
+     * @throws \InvalidArgumentException
+     * @see LogRecordIterator::__contruct
+     */
+    public static function forTrail(
+        S3Client $s3Client,
+        CloudTrailClient $cloudTrailClient,
+        array $options = []
+    ) {
+        $trailName = isset($options[self::TRAIL_NAME])
+            ? $options[self::TRAIL_NAME]
+            : self::DEFAULT_TRAIL_NAME;
+
+        $s3BucketName = null;
+
+        // Use the CloudTrail client to get information about the trail,
+        // including the bucket name.
+        try {
+            $result = $cloudTrailClient->describeTrails([
+                'trailNameList' => [$trailName]
+            ]);
+            $s3BucketName = $result->search('trailList[0].S3BucketName');
+            $options[self::KEY_PREFIX] = $result->search(
+                'trailList[0].S3KeyPrefix'
+            );
+        } catch (CloudTrailException $e) {
+            // There was an error describing the trail
+        }
+
+        // If the bucket name is still unknown, then throw an exception
+        if (!$s3BucketName) {
+            $prev = isset($e) ? $e : null;
+            throw new \InvalidArgumentException('The bucket name could not '
+                . 'be determined from the trail.', 0, $prev);
+        }
+
+        return new self($s3Client, $s3BucketName, $options);
+    }
+
+    /**
+     * Constructs a LogFileIterator using the specified options:
+     *
+     * - trail_name: The name of the trail that is generating our logs. If
+     *   none is provided, then "Default" will be used, since that is the name
+     *   of the trail created in the AWS Management Console.
+     * - key_prefix: The S3 key prefix of your log files. This value will be
+     *   overwritten when using the `fromTrail()` method. However, if you are
+     *   using the constructor, then this value will be used.
+     * - start_date: The timestamp of the beginning of date range of the log
+     *   records you want to read. You can pass this in as a `DateTime` object,
+     *   integer (unix timestamp), or a string compatible with `strtotime()`.
+     * - end_date: The timestamp of the end of date range of the log records
+     *   you want to read. You can pass this in as a `DateTime` object, integer
+     *   (unix timestamp), or a string compatible with `strtotime()`.
+     * - account_id: This is your AWS account ID, which is the 12-digit number
+     *   found on the *Account Identifiers* section of the *AWS Security
+     *   Credentials* page. See https://console.aws.amazon.com/iam/home?#security_credential
+     * - log_region: Region of the services of the log records you want to read.
+     *
+     * @param S3Client $s3Client
+     * @param string   $s3BucketName
+     * @param array    $options
+     */
+    public function __construct(
+        S3Client $s3Client,
+        $s3BucketName,
+        array $options = []
+    ) {
+        $this->s3Client = $s3Client;
+        $this->s3BucketName = $s3BucketName;
+        parent::__construct($this->buildListObjectsIterator($options));
+    }
+
+    /**
+     * An override of the typical current behavior of \IteratorIterator to
+     * format the output such that the bucket and key are returned in an array
+     *
+     * @return array|bool
+     */
+    public function current()
+    {
+        if ($object = parent::current()) {
+            return [
+                'Bucket' => $this->s3BucketName,
+                'Key'    => $object['Key']
+            ];
+        }
+
+        return false;
+    }
+
+    /**
+     * Constructs an S3 ListObjects iterator, optionally decorated with
+     * FilterIterators, based on the provided options.
+     *
+     * @param array $options
+     *
+     * @return \Iterator
+     */
+    private function buildListObjectsIterator(array $options)
+    {
+        // Extract and normalize the date values from the options
+        $startDate = isset($options[self::START_DATE])
+            ? $this->normalizeDateValue($options[self::START_DATE])
+            : null;
+        $endDate = isset($options[self::END_DATE])
+            ? $this->normalizeDateValue($options[self::END_DATE])
+            : null;
+
+        // Determine the parts of the key prefix of the log files being read
+        $parts = [
+            'prefix' => isset($options[self::KEY_PREFIX])
+                    ? $options[self::KEY_PREFIX]
+                    : null,
+            'account' => isset($options[self::ACCOUNT_ID])
+                    ? $options[self::ACCOUNT_ID]
+                    : self::PREFIX_WILDCARD,
+            'region' => isset($options[self::LOG_REGION])
+                    ? $options[self::LOG_REGION]
+                    : self::PREFIX_WILDCARD,
+            'date' => $this->determineDateForPrefix($startDate, $endDate),
+        ];
+
+        // Determine the longest key prefix that can be used to retrieve all
+        // of the relevant log files.
+        $candidatePrefix = ltrim(strtr(self::PREFIX_TEMPLATE, $parts), '/');
+        $logKeyPrefix = $candidatePrefix;
+        $index = strpos($candidatePrefix, self::PREFIX_WILDCARD);
+
+        if ($index !== false) {
+            $logKeyPrefix = substr($candidatePrefix, 0, $index);
+        }
+
+        // Create an iterator that will emit all of the objects matching the
+        // key prefix.
+        $objectsIterator = $this->s3Client->getIterator('ListObjects', [
+            'Bucket' => $this->s3BucketName,
+            'Prefix' => $logKeyPrefix,
+        ]);
+
+        // Apply regex and/or date filters to the objects iterator to emit only
+        // log files matching the options.
+        $objectsIterator = $this->applyRegexFilter(
+            $objectsIterator,
+            $logKeyPrefix,
+            $candidatePrefix
+        );
+
+        $objectsIterator = $this->applyDateFilter(
+            $objectsIterator,
+            $startDate,
+            $endDate
+        );
+
+        return $objectsIterator;
+    }
+
+    /**
+     * Normalizes a date value to a unix timestamp
+     *
+     * @param string|\DateTime|int $date
+     *
+     * @return int
+     * @throws \InvalidArgumentException if the value cannot be converted to
+     *     a timestamp
+     */
+    private function normalizeDateValue($date)
+    {
+        if (is_string($date)) {
+            $date = strtotime($date);
+        } elseif ($date instanceof \DateTime) {
+            $date = $date->format('U');
+        } elseif (!is_int($date)) {
+            throw new \InvalidArgumentException('Date values must be a '
+                . 'string, an int, or a DateTime object.');
+        }
+
+        return $date;
+    }
+
+    /**
+     * Uses the provided date values to determine the date portion of the prefix
+     */
+    private function determineDateForPrefix($startDate, $endDate)
+    {
+        // The default date value should look like "*/*/*" after joining
+        $dateParts = array_fill_keys(['Y', 'm', 'd'], self::PREFIX_WILDCARD);
+
+        // Narrow down the date by replacing the WILDCARDs with values if they
+        // are the same for the start and end date.
+        if ($startDate && $endDate) {
+            foreach ($dateParts as $key => &$value) {
+                $candidateValue = date($key, $startDate);
+                if ($candidateValue === date($key, $endDate)) {
+                    $value = $candidateValue;
+                } else {
+                    break;
+                }
+            }
+        }
+
+        return join('/', $dateParts);
+    }
+
+    /**
+     * Applies a regex iterator filter that limits the ListObjects result set
+     * based on the provided options.
+     *
+     * @param \Iterator $objectsIterator
+     * @param string    $logKeyPrefix
+     * @param string    $candidatePrefix
+     *
+     * @return \Iterator
+     */
+    private function applyRegexFilter(
+        $objectsIterator,
+        $logKeyPrefix,
+        $candidatePrefix
+    ) {
+        // If the prefix and candidate prefix are not the same, then there were
+        // WILDCARDs.
+        if ($logKeyPrefix !== $candidatePrefix) {
+            // Turn the candidate prefix into a regex by trimming and
+            // converting WILDCARDs to regex notation.
+            $regex = rtrim($candidatePrefix, '/' . self::PREFIX_WILDCARD) . '/';
+            $regex = strtr($regex, [self::PREFIX_WILDCARD => '[^/]+']);
+
+            // After trimming WILDCARDs or the end, if the regex is the same as
+            // the prefix, then no regex is needed.
+            if ($logKeyPrefix !== $regex) {
+                // Apply a regex filter iterator to remove files that don't
+                // match the provided options.
+                $objectsIterator = new \CallbackFilterIterator(
+                    $objectsIterator,
+                    function ($object) use ($regex) {
+                        return preg_match("#{$regex}#", $object['Key']);
+                    }
+                );
+            }
+        }
+
+        return $objectsIterator;
+    }
+
+    /**
+     * Applies an iterator filter to restrict the ListObjects result set to the
+     * specified date range.
+     *
+     * @param \Iterator $objectsIterator
+     * @param int       $startDate
+     * @param int       $endDate
+     *
+     * @return \Iterator
+     */
+    private function applyDateFilter($objectsIterator, $startDate, $endDate)
+    {
+        // If either a start or end date was provided, filter out dates that
+        // don't match the date range.
+        if ($startDate || $endDate) {
+            $fn = function ($object) use ($startDate, $endDate) {
+                if (!preg_match('/[0-9]{8}T[0-9]{4}Z/', $object['Key'], $m)) {
+                    return false;
+                }
+                $date = strtotime($m[0]);
+
+                return (!$startDate || $date >= $startDate)
+                    && (!$endDate || $date <= $endDate);
+            };
+            $objectsIterator = new \CallbackFilterIterator($objectsIterator, $fn);
+        }
+
+        return $objectsIterator;
+    }
+}

@@ -1,28 +1,65 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2017, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2017, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license	http://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 2.1.0
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cPwjV7rMqfkEQGUkATed/YgHd2p4FeCoLp8IuvtOC6rY4d+50YSBm3BrTMHy9QI4KkISgVfuz
-ZTYwRy3jezqbXMYSuk5l488tCYAzWLV2N79rteDIbBHX3RH2qjvOplixxoJeinpFiardOVm31QKO
-gIR2BEGOQ9Ewi21lLiI5tidUpaexP22lF/mJYzE1YOjpveODbZgzKKtpsuPKdGCCbgzDZb2F3hAL
-eo+GbVeoEuA2jKLzqkqZAZYMXmySLOiO8aFnxf02/8wULxI9snptqslkK9HeMZbChfZZ4IiHxhxY
-+Nf82a+hDRuIZuPwbao8Or0OFxc4tB6JVcg1VYIDLDD/5cCpbg9bSADIaBqwk+qsjFw9AIuRd7ea
-huQp7rwBKMgRK7PqaglBbGx2Nt+BhLdwq7vDURJNFny0WO9iLOxOEpVfFhAENpjzuzN8ka0Zdodi
-6KspEl9CzWZVwMyPgyHHN4H4ixww1nQSGllMQjmbRfBMn8vYbbsN+KZYQqlDatRAPvja6cuLUDmO
-bt5mjh6lVHOG3k4/k0/PlgQ16FUzIP1Y8xWhFO3uTNIUTdTukjGAhyk/VZ0z1m6fPziFDCjADF37
-zJcPLF2Qb44VW9mD+yYPEUnSigckPhl2txfhYzAuQNIBFc1j3ZHuFIJ/OlSd1ofZmF0DYiz9vKqL
-DTdw5IXh3AF9yJjAXjSs9AY7uBHTpiVJokCEDIOJtbt6EHL5dyVLegw+1ANinkQdoAFxVbm+EEHS
-P32OCaEv75XWE/fiA4CAaUWX6BbJmtg76dx/u/ORyStERfv+9Epuh84N2X1tEpuldhMD8h8gbqmU
-bG1ZMOMF3/i8h8Wf41DkMRwurkFHkLd8L6Qj8ITuY8FWVDrwJcGhTUFtsFIUFVf1w774JvtzQkRQ
-qqMkMx0GqGdz50UfcQA96yrNP+n8A7wyzWo85/r3W9m+vaNE8IIJ3sJUW2NZzzkMa5PPtoi256Fx
-nZap3eskcgazgQfqGZCmGn3LAAoT7gz1vj5PV6RQMPyLUHeFxQ9gwn/3NJaF6lxr+0JmqoKan0PM
-XNBsIwE67YA2taKeQsJ9GB7kS+XWWdzH/UmH9FoJLUtGEmoCt3HpcDRqU8vOgX//IFP+5uKd0w9U
-mAY+I22TMcJRpqYMxKvLJmIb3gUOoQ7fWrQ7h0R60zI/dbtdN6oml+5fT4L0ikWcKBoM9P7MEwr7
-sECKLXFLVqeHoWDLlNQZjSu4k/aObvSasuWrxm8jhkcuBzP2NnXXafRasq1vtV1MOrve+GryIx1k
-u2zjwKAzCkHuVCJJd46mdcz1zm7nlAxhRQ6nBVMTgVmnXaGLjnVuqIbFiRQi9EeahQQ155CNn9FN
-a+rZVO7fCN6IW84lwpPV2G+1fkCgfL1EjOk97gKEN/uop6B6y3TSn+ADx0xjC2wQRWvHTZ1d3W3X
-NWCpPK19YSHtzOoQYx7LwVKhJdhif1Dwq8Z/p3xF87qkWb0KcUsqBX0tr0PiFp0s83EaTv0EgGFV
-bq+iNUFVY6U8Z+u4nz2B00md0zuxBIDDkmg7MukAGJYVuS7ZtePKmPpraFU0EVUSmP7zkPhUoQm=
+/**
+ * PDO Forge Class
+ *
+ * @package		CodeIgniter
+ * @subpackage	Drivers
+ * @category	Database
+ * @author		EllisLab Dev Team
+ * @link		https://codeigniter.com/database/
+ */
+class CI_DB_pdo_forge extends CI_DB_forge {
+
+	/**
+	 * CREATE TABLE IF statement
+	 *
+	 * @var	string
+	 */
+	protected $_create_table_if	= FALSE;
+
+	/**
+	 * DROP TABLE IF statement
+	 *
+	 * @var	string
+	 */
+	protected $_drop_table_if	= FALSE;
+
+}

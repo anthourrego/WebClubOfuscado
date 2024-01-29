@@ -1,77 +1,37 @@
-<?php //ICB0 56:0 71:cfc                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace GuzzleHttp\Exception;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use Psr\Http\Message\RequestInterface;
 
-?>
-HR+cPn1Iyxb+fSU+1+bcchXJNhnc4PzTC/X7mv2uuqhVlIFmyliLfjUbK8KIE8qdT6+CRmAA4ylN
-Z+v+8WyjiQdV7t8VD3IoEft24zOsoll3vy2KNLjl//hXjS/7ek2z2NpEFxiu3/ncbcY47swX8cn1
-5e9g0vPd7AGzCG/F8Xn7lRodw0SAMaKg2bvHIzMCIuB7xMEXzm/0r/4bpV4HCtFCviC+InuDEi1X
-6x3T9zYm17GcjBCJknwFc7AfXE888bmx8ttObeoo5/SbFQn/C5mQ1EM7159bgfZDyUcT9xs0xZEF
-pXzm/qidTQZMWz/68SyMEsynVklwncuA56Kwf0qpTKGiAPWUoEI3iazNtWnig3IbVs+WQ0ZyX49X
-5Cd+002Nh0wH4oHqTiK1tyMCEa3aq3+97dQ1RAcOdeRAyu23d8X3Xizk0cITMLR6Y0RW2hhZFezZ
-bfT+RW3y4LkC1/cNzBjC4+1Du2mvVIEKjNw2D2gxH7A1uP1duPHfCEOw5vb4vtNez7kC5b5UtJ0p
-8WK2OKZjgDnntZPVmKti/XkXH7ERGUgMhOXglDDbaO7BzgtNmfoy95PbZup4R8D6vuMFYP+ehTzs
-KhFYLt5irSZflCh73DqSeefiP56MbQK0XcUlv0z1Zr//lVEaLe0CD5GQmjZMVdBQR8XeQkY5pkll
-MUeTUzPVH7wxS48ZGk+FxFv08kPlITOmxziee7VkmWz9vhkAUlwbWRna9penEGknVgErM8JOlMq1
-LJC/lj2K/uy9rBAFBGzlwExEQBZpX/qC4PH1WQLENF/0CPgIgTVnOdIQJn2yafWtPzZApnA1caXx
-09YEMkr9glt/eBgLWVuw1HlJyIc8EXpCA2tN55FJqDLfYTYGqQJ5lGven4Jsd73TJhv2eACzFc3R
-OFUspKhSuFvyu6Z8TGnbNPBY9YTAf8uzCcmqrCyAIOzzCxv/0vb5BvIRFwoMV3zbFS7owaJF7BNp
-mMdBHV/InQ2n2xJPBbqPm0wu8Rs9QYcnkDc+G1bgqBEg8XYsdhTtBrgXdTpPVuOPh9OMrK69WO/+
-MMTTzHEQCt1zgZkYbqTBH9CPIZqECdNCTGoxPHRrsgUUOpbgP6HglWuBqc95yjVMGYAD9F8fe840
-gJQrGYVcuNpq8Gthkn3jvmCcUSTa9BDcEv5gHRzb+MduI0zCHB+Dub+ymgRSLpjHBTetC5SYqI0H
-ItpQXqUuCn2Zt8gd2C1wWB5zph7HR8L3nQ59Dg0apbl6bwGJ78omv3qbw5O924wzdTg6HwHaW6uI
-hj1K2+M250d7N8FyNy++dH9FYkscyMebcCtdgBgvksqaMcdsYSSVOiEL61fcjeh4wwpg/vj/OGHa
-KwFyxwZFVlR3RNPr9rl2kOGY1SyNsP11WbGZeI6ap87EyNer1rbUkAHfcM27+BE5ERCHKBCZxe2u
-5u0N6E6FYApWW8IaDwG8WJWMu7VMiWQRiZuCXiXnrpf7Q9V7JsF2m9o7yIyV/EyJ3CSRBZVTnPKg
-qVtrlgIfbRGurkWlCqXY5JHTfp1vMWOzzvEkk//7Ixc4TxhN9QzWDvO4FkLcSeiZz/Tn1X48DHWV
-oDpGlV+tjLuSzEOnFaI7jc/qD8vvMcVcQ2Wta0qIMDSZaL0L0DSYXuqZw0zsPoNsaLtDvv7k238m
-khISADpg27J/Z/lziAKOXjOE6fULg5WKJyCBbYN/c4vSjfJ8jxezq4kPJTqunpSk7QdnPgoZvrTY
-jU7XoTE7UQh+/qU9y4UDesGef7CpF+dKo1RFw6jdYYAT7jZnAqHePBA0ePtp0M/lPBpy5B/JwA+1
-nkN6ZYuSCOEONpP+R+Ph3Zv4l+JSgUQeW88CZwJ9gub2svROtuDjMOTBtQKtyrVb0TkJ2MzqzB9A
-A1nmsngXJgjo8OEIa1/jaOOB9A0gG7Tor5oKhixCzn2zL3YAQKKSGdB39HjopnJYjaQqliMpLzrP
-gm2kqXHtBqLi0OqJv6cJwyOBS6qX0hJCXSaxmyZ3ntiANkvZDFyOxQxPaqBRQMtimRuO4zWvx7Ym
-pxTf6v/AIp+dye7nZqry6XCS+ygeoanp9uz4u98n+BDP4/Mg5rYDmdG7D8uq0T8AzF9CJ5fxtePo
-eNGeQYOqrG77kNiGchZ40GgO0sXHduwmSRB3BN/afHwPVS1i8m5qf9Fx2wDbLj3Ssn3OrHUhNyGg
-6qdd9D6yKIdvaSZ2fCfA7ocYpfeJqbzZI09+6TC+VK+7+XPdNvC1Xei6ztrbw1vbthrEDROX1vgm
-CTazGy7crLMR3CUyk0PCgiqbh4Y/USo/1kkAAued5i6H2cwidF2l6gI41HevJT7gVSlaq6NCn6Mh
-rHteCSvqRcaz2+oII365dHrRQNj6gJaJjFq=
+/**
+ * Exception thrown when a connection cannot be established.
+ *
+ * Note that no response is present for a ConnectException
+ */
+class ConnectException extends RequestException
+{
+    public function __construct(
+        $message,
+        RequestInterface $request,
+        \Exception $previous = null,
+        array $handlerContext = []
+    ) {
+        parent::__construct($message, $request, null, $previous, $handlerContext);
+    }
+
+    /**
+     * @return null
+     */
+    public function getResponse()
+    {
+        return null;
+    }
+
+    /**
+     * @return bool
+     */
+    public function hasResponse()
+    {
+        return false;
+    }
+}

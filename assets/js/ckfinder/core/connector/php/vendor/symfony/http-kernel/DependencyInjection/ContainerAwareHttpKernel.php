@@ -1,66 +1,85 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cP+aBLNYlswr/jiV0Mx8eOS6Bcu6+vB3swgsuYL+CLKo9C4ixs5KfuQ+KropFQ2tK+wm6oUQs
-B+loZO7l6GdVLGMWJzyS5NBbvpHeQEXYMyhUilQHR2kP0LFOWGHB07IwdTGXk+wLDO9nnmqSYcNy
-bCpA3/WPYESiithF3BpQ8k3vqxUuYlj8OrjOGK5KZ3WEqlbqcIsHOwipelO1e5cQdnPdIvsMvCLN
-Tzfdcr3BiSkB1Ux8sobRnRVpNvUcpDad0Dosxf02/8wULxI9snptqslkK5DojlH6FvNpQD1k34RL
-dbyW/mFLV9ZLLrm9E0SwK9Ti2qJgX9nat5M4O6h3mFd6uBoNPIN8wM8MYw5+bLsmomaqbXRjJZuE
-lcxNfzQ9sNXwlA/8HNfnTOvOqYJyXZIBzcPJHNZARTwGXCYiWSuL4HAoJiKrXqG2bdTIlnMZWsHl
-sqTgSVywMZAyDcn316UbcwenHliZkN34QaXGR60epm8WH2ghHfNe1SzicNVbWGjTV1bd0Tpi1DGJ
-vYjjfQimgoFsmVb6Dw8njtfxeaW5s+ENLEEe57IijPxqV/41iZAGVCXfniUS35i2aZe5iIp2Qf+8
-d6G/Kp9QijEN1QOO0UoyskmNuYJ+5bsoB6BTqQVpw55pnwE7zBsCidQrglAppGod8nmJiD73WcsR
-dtlV+sVNDoWPqbg2hjZMLc/aP21PEK85+3PGRxuvyPiM8g1+EM/62y8iuU/UoDdVN4jJSTLt+NI/
-0KZXRXr8EzjthqSzBDXEOkw6q0e995qtnnGbOOxylWNJEP7BReAkCXIcirfz1iuDziOVx1Sj9S7c
-nvLNZ/5MW2bdLymjDNan5gu/KSvSOw2xDUDGjjdIqudE5QfVoIk5OaHWykn6woT+jMDJCRkFr2r7
-bDaY8ZICrjv1xXsin7gVQ7BzMYrpJ6PeklNfHP5tuqcctFu3RLhTuY4P2p1SALNPKbktD5LiZjz7
-2CaAP/Z1jPLzO//Y81Ny3M307IXJ1IaEKd5BfVdmyQYkOCfkLblQ8vVkYj/klZs1HPXivW2TsLP7
-byM6iilqZYfKS27DctAaK7I8eyRAsIuluNobGSQTQd1oFL10nHOYWXP+DQAm63Z4wECcDTJ5Ct5a
-4aGDjPXkIg/LohWlVeJ9Bv+JpLf9TZgoODDbvPaVkxK3ObOpwnoKR01dUavoBuDA6Fiz526A1AH+
-cLMQ4wriESlmz+iNDLaXHwjZTAJsFkwhMWcDnLY15b69nqIjyOhdgN6S2ahJtTrBDuL0SOnPhy+R
-okmbSFaqkXSPGXBDG2OcDNPJefC4956XC+15dKTzcdpqZKQTIxm9/qfrBXje8L1O21t9ekycj8aq
-mwgEyKNyJFSPHC56S3RfVz+0YlyMDpfNe3gG23kM9Tpf3jBuy8yKB369Gxwp0Gq2gtGv3Kgju7+/
-JQRn4kxyyKOjZDNtHnBmVvg4yOQLc9L9t8+uRjonlXKquRjGY5Rlt4I0R21MGM3SyKRHXAl0cNN7
-TuhbdTNITzIQdHNyx+D3+vJ4lIB5j6CHdIcjmo3a/c5yI6hR0mM3IzM4+BL5UbomKvIYFH50b2cM
-pt7KLY0RhKdf7JZWNsmYZFvcfssVsA5gxWYrg9+z5JwDd4fYPO+uTld+XvXnUM7vofjNvGhE0aiI
-vcYvQZ0+q94+DXcfxOKb3JFogIsP5NuUMmlBpStTeOU4Ymcn8onwByiLBY5IEPXLagq6vN4UvIn5
-V5ovQiqM22cF0GIoDL2mOBKDOlmgNeToFiyW0ljkNRcZQNKJBdfw7KmjZnAmpm99r5KAwKLNwuqN
-JrgClSX/qcHwp3yx6p3n2G6yeNExL/r5MlSke+1NO1qARGoEcybE9JevWUX2qs+uY0Ca0HDMUz5N
-gRnxJspdkL+MJPdQAbLVnz0LI+YYbQhnOXZ/R6DtDDuPzSBvt05bgHxjZc2PtltPmZ7lsOB0NRlG
-1QVMgIA2M8/IYqqd2CNloZJcNNY3DSNkwdyhAsijaMDKQcquqeN2scZfD6VICZTK5WVaI+QZLNQA
-6UkhPPT45RrF3KfNuiZyE9iUwpMmFlXkA+55bovLqe7hDeJcZCPEtb9ZmijQvxCERC6URlab4FsE
-rEMA9940r9Izrzc8vij0OUiCrncc8fiQB4uAXLP+HUA7bFnTbunaJz7O/PphC0cc+kAZoHOsKPKx
-n8PD5RlBYnScSqDFCbhynNRIRenvXaQzrRxESTwkaGox4M49nxvFJx9SNxleb8lAC2tLviqsxZGe
-ldAk4LQnLIbOx+G1Vw5G6R4N2V7htk4EQdLXVb7k1z5DTIxAhesnnpdiHp/+ea+AYpxfR7/P5J+x
-hGpEBr5vEe+i0UWjlvbmIM59/+cKn/VDSjA3d/rOkAUKXVwPYj0UQuc9YeqsIUOVN6qwfd18g4lJ
-5s3zJhN/G6T9RIwkhZR/jCSFeUOgOeeZ/To70HiGuH+cjSxrl7BOKg1fMnZ9io7SZz3BOZkh0ULG
-zcyGRyjRwa6WfN8FK7CH7cLP/ksLYfwgH5D/JqYGnkB2bnA8B3yRsr6qUrZzN3VSEMQDVnLevW89
-Dmx8bqLMp6fBybhInuljmu5Mvqf1yunNcGrPAOuhCn7eXI5nBwkehy5Bf6c/uG3qMxwycftZj/G4
-mwa8uBZIZLDx4b0bU1F4V+4PN5TaqwWAyQNYASRRJkB1+JL3mSeKFouRNmqkf7gKYujZAfDd0iBo
-eanXb8Z+C4WeCwI23nvZSTwBKhvS9XYuHzAxgFsscyse+WjpHy/4BQleV8LDnKz0JsaeQZxYykvX
-Izn5FznjuRqtPH9yqHZJs3yhDlE9cF5dX3EiYUloyLFVP0ehFephKRXtghgqhWP2MzHMRzIhybaq
-JyutiiucBDpdL/GIIS4oeGiH1PLc/E5Hkfh/EcI2DXFW8KCDFg543BGh9sXGkbW8GK15Ws66UCxE
-kQGu1nsVujtbjNqThpaePIPN/VYCZlvQsV/cjH67mn/bKz3lQvrYx0ZDbsebGmt/0NFcUlDM1nvr
-ODVr8GJWD+r2CpzvpONAcZqz1QwuVp0T2/zYnag2BA3nLvbGZikI9eTAdWY9GOTsjCJ9F/3I27ah
-r2PpK1nhSnMUg6Dqh/shVyeO9o7f2bZ2T69Y4UdF+XkO5gEj2Aw3cHI2tF/e+MySH00p78GBuYx0
-HRGYs38dXolWDYp58pXJnC1GWwxl/5sRa/bpAL0+7OCAuutwA46QN2+Rb3fn9qCoQXV/uZ+ZVsJt
-h4+preoVvLQYBopvhfWApLgedon0S4czDiVKWW2aimBJmndn7aqVyp+oijJPlGNgENyoROEwaGbs
-XoWQc9aPqn2lUyq6TCXmeuqlaDzWruSzaKUhANMPyxK3LbAzG8c6GYIm9iBYj5q29pzL7O15cFfP
-WKODhReINIwSMPZVXkId+/zArumV9zds5EHYXG/PfeTxwUDIhm7bV0m7jMs730qaJyqsk9vKs7TU
-NSfuRTFVVYLLDEJvMyEnNzid5XfV7RxHJkaEX6z7tkokg13lbFqxH79UK3VdCeSiMMqWPclczi6u
-fyaEHxQt1GWa2vXarDvkoqf58QcKTjVNYNzYosdIDBWqc3csXJ4TPbiCj2xCUZuOnNhkKdvc4mkf
-SwVEgQg8wyyjptfBBUDnNcXlmYXBXqW7uq9n8XvjdoQeXm56z+jNVXMYjJWg243lAv0Esc1HKl4P
-W7Xr5+rlLwyStsfCSrzRsu8LfVbXoV04JXZCY1WiVIjXnBMI8QKXnSWviCNPrgB8snTaYTNf5pMr
-1IddPgWpHzxS3rdW/Fjv9QVOUtFIESSCmQsxIeISJUiZ3/YitnT1mkHrWwRyNqjHmaUxhSi6FhEM
-PkqCb/EzbzVKvC9099F48pFTgXrzIRfUBN/8POelqAu7ovPcojhI3qnFQfL6AscvpTJCHuswJOKU
-/sencjUC3NFeYNd8+JvvaIpZOnMBu0WoChoJgfIemr391Kl0qO+U8d5rxM4BK6YZH71B6dgJfoDJ
-L/q0mUg261EWDRwnynqWW+Q3BZe+Zn4LqU5TZb2IhOfaihH3gYCQvvuzxtgTLxvAOt3tNeBfcu10
-2+hRR7DlvDa2EMnJmtoJPJG8XE2etkITBjLzMeRhmx617dlzJqnH8KLO3kPWnhNJcd/vh93tabel
-tVGRq/Q27mBetGVcUj5CsmUXd8wsnESYUGWkI7cl060FiwAz4ZcOB7r+c1v15y4Wk6nYjAxcifEl
-pvknFwTjZ95FSWrGs7XEjt/7nl4F98dGdNWjPO0MEBDEUdzPOvTeMxW1frNV5wpQ8XyzDwaoSbbB
-xlZiP1gmwGhe4FltC8iepsBcx91vRsIw26rOYlR1ZQmQv/dAcb/3nAZa+nTxvehtNJWgIdyZHqqF
-CHd2IEsf9Ehe6BeqzxQc
+/*
+ * This file is part of the Symfony package.
+ *
+ * (c) Fabien Potencier <fabien@symfony.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+namespace Symfony\Component\HttpKernel\DependencyInjection;
+
+use Symfony\Component\HttpFoundation\Request;
+use Symfony\Component\HttpFoundation\RequestStack;
+use Symfony\Component\HttpKernel\HttpKernelInterface;
+use Symfony\Component\HttpKernel\HttpKernel;
+use Symfony\Component\HttpKernel\Controller\ControllerResolverInterface;
+use Symfony\Component\EventDispatcher\EventDispatcherInterface;
+use Symfony\Component\DependencyInjection\ContainerInterface;
+use Symfony\Component\DependencyInjection\Scope;
+
+/**
+ * Adds a managed request scope.
+ *
+ * @author Fabien Potencier <fabien@symfony.com>
+ * @author Johannes M. Schmitt <schmittjoh@gmail.com>
+ *
+ * @deprecated since version 2.7, to be removed in 3.0.
+ */
+class ContainerAwareHttpKernel extends HttpKernel
+{
+    protected $container;
+
+    /**
+     * @param EventDispatcherInterface    $dispatcher         An EventDispatcherInterface instance
+     * @param ContainerInterface          $container          A ContainerInterface instance
+     * @param ControllerResolverInterface $controllerResolver A ControllerResolverInterface instance
+     * @param RequestStack                $requestStack       A stack for master/sub requests
+     * @param bool                        $triggerDeprecation Whether or not to trigger the deprecation warning for the ContainerAwareHttpKernel
+     */
+    public function __construct(EventDispatcherInterface $dispatcher, ContainerInterface $container, ControllerResolverInterface $controllerResolver, RequestStack $requestStack = null, $triggerDeprecation = true)
+    {
+        parent::__construct($dispatcher, $controllerResolver, $requestStack);
+
+        if ($triggerDeprecation) {
+            @trigger_error('The '.__CLASS__.' class is deprecated since Symfony 2.7 and will be removed in 3.0. Use the Symfony\Component\HttpKernel\HttpKernel class instead.', E_USER_DEPRECATED);
+        }
+
+        $this->container = $container;
+
+        // the request scope might have been created before (see FrameworkBundle)
+        if (!$container->hasScope('request')) {
+            $container->addScope(new Scope('request'));
+        }
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function handle(Request $request, $type = HttpKernelInterface::MASTER_REQUEST, $catch = true)
+    {
+        $this->container->enterScope('request');
+        $this->container->set('request', $request, 'request');
+
+        try {
+            $response = parent::handle($request, $type, $catch);
+        } catch (\Exception $e) {
+            $this->container->set('request', null, 'request');
+            $this->container->leaveScope('request');
+
+            throw $e;
+        } catch (\Throwable $e) {
+            $this->container->set('request', null, 'request');
+            $this->container->leaveScope('request');
+
+            throw $e;
+        }
+
+        $this->container->set('request', null, 'request');
+        $this->container->leaveScope('request');
+
+        return $response;
+    }
+}

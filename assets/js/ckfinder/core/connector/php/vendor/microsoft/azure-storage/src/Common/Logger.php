@@ -1,71 +1,75 @@
-<?php //ICB0 56:0 71:bb0                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-ID3C+02g3FGXmyeXQGfzb3tD2davAzdYf2YZXRO==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Common
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+ 
+namespace MicrosoftAzure\Storage\Common;
 
-?>
-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
-P1dniFLRbxDQgNB66Oy=
+/**
+ * Logger class for debugging purpose.
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Common
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+class Logger
+{
+    /**
+     * @var string
+     */
+    private static $_filePath;
+
+    /**
+     * Logs $var to file.
+     *
+     * @param mixed  $var The data to log.
+     * @param string $tip The help message.
+     *
+     * @return void
+     */
+    public static function log($var, $tip = Resources::EMPTY_STRING)
+    {
+        if (!empty($tip)) {
+            error_log($tip . "\n", 3, self::$_filePath);
+        }
+        
+        if (is_array($var) || is_object($var)) {
+            error_log(print_r($var, true), 3, self::$_filePath);
+        } else {
+            error_log($var . "\n", 3, self::$_filePath);
+        }
+    }
+    
+    /**
+     * Sets file path to use.
+     *
+     * @param string $filePath The log file path.
+     * @return void
+     */
+    public static function setLogFile($filePath)
+    {
+        self::$_filePath = $filePath;
+    }
+}

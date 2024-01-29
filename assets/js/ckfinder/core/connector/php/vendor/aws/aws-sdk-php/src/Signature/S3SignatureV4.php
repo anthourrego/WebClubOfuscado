@@ -1,106 +1,68 @@
-<?php //ICB0 56:0 71:108c                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\Signature;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use Aws\Credentials\CredentialsInterface;
+use Psr\Http\Message\RequestInterface;
 
-?>
-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
+/**
+ * Amazon S3 signature version 4 support.
+ */
+class S3SignatureV4 extends SignatureV4
+{
+    /**
+     * Always add a x-amz-content-sha-256 for data integrity.
+     */
+    public function signRequest(
+        RequestInterface $request,
+        CredentialsInterface $credentials
+    ) {
+        if (!$request->hasHeader('x-amz-content-sha256')) {
+            $request = $request->withHeader(
+                'X-Amz-Content-Sha256',
+                $this->getPayload($request)
+            );
+        }
+
+        return parent::signRequest($request, $credentials);
+    }
+
+    /**
+     * Always add a x-amz-content-sha-256 for data integrity.
+     */
+    public function presign(
+        RequestInterface $request,
+        CredentialsInterface $credentials,
+        $expires,
+        array $options = []
+    ) {
+        if (!$request->hasHeader('x-amz-content-sha256')) {
+            $request = $request->withHeader(
+                'X-Amz-Content-Sha256',
+                $this->getPresignedPayload($request)
+            );
+        }
+
+        return parent::presign($request, $credentials, $expires, $options);
+    }
+
+    /**
+     * Override used to allow pre-signed URLs to be created for an
+     * in-determinate request payload.
+     */
+    protected function getPresignedPayload(RequestInterface $request)
+    {
+        return SignatureV4::UNSIGNED_PAYLOAD;
+    }
+
+    /**
+     * Amazon S3 does not double-encode the path component in the canonical request
+     */
+    protected function createCanonicalizedPath($path)
+    {
+        // Only remove one slash in case of keys that have a preceding slash
+        if (substr($path, 0, 1) === '/') {
+            $path = substr($path, 1);
+        }
+        return '/' . $path;
+    }
+}

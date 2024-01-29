@@ -1,129 +1,108 @@
-<?php //ICB0 56:0 71:13af                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\Crypto;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-d9I+QW===
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use Aws\Kms\KmsClient;
 
-?>
-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
-PQPGlhyXAgxj
+/**
+ * Uses KMS to supply materials for encrypting and decrypting data.
+ */
+class KmsMaterialsProvider extends MaterialsProvider
+{
+    private $kmsClient;
+    private $kmsKeyId;
+
+    /**
+     * @param KmsClient $kmsClient A KMS Client for use encrypting and
+     *                             decrypting keys.
+     * @param string $kmsKeyId The private KMS key id to be used for encrypting
+     *                         and decrypting keys.
+     */
+    public function __construct(
+        KmsClient $kmsClient,
+        $kmsKeyId = null
+    ) {
+        $this->kmsClient = $kmsClient;
+        $this->kmsKeyId = $kmsKeyId;
+    }
+
+    public function fromDecryptionEnvelope(MetadataEnvelope $envelope)
+    {
+        if (empty($envelope[MetadataEnvelope::MATERIALS_DESCRIPTION_HEADER])) {
+            throw new \RuntimeException('Not able to detect kms_cmk_id from an'
+                . ' empty materials description.');
+        }
+
+        $materialsDescription = json_decode(
+            $envelope[MetadataEnvelope::MATERIALS_DESCRIPTION_HEADER],
+            true
+        );
+        if (empty($materialsDescription['kms_cmk_id'])) {
+            throw new \RuntimeException('Not able to detect kms_cmk_id from kms'
+                . ' materials description.');
+        }
+
+        return new KmsMaterialsProvider(
+            $this->kmsClient,
+            $materialsDescription['kms_cmk_id']
+        );
+    }
+
+    /**
+     * The KMS key id for use in matching this Provider to its keys,
+     * consistently with other SDKs as 'kms_cmk_id'.
+     *
+     * @return array
+     */
+    public function getMaterialsDescription()
+    {
+        return ['kms_cmk_id' => $this->kmsKeyId];
+    }
+
+    public function getWrapAlgorithmName()
+    {
+        return 'kms';
+    }
+
+    /**
+     * Takes a content encryption key (CEK) and description to return an encrypted
+     * key by using KMS' Encrypt API.
+     *
+     * @param string $unencryptedCek Key for use in encrypting other data
+     *                               that itself needs to be encrypted by the
+     *                               Provider.
+     * @param string $materialDescription Material Description for use in
+     *                                    encrypting the $cek.
+     *
+     * @return string
+     */
+    public function encryptCek($unencryptedCek, $materialDescription)
+    {
+        $encryptedDataKey = $this->kmsClient->encrypt([
+            'Plaintext' => $unencryptedCek,
+            'KeyId' => $this->kmsKeyId,
+            'EncryptionContext' => $materialDescription
+        ]);
+        return base64_encode($encryptedDataKey['CiphertextBlob']);
+    }
+
+    /**
+     * Takes an encrypted content encryption key (CEK) and material description
+     * for use decrypting the key by using KMS' Decrypt API.
+     *
+     * @param string $encryptedCek Encrypted key to be decrypted by the Provider
+     *                             for use decrypting other data.
+     * @param string $materialDescription Material Description for use in
+     *                                    encrypting the $cek.
+     *
+     * @return string
+     */
+    public function decryptCek($encryptedCek, $materialDescription)
+    {
+        $result = $this->kmsClient->decrypt([
+            'CiphertextBlob' => $encryptedCek,
+            'EncryptionContext' => $materialDescription
+        ]);
+
+        return $result['Plaintext'];
+    }
+}

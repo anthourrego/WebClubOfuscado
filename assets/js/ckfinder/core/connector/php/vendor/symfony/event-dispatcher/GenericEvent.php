@@ -1,68 +1,175 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
+/*
+ * This file is part of the Symfony package.
+ *
+ * (c) Fabien Potencier <fabien@symfony.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+namespace Symfony\Component\EventDispatcher;
+
+/**
+ * Event encapsulation class.
+ *
+ * Encapsulates events thus decoupling the observer from the subject they encapsulate.
+ *
+ * @author Drak <drak@zikula.org>
+ */
+class GenericEvent extends Event implements \ArrayAccess, \IteratorAggregate
+{
+    protected $subject;
+    protected $arguments;
+
+    /**
+     * Encapsulate an event with $subject and $args.
+     *
+     * @param mixed $subject   The subject of the event, usually an object or a callable
+     * @param array $arguments Arguments to store in the event
+     */
+    public function __construct($subject = null, array $arguments = array())
+    {
+        $this->subject = $subject;
+        $this->arguments = $arguments;
+    }
+
+    /**
+     * Getter for subject property.
+     *
+     * @return mixed $subject The observer subject
+     */
+    public function getSubject()
+    {
+        return $this->subject;
+    }
+
+    /**
+     * Get argument by key.
+     *
+     * @param string $key Key
+     *
+     * @return mixed Contents of array key
+     *
+     * @throws \InvalidArgumentException if key is not found
+     */
+    public function getArgument($key)
+    {
+        if ($this->hasArgument($key)) {
+            return $this->arguments[$key];
+        }
+
+        throw new \InvalidArgumentException(sprintf('Argument "%s" not found.', $key));
+    }
+
+    /**
+     * Add argument to event.
+     *
+     * @param string $key   Argument name
+     * @param mixed  $value Value
+     *
+     * @return $this
+     */
+    public function setArgument($key, $value)
+    {
+        $this->arguments[$key] = $value;
+
+        return $this;
+    }
+
+    /**
+     * Getter for all arguments.
+     *
+     * @return array
+     */
+    public function getArguments()
+    {
+        return $this->arguments;
+    }
+
+    /**
+     * Set args property.
+     *
+     * @param array $args Arguments
+     *
+     * @return $this
+     */
+    public function setArguments(array $args = array())
+    {
+        $this->arguments = $args;
+
+        return $this;
+    }
+
+    /**
+     * Has argument.
+     *
+     * @param string $key Key of arguments array
+     *
+     * @return bool
+     */
+    public function hasArgument($key)
+    {
+        return array_key_exists($key, $this->arguments);
+    }
+
+    /**
+     * ArrayAccess for argument getter.
+     *
+     * @param string $key Array key
+     *
+     * @return mixed
+     *
+     * @throws \InvalidArgumentException if key does not exist in $this->args
+     */
+    public function offsetGet($key)
+    {
+        return $this->getArgument($key);
+    }
+
+    /**
+     * ArrayAccess for argument setter.
+     *
+     * @param string $key   Array key to set
+     * @param mixed  $value Value
+     */
+    public function offsetSet($key, $value)
+    {
+        $this->setArgument($key, $value);
+    }
+
+    /**
+     * ArrayAccess for unset argument.
+     *
+     * @param string $key Array key
+     */
+    public function offsetUnset($key)
+    {
+        if ($this->hasArgument($key)) {
+            unset($this->arguments[$key]);
+        }
+    }
+
+    /**
+     * ArrayAccess has argument.
+     *
+     * @param string $key Array key
+     *
+     * @return bool
+     */
+    public function offsetExists($key)
+    {
+        return $this->hasArgument($key);
+    }
+
+    /**
+     * IteratorAggregate for iterating over the object like an array.
+     *
+     * @return \ArrayIterator
+     */
+    public function getIterator()
+    {
+        return new \ArrayIterator($this->arguments);
+    }
+}

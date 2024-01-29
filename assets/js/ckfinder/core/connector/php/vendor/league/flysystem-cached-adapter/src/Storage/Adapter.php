@@ -1,148 +1,115 @@
-<?php //ICB0 56:0 71:16a0                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+namespace League\Flysystem\Cached\Storage;
 
-?>
-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
+use League\Flysystem\AdapterInterface;
+use League\Flysystem\Config;
+
+class Adapter extends AbstractCache
+{
+    /**
+     * @var AdapterInterface An adapter
+     */
+    protected $adapter;
+
+    /**
+     * @var string the file to cache to
+     */
+    protected $file;
+
+    /**
+     * @var int|null seconds until cache expiration
+     */
+    protected $expire = null;
+
+    /**
+     * Constructor.
+     *
+     * @param AdapterInterface $adapter adapter
+     * @param string           $file    the file to cache to
+     * @param int|null         $expire  seconds until cache expiration
+     */
+    public function __construct(AdapterInterface $adapter, $file, $expire = null)
+    {
+        $this->adapter = $adapter;
+        $this->file = $file;
+        $this->setExpire($expire);
+    }
+
+    /**
+     * Set the expiration time in seconds.
+     *
+     * @param int $expire relative expiration time
+     */
+    protected function setExpire($expire)
+    {
+        if ($expire) {
+            $this->expire = $this->getTime($expire);
+        }
+    }
+
+    /**
+     * Get expiration time in seconds.
+     *
+     * @param int $time relative expiration time
+     *
+     * @return int actual expiration time
+     */
+    protected function getTime($time = 0)
+    {
+        return intval(microtime(true)) + $time;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function setFromStorage($json)
+    {
+        list($cache, $complete, $expire) = json_decode($json, true);
+
+        if (! $expire || $expire > $this->getTime()) {
+            $this->cache = $cache;
+            $this->complete = $complete;
+        } else {
+            $this->adapter->delete($this->file);
+        }
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function load()
+    {
+        if ($this->adapter->has($this->file)) {
+            $file = $this->adapter->read($this->file);
+            if ($file && !empty($file['contents'])) {
+                $this->setFromStorage($file['contents']);
+            }
+        }
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function getForStorage()
+    {
+        $cleaned = $this->cleanContents($this->cache);
+
+        return json_encode([$cleaned, $this->complete, $this->expire]);
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function save()
+    {
+        $config = new Config();
+        $contents = $this->getForStorage();
+
+        if ($this->adapter->has($this->file)) {
+            $this->adapter->update($this->file, $contents, $config);
+        } else {
+            $this->adapter->write($this->file, $contents, $config);
+        }
+    }
+}

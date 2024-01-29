@@ -1,76 +1,33 @@
-<?php //ICB0 56:0 71:c4e                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+/**
+ * @package php-font-lib
+ * @link    https://github.com/PhenX/php-font-lib
+ * @author  Fabien Ménager <fabien.menager@gmail.com>
+ * @license http://www.gnu.org/copyleft/lesser.html GNU Lesser General Public License
+ */
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+namespace FontLib\TrueType;
 
-?>
-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
-SSm8Lgg4GD2YR2fn2G==
+use FontLib\Table\DirectoryEntry;
+
+/**
+ * TrueType table directory entry.
+ *
+ * @package php-font-lib
+ */
+class TableDirectoryEntry extends DirectoryEntry {
+  function __construct(File $font) {
+    parent::__construct($font);
+  }
+
+  function parse() {
+    parent::parse();
+
+    $font           = $this->font;
+    $this->checksum = $font->readUInt32();
+    $this->offset   = $font->readUInt32();
+    $this->length   = $font->readUInt32();
+    $this->entryLength += 12;
+  }
+}
+

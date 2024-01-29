@@ -1,149 +1,245 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-0W==
+/*
+ * This file is part of the Symfony package.
+ *
+ * (c) Fabien Potencier <fabien@symfony.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+namespace Symfony\Component\HttpFoundation;
+
+/**
+ * Response represents an HTTP response in JSON format.
+ *
+ * Note that this class does not force the returned JSON content to be an
+ * object. It is however recommended that you do return an object as it
+ * protects yourself against XSSI and JSON-JavaScript Hijacking.
+ *
+ * @see https://www.owasp.org/index.php/OWASP_AJAX_Security_Guidelines#Always_return_JSON_with_an_Object_on_the_outside
+ *
+ * @author Igor Wiedler <igor@wiedler.ch>
+ */
+class JsonResponse extends Response
+{
+    protected $data;
+    protected $callback;
+
+    // Encode <, >, ', &, and " characters in the JSON, making it also safe to be embedded into HTML.
+    // 15 === JSON_HEX_TAG | JSON_HEX_APOS | JSON_HEX_AMP | JSON_HEX_QUOT
+    protected $encodingOptions = 15;
+
+    /**
+     * @param mixed $data    The response data
+     * @param int   $status  The response status code
+     * @param array $headers An array of response headers
+     */
+    public function __construct($data = null, $status = 200, $headers = array())
+    {
+        parent::__construct('', $status, $headers);
+
+        if (null === $data) {
+            $data = new \ArrayObject();
+        }
+
+        $this->setData($data);
+    }
+
+    /**
+     * Factory method for chainability.
+     *
+     * Example:
+     *
+     *     return JsonResponse::create($data, 200)
+     *         ->setSharedMaxAge(300);
+     *
+     * @param mixed $data    The json response data
+     * @param int   $status  The response status code
+     * @param array $headers An array of response headers
+     *
+     * @return static
+     */
+    public static function create($data = null, $status = 200, $headers = array())
+    {
+        return new static($data, $status, $headers);
+    }
+
+    /**
+     * Sets the JSONP callback.
+     *
+     * @param string|null $callback The JSONP callback or null to use none
+     *
+     * @return $this
+     *
+     * @throws \InvalidArgumentException When the callback name is not valid
+     */
+    public function setCallback($callback = null)
+    {
+        if (null !== $callback) {
+            // partially token from http://www.geekality.net/2011/08/03/valid-javascript-identifier/
+            // partially token from https://github.com/willdurand/JsonpCallbackValidator
+            //      JsonpCallbackValidator is released under the MIT License. See https://github.com/willdurand/JsonpCallbackValidator/blob/v1.1.0/LICENSE for details.
+            //      (c) William Durand <william.durand1@gmail.com>
+            $pattern = '/^[$_\p{L}][$_\p{L}\p{Mn}\p{Mc}\p{Nd}\p{Pc}\x{200C}\x{200D}]*(?:\[(?:"(?:\\\.|[^"\\\])*"|\'(?:\\\.|[^\'\\\])*\'|\d+)\])*?$/u';
+            $reserved = array(
+                'break', 'do', 'instanceof', 'typeof', 'case', 'else', 'new', 'var', 'catch', 'finally', 'return', 'void', 'continue', 'for', 'switch', 'while',
+                'debugger', 'function', 'this', 'with', 'default', 'if', 'throw', 'delete', 'in', 'try', 'class', 'enum', 'extends', 'super',  'const', 'export',
+                'import', 'implements', 'let', 'private', 'public', 'yield', 'interface', 'package', 'protected', 'static', 'null', 'true', 'false',
+            );
+            $parts = explode('.', $callback);
+            foreach ($parts as $part) {
+                if (!preg_match($pattern, $part) || in_array($part, $reserved, true)) {
+                    throw new \InvalidArgumentException('The callback name is not valid.');
+                }
+            }
+        }
+
+        $this->callback = $callback;
+
+        return $this->update();
+    }
+
+    /**
+     * Sets the data to be sent as JSON.
+     *
+     * @param mixed $data
+     *
+     * @return $this
+     *
+     * @throws \InvalidArgumentException
+     */
+    public function setData($data = array())
+    {
+        if (defined('HHVM_VERSION')) {
+            // HHVM does not trigger any warnings and let exceptions
+            // thrown from a JsonSerializable object pass through.
+            // If only PHP did the same...
+            $data = json_encode($data, $this->encodingOptions);
+        } else {
+            try {
+                if (!interface_exists('JsonSerializable', false)) {
+                    // PHP 5.3 triggers annoying warnings for some
+                    // types that can't be serialized as JSON (INF, resources, etc.)
+                    // but doesn't provide the JsonSerializable interface.
+                    set_error_handler(function () { return false; });
+                    $data = @json_encode($data, $this->encodingOptions);
+                    restore_error_handler();
+                } elseif (\PHP_VERSION_ID < 50500) {
+                    // PHP 5.4 and up wrap exceptions thrown by JsonSerializable
+                    // objects in a new exception that needs to be removed.
+                    // Fortunately, PHP 5.5 and up do not trigger any warning anymore.
+                    // Clear json_last_error()
+                    json_encode(null);
+                    $errorHandler = set_error_handler('var_dump');
+                    restore_error_handler();
+                    set_error_handler(function () use ($errorHandler) {
+                        if (JSON_ERROR_NONE === json_last_error()) {
+                            return $errorHandler && false !== call_user_func_array($errorHandler, func_get_args());
+                        }
+                    });
+                    $data = json_encode($data, $this->encodingOptions);
+                    restore_error_handler();
+                } else {
+                    $data = json_encode($data, $this->encodingOptions);
+                }
+            } catch (\Error $e) {
+                if (\PHP_VERSION_ID < 50500 || !interface_exists('JsonSerializable', false)) {
+                    restore_error_handler();
+                }
+                throw $e;
+            } catch (\Exception $e) {
+                if (\PHP_VERSION_ID < 50500 || !interface_exists('JsonSerializable', false)) {
+                    restore_error_handler();
+                }
+                if (interface_exists('JsonSerializable', false) && 'Exception' === get_class($e) && 0 === strpos($e->getMessage(), 'Failed calling ')) {
+                    throw $e->getPrevious() ?: $e;
+                }
+                throw $e;
+            }
+        }
+
+        if (JSON_ERROR_NONE !== json_last_error()) {
+            throw new \InvalidArgumentException($this->transformJsonError());
+        }
+
+        $this->data = $data;
+
+        return $this->update();
+    }
+
+    /**
+     * Returns options used while encoding data to JSON.
+     *
+     * @return int
+     */
+    public function getEncodingOptions()
+    {
+        return $this->encodingOptions;
+    }
+
+    /**
+     * Sets options used while encoding data to JSON.
+     *
+     * @param int $encodingOptions
+     *
+     * @return $this
+     */
+    public function setEncodingOptions($encodingOptions)
+    {
+        $this->encodingOptions = (int) $encodingOptions;
+
+        return $this->setData(json_decode($this->data));
+    }
+
+    /**
+     * Updates the content and headers according to the JSON data and callback.
+     *
+     * @return $this
+     */
+    protected function update()
+    {
+        if (null !== $this->callback) {
+            // Not using application/javascript for compatibility reasons with older browsers.
+            $this->headers->set('Content-Type', 'text/javascript');
+
+            return $this->setContent(sprintf('/**/%s(%s);', $this->callback, $this->data));
+        }
+
+        // Only set the header when there is none or when it equals 'text/javascript' (from a previous update with callback)
+        // in order to not overwrite a custom definition.
+        if (!$this->headers->has('Content-Type') || 'text/javascript' === $this->headers->get('Content-Type')) {
+            $this->headers->set('Content-Type', 'application/json');
+        }
+
+        return $this->setContent($this->data);
+    }
+
+    private function transformJsonError()
+    {
+        if (function_exists('json_last_error_msg')) {
+            return json_last_error_msg();
+        }
+
+        switch (json_last_error()) {
+            case JSON_ERROR_DEPTH:
+                return 'Maximum stack depth exceeded.';
+
+            case JSON_ERROR_STATE_MISMATCH:
+                return 'Underflow or the modes mismatch.';
+
+            case JSON_ERROR_CTRL_CHAR:
+                return 'Unexpected control character found.';
+
+            case JSON_ERROR_SYNTAX:
+                return 'Syntax error, malformed JSON.';
+
+            case JSON_ERROR_UTF8:
+                return 'Malformed UTF-8 characters, possibly incorrectly encoded.';
+
+            default:
+                return 'Unknown error.';
+        }
+    }
+}

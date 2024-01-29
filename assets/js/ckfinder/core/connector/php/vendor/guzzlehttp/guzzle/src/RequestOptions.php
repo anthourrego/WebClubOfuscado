@@ -1,54 +1,255 @@
-<?php //ICB0 56:0 71:950                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace GuzzleHttp;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cPmUQ7DucVUKHFo69/OBcBcXt1UAm3llyVD42eG3/GWDVszw9xH9AvJDZ9n2CC/siObgh5TAx
-sjHSTLbkB1k8HzdPl2rTwvdvR9YmnjTXqvQe1sPmqhtZoCATWCyDr/pbyfnoryRolKhxbGZC/qi+
-PVS26rw0S7dTlAxyRh/NYJdB6N4mZWdM/76LMGdeiQODMwtkrA+ll4o9wuB3NUzY+gZhhM2mtgwt
-n6qlA7kineX7q2ThZD2v1Ptjqjj+Yeg+Uni1XHVka0ByZfvNj8dR7FVJQ+vGJ7KuSZl50YoG3+f2
-VbW0idQKW4nUcRcq3O7yluXjKo9I2mABeLOUPR2hCoAfJtJ4djKgEvaepOco9uH4GuPCR5AxWTI2
-TkZo6Ve0wN/wpk5KATK8XkFMQ+hqN38gchdQsj/YOh9+xONZj7y0AyIuTQ6bY1rPDs+EUyEqhRJQ
-cXx2yGac8MW3tyUzRLwOJR1nNe8OnkkGFRfzS5FdxHSpN7/YL/1vmfQc3chKllLbEP2dasu+7kMs
-Jbx1OQOixIWjjZ2FR0Eenw3qgXxxldLKJsyuPmbyYDPZ+bP072fE5o4CSi3uOM+3kZDskpyhdKk3
-3WK1xKSUo8GcLCrqGUvNSu8BHF2yaieWhI2vPJ39yCfJQxDwRV+6rHaN6QW7LYZV4qD6OLRrDFwa
-E6nPTyxEkk1VSIZmE+gbbmAqWe5E9QATCy4qHqvVKegTGxL8QkyKmkw5Bz1FTPt9UVErsXSdvqLa
-qxsr32zGCy97UDs8HMYABLxmxhUDHWHdUlxQO7OkpzUGoKrcQ1R/gXsw/Z04W3+qMyR/sqoCipVp
-mwfVVR7mDRk9PHyeApH3X9uGoONrqUf1LHe4T1RmFlLI2osylTaFqf7/JrF74fx8CZNOiRpSX+F9
-MVFfyHvOT9VBwjsBtzH3JMmS+K+/8mzXpnuW+EKj2BQEd2m2tIw7Th2tBXG6XrsddHMPBB8UDX3y
-E1uUN+59MZjD/zHE4UbKEtY8OOgOAN1vCVBmhPxtrnEbWLRCJv070TZuRSzKAM4lyuvIXulAW77x
-8NUF+LR6jvVH9V3+jkgiYUfuJSUrRnifQR9nLlMVx7VRrrmGxV/XiXirlfwU/7lF5j+slLBf7oXk
-/WYVlkms78Cd2W9hUvIzOV9lSqvZVm+kc8EomZkZ4ds45hX/4y+af7Afu3yZAxSrJBoj05KtvTQw
-Dh1+fRS0UdMTTvrqFeUjgpShKvx6s1MjYb72SW8J6i1G4+m5O6E8zojo+u82bfx9Erl0iKArHFce
-E918KuNGSkS+PMonh5v1AC5FL84h0eXq9SFPnL3WwX8fL6nDMtOAHnj3tByNLPs/yvO60aNDm9XC
-wS4egDrbSwBkkw56wdeJLLhDJvj7dM6HoAB9nUyCpdjWhi6i1Ho5EcDoGxqjXinM7cd532OiUnmc
-vNvDair0ZVA2AmyINhNO6gy4Ra6/YCYFTDZi2m7igsQrm5G==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * This class contains a list of built-in Guzzle request options.
+ *
+ * More documentation for each option can be found at http://guzzlephp.org/.
+ *
+ * @link http://docs.guzzlephp.org/en/v6/request-options.html
+ */
+final class RequestOptions
+{
+    /**
+     * allow_redirects: (bool|array) Controls redirect behavior. Pass false
+     * to disable redirects, pass true to enable redirects, pass an
+     * associative to provide custom redirect settings. Defaults to "false".
+     * This option only works if your handler has the RedirectMiddleware. When
+     * passing an associative array, you can provide the following key value
+     * pairs:
+     *
+     * - max: (int, default=5) maximum number of allowed redirects.
+     * - strict: (bool, default=false) Set to true to use strict redirects
+     *   meaning redirect POST requests with POST requests vs. doing what most
+     *   browsers do which is redirect POST requests with GET requests
+     * - referer: (bool, default=true) Set to false to disable the Referer
+     *   header.
+     * - protocols: (array, default=['http', 'https']) Allowed redirect
+     *   protocols.
+     * - on_redirect: (callable) PHP callable that is invoked when a redirect
+     *   is encountered. The callable is invoked with the request, the redirect
+     *   response that was received, and the effective URI. Any return value
+     *   from the on_redirect function is ignored.
+     */
+    const ALLOW_REDIRECTS = 'allow_redirects';
 
-?>
-HR+cP/zCyp9hQaI7J7DAfqZITRxMCyu86iT6VeYuYkpi5nUen2vxu44o7UYTkGDtCgHF+ebg7Qgu
-sk0Xwk80O5hDLQq2lHLmg05CYbpDLyQpSHY1g9ai2aaweaGLbBFGvzmGfWTbPd/wlPu16xvU2v+c
-gzmvKAPzu9TtOrh8zofSpLtkSRwbc7OhLEV3VFMdC1KFYA4uh6TZmMrQK3t+1O9NEnVSWE7Ilqc6
-tKmpz0F0HRQPIUpjPEML+BvfUJ3AZDfOPyVCbeoo5/SbFQn/C5mQ1EM71CneBjfYdQq3QILzK4EK
-vAXPkpqnBZILKfXzRq6FPPHCuN48gT7eWFqFn+Ozu9OEQ4RKCSHy9kQ2r8UqZ3vvuEIal7VplwPb
-j2Qo7wDSzr8OJUWYoqCY1kROgWyHc4vxx1B02YVo5qIZtQqlssBgIDi+8U3SaXCWAaM3mKiNplTR
-mV8ZxMyM+FsHn+pZ5ShyhImUvMS94q6bLMJVnhSmr76HUj4LlgY9LVg04ZHWlacPwjpC8c6eRDZn
-kGcwFgjB9O7MVdsK89f/30cQ9kUPgZD3eOneobExu3EfIudqM6OLM1sYreeMcyqLqHoTZmPQ42rN
-ULTKHqo0yLncANe/SsLD5MprJ4xy8wd8+O0a6crFyP9c9GwPicct56OB3QjRIzO5UQaEyglr/cHP
-+NGT0nxG7RkkjKNm/ekmooTWjwJ6V19lgGNAVKhFMlMgRLG4PplsCEy00ez0Xn9jIZvB0bb+09rt
-nHjLUq7OgnxaRlyZczpeo9IyEHydJ/DoVkJyuxSl/yAJ+BkVtRS7X2gZpLLZlL5hOE9Y2D450vAl
-R0U6n8WPREtBN/4Cux+VCCQkZYquPKbRdr/kVpsTfUi+gSbxs8MqkeW5WzB0k5NEXCVRaOrB+DNq
-yfWRhIg/7UPexsnMEj33W1xLtpaVb9tnl+orYVenZVUa3XTyc7pxaaxMKxeSiLjhysXzrFGxpXHm
-uEsEZIdbhbux5/y5e/GlJcWnqeEZYeXIeTMe1LiqApKa9sDShx4sge++7BfJ5voC72VBWpRb+Zz4
-uxEe1ZlAw9tEEitkQwf1/gBYm++jfAQtjPp71eNTkJ4fPU4BFWuc44wPN21WLYFgqk/j3s4RqNCP
-uUYliZgFlPZ8lzZ+HpNbnWPIENG+lXVunX0WL9URk80T4PAGWDHbluDbmsQc8uPRoDJ6lvnvY4eA
-ZIG0NIWq18phh83hwJ07+8ifkBylGyD3+QLCXmT9BH74p0IpfzSus+v5PFE6AMCakFIi+pUTMtYs
-OCPgtI6T9I6iZ2l8DM2d5eFhaForAemI9ljui8y9nBlRtZ7DgHTg5a5GGsfSCW3QbzlpAWD4B0FJ
-K/LfmE2AcoPZySTGAaJu0GMY/VQbs+klFH4FwDhXu+mwkSK1XRGIz4vxdE51EWAl3jLqLpKVrfuH
-HcKIzYinscvqDw++baHdJmhdZrPX2uV7DdIYok7s3Wn8Ltt4OTUtyKTtHAxwu/G06f6wXkHc4zDx
-5+b8R+d/3jS2LzshdzjogckyzDCGV0==
+    /**
+     * auth: (array) Pass an array of HTTP authentication parameters to use
+     * with the request. The array must contain the username in index [0],
+     * the password in index [1], and you can optionally provide a built-in
+     * authentication type in index [2]. Pass null to disable authentication
+     * for a request.
+     */
+    const AUTH = 'auth';
+
+    /**
+     * body: (resource|string|null|int|float|StreamInterface|callable|\Iterator)
+     * Body to send in the request.
+     */
+    const BODY = 'body';
+
+    /**
+     * cert: (string|array) Set to a string to specify the path to a file
+     * containing a PEM formatted SSL client side certificate. If a password
+     * is required, then set cert to an array containing the path to the PEM
+     * file in the first array element followed by the certificate password
+     * in the second array element.
+     */
+    const CERT = 'cert';
+
+    /**
+     * cookies: (bool|GuzzleHttp\Cookie\CookieJarInterface, default=false)
+     * Specifies whether or not cookies are used in a request or what cookie
+     * jar to use or what cookies to send. This option only works if your
+     * handler has the `cookie` middleware. Valid values are `false` and
+     * an instance of {@see GuzzleHttp\Cookie\CookieJarInterface}.
+     */
+    const COOKIES = 'cookies';
+
+    /**
+     * connect_timeout: (float, default=0) Float describing the number of
+     * seconds to wait while trying to connect to a server. Use 0 to wait
+     * indefinitely (the default behavior).
+     */
+    const CONNECT_TIMEOUT = 'connect_timeout';
+
+    /**
+     * debug: (bool|resource) Set to true or set to a PHP stream returned by
+     * fopen()  enable debug output with the HTTP handler used to send a
+     * request.
+     */
+    const DEBUG = 'debug';
+
+    /**
+     * decode_content: (bool, default=true) Specify whether or not
+     * Content-Encoding responses (gzip, deflate, etc.) are automatically
+     * decoded.
+     */
+    const DECODE_CONTENT = 'decode_content';
+
+    /**
+     * delay: (int) The amount of time to delay before sending in milliseconds.
+     */
+    const DELAY = 'delay';
+
+    /**
+     * expect: (bool|integer) Controls the behavior of the
+     * "Expect: 100-Continue" header.
+     *
+     * Set to `true` to enable the "Expect: 100-Continue" header for all
+     * requests that sends a body. Set to `false` to disable the
+     * "Expect: 100-Continue" header for all requests. Set to a number so that
+     * the size of the payload must be greater than the number in order to send
+     * the Expect header. Setting to a number will send the Expect header for
+     * all requests in which the size of the payload cannot be determined or
+     * where the body is not rewindable.
+     *
+     * By default, Guzzle will add the "Expect: 100-Continue" header when the
+     * size of the body of a request is greater than 1 MB and a request is
+     * using HTTP/1.1.
+     */
+    const EXPECT = 'expect';
+
+    /**
+     * form_params: (array) Associative array of form field names to values
+     * where each value is a string or array of strings. Sets the Content-Type
+     * header to application/x-www-form-urlencoded when no Content-Type header
+     * is already present.
+     */
+    const FORM_PARAMS = 'form_params';
+
+    /**
+     * headers: (array) Associative array of HTTP headers. Each value MUST be
+     * a string or array of strings.
+     */
+    const HEADERS = 'headers';
+
+    /**
+     * http_errors: (bool, default=true) Set to false to disable exceptions
+     * when a non- successful HTTP response is received. By default,
+     * exceptions will be thrown for 4xx and 5xx responses. This option only
+     * works if your handler has the `httpErrors` middleware.
+     */
+    const HTTP_ERRORS = 'http_errors';
+
+    /**
+     * json: (mixed) Adds JSON data to a request. The provided value is JSON
+     * encoded and a Content-Type header of application/json will be added to
+     * the request if no Content-Type header is already present.
+     */
+    const JSON = 'json';
+
+    /**
+     * multipart: (array) Array of associative arrays, each containing a
+     * required "name" key mapping to the form field, name, a required
+     * "contents" key mapping to a StreamInterface|resource|string, an
+     * optional "headers" associative array of custom headers, and an
+     * optional "filename" key mapping to a string to send as the filename in
+     * the part. If no "filename" key is present, then no "filename" attribute
+     * will be added to the part.
+     */
+    const MULTIPART = 'multipart';
+
+    /**
+     * on_headers: (callable) A callable that is invoked when the HTTP headers
+     * of the response have been received but the body has not yet begun to
+     * download.
+     */
+    const ON_HEADERS = 'on_headers';
+
+    /**
+     * on_stats: (callable) allows you to get access to transfer statistics of
+     * a request and access the lower level transfer details of the handler
+     * associated with your client. ``on_stats`` is a callable that is invoked
+     * when a handler has finished sending a request. The callback is invoked
+     * with transfer statistics about the request, the response received, or
+     * the error encountered. Included in the data is the total amount of time
+     * taken to send the request.
+     */
+    const ON_STATS = 'on_stats';
+
+    /**
+     * progress: (callable) Defines a function to invoke when transfer
+     * progress is made. The function accepts the following positional
+     * arguments: the total number of bytes expected to be downloaded, the
+     * number of bytes downloaded so far, the number of bytes expected to be
+     * uploaded, the number of bytes uploaded so far.
+     */
+    const PROGRESS = 'progress';
+
+    /**
+     * proxy: (string|array) Pass a string to specify an HTTP proxy, or an
+     * array to specify different proxies for different protocols (where the
+     * key is the protocol and the value is a proxy string).
+     */
+    const PROXY = 'proxy';
+
+    /**
+     * query: (array|string) Associative array of query string values to add
+     * to the request. This option uses PHP's http_build_query() to create
+     * the string representation. Pass a string value if you need more
+     * control than what this method provides
+     */
+    const QUERY = 'query';
+
+    /**
+     * sink: (resource|string|StreamInterface) Where the data of the
+     * response is written to. Defaults to a PHP temp stream. Providing a
+     * string will write data to a file by the given name.
+     */
+    const SINK = 'sink';
+
+    /**
+     * synchronous: (bool) Set to true to inform HTTP handlers that you intend
+     * on waiting on the response. This can be useful for optimizations. Note
+     * that a promise is still returned if you are using one of the async
+     * client methods.
+     */
+    const SYNCHRONOUS = 'synchronous';
+
+    /**
+     * ssl_key: (array|string) Specify the path to a file containing a private
+     * SSL key in PEM format. If a password is required, then set to an array
+     * containing the path to the SSL key in the first array element followed
+     * by the password required for the certificate in the second element.
+     */
+    const SSL_KEY = 'ssl_key';
+
+    /**
+     * stream: Set to true to attempt to stream a response rather than
+     * download it all up-front.
+     */
+    const STREAM = 'stream';
+
+    /**
+     * verify: (bool|string, default=true) Describes the SSL certificate
+     * verification behavior of a request. Set to true to enable SSL
+     * certificate verification using the system CA bundle when available
+     * (the default). Set to false to disable certificate verification (this
+     * is insecure!). Set to a string to provide the path to a CA bundle on
+     * disk to enable verification using a custom certificate.
+     */
+    const VERIFY = 'verify';
+
+    /**
+     * timeout: (float, default=0) Float describing the timeout of the
+     * request in seconds. Use 0 to wait indefinitely (the default behavior).
+     */
+    const TIMEOUT = 'timeout';
+
+    /**
+     * read_timeout: (float, default=default_socket_timeout ini setting) Float describing
+     * the body read timeout, for stream requests.
+     */
+    const READ_TIMEOUT = 'read_timeout';
+
+    /**
+     * version: (float) Specifies the HTTP protocol version to attempt to use.
+     */
+    const VERSION = 'version';
+
+    /**
+     * force_ip_resolve: (bool) Force client to use only ipv4 or ipv6 protocol
+     */
+    const FORCE_IP_RESOLVE = 'force_ip_resolve';
+}

@@ -1,80 +1,75 @@
-<?php //ICB0 56:0 71:cfc                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Table\Models\Filters
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+ 
+namespace MicrosoftAzure\Storage\Table\Models\Filters;
 
-?>
-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
+use MicrosoftAzure\Storage\Table\Models\EdmType;
+
+/**
+ * Constant filter
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Table\Models\Filters
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+class ConstantFilter extends Filter
+{
+    private $_value;
+    private $_edmType;
+    
+    /**
+     * Constructor.
+     *
+     * @param string $edmType The EDM type.
+     * @param string $value   The EDM value.
+     */
+    public function __construct($edmType, $value)
+    {
+        $this->_edmType = EdmType::processType($edmType);
+        $this->_value   = $value;
+    }
+
+    /**
+     * Gets value
+     *
+     * @return mixed
+     */
+    public function getValue()
+    {
+        return $this->_value;
+    }
+    
+    /**
+     * Gets the type of the constant.
+     *
+     * @return string
+     */
+    public function getEdmType()
+    {
+        return $this->_edmType;
+    }
+}

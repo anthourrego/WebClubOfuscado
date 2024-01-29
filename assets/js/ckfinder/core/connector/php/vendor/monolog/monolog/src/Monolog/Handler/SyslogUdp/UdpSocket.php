@@ -1,115 +1,56 @@
-<?php //ICB0 56:0 71:1173                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/*
+ * This file is part of the Monolog package.
+ *
+ * (c) Jordi Boggiano <j.boggiano@seld.be>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
 
-?>
-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
-D/BGkTgOr2+3L0i4y3yfrFDwlffHCBcTZVXe
+namespace Monolog\Handler\SyslogUdp;
+
+class UdpSocket
+{
+    const DATAGRAM_MAX_LENGTH = 65023;
+
+    protected $ip;
+    protected $port;
+    protected $socket;
+
+    public function __construct($ip, $port = 514)
+    {
+        $this->ip = $ip;
+        $this->port = $port;
+        $this->socket = socket_create(AF_INET, SOCK_DGRAM, SOL_UDP);
+    }
+
+    public function write($line, $header = "")
+    {
+        $this->send($this->assembleMessage($line, $header));
+    }
+
+    public function close()
+    {
+        if (is_resource($this->socket)) {
+            socket_close($this->socket);
+            $this->socket = null;
+        }
+    }
+
+    protected function send($chunk)
+    {
+        if (!is_resource($this->socket)) {
+            throw new \LogicException('The UdpSocket to '.$this->ip.':'.$this->port.' has been closed and can not be written to anymore');
+        }
+        socket_sendto($this->socket, $chunk, strlen($chunk), $flags = 0, $this->ip, $this->port);
+    }
+
+    protected function assembleMessage($line, $header)
+    {
+        $chunkSize = self::DATAGRAM_MAX_LENGTH - strlen($header);
+
+        return $header . substr($line, 0, $chunkSize);
+    }
+}

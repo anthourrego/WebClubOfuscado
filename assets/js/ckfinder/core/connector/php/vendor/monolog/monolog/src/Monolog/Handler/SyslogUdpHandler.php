@@ -1,149 +1,103 @@
-<?php //ICB0 56:0 71:167c                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-L8NlWvk+Badyo9HpbQ0p0hIDeIQCAR0==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/*
+ * This file is part of the Monolog package.
+ *
+ * (c) Jordi Boggiano <j.boggiano@seld.be>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
 
-?>
-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
+namespace Monolog\Handler;
+
+use Monolog\Logger;
+use Monolog\Handler\SyslogUdp\UdpSocket;
+
+/**
+ * A Handler for logging to a remote syslogd server.
+ *
+ * @author Jesper Skovgaard Nielsen <nulpunkt@gmail.com>
+ */
+class SyslogUdpHandler extends AbstractSyslogHandler
+{
+    protected $socket;
+    protected $ident;
+
+    /**
+     * @param string $host
+     * @param int    $port
+     * @param mixed  $facility
+     * @param int    $level    The minimum logging level at which this handler will be triggered
+     * @param bool   $bubble   Whether the messages that are handled can bubble up the stack or not
+     * @param string $ident    Program name or tag for each log message.
+     */
+    public function __construct($host, $port = 514, $facility = LOG_USER, $level = Logger::DEBUG, $bubble = true, $ident = 'php')
+    {
+        parent::__construct($facility, $level, $bubble);
+
+        $this->ident = $ident;
+
+        $this->socket = new UdpSocket($host, $port ?: 514);
+    }
+
+    protected function write(array $record)
+    {
+        $lines = $this->splitMessageIntoLines($record['formatted']);
+
+        $header = $this->makeCommonSyslogHeader($this->logLevels[$record['level']]);
+
+        foreach ($lines as $line) {
+            $this->socket->write($line, $header);
+        }
+    }
+
+    public function close()
+    {
+        $this->socket->close();
+    }
+
+    private function splitMessageIntoLines($message)
+    {
+        if (is_array($message)) {
+            $message = implode("\n", $message);
+        }
+
+        return preg_split('/$\R?^/m', $message, -1, PREG_SPLIT_NO_EMPTY);
+    }
+
+    /**
+     * Make common syslog header (see rfc5424)
+     */
+    protected function makeCommonSyslogHeader($severity)
+    {
+        $priority = $severity + $this->facility;
+
+        if (!$pid = getmypid()) {
+            $pid = '-';
+        }
+
+        if (!$hostname = gethostname()) {
+            $hostname = '-';
+        }
+
+        return "<$priority>1 " .
+            $this->getDateTime() . " " .
+            $hostname . " " .
+            $this->ident . " " .
+            $pid . " - - ";
+    }
+
+    protected function getDateTime()
+    {
+        return date(\DateTime::RFC3339);
+    }
+
+    /**
+     * Inject your own socket, mainly used for testing
+     */
+    public function setSocket($socket)
+    {
+        $this->socket = $socket;
+    }
+}

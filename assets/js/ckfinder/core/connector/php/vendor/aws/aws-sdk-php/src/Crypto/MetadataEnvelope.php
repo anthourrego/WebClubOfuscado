@@ -1,120 +1,57 @@
-<?php //ICB0 56:0 71:127f                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\Crypto;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-kC2vrI3W+W===
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use Aws\HasDataTrait;
+use \ArrayAccess;
+use \IteratorAggregate;
+use \InvalidArgumentException;
+use \JsonSerializable;
 
-?>
-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
-krcIh1lnMv+RRDY/qeVXVGzi1Vp3QRUaGCkyC0==
+/**
+ * Stores encryption metadata for reading and writing.
+ *
+ * @internal
+ */
+class MetadataEnvelope implements ArrayAccess, IteratorAggregate, JsonSerializable
+{
+    use HasDataTrait;
+
+    const CONTENT_KEY_V2_HEADER = 'x-amz-key-v2';
+    const IV_HEADER = 'x-amz-iv';
+    const MATERIALS_DESCRIPTION_HEADER = 'x-amz-matdesc';
+    const KEY_WRAP_ALGORITHM_HEADER = 'x-amz-wrap-alg';
+    const CONTENT_CRYPTO_SCHEME_HEADER = 'x-amz-cek-alg';
+    const CRYPTO_TAG_LENGTH_HEADER = 'x-amz-tag-len';
+    const UNENCRYPTED_CONTENT_MD5_HEADER = 'x-amz-unencrypted-content-md5';
+    const UNENCRYPTED_CONTENT_LENGTH_HEADER = 'x-amz-unencrypted-content-length';
+
+    private static $constants = [];
+
+    public static function getConstantValues()
+    {
+        if (empty(self::$constants)) {
+            $reflection = new \ReflectionClass(static::class);
+            foreach (array_values($reflection->getConstants()) as $constant) {
+                self::$constants[$constant] = true;
+            }
+        }
+
+        return array_keys(self::$constants);
+    }
+
+    public function offsetSet($name, $value)
+    {
+        $constants = self::getConstantValues();
+        if (is_null($name) || !in_array($name, $constants)) {
+            throw new InvalidArgumentException('MetadataEnvelope fields must'
+                . ' must match a predefined offset; use the header constants.');
+        }
+
+        $this->data[$name] = $value;
+    }
+
+    public function jsonSerialize()
+    {
+        return $this->data;
+    }
+}

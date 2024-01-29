@@ -1,112 +1,59 @@
-<?php //ICB0 56:0 71:112e                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+/**
+ * @package dompdf
+ * @link    http://dompdf.github.com/
+ * @author  Benj Carson <benjcarson@digitaljunkies.ca>
+ * @license http://www.gnu.org/copyleft/lesser.html GNU Lesser General Public License
+ */
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * Reflows table row groups (e.g. tbody tags)
+ *
+ * @access private
+ * @package dompdf
+ */
+class Table_Row_Group_Frame_Reflower extends Frame_Reflower {
 
-?>
-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
-fcBHewvFlkK=
+  function __construct($frame) {
+    parent::__construct($frame);
+  }
+
+  function reflow(Block_Frame_Decorator $block = null) {
+    $page = $this->_frame->get_root();
+
+    $style = $this->_frame->get_style();
+    
+    // Our width is equal to the width of our parent table
+    $table = Table_Frame_Decorator::find_parent_table($this->_frame);
+    
+    $cb = $this->_frame->get_containing_block();
+    
+    foreach ( $this->_frame->get_children() as $child) {
+      // Bail if the page is full
+      if ( $page->is_full() )
+        return;
+
+      $child->set_containing_block($cb["x"], $cb["y"], $cb["w"], $cb["h"]);
+      $child->reflow();
+
+      // Check if a split has occured
+      $page->check_page_break($child);
+
+    }
+
+    if ( $page->is_full() )
+      return;
+
+    $cellmap = $table->get_cellmap();
+    $style->width = $cellmap->get_frame_width($this->_frame);
+    $style->height = $cellmap->get_frame_height($this->_frame);
+
+    $this->_frame->set_position($cellmap->get_frame_position($this->_frame));
+    
+    if ( $table->get_style()->border_collapse === "collapse" ) 
+      // Unset our borders because our cells are now using them
+      $style->border_style = "none";
+ 
+  }
+
+}

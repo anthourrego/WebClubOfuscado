@@ -1,94 +1,114 @@
-<?php //ICB0 56:0 71:ed2                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cPv1pHIIfthqBjCJG1vLpckpaTNEizwhlsgUuqqIP+p4JyX4i3I2mKO3jmTuM9rl+Q0nfNHKa
-DLpO8R2N2PM2OEh1WoCXXp16CVcxnPbdyW5WvJvTa0Tn6yoHrDcBesgrlMoby8bgzpMkby/kWa57
-r+kdfX2peuv3VhJLCvJrdjK8paBvvTVsEo/2XGl3ypDd9ytK9F86bS+4Je7X8z86D8+v4xJbHh6l
-3R1IaUAZWM1vXScyDSgYpLSUBlO7/WfgFOK0xf02/8wULxI9snptqslkKEnk4dwaYsUUykOEE3u6
-AX0ed2kaUJGT6cgpstb7qKY14GzryvZj+dyZ3HWwDZ6q1++fqXZa0m0L2BXR2Lfd5bqDUY6lCWJN
-zRNXxjifM3rKs95A2KsnrBbt7DHk7maD3LeQxwf0uDPcqAl9QDJjcKAN+dMaRBjwynJPPU0pUeV5
-9x27MjpJR58h2RPTJf98efI5NGdu4ydpCkDqx4rjtkD8BRP+zEe4G3ByqSvpA8ZyGWmrQcRoXqZy
-uwaQ/qo2mMXLJ5i/a0MLZfgbCXdMZnUFH5QVg7u+iqUvFk9DNVEJki6wtDQVdxMG7wCHksR1PdPB
-9XzsKJvyqnNfHawbXuSFDoYBI+vnhJLM+We8Z/2klWcRd9AOI1V/mJTXJzpy9KbnngtFv/rs+Qf9
-PLILJbr42i6lPgZazS+bXKFsjfX41C+g9lKZ6IYkm0mHfLOBVKZ0kylNUe/8lXAMgfmlsbnnQOjn
-aExCVWALbbj4EZ8rGZh+wLk2hgs7spir26S33ePGTaD7B2HAYS/vcIdQUcYpWPcNxImaE8eqaYvd
-AkpK43J7sQPiwx3MhLUW+EB8aTvGXw+5FqeXP6yQJULuncEuv4kqPrDcjmnaqNPZJkBxMbWmeKvD
-7tpoOvBybllzkx8NuFxZ3U0KPEseROkXnwznsLLe159HrDCZyEuDcUOpwpbwBpMr88Sj79ej+Hvz
-3qx4xmei/zY9CF/53d4jzsLG1OPsxGZwlDsKOddcr8ZyXAjfk/q7sk8Mq6xtbkOv3nJs+Xe0nL95
-B2yOP9u+Kgprm+IrgjusxsLN2ZZnACx6t1koJywEkNQhMjzHFM5BSMvAQSxT3PCqXoojveS4+EfJ
-ffW4QVFoUY7Mg74cclEN0mmCZcJMDmndqKsC8kFSxYAoigPFWdUEVgHumG1XwVcheYooIyKLTjQt
-eEPdBySYuSvVIG+h9KFRuTvpQ0ZRADFIUQCTM3Qu4vsP7Ox5wlm8f9Wlb7BukXYrZ12Iu23bsQFf
-QEmgvKA+gcdML/mT257+GIj9n93lMbe4vlWXwrMTEW2ougoaeG8Z/ueXDtNE4DDOz4X+LwjSS2lW
-QAKrp/ne8szP+Oy/MaGg3Wp7CPmNjTwUXeu5PaRNwKA/9PngOYgDoquiC6IL3NtHMfzqx98dIKXb
-rPBVO8mhbc/5Tw8CquY7yU+o3xWqQ19o3WaUp1Kn++BNMKYu2oIMPd8J/tP3nhF05ipBjsw8sJ46
-4Pk9tUJXMRQsSh2G/XcQPR+6Lx0VC8/mJtYADeIUqOZtXG9/4iblKoDJ+18cXMwWHQFMZK8vlxu/
-2EAuaIzBRPqcb5YOOHeYTj5383Rv90ScN0OkE1/Hu2m13YKF7rBq3dQC+/2uKnhUJcF786z+xjB6
-k33DH6Xw66Yj2md/SKNQkIAmdWPvMDula/SCHKXGnlE8SBxyAKaYqcvCIN4UDf5QJWk/sMnDGZGG
-1lpQdtrxTWBO/smfS9jw5ngrE495ZaYZh8/r3sOLdKcxYn/gMNd7UndEpdd9qOBD/6MCjqRL+n3Y
-IuhqRIyprXJElkAwz9T0YAinzBuR0HgieWhFqlNcNhN5pytquQBdegpEfPo5jvSc2zot8yu42buo
-k95nGJABU6n41EaelHppY+YyHs1/hfdmMYinhsWsdGxFDa6p3OWwi1ymxPex2UTobH3+ISofZmhC
-9zjeKq6rHHo8TXnSm8OQaYmCC3h8gYVW3VuAaOZV4DXuImfK5c5mBAUDWp3FgMim1VkTJkRYK7DB
-mxm+QJFSAI84ypwUVDi37oWswRByXJ+LPBtY+cWJwPzTuBxjl7d1E1ap1NwRD1Ej/1GUE9SNqIvv
-QW7e2/FSNOrh2Yt675E8Zj1Afo0tgKKjcm8CIjglS1SjuaQknGGUISFQ+fukegfna3i8fqnp8U6T
-Vj+NXICQbEDj/ZLTRC9ERH4OWbmI02wAbij1GYeUTKIeBEu3oenk25U+mn9NsajWG6ml9OklkbDF
-Te60rPFk9ADasdRUwB/iL0DrsLYNjpBAsAc8BrQKTzux+2KKAKwdksBbk7QneJKnA+GFj77RFnhk
-c/gUUpUcwVwFq63OA+PxCwh/v1hXvfsHMKR5GaiECxh7DUR8GbTQgEb4xmq05SPEtKNqQa5BRXVG
-2JZq5Jljh2lPJ9iQBBw1xfzMVliPogSrsyO7B1NbV3jbUYEmP43Bwf69Edb3ZqlKGjYuzXU3G4EV
-qI6ucD+ensCMjfggWboe+TXyn903s3/NsxeTLhz8uH3XyUwv17zWLRGBtHeD3C0sTu97BuSQTg2K
-xVQEtyXfEwwonCfodNJPR93zWr5BhaKkmd6rGx+QAA9QHl5g5hpmtmLkAT1ErLOgZPmdi3+f3LK5
-QNl3B3zH90cZ2qw7iF+upKd5ASjIk26OloWG706WwJx8Z0ei37VnPsL30QaTp2kB2n0G9Vux1DOW
-SIZwCptKxnKVg92GL5iAB8ye154zRf3kRWfE/l5pMPDCszEtGkgC0uRVklL1Zbg77oCPyRKZ5wa2
-VwNy6I9IFh2tPttvynF1cbNek9MRmDrXzVX4u2G46enETCNyW/B0Ol4Z2N79dfqckm2ltbm==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+// warning: this file is encoded in UTF-8!
 
-?>
-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
+class HTML5_Data
+{
+
+    // at some point this should be moved to a .ser file. Another
+    // possible optimization is to give UTF-8 bytes, not Unicode
+    // codepoints
+    // XXX: Not quite sure why it's named this; this is
+    // actually the numeric entity dereference table.
+    protected static $realCodepointTable = array(
+        0x00 => 0xFFFD, // REPLACEMENT CHARACTER
+        0x0D => 0x000A, // LINE FEED (LF)
+        0x80 => 0x20AC, // EURO SIGN ('€')
+        0x81 => 0x0081, // <control>
+        0x82 => 0x201A, // SINGLE LOW-9 QUOTATION MARK ('‚')
+        0x83 => 0x0192, // LATIN SMALL LETTER F WITH HOOK ('ƒ')
+        0x84 => 0x201E, // DOUBLE LOW-9 QUOTATION MARK ('„')
+        0x85 => 0x2026, // HORIZONTAL ELLIPSIS ('…')
+        0x86 => 0x2020, // DAGGER ('†')
+        0x87 => 0x2021, // DOUBLE DAGGER ('‡')
+        0x88 => 0x02C6, // MODIFIER LETTER CIRCUMFLEX ACCENT ('ˆ')
+        0x89 => 0x2030, // PER MILLE SIGN ('‰')
+        0x8A => 0x0160, // LATIN CAPITAL LETTER S WITH CARON ('Š')
+        0x8B => 0x2039, // SINGLE LEFT-POINTING ANGLE QUOTATION MARK ('‹')
+        0x8C => 0x0152, // LATIN CAPITAL LIGATURE OE ('Œ')
+        0x8D => 0x008D, // <control>
+        0x8E => 0x017D, // LATIN CAPITAL LETTER Z WITH CARON ('Ž')
+        0x8F => 0x008F, // <control>
+        0x90 => 0x0090, // <control>
+        0x91 => 0x2018, // LEFT SINGLE QUOTATION MARK ('‘')
+        0x92 => 0x2019, // RIGHT SINGLE QUOTATION MARK ('’')
+        0x93 => 0x201C, // LEFT DOUBLE QUOTATION MARK ('“')
+        0x94 => 0x201D, // RIGHT DOUBLE QUOTATION MARK ('”')
+        0x95 => 0x2022, // BULLET ('•')
+        0x96 => 0x2013, // EN DASH ('–')
+        0x97 => 0x2014, // EM DASH ('—')
+        0x98 => 0x02DC, // SMALL TILDE ('˜')
+        0x99 => 0x2122, // TRADE MARK SIGN ('™')
+        0x9A => 0x0161, // LATIN SMALL LETTER S WITH CARON ('š')
+        0x9B => 0x203A, // SINGLE RIGHT-POINTING ANGLE QUOTATION MARK ('›')
+        0x9C => 0x0153, // LATIN SMALL LIGATURE OE ('œ')
+        0x9D => 0x009D, // <control>
+        0x9E => 0x017E, // LATIN SMALL LETTER Z WITH CARON ('ž')
+        0x9F => 0x0178, // LATIN CAPITAL LETTER Y WITH DIAERESIS ('Ÿ')
+    );
+
+    protected static $namedCharacterReferences;
+
+    protected static $namedCharacterReferenceMaxLength;
+
+    /**
+     * Returns the "real" Unicode codepoint of a malformed character
+     * reference.
+     */
+    public static function getRealCodepoint($ref) {
+        if (!isset(self::$realCodepointTable[$ref])) return false;
+        else return self::$realCodepointTable[$ref];
+    }
+
+    public static function getNamedCharacterReferences() {
+        if (!self::$namedCharacterReferences) {
+            self::$namedCharacterReferences = unserialize(
+                file_get_contents(dirname(__FILE__) . '/named-character-references.ser'));
+        }
+        return self::$namedCharacterReferences;
+    }
+
+    /**
+     * Converts a Unicode codepoint to sequence of UTF-8 bytes.
+     * @note Shamelessly stolen from HTML Purifier, which is also
+     *       shamelessly stolen from Feyd (which is in public domain).
+     */
+    public static function utf8chr($code) {
+        /* We don't care: we live dangerously
+         * if($code > 0x10FFFF or $code < 0x0 or
+          ($code >= 0xD800 and $code <= 0xDFFF) ) {
+            // bits are set outside the "valid" range as defined
+            // by UNICODE 4.1.0
+            return "\xEF\xBF\xBD";
+          }*/
+
+        $x = $y = $z = $w = 0;
+        if ($code < 0x80) {
+            // regular ASCII character
+            $x = $code;
+        } else {
+            // set up bits for UTF-8
+            $x = ($code & 0x3F) | 0x80;
+            if ($code < 0x800) {
+               $y = (($code & 0x7FF) >> 6) | 0xC0;
+            } else {
+                $y = (($code & 0xFC0) >> 6) | 0x80;
+                if($code < 0x10000) {
+                    $z = (($code >> 12) & 0x0F) | 0xE0;
+                } else {
+                    $z = (($code >> 12) & 0x3F) | 0x80;
+                    $w = (($code >> 18) & 0x07) | 0xF0;
+                }
+            }
+        }
+        // set up the actual character
+        $ret = '';
+        if($w) $ret .= chr($w);
+        if($z) $ret .= chr($z);
+        if($y) $ret .= chr($y);
+        $ret .= chr($x);
+
+        return $ret;
+    }
+
+}

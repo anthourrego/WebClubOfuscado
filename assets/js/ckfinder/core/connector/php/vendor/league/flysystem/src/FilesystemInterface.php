@@ -1,134 +1,284 @@
-<?php //ICB0 56:0 71:15a5                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+namespace League\Flysystem;
 
-?>
-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
-e8aZnHu=
+use InvalidArgumentException;
+
+interface FilesystemInterface
+{
+    /**
+     * Check whether a file exists.
+     *
+     * @param string $path
+     *
+     * @return bool
+     */
+    public function has($path);
+
+    /**
+     * Read a file.
+     *
+     * @param string $path The path to the file.
+     *
+     * @throws FileNotFoundException
+     *
+     * @return string|false The file contents or false on failure.
+     */
+    public function read($path);
+
+    /**
+     * Retrieves a read-stream for a path.
+     *
+     * @param string $path The path to the file.
+     *
+     * @throws FileNotFoundException
+     *
+     * @return resource|false The path resource or false on failure.
+     */
+    public function readStream($path);
+
+    /**
+     * List contents of a directory.
+     *
+     * @param string $directory The directory to list.
+     * @param bool   $recursive Whether to list recursively.
+     *
+     * @return array A list of file metadata.
+     */
+    public function listContents($directory = '', $recursive = false);
+
+    /**
+     * Get a file's metadata.
+     *
+     * @param string $path The path to the file.
+     *
+     * @throws FileNotFoundException
+     *
+     * @return array|false The file metadata or false on failure.
+     */
+    public function getMetadata($path);
+
+    /**
+     * Get a file's size.
+     *
+     * @param string $path The path to the file.
+     *
+     * @throws FileNotFoundException
+     *
+     * @return int|false The file size or false on failure.
+     */
+    public function getSize($path);
+
+    /**
+     * Get a file's mime-type.
+     *
+     * @param string $path The path to the file.
+     *
+     * @throws FileNotFoundException
+     *
+     * @return string|false The file mime-type or false on failure.
+     */
+    public function getMimetype($path);
+
+    /**
+     * Get a file's timestamp.
+     *
+     * @param string $path The path to the file.
+     *
+     * @throws FileNotFoundException
+     *
+     * @return string|false The timestamp or false on failure.
+     */
+    public function getTimestamp($path);
+
+    /**
+     * Get a file's visibility.
+     *
+     * @param string $path The path to the file.
+     *
+     * @throws FileNotFoundException
+     *
+     * @return string|false The visibility (public|private) or false on failure.
+     */
+    public function getVisibility($path);
+
+    /**
+     * Write a new file.
+     *
+     * @param string $path     The path of the new file.
+     * @param string $contents The file contents.
+     * @param array  $config   An optional configuration array.
+     *
+     * @throws FileExistsException
+     *
+     * @return bool True on success, false on failure.
+     */
+    public function write($path, $contents, array $config = []);
+
+    /**
+     * Write a new file using a stream.
+     *
+     * @param string   $path     The path of the new file.
+     * @param resource $resource The file handle.
+     * @param array    $config   An optional configuration array.
+     *
+     * @throws InvalidArgumentException If $resource is not a file handle.
+     * @throws FileExistsException
+     *
+     * @return bool True on success, false on failure.
+     */
+    public function writeStream($path, $resource, array $config = []);
+
+    /**
+     * Update an existing file.
+     *
+     * @param string $path     The path of the existing file.
+     * @param string $contents The file contents.
+     * @param array  $config   An optional configuration array.
+     *
+     * @throws FileNotFoundException
+     *
+     * @return bool True on success, false on failure.
+     */
+    public function update($path, $contents, array $config = []);
+
+    /**
+     * Update an existing file using a stream.
+     *
+     * @param string   $path     The path of the existing file.
+     * @param resource $resource The file handle.
+     * @param array    $config   An optional configuration array.
+     *
+     * @throws InvalidArgumentException If $resource is not a file handle.
+     * @throws FileNotFoundException
+     *
+     * @return bool True on success, false on failure.
+     */
+    public function updateStream($path, $resource, array $config = []);
+
+    /**
+     * Rename a file.
+     *
+     * @param string $path    Path to the existing file.
+     * @param string $newpath The new path of the file.
+     *
+     * @throws FileExistsException   Thrown if $newpath exists.
+     * @throws FileNotFoundException Thrown if $path does not exist.
+     *
+     * @return bool True on success, false on failure.
+     */
+    public function rename($path, $newpath);
+
+    /**
+     * Copy a file.
+     *
+     * @param string $path    Path to the existing file.
+     * @param string $newpath The new path of the file.
+     *
+     * @throws FileExistsException   Thrown if $newpath exists.
+     * @throws FileNotFoundException Thrown if $path does not exist.
+     *
+     * @return bool True on success, false on failure.
+     */
+    public function copy($path, $newpath);
+
+    /**
+     * Delete a file.
+     *
+     * @param string $path
+     *
+     * @throws FileNotFoundException
+     *
+     * @return bool True on success, false on failure.
+     */
+    public function delete($path);
+
+    /**
+     * Delete a directory.
+     *
+     * @param string $dirname
+     *
+     * @throws RootViolationException Thrown if $dirname is empty.
+     *
+     * @return bool True on success, false on failure.
+     */
+    public function deleteDir($dirname);
+
+    /**
+     * Create a directory.
+     *
+     * @param string $dirname The name of the new directory.
+     * @param array  $config  An optional configuration array.
+     *
+     * @return bool True on success, false on failure.
+     */
+    public function createDir($dirname, array $config = []);
+
+    /**
+     * Set the visibility for a file.
+     *
+     * @param string $path       The path to the file.
+     * @param string $visibility One of 'public' or 'private'.
+     *
+     * @throws FileNotFoundException
+     *
+     * @return bool True on success, false on failure.
+     */
+    public function setVisibility($path, $visibility);
+
+    /**
+     * Create a file or update if exists.
+     *
+     * @param string $path     The path to the file.
+     * @param string $contents The file contents.
+     * @param array  $config   An optional configuration array.
+     *
+     * @return bool True on success, false on failure.
+     */
+    public function put($path, $contents, array $config = []);
+
+    /**
+     * Create a file or update if exists.
+     *
+     * @param string   $path     The path to the file.
+     * @param resource $resource The file handle.
+     * @param array    $config   An optional configuration array.
+     *
+     * @throws InvalidArgumentException Thrown if $resource is not a resource.
+     *
+     * @return bool True on success, false on failure.
+     */
+    public function putStream($path, $resource, array $config = []);
+
+    /**
+     * Read and delete a file.
+     *
+     * @param string $path The path to the file.
+     *
+     * @throws FileNotFoundException
+     *
+     * @return string|false The file contents, or false on failure.
+     */
+    public function readAndDelete($path);
+
+    /**
+     * Get a file/directory handler.
+     *
+     * @deprecated
+     *
+     * @param string  $path    The path to the file.
+     * @param Handler $handler An optional existing handler to populate.
+     *
+     * @return Handler Either a file or directory handler.
+     */
+    public function get($path, Handler $handler = null);
+
+    /**
+     * Register a plugin.
+     *
+     * @param PluginInterface $plugin The plugin to register.
+     *
+     * @return $this
+     */
+    public function addPlugin(PluginInterface $plugin);
+}

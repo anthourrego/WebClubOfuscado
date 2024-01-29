@@ -1,208 +1,241 @@
-<?php //ICB0 56:0 71:1e42                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+/**
+ * @package dompdf
+ * @link    http://dompdf.github.com/
+ * @author  Benj Carson <benjcarson@digitaljunkies.ca>
+ * @license http://www.gnu.org/copyleft/lesser.html GNU Lesser General Public License
+ */
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-9eFLgY84x9MmyuuPGW===
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * Represents an entire document as a tree of frames
+ *
+ * The Frame_Tree consists of {@link Frame} objects each tied to specific
+ * DOMNode objects in a specific DomDocument.  The Frame_Tree has the same
+ * structure as the DomDocument, but adds additional capabalities for
+ * styling and layout.
+ *
+ * @package dompdf
+ * @access protected
+ */
+class Frame_Tree {
+    
+  /**
+   * Tags to ignore while parsing the tree
+   *
+   * @var array
+   */
+  static protected $_HIDDEN_TAGS = array("area", "base", "basefont", "head", "style",
+                                         "meta", "title", "colgroup",
+                                         "noembed", "noscript", "param", "#comment");  
+  /**
+   * The main DomDocument
+   *
+   * @see http://ca2.php.net/manual/en/ref.dom.php
+   * @var DomDocument
+   */
+  protected $_dom;
 
-?>
-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
-y4q3Z4FOlNdBVUXid5m6ZwSgTy7xe9qOYKm=
+  /**
+   * The root node of the FrameTree.
+   *
+   * @var Frame
+   */
+  protected $_root;
+
+  /**
+   * Subtrees of absolutely positioned elements
+   *
+   * @var array of Frames
+   */
+  protected $_absolute_frames;
+
+  /**
+   * A mapping of {@link Frame} objects to DOMNode objects
+   *
+   * @var array
+   */
+  protected $_registry;
+  
+
+  /**
+   * Class constructor
+   *
+   * @param DomDocument $dom the main DomDocument object representing the current html document
+   */
+  function __construct(DomDocument $dom) {
+    $this->_dom = $dom;
+    $this->_root = null;
+    $this->_registry = array();
+  }
+  
+  function __destruct() {
+    clear_object($this);
+  }
+
+  /**
+   * Returns the DomDocument object representing the curent html document
+   *
+   * @return DOMDocument
+   */
+  function get_dom() {
+    return $this->_dom;
+  }
+
+  /**
+   * Returns the root frame of the tree
+   * 
+   * @return Page_Frame_Decorator
+   */
+  function get_root() {
+    return $this->_root;
+  }
+
+  /**
+   * Returns a specific frame given its id
+   *
+   * @param string $id
+   * @return Frame
+   */
+  function get_frame($id) {
+    return isset($this->_registry[$id]) ? $this->_registry[$id] : null;
+  }
+
+  /**
+   * Returns a post-order iterator for all frames in the tree
+   *
+   * @return FrameTreeList|Frame[]
+   */
+  function get_frames() {
+    return new FrameTreeList($this->_root);
+  }
+      
+  /**
+   * Builds the tree
+   */
+  function build_tree() {
+    $html = $this->_dom->getElementsByTagName("html")->item(0);
+    if ( is_null($html) ) {
+      $html = $this->_dom->firstChild;
+    }
+
+    if ( is_null($html) ) {
+      throw new DOMPDF_Exception("Requested HTML document contains no data.");
+    }
+
+    $this->fix_tables();
+    
+    $this->_root = $this->_build_tree_r($html);
+  }
+  
+  /**
+   * Adds missing TBODYs around TR
+   */
+  protected function fix_tables(){
+    $xp = new DOMXPath($this->_dom);
+    
+    // Move table caption before the table
+    // FIXME find a better way to deal with it...
+    $captions = $xp->query("//table/caption");
+    foreach($captions as $caption) {
+      $table = $caption->parentNode;
+      $table->parentNode->insertBefore($caption, $table);
+    }
+    
+    $rows = $xp->query("//table/tr");
+    foreach($rows as $row) {
+      $tbody = $this->_dom->createElement("tbody");
+      $tbody = $row->parentNode->insertBefore($tbody, $row);
+      $tbody->appendChild($row);
+    }
+  }
+
+  /**
+   * Recursively adds {@link Frame} objects to the tree
+   *
+   * Recursively build a tree of Frame objects based on a dom tree.
+   * No layout information is calculated at this time, although the
+   * tree may be adjusted (i.e. nodes and frames for generated content
+   * and images may be created).
+   *
+   * @param DOMNode $node the current DOMNode being considered
+   * @return Frame
+   */
+  protected function _build_tree_r(DOMNode $node) {
+    
+    $frame = new Frame($node);
+    $id = $frame->get_id();
+    $this->_registry[ $id ] = $frame;
+    
+    if ( !$node->hasChildNodes() ) {
+      return $frame;
+    }
+
+    // Fixes 'cannot access undefined property for object with
+    // overloaded access', fix by Stefan radulian
+    // <stefan.radulian@symbion.at>    
+    //foreach ($node->childNodes as $child) {
+
+    // Store the children in an array so that the tree can be modified
+    $children = array();
+    for ($i = 0; $i < $node->childNodes->length; $i++) {
+      $children[] = $node->childNodes->item($i);
+    }
+
+    foreach ($children as $child) {
+      $node_name = mb_strtolower($child->nodeName);
+      
+      // Skip non-displaying nodes
+      if ( in_array($node_name, self::$_HIDDEN_TAGS) )  {
+        if ( $node_name !== "head" && $node_name !== "style" ) {
+          $child->parentNode->removeChild($child);
+        }
+        
+        continue;
+      }
+
+      // Skip empty text nodes
+      if ( $node_name === "#text" && $child->nodeValue == "" ) {
+        $child->parentNode->removeChild($child);
+        continue;
+      }
+
+      // Skip empty image nodes
+      if ( $node_name === "img" && $child->getAttribute("src") == "" ) {
+        $child->parentNode->removeChild($child);
+        continue;
+      }
+      
+      $frame->append_child($this->_build_tree_r($child), false);
+    }
+    
+    return $frame;
+  }
+  
+  public function insert_node(DOMNode $node, DOMNode $new_node, $pos) {
+    if ( $pos === "after" || !$node->firstChild ) {
+      $node->appendChild($new_node);
+    }
+    else {
+      $node->insertBefore($new_node, $node->firstChild);
+    }
+    
+    $this->_build_tree_r($new_node);
+    
+    $frame_id = $new_node->getAttribute("frame_id");
+    $frame = $this->get_frame($frame_id);
+    
+    $parent_id = $node->getAttribute("frame_id");
+    $parent = $this->get_frame($parent_id);
+    
+    if ( $parent ) {
+      if ( $pos === "before" ) {
+        $parent->prepend_child($frame, false);
+      }
+      else {
+        $parent->append_child($frame, false);
+      }
+    }
+    
+    return $frame_id;
+  }
+}

@@ -1,88 +1,53 @@
-<?php //ICB0 56:0 71:dbb                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+/**
+ * @package php-font-lib
+ * @link    https://github.com/PhenX/php-font-lib
+ * @author  Fabien Ménager <fabien.menager@gmail.com>
+ * @license http://www.gnu.org/copyleft/lesser.html GNU Lesser General Public License
+ */
+namespace FontLib\Table\Type;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-gyfJeXfuTSLe8xMgicBN9G===
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use FontLib\Font;
+use FontLib\BinaryStream;
 
-?>
-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
+/**
+ * Font table name record.
+ *
+ * @package php-font-lib
+ */
+class nameRecord extends BinaryStream {
+  public $platformID;
+  public $platformSpecificID;
+  public $languageID;
+  public $nameID;
+  public $length;
+  public $offset;
+  public $string;
+
+  public static $format = array(
+    "platformID"         => self::uint16,
+    "platformSpecificID" => self::uint16,
+    "languageID"         => self::uint16,
+    "nameID"             => self::uint16,
+    "length"             => self::uint16,
+    "offset"             => self::uint16,
+  );
+
+  public function map($data) {
+    foreach ($data as $key => $value) {
+      $this->$key = $value;
+    }
+  }
+
+  public function getUTF8() {
+    return $this->string;
+  }
+
+  public function getUTF16() {
+    return Font::UTF8ToUTF16($this->string);
+  }
+
+  function __toString() {
+    return $this->string;
+  }
+}

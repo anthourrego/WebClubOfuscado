@@ -1,146 +1,666 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2017, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2017, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license	http://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 1.0.0
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cPo74CWJBT8ShaXgd9pXgX7W7xUWvOZXk6iHCjR2JT0QBxqz271mcab9B7Kh8rMnprP0EBaGl
-48u+s/tYUW3oll/CTgU/N+iGfX8BA5LhwAPdAC4ljGRDYfHZNkBtv7GHUIyme1Dfq91hYbO2Td0D
-8pqvIs+XhoFNKdkvQdGuzCewG9BsS9oVgCpeBmx1SL4gAHnE1UbKkJPH+jPM0wNt5gErtIMxdWSI
-UbsHfp1gfal53apO9GuExPQOXhfOY6VzVKI+6UwG0loEdbUqYTiSzzDhxb28Ob5G4BKE6KX+/6KM
-Fng8J1SUrS3VZrnuhZ0FLWz/4yyAGfPYxiSDX8oW12tQXSHC5//Utkd8rpFn0S+hAFVh2FeKOO5M
-4QUDvpA9D+cdMqoAv9iNwx3xKYs4BsgvjkZUvmItLFScVtbCpdzKl8CG5kF7xEYYQeeR6WrV1nDP
-RfX97CC9+5TXNOirpYqJ8h4bK0VidJMgcBGaE9z4Ja59GvdmO+LILLqCSPz8IOuCmespvxD9DyqZ
-KJU/vGgbo/xHd/jFAgF5jPckO6JSZBzYM1mkJeJRNunXZKs6UQCtKad7qyTYeDGukxTqZOEZhnpY
-VhzYFbecq4ycqb8Kuh+63GXKWGP5CBvFuoCHog3BkPX/YmG1kxrF/uu2dbr3ENB3J5WbKDWLgyiw
-rFUtepuMs7L/1q6jPIfqkX3qNJvO0bux8R6+Vy1Kt8gIWYBKv3tP9+ObOQNsPWjTN4R8qKuoUCIN
-ElDNcOGl8Db/S8OlLAVzIQe3FQoKsvALTohbi2RiinQ6MxYN55q+UllVzcJEVQVZpq2xI8/n71FJ
-hgGprG7a4w6yffJMourzAwJbSN9rMRuph5hEQ18pz3TRMnW+1KTOZEReDWtaYFvKgqz+NqUPs+H9
-rTppzxQimFWW3CIGD8iBMWvpfzULE7xF9tR9NGZhOZaMBARoFhGEIqOgQjhRl73DyCpx8sN51Pzw
-Nm0sgpCIx+it/ch/z4nog2sDcMdh4p6NRjm2XPN7AtpYxOverUuxPTrrIjBCXovgbxcIjusrZ2Ds
-sRFCFs94PUwBDHJFOE81CJVt5MxLiZ4bC8Yax+EPxIW8Q7/YcdS0pltorFFdSu06fP+RWSoJyyYK
-mCcZ2iA9EfObwF0B87TOKa6swke+t81WE1vhnq1zTM7m/s8AL7OWBgJym+Zsomr28VJshKBDpIlW
-7ewju6jnWR8TSJy4lrA/baQ5KRIAZueG4B6jHXwIeAtR0AzpoBV/oCmifxiRlxLHWF9RWesZpIBM
-U7CffsaWycvLJCj3oCyrNfKqu1Y/nPxHhLMT53jnJOaY6M5tTFFeAGOiA7MliQY9IXpummPkCQXj
-1RCDsCHn41xXm6AQvBCY6WrZkaYSppLWfPyBP5t7E95OifzQRqfnoq+bdlidfm36TNU2dYKHiRWm
-a9WoK0yf5XSbqhfcdTPT3I1M2ebH8m8bhT1u6HDPBdUeEFL/3ovuXxYsUPRTEpZ6aIc7izexxF5y
-Be9+mkyRlCJj0NTqek2l7jYISdZkEPBi/Eiust4+R0MSAr5LGvcT/tKuW9iZT3/gQPJ9K4cVYjRm
-Q3CMxvyowmSqnqCoW3Cxpc9HqHQnkKOtafn8MsEycJt1sHDhiLCuQyCiK/0l0Npl6JD+L6mTc2MY
-H2OPmERKrHbXDi6Fum0KwbL82qz0brn4oXUJlZHkTBe5I9iqh7jP2DDHRe+zMn8or1VwxmZ7vy0O
-mTrgFpIKrVnezaW5Tiv/kVuVtFi4sqAc0VlZLWGcvDR0973CFm30arwPvijWPpkEuK5+QKp+FOT6
-/214fo4cUfKa0Fdop8ilbYQCRXNC2pBWfWYBnEwQyTJUcgdCGPd7sCrkr2SW9pr/5BrV70gI0RCO
-Wk36H//7unG7FgGs7JJTaRcX4FcTaU6h4xE35wpmhsbyIKjx6cKgzSxzuSYqHtS3I5EdxtbcS86+
-qCKdl2qIg7PqLCGLK32HNjfsnCRkCPHyEnGAoQjmBTT7FzMtBx+OJghYofacmIB6ynE/v3EvsByp
-Xqh/yT27FTsWLgo89pbWH8wMMCtq1Ar+IHOv3WbtB4+mSAzK6nLHiOomoGwLrpB46E9F+yRCaf0S
-0/ngJxlFcLeuURDpp9B76e2yjPK2QtWKcGpz6qlbbAGZqKDwm+HrirdtqP8rMWcE0JByh+jMtf+d
-Y7Gmb/zWgLDTyqaWQNd38GOIM3JodLGY45JJmDJCtGssjiYIAxXwEQfX0utNgn4dx47y3Fspd8pB
-Uu2scDri7z0PvhqbYIs9ttNqWg57EA8Xphv2P7m9AfC4N6CdsGTScjiaW7VIQyNvC6tmaSjb4xhc
-6F/OmCNeP1mdl3P0z2eXDQnWYdxyITxflYT3DlzfAJgwY+df+Hj8/m5tq4C3XK+X4KTeG+OoKaMU
-NgLlOr6WM0R8FV8Y6Dt91Vxu41bQKS0XaOrRmnEwbFDpoGy2GDw6dWAi/YJwTgKT/iMLi5OWBDH4
-7u60K0Q4h1ydnHV1CuX2WxZ/kdHxPd4lgPnHMsVLdwzGzLSqwW8gqPCe53g1MfK6zcaXur9f1Mdr
-osXV45H4N5YCyv1mkb6kUGennZINUmHk8wo+eLPWQ59hWpYLdOTyX1AeDkb7pW/Qiw4Cx9gkOBF1
-Y39gEnfd6t3/Cs4wZt9BOk69j5uWgqRvqlu2rZJu8ukW0MGAa9W7to3ZKc/UebdaX22QcWXu/yWE
-irbhqqWS4oXwEnHYb4l5XBliGBk7c2Wi2OWLFtmLxKd3dg2OK23hutaWkM0XoAHpnSXEW8rVDNqS
-Tk/gpcKvjuuP4aykRWYcvyFW8r3MaRz96qeiGqrUmTA7qKYs5UqpmjTsC3Di/eKCmt6jAgIeqnJu
-oBK8YwAC/CHyNlp4vdJRKtaOnNn/PHjCJKeAggPtxiA86MSByIA+HUZhOETpfWlf3ndWAVbrqbDi
-dequheosvvznNmKFuxKIszbaPZJHbnRR28RP9dSSNFAB6NycYTS7g5/fgNkp+y5ChII9ISqNIKKS
-xra+ANiAiWxEuubY1tybUr8804apne9Ekod/2u+IqKu9i7yUh0t2b6oyEu/tMO5w8TlZOo0xA0dd
-3VQIHFDtKyIL1aaU8Oax1r4DohOhyLtJTktv3WMVkkbOk0KHhYnSBEEHKSs3CEPO4d/wZSBNciKY
-TrArRur5FLw2J98vw9NTrKi0YLix0oIpejoGVZPrGwtC5lLMW1pu3Ybl05Am5OkE9GqGB/lA6DG9
-xhpz5n5z6UaYwEw0qK8KhV68Cd88rBtikJOMKfiV2PAd8oRvsnHwUUsHlUjNKDskPX784/H8w0kF
-+U91LEZM2h/x8I+HbRFPQGosaooCNhTW1yIbNG/E7OonfpliBUvSBFYl4ngmv0E1dx4UzRjv9WJq
-4Nq4XerO6+SN6NwAkiKo/uk/OY3DMimMOeR2r1roexlWx9ZdQTwIbs9cTEDUCRNxEysOc9ZSj6WG
-+sKX4zB4qmFU24Qzl9sVi5j5PYsDfUsDoH13GUpHqdaZS9HDM98qFVbCW7s+UnNZiFHEANjsqrpx
-0h7h6SH3waSKY/bUHElo/qZAbyXt6M6APq6wK24cW7A9+AFtlpMqfiMzA56paTcRtXTTaUGzfQ12
-8Euu/SYL5zVaBxdZLGTWBCNZ9Lz803ujSWp84Vhz2MornDh6NEyTQzS6G2ZWBpI2UQOEQXZfupWb
-fdalb7UTOhwj0+4R9MrPDSxcUTH9UiNgDVLbrKoo0/9I/vP8psmCGrOl4gMS1kb53qUXQ8/Far9s
-HZySLg3W5RFZ6UISEMrbSk/PNupDN3LIj5ZKAKgRBJAA2+w+alUM3Yy/vr3a0Woi2lB93u4nDM8f
-g0SYQocnXTwLHmfhY6F/O5jC/qn3doM8xLKiBWxGD/ZowyXSBleDRLocqnNNFZ3SFsmGrmIZHLsY
-7c4rUjqKqtQ3U94aqcSeaqtJJ8/fpyrSxtnA+9LJvwphLygrJGx36HbccAjNnyxjhZMRrSVqyCql
-ueQXBV/+SvDj4RRsriaToJIffVE00rCRroZuchH2jPaqguXk/V987lh4T0nyn5yETsqNzEzsvn4I
-HmeCzYJ/2lsLxsFzP2QKY11+oM79/xFncHLxdthb4nkbvj0whEix1GcXe+MnZVCAxfKLLHuCPOLQ
-byicaqtJ2Z4SoIm9pbo/xcPFgJW195CoTn332xiNgYEkfw7rJF7JDIP2Onts1rMzXQ9b4aopqWxg
-5TuKZMJ6vHor4V6fwfKhPcNca3U2pIF3+C8p2wQ9n6GIeEcdoYziEzPWhmvEyrGXTboakBzi48x4
-3JFXAW+kIIJi3vdqvPgatvZMKf09HohQLUktXcdhCCjosd5QdqR7ds0WOF5YP5UDqL1DFN3ujDID
-PILXwgqDK57rc04tsF8zk0J/7LGMVPNISmRfUisvrCTkOeStWKQgefbgmQprNHiVdnpG+WAFrjO6
-2IbcWhN7Wt//SRqHVDbXP7kmYkWDSHcVqg9AIw5HlBFcZSyArJlpTjSJ0cyOpwYbQVnJ+MSVhRSv
-pev2YBT2KCXwlV6QVr+SY1sVkVjN7Ga9UbNpDRvVEcXZxxRfWkJVwT0+KeFfdEb3K/En2eBk/n22
-Qtnt+UXMWEXW0OSNtit6brRKaK2u/yF9EIJEs/CvdjwPo+q9Gh4EZ4cLlEpZiVUJrXao8JsxfVyV
-Gl/73SoZGLphrFB34GG3MWJfTsXVTBUT6bS2RceC/7gf37GQinJiiHzt5i38bX0tgYuuBFfMCaqD
-K7SUp2VAd5DnQArmISRcqNlOV0y9m11IfgJEwwtoiYEBT2NHP9snzA1hXKMIBSgVKvr56o0gZrjW
-sXoGFs7wCBucKvYZvoy+osUb9CCvUq3sar+LRQgnOuyQb/YaOmsNa0j12bQ3fvuph9SFE85ZsctO
-aQKZEXvyGSmGi+yGMgxhmecOuD10s8VcB6yjejV6DC20XdEhDV7Nj1s11b0PFPN83jteNCxroya3
-FJVr7EE3y1uO8y8Qsq3vMj79XdaWw8WJLnaPt8Ice7BxdgLWGk1j5Ef0V0HP/NAnTy7y5pHK+PZl
-qrKApAf7+wpMYNrFWvuCVReWoGakvMhltII53Bty7K9+O93RzJE4Qhzc+JeE03d/n2QefWfhrAHI
-i/O0VvUJAt2aNkX3JIuZdJze79qiqvk8UbeaXWkWRRAY1ZztLdpihmr1YH/GqOmcmhyGvP9MDNir
-FVol80opxBWURdZMCIIUvAJZW+P8jKaEYD9sn4uwYUV1xKux+S5r8ReoULzXJqOuxQaDqzvkemz5
-mgW1mA28cX/LIS+dYP80k8syVyws7z1n1W3XcCCYWI16I0q327v0JVoUBRJdZvkk+LRRmg09cpe9
-CqCuSd21t+Zcx++/98iSM8qU9UIbRd8ZhKdXwucC7Qg6JRPTPBfV66nPJI16pgKfvnyc4vN9rRbZ
-l4dL2qWPCoO02jvIzhWesZyK3lc6ePtfXz0i6tRb7prQp50W7ubDN0UGCwilD26AAdpegJ1IAKwm
-+bKrM7o/VZ9sNjnxGX5i9r0OtfMf4f9ufUx7yr1gi3jf5LWQlznkT84ucRluwkCio6DX/WjOV18z
-lR39siwroVmPZMmHt8Ly+Fk03WIKCX1ikKZmfSMtMQAPWlCopPI9ctWuJuv696aC7nug8nUsPWqG
-dYylLoXsdhe/lLaHv0fvVYPsOzKEY9virDmKlNAii/Mv/tXOpVQGuGd8wUeeBIXVuyHTU/BLAmIo
-Yh5ACTWZJhZGNjBSeM9Bljt9JbO/vCIEEMBh5QUhBOpzacUwOLCFghcEd5G5pcwFhJTK/sVbE65S
-j/FPXV+hfXuG7JVWrQl4fKVUFiWXeHXU623+31q42EsZAQfTYgkvhd6UBnbJyxPBNWfxYphFfy1t
-7s2NkLB+RxQaq2ioea3eNuMHp+rz8mg5rKavPTiMw8oj6978Q+OVBFC2eAn5Fija61mDtOV3wjN1
-TIG4Sq5XOM9iBz0vabn5ipVylLqYG49nH4STeZd/mLZpCT6knanuy+3Lpt4p8b24RGwOSBJLmUzA
-WPzkm4pNpvR2zlR6qU7cutj128sUS4BDrPsmdOOCJmkR01vgPRt6MzabeQ9Dbex7FrRCVIH94qhC
-wXgFh4AAMg+NlkuZrA6ETwW9w16TfaB/JRFG3dmAFdadK4ech8WJ9MtmuTZc/4koq42FTYfJQw4L
-IXERfG8efP7RrYk4Ls9fOOodqwUx4+RxJEPbb8gDHTDqjjTRCdqSAoK59u41Tdq4/Ifdc0kTNp6t
-tiHCshouhsnspdwXwiolQlF+lb0e/uRa4jB3Z96xmLkvHmhbH3k9TSoJNHGa1WBjrFGaJfl+KrPn
-g4I+AobM/IUSWl4JCGksa3FyNAWmq3VMnC7C+b5UyHTas5uW6Q1hWPKPJ2G314qhw43hhDwKM5dH
-Bqw5NprAT93k3zeN+T4cBXgWeHepQ0dVus4ckc2H9RotHO/G+wM/JBgog2twrj7oMJxCCV/q+qaB
-8fbcsrOAjxYTR39/aRV0MvMyTFkwKJqP++9M04t4td8fgzOVoua4kr5WNYQyk0lf1jsTXrNe8Nqe
-6GWCoeBurTQ+/jssKMJM3igKe+zqA4Xwzl1rX66Ma5/CSd4AaURuBJdLkkelj7IJFq5M9rWxN0WJ
-LFkBAAq0q5r49KDPoRJ0mCo3vid5p8D7L0Zc7P9E4VD3CQOl66iP1TpqkyuChv3x0t1JFhMKra3t
-rvsll7LuubcQJw8rqyyx1B5VHTka+f+hNkA+uG7HlRWHtLf6sOUtDw4jJhX6AZV5iwO2dWqvBTMZ
-vV+Unwzx2JYlk/+9+BocE4S5H0xg7uDa5/lXPCnxxh56sA7GHi3zomlZ6IV1/BduX4jxvzQP3e7x
-Lb5v18ID+mdsAABBjudOeKRFg97RXzA+J47fy7lwC/8so/WVI0ATurnMhQbUT8Wo0/RyObSpetGl
-cV2FY05s0Xqo9OtiVCS47bs83o+3Ds9kupF87YxmQ+3QtYIC4U53dtflqZeN7oPgPY+f56pGkaCC
-rGYEOP4URG1qiFpZ3yLqYMSNvt2i9raKMPQqDE8RdpfTtvwc24/FE5HdYq5RiOQwbBjL5YXhYJOc
-D0tub3c+E0S5uunOUt2gDxLCdVjN0Kg66rPu/3x9z6aeW0WtMDyr63wvFWWjOx/YTKu0KGdMCbTK
-Yv/WlUIw673vkGvHwraTLwzMuOkGi5umbQY7aV2cWvhz3Wbkwy6lCQVp/eM6A8t8qgMHmSRwxqE9
-fhoUVDwSzQoui5PuaQDU/+uAyxlUnaO3ytt6brnKgfnaVMJhpvfmU61wR5RzXViL+MQKXRISG/sQ
-8KLfUWBMWzTru38vAV/EWUcEQQyMzJyaMnZG/shJ5cpoBrLNP5/yvLO4suGY3v3/PTy0Jj6wY0VE
-HbQZIhaaU2W+1RVVnn//GITgEPOrDrlqjw2GIRqMYGJrDrHHrP3FduxfGDhvN+pUB8FC96mNNr2u
-d5YxWSLaNqhNDPmhThbcfeO27Pv6vJeETlB3qEhKVF+ntp8m0/b792JgMrD0lmRUkyhaf/Cdd9Jm
-FLsug3TiJVpH4Hj3rplACIqSlse51ymGXxDz4t8Yv77xt15Sb+KfQf6vC+AqGvQeXG7rCJttsAF8
-oi9vM7bD1TwN0CyJw07nUGhR+u+txNo5Bl06M5wjBkn4+ev5LfvGsVTdtssd3vzjMYSVvvxwecSW
-vM9LjCPnJGA+oeiHTtvFEv6X+uidSdrSS7U9pxtHzufJQJIfBFTP+WwbwwEuAXnNvGtpOoQZ912N
-rIW4q+3lACOTAmMnkr9fZ1lPlmdixrpMf8RBa1P/h0OWixUhN3Q8KkY5IFQ+6SlUIG5+vDFEHI0N
-X9LI/yxAvctgL5pUzIkZcy8+I3Ck1XgXigteRPATz9hzFlhPBscKjCES97cAgP/Veo/RQJLTdOp7
-Bg40ckK8xl4UxL1nHstuwlIOUJuneRfYQcS26HwvaXTseDpA4rxFy78sdwLKozGZ3JAYrnr6HIss
-43Od9dcb0ydbaaRodMreVbCYFXhkJQcsNnrBh1oV83VcPtVSmm3ligS1zSdgAM81XU1ezippgGag
-RqASk0ytH4ba8ZH2JwxZuhoiR3VHKlld2bmEydCGSneaoT5dfUfJDlXJ8EU0Qe2z4GrB/WpzB74b
-8/cjrv41L7FwVkzmbmcZFpNHebm9AzIifEMpoCMrnrNikZQ66Ov/BRsuzJO2snxH4B+0wl+C/YFQ
-waWinXzcHvKgVPO75vqlKpr/whpXnMtWCvboOsaAQpLjARfnb2ikJ89Mggz3rlzAAHY1Q2JLqhvU
-7rYg8G62bly88L7/wA5QWRIBQsWRj4FKYEGH9rn2N8RHhF4i6GQJie+URrZ6OodRd+tTqbQBgts+
-PBDMJlnNf+17epTgV5Kz5aETMdcswOBZmc/OE1Xl0frltH/+OPE88LSZ/X0Xy9BeSYWcc6w0zmd1
-0luCg+1UOdUjvKovxcQQAyymPSVzO+lgqVGoaNLTupr9VVHSqut6AdQLTdCIs2bvRD6fV42LUAZf
-q/spnz/wMV/0kTJViFCI1AyqhvzmcnrvUhUxl82HjCtnWrvoFVKJtq6jpU8wTdcjYrdhlt/r5mo8
-GOvT6FYy8fkaonT9SxNml0YreohPM1qX5kw774UFJY0uSbET6q/HQ4/NOvOayvD7b1n0RRuzUpsR
-6ZhVRe/7zrcwc6B/TtDojboP1SAYabR5ruBg56SA3UjrVxkRC/F57wOh6gopiGZLYKPwtAiqqAb5
-F+l07EYKIy1a4ORofHDd6jsvRk78HL46L9HjtqjK+XLErGyzVUUXnD2usUtxDhMgpFRRYa8Q8ftz
-i/H0SNl3BQaQ+QAASx9C+br9zDcEMfeZfosPnH+aRxjsWjnJd8Zm9ey4S0r1Z4gplHNJNvLj0wS/
-2nw/c6yepFDQUKPTWKngTD40DkChnGqIszZMvg8o4UDZbIny78Q8fJuUV/ndP0b4zNMaga2zO20+
-gURf+Y3tKmhZ4AyvpG5GJGA55Pf561ATShYhipgKTXnKxsD/G10qUQ9Qw0LWEGhsswinHb48bwHw
-jhT5FL3qE/Hz9Dq7wRQgQt7VvyBoQvFTGGgHJ+SD5sWIBGp1WVamLwCkAUWFQTh4AZAmvMMXGiEl
-TeZDlORYzhSfB4cRBcWVgFbiAzosMbeJoi/YUgqg2kzUkIZn9GbA2rDjzGADxBnhnRrZHIqeM8em
-sElTdOIYLl3m0A3jk4UL15IKFmFqKbZss4kw/enJS1aA6wtQgTE74MoD85xqi2NUW5d/KOxoBfau
-hL/HKdcFYLsvknMMvOt8isoBBEGiEJ1M4ZLYl3D9q51uJpJUgqiu7OxMdpI3oGr95PEBydeID2Jr
-rz3kS0IZdw3g4SRF+mMELGHuUts+nowvwVNp++or8vUxHVzbKal+d58RcgzYtAPJjiQ7k61fdFm8
-pIAyA+2uRMZMNiKzOT6MdP7DyZKutX3TiiKX74WAlVx4GYY1UCe3zmjMkLS2DKk/JXx/uUvvYPEf
-KxUYE3FFlHaiwWTxkqLa+Cvkv8EJONtxFdOwAkCxs0cqjO+oVd1mox9MyW5S5l+brxUuXLUe0xMz
-2QhngjulJwrcH5PgjF2aQwVBf03JD6d0iFareJ3w3ijJhkr0WmPfmM5To1SG/qMuZoAeCJi5QKzy
-VcJOuZyoe0dWnhzaSfdn3awvAdMOB4kSWx3klPODZlztudUo62PoriecRVJoq7B6JtfXcCNRs9dV
-3whbMPPW1ao1rVt7cTDGmUEBT7D4FYIoywlD1dgDPXYE4d2QgDpK/pUQ2Oxdb2VteEyHwT1cmJ83
-yQ/4ZfjULtk0j2f1DvCJd/3zT/Z2BH36g2F6D0FFMGdRwihfOSc/OxcA2DWfvcWfYVe77xa02h62
-QBWoHQDVM4HPyVk6MiiYVmCpmiMX0b69y6bRKz6sXxoZWi+r7bzmofeQTt7/cbIC7cUlZWynNDMG
-4wTXj5UMfyPcsi+Mn7AYf/w2aEerJ1A92DevYPgi6TSigUxdUFrtbC5uN9PLkToSNh5oP9ndb29A
-X6wpusadMp3Lnfrd53AMX97fTsP+cgEu93s+9ut5NoSCQgqQzvAcs4HJzNRGkclb5P6KTNkpPjAK
-501o0oNBw43SKwfHtLXHRXWGCrYrcClcKzJEP05kNwnprD4hjIMwip5ZaoCcE+dKnxlTpiOGP/i4
-2FoClrnfsAKffmbrybjp1eUbEFeeVrHeG/+LDDkDOTXBT0kF9t7H4XVr9dfGy4kKUm4dHmw+nQxq
-hSh+qu6hpVwHMeUFDOgsTh9lB6aQTwd6jF4WPd/ntGyFQd65M2b+JCu7dvOjaENoT2PQSai44EZw
-A9thVj2Pst9XQ7sEc7OXM0Rln+o2hnAkSvf8212kJWVMQe+cyLiCM23V/WpLbMKcqBdY1KHdM9CD
-cL3e4EgoyFUA7mPgJGbUvOBiInNcTjG3HrfxcGNLcF2NM/kKoqcYrU/J4G==
+/**
+ * Database Result Class
+ *
+ * This is the platform-independent result class.
+ * This class will not be called directly. Rather, the adapter
+ * class for the specific database will extend and instantiate it.
+ *
+ * @category	Database
+ * @author		EllisLab Dev Team
+ * @link		https://codeigniter.com/user_guide/database/
+ */
+class CI_DB_result {
+
+	/**
+	 * Connection ID
+	 *
+	 * @var	resource|object
+	 */
+	public $conn_id;
+
+	/**
+	 * Result ID
+	 *
+	 * @var	resource|object
+	 */
+	public $result_id;
+
+	/**
+	 * Result Array
+	 *
+	 * @var	array[]
+	 */
+	public $result_array			= array();
+
+	/**
+	 * Result Object
+	 *
+	 * @var	object[]
+	 */
+	public $result_object			= array();
+
+	/**
+	 * Custom Result Object
+	 *
+	 * @var	object[]
+	 */
+	public $custom_result_object		= array();
+
+	/**
+	 * Current Row index
+	 *
+	 * @var	int
+	 */
+	public $current_row			= 0;
+
+	/**
+	 * Number of rows
+	 *
+	 * @var	int
+	 */
+	public $num_rows;
+
+	/**
+	 * Row data
+	 *
+	 * @var	array
+	 */
+	public $row_data;
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Constructor
+	 *
+	 * @param	object	$driver_object
+	 * @return	void
+	 */
+	public function __construct(&$driver_object)
+	{
+		$this->conn_id = $driver_object->conn_id;
+		$this->result_id = $driver_object->result_id;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Number of rows in the result set
+	 *
+	 * @return	int
+	 */
+	public function num_rows()
+	{
+		if (is_int($this->num_rows))
+		{
+			return $this->num_rows;
+		}
+		elseif (count($this->result_array) > 0)
+		{
+			return $this->num_rows = count($this->result_array);
+		}
+		elseif (count($this->result_object) > 0)
+		{
+			return $this->num_rows = count($this->result_object);
+		}
+
+		return $this->num_rows = count($this->result_array());
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Query result. Acts as a wrapper function for the following functions.
+	 *
+	 * @param	string	$type	'object', 'array' or a custom class name
+	 * @return	array
+	 */
+	public function result($type = 'object')
+	{
+		if ($type === 'array')
+		{
+			return $this->result_array();
+		}
+		elseif ($type === 'object')
+		{
+			return $this->result_object();
+		}
+		else
+		{
+			return $this->custom_result_object($type);
+		}
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Custom query result.
+	 *
+	 * @param	string	$class_name
+	 * @return	array
+	 */
+	public function custom_result_object($class_name)
+	{
+		if (isset($this->custom_result_object[$class_name]))
+		{
+			return $this->custom_result_object[$class_name];
+		}
+		elseif ( ! $this->result_id OR $this->num_rows === 0)
+		{
+			return array();
+		}
+
+		// Don't fetch the result set again if we already have it
+		$_data = NULL;
+		if (($c = count($this->result_array)) > 0)
+		{
+			$_data = 'result_array';
+		}
+		elseif (($c = count($this->result_object)) > 0)
+		{
+			$_data = 'result_object';
+		}
+
+		if ($_data !== NULL)
+		{
+			for ($i = 0; $i < $c; $i++)
+			{
+				$this->custom_result_object[$class_name][$i] = new $class_name();
+
+				foreach ($this->{$_data}[$i] as $key => $value)
+				{
+					$this->custom_result_object[$class_name][$i]->$key = $value;
+				}
+			}
+
+			return $this->custom_result_object[$class_name];
+		}
+
+		is_null($this->row_data) OR $this->data_seek(0);
+		$this->custom_result_object[$class_name] = array();
+
+		while ($row = $this->_fetch_object($class_name))
+		{
+			$this->custom_result_object[$class_name][] = $row;
+		}
+
+		return $this->custom_result_object[$class_name];
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Query result. "object" version.
+	 *
+	 * @return	array
+	 */
+	public function result_object()
+	{
+		if (count($this->result_object) > 0)
+		{
+			return $this->result_object;
+		}
+
+		// In the event that query caching is on, the result_id variable
+		// will not be a valid resource so we'll simply return an empty
+		// array.
+		if ( ! $this->result_id OR $this->num_rows === 0)
+		{
+			return array();
+		}
+
+		if (($c = count($this->result_array)) > 0)
+		{
+			for ($i = 0; $i < $c; $i++)
+			{
+				$this->result_object[$i] = (object) $this->result_array[$i];
+			}
+
+			return $this->result_object;
+		}
+
+		is_null($this->row_data) OR $this->data_seek(0);
+		while ($row = $this->_fetch_object())
+		{
+			$this->result_object[] = $row;
+		}
+
+		return $this->result_object;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Query result. "array" version.
+	 *
+	 * @return	array
+	 */
+	public function result_array()
+	{
+		if (count($this->result_array) > 0)
+		{
+			return $this->result_array;
+		}
+
+		// In the event that query caching is on, the result_id variable
+		// will not be a valid resource so we'll simply return an empty
+		// array.
+		if ( ! $this->result_id OR $this->num_rows === 0)
+		{
+			return array();
+		}
+
+		if (($c = count($this->result_object)) > 0)
+		{
+			for ($i = 0; $i < $c; $i++)
+			{
+				$this->result_array[$i] = (array) $this->result_object[$i];
+			}
+
+			return $this->result_array;
+		}
+
+		is_null($this->row_data) OR $this->data_seek(0);
+		while ($row = $this->_fetch_assoc())
+		{
+			$this->result_array[] = $row;
+		}
+
+		return $this->result_array;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Row
+	 *
+	 * A wrapper method.
+	 *
+	 * @param	mixed	$n
+	 * @param	string	$type	'object' or 'array'
+	 * @return	mixed
+	 */
+	public function row($n = 0, $type = 'object')
+	{
+		if ( ! is_numeric($n))
+		{
+			// We cache the row data for subsequent uses
+			is_array($this->row_data) OR $this->row_data = $this->row_array(0);
+
+			// array_key_exists() instead of isset() to allow for NULL values
+			if (empty($this->row_data) OR ! array_key_exists($n, $this->row_data))
+			{
+				return NULL;
+			}
+
+			return $this->row_data[$n];
+		}
+
+		if ($type === 'object') return $this->row_object($n);
+		elseif ($type === 'array') return $this->row_array($n);
+		else return $this->custom_row_object($n, $type);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Assigns an item into a particular column slot
+	 *
+	 * @param	mixed	$key
+	 * @param	mixed	$value
+	 * @return	void
+	 */
+	public function set_row($key, $value = NULL)
+	{
+		// We cache the row data for subsequent uses
+		if ( ! is_array($this->row_data))
+		{
+			$this->row_data = $this->row_array(0);
+		}
+
+		if (is_array($key))
+		{
+			foreach ($key as $k => $v)
+			{
+				$this->row_data[$k] = $v;
+			}
+			return;
+		}
+
+		if ($key !== '' && $value !== NULL)
+		{
+			$this->row_data[$key] = $value;
+		}
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Returns a single result row - custom object version
+	 *
+	 * @param	int	$n
+	 * @param	string	$type
+	 * @return	object
+	 */
+	public function custom_row_object($n, $type)
+	{
+		isset($this->custom_result_object[$type]) OR $this->custom_result_object($type);
+
+		if (count($this->custom_result_object[$type]) === 0)
+		{
+			return NULL;
+		}
+
+		if ($n !== $this->current_row && isset($this->custom_result_object[$type][$n]))
+		{
+			$this->current_row = $n;
+		}
+
+		return $this->custom_result_object[$type][$this->current_row];
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Returns a single result row - object version
+	 *
+	 * @param	int	$n
+	 * @return	object
+	 */
+	public function row_object($n = 0)
+	{
+		$result = $this->result_object();
+		if (count($result) === 0)
+		{
+			return NULL;
+		}
+
+		if ($n !== $this->current_row && isset($result[$n]))
+		{
+			$this->current_row = $n;
+		}
+
+		return $result[$this->current_row];
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Returns a single result row - array version
+	 *
+	 * @param	int	$n
+	 * @return	array
+	 */
+	public function row_array($n = 0)
+	{
+		$result = $this->result_array();
+		if (count($result) === 0)
+		{
+			return NULL;
+		}
+
+		if ($n !== $this->current_row && isset($result[$n]))
+		{
+			$this->current_row = $n;
+		}
+
+		return $result[$this->current_row];
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Returns the "first" row
+	 *
+	 * @param	string	$type
+	 * @return	mixed
+	 */
+	public function first_row($type = 'object')
+	{
+		$result = $this->result($type);
+		return (count($result) === 0) ? NULL : $result[0];
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Returns the "last" row
+	 *
+	 * @param	string	$type
+	 * @return	mixed
+	 */
+	public function last_row($type = 'object')
+	{
+		$result = $this->result($type);
+		return (count($result) === 0) ? NULL : $result[count($result) - 1];
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Returns the "next" row
+	 *
+	 * @param	string	$type
+	 * @return	mixed
+	 */
+	public function next_row($type = 'object')
+	{
+		$result = $this->result($type);
+		if (count($result) === 0)
+		{
+			return NULL;
+		}
+
+		return isset($result[$this->current_row + 1])
+			? $result[++$this->current_row]
+			: NULL;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Returns the "previous" row
+	 *
+	 * @param	string	$type
+	 * @return	mixed
+	 */
+	public function previous_row($type = 'object')
+	{
+		$result = $this->result($type);
+		if (count($result) === 0)
+		{
+			return NULL;
+		}
+
+		if (isset($result[$this->current_row - 1]))
+		{
+			--$this->current_row;
+		}
+		return $result[$this->current_row];
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Returns an unbuffered row and move pointer to next row
+	 *
+	 * @param	string	$type	'array', 'object' or a custom class name
+	 * @return	mixed
+	 */
+	public function unbuffered_row($type = 'object')
+	{
+		if ($type === 'array')
+		{
+			return $this->_fetch_assoc();
+		}
+		elseif ($type === 'object')
+		{
+			return $this->_fetch_object();
+		}
+
+		return $this->_fetch_object($type);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * The following methods are normally overloaded by the identically named
+	 * methods in the platform-specific driver -- except when query caching
+	 * is used. When caching is enabled we do not load the other driver.
+	 * These functions are primarily here to prevent undefined function errors
+	 * when a cached result object is in use. They are not otherwise fully
+	 * operational due to the unavailability of the database resource IDs with
+	 * cached results.
+	 */
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Number of fields in the result set
+	 *
+	 * Overridden by driver result classes.
+	 *
+	 * @return	int
+	 */
+	public function num_fields()
+	{
+		return 0;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Fetch Field Names
+	 *
+	 * Generates an array of column names.
+	 *
+	 * Overridden by driver result classes.
+	 *
+	 * @return	array
+	 */
+	public function list_fields()
+	{
+		return array();
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Field data
+	 *
+	 * Generates an array of objects containing field meta-data.
+	 *
+	 * Overridden by driver result classes.
+	 *
+	 * @return	array
+	 */
+	public function field_data()
+	{
+		return array();
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Free the result
+	 *
+	 * Overridden by driver result classes.
+	 *
+	 * @return	void
+	 */
+	public function free_result()
+	{
+		$this->result_id = FALSE;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Data Seek
+	 *
+	 * Moves the internal pointer to the desired offset. We call
+	 * this internally before fetching results to make sure the
+	 * result set starts at zero.
+	 *
+	 * Overridden by driver result classes.
+	 *
+	 * @param	int	$n
+	 * @return	bool
+	 */
+	public function data_seek($n = 0)
+	{
+		return FALSE;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Result - associative array
+	 *
+	 * Returns the result set as an array.
+	 *
+	 * Overridden by driver result classes.
+	 *
+	 * @return	array
+	 */
+	protected function _fetch_assoc()
+	{
+		return array();
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Result - object
+	 *
+	 * Returns the result set as an object.
+	 *
+	 * Overridden by driver result classes.
+	 *
+	 * @param	string	$class_name
+	 * @return	object
+	 */
+	protected function _fetch_object($class_name = 'stdClass')
+	{
+		return new $class_name();
+	}
+
+}

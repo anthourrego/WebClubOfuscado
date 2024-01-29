@@ -1,329 +1,396 @@
-<?php //ICB0 56:0 71:30af                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\Credentials;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-ACq+74K9zwoBOhdWfIJFUtphBU9vaQAZpWmCwW===
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use Aws;
+use Aws\CacheInterface;
+use Aws\Exception\CredentialsException;
+use GuzzleHttp\Promise;
 
-?>
-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
+/**
+ * Credential providers are functions that accept no arguments and return a
+ * promise that is fulfilled with an {@see \Aws\Credentials\CredentialsInterface}
+ * or rejected with an {@see \Aws\Exception\CredentialsException}.
+ *
+ * <code>
+ * use Aws\Credentials\CredentialProvider;
+ * $provider = CredentialProvider::defaultProvider();
+ * // Returns a CredentialsInterface or throws.
+ * $creds = $provider()->wait();
+ * </code>
+ *
+ * Credential providers can be composed to create credentials using conditional
+ * logic that can create different credentials in different environments. You
+ * can compose multiple providers into a single provider using
+ * {@see Aws\Credentials\CredentialProvider::chain}. This function accepts
+ * providers as variadic arguments and returns a new function that will invoke
+ * each provider until a successful set of credentials is returned.
+ *
+ * <code>
+ * // First try an INI file at this location.
+ * $a = CredentialProvider::ini(null, '/path/to/file.ini');
+ * // Then try an INI file at this location.
+ * $b = CredentialProvider::ini(null, '/path/to/other-file.ini');
+ * // Then try loading from environment variables.
+ * $c = CredentialProvider::env();
+ * // Combine the three providers together.
+ * $composed = CredentialProvider::chain($a, $b, $c);
+ * // Returns a promise that is fulfilled with credentials or throws.
+ * $promise = $composed();
+ * // Wait on the credentials to resolve.
+ * $creds = $promise->wait();
+ * </code>
+ */
+class CredentialProvider
+{
+    const ENV_KEY = 'AWS_ACCESS_KEY_ID';
+    const ENV_SECRET = 'AWS_SECRET_ACCESS_KEY';
+    const ENV_SESSION = 'AWS_SESSION_TOKEN';
+    const ENV_PROFILE = 'AWS_PROFILE';
+
+    /**
+     * Create a default credential provider that first checks for environment
+     * variables, then checks for the "default" profile in ~/.aws/credentials,
+     * then checks for "profile default" profile in ~/.aws/config (which is
+     * the default profile of AWS CLI), then tries to make a GET Request to
+     * fetch credentials if Ecs environment variable is presented, and finally
+     * checks for EC2 instance profile credentials.
+     *
+     * This provider is automatically wrapped in a memoize function that caches
+     * previously provided credentials.
+     *
+     * @param array $config Optional array of ecs/instance profile credentials
+     *                      provider options.
+     *
+     * @return callable
+     */
+    public static function defaultProvider(array $config = [])
+    {
+        $localCredentialProviders = self::localCredentialProviders();
+        $remoteCredentialProviders = self::remoteCredentialProviders($config);
+
+        return self::memoize(
+            call_user_func_array(
+                'self::chain',
+                array_merge($localCredentialProviders, $remoteCredentialProviders)
+            )
+        );
+    }
+
+    /**
+     * Create a credential provider function from a set of static credentials.
+     *
+     * @param CredentialsInterface $creds
+     *
+     * @return callable
+     */
+    public static function fromCredentials(CredentialsInterface $creds)
+    {
+        $promise = Promise\promise_for($creds);
+
+        return function () use ($promise) {
+            return $promise;
+        };
+    }
+
+    /**
+     * Creates an aggregate credentials provider that invokes the provided
+     * variadic providers one after the other until a provider returns
+     * credentials.
+     *
+     * @return callable
+     */
+    public static function chain()
+    {
+        $links = func_get_args();
+        if (empty($links)) {
+            throw new \InvalidArgumentException('No providers in chain');
+        }
+
+        return function () use ($links) {
+            /** @var callable $parent */
+            $parent = array_shift($links);
+            $promise = $parent();
+            while ($next = array_shift($links)) {
+                $promise = $promise->otherwise($next);
+            }
+            return $promise;
+        };
+    }
+
+    /**
+     * Wraps a credential provider and caches previously provided credentials.
+     *
+     * Ensures that cached credentials are refreshed when they expire.
+     *
+     * @param callable $provider Credentials provider function to wrap.
+     *
+     * @return callable
+     */
+    public static function memoize(callable $provider)
+    {
+        return function () use ($provider) {
+            static $result;
+            static $isConstant;
+
+            // Constant credentials will be returned constantly.
+            if ($isConstant) {
+                return $result;
+            }
+
+            // Create the initial promise that will be used as the cached value
+            // until it expires.
+            if (null === $result) {
+                $result = $provider();
+            }
+
+            // Return credentials that could expire and refresh when needed.
+            return $result
+                ->then(function (CredentialsInterface $creds) use ($provider, &$isConstant, &$result) {
+                    // Determine if these are constant credentials.
+                    if (!$creds->getExpiration()) {
+                        $isConstant = true;
+                        return $creds;
+                    }
+
+                    // Refresh expired credentials.
+                    if (!$creds->isExpired()) {
+                        return $creds;
+                    }
+                    // Refresh the result and forward the promise.
+                    return $result = $provider();
+                });
+        };
+    }
+
+    /**
+     * Wraps a credential provider and saves provided credentials in an
+     * instance of Aws\CacheInterface. Forwards calls when no credentials found
+     * in cache and updates cache with the results.
+     *
+     * Defaults to using a simple file-based cache when none provided.
+     *
+     * @param callable $provider Credentials provider function to wrap
+     * @param CacheInterface $cache Cache to store credentials
+     * @param string|null $cacheKey (optional) Cache key to use
+     *
+     * @return callable
+     */
+    public static function cache(
+        callable $provider,
+        CacheInterface $cache,
+        $cacheKey = null
+    ) {
+        $cacheKey = $cacheKey ?: 'aws_cached_credentials';
+
+        return function () use ($provider, $cache, $cacheKey) {
+            $found = $cache->get($cacheKey);
+            if ($found instanceof CredentialsInterface && !$found->isExpired()) {
+                return Promise\promise_for($found);
+            }
+
+            return $provider()
+                ->then(function (CredentialsInterface $creds) use (
+                    $cache,
+                    $cacheKey
+                ) {
+                    $cache->set(
+                        $cacheKey,
+                        $creds,
+                        null === $creds->getExpiration() ?
+                            0 : $creds->getExpiration() - time()
+                    );
+
+                    return $creds;
+                });
+        };
+    }
+
+    /**
+     * Provider that creates credentials from environment variables
+     * AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY, and AWS_SESSION_TOKEN.
+     *
+     * @return callable
+     */
+    public static function env()
+    {
+        return function () {
+            // Use credentials from environment variables, if available
+            $key = getenv(self::ENV_KEY);
+            $secret = getenv(self::ENV_SECRET);
+            if ($key && $secret) {
+                return Promise\promise_for(
+                    new Credentials($key, $secret, getenv(self::ENV_SESSION) ?: NULL)
+                );
+            }
+
+            return self::reject('Could not find environment variable '
+                . 'credentials in ' . self::ENV_KEY . '/' . self::ENV_SECRET);
+        };
+    }
+
+    /**
+     * Credential provider that creates credentials using instance profile
+     * credentials.
+     *
+     * @param array $config Array of configuration data.
+     *
+     * @return InstanceProfileProvider
+     * @see Aws\Credentials\InstanceProfileProvider for $config details.
+     */
+    public static function instanceProfile(array $config = [])
+    {
+        return new InstanceProfileProvider($config);
+    }
+
+    /**
+     * Credential provider that creates credentials using
+     * ecs credentials by a GET request, whose uri is specified
+     * by environment variable
+     *
+     * @param array $config Array of configuration data.
+     *
+     * @return EcsCredentialProvider
+     * @see Aws\Credentials\EcsCredentialProvider for $config details.
+     */
+    public static function ecsCredentials(array $config = [])
+    {
+        return new EcsCredentialProvider($config);
+    }
+
+    /**
+     * Credential provider that creates credentials using assume role
+     *
+     * @param array $config Array of configuration data
+     * @return callable
+     * @see Aws\Credentials\AssumeRoleCredentialProvider for $config details.
+     */
+    public static function assumeRole(array $config=[])
+    {
+        return new AssumeRoleCredentialProvider($config);
+    }
+
+    /**
+     * Credentials provider that creates credentials using an ini file stored
+     * in the current user's home directory.
+     *
+     * @param string|null $profile  Profile to use. If not specified will use
+     *                              the "default" profile in "~/.aws/credentials".
+     * @param string|null $filename If provided, uses a custom filename rather
+     *                              than looking in the home directory.
+     *
+     * @return callable
+     */
+    public static function ini($profile = null, $filename = null)
+    {
+        $filename = $filename ?: (self::getHomeDir() . '/.aws/credentials');
+        $profile = $profile ?: (getenv(self::ENV_PROFILE) ?: 'default');
+
+        return function () use ($profile, $filename) {
+            if (!is_readable($filename)) {
+                return self::reject("Cannot read credentials from $filename");
+            }
+            $data = parse_ini_file($filename, true);
+            if ($data === false) {
+                return self::reject("Invalid credentials file: $filename");
+            }
+            if (!isset($data[$profile])) {
+                return self::reject("'$profile' not found in credentials file");
+            }
+            if (!isset($data[$profile]['aws_access_key_id'])
+                || !isset($data[$profile]['aws_secret_access_key'])
+            ) {
+                return self::reject("No credentials present in INI profile "
+                    . "'$profile' ($filename)");
+            }
+
+            if (empty($data[$profile]['aws_session_token'])) {
+                $data[$profile]['aws_session_token']
+                    = isset($data[$profile]['aws_security_token'])
+                        ? $data[$profile]['aws_security_token']
+                        : null;
+            }
+
+            return Promise\promise_for(
+                new Credentials(
+                    $data[$profile]['aws_access_key_id'],
+                    $data[$profile]['aws_secret_access_key'],
+                    $data[$profile]['aws_session_token']
+                )
+            );
+        };
+    }
+
+    /**
+     * Local credential providers returns a list of local credential providers
+     * in following order:
+     *  - credentials from environment variables
+     *  - 'default' profile in '.aws/credentials' file
+     *  - 'profile default' profile in '.aws/config' file
+     *
+     * @return array
+     */
+    private static function localCredentialProviders()
+    {
+        return [
+            self::env(),
+            self::ini(),
+            self::ini('profile default', self::getHomeDir() . '/.aws/config')
+        ];
+    }
+
+    /**
+     * Remote credential providers returns a list of credentials providers
+     * for the remote endpoints such as EC2 or ECS Roles.
+     *
+     * @param array $config Array of configuration data.
+     *
+     * @return array
+     * @see Aws\Credentials\InstanceProfileProvider for $config details.
+     * @see Aws\Credentials\EcsCredentialProvider for $config details.
+     */
+    private static function remoteCredentialProviders(array $config = [])
+    {
+        if (!empty(getenv(EcsCredentialProvider::ENV_URI))) {
+            $providers['ecs'] = self::ecsCredentials($config);
+        }
+        $providers['instance'] = self::instanceProfile($config);
+
+        if (isset($config['credentials'])
+            && $config['credentials'] instanceof CacheInterface
+        ) {
+            foreach ($providers as $key => $provider) {
+                $providers[$key] = self::cache(
+                    $provider,
+                    $config['credentials'],
+                    'aws_cached_' . $key . '_credentials'
+                );
+            }
+        }
+
+        return $providers;
+    }
+
+    /**
+     * Gets the environment's HOME directory if available.
+     *
+     * @return null|string
+     */
+    private static function getHomeDir()
+    {
+        // On Linux/Unix-like systems, use the HOME environment variable
+        if ($homeDir = getenv('HOME')) {
+            return $homeDir;
+        }
+
+        // Get the HOMEDRIVE and HOMEPATH values for Windows hosts
+        $homeDrive = getenv('HOMEDRIVE');
+        $homePath = getenv('HOMEPATH');
+
+        return ($homeDrive && $homePath) ? $homeDrive . $homePath : null;
+    }
+
+    private static function reject($msg)
+    {
+        return new Promise\RejectedPromise(new CredentialsException($msg));
+    }
+}

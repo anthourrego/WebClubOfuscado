@@ -1,196 +1,183 @@
-<?php //ICB0 56:0 71:1c5f                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+/**
+ * @package dompdf
+ * @link    http://dompdf.github.com/
+ * @author  Benj Carson <benjcarson@digitaljunkies.ca>
+ * @author  Helmut Tischer <htischer@weihenstephan.org>
+ * @author  Fabien Ménager <fabien.menager@gmail.com>
+ * @license http://www.gnu.org/copyleft/lesser.html GNU Lesser General Public License
+ */
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * Static class that resolves image urls and downloads and caches
+ * remote images if required.
+ *
+ * @access private
+ * @package dompdf
+ */
+class Image_Cache {
 
-?>
-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
-yFC=
+  /**
+   * Array of downloaded images.  Cached so that identical images are
+   * not needlessly downloaded.
+   *
+   * @var array
+   */
+  static protected $_cache = array();
+  
+  /**
+   * The url to the "broken image" used when images can't be loade
+   * 
+   * @var string
+   */
+  public static $broken_image;
+
+  /**
+   * Resolve and fetch an image for use.
+   *
+   * @param string $url        The url of the image
+   * @param string $protocol   Default protocol if none specified in $url
+   * @param string $host       Default host if none specified in $url
+   * @param string $base_path  Default path if none specified in $url
+   * @param DOMPDF $dompdf     The DOMPDF instance
+   *
+   * @throws DOMPDF_Image_Exception
+   * @return array             An array with two elements: The local path to the image and the image extension
+   */
+  static function resolve_url($url, $protocol, $host, $base_path, DOMPDF $dompdf) {
+    $parsed_url = explode_url($url);
+    $message = null;
+
+    $remote = ($protocol && $protocol !== "file://") || ($parsed_url['protocol'] != "");
+    
+    $data_uri = strpos($parsed_url['protocol'], "data:") === 0;
+    $full_url = null;
+    $enable_remote = $dompdf->get_option("enable_remote");
+
+    try {
+      
+      // Remote not allowed and is not DataURI
+      if ( !$enable_remote && $remote && !$data_uri ) {
+        throw new DOMPDF_Image_Exception("DOMPDF_ENABLE_REMOTE is set to FALSE");
+      } 
+      
+      // Remote allowed or DataURI
+      else if ( $enable_remote && $remote || $data_uri ) {
+        // Download remote files to a temporary directory
+        $full_url = build_url($protocol, $host, $base_path, $url);
+  
+        // From cache
+        if ( isset(self::$_cache[$full_url]) ) {
+          $resolved_url = self::$_cache[$full_url];
+        }
+        
+        // From remote
+        else {
+          $tmp_dir = $dompdf->get_option("temp_dir");
+          $resolved_url = tempnam($tmp_dir, "ca_dompdf_img_");
+          $image = "";
+
+          if ($data_uri) {
+            if ($parsed_data_uri = parse_data_uri($url)) {
+              $image = $parsed_data_uri['data'];
+            }
+          }
+          else {
+            set_error_handler("record_warnings");
+            $image = file_get_contents($full_url);
+            restore_error_handler();
+          }
+  
+          // Image not found or invalid
+          if ( strlen($image) == 0 ) {
+            $msg = ($data_uri ? "Data-URI could not be parsed" : "Image not found");
+            throw new DOMPDF_Image_Exception($msg);
+          }
+          
+          // Image found, put in cache and process
+          else {
+            //e.g. fetch.php?media=url.jpg&cache=1
+            //- Image file name might be one of the dynamic parts of the url, don't strip off!
+            //- a remote url does not need to have a file extension at all
+            //- local cached file does not have a matching file extension
+            //Therefore get image type from the content
+            file_put_contents($resolved_url, $image);
+          }
+        }
+      }
+      
+      // Not remote, local image
+      else {
+        $resolved_url = build_url($protocol, $host, $base_path, $url);
+      }
+  
+      // Check if the local file is readable
+      if ( !is_readable($resolved_url) || !filesize($resolved_url) ) {
+        throw new DOMPDF_Image_Exception("Image not readable or empty");
+      }
+      
+      // Check is the file is an image
+      else {
+        list($width, $height, $type) = dompdf_getimagesize($resolved_url);
+        
+        // Known image type
+        if ( $width && $height && in_array($type, array(IMAGETYPE_GIF, IMAGETYPE_PNG, IMAGETYPE_JPEG, IMAGETYPE_BMP)) ) {
+          //Don't put replacement image into cache - otherwise it will be deleted on cache cleanup.
+          //Only execute on successful caching of remote image.
+          if ( $enable_remote && $remote || $data_uri ) {
+            self::$_cache[$full_url] = $resolved_url;
+          }
+        }
+        
+        // Unknown image type
+        else {
+          throw new DOMPDF_Image_Exception("Image type unknown");
+        }
+      }
+    }
+    catch(DOMPDF_Image_Exception $e) {
+      $resolved_url = self::$broken_image;
+      $type = IMAGETYPE_PNG;
+      $message = $e->getMessage()." \n $url";
+    }
+
+    return array($resolved_url, $type, $message);
+  }
+
+  /**
+   * Unlink all cached images (i.e. temporary images either downloaded
+   * or converted)
+   */
+  static function clear() {
+    if ( empty(self::$_cache) || DEBUGKEEPTEMP ) return;
+    
+    foreach ( self::$_cache as $file ) {
+      if (DEBUGPNG) print "[clear unlink $file]";
+      unlink($file);
+    }
+    
+    self::$_cache = array();
+  }
+  
+  static function detect_type($file) {
+    list(, , $type) = dompdf_getimagesize($file);
+    return $type;
+  }
+  
+  static function type_to_ext($type) {
+    $image_types = array(
+      IMAGETYPE_GIF  => "gif",
+      IMAGETYPE_PNG  => "png",
+      IMAGETYPE_JPEG => "jpeg",
+      IMAGETYPE_BMP  => "bmp",
+    );
+    
+    return (isset($image_types[$type]) ? $image_types[$type] : null);
+  }
+  
+  static function is_broken($url) {
+    return $url === self::$broken_image;
+  }
+}
+
+Image_Cache::$broken_image = DOMPDF_LIB_DIR . "/res/broken_image.png";

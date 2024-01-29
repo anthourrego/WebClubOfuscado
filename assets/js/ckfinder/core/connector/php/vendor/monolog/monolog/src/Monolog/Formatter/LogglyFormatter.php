@@ -1,78 +1,47 @@
-<?php //ICB0 56:0 71:cc8                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-IClQlLdgb+O==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/*
+ * This file is part of the Monolog package.
+ *
+ * (c) Jordi Boggiano <j.boggiano@seld.be>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
 
-?>
-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
+namespace Monolog\Formatter;
+
+/**
+ * Encodes message information into JSON in a format compatible with Loggly.
+ *
+ * @author Adam Pancutt <adam@pancutt.com>
+ */
+class LogglyFormatter extends JsonFormatter
+{
+    /**
+     * Overrides the default batch mode to new lines for compatibility with the
+     * Loggly bulk API.
+     *
+     * @param int $batchMode
+     */
+    public function __construct($batchMode = self::BATCH_MODE_NEWLINES, $appendNewline = false)
+    {
+        parent::__construct($batchMode, $appendNewline);
+    }
+
+    /**
+     * Appends the 'timestamp' parameter for indexing by Loggly.
+     *
+     * @see https://www.loggly.com/docs/automated-parsing/#json
+     * @see \Monolog\Formatter\JsonFormatter::format()
+     */
+    public function format(array $record)
+    {
+        if (isset($record["datetime"]) && ($record["datetime"] instanceof \DateTime)) {
+            $record["timestamp"] = $record["datetime"]->format("Y-m-d\TH:i:s.uO");
+            // TODO 2.0 unset the 'datetime' parameter, retained for BC
+        }
+
+        return parent::format($record);
+    }
+}

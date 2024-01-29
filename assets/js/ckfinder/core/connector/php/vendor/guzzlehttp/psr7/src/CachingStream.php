@@ -1,203 +1,138 @@
-<?php //ICB0 56:0 71:1da8                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace GuzzleHttp\Psr7;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-vOcHXRFpq1DZlAekJb0==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use Psr\Http\Message\StreamInterface;
 
-?>
-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
-YhMFVe5XNhEHJJjaaHUj8ixLSW==
+/**
+ * Stream decorator that can cache previously read bytes from a sequentially
+ * read stream.
+ */
+class CachingStream implements StreamInterface
+{
+    use StreamDecoratorTrait;
+
+    /** @var StreamInterface Stream being wrapped */
+    private $remoteStream;
+
+    /** @var int Number of bytes to skip reading due to a write on the buffer */
+    private $skipReadBytes = 0;
+
+    /**
+     * We will treat the buffer object as the body of the stream
+     *
+     * @param StreamInterface $stream Stream to cache
+     * @param StreamInterface $target Optionally specify where data is cached
+     */
+    public function __construct(
+        StreamInterface $stream,
+        StreamInterface $target = null
+    ) {
+        $this->remoteStream = $stream;
+        $this->stream = $target ?: new Stream(fopen('php://temp', 'r+'));
+    }
+
+    public function getSize()
+    {
+        return max($this->stream->getSize(), $this->remoteStream->getSize());
+    }
+
+    public function rewind()
+    {
+        $this->seek(0);
+    }
+
+    public function seek($offset, $whence = SEEK_SET)
+    {
+        if ($whence == SEEK_SET) {
+            $byte = $offset;
+        } elseif ($whence == SEEK_CUR) {
+            $byte = $offset + $this->tell();
+        } elseif ($whence == SEEK_END) {
+            $size = $this->remoteStream->getSize();
+            if ($size === null) {
+                $size = $this->cacheEntireStream();
+            }
+            $byte = $size + $offset;
+        } else {
+            throw new \InvalidArgumentException('Invalid whence');
+        }
+
+        $diff = $byte - $this->stream->getSize();
+
+        if ($diff > 0) {
+            // Read the remoteStream until we have read in at least the amount
+            // of bytes requested, or we reach the end of the file.
+            while ($diff > 0 && !$this->remoteStream->eof()) {
+                $this->read($diff);
+                $diff = $byte - $this->stream->getSize();
+            }
+        } else {
+            // We can just do a normal seek since we've already seen this byte.
+            $this->stream->seek($byte);
+        }
+    }
+
+    public function read($length)
+    {
+        // Perform a regular read on any previously read data from the buffer
+        $data = $this->stream->read($length);
+        $remaining = $length - strlen($data);
+
+        // More data was requested so read from the remote stream
+        if ($remaining) {
+            // If data was written to the buffer in a position that would have
+            // been filled from the remote stream, then we must skip bytes on
+            // the remote stream to emulate overwriting bytes from that
+            // position. This mimics the behavior of other PHP stream wrappers.
+            $remoteData = $this->remoteStream->read(
+                $remaining + $this->skipReadBytes
+            );
+
+            if ($this->skipReadBytes) {
+                $len = strlen($remoteData);
+                $remoteData = substr($remoteData, $this->skipReadBytes);
+                $this->skipReadBytes = max(0, $this->skipReadBytes - $len);
+            }
+
+            $data .= $remoteData;
+            $this->stream->write($remoteData);
+        }
+
+        return $data;
+    }
+
+    public function write($string)
+    {
+        // When appending to the end of the currently read stream, you'll want
+        // to skip bytes from being read from the remote stream to emulate
+        // other stream wrappers. Basically replacing bytes of data of a fixed
+        // length.
+        $overflow = (strlen($string) + $this->tell()) - $this->remoteStream->tell();
+        if ($overflow > 0) {
+            $this->skipReadBytes += $overflow;
+        }
+
+        return $this->stream->write($string);
+    }
+
+    public function eof()
+    {
+        return $this->stream->eof() && $this->remoteStream->eof();
+    }
+
+    /**
+     * Close both the remote stream and buffer stream
+     */
+    public function close()
+    {
+        $this->remoteStream->close() && $this->stream->close();
+    }
+
+    private function cacheEntireStream()
+    {
+        $target = new FnStream(['write' => 'strlen']);
+        copy_to_stream($this, $target);
+
+        return $this->tell();
+    }
+}

@@ -1,50 +1,151 @@
-<?php //ICB0 56:0 71:8ae                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\Lightsail;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cPrO5exCVq1U4vhusaDG7k+Z/Pwmv3EUIJhsuyocKKin9TGK3uIuPpP2W0R+G4SFdmRDWKglw
-SW+OxcCWmWQqXbPFHD7COCc5zvlc/9HdxNBvPi2rrJhd2yvx2pbRzxl4BzF6CSjwq+vn2OiMDl/R
-A+yi95+rWdqWQzXUrArzBOFJETNX9Hs5B4JTgC5qbiMExVJ7WMmBiFexnzUwjcQQaTs5eprwHRz7
-0qoFvoav3SepHbMA20hwtn+3Gpew0aSJhmsuxf02/8wULxI9snptqslkK0Hjbud/dH2CHrZbdkRv
-VJDK/xZXCcpowF+edW2KqzYP2D9ufss4bINlDMhnJcTZwZNIj3uPwvZSZjfLs165HJPlnFoOhjyW
-O419Lw7mkdMjGaLTqYNKqlyZbqF98e6VmkAWvOW4vRK02iRecqdhic9ji+H0fypoJa3av5anKSl0
-y/RGMwVHrIixsXty44yhlKY42/snbiCXruojurH1k1IYZNW4OztxBYIjfugp9R814Vum4qRbz4cQ
-ymVxmo9tsEa52Nonp5sxYL+D9ChcT0yoxyMye+nFX32PJCmH6Fc4jVe7P8Hgqmpgo5Hjt27oibOe
-ZGQPsR+wnVojlVxvs6UG4C3XuV6mBeUqmoggjxNPHrAX2FMVClYQKL1B+Sr1dkHQ28syBUGCfLBc
-KpY1XBGli7gj6WOOp9O547ZTyatnfTqMB2kEnfelejLeQutrwEfjaoLx6Y1cJVGeHaGKX9XkucTt
-KeLD7F2ga1XB9M/BxlC1yEm4jA1mjfbYRn1Uk5KIMyePmdH8tFZfbdYegNrMILoPR6WRlCXn2CLh
-FyBnPQb1iggkXVyWvQr5X3Q1ZR7Aj/sI7ZjT66VlgLmwcej4C2PesKVHm5C3YKfmVzz0khbRHfaT
-ZXp+6RAk60/jQwtSt27DDt6toxNv2QtFUdntTk5T+aQJ/814Qoscnl2nAz6dgdfwNlz4aRt89YAq
-mIzzRb7f80/AfjnUOf82uaSTT+wQdyg0nn8uWl4hVrdfgGuUMnLyX6eKEyNKmPp7XBbEzrTuEJLe
-sic0gMP08GsOo8pc0mFIz+DEjt1+0qVtQdkIJ6OWi5BCFREku8Qs7eLGZcx9JQLw+XWwOxV4Nw3k
-EuubhuA6OaU14ciG1PR2Zek+RJb7OienRuG1PUeawYS8Fv44Pe/tVot8TG5wf4/bb48d21KKR73r
-udeNY0j8KT+sIOYXKIW1arM31GMLKTQILePo/Ca4f+Kap344X+JWj65wXF9S+lKR6CqJq9fSXtYA
-S55resWLbSJMaTScaBdg9CLszlGYZVV9eB682Yi==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use Aws\AwsClient;
 
-?>
-HR+cPvVzhZ3HMHC7h4Kx4/QlZqLkNygPfa33VgkuM4553qvgMhz70Y6W5zoZxr6eyAo/FUbT9YWM
-xBO0tCIMBaYIiAY0ZHSo67sVts0fxr1RlosDTWDaIzrWcRIMvjx5uEC122ePzVR+0q01Tq5sN0Mk
-JmvBnBOAE0jbCHRiVmLPgs1/XpTzT3ZAUEY4LrWYZwSqtqxit3CzrRFLvM4d/vS+imjCuTAXMUIE
-lLybzhmaZKYeSJrp0zZWo3KspZHFWuUhge4bbeoo5/SbFQn/C5mQ1EM713HZOlc/LaFLllpXGuCM
-Cd1RdS07ugCfVVAuMGsJ9Hdi/JdxvhhhlVmsbsocRPzJKlMsMu2iByB2ei0C+nJxEJZoWJ3s+zzH
-Nkls8tvBNZh2raSN4O++6usHYsvmSgumDFfLRabWq3vAotadRx30/PPVlI4E26UILv5ExGg+bDes
-kOERjeAHkVANNLgbon6bE8APjdxVZFZihF3TeWiFamKNmfpLVioS8++l0YdBR76R/cvXEIeoMOvF
-Ol059MTGYxdMF/CiNpNwuefZzEvjhVHnnHn81YRefrH1q/BKIPBcIK+gmCh8AqgqcAiGquB2dyPc
-IjpPCWqjYepVYjUGXmbPrZElfV/CHIisNX5LeM9/hmwzvL4tS6tcoW3nPt23ZSFoCpy+rV2zeeK4
-3ylKqQ8rynBDA3DQ5FwoQkZ2LBV2C8Uh4ZJqEF++W6e+Uv6DHCS4+HXJUixND5kUmLIToUm/zy9G
-A/XqjLRo+Yf1IE/xbwz1tLgFxDml+DJtALfpDw2P2EbJCJaCAqfDGvhyXLT63Bjk1xsaWaAge717
-Nc7ssd6NjAe/LYcgBj3GEYaPBw0kk4a2KkQ5dPXF2fKz1j3Ja0c97PRfSr+MPTljbnlYADNoq0fG
-ppPGIpFTmeoReM16uOpaAPehO/7gMzxd+5BfSuKJ06wUUEqTzK1uebYqzI/vM1gJYbxlafK/j1DK
-Z3bTmwmSkV229V/aWcboBhhMnF/wi63NcL/UIZr6lpri+1JBvK6sdZMsq/jG6VTDvzmrcFWSohqv
-Nfqk8W1+Zs5KVRacxhSSK2xg/D0qNgAmN3yF3fFSVnx8V3AAkV6QTFTsHeyc6yPI+IgHNISIHAHn
-g3RdKwvfWMI9OCBzoFlrrz4VFl2Ct1DJV3RCMrwZWSeHIUyLN66xsb6aZ4jRfmtqZpfgUZQWcxce
-AKfcSIoVNN1ilz9gBgu0i8ra14KS3GyYcVMsQHCztA2Et2jmZ5TZsvEaxrWGfEX8fAm/E/tTBBU3
-7p4tKIDzeW1sIA8z25MiCkJ+9qrWM+00829igds3qWz1JbkzhDmF9yFyHiL62xtbCluQPDXPBgOM
-JD1m0vuN8ff4Zo0//yad2+YbVWsLNQ5DdHL8
+/**
+ * This client is used to interact with the **Amazon Lightsail** service.
+ * @method \Aws\Result allocateStaticIp(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise allocateStaticIpAsync(array $args = [])
+ * @method \Aws\Result attachDisk(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise attachDiskAsync(array $args = [])
+ * @method \Aws\Result attachInstancesToLoadBalancer(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise attachInstancesToLoadBalancerAsync(array $args = [])
+ * @method \Aws\Result attachLoadBalancerTlsCertificate(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise attachLoadBalancerTlsCertificateAsync(array $args = [])
+ * @method \Aws\Result attachStaticIp(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise attachStaticIpAsync(array $args = [])
+ * @method \Aws\Result closeInstancePublicPorts(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise closeInstancePublicPortsAsync(array $args = [])
+ * @method \Aws\Result createDisk(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createDiskAsync(array $args = [])
+ * @method \Aws\Result createDiskFromSnapshot(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createDiskFromSnapshotAsync(array $args = [])
+ * @method \Aws\Result createDiskSnapshot(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createDiskSnapshotAsync(array $args = [])
+ * @method \Aws\Result createDomain(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createDomainAsync(array $args = [])
+ * @method \Aws\Result createDomainEntry(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createDomainEntryAsync(array $args = [])
+ * @method \Aws\Result createInstanceSnapshot(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createInstanceSnapshotAsync(array $args = [])
+ * @method \Aws\Result createInstances(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createInstancesAsync(array $args = [])
+ * @method \Aws\Result createInstancesFromSnapshot(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createInstancesFromSnapshotAsync(array $args = [])
+ * @method \Aws\Result createKeyPair(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createKeyPairAsync(array $args = [])
+ * @method \Aws\Result createLoadBalancer(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createLoadBalancerAsync(array $args = [])
+ * @method \Aws\Result createLoadBalancerTlsCertificate(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createLoadBalancerTlsCertificateAsync(array $args = [])
+ * @method \Aws\Result deleteDisk(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteDiskAsync(array $args = [])
+ * @method \Aws\Result deleteDiskSnapshot(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteDiskSnapshotAsync(array $args = [])
+ * @method \Aws\Result deleteDomain(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteDomainAsync(array $args = [])
+ * @method \Aws\Result deleteDomainEntry(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteDomainEntryAsync(array $args = [])
+ * @method \Aws\Result deleteInstance(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteInstanceAsync(array $args = [])
+ * @method \Aws\Result deleteInstanceSnapshot(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteInstanceSnapshotAsync(array $args = [])
+ * @method \Aws\Result deleteKeyPair(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteKeyPairAsync(array $args = [])
+ * @method \Aws\Result deleteLoadBalancer(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteLoadBalancerAsync(array $args = [])
+ * @method \Aws\Result deleteLoadBalancerTlsCertificate(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteLoadBalancerTlsCertificateAsync(array $args = [])
+ * @method \Aws\Result detachDisk(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise detachDiskAsync(array $args = [])
+ * @method \Aws\Result detachInstancesFromLoadBalancer(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise detachInstancesFromLoadBalancerAsync(array $args = [])
+ * @method \Aws\Result detachStaticIp(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise detachStaticIpAsync(array $args = [])
+ * @method \Aws\Result downloadDefaultKeyPair(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise downloadDefaultKeyPairAsync(array $args = [])
+ * @method \Aws\Result getActiveNames(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getActiveNamesAsync(array $args = [])
+ * @method \Aws\Result getBlueprints(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getBlueprintsAsync(array $args = [])
+ * @method \Aws\Result getBundles(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getBundlesAsync(array $args = [])
+ * @method \Aws\Result getDisk(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getDiskAsync(array $args = [])
+ * @method \Aws\Result getDiskSnapshot(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getDiskSnapshotAsync(array $args = [])
+ * @method \Aws\Result getDiskSnapshots(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getDiskSnapshotsAsync(array $args = [])
+ * @method \Aws\Result getDisks(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getDisksAsync(array $args = [])
+ * @method \Aws\Result getDomain(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getDomainAsync(array $args = [])
+ * @method \Aws\Result getDomains(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getDomainsAsync(array $args = [])
+ * @method \Aws\Result getInstance(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getInstanceAsync(array $args = [])
+ * @method \Aws\Result getInstanceAccessDetails(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getInstanceAccessDetailsAsync(array $args = [])
+ * @method \Aws\Result getInstanceMetricData(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getInstanceMetricDataAsync(array $args = [])
+ * @method \Aws\Result getInstancePortStates(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getInstancePortStatesAsync(array $args = [])
+ * @method \Aws\Result getInstanceSnapshot(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getInstanceSnapshotAsync(array $args = [])
+ * @method \Aws\Result getInstanceSnapshots(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getInstanceSnapshotsAsync(array $args = [])
+ * @method \Aws\Result getInstanceState(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getInstanceStateAsync(array $args = [])
+ * @method \Aws\Result getInstances(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getInstancesAsync(array $args = [])
+ * @method \Aws\Result getKeyPair(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getKeyPairAsync(array $args = [])
+ * @method \Aws\Result getKeyPairs(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getKeyPairsAsync(array $args = [])
+ * @method \Aws\Result getLoadBalancer(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getLoadBalancerAsync(array $args = [])
+ * @method \Aws\Result getLoadBalancerMetricData(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getLoadBalancerMetricDataAsync(array $args = [])
+ * @method \Aws\Result getLoadBalancerTlsCertificates(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getLoadBalancerTlsCertificatesAsync(array $args = [])
+ * @method \Aws\Result getLoadBalancers(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getLoadBalancersAsync(array $args = [])
+ * @method \Aws\Result getOperation(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getOperationAsync(array $args = [])
+ * @method \Aws\Result getOperations(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getOperationsAsync(array $args = [])
+ * @method \Aws\Result getOperationsForResource(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getOperationsForResourceAsync(array $args = [])
+ * @method \Aws\Result getRegions(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getRegionsAsync(array $args = [])
+ * @method \Aws\Result getStaticIp(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getStaticIpAsync(array $args = [])
+ * @method \Aws\Result getStaticIps(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getStaticIpsAsync(array $args = [])
+ * @method \Aws\Result importKeyPair(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise importKeyPairAsync(array $args = [])
+ * @method \Aws\Result isVpcPeered(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise isVpcPeeredAsync(array $args = [])
+ * @method \Aws\Result openInstancePublicPorts(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise openInstancePublicPortsAsync(array $args = [])
+ * @method \Aws\Result peerVpc(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise peerVpcAsync(array $args = [])
+ * @method \Aws\Result putInstancePublicPorts(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise putInstancePublicPortsAsync(array $args = [])
+ * @method \Aws\Result rebootInstance(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise rebootInstanceAsync(array $args = [])
+ * @method \Aws\Result releaseStaticIp(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise releaseStaticIpAsync(array $args = [])
+ * @method \Aws\Result startInstance(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise startInstanceAsync(array $args = [])
+ * @method \Aws\Result stopInstance(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise stopInstanceAsync(array $args = [])
+ * @method \Aws\Result unpeerVpc(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise unpeerVpcAsync(array $args = [])
+ * @method \Aws\Result updateDomainEntry(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateDomainEntryAsync(array $args = [])
+ * @method \Aws\Result updateLoadBalancerAttribute(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateLoadBalancerAttributeAsync(array $args = [])
+ */
+class LightsailClient extends AwsClient {}

@@ -1,69 +1,116 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
+/*
+ * This file is part of the Symfony package.
+ *
+ * (c) Fabien Potencier <fabien@symfony.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+namespace Symfony\Component\HttpFoundation\Session\Storage\Handler;
+
+/**
+ * @author Drak <drak@zikula.org>
+ */
+class MemcacheSessionHandler implements \SessionHandlerInterface
+{
+    private $memcache;
+
+    /**
+     * @var int Time to live in seconds
+     */
+    private $ttl;
+
+    /**
+     * @var string Key prefix for shared environments
+     */
+    private $prefix;
+
+    /**
+     * Constructor.
+     *
+     * List of available options:
+     *  * prefix: The prefix to use for the memcache keys in order to avoid collision
+     *  * expiretime: The time to live in seconds
+     *
+     * @param \Memcache $memcache A \Memcache instance
+     * @param array     $options  An associative array of Memcache options
+     *
+     * @throws \InvalidArgumentException When unsupported options are passed
+     */
+    public function __construct(\Memcache $memcache, array $options = array())
+    {
+        if ($diff = array_diff(array_keys($options), array('prefix', 'expiretime'))) {
+            throw new \InvalidArgumentException(sprintf(
+                'The following options are not supported "%s"', implode(', ', $diff)
+            ));
+        }
+
+        $this->memcache = $memcache;
+        $this->ttl = isset($options['expiretime']) ? (int) $options['expiretime'] : 86400;
+        $this->prefix = isset($options['prefix']) ? $options['prefix'] : 'sf2s';
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function open($savePath, $sessionName)
+    {
+        return true;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function close()
+    {
+        return true;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function read($sessionId)
+    {
+        return $this->memcache->get($this->prefix.$sessionId) ?: '';
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function write($sessionId, $data)
+    {
+        return $this->memcache->set($this->prefix.$sessionId, $data, 0, time() + $this->ttl);
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function destroy($sessionId)
+    {
+        $this->memcache->delete($this->prefix.$sessionId);
+
+        return true;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function gc($maxlifetime)
+    {
+        // not required here because memcache will auto expire the records anyhow.
+        return true;
+    }
+
+    /**
+     * Return a Memcache instance.
+     *
+     * @return \Memcache
+     */
+    protected function getMemcache()
+    {
+        return $this->memcache;
+    }
+}

@@ -1,79 +1,82 @@
-<?php //ICB0 56:0 71:c7b                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-l0YZCDb8Q0===
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Common\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2017 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+ 
+namespace MicrosoftAzure\Storage\Common\Models;
 
-?>
-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
+use MicrosoftAzure\Storage\Common\Internal\Validate;
+use MicrosoftAzure\Storage\Common\Internal\Resources;
+use MicrosoftAzure\Storage\Common\LocationMode;
+
+/**
+ * Provides functionality and data structure for continuation token.
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Common\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2017 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+class ContinuationToken
+{
+    private $location;
+
+    public function __construct(
+        $location = ''
+    ) {
+        $this->setLocation($location);
+    }
+
+    /**
+     * Setter for location
+     *
+     * @param string $location the location to be set.
+     */
+    public function setLocation($location)
+    {
+        Validate::canCastAsString($location, 'location');
+        Validate::isTrue(
+            $location == LocationMode::PRIMARY_ONLY ||
+            $location == LocationMode::SECONDARY_ONLY ||
+            $location == '',
+            sprintf(
+                Resources::INVALID_VALUE_MSG,
+                'location',
+                LocationMode::PRIMARY_ONLY . ' or ' . LocationMode::SECONDARY_ONLY
+            )
+        );
+
+        $this->location = $location;
+    }
+
+    /**
+     * Getter for location
+     *
+     * @return string
+     */
+    public function getLocation()
+    {
+        return $this->location;
+    }
+}

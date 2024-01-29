@@ -1,256 +1,256 @@
-<?php //ICB0 56:0 71:255d                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\Sqs;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use Aws\AwsClient;
+use Aws\CommandInterface;
+use Aws\Sqs\Exception\SqsException;
+use GuzzleHttp\Psr7\Uri;
+use GuzzleHttp\Psr7\UriResolver;
+use Psr\Http\Message\RequestInterface;
 
-?>
-HR+cPqj0RqzK7LHX8O7wR6dGD5pZ7EfiaMhlAzWTN+/Hfy6QcSk/heKF3c5h7I+YddpVAyTJbzm/
-w+JR0wQ3KgsMmFcJvPIJubWpXkGA67pTbnI81SmvgObSMzlFoD8WjY2/2c9nGqWPIAKLDk5ajtyP
-TsP7B115B5WliVJzSTS2XW9w9PdQ5HNFa068CTLvynGttJci+l80eNgItQMax9IS4t3/pXQ9DyVO
-pcj+Aui9k8dkzQFkc3fqpbOZkGnFZREieAyh992MZB8NzoKzh7ymN1e4vOS4xMVqXd1DmaBK9GEz
-0vB1TMh/Fmlt6PUx9zlrQaipTc8nlGynzoPc6FcvjfdMFukH998SMVdG7b9G4gDgEMHqIGCWutHU
-n08i3tFXlqBwBMUzvj3kQUtzUCxL6DDTgPDp2EaO96D2L1N2xqxwiuulN3Cv9iOCD1IkIT5vLdpE
-35mYoidIhZTXsWZn9MjDaDLWQTqQ/Zwg3JGQ/d93QJv6qD7uTSJJ//2f1MIim4DrBnj2/37o99pw
-8Fc7pAvaTjVEhqNTtdt7oLZEAPJR2MfwGNeDQwrXkMEPawKnNHlbQMvIJvDktW5irOirVBm2wmVn
-/pMpxxPH3yHe972fkl+XM+DIHs51eeL4/UU9Tz0ZnLDTPvwSi+nP2kcBim7zMDGAQ2c823AmekqN
-64hqO0GU5O6LPJES8gpa0YL7Yf43t9L0xjbtLCnhNC9TwL+rSgp4b4IhO4NJf51qqBFG21Pu4ZKN
-tgfxaIYkMrXrWSQRSHynoA+9G5czM0kwzPs/yT0RZ2/wkuQKgiNkcO24Hj65CnA0Kh5lCzlJw85R
-OrpUL+m2qlJfNJIJ0twbTzaCS09nDeSsG63bYjb6JAKVfLOucHoITxQOute57EqkttI86nSbAr+s
-J4R2Jc2UkSlJWZj3+DbRynKwMBX8391su017NXJlmd+/byuxxjMQT0jMcwPJ7UTqGsC8aXIfpM40
-TGXPfwNgk6jn/pW4kmUW531Rd27aop7iL5OrTfEJ35e18SSjA3ZbzsSn1VeZaH1ay1smrlVOQ7YH
-MhAcjLId1HmlbQzHGTRwOvMKCY7Df1nrh4UCMQqNHDsUUDaxDPx12Kk8qeWemjHOpKI4HH7N3AYo
-gYNV7kaFtU0CdSBqPIdkbPyIUAgArt99/72yI4s/OiA7DEJO/o/WNwj/U0EgUiFrawC8bxMK9OCY
-deW0w2QkuNDI1Q4VdWmz3r6K6VK4CJ/SwkaoBGqHQnXtx6p1xuHsXXkcDHvot40W62SJu6ebOXIX
-lg1vQXggfiWWeetNPKKG1DRPY+Jwcogn5vSWnz5AmRxKtiIJ2tl0VETGdTvmiHekq1qu6KlehcyQ
-cgW/j3r1Cuo4+fcs7sWLLWC47RdnqC0KAkoOLRBSO3yHGttE75TEiFEEdBAeBXEQ7OP1A5Xa1gry
-KxzyM5lPuc8tW5FxRsKwaxSLSiVxywLdFTsItu3biwY2mwaGHxvPCBj7Tyf4UwbyZK6wuToa1nJ2
-KgxyTO5T4jESLFRf6ZM69FFPakA7AKhMMh02cp2Aa+EFSnGk2dZjUMoPlG1gJZI8PMAvInHFKBJh
-dPnIcticDoOqsfy5t2rEaePzjZcbWPECwHjenAKw10ACxAyEyvvHFiVsmOnEmm6GDfMVtEjdpThD
-lO3EN+c6W206Nna7HJsAA/zVf5HAWg3MVNgl4NVTUqFPMi/tJVSzjvs2JNTjE6qZoShqoaC1rfjA
-ZCohDVYPKMHHQiNvY0YzrKC7/z6acChIwrX0Ec3jPCTefmIz+6VX/7xGME5OnoA4rQBy7vdSUUrk
-7lmrOZHCExcdoNvONof7o9S1ghl50FWhAK+qG9NrlQ/jbrND7papDhUCsahAy2M2RuWfb5twjeKi
-6RCIG98NOuFlMYxwrRwu/+qcv2srE50faUoDZ8WpGxzSyISSdz+qGTZA3xfdAVGeTrXz6qmWeiKZ
-GNajXzAttpiiYWaC2PYW2rvOt92JxFNCOCq3/LAsTzCW4NFH4ohQZQuGuz9tjIWTh4tOda0+84FK
-yrkVQZrRcj/zDM41n2fcfUujfg+L6U9bBMxNss7ft1+rrYfEqAGFHskY7usFyQbIMp1l2qjuKa30
-alGCdC974BDwQp4ZSqJK1Ljcl5YG0AAraIoD1VnTHyI6IMLFeZEzsBQV9iLgSk4olBavDuumSVm+
-SgP9T/4HMRmZ7vyKM5GrkICSC7ORKOOko9o3P8Ua1gGQXNEHAgWgKrUakHMyZw/1aiBz4QNy0LYN
-Mbalb7iDW1M5fRYwz/IpdliGVCHfWAQYwM7GT1KTpy0R/fwin1phQVhviRkfPi4nC5MPNNCP4BvR
-NOW4QXAO9osNcyt6xjeFo6Wby57zzLK1lvMNY9SOQWUNhrPCR0dVjutPm4hjaLS2KQ7WsgW4vfe0
-xlQ0YMpcaUkmuIlvC002CuDyZoTnuBLkrWlFD0hnUu5gR4aUvsyKW/Mq5Xk9KjcnJSNQn1lVVXjs
-B52xDrf+WSI8anIgpDyhqVIujq64VxwORoQHOOqw2EDv6MYaeMYVuBrbUhN8Yt/kGVmRw5uIy3EX
-thSmCWMWtooNxSNi45ppguzruvniAYvZ3qjtWXtVMkQ106do2XqKm7z89SsvuZ/lJ/zhta3XEW8u
-Lo8V+IVZgOPnum0IBU//xHidyvcqePOxBceZREyPR2bQpNZu205XYPfrbqiC0c4hI5iHD22SjxeH
-ymahGXQJUXlal5Dr3HxKX/v73zzEMhHj5cGJcVrGq5q1XwdpW8gJE105MKozbOdjMDCVeejTWIsT
-imLV1rzs1BRv8ofjnD0QcWn2SGb40qd4DOh4KNS9v9CUGyY/LfKnyvmvKe73mv1YV7ZqWsnApJXv
-UGHB/ZhT3TsmUnIe8lEiy5tIYkgDYzu1jQ1EhK97oJ8C83ehmZdH47AsKeKEZqHUPjafehJw2J3z
-LL9xbmVZW+8O41wQu5LrJfBTrol8sQU/tixtFfRGwIdsJPZyPI347G97fWIJvOjd8/Fy7vAZn8No
-Y3xW6Zb658QGJ4CfOLi8ubxL8wju1GmJwb1Asl1pDn/R1/yXMyQeylQeXXi8AjG58syu2Eqp6zbI
-K0ID2sUMO2O3zKmlcQS9LM+8rmNx5X5sqb+Z1UPo7j1nQBRr5bE9uySP1wZMYQqbBqh42RwrDeC8
-REzFGVDPpoM9WPyb0kaEJDp9wZ5XzRWoWMRfkmINAOsYdPpXDDzqG3GIiWJjNdbU5QX33NQbBddL
-MFXz2JY/rKyfFnX8IY2rBkVHb4MIql2QtDPHpvXGgFEzdci7efd47FdAOeUlQ5J4U37iyEQakMYK
-rnxEpOqo3uSZrKMDDD4z+ioA8WA5r5HBubh+sNJ3CHCR3wh2TMnImRfzqyLPjuKFNHlpLZ/EOQnt
-7aWF39LockbNRm9EyQMnShYSKrkerE7qGBReZNduSmmQWMJOviIR5F0WpGKJ1xioS7M2zwFanEEs
-WpciN2/yG4KnahdFl1qP2IbuGMoTzBYKSW+jzAvwpEpICJ1cjZdOIU6lcPJzPgMJ8MSWtt3uRi8Z
-kYWiPYX1+DA6cr1C1upaIauZiVSqJTfyL2VVyOqrK7Bl96aeL23jwB423iVqfngIz1najoVdEOSH
-1AZ5qZPx/cvefcELRNwwDuIyQkxgWeDM/GgE1DHOgJMlug+J4an93fcKyVOcYJdqIl9J/Py820Y8
-mvCWd3w7XqM0MYIDYaF4zaZYObHUefqIxcvL2GH6H6+VjDzWhdDalLaI2RApseVkUkDjfvu2U88p
-sHxGUjFLCS+TU0WPrsiENKzQgrJV2VBk55aBLPLC5P7K17YvrzB3x6Wv/z+QLtMHU8bJOVtcTBXt
-onWhcjNOybvABqjUZ9XdphGi6q/Fg7LWoPEHKu78FhG5YHMmdsRo1gZSl/uesj3W0Y5+mp+XgObh
-VfQCW37ISKv5zKoCqFkOTfB/ogPZXwI7i2eXoJDT/UIigDc4s0f4/zK0i2QR89Zi3MhB1yKuFRIl
-ECvsLP891QNkaBtLkHNUIXEY3PPThO+z+dfTsQ5icEzCxz6R1JD9Rm5J1OEJkZaONtItRxhYNAW1
-cvBES5/LD+se9LEgy5PL9lymS2odk9QNnTrD6Izc+DN6AncY00GRI67E9jxXGNcGpgjuhSQOXwJY
-Y6sAbdk+Wz0Z2uhjguhl7XIOn8vg4VBmve278Lcrx55iQ9qoxj8Yw0rcEGlyYtZXB1pILcHSEArG
-Vhb4XUVHNbudl8NDVsE63yHbaPHiT/rTmKkGid48XPuR54j2jDPo4KKo+ak5fsRIbvIKZgoZV1ZQ
-uubE4q/I2QHWtxK0Z48BSH9d/F5GDGBkPb8AZPl3k1775LlASNAWrU1+ZIuNo2voGZqN1PcR1/Ut
-3ihqpE+njsurW9WIDbBs19TIyo1bNJ7OhfHkEFaiYj/KcYRTP7E08ZTJkyj9/rRZ76KqYfiA5AXP
-VsWZJthilEgrnlgAbY3NC0oVkXSWekD+qjZ/grZZc2+F/vIjaP7RHxK5xdGGbZdz/Ya9UPq6Mugg
-MFWiZbgwtf5xglCZLlZCYeZgbSy4fAghv/LtkWJo+3WlBZaHQ9SgKSLDr1ilk+96eEJSWtq9jYew
-jGdPPzGc/heKT1MsHekzn2Zsetwlpx6zj+PETVYjoW7YBDTaYKb3lLEUknOOcf/1ptrmJUrFMjE0
-dN7EA9mtAeJ8BQPGFSdRu3MM39dosmu0ndO7eNsR5vY9UTTsaJYlDKRKEoXg4+cqOSl/Qiw7ViOP
-OTN9jH1lvlnfUpUtisEmYmq3bwBgZUCb3CN/NMarDcikxTWcUeM5PpfgVUT3UiwvLddpNmc5QDiY
-6Y53f0FPeFPSPp3oTjUT2NLydtPY+joBmKRerd/b6vGmRmULL0o0rLxyX/b1eyCSs9tbIFkToXkI
-J8kwbIUtWAFQvw56oHLjbUcjwYSwdZOdwrWhNCdfjFMYBFsx0pDZqvLAl0sgX+2ba80vQ+WQZOvZ
-ZmlhxxPg4NB9Khj3OoxWpytyOXnw2ZOGK8RGz8KKxH6j/Qp4kG9012MJ+nktI1rOLdfcul6OquWw
-QzOIjF+UKsPdYLHOIf4dci0WWxerbD3/WupeOp8YIxn3fP/o8R218MmF+dz1vY5SAssvwzn49pvY
-DF/awkp08SlpYGEs5fHrIbv/UMZgZAzObY+u5gaUoCaO3p6OOi2YEuOHJZ9Zxy3Of6sOl5yLLGqK
-3i2yEM/R+pVxISHZwNvZcACHrOr4rsEHesoj6Lr8LhAIYArV3zx1r3JsX6ECuoP2LcJiVvIuA1C/
-Ndr0mb6U2Rjn+P38HWuC62KDmbr6L89BWTWEoWdWVGVd+8v8Rtkibrovz0sR4Z4SNZKoQaWsJTMf
-yMhXjM2A2YVOfCZs+Sg7GkkTXZvN5xA4wtDt+f1ESDTwQMoOPzqanAiqEBSHV/f34on1XvdANumo
-NIsuk6Vi9kEVOKDv0gAhWM75HMUq215pl5yui2DEND6XcNcXBMqHgDA3SJrM5BIMveIdCq/8W3CB
-R2bz9cslO9UMDG+zWr7NfoNnPpWREtYWuO9EM/z64iyL0RYJt1fPWIIEZa6lenu/cmAF3h5uS+dZ
-yAZmcT/T8G9LZaG6eXu42Jsg6n2JhnBIQ533knQ0EymdR2TwchWnADac7cplTCnlT1X7DwzYePq7
-JYg9jVfEZkMv01kaiVZswaYX9zQhckqWwXpxf/emTeC/jx7Acbuj3R+vDFvTTKdptcwW7p53oVb6
-qYCRmWiLq9Aedq4NE6hWASyIKKkM7dcZ9wIvt6O7EMm8EFisBiwCTktdr57TOvdzNODUkfv+3wWs
-pBSKv7OvGHuN0IC43kvxGztzUH81stSqEcAm6F89+NrZVTA/MXHxK2M13m1OaBZv4WD6PIo60v17
-VAENBH6ibbeNnRodxruHsQQQmkNown93C3fT47sGvsIJm2AlCmteXbtBKaO8z2HdMEwf4K99sUlB
-7zjSfj9bDiyIvYJIHmhn2w+iK5KknAFXH8Z618ARE32VGT1eKblzu1UHNQ9nRfenAEJ1oFs8/oCo
-s3zWL8NaFIg+b1+gGqQH6Dg73uglYKu7DhFTWhjIyafed5jWu+fJ2rLrNC70TvpLbfsLwaA8L5Ax
-Dj7Hd7lq3+b6Q3Ojuu41oUjoEY6kRlTayoku2HYz6Edmb3C/5JGfX8C0q0NbFk1IpL+tFf6Uots3
-0i6iDOdcIN2nexeFwdlqPw36nX2ibdoWTAVbntYn+8q2bIPiodwUKmBSI98Q4mVhurwqKY0rCidM
-YdYsm8ytqHJtwSlb5wMmKieFoViwBaLxIhsYVtCA5sHrAIcaN4xI+mJJe636j3/lS+aZ8gNemndl
-LNf9aOgbhSt46bRB1EmACWcgATH4uR0Rkgyxda9djOFPUAxk5+tjPh6aui2OKf8G25gkw6BS87NP
-HUx2HnQNDB81DA/hW7f2mto/w1c/IsPyNFkgt0zcB9Qxl8QVq4P9qKDNw5tbBwCQl+p0tl4UJxAQ
-Il7fRGfQuC/nEm0OWCwx0sIGY89kWmU6TiHtaZJ+W79U5hQ1uDzYb7On8Y8ltqVwKLA8lbVTgBTP
-cXDifW8WKOpc+mpqeInvOY2J9YuchP6LP6z0BrViQPu0aVOfaH3LWuXWJaFkTXEKdG+iTTH/cvVu
-Q5Xm49pjNkz62eR2LiHW7iHqKmdh6Y+cN4K3c4et9KFt9QxyUud1NAKp6fNbrucyU3KF2ATM1Syp
-nLmkN7IKLn3MJBQNqWvOdnNlMbpt8VPcqqCz5Fs1zJf951VD0Aw9IIaS43JwjABdNMZ7N6mRgMdB
-7clawnumTFNrToXQ3QmKYP14azULRhUCWteIDtKvPqOJwl9QYtjK1UlKheRiv2SHVPzaX9D0DFeL
-SKAdglQKGs27j5PRWNY4qr7NlS4SXK6KlPku12Ji80d4w7HgTEkqskQucAlxQ/r6tFTG+zQNKiHp
-ammLYsrfvZwRKwnfvrwQn4VW4EoY9ZChRV+zqz1wnHt9DD08bItULwoOz/cDS9OvBf7PcMU0xM2k
-Xz7WM8zu62cSTo3dsV4NnRl5bZO7sXkZHkf4inZR45RlxiaP6cDhD4rAYwfdYRjUM3DGRB9w4Fmd
-xXhPnHxuCzV5iCfl1DB/Ju28MOqsvbfOy7Z9MOuXZrZgMgkS5GEFYo6HJzdPtPm/r+0o04a3tI/Z
-GZ+VCAsCZyTlcq+KN1DZz86J9N9imY7P5oa2HDlSMJ8Gr9FizooX2tELHa/D0BkXKGM/ISzpxmTv
-1JBILw4ZlE00XvTU6DLLTlNso6F+QgVCzfNBC/EKdGyopkZehDCir8vrGdjoMEIuNMxL2vM5ue4G
-I1capjEUFoNWcQSxwBtTsFFk1BlvN42UYmx0OW/tR+LDYjrgBF6CvYv0t84ku8RRsoO+mIvedMr2
-yoiD1pH0l64/GCbgk/r3wptbE9pn3+zp3vIM8xPPDtrA5vF4b7Q2YYNFps8KHa2sivxcgr1IMmwA
-YP0NEvlhVyuQPFLQumVKot9sPVMPzST9q/KC4Zx1ykSxT2w7/3z9yxaiMFJL6ZG/HX3/WboBshbL
-GATnt345LcUCCDLV+Tcmg14/hp+Bi17f0BWHr6DL6Pl22a6UCNTo6Pb9Z3KhpajQLi+ZRrCAIeq3
-NJSsHjpmDo+LmWA+iiXeEL9a14AdtUv23INV6haUKD81YqrUcCsp0+4sI1ptCl/cVWMJxpSGJMbB
-4i/t7KyzYv3BkyGhI5VXHgAE6DRtsV+Evoya7jKQsBT5CFOZkl+Apk0/ighQ+jrJTaw++dJ5848t
-kXhCO8JiZgA8qXlifxXwPHiLm7lFwd3PCn3IOAQg2KCQbhzDj33Udf3Hdt9JaZ+hbytlWVk3OVUv
-Ex16tgG4HvEY9uVnT1PWKoVG1Ao7kLnjmqv3yZjvgHj3YOPiQVRuzUh2DmHgqYFK8RLItFJc4wqN
-fGX5RRUupDiMwJdmr7ydyveJEacXEv75jJl5UC8Lqa/ZSkzLMQBc7zlELPlP4nz/zLwLej4uy37d
-I3rGc7DXJ//1Y1sP7NlMG2+OO2NKazC87aMCezIlrnQEJZtCVxFOHJHEziR5th7cTj98ITX9NuXk
-6Np6bO4fNH81QRfAAY4bcyn2NeMtk6TZWqjXkoZGqIQrTim3I0tlMGaDdycIPHNAjG3lZAAy5nFQ
-gCY1kQzdgTFKUb+TzqdKzoaeJSJv9X3BAMfhIMGrzFipNzQtJJXMT86VQKVX0x5xpPFuAnUWUBxo
-2VAsB26DHWwbm7PuFWz3aFr3WgR7IRnTYxFa7mYUJYa1NubwQe1pLJh89PGCZp7Wex41SL9+WuLm
-tXVa7Bm3hZi47UzQz6ucvjGrjnC3uMWN4WC175TsUiui/7xugNbVCagSMsDu/YYDzjri1M6nGcon
-RzgXL2Q4qJUhBfRPYeLgESNMqmrKxwag6zlfiErm8xir7iI2U2WMxpE8M3XCpYCv+2VWkOfeRMm2
-AQ1SDqG0QSTgWd2W0aTYKIlS9QQ9QZduneeJc6PcMT+y6E79iFts96aTya4xPA3iggItQPXHX+W7
-GCBuQ2cbJgKWHw47oRdp5Ecd+Ar6O1wM5bIU+mLIijhXBjKpWs8LsaRiLXsamF1NGnf9RI+YPs/U
-24oLRmRVSxOz6pJaFvo2fAWQoD4H65uCMjTFKovaFNGUdQ/SLM+6J7YenzTge6IMHn2EWMCzB4KC
-K8M2ciZ53vNq+LN3EzXXxPNJAeAVhgeXQzMv9EzNQ+jhFdZmj3KPV81ZMcrNg9Y9lGcHEzMp6ZUY
-NPutdFKIlp9c1atb465eWvdUTHIm2pK+KtcdR+o+pca2pO28RgrsWECi+V8D8BHBGx2yivyXUB+4
-3tRzn32vH+xBdUOiZsWEvSvH0g8UU96pFVHTz9ZNs2SiJuyk3niSYseGhAF5RUwC/ABeEdjpS6lL
-CVJ/0y7YWk1Xb1O3LunF5K2SJKxQCToswWOnKijxLz5JMGUaQCnph3Q2ZXh3prZUUGpuGEuZOmHC
-dlLU8CnyCNWhbcCzIDJSSO0YTOROMSrCUctw+oR6vNvROhZ2fi/qdMa22oFcK1mHO7rmodcu8v0b
-agtm/2Q573CGc9NaltETTklyMoLUq5mMMtDB8jucsi3HA8cpysFnYi/JjZW8VtuiI/abedC3qjU4
-q86q36Dzd/9LrV2oJYI3PskOK/12crrJ/+uqAedbMla7hG+Bwl5QePcetxA2yzr2lrgmOL96YuBp
-uW+xWkcxs+ektozJW3jsj+qIutqqTjkTNg1y4ofvMqSzbissNuQVFslZG8uZwWNlOn4eeL20qT3e
-RvuKfaldjB/9JOB53261rJgAwY5vckkrHHk83PN8cPYlOlV/iJAidNA29x0ca7mztxoafSJIOr7R
-zUa8Kr0AVYt1C8ziLuWKh8HXOFWMe2kkaSC/H+/6O4FCjefzjsJuB5cU0OuiJmE7h4XbPJqlt7a5
-yqSW5qXlTxUJCPzfnxg5gfOmNDYZsH6DiGWj5gTpJ2R5QQsbKveegxNr3DSRYezSOs24piowiQS6
-ThPP1rMqh5u6x7xK3rfpVTzn73hXqVS4VSdin6l9IRJAb5GrRAmL+3Pu4Dlvc563HNyx8TQjly2J
-SsxC5gUhRHDjPATxd6H2tk5NGKyYdRHFjHwY0qBNIxPr4S00u93AqVP+FrEPp/jmpSSGbGHtMSwu
-kff4U3jkIp4Ees9BBi9YrfGk4EDBPBdmHwK4ON0MnhG9ngz54TWKgCHLeb74MdRcYh+XYqAhHzGc
-Aq9BnDH4msadem3C0/8p1iuSnvFL6IrReA5AtEXgbwDS31XjnoUjTVb0tusqDh/CqilA
+/**
+ * Client used to interact Amazon Simple Queue Service (Amazon SQS)
+ *
+ * @method \Aws\Result addPermission(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise addPermissionAsync(array $args = [])
+ * @method \Aws\Result changeMessageVisibility(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise changeMessageVisibilityAsync(array $args = [])
+ * @method \Aws\Result changeMessageVisibilityBatch(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise changeMessageVisibilityBatchAsync(array $args = [])
+ * @method \Aws\Result createQueue(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createQueueAsync(array $args = [])
+ * @method \Aws\Result deleteMessage(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteMessageAsync(array $args = [])
+ * @method \Aws\Result deleteMessageBatch(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteMessageBatchAsync(array $args = [])
+ * @method \Aws\Result deleteQueue(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteQueueAsync(array $args = [])
+ * @method \Aws\Result getQueueAttributes(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getQueueAttributesAsync(array $args = [])
+ * @method \Aws\Result getQueueUrl(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getQueueUrlAsync(array $args = [])
+ * @method \Aws\Result listDeadLetterSourceQueues(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listDeadLetterSourceQueuesAsync(array $args = [])
+ * @method \Aws\Result listQueueTags(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listQueueTagsAsync(array $args = [])
+ * @method \Aws\Result listQueues(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listQueuesAsync(array $args = [])
+ * @method \Aws\Result purgeQueue(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise purgeQueueAsync(array $args = [])
+ * @method \Aws\Result receiveMessage(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise receiveMessageAsync(array $args = [])
+ * @method \Aws\Result removePermission(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise removePermissionAsync(array $args = [])
+ * @method \Aws\Result sendMessage(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise sendMessageAsync(array $args = [])
+ * @method \Aws\Result sendMessageBatch(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise sendMessageBatchAsync(array $args = [])
+ * @method \Aws\Result setQueueAttributes(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise setQueueAttributesAsync(array $args = [])
+ * @method \Aws\Result tagQueue(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise tagQueueAsync(array $args = [])
+ * @method \Aws\Result untagQueue(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise untagQueueAsync(array $args = [])
+ */
+class SqsClient extends AwsClient
+{
+    public function __construct(array $config)
+    {
+        parent::__construct($config);
+        $list = $this->getHandlerList();
+        $list->appendBuild($this->queueUrl(), 'sqs.queue_url');
+        $list->appendSign($this->validateMd5(), 'sqs.md5');
+    }
+
+    /**
+     * Converts a queue URL into a queue ARN.
+     *
+     * @param string $queueUrl The queue URL to perform the action on.
+     *                         Retrieved when the queue is first created.
+     *
+     * @return string An ARN representation of the queue URL.
+     */
+    public function getQueueArn($queueUrl)
+    {
+        $queueArn = strtr($queueUrl, array(
+            'http://'        => 'arn:aws:',
+            'https://'       => 'arn:aws:',
+            '.amazonaws.com' => '',
+            '/'              => ':',
+            '.'              => ':',
+        ));
+
+        // Cope with SQS' .fifo / :fifo arn inconsistency
+        if (substr($queueArn, -5) === ':fifo') {
+            $queueArn = substr_replace($queueArn, '.fifo', -5);
+        }
+        return $queueArn;
+    }
+
+    /**
+     * Moves the URI of the queue to the URI in the input parameter.
+     *
+     * @return callable
+     */
+    private function queueUrl()
+    {
+        return static function (callable $handler) {
+            return function (
+                CommandInterface $c,
+                RequestInterface $r = null
+            ) use ($handler) {
+                if ($c->hasParam('QueueUrl')) {
+                    $r = $r->withUri(UriResolver::resolve(
+                        $r->getUri(),
+                        new Uri($c['QueueUrl'])
+                    ));
+                }
+                return $handler($c, $r);
+            };
+        };
+    }
+
+    /**
+     * Calculates the expected md5 hash of message attributes according to the encoding
+     * scheme detailed in SQS documentation.
+     *
+     * @param array $message Message containing attributes for validation.
+     *                       Retrieved when using MessageAttributeNames on
+     *                       ReceiveMessage.
+     *
+     * @return string|null The md5 hash of the message attributes according to
+     *                     the encoding scheme. Returns null when there are no
+     *                     attributes.
+     * @link http://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-message-attributes.html#message-attributes-items-validation
+     */
+    private static function calculateMessageAttributesMd5($message)
+    {
+        if (empty($message['MessageAttributes'])
+            || !is_array($message['MessageAttributes'])
+        ) {
+            return null;
+        }
+
+        ksort($message['MessageAttributes']);
+        $attributeValues = "";
+        foreach ($message['MessageAttributes'] as $name => $details) {
+            $attributeValues .= self::getEncodedStringPiece($name);
+            $attributeValues .= self::getEncodedStringPiece($details['DataType']);
+            if (substr($details['DataType'], 0, 6) === 'Binary') {
+                $attributeValues .= pack('c', 0x02);
+                $attributeValues .= self::getEncodedBinaryPiece(
+                    $details['BinaryValue']
+                );
+            } else {
+                $attributeValues .= pack('c', 0x01);
+                $attributeValues .= self::getEncodedStringPiece(
+                    $details['StringValue']
+                );
+            }
+        }
+
+        return md5($attributeValues);
+    }
+
+    private static function calculateBodyMd5($message)
+    {
+        return md5($message['Body']);
+    }
+
+    private static function getEncodedStringPiece($piece)
+    {
+        $utf8Piece = iconv(
+            mb_detect_encoding($piece, mb_detect_order(), true),
+            "UTF-8",
+            $piece
+        );
+        return self::getFourBytePieceLength($utf8Piece) . $utf8Piece;
+    }
+
+    private static function getEncodedBinaryPiece($piece)
+    {
+        return self::getFourBytePieceLength($piece) . $piece;
+    }
+
+    private static function getFourBytePieceLength($piece)
+    {
+        return pack('N', (int)strlen($piece));
+    }
+
+    /**
+     * Validates ReceiveMessage body and message attribute MD5s.
+     *
+     * @return callable
+     */
+    private function validateMd5()
+    {
+        return static function (callable $handler) {
+            return function (
+                CommandInterface $c,
+                RequestInterface $r = null
+            ) use ($handler) {
+                if ($c->getName() !== 'ReceiveMessage') {
+                    return $handler($c, $r);
+                }
+
+                return $handler($c, $r)
+                    ->then(
+                        function ($result) use ($c, $r) {
+                            foreach ((array) $result['Messages'] as $msg) {
+                                $bodyMd5 = self::calculateBodyMd5($msg);
+                                if (isset($msg['MD5OfBody'])
+                                    && $bodyMd5 !== $msg['MD5OfBody']
+                                ) {
+                                    throw new SqsException(
+                                        sprintf(
+                                            'MD5 mismatch. Expected %s, found %s',
+                                            $msg['MD5OfBody'],
+                                            $bodyMd5
+                                        ),
+                                        $c,
+                                        [
+                                            'code' => 'ClientChecksumMismatch',
+                                            'request' => $r
+                                        ]
+                                    );
+                                }
+
+                                if (isset($msg['MD5OfMessageAttributes'])) {
+                                    $messageAttributesMd5 = self::calculateMessageAttributesMd5($msg);
+                                    if ($messageAttributesMd5 !== $msg['MD5OfMessageAttributes']) {
+                                        throw new SqsException(
+                                            sprintf(
+                                                'Attribute MD5 mismatch. Expected %s, found %s',
+                                                $msg['MD5OfMessageAttributes'],
+                                                $messageAttributesMd5
+                                                    ? $messageAttributesMd5
+                                                    : 'No Attributes'
+                                            ),
+                                            $c,
+                                            [
+                                                'code' => 'ClientChecksumMismatch',
+                                                'request' => $r
+                                            ]
+                                        );
+                                    }
+                                } else if (isset($msg['MessageAttributes'])) {
+                                    throw new SqsException(
+                                        sprintf(
+                                            'No Attribute MD5 found. Expected %s',
+                                            self::calculateMessageAttributesMd5($msg)
+                                        ),
+                                        $c,
+                                        [
+                                            'code' => 'ClientChecksumMismatch',
+                                            'request' => $r
+                                        ]
+                                    );
+                                }
+                            }
+                            return $result;
+                        }
+                    );
+            };
+        };
+    }
+}

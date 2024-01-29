@@ -1,159 +1,252 @@
-<?php //ICB0 56:0 71:18bb                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Blob\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+ 
+namespace MicrosoftAzure\Storage\Blob\Models;
 
-?>
-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
-67WVrdWLt06DI1OzyBwcnT5c
+/**
+ * Optional parameters for setBlobProperties wrapper
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Blob\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+class SetBlobPropertiesOptions extends BlobServiceOptions
+{
+    private $_blobProperties;
+    private $_sequenceNumberAction;
+    
+    /**
+     * Creates a new SetBlobPropertiesOptions with a specified BlobProperties
+     * instance.
+     *
+     * @param BlobProperties $blobProperties The blob properties instance.
+     */
+    public function __construct(BlobProperties $blobProperties = null)
+    {
+        parent::__construct();
+        $this->_blobProperties = is_null($blobProperties)
+                                 ? new BlobProperties() : clone $blobProperties;
+    }
+    
+    /**
+     * Gets blob sequenceNumber.
+     *
+     * @return integer
+     */
+    public function getSequenceNumber()
+    {
+        return $this->_blobProperties->getSequenceNumber();
+    }
+
+    /**
+     * Sets blob sequenceNumber.
+     *
+     * @param integer $sequenceNumber value.
+     *
+     * @return void
+     */
+    public function setSequenceNumber($sequenceNumber)
+    {
+        $this->_blobProperties->setSequenceNumber($sequenceNumber);
+    }
+    
+    /**
+     * Gets lease Id for the blob
+     *
+     * @return string
+     */
+    public function getSequenceNumberAction()
+    {
+        return $this->_sequenceNumberAction;
+    }
+    
+    /**
+     * Sets lease Id for the blob
+     *
+     * @param string $sequenceNumberAction action.
+     *
+     * @return void
+     */
+    public function setSequenceNumberAction($sequenceNumberAction)
+    {
+        $this->_sequenceNumberAction = $sequenceNumberAction;
+    }
+    
+    /**
+     * Gets blob contentLength.
+     *
+     * @return integer
+     */
+    public function getContentLength()
+    {
+        return $this->_blobProperties->getContentLength();
+    }
+
+    /**
+     * Sets blob contentLength.
+     *
+     * @param integer $contentLength value.
+     *
+     * @return void
+     */
+    public function setContentLength($contentLength)
+    {
+        $this->_blobProperties->setContentLength($contentLength);
+    }
+    
+    /**
+     * Gets ContentType.
+     *
+     * @return string
+     */
+    public function getContentType()
+    {
+        return $this->_blobProperties->getContentType();
+    }
+
+    /**
+     * Sets ContentType.
+     *
+     * @param string $contentType value.
+     *
+     * @return void
+     */
+    public function setContentType($contentType)
+    {
+        $this->_blobProperties->setContentType($contentType);
+    }
+    
+    /**
+     * Gets ContentEncoding.
+     *
+     * @return string
+     */
+    public function getContentEncoding()
+    {
+        return $this->_blobProperties->getContentEncoding();
+    }
+
+    /**
+     * Sets ContentEncoding.
+     *
+     * @param string $contentEncoding value.
+     *
+     * @return void
+     */
+    public function setContentEncoding($contentEncoding)
+    {
+        $this->_blobProperties->setContentEncoding($contentEncoding);
+    }
+    
+    /**
+     * Gets ContentLanguage.
+     *
+     * @return string
+     */
+    public function getContentLanguage()
+    {
+        return $this->_blobProperties->getContentLanguage();
+    }
+
+    /**
+     * Sets ContentLanguage.
+     *
+     * @param string $contentLanguage value.
+     *
+     * @return void
+     */
+    public function setContentLanguage($contentLanguage)
+    {
+        $this->_blobProperties->setContentLanguage($contentLanguage);
+    }
+    
+    /**
+     * Gets ContentMD5.
+     *
+     * @return void
+     */
+    public function getContentMD5()
+    {
+        return $this->_blobProperties->getContentMD5();
+    }
+
+    /**
+     * Sets blob ContentMD5.
+     *
+     * @param string $contentMD5 value.
+     *
+     * @return void
+     */
+    public function setContentMD5($contentMD5)
+    {
+        $this->_blobProperties->setContentMD5($contentMD5);
+    }
+    
+    /**
+     * Gets cache control.
+     *
+     * @return string
+     */
+    public function getCacheControl()
+    {
+        return $this->_blobProperties->getCacheControl();
+    }
+    
+    /**
+     * Sets cacheControl.
+     *
+     * @param string $cacheControl value to use.
+     *
+     * @return void
+     */
+    public function setCacheControl($cacheControl)
+    {
+        $this->_blobProperties->setCacheControl($cacheControl);
+    }
+    
+    /**
+     * Gets content disposition.
+     *
+     * @return string
+     */
+    public function getContentDisposition()
+    {
+        return $this->_blobProperties->getContentDisposition();
+    }
+    
+    /**
+     * Sets contentDisposition.
+     *
+     * @param string $contentDisposition value to use.
+     *
+     * @return void
+     */
+    public function setContentDisposition($contentDisposition)
+    {
+        $this->_blobProperties->setContentDisposition($contentDisposition);
+    }
+}

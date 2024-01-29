@@ -1,124 +1,146 @@
-<?php //ICB0 56:0 71:1331                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-3b+vDI7WW4/5mTr2CkJHBf001BM5jn5aruS==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Table\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+ 
+namespace MicrosoftAzure\Storage\Table\Models;
 
-?>
-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
-ca1P5yZpFx0A6xkXSYU+szgtCW==
+use MicrosoftAzure\Storage\Table\Internal\AcceptOptionTrait;
+
+/**
+ * Optional parameters for queryTables wrapper.
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Table\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+class QueryTablesOptions extends TableServiceOptions
+{
+    use TableContinuationTokenTrait;
+    use AcceptOptionTrait;
+
+    private $query;
+    private $prefix;
+
+    /**
+     * Constructs new QueryTablesOptions object.
+     */
+    public function __construct()
+    {
+        parent::__construct();
+        $this->query = new Query();
+    }
+    
+    /**
+     * Gets prefix
+     *
+     * @return string
+     */
+    public function getPrefix()
+    {
+        return $this->prefix;
+    }
+    
+    /**
+     * Sets prefix
+     *
+     * @param string $prefix value
+     *
+     * @return void
+     */
+    public function setPrefix($prefix)
+    {
+        $this->prefix = $prefix;
+    }
+    
+    /**
+     * Gets top.
+     *
+     * @return integer
+     */
+    public function getTop()
+    {
+        return $this->query->getTop();
+    }
+
+    /**
+     * Sets top.
+     *
+     * @param integer $top value.
+     *
+     * @return void
+     */
+    public function setTop($top)
+    {
+        $this->query->setTop($top);
+    }
+    
+    /**
+     * Gets query.
+     *
+     * @return Query
+     */
+    public function getQuery()
+    {
+        return $this->query;
+    }
+    
+    /**
+     * Gets filter.
+     *
+     * @return Filters\Filter
+     */
+    public function getFilter()
+    {
+        return $this->query->getFilter();
+    }
+
+    /**
+     * Sets filter.
+     *
+     * @param Filters\Filter $filter value.
+     *
+     * @return void
+     */
+    public function setFilter(Filters\Filter $filter)
+    {
+        $this->query->setFilter($filter);
+    }
+
+    /**
+     * Sets selectFields.
+     *
+     * You can either use this individual function or use setQuery to set the
+     * whole query object.
+     *
+     * @param array $selectFields value.
+     *
+     * @return void
+     */
+    public function setSelectFields(array $selectFields = null)
+    {
+        $this->query->setSelectFields($selectFields);
+    }
+}

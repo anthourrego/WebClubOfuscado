@@ -1,201 +1,146 @@
-<?php //ICB0 56:0 71:1dc0                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/*
+ * CKFinder
+ * ========
+ * https://ckeditor.com/ckeditor-4/ckfinder/
+ * Copyright (c) 2007-2018, CKSource - Frederico Knabben. All rights reserved.
+ *
+ * The software, this file and its contents are subject to the CKFinder
+ * License. Please read the license.txt file before using, installing, copying,
+ * modifying or distribute this file or part of its contents. The contents of
+ * this file is part of the Source Code of CKFinder.
+ */
 
-?>
-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
+namespace CKSource\CKFinder\Backend\Adapter;
+
+use CKSource\CKFinder\CKFinder;
+use CKSource\CKFinder\ContainerAwareInterface;
+use CKSource\CKFinder\Operation\OperationManager;
+use League\Flysystem\AwsS3v3\AwsS3Adapter;
+use League\Flysystem\Util\MimeType;
+
+/**
+ * Custom adapter for AWS-S3.
+ */
+class AwsS3 extends AwsS3Adapter implements ContainerAwareInterface, EmulateRenameDirectoryInterface
+{
+    /**
+     * The CKFinder application container.
+     *
+     * @var CKFinder
+     */
+    protected $app;
+
+    /**
+     * @param CKFinder $app
+     */
+    public function setContainer(CKFinder $app)
+    {
+        $this->app = $app;
+    }
+
+    /**
+     * Emulates changing of directory name.
+     *
+     * @param string $path
+     * @param string $newPath
+     *
+     * @return bool
+     */
+    public function renameDirectory($path, $newPath)
+    {
+        $sourcePath = $this->applyPathPrefix(rtrim($path, '/') . '/');
+
+        $objectsIterator = $this->s3Client->getIterator('ListObjects', [
+            'Bucket' => $this->bucket,
+            'Prefix' => $sourcePath,
+        ]);
+
+        $objects = array_filter(iterator_to_array($objectsIterator), function ($v) {
+            return isset($v['Key']);
+        });
+
+        if (!empty($objects)) {
+
+            /* @var OperationManager $operation */
+            $operation = $this->app['operation'];
+
+            $operation->start();
+
+            $total = count($objects);
+            $current = 0;
+
+            foreach ($objects as $entry) {
+                $this->s3Client->copyObject(array(
+                    'Bucket'     => $this->bucket,
+                    'Key'        => $this->replacePath($entry['Key'], $path, $newPath),
+                    'CopySource' => urlencode($this->bucket . '/' . $entry['Key']),
+                ));
+
+                if ($operation->isAborted()) {
+                    // Delete target folder in case if operation was aborted
+                    $targetPath = $this->applyPathPrefix(rtrim($newPath, '/') . '/');
+
+                    $this->s3Client->deleteMatchingObjects($this->bucket, $targetPath);
+
+                    return true;
+                }
+
+                $operation->updateStatus(array('total' => $total, 'current' => ++$current));
+            }
+
+            $this->s3Client->deleteMatchingObjects($this->bucket, $sourcePath);
+        }
+
+        return true;
+    }
+
+    /**
+     * Helper method that replaces a part of the key (path).
+     *
+     * @param string $objectPath the bucket-relative object path
+     * @param string $path       the old backend-relative path
+     * @param string $newPath    the new backend-relative path
+     *
+     * @return string the new bucket-relative path
+     */
+    protected function replacePath($objectPath, $path, $newPath)
+    {
+        $objectPath = $this->removePathPrefix($objectPath);
+        $newPath = trim($newPath, '/') . '/';
+        $path = trim($path, '/') . '/';
+
+        return $this->applyPathPrefix($newPath . substr($objectPath, strlen($path)));
+    }
+
+    /**
+     * Returns a direct link to a file stored on S3.
+     *
+     * @param string $path
+     *
+     * @return string
+     */
+    public function getFileUrl($path)
+    {
+        $objectPath = $this->applyPathPrefix($path);
+
+        return $this->s3Client->getObjectUrl($this->bucket, $objectPath);
+    }
+
+    /**
+     * Returns the file MIME type.
+     *
+     * @param string $path
+     *
+     * @return array|false|null|string
+     */
+    public function getMimeType($path)
+    {
+        $ext = pathinfo($path, PATHINFO_EXTENSION);
+
+        $mimeType = MimeType::detectByFileExtension(strtolower($ext));
+
+        return $mimeType ? array('mimetype' => $mimeType) : parent::getMimetype($path);
+    }
+}

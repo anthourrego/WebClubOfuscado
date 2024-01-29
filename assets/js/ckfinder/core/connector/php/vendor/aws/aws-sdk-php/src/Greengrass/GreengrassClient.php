@@ -1,50 +1,157 @@
-<?php //ICB0 56:0 71:8ae                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\Greengrass;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cPxCbsELwy23A0vvDnijVcVh2zzrQzDEJ0vIun4FU87EcB3bc0S9pBLNhx5yS15IMriV9dQUT
-43+/EpRNR0bBE7aurY8E4GDibnObyqDMgw/4kXobumWM/DgqQ5LI8KCUx6PA/cfu9uGkA5boSRGm
-PASls1ajZMBW+7yVecBi69H3eHr2vy/QuEZOLSs6x1p9IViLKewJ5oI5ILlg4PZacGuaMXdx2mAV
-J0vcQF+4DVlOYJtZRSOKbHkryIL5LbnUT6hExf02/8wULxI9snptqslkKFTcg8BG1lo1zx0aEyRO
-EOLf/zvg8IbGVKeLO1o4oSOsIuLjwym2yBQw9rShYw8wClm1v7kvf+xpcrlT5Dq+QRkECt0trSb4
-rCnvshoyNuSRwgAnLbi9L5rl/y69Z/FF+czLWBxW2XYvaEk/elrdjnHzARGw1zo/GFOQDzO+wC/A
-c0mpqyBjw5TPLLEX+mJ/bNgi0hX64i+GTlyiACBWH4/x/bkWTJaO+jpDErw4ntn4XNbxM2v9+G1Q
-oS8CejYAMr3hAYGQiugZwMm8RlWUNsfqYkWJRx8HxpHdoH8YY6Ma3QGLRuCDOEnzZevK70NvuyOK
-jHq5ez7gZnHVNmiLttHmm80WWEQyUIH1t2eu966SiZSN303guimbWE6rOpRpeqNek8zJpFPOCZAN
-v6wl4pl+CMVcCN7BAACryVLVzuzgLzDGLxItAD5R1WmeUEjXJG4018yDP3LcYMDVRgckn4BGpbTy
-sCiPnu46vFI6EtlYzN3jK93ZkEA0s599DTizWPNzEXmZD6AV3Mjl2y/UHuhR6TFgIWarXrdKxXoQ
-66SuoIGplu/RA+D7IeQycR+x2BB99RMGXKb8W1hRRL52hau28R6R7UFYB7WoVbkoGmS5FVzJkQ2/
-DC3u9RwEoOvpEJSeO50eGh4ZUkxXPC6H9Lu0K84DLqRmx0q8iYks4fF8b0/BGMiz+5Pz79e5UQtZ
-oxzbUIv6OIU4V/48JrC2ge5QFMVVm+fDiBhN9Mk9sQ1daejnEnFjUACwGocyJR1ByOoGDYaOHYhS
-0DaYxJh75JircZO/zx1zjAEJz/IzJkJCjsQ2F/9UshBcEN0wQaqPTXR8jVrCPKFpFJz/k0Vp2x6P
-uEFQwp7Tq891GfvSkMbL96u3FsYjCIceBuf3dApd94WlFzJPg5w3b2gBzOewGXst90HXLOwGnSzL
-bcgjqEJ1mAqhXqV7B3hQdO9FHk4h+OSwHfV2jjgfuiJJzoGgAYSp+WC8jI+vMco5K46mKMnSNHGY
-4KnbLCnYnER5fXbBRrCUIUd5KoQNmC2xlCXqxPK==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use Aws\AwsClient;
 
-?>
-HR+cPvgDpuNJQJIggZLQfetQkl/WQ4xVrD90tjKUGdxVJjmpRg6lO4No3tETb+OAO7wRlz2HCJxR
-UrrJzLGFvOpMm5Rjq1lvvAmK3NEiZdAdVUzsYeM3S+WfGTLsVRNL5TE2FOKu6JVbnC0ahvHCNnMd
-eem4Rl8xUelkp30DSjSsN0cHi+QVZ9qNzidMnEgIoa+kH35QsMnWyOnbUfIvo+zGErnz4iB7IUph
-rTzjT/ttv2t+HlQJlFD/vBDr1yI/Qnl4jd+aHeYMZB8NzoKzh7ymN1e4vOS4ENEUQkAtOmCyGuIg
-qvGuS3//caMt+WBBowkjpJ67V+vvYGCaDdDNSq2aX7Bau5TwTQuRCb0PdL01frsgTzcuN5qpmguJ
-oqtlVkBRwJX1SRKC8LKRRzdW12rhCRB3TdTR1qs/304zaplgLTTf4lzDx1T66kRpdoOsY+REN6dn
-ADOMBmoPkH26knNzNwoKZwZFxfEmnw8VqSycgymqVhFKFM+Wyydb5VlrCs8hzdNlFfpA27GNUx3S
-aL8v2dTAb53J1kolP+8N8NvJQwP2GncdEjYkA2Zi+OoIAKfuFZvPHakb0NM7CeDA2EpnrKE+oiCc
-atxj5FdJRuhBkGi707c9Au+A6h140t6AGxLYxto4zht+Ol/fxx7+kPYPs5WfIoxG/Rwy64GDwz03
-PY5b290mqOmtQOxuxTquaVTqWbf0E2nNQ6hIFf4Vbc2pydPvSWz9uzKNC8KYlKzuJvd4JTUKLZP0
-y/VwYO41ru+z1F86vKddaRVyLAirc+SzSiGEAl2QbtLH6NarXH4mkCWBKhyty7IPlVI8d9F8vEZI
-wsv/uPf8NyUdycI3XEW0Bgq+RC0+mnf4aUVNtzzcUy9CNe3pnaFi+2R1d4GUV4eF/BY9vke10FVl
-4crOu197RBoOzZNhEW9qdmMGBPcRD1CzionJWpM+vWsP0z9uIqecf0KqQDDYNpTpx4HNOPf13JLb
-jXZBxZvG10IPltUGZoFwbTnzQLp4rIv9iYGPGYXfLMeZGBmQRDo9GSmgSLxLQwxJ4TFE0GAlVhqP
-fUt68RQDIV/cIMUJuAyFpcG55Pcze5R64DeG8B5+KuR0CC7jz2Xt1y81hqBltjiheXlpRVVjykT9
-7hkhoQtr+2cZgXqB4c7oPds4DvzvLWfFMZSjI8SRMkMUifBDywrcpKqD1XQWfp4paA9Hj8arW09d
-p+t4CyQPBiL6NObC320+JJQp4QHZqAa1EZf37msJ3z30H5PKjtwbA1Qv/kA5hLIPGLbzbnuTJGd4
-IBKE+6ZBfuUEBibGrQC1XijLIkycsKMaHnmAJTQJEbCuelTX72KDL1TdKMS8TCbMl0KpJ8K2HY1Q
-/WstDNr2MqFtEgBfxW03jqgxg2qercVUEg404se26wB+Z0Vc
+/**
+ * This client is used to interact with the **AWS Greengrass** service.
+ * @method \Aws\Result associateRoleToGroup(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise associateRoleToGroupAsync(array $args = [])
+ * @method \Aws\Result associateServiceRoleToAccount(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise associateServiceRoleToAccountAsync(array $args = [])
+ * @method \Aws\Result createCoreDefinition(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createCoreDefinitionAsync(array $args = [])
+ * @method \Aws\Result createCoreDefinitionVersion(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createCoreDefinitionVersionAsync(array $args = [])
+ * @method \Aws\Result createDeployment(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createDeploymentAsync(array $args = [])
+ * @method \Aws\Result createDeviceDefinition(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createDeviceDefinitionAsync(array $args = [])
+ * @method \Aws\Result createDeviceDefinitionVersion(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createDeviceDefinitionVersionAsync(array $args = [])
+ * @method \Aws\Result createFunctionDefinition(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createFunctionDefinitionAsync(array $args = [])
+ * @method \Aws\Result createFunctionDefinitionVersion(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createFunctionDefinitionVersionAsync(array $args = [])
+ * @method \Aws\Result createGroup(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createGroupAsync(array $args = [])
+ * @method \Aws\Result createGroupCertificateAuthority(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createGroupCertificateAuthorityAsync(array $args = [])
+ * @method \Aws\Result createGroupVersion(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createGroupVersionAsync(array $args = [])
+ * @method \Aws\Result createLoggerDefinition(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createLoggerDefinitionAsync(array $args = [])
+ * @method \Aws\Result createLoggerDefinitionVersion(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createLoggerDefinitionVersionAsync(array $args = [])
+ * @method \Aws\Result createResourceDefinition(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createResourceDefinitionAsync(array $args = [])
+ * @method \Aws\Result createResourceDefinitionVersion(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createResourceDefinitionVersionAsync(array $args = [])
+ * @method \Aws\Result createSoftwareUpdateJob(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createSoftwareUpdateJobAsync(array $args = [])
+ * @method \Aws\Result createSubscriptionDefinition(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createSubscriptionDefinitionAsync(array $args = [])
+ * @method \Aws\Result createSubscriptionDefinitionVersion(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createSubscriptionDefinitionVersionAsync(array $args = [])
+ * @method \Aws\Result deleteCoreDefinition(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteCoreDefinitionAsync(array $args = [])
+ * @method \Aws\Result deleteDeviceDefinition(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteDeviceDefinitionAsync(array $args = [])
+ * @method \Aws\Result deleteFunctionDefinition(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteFunctionDefinitionAsync(array $args = [])
+ * @method \Aws\Result deleteGroup(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteGroupAsync(array $args = [])
+ * @method \Aws\Result deleteLoggerDefinition(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteLoggerDefinitionAsync(array $args = [])
+ * @method \Aws\Result deleteResourceDefinition(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteResourceDefinitionAsync(array $args = [])
+ * @method \Aws\Result deleteSubscriptionDefinition(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteSubscriptionDefinitionAsync(array $args = [])
+ * @method \Aws\Result disassociateRoleFromGroup(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise disassociateRoleFromGroupAsync(array $args = [])
+ * @method \Aws\Result disassociateServiceRoleFromAccount(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise disassociateServiceRoleFromAccountAsync(array $args = [])
+ * @method \Aws\Result getAssociatedRole(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getAssociatedRoleAsync(array $args = [])
+ * @method \Aws\Result getConnectivityInfo(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getConnectivityInfoAsync(array $args = [])
+ * @method \Aws\Result getCoreDefinition(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getCoreDefinitionAsync(array $args = [])
+ * @method \Aws\Result getCoreDefinitionVersion(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getCoreDefinitionVersionAsync(array $args = [])
+ * @method \Aws\Result getDeploymentStatus(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getDeploymentStatusAsync(array $args = [])
+ * @method \Aws\Result getDeviceDefinition(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getDeviceDefinitionAsync(array $args = [])
+ * @method \Aws\Result getDeviceDefinitionVersion(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getDeviceDefinitionVersionAsync(array $args = [])
+ * @method \Aws\Result getFunctionDefinition(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getFunctionDefinitionAsync(array $args = [])
+ * @method \Aws\Result getFunctionDefinitionVersion(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getFunctionDefinitionVersionAsync(array $args = [])
+ * @method \Aws\Result getGroup(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getGroupAsync(array $args = [])
+ * @method \Aws\Result getGroupCertificateAuthority(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getGroupCertificateAuthorityAsync(array $args = [])
+ * @method \Aws\Result getGroupCertificateConfiguration(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getGroupCertificateConfigurationAsync(array $args = [])
+ * @method \Aws\Result getGroupVersion(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getGroupVersionAsync(array $args = [])
+ * @method \Aws\Result getLoggerDefinition(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getLoggerDefinitionAsync(array $args = [])
+ * @method \Aws\Result getLoggerDefinitionVersion(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getLoggerDefinitionVersionAsync(array $args = [])
+ * @method \Aws\Result getResourceDefinition(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getResourceDefinitionAsync(array $args = [])
+ * @method \Aws\Result getResourceDefinitionVersion(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getResourceDefinitionVersionAsync(array $args = [])
+ * @method \Aws\Result getServiceRoleForAccount(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getServiceRoleForAccountAsync(array $args = [])
+ * @method \Aws\Result getSubscriptionDefinition(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getSubscriptionDefinitionAsync(array $args = [])
+ * @method \Aws\Result getSubscriptionDefinitionVersion(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getSubscriptionDefinitionVersionAsync(array $args = [])
+ * @method \Aws\Result listCoreDefinitionVersions(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listCoreDefinitionVersionsAsync(array $args = [])
+ * @method \Aws\Result listCoreDefinitions(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listCoreDefinitionsAsync(array $args = [])
+ * @method \Aws\Result listDeployments(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listDeploymentsAsync(array $args = [])
+ * @method \Aws\Result listDeviceDefinitionVersions(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listDeviceDefinitionVersionsAsync(array $args = [])
+ * @method \Aws\Result listDeviceDefinitions(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listDeviceDefinitionsAsync(array $args = [])
+ * @method \Aws\Result listFunctionDefinitionVersions(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listFunctionDefinitionVersionsAsync(array $args = [])
+ * @method \Aws\Result listFunctionDefinitions(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listFunctionDefinitionsAsync(array $args = [])
+ * @method \Aws\Result listGroupCertificateAuthorities(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listGroupCertificateAuthoritiesAsync(array $args = [])
+ * @method \Aws\Result listGroupVersions(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listGroupVersionsAsync(array $args = [])
+ * @method \Aws\Result listGroups(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listGroupsAsync(array $args = [])
+ * @method \Aws\Result listLoggerDefinitionVersions(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listLoggerDefinitionVersionsAsync(array $args = [])
+ * @method \Aws\Result listLoggerDefinitions(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listLoggerDefinitionsAsync(array $args = [])
+ * @method \Aws\Result listResourceDefinitionVersions(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listResourceDefinitionVersionsAsync(array $args = [])
+ * @method \Aws\Result listResourceDefinitions(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listResourceDefinitionsAsync(array $args = [])
+ * @method \Aws\Result listSubscriptionDefinitionVersions(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listSubscriptionDefinitionVersionsAsync(array $args = [])
+ * @method \Aws\Result listSubscriptionDefinitions(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listSubscriptionDefinitionsAsync(array $args = [])
+ * @method \Aws\Result resetDeployments(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise resetDeploymentsAsync(array $args = [])
+ * @method \Aws\Result updateConnectivityInfo(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateConnectivityInfoAsync(array $args = [])
+ * @method \Aws\Result updateCoreDefinition(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateCoreDefinitionAsync(array $args = [])
+ * @method \Aws\Result updateDeviceDefinition(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateDeviceDefinitionAsync(array $args = [])
+ * @method \Aws\Result updateFunctionDefinition(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateFunctionDefinitionAsync(array $args = [])
+ * @method \Aws\Result updateGroup(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateGroupAsync(array $args = [])
+ * @method \Aws\Result updateGroupCertificateConfiguration(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateGroupCertificateConfigurationAsync(array $args = [])
+ * @method \Aws\Result updateLoggerDefinition(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateLoggerDefinitionAsync(array $args = [])
+ * @method \Aws\Result updateResourceDefinition(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateResourceDefinitionAsync(array $args = [])
+ * @method \Aws\Result updateSubscriptionDefinition(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateSubscriptionDefinitionAsync(array $args = [])
+ */
+class GreengrassClient extends AwsClient {}

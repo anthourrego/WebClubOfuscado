@@ -1,193 +1,357 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cPnVFn7TBSpru4XzHL0DlN3i+ZmOxYrKeZPMu0+ZPFZIGizpW9tJ29hT2dByrR8N4E0V4yqX0
-fLJufyDzwBR83/awy9WROBWqi6pvl/0GOsuLNbm4ZAJx0jSOgAuffClZSokdVHIby7qFaVnSD+nP
-cVbengkO3phk+LiuMEr815dcXjkVEsnFFh0NWKzwBER+CwdX2SuVDANqmKQGDstLJsAbYGPfkD+x
-sakIQgFj/A6BoaS7mdEWHFtGj/4D/NSXgGL0xf02/8wULxI9snptqslkKEXgQG5I4MCPwjb9WlPr
-36Ck/uP8jo7a17+hseGTC9Ro9U/dAp0UMSgBCfOMTJ+vAdeMZb+8TCFXnwVq5SmqR9kPnq3fhcWS
-BIX7haN1hPKCgR+IS5U86DTNo2NOXJtSD7rVccAxZzLyj8DYFjKSEuF8p4RynLr79RO3cpjkbMn1
-ApbWDH2NbwYNSpXFls80xvwU0/j1C6zeB1q4TTv+SAYEUCnJWRpYgBObPNR6ghlMld7GCEdkMA2J
-PQd6ZWcM4+mkY+0C5eUxARveZAvu5Oe0nZ19H3XHpbvsm1LiWhFkp2X5Pk9imTFOVGdEYtmLqS9T
-BoYr492BUCpNQUX3e0wtawnwbSy2M1VUFxQu23Cb+cd/TCA0p5v5HjKLXP00O5nuJP7V+henw+eY
-UC32BSEatZeXPox/zit1xtFlDCMnhhAIOfnwbl3sT57vY1p3V/vWV3/4wthSAU0af+qpFSaPiHfv
-zdESRWq/4sv7azGFgpV4zNCmD9vdeHU4Ow31TwNJkeJvduqvApHBlfR61cSwStvKYTA1ZnKhDKQO
-7mzu79vWDiOu+XYlLtfuQcFLmbc0CJdfz5L3RL6aNfylgedv0+2GWD5FsdqsHLC5TlPNExbfSg5z
-2fyvt94PxNEEx+P3WMsuUTGuXtu2tA5dhQuOMPkmwc3Nl5O0lQSmTpOd5C3utZg0vl1PrwfuO2y/
-TEqt8HN9Ocr/AYXAiioQr3ib4mO2WhKoGiw18szdDdIBrywMGSKX5FBnUvMOGL4werV8B8v76P2z
-x9fkKzgvrMmga0wz5rx8+M54zdhav5ZLKjInB5xURidt7aTEzRKYSxgnG0OlVHY9orJGZJKfRiiQ
-1B5R8ZYSlMBfMRwJaL3d1lLdqu/6N1psJqj1nUcuCzAH7Hd5L1kcm5itVqkRi8/pvFyxd6HtP8/2
-LNmDQBbICE6mFU183TjBwtWznK7alpBUHjTmohO8TmlhQIhBIuOgmw1/hrX+AernQbqVBaei4A53
-7ksX9XSrl/CSdi6EdjMeDn8gIjmEKLLQCjyqF+kDzKkhi4btWWZV6cbmeq9Rr0TRp2czxW4neP21
-6tivsEvJOqIYzOG7TsC7s81ZJpy+4ePfZqHtdOEWbqchGVwk57Ak+mBm7/ttIiMWmc2g3P8U5R7r
-7GYYD1jD07bukJ5ePe3YIajhyPyfa3Bi3phxYrt8SEaN1UbuhinH6T65r1Os/6U+veI7S+oyQikp
-bAfjirJwKe+CD9vsjF0Wc70Llv8+NHWO0kd6wD1OddnnKEEGIb5RLktgGvGpWqVujBurjPJDW7Kn
-mPOl1bOcJVPhoqUeMvBM0RYkSxqhHU0W1gublgqTUXuMVYtFeSrcTv/byUaR7TG0d+WKciXgwrd/
-qW35jiGrdYdh+P/95tc+xoZ/70OiT17SUp0CK00qVJcp1OUUC7fCkL5pP6WN9u0GpB9PvxU/Xoxz
-gmFslw3p/bf2R53cy/svGOKpDuypCnU7M5zl+AV8oVzORjwyz8AFD40s5enso4xDpmuNLZV1WxHE
-5Elcf04NuVQCYBtg3sqmDal2JDS1/Rdv/wg2pK5kxEYd9f3hhuEQ/jLxg601j7H0adh8hu506Snd
-fGHc83KCXua74274DV/IyQB4h6dUALCHIqEz4fsNv+duC+fdzw9gEk7ur1lMnyj8YkCkcsYpSbmF
-Y8NNBa51NPOlqxkVvK3ACMZwkTw9Rri6bpX0DXquW/rvB3K2CG2yIfBH1EoFJ/yAutoyYQf0oKYQ
-lO7gipFgDkc2EERS9Iej2zpsIE2DFo2FmS5EUZtPX6TLRuLe5iPHlp4Tr0tDYsPR4E63UD8eeBYG
-/xN7x1nOH0fzyvCT49/Y8dXTsS9QPfU86f8l0z/iyPaKS1kE7lhc/jIKLS5CxFC7t6zS9m0msJNb
-yuMZ/FVq/tEeHClyNwVpu5TokdL/vCq0K90M5xbGIFsb5ii7kK230n7wgZ6cu77gtg8fwnFkl3hw
-pk5fmCDTEM8w8ROAT+xuvzW94kcG4PmN2ld0TWYixX+5P1O1OzgxZuZ2TsWQR50vKZcb6g5460Iu
-MjsmJUOq2dLQCFg5krBrTRkVImh+BGVq35eJnDW/RjWqOhpC37x1X0w0vyWcdfqkJ0satwCwaOnq
-Cj0LnG63FyGlntuvCWvnPXv/kgo43DQUL/UCXz2NF+x4XwZU4J9S29GJjbCU7d40eV37IQH2L4lZ
-Q/9Mxfsbv1iJQ6z1W/nZ1HZlRLMkeg+s5MaH9CjN0btZmoUOHspD+QhGa5aUdhE/6K3tba+5M1GI
-VnT/ZLYCKd83xK+0EDtCL11Dh9yJm9oDg4sFeJ9ulnLKyv9L2BR0RZfYjGSsrhAGoplVVknYufTc
-PLev0RbZBZI5mORRul8rsPbo0jjeMK4PYVTWvZENhifPDF88oyZE5XSKqr3A4oO64IQ3iKqfA2R9
-MTWY3OAx/KJNXWyJ3pllvdguDi7ClRgxUqeQMPEB4Dsvh/AmJXddHx79ZrGhKW0Bjyw4w1Ybe2t8
-y1hkWqeGXFXL0Z9alEqu42liIqe7jFo2fQtBN7nGKfzrUKEVSu58vCN6NqS38a4pusM3RksBQcBL
-y7bwkjkmYv4MgfFVA0oQDJL6EdaFQ/6hMLu7/qlU8b9LoXgb4ER3iXgKH/Rh+ILWJ8CZouKsDS7h
-CSo0hgWtZKaQncsrakQQDn7i69zHI5d7JwOOrLMFzd1DvpsGo/HRSoFGLLZwL4/3sb7JkH1x7H5l
-P0ot64FWtAYBASyLgJcIfI7TRiW9ko36sY5h0pMrzxZo9HFoCwUG6ucLaz644uezcfbmln3Bi9zf
-hG+PCA50A+O7zK1p2F7hnv1nLWfh2ZW3DxBZVgJUE0aGpVQJTwH2NjZMOnrfm6XJIFqlo4q2yGTQ
-l9ESukguwkD7kD6Kq67iPiZZ0cs1StXvxtNTsU0GB9ycFZT2044+lDxit/4l2RtkgGm1zYX3KIru
-xiqx5Aqkrch3md/N6C2mGi98YZK+JtSCH2kcaSJ5xaxNVOMqsf4Pwa7HNQQqom3TyL996VW+EpL4
-S5yXHUcHQ72KxGHzTQnwuNXXWSZP/cZnQnnV7e0ESPYUEnb6S7yvt9WTgK+QskFO1OjcAS2/ftZE
-oX1z64hYK7k6ye2ZUS4wOLS4vBhFlWaCfKzr7+90V6uEu5++7dxtpLsB4BHWy6L5qhA0w/ojk3MU
-BBQLKA99kOu6u5NdB7EWx28ktGX1VPZ95IqdTHT2l46MJsjoqLh7pF+gZ1AsYXjbU2VFgO1tEKPv
-gyJcVfgrjYat3bvFJfMLS5DIrTp4acngtcSc1pO+01KArbJCcWGnoioT67ksVRd4r4ta0jyPA5kA
-6VN9UpC/SRX8GG9qsrHfNhXir/Pq/3gWsrY2KCdLcCUMu6MH9z7Q8M8CZfFL03DwU5ojclpgXRMr
-D2GWKHc44XOmxRS49SyVUtLwfvom+B8lW9g6acFfMv/N2R45ISe7R35WQ4q0yc6khXbhisKHDx38
-zcZ9MFTxeKa4MlPETzN0Xc0YzhaHxvxuobtvEuMQP6/sJrRaUSKUrFFgNmmK1Byrrmsc78/aoyej
-6pcT2Dg8l7nWuG4ZW1KLH0MaumQGTFMYBUkrbrRBCDbWWE5SJ937lq69jJ3dRc0jj2tdUNtew5mv
-8yaouC5Q1u/oKZuiNcd1/thXYF8Bu0fvH5WbqZVUVXN64MTWkUO3mxp9pI68IlZqSaxqKz8eXQQS
-FY59I2FZkV4DnG6VOmIFj1TD7x7/7NWC5hgESc9HkZMqIQ7nS7bOlwVJlrfGH7hFEwRtLr0ENjhd
-gKNSCnzRxBuwFhAp6SKVWdKa40CioIas7CQmChX1AzPZfR6GoUQga/wBkZ9xlMsRL/UxfT+QrlHa
-XBXEoGiPlUs3Pd5p9WhsK76wD9iTGMXjTicDAR477NAZqt7WtX9Z1mmVhiYB25Hm/2dLIUzwFwLv
-vyfRah8hDqVAyrcTD5l6x3BDB0jKgjFk+WR+f8VtcyRDuyt0IlhUCWkSTtZkel9YztFpYP/r3raV
-bwlSjb0nu6K4yxAcDf6UG0+2ao3M5BNLkjDazsYxsIA0wqfEoRWBP63odrUYe3rxjQOvv5Ug5oR9
-pe0citx2hD1oWkDNR2WwKPAWw+12DGsVepE5GFiefxB4c40mW8I25esQoxwV6vrsrgIDo9BFtyjZ
-46hbc0WtRLw1ulM37maLlLGZP8fUU1d2+piX23Dl4plgJFfLqSnLRs5nj2JZzXcBehLWaTskW2WS
-tzNNUkr64kOe2Emp1chIugkwlvZOI/RW8PGAEnIX3DH23FKt2xCaeBl8yvVhp6bH0ufea1fSGFX6
-d4REiM2DpzXN+iNfgmj9EmsdxUe4WjCOOSr4wIrCmcsb9zfLeOeMWZGWXPmFWMBG5W8NfK/sA0E7
-B1OFKsoSy2XJtMeArwu/xrR3HVha2rydGFUplFbz9JfzOH5oIaPSZF/24F0+iNajV+3wH87UEDl4
-GnUEh6TMvjW84LWPOBF7PhZ0VyUIxBikgZtBXOLy0RQYBoyI/t+FxRfPPTTfMO9y6kGhPEOwMufj
-NPfqYWoUbl650VEzLJXh9S1W1fRJfDee9DwmTYHknhzo+U+ktzkn3l9ClfJ6Bz/W6IKHJ0XOT5lN
-zcDiTD9gUGo6+M83EQo7HsVBLDWEU52obbGDhLLrl47h1SLYWrrP38dWr0cSffrA/ywP9Y8BAL9h
-AD7GHp6c4r32iEfgsqBFBxHCgS5S8JMY0Lwjw7B03A/7/bq2DukJxge+JhUVBhxdTjrKGCupJ6jt
-lf0MobSTOllFL+pMnMQekh8X8bHO5nMnw9ntbiUwa/UWrFwEWy+dxcvKBj0J4fY8xIM72h2M3TJi
-p79b1HbcYnXix+C3dlkucja9Mm55RlS3gyjhjVsKSL5ZJ2SLTOJD9z9mk0X46bLuZQsoP6dJxfo6
-xLg7R4ToTgcepC0IuNvwTcrff6vfCWLzjXdPMORMWWxS0U8Cssczt7lVV/AALjc/8k7+KjCoybjt
-iWp7c9Dc3j8M84JXatwRemQcxa7NXh9jCifurAYO4Cy14Nz2a21FV60867AkRV+IMbRXvMC5UElf
-l9HJVXO34nwwvMB93rApyr+AZIetK1sSdDBuifTFi0sVm5hOxVfmAkU2efogSVH/3d6vkfiZT6iP
-Y2NV5jHwQDj4mMflAlPr8qvZUH0XfZxbS1efrdYi3tnBMwxpW688LuwNnn8G1lzsOWv1Swgo0GmD
-lLhdBmPU9gekucoTuzUw6fYkjXb+6f57kQ5ua/AiI3rgMjdfG39Jj2lZdAwjFv+l6oU/7OzraJkN
-XKb/VEHQC7mBDtCAETThAEwVdc+CyDlaM1zEmAh00WQK3gTTQOyTIfFU+MYYAmyeDE7Fitss4sI4
-y8zLp94rMosY4ymIFaQBAb0oUt3zvi5ejULOcFl8ytxq9QG83W+T6WTDuLfa3+dz2ayLDkS+UoR1
-uDhLYJ/6DqN+AHh89gv5PhIcjaNskJzNuygzCQZuGOOddOYKtnbOXzipiEzzrTaFDVcFD09G1jGS
-5IXRtQnVfPbhcfjrOj3jwVDLuGlNnHoRecmAPgHfM3zfEx31H7oUsMaGN1iJsKpLiQoq516a2tg4
-Eh73PqQsTZJOLuTlpNeLogOsjgS0dtF7JNLW3UW7n/TK9MJXZ18xBT8t/uweBakkdxKCvlo+EIsc
-I/yvXjyWlmiYh2LBEwSRNqtvHgzW6Izl/4KvhWYVKBXGbDzL/u52wHQOMq3WVRu7gijkVAhBf6SC
-tv0amzw1gHfhuyYizDWGSgB4hpVT7VWVRS5zXTzZcY1nl4R8bXcYOnbGWoEga5S5IwMx2Ski8MIS
-KUVWXskgiFaUo+h9GXsd2vKrO1tgiaPBMP0+dlgem1ThfMjM4OHii73+FwgksjpiMd54M9zKI3EE
-uRph9GbSJzJH6tGUszrwaR3eYn4CssBTOzgZpFkKMjgHtKmSqK1osIVpagLW0rXFXMO0pGyhkU49
-SmjfqOIHwY5IIQr8f1+4njK90mK4L9f7lnoeua3B9EFIopxOAJxA4Qqz0PjVsWRtdGLsqNtH1/Tr
-qwasgsgHRuLof1CRoA3V4ZR4gmHaGEMrL4vi9SrnAjzkE87YO4G1/mSWshKhI+Z+udtIsSI5iAfw
-6sECW6XC2hQoxUD7NFNcPPxfL3J97jWWlh+uUYklwnhlAKKx8dyAslcyKU7C9l2pje0WBI8x2nus
-uxs+2gRyip4d/1AMdHNRBGjNSwLAqrr0FvL+PEMiCX5mRq3NevMcL7zFEVAjGVmBpP8nEkqsx9wa
-xyCvBRw9CdoRNxjS/zkxbTBvm2hxJYKPWmtCr4jy7UThTNo1qd12ovEXsLKuT1D0JgqgRFQuvoJX
-ct7dN1TPtrM8CGX3Da+P6rs4iAWuYo4R9qbjnYRoUYjrqUG906euccE0/FszKqsbjQFn8/cDZXbp
-6b/3L0pz10IITSwRL9lUl0K4S4zleNoWHVxwKjsnNN3XmjQr4uZec/14A3lAvrcRJdrRUHB8vLNE
-KgWMBNtLbQd8+HuuHztYvExUB7D5I4sLXS/9kX/yfs7s7xaK/Xsgk6S6GZvvNbeR9uZtJGVSrsG3
-p0bHAAuaucLSdpPDuKwvofJ5l+yRdbGu+BHV6ckUzBNq9me5gWS6gWY0a5NkoGjl/7hQDGKUutjb
-Y86AP+llMlGoxm/nEhv5kKw/+bzmNkQ1yl0XoqMwAyiLjZ3pS9TJapgUGhSBg8CCWWZHmHVKodtf
-Pwc4sbqTtK9DQdSMFN8DunssQK7DCWO+lKhbiizoOVrHcF+P2gekO3uaxTlP2mIy0Fqme03PD9Cf
-QC85Ps6v+M3ecV0kvICKbq6PYfuvl4IQZq+Ji8+flKcEim9hjC3rzBOsdWQ05nMY4yBsQh6KWiso
-p5VB2ok4M6qSWHNDueQ4qSstA8r+omRuzKk4Yu/k2XKNLVuvxZt/XhuHOXhntChRXKob1XYR+1jI
-U4ardx+zfpvCxF3FsfB08YRcmlf0+s3VTBqebr7F4keqNARre6wqGKFbzWk1qDP3L8D0Vo4bKC4W
-yxroaC1VVSvdFGAuUqxkt+Jn77NpGAuTdJ103HzpWsSDS7OEDo3TYqol3U/rc8i4TcopX3I7qQzp
-qxxPolnASBM9S8ZNAYKlSfsJSD+95NYDwvQ9CS1WZBiIdYAJ+AvDb7hWfsd0zQY6GJMzxcrsJiA3
-lzRpgNhHA3G56luSB7Ew/DiUbR/Q6BXX2+IQoKAp+/7DVWwxPzdAp0hE9zuM+FCm03R1tRt0IJLU
-e5jT0VLq1jJfPnYdXcenNFPeKPosv+7RNEIiK9M6EmIMQH67In/cpuGH50LsqbpS1eQ4UesklPpC
-UdhYFyhpslwAzxDBaezAQWE6Ys7zzlbuSq0s+tehNQE2Uz2QcIuY1CGAEPQW5MJEurjwOMYRSRUa
-5f8YcQl2yPIdeE+12syj4nOhhwiYIqj8O2r2LCwTq/3kQCOpzoOzbjlNbbNyFTWoLEgUXkdJlF0Z
-jVxYahhI9gsd/vD8RwN0oLEVdjmcKHCKEECLr1cDICaa6NG4NCZoLGD2Z3E6hKoVHrpS4Fjmjx2U
-xnyrJScYfR9Dsv/wLen5zWIX3HM3ZOpuV04ryl921J9EWTJpCySgLxiWPxnwLa08AaWTBJ7k+F+3
-bMIMx1Ui4SxbrAcpJj4cCyRmWtNOa8+Q2V+gqWp4iWUpZMlWt/PhauvNwahHvpl72+v03PIGu3wi
-L99wP456WJwDYNYJWlS4hRABEJsgZ+YFpf64Mxd3Wc20a2wHHUWnsbzsaA92HlNj8FAsl2ykkSy0
-/nEFduezocbhdNzc1LOukhbc5rpYfqbTqrS8PjEgx49BFz7sNyYb4o1TZTflOZyDdIzJkxz2l3Er
-1/vNkbd/GnA5Fqg370W51fMetW6BVXeZeriPU5jpHUAW+cv+//N4ADzbl5QD3kdEuM7YS+T+bmap
-/k9Kenw6TRTHRuxd8WNEC4fqOtKfoGMYq89mXPQZve1BzyEHkBBD87ihGCZ6BzBGWk8jtyMd703A
-f2OMp9ELXLSPsG4qk0R/bIS+EApJoxuYw4RPhG91cK9D09URQxlovH7dDuOAhOw6WCkx0szQs/ta
-by59BHaU99MANvvW7R6dSZ7QzMIvjSN/4T9VzkPWWLgn7xqLKj6Tbccw3/nI2g0OrNkwN3tbXiXP
-efLBKSlvkdz7/IAjsMlwuU+gs6nimk6wmLzmfGvWCVQqjOCJlPN26+WQz5W2y6Zd62BTgx9vQ7sP
-jJWVUUICmIohCbH6KK99Ic0wA6S+Iw3kuXzm421pIPoDqUB37f1EWeYKPOJYWoIIT/XAEn1E9/yO
-Kk3tAScNiPfILJzqQOpzdLEG3CC1Wpjbd8okeaW6RqQqHWjNNtPXSUe1E20ikLva6Scg5MBcIS5l
-1GIOccFzfQkj6h4BC7526qEAvvhk7dAAWCxnbZzI1JUEbDzlpc+LJ9R8Ow2A4hEVavUu5DlM9Na1
-qaj142sWj0HPdabKCcQku6XUafbVAt5f72AHe32UHGF0/D3TGo8YJ0/oSGqtwZuptor7giNIZvOD
-3IyDgrdA3rK0mnTnR43JRJW2yV6IoE6b1Cppsqsn7Za9uyJqgnNg5DHUsD0FvsWU2JfegM4EQk9m
-R8UO51azAPjKCY1+ujnkzYQ5j/yCmhIu4wm0/s0hYCH/nhOXQVwBzdkclRi06BN11ULhZEFZ3LrC
-IHx1RqTc0g0jO+dQzqDtMlGuM03kI0F3+BFhKNRZ2KT91Aba2GC7HUGlIoXpd84aDEaSUg3Wh7iH
-uPnv1XwyJb8GpXQ5omTDGSPiLF1r4AttKd+OPljh1zXdDvOu5Z1i5A+Vw8GzTpWUk49vG4+W7jb/
-sNuh04Ybm55Rh5Mow/W4tJYYbt/ksy9YKEs58G6JK5PGPiEWQ2FjteAM4eMA0HEwK5PePUMzigkm
-qiLGKP+gTJySi8AmHWUsEZ24LRzOJc/xYnAx7eI64A4z3E6ANit3m1o0FLfwd8kbL95NdCHMWJB/
-f7rh4IbJSt3EYMpawjE2hxOeZ2PuJO4mRS9fRs08b4b8kNOlT8mc8CM2IUx3P7Jxh4eLMW5qDleY
-K37QuMWNxmx8eZvvESeNZyftMyXIcRPUpTD58d7r8PKI1waIu9d80rJ9wKv9m6Jr6mURGYYMj+qK
-rQVycADcC3M1Ftz0YC1NcMlJbqwIG7djOfPUBE0CleerdVWT8xi4Q/A7tniaD11BJ+do4tdms57M
-C2b0YpDgyiCUrqTD8oU98NjLlh+ZfJPbZRQ4zm4aWiLP0IZQ12CtUpjYA57XMhUZrRm+xeGge/Dy
-f/01SEX1zD7PjE8OuHqiz7m9VE9Sq/IHQNBN8GHhixh4WSrkY3Y3QRuZBO3NwLMwh7PLinVcuBJc
-wJ712l/dp7xQbaCt8mb93aQDlZDQUAmu+giX4ceA8tcdoFdqRfUlVGOs3AJvYCdeK1fBPiyG+ncr
-JeibRuG8t0jsPKWgtEu3RZ5syLlcUdibedYdJlMsCCLhQUZABdc6wzGONsH5iXUDK56D6aXwY/aJ
-+1IEb19nzUk+tzKZ2XIE1IvmoipDSLKHpa7xUYPKNi7yAQPrplecJfIFBaFTrra9Dj4HckuhcZ37
-NIQ0QwDrBSLuEsDDptFUPxdUn7HGBc8feTnVSzg2G5tBaHfw6fZJNHwdbDr4NdmNEL5+Vc3aQ+nz
-kSux+9vvERvf7vsqJgleYykcnDeDXdfJ3kMnuYIjfyLjcNm8mq8S2rHuAfLwx2HgtojhqIlrMYVR
-yfw8DgT5mfdbMBBWdKE3STIKE9ixmj3e8NGa1aWjws+MRpkMWxRFCrl+lY6FUss0Ve+Q42tsc4vV
-ujd2LYZXB/f+fnl222D0FvNi8QNqRJt3pC8jkSQeAbgpXMRS7pTVXf2FI6JPi7hR47hpvU37AUYZ
-53vXLJ4SyhS929LjS2VckObZiyzjjLyfNcexsu5Ibb3eHHU+hSc3rTVLWOhaKNowKduN97czrxvq
-eTmF6erSukcWCh3M/rcMZSCVc3G44k8pNViX2lFChx5BDWdHS27lCnh/LvPxzSub4UCE3dWdtile
-1NHCBnGO5AXWVQL807WECZd2yH37ZfSfxerjjyOIZP7nqBqi31pQK9Jg1o2LmapY30O0C91BNdBL
-JINARXNQk2GT0xOGc+uvGwM2vBBd/KIcWgO74aJ0m4qROgKzHnkEmLMfIntSU0+k93Mx4NwSJe9P
-4ov2rF22qjT+vLP99byDJZMej3SFw5DiDAZFjh3lDL6/yvF/vB3Pxpa01No17JVEs4+G+J1h9Uhb
-v7VVJx3OxJHbLN77o1Zk8jx3+R14LV3WQ0T62GaGmAPfjynFstbGyYWTO2nN1jEQa+j3wD6IFvOR
-/e8Z4NiMHvnCO80IEbTi3YEiE/tGXQ/63UP7GArTZMaPUDZqflBC+/0BTLtS7w2SeFi5alg0xnK0
-Mskze8VXU7kth4U2BFwCvlV3PDTA4EfhIKAoNmtTm4oD12LmjHBMdx2U6lMQDtHDtXIKuQmoYDSd
-NfTOkw6+mEZ6OmpiP05ibg06bY1jysG2D7OqPs8wfY0wgMsY9dsbBSObtl778wOJ/OFSajlAEqN9
-I/TTBBWdwVShg8kKxK1KpiW6uMzmm+31zPVSOIPTc4ZsFgarLOBZk6Z6AiyoVXa+DnP3as1gkt5R
-E9qIdYcpzx1tRsAFRbY5n7zvmxWxKr0i7wUMi49BJvO8f8x5N+E76HCwWFKq1BHCkcAeVg3fjab+
-fCLS+nBDAtiCGxMGQWrLsjTy7J9ySrmN9cCTTzczYAnRZXKHcfMbDKR65/9Qx+pqoOf1Erbs7zh1
-7CSJ1tBxdtPJVGLnCRDu3dR7hE3wZZ8np1MRwK2bKP7DIgGamMwyzxywm+ClUw6ZzOeFYCZAMCFw
-5ICFCb5VnQFEj2JRYRP4W0Pq8YGqPFt+j5AJ3b+Rz2Yy+hLSOk1upX5ajqmaE41jJRHrD8P3EsTX
-2umkNVd462rWP7AbeiGtG6e8/HOPySx2HMaM7KykQ/jZY2htS6tEmRcBJ5Gt+UZmcxvUt+qBzYeJ
-kcx0j3TpxFWNWdz3KPJQFY4tXctKIiJaqzr0dGc5RuG7zcIB1PJdGcKISoYnH5vHbNyI0uYEYsUo
-hT9RivPWTkuNw7Y+xI3idVkWHVmbW17oVhbEgWl/KVNdK1/Srs6bNOw3+aCTrVf5atvvFu1+9uxr
-V61YhI07auvScw2TxwCaaeGY9iKgaREdJRcMzVXFm3kKlSWKtzN6v5aG0i2z9yo7LU+FIXzw9JS4
-6gDs+jnlfwhxOcgoAp2lxV4qmRfgcQc6BwnvS1yX7S+xgt4hGtmUG5wKkQz9jSAFKHjMdvxRmFhU
-CoJ6Cs/uUE1587ZTyMbNbOlYAb9TrB4a26KlDoyfovmmJ8Eo8yd3lGiAdKY0Y3yxZUo2oq6zkP5K
-Q0RIxDfq/rswbnldSDGp7eMZf6CpZpT0xNTKpG9rsi2luA0Vp5yAvQL6EizCFiM94sjwfMZ0saJt
-/XO1eyTPeolTM4ZDiuEj/RZJgYftD8rqCTKBjhRYySCUpr9/rg166TvfqihrLl79fHx6z62/7UB0
-+gveZBJRDeb3VXuQbI3V9TW7h5NTCDq5ctTnMFGuuv3cngdtbjojujfHisqHLpAq/m80XRB5nWlx
-vthtREuoD7Pgh1zdHcu7py5gSGT7MR10ZdUcyyBY20XSU33v+9b9ECgoltua8HCxhZ0Ie0/kdfo2
-OtCUU36XfQ3VbhdYXxLekCuoevwhOKDuS0dEHy/75AShL5J/3V1wg1n5DD77jCsJwNSTH9bZSfbw
-7H2ueIgp/2wJvd9I78GPd2D5kzpC3uFEWcMLYhOd+JC8PekCgBaF1SguC++0djWFsMQWLuz1b2Ho
-fLjlUN5pJ9pL+KyE1wKJD7c2qlLRWEgDewNoKKkxABZeOYxwaqgG3k/Pz0FBrsUrIhUeVJYB67uQ
-tzqx59ZzEDiA/9eJv4qEJ8BV5m62siJk/9OipRzTfhj+0c8V5K8U0GNopWcawR9BxtmaSeV40W7Y
-e39NjGKPe+vpFUcEHIwhO6bnhZJeGEeoEFBVTGg+4wzE0XhRWOPEbX+jfRMhr9zVDhfDEmUqueRY
-T326ZcXHIXsKibjL0qzVYMgWsQg+OiM3A1OuP7lcjT2/nj6cSueZEnJp7ZFy7BF3Bo5hwGC07vJf
-1Oo6cvl+DyoMuUM/e03ULOU9nimxuePljNjtg405lxvyNo3VacJg2IM0HV+yPVmX6Dg7MPfJbs94
-xcmXfGI5ZMjfMLQ7Yli/JUcDHzLOMBR+NubAnb79hJzMK4nVRvN4kmTZrbcEdd3ln3SDxiKdvBP2
-4O/focg3FLUh22tfju5Orashzfn4R2Moo1C+yBYuBjujJqZ12e9t5sUGB57NVIuej/9oBozm8XlW
-ycHM+W8HXOJFyYz0Vf4Cl+aJuPqL7xcYCO5rKOX+EvV2Nw3Rj40Wx1GPPpR2d6O912pqBWhMsERM
-xzEDqyHoIPKzHICtw4uYqNpjq77mPVNnfAisMckCPwEbrDbJB9mGHp5QVQBmT/mNmD/POpLoW5b2
-2qL/TgrrnDZx6W5p8MoPDSwAfC5943MFtb57O8LxXY6PB06NJjUprLdVPWEKFQBSJ6T70YWjPeBv
-PPKh984lh3LK+4iWQn510n5flsOPistnD3UFNA5+kLhzG/M/k7nn2OvOkgaC7PVoh8DMwcST3YUr
-acqXq/1paJQ3A53YvsCUM1+F0pIkFrTb5HhsaFwiOwITOD+5A3t9ZynVO93810xSYSdfDOaLFIAm
-OM6SqpgY7RIoH197outJsad/D45vJNny4xTnf0kdlBuhz/PxzINyPaiM787uweuvAMqw3dJ/TEoO
-Fg+P9XGC1zjLNuEfyHpxhtMRkSk6Mm2+tVM+tnijjPicd+4IJ4E1NxufzQWAM1+dI5rzY48Hflhk
-95WcdJvBbVzkTadHnEWcBZBn0MAVlFrnLjdjAa84nHxn3OzyVHVM/IHIBbe2ZksjKe1uR4LJ2ZC1
-X1JdKtG4eA5gbMaXRFPyw9jPZ24Z2isazJXMyqKu5XNyeUl1BxRNynZw3TzKuZkN1cH/k2ToTuph
-BR/IGwUFPXCoAU4Hb1qjdV3WxR68UcKrtLljg+W47aCr5f3dZE1Yvkg63onK0/yliqn09sUNkswh
-UIpUyFFwUHRxfEy/x1PPkW47b7xqMlUgLVNWCEkyz77uP1U+UWHzi+farcaJzW8HZb3xf8/D7iAI
-pOGEV4ZZlz2VjKkpmI/g7sMJQxxOLh1vM+TfYJ92iwvj4w7xUEC88CBVcUY/M95y6jsc8aYa89fk
-wGfBxMHh7nR2XgkMs2lHJkpZMt5trueCH8m2aC2KA5o1+iTUUOQTr9SJ96WQqGpFPrJFAbjapBN3
-CxzDvtDbVU+ikDvHnHemR4xH9mDmNVhe672XZPzO4B6vlftcaholIFiewRhX4RFHNfqv6vV6TCmw
-xZ+DsFUmRWnUg3fk7f4umAmNQoiiEAxbcvGzySyshsQYSsFbLpW287lYkyKToV94ybnfO5TqBCsL
-K+hg7hnx0jThSNwpTi7eb1IC+cdr6nGSWwSuvTe8bNbHyRf+q0x9n82vidJg9kkiSJOdJ9Voep4K
-8AHGO9w8zlU/J02MbvKXHe8Y6K2tKPAwiBCMXEZ+3ncmd7Tbftj9T3V5bSym2VLNJNVuSxZJ0iAS
-7E3F+nBzn1bASHLj5d1npnKZg4YvRyrEjCAm9RQkO0BWIW==
+/*
+ * This file is part of the Symfony package.
+ *
+ * (c) Fabien Potencier <fabien@symfony.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+namespace Symfony\Component\HttpFoundation;
+
+use Symfony\Component\HttpFoundation\File\File;
+use Symfony\Component\HttpFoundation\File\Exception\FileException;
+
+/**
+ * BinaryFileResponse represents an HTTP response delivering a file.
+ *
+ * @author Niklas Fiekas <niklas.fiekas@tu-clausthal.de>
+ * @author stealth35 <stealth35-php@live.fr>
+ * @author Igor Wiedler <igor@wiedler.ch>
+ * @author Jordan Alliot <jordan.alliot@gmail.com>
+ * @author Sergey Linnik <linniksa@gmail.com>
+ */
+class BinaryFileResponse extends Response
+{
+    protected static $trustXSendfileTypeHeader = false;
+
+    /**
+     * @var File
+     */
+    protected $file;
+    protected $offset;
+    protected $maxlen;
+    protected $deleteFileAfterSend = false;
+
+    /**
+     * @param \SplFileInfo|string $file               The file to stream
+     * @param int                 $status             The response status code
+     * @param array               $headers            An array of response headers
+     * @param bool                $public             Files are public by default
+     * @param null|string         $contentDisposition The type of Content-Disposition to set automatically with the filename
+     * @param bool                $autoEtag           Whether the ETag header should be automatically set
+     * @param bool                $autoLastModified   Whether the Last-Modified header should be automatically set
+     */
+    public function __construct($file, $status = 200, $headers = array(), $public = true, $contentDisposition = null, $autoEtag = false, $autoLastModified = true)
+    {
+        parent::__construct(null, $status, $headers);
+
+        $this->setFile($file, $contentDisposition, $autoEtag, $autoLastModified);
+
+        if ($public) {
+            $this->setPublic();
+        }
+    }
+
+    /**
+     * @param \SplFileInfo|string $file               The file to stream
+     * @param int                 $status             The response status code
+     * @param array               $headers            An array of response headers
+     * @param bool                $public             Files are public by default
+     * @param null|string         $contentDisposition The type of Content-Disposition to set automatically with the filename
+     * @param bool                $autoEtag           Whether the ETag header should be automatically set
+     * @param bool                $autoLastModified   Whether the Last-Modified header should be automatically set
+     *
+     * @return static
+     */
+    public static function create($file = null, $status = 200, $headers = array(), $public = true, $contentDisposition = null, $autoEtag = false, $autoLastModified = true)
+    {
+        return new static($file, $status, $headers, $public, $contentDisposition, $autoEtag, $autoLastModified);
+    }
+
+    /**
+     * Sets the file to stream.
+     *
+     * @param \SplFileInfo|string $file               The file to stream
+     * @param string              $contentDisposition
+     * @param bool                $autoEtag
+     * @param bool                $autoLastModified
+     *
+     * @return $this
+     *
+     * @throws FileException
+     */
+    public function setFile($file, $contentDisposition = null, $autoEtag = false, $autoLastModified = true)
+    {
+        if (!$file instanceof File) {
+            if ($file instanceof \SplFileInfo) {
+                $file = new File($file->getPathname());
+            } else {
+                $file = new File((string) $file);
+            }
+        }
+
+        if (!$file->isReadable()) {
+            throw new FileException('File must be readable.');
+        }
+
+        $this->file = $file;
+
+        if ($autoEtag) {
+            $this->setAutoEtag();
+        }
+
+        if ($autoLastModified) {
+            $this->setAutoLastModified();
+        }
+
+        if ($contentDisposition) {
+            $this->setContentDisposition($contentDisposition);
+        }
+
+        return $this;
+    }
+
+    /**
+     * Gets the file.
+     *
+     * @return File The file to stream
+     */
+    public function getFile()
+    {
+        return $this->file;
+    }
+
+    /**
+     * Automatically sets the Last-Modified header according the file modification date.
+     */
+    public function setAutoLastModified()
+    {
+        $this->setLastModified(\DateTime::createFromFormat('U', $this->file->getMTime()));
+
+        return $this;
+    }
+
+    /**
+     * Automatically sets the ETag header according to the checksum of the file.
+     */
+    public function setAutoEtag()
+    {
+        $this->setEtag(sha1_file($this->file->getPathname()));
+
+        return $this;
+    }
+
+    /**
+     * Sets the Content-Disposition header with the given filename.
+     *
+     * @param string $disposition      ResponseHeaderBag::DISPOSITION_INLINE or ResponseHeaderBag::DISPOSITION_ATTACHMENT
+     * @param string $filename         Optionally use this UTF-8 encoded filename instead of the real name of the file
+     * @param string $filenameFallback A fallback filename, containing only ASCII characters. Defaults to an automatically encoded filename
+     *
+     * @return $this
+     */
+    public function setContentDisposition($disposition, $filename = '', $filenameFallback = '')
+    {
+        if ('' === $filename) {
+            $filename = $this->file->getFilename();
+        }
+
+        if ('' === $filenameFallback && (!preg_match('/^[\x20-\x7e]*$/', $filename) || false !== strpos($filename, '%'))) {
+            $encoding = mb_detect_encoding($filename, null, true) ?: '8bit';
+
+            for ($i = 0, $filenameLength = mb_strlen($filename, $encoding); $i < $filenameLength; ++$i) {
+                $char = mb_substr($filename, $i, 1, $encoding);
+
+                if ('%' === $char || ord($char) < 32 || ord($char) > 126) {
+                    $filenameFallback .= '_';
+                } else {
+                    $filenameFallback .= $char;
+                }
+            }
+        }
+
+        $dispositionHeader = $this->headers->makeDisposition($disposition, $filename, $filenameFallback);
+        $this->headers->set('Content-Disposition', $dispositionHeader);
+
+        return $this;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function prepare(Request $request)
+    {
+        $this->headers->set('Content-Length', $this->file->getSize());
+
+        if (!$this->headers->has('Accept-Ranges')) {
+            // Only accept ranges on safe HTTP methods
+            $this->headers->set('Accept-Ranges', $request->isMethodSafe(false) ? 'bytes' : 'none');
+        }
+
+        if (!$this->headers->has('Content-Type')) {
+            $this->headers->set('Content-Type', $this->file->getMimeType() ?: 'application/octet-stream');
+        }
+
+        if ('HTTP/1.0' !== $request->server->get('SERVER_PROTOCOL')) {
+            $this->setProtocolVersion('1.1');
+        }
+
+        $this->ensureIEOverSSLCompatibility($request);
+
+        $this->offset = 0;
+        $this->maxlen = -1;
+
+        if (self::$trustXSendfileTypeHeader && $request->headers->has('X-Sendfile-Type')) {
+            // Use X-Sendfile, do not send any content.
+            $type = $request->headers->get('X-Sendfile-Type');
+            $path = $this->file->getRealPath();
+            // Fall back to scheme://path for stream wrapped locations.
+            if (false === $path) {
+                $path = $this->file->getPathname();
+            }
+            if ('x-accel-redirect' === strtolower($type)) {
+                // Do X-Accel-Mapping substitutions.
+                // @link http://wiki.nginx.org/X-accel#X-Accel-Redirect
+                foreach (explode(',', $request->headers->get('X-Accel-Mapping', '')) as $mapping) {
+                    $mapping = explode('=', $mapping, 2);
+
+                    if (2 === count($mapping)) {
+                        $pathPrefix = trim($mapping[0]);
+                        $location = trim($mapping[1]);
+
+                        if (substr($path, 0, strlen($pathPrefix)) === $pathPrefix) {
+                            $path = $location.substr($path, strlen($pathPrefix));
+                            break;
+                        }
+                    }
+                }
+            }
+            $this->headers->set($type, $path);
+            $this->maxlen = 0;
+        } elseif ($request->headers->has('Range')) {
+            // Process the range headers.
+            if (!$request->headers->has('If-Range') || $this->hasValidIfRangeHeader($request->headers->get('If-Range'))) {
+                $range = $request->headers->get('Range');
+                $fileSize = $this->file->getSize();
+
+                list($start, $end) = explode('-', substr($range, 6), 2) + array(0);
+
+                $end = ('' === $end) ? $fileSize - 1 : (int) $end;
+
+                if ('' === $start) {
+                    $start = $fileSize - $end;
+                    $end = $fileSize - 1;
+                } else {
+                    $start = (int) $start;
+                }
+
+                if ($start <= $end) {
+                    if ($start < 0 || $end > $fileSize - 1) {
+                        $this->setStatusCode(416);
+                        $this->headers->set('Content-Range', sprintf('bytes */%s', $fileSize));
+                    } elseif (0 !== $start || $end !== $fileSize - 1) {
+                        $this->maxlen = $end < $fileSize ? $end - $start + 1 : -1;
+                        $this->offset = $start;
+
+                        $this->setStatusCode(206);
+                        $this->headers->set('Content-Range', sprintf('bytes %s-%s/%s', $start, $end, $fileSize));
+                        $this->headers->set('Content-Length', $end - $start + 1);
+                    }
+                }
+            }
+        }
+
+        return $this;
+    }
+
+    private function hasValidIfRangeHeader($header)
+    {
+        if ($this->getEtag() === $header) {
+            return true;
+        }
+
+        if (null === $lastModified = $this->getLastModified()) {
+            return false;
+        }
+
+        return $lastModified->format('D, d M Y H:i:s').' GMT' === $header;
+    }
+
+    /**
+     * Sends the file.
+     *
+     * {@inheritdoc}
+     */
+    public function sendContent()
+    {
+        if (!$this->isSuccessful()) {
+            return parent::sendContent();
+        }
+
+        if (0 === $this->maxlen) {
+            return $this;
+        }
+
+        $out = fopen('php://output', 'wb');
+        $file = fopen($this->file->getPathname(), 'rb');
+
+        stream_copy_to_stream($file, $out, $this->maxlen, $this->offset);
+
+        fclose($out);
+        fclose($file);
+
+        if ($this->deleteFileAfterSend) {
+            unlink($this->file->getPathname());
+        }
+
+        return $this;
+    }
+
+    /**
+     * {@inheritdoc}
+     *
+     * @throws \LogicException when the content is not null
+     */
+    public function setContent($content)
+    {
+        if (null !== $content) {
+            throw new \LogicException('The content cannot be set on a BinaryFileResponse instance.');
+        }
+    }
+
+    /**
+     * {@inheritdoc}
+     *
+     * @return false
+     */
+    public function getContent()
+    {
+        return false;
+    }
+
+    /**
+     * Trust X-Sendfile-Type header.
+     */
+    public static function trustXSendfileTypeHeader()
+    {
+        self::$trustXSendfileTypeHeader = true;
+    }
+
+    /**
+     * If this is set to true, the file will be unlinked after the request is send
+     * Note: If the X-Sendfile header is used, the deleteFileAfterSend setting will not be used.
+     *
+     * @param bool $shouldDelete
+     *
+     * @return $this
+     */
+    public function deleteFileAfterSend($shouldDelete)
+    {
+        $this->deleteFileAfterSend = $shouldDelete;
+
+        return $this;
+    }
+}

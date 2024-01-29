@@ -1,74 +1,37 @@
-<?php //ICB0 56:0 71:c0d                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+namespace League\Flysystem;
 
-?>
-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
-wonm1YglDdKvTJXLCO5zjA5W0ydo
+use RuntimeException;
+use SplFileInfo;
+
+class NotSupportedException extends RuntimeException
+{
+    /**
+     * Create a new exception for a link.
+     *
+     * @param SplFileInfo $file
+     *
+     * @return static
+     */
+    public static function forLink(SplFileInfo $file)
+    {
+        $message = 'Links are not supported, encountered link at ';
+
+        return new static($message . $file->getPathname());
+    }
+
+    /**
+     * Create a new exception for a link.
+     *
+     * @param string $systemType
+     *
+     * @return static
+     */
+    public static function forFtpSystemType($systemType)
+    {
+        $message = "The FTP system type '$systemType' is currently not supported.";
+
+        return new static($message);
+    }
+}

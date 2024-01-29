@@ -1,105 +1,136 @@
-<?php //ICB0 56:0 71:1070                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-P1mLAYRFKXys0/KhjWramwS==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Blob\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2017 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+ 
+namespace MicrosoftAzure\Storage\Blob\Models;
 
-?>
-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
-uoPz+6p3zt+Nf/fqCLjWhJHJAT9teH/NgZq=
+/**
+ * optional parameters for CopyBlobOptions wrapper
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Blob\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2017 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+class CopyBlobFromURLOptions extends BlobServiceOptions
+{
+    private $sourceLeaseId;
+    private $sourceAccessConditions;
+    private $metadata;
+    private $isIncrementalCopy;
+    
+    /**
+     * Gets source access condition
+     *
+     * @return AccessCondition[]
+     */
+    public function getSourceAccessConditions()
+    {
+        return $this->sourceAccessConditions;
+    }
+    
+    /**
+     * Sets source access condition
+     *
+     * @param array $sourceAccessConditions value to use.
+     *
+     * @return void
+     */
+    public function setSourceAccessConditions($sourceAccessConditions)
+    {
+        if (!is_null($sourceAccessConditions) &&
+            is_array($sourceAccessConditions)) {
+            $this->sourceAccessConditions = $sourceAccessConditions;
+        } else {
+            $this->sourceAccessConditions = [$sourceAccessConditions];
+        }
+    }
+    
+    /**
+     * Gets metadata.
+     *
+     * @return array
+     */
+    public function getMetadata()
+    {
+        return $this->metadata;
+    }
+
+    /**
+     * Sets metadata.
+     *
+     * @param array $metadata value.
+     *
+     * @return void
+     */
+    public function setMetadata(array $metadata)
+    {
+        $this->metadata = $metadata;
+    }
+
+    /**
+     * Gets source lease ID.
+     *
+     * @return string
+     */
+    public function getSourceLeaseId()
+    {
+        return $this->sourceLeaseId;
+    }
+
+    /**
+     * Sets source lease ID.
+     *
+     * @param string $sourceLeaseId value.
+     *
+     * @return void
+     */
+    public function setSourceLeaseId($sourceLeaseId)
+    {
+        $this->sourceLeaseId = $sourceLeaseId;
+    }
+
+    /**
+     * Gets isIncrementalCopy.
+     *
+     * @return boolean
+     */
+    public function getIsIncrementalCopy()
+    {
+        return $this->isIncrementalCopy;
+    }
+
+    /**
+     * Sets isIncrementalCopy.
+     *
+     * @param boolean $isIncrementalCopy
+     *
+     * @return void
+     */
+    public function setIsIncrementalCopy($isIncrementalCopy)
+    {
+        $this->isIncrementalCopy = $isIncrementalCopy;
+    }
+}

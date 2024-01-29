@@ -1,89 +1,134 @@
-<?php //ICB0 56:0 71:e04                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-2NABoxnviM5Heejo3G4==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\File\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+ 
+namespace MicrosoftAzure\Storage\File\Models;
 
-?>
-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
+use Psr\Http\Message\StreamInterface;
+
+/**
+ * Holds result of GetFile API.
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\File\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+class GetFileResult
+{
+    private $properties;
+    private $metadata;
+    private $contentStream;
+    
+    /**
+     * Creates GetFileResult from getFile call.
+     *
+     * @param array           $headers  The HTTP response headers.
+     * @param StreamInterface $body     The response body.
+     * @param array           $metadata The file metadata.
+     *
+     * @internal
+     *
+     * @return GetFileResult
+     */
+    public static function create(
+        array $headers,
+        StreamInterface $body,
+        array $metadata
+    ) {
+        $result = new GetFileResult();
+        $result->setContentStream($body->detach());
+        $result->setProperties(FileProperties::createFromHttpHeaders($headers));
+        $result->setMetadata(is_null($metadata) ? array() : $metadata);
+        
+        return $result;
+    }
+    
+    /**
+     * Gets file metadata.
+     *
+     * @return array
+     */
+    public function getMetadata()
+    {
+        return $this->metadata;
+    }
+
+    /**
+     * Sets file metadata.
+     *
+     * @param array $metadata value.
+     *
+     * @return void
+     */
+    protected function setMetadata(array $metadata)
+    {
+        $this->metadata = $metadata;
+    }
+    
+    /**
+     * Gets file properties.
+     *
+     * @return FileProperties
+     */
+    public function getProperties()
+    {
+        return $this->properties;
+    }
+
+    /**
+     * Sets file properties.
+     *
+     * @param FileProperties $properties value.
+     *
+     * @return void
+     */
+    protected function setProperties(FileProperties $properties)
+    {
+        $this->properties = $properties;
+    }
+    
+    /**
+     * Gets file contentStream.
+     *
+     * @return \resource
+     */
+    public function getContentStream()
+    {
+        return $this->contentStream;
+    }
+
+    /**
+     * Sets file contentStream.
+     *
+     * @param \resource $contentStream The stream handle.
+     *
+     * @return void
+     */
+    protected function setContentStream($contentStream)
+    {
+        $this->contentStream = $contentStream;
+    }
+}

@@ -1,153 +1,420 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2017, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2017, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license	http://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 3.0.0
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
+/**
+ * CodeIgniter Session Database Driver
+ *
+ * @package	CodeIgniter
+ * @subpackage	Libraries
+ * @category	Sessions
+ * @author	Andrey Andreev
+ * @link	https://codeigniter.com/user_guide/libraries/sessions.html
+ */
+class CI_Session_database_driver extends CI_Session_driver implements SessionHandlerInterface {
+
+	/**
+	 * DB object
+	 *
+	 * @var	object
+	 */
+	protected $_db;
+
+	/**
+	 * Row exists flag
+	 *
+	 * @var	bool
+	 */
+	protected $_row_exists = FALSE;
+
+	/**
+	 * Lock "driver" flag
+	 *
+	 * @var	string
+	 */
+	protected $_platform;
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Class constructor
+	 *
+	 * @param	array	$params	Configuration parameters
+	 * @return	void
+	 */
+	public function __construct(&$params)
+	{
+		parent::__construct($params);
+
+		$CI =& get_instance();
+		isset($CI->db) OR $CI->load->database();
+		$this->_db = $CI->db;
+
+		if ( ! $this->_db instanceof CI_DB_query_builder)
+		{
+			throw new Exception('Query Builder not enabled for the configured database. Aborting.');
+		}
+		elseif ($this->_db->pconnect)
+		{
+			throw new Exception('Configured database connection is persistent. Aborting.');
+		}
+		elseif ($this->_db->cache_on)
+		{
+			throw new Exception('Configured database connection has cache enabled. Aborting.');
+		}
+
+		$db_driver = $this->_db->dbdriver.(empty($this->_db->subdriver) ? '' : '_'.$this->_db->subdriver);
+		if (strpos($db_driver, 'mysql') !== FALSE)
+		{
+			$this->_platform = 'mysql';
+		}
+		elseif (in_array($db_driver, array('postgre', 'pdo_pgsql'), TRUE))
+		{
+			$this->_platform = 'postgre';
+		}
+
+		// Note: BC work-around for the old 'sess_table_name' setting, should be removed in the future.
+		if ( ! isset($this->_config['save_path']) && ($this->_config['save_path'] = config_item('sess_table_name')))
+		{
+			log_message('debug', 'Session: "sess_save_path" is empty; using BC fallback to "sess_table_name".');
+		}
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Open
+	 *
+	 * Initializes the database connection
+	 *
+	 * @param	string	$save_path	Table name
+	 * @param	string	$name		Session cookie name, unused
+	 * @return	bool
+	 */
+	public function open($save_path, $name)
+	{
+		if (empty($this->_db->conn_id) && ! $this->_db->db_connect())
+		{
+			return $this->_fail();
+		}
+
+		return $this->_success;
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Read
+	 *
+	 * Reads session data and acquires a lock
+	 *
+	 * @param	string	$session_id	Session ID
+	 * @return	string	Serialized session data
+	 */
+	public function read($session_id)
+	{
+		if ($this->_get_lock($session_id) !== FALSE)
+		{
+			// Prevent previous QB calls from messing with our queries
+			$this->_db->reset_query();
+
+			// Needed by write() to detect session_regenerate_id() calls
+			$this->_session_id = $session_id;
+
+			$this->_db
+				->select('data')
+				->from($this->_config['save_path'])
+				->where('id', $session_id);
+
+			if ($this->_config['match_ip'])
+			{
+				$this->_db->where('ip_address', $_SERVER['REMOTE_ADDR']);
+			}
+
+			if ( ! ($result = $this->_db->get()) OR ($result = $result->row()) === NULL)
+			{
+				// PHP7 will reuse the same SessionHandler object after
+				// ID regeneration, so we need to explicitly set this to
+				// FALSE instead of relying on the default ...
+				$this->_row_exists = FALSE;
+				$this->_fingerprint = md5('');
+				return '';
+			}
+
+			// PostgreSQL's variant of a BLOB datatype is Bytea, which is a
+			// PITA to work with, so we use base64-encoded data in a TEXT
+			// field instead.
+			$result = ($this->_platform === 'postgre')
+				? base64_decode(rtrim($result->data))
+				: $result->data;
+
+			$this->_fingerprint = md5($result);
+			$this->_row_exists = TRUE;
+			return $result;
+		}
+
+		$this->_fingerprint = md5('');
+		return '';
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Write
+	 *
+	 * Writes (create / update) session data
+	 *
+	 * @param	string	$session_id	Session ID
+	 * @param	string	$session_data	Serialized session data
+	 * @return	bool
+	 */
+	public function write($session_id, $session_data)
+	{
+		// Prevent previous QB calls from messing with our queries
+		$this->_db->reset_query();
+
+		// Was the ID regenerated?
+		if (isset($this->_session_id) && $session_id !== $this->_session_id)
+		{
+			if ( ! $this->_release_lock() OR ! $this->_get_lock($session_id))
+			{
+				return $this->_fail();
+			}
+
+			$this->_row_exists = FALSE;
+			$this->_session_id = $session_id;
+		}
+		elseif ($this->_lock === FALSE)
+		{
+			return $this->_fail();
+		}
+
+		if ($this->_row_exists === FALSE)
+		{
+			$insert_data = array(
+				'id' => $session_id,
+				'ip_address' => $_SERVER['REMOTE_ADDR'],
+				'timestamp' => time(),
+				'data' => ($this->_platform === 'postgre' ? base64_encode($session_data) : $session_data)
+			);
+
+			if ($this->_db->insert($this->_config['save_path'], $insert_data))
+			{
+				$this->_fingerprint = md5($session_data);
+				$this->_row_exists = TRUE;
+				return $this->_success;
+			}
+
+			return $this->_fail();
+		}
+
+		$this->_db->where('id', $session_id);
+		if ($this->_config['match_ip'])
+		{
+			$this->_db->where('ip_address', $_SERVER['REMOTE_ADDR']);
+		}
+
+		$update_data = array('timestamp' => time());
+		if ($this->_fingerprint !== md5($session_data))
+		{
+			$update_data['data'] = ($this->_platform === 'postgre')
+				? base64_encode($session_data)
+				: $session_data;
+		}
+
+		if ($this->_db->update($this->_config['save_path'], $update_data))
+		{
+			$this->_fingerprint = md5($session_data);
+			return $this->_success;
+		}
+
+		return $this->_fail();
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Close
+	 *
+	 * Releases locks
+	 *
+	 * @return	bool
+	 */
+	public function close()
+	{
+		return ($this->_lock && ! $this->_release_lock())
+			? $this->_fail()
+			: $this->_success;
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Destroy
+	 *
+	 * Destroys the current session.
+	 *
+	 * @param	string	$session_id	Session ID
+	 * @return	bool
+	 */
+	public function destroy($session_id)
+	{
+		if ($this->_lock)
+		{
+			// Prevent previous QB calls from messing with our queries
+			$this->_db->reset_query();
+
+			$this->_db->where('id', $session_id);
+			if ($this->_config['match_ip'])
+			{
+				$this->_db->where('ip_address', $_SERVER['REMOTE_ADDR']);
+			}
+
+			if ( ! $this->_db->delete($this->_config['save_path']))
+			{
+				return $this->_fail();
+			}
+		}
+
+		if ($this->close() === $this->_success)
+		{
+			$this->_cookie_destroy();
+			return $this->_success;
+		}
+
+		return $this->_fail();
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Garbage Collector
+	 *
+	 * Deletes expired sessions
+	 *
+	 * @param	int 	$maxlifetime	Maximum lifetime of sessions
+	 * @return	bool
+	 */
+	public function gc($maxlifetime)
+	{
+		// Prevent previous QB calls from messing with our queries
+		$this->_db->reset_query();
+
+		return ($this->_db->delete($this->_config['save_path'], 'timestamp < '.(time() - $maxlifetime)))
+			? $this->_success
+			: $this->_fail();
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Get lock
+	 *
+	 * Acquires a lock, depending on the underlying platform.
+	 *
+	 * @param	string	$session_id	Session ID
+	 * @return	bool
+	 */
+	protected function _get_lock($session_id)
+	{
+		if ($this->_platform === 'mysql')
+		{
+			$arg = md5($session_id.($this->_config['match_ip'] ? '_'.$_SERVER['REMOTE_ADDR'] : ''));
+			if ($this->_db->query("SELECT GET_LOCK('".$arg."', 300) AS ci_session_lock")->row()->ci_session_lock)
+			{
+				$this->_lock = $arg;
+				return TRUE;
+			}
+
+			return FALSE;
+		}
+		elseif ($this->_platform === 'postgre')
+		{
+			$arg = "hashtext('".$session_id."')".($this->_config['match_ip'] ? ", hashtext('".$_SERVER['REMOTE_ADDR']."')" : '');
+			if ($this->_db->simple_query('SELECT pg_advisory_lock('.$arg.')'))
+			{
+				$this->_lock = $arg;
+				return TRUE;
+			}
+
+			return FALSE;
+		}
+
+		return parent::_get_lock($session_id);
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Release lock
+	 *
+	 * Releases a previously acquired lock
+	 *
+	 * @return	bool
+	 */
+	protected function _release_lock()
+	{
+		if ( ! $this->_lock)
+		{
+			return TRUE;
+		}
+
+		if ($this->_platform === 'mysql')
+		{
+			if ($this->_db->query("SELECT RELEASE_LOCK('".$this->_lock."') AS ci_session_lock")->row()->ci_session_lock)
+			{
+				$this->_lock = FALSE;
+				return TRUE;
+			}
+
+			return FALSE;
+		}
+		elseif ($this->_platform === 'postgre')
+		{
+			if ($this->_db->simple_query('SELECT pg_advisory_unlock('.$this->_lock.')'))
+			{
+				$this->_lock = FALSE;
+				return TRUE;
+			}
+
+			return FALSE;
+		}
+
+		return parent::_release_lock();
+	}
+}

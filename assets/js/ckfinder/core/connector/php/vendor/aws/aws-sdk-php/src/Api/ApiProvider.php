@@ -1,184 +1,244 @@
-<?php //ICB0 56:0 71:1b6c                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\Api;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use Aws\Exception\UnresolvedApiException;
 
-?>
-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
+/**
+ * API providers.
+ *
+ * An API provider is a function that accepts a type, service, and version and
+ * returns an array of API data on success or NULL if no API data can be created
+ * for the provided arguments.
+ *
+ * You can wrap your calls to an API provider with the
+ * {@see ApiProvider::resolve} method to ensure that API data is created. If the
+ * API data is not created, then the resolve() method will throw a
+ * {@see Aws\Exception\UnresolvedApiException}.
+ *
+ *     use Aws\Api\ApiProvider;
+ *     $provider = ApiProvider::defaultProvider();
+ *     // Returns an array or NULL.
+ *     $data = $provider('api', 's3', '2006-03-01');
+ *     // Returns an array or throws.
+ *     $data = ApiProvider::resolve($provider, 'api', 'elasticfood', '2020-01-01');
+ *
+ * You can compose multiple providers into a single provider using
+ * {@see Aws\or_chain}. This method accepts providers as arguments and
+ * returns a new function that will invoke each provider until a non-null value
+ * is returned.
+ *
+ *     $a = ApiProvider::filesystem(sys_get_temp_dir() . '/aws-beta-models');
+ *     $b = ApiProvider::manifest();
+ *
+ *     $c = \Aws\or_chain($a, $b);
+ *     $data = $c('api', 'betaservice', '2015-08-08'); // $a handles this.
+ *     $data = $c('api', 's3', '2006-03-01');          // $b handles this.
+ *     $data = $c('api', 'invalid', '2014-12-15');     // Neither handles this.
+ */
+class ApiProvider
+{
+    /** @var array A map of public API type names to their file suffix. */
+    private static $typeMap = [
+        'api'       => 'api-2',
+        'paginator' => 'paginators-1',
+        'waiter'    => 'waiters-2',
+        'docs'      => 'docs-2',
+    ];
+
+    /** @var array API manifest */
+    private $manifest;
+
+    /** @var string The directory containing service models. */
+    private $modelsDir;
+
+    /**
+     * Resolves an API provider and ensures a non-null return value.
+     *
+     * @param callable $provider Provider function to invoke.
+     * @param string   $type     Type of data ('api', 'waiter', 'paginator').
+     * @param string   $service  Service name.
+     * @param string   $version  API version.
+     *
+     * @return array
+     * @throws UnresolvedApiException
+     */
+    public static function resolve(callable $provider, $type, $service, $version)
+    {
+        // Execute the provider and return the result, if there is one.
+        $result = $provider($type, $service, $version);
+        if (is_array($result)) {
+            if (!isset($result['metadata']['serviceIdentifier'])) {
+                $result['metadata']['serviceIdentifier'] = $service;
+            }
+            return $result;
+        }
+
+        // Throw an exception with a message depending on the inputs.
+        if (!isset(self::$typeMap[$type])) {
+            $msg = "The type must be one of: " . implode(', ', self::$typeMap);
+        } elseif ($service) {
+            $msg = "The {$service} service does not have version: {$version}.";
+        } else {
+            $msg = "You must specify a service name to retrieve its API data.";
+        }
+
+        throw new UnresolvedApiException($msg);
+    }
+
+    /**
+     * Default SDK API provider.
+     *
+     * This provider loads pre-built manifest data from the `data` directory.
+     *
+     * @return self
+     */
+    public static function defaultProvider()
+    {
+        return new self(__DIR__ . '/../data', \Aws\manifest());
+    }
+
+    /**
+     * Loads API data after resolving the version to the latest, compatible,
+     * available version based on the provided manifest data.
+     *
+     * Manifest data is essentially an associative array of service names to
+     * associative arrays of API version aliases.
+     *
+     * [
+     *   ...
+     *   'ec2' => [
+     *     'latest'     => '2014-10-01',
+     *     '2014-10-01' => '2014-10-01',
+     *     '2014-09-01' => '2014-10-01',
+     *     '2014-06-15' => '2014-10-01',
+     *     ...
+     *   ],
+     *   'ecs' => [...],
+     *   'elasticache' => [...],
+     *   ...
+     * ]
+     *
+     * @param string $dir      Directory containing service models.
+     * @param array  $manifest The API version manifest data.
+     *
+     * @return self
+     */
+    public static function manifest($dir, array $manifest)
+    {
+        return new self($dir, $manifest);
+    }
+
+    /**
+     * Loads API data from the specified directory.
+     *
+     * If "latest" is specified as the version, this provider must glob the
+     * directory to find which is the latest available version.
+     *
+     * @param string $dir Directory containing service models.
+     *
+     * @return self
+     * @throws \InvalidArgumentException if the provided `$dir` is invalid.
+     */
+    public static function filesystem($dir)
+    {
+        return new self($dir);
+    }
+
+    /**
+     * Retrieves a list of valid versions for the specified service.
+     *
+     * @param string $service Service name
+     *
+     * @return array
+     */
+    public function getVersions($service)
+    {
+        if (!isset($this->manifest)) {
+            $this->buildVersionsList($service);
+        }
+
+        if (!isset($this->manifest[$service]['versions'])) {
+            return [];
+        }
+
+        return array_values(array_unique($this->manifest[$service]['versions']));
+    }
+
+    /**
+     * Execute the the provider.
+     *
+     * @param string $type    Type of data ('api', 'waiter', 'paginator').
+     * @param string $service Service name.
+     * @param string $version API version.
+     *
+     * @return array|null
+     */
+    public function __invoke($type, $service, $version)
+    {
+        // Resolve the type or return null.
+        if (isset(self::$typeMap[$type])) {
+            $type = self::$typeMap[$type];
+        } else {
+            return null;
+        }
+
+        // Resolve the version or return null.
+        if (!isset($this->manifest)) {
+            $this->buildVersionsList($service);
+        }
+
+        if (!isset($this->manifest[$service]['versions'][$version])) {
+            return null;
+        }
+
+        $version = $this->manifest[$service]['versions'][$version];
+        $path = "{$this->modelsDir}/{$service}/{$version}/{$type}.json";
+
+        try {
+            return \Aws\load_compiled_json($path);
+        } catch (\InvalidArgumentException $e) {
+            return null;
+        }
+    }
+
+    /**
+     * @param string $modelsDir Directory containing service models.
+     * @param array  $manifest  The API version manifest data.
+     */
+    private function __construct($modelsDir, array $manifest = null)
+    {
+        $this->manifest = $manifest;
+        $this->modelsDir = rtrim($modelsDir, '/');
+        if (!is_dir($this->modelsDir)) {
+            throw new \InvalidArgumentException(
+                "The specified models directory, {$modelsDir}, was not found."
+            );
+        }
+    }
+
+    /**
+     * Build the versions list for the specified service by globbing the dir.
+     */
+    private function buildVersionsList($service)
+    {
+        $dir = "{$this->modelsDir}/{$service}/";
+
+        if (!is_dir($dir)) {
+            return;
+        }
+
+        // Get versions, remove . and .., and sort in descending order.
+        $results = array_diff(scandir($dir, SCANDIR_SORT_DESCENDING), ['..', '.']);
+
+        if (!$results) {
+            $this->manifest[$service] = ['versions' => []];
+        } else {
+            $this->manifest[$service] = [
+                'versions' => [
+                    'latest' => $results[0]
+                ]
+            ];
+            $this->manifest[$service]['versions'] += array_combine($results, $results);
+        }
+    }
+}

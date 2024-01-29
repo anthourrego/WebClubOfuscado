@@ -1,136 +1,154 @@
-<?php //ICB0 56:0 71:1481                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cPuxL7e9cTUErVncBeQN8CzGTHkvjlVljRhguSrjo8KwCFgLEtw3H5x/mdUK9x808CJSxD5/s
-08vr2+5k/oI8fAdOxGfVQgKkr1nAmy3RXfLGGhDw93TfHt27fH9/YjrnJMOCbdFV9E3q96C2+oY9
-1s3oGL1GA/iD5VXFh4JyfYgBiWgOx+8wjcIX0fh1ZXpRJcO703GHnl2OiYhy9o0p+bbbatc56MR2
-GYJM/ATIXhJRBKEke4Wz9xoYxioR4BPCWVxixf02/8wULxI9snptqslkK85fB1K2rQHKbGl8vyuk
-E41CCQ3Imf4AEjL842saPfASSCIUOuCK5x4GU7GVQ7/gq9bdI4783atiaikFMT84dSPirYQC2alD
-CvojfQDgZTg/5Pul4+T1MaAbwSPXaYrGzgHOCDqxPYr99QeSRmzlr6XKy7zSt8NLJbS8aiFyuJye
-JLivsUqDzP78ftL+cYjOCzcGY7VNMdmIRiZxiHgWmlv6WFqeI99pgHX9zBnuXc9HMkx55+difXQ5
-tWILiaInURKU68YjCJu50yYeTnulIgeFtHL96H4P64rqds730UagKc3ikOwWjZ1tTnYMX18KWozq
-qDQ4Z2vc88JArn3t4ZUJ7svMLYXk2o/r6Q87cNX863l6QsKJ3+ymD/ebGwJeQVlCVO5PV6zS6eKc
-1jDc4Uw91RIy+z5izL1YPM/Ysk+QdsGJv4+ok0DiubAWmR+SC0RiIxbTAiaoxgsPsXP0LIBJsZr0
-CdxBbd/QgxOlJ75tORfkJ88eGwtgA2h57lbhzseMgkvOemXRXvyvtS8l40qIaFQVY/KISR5kHOiW
-AI/NkGA0QLa/CFOg+tsJ5Mxzzub7weRP8TC1XYCZbAdlb2EWnYz0cK0gy40Kh+ZD1qRgBQPgoOy0
-9gA/gy3rYQt5QxBsT0Fg7NyXcOvU1+1Ca0uq8XyBbgeMEWsTd+K6I78kXd4+5y2cn9/bKJ/aCGeR
-UEdYpH3EIIv+PJc4FVRN4206euQV+5gUEMlt2PRlztgcMdUic1HmnId0UABRYxJq5U85YXB7jIAv
-j2SgkIPyPUC1BYx5dHh/6jj/NPOEfaLhlyoRmmHjkVvqnSJBxoD8N4WFc5BI8IyIAa9A5yi8VlBB
-RlDNNN4LIlBO7PScPQp8IcWnjBhf0CfqJDCfjiMCqPrwyGjM18acpv+38LwjqM54KwwwVTeYY1MR
-+MHBnDZSmC0Yi4tEB5HGl3gYqhCIWufSINY6vtM6Ou3efnXNaNUU5yiRypdRY/U46Ugfx0/qdVNa
-1a+/KadxmqUutY6QoJv364XuQ9jSxC+Pi8tGL2VMRncTMYK8vDt1GF18AHS2Eu+36AxKHEW/te9b
-nNRlWBtyu7xSUjE2xDkHOmHgnz2sQsNx7mFjwuwEZuB5jevwYRzgrxn1VeOBb3DD0W6nWcPYmXRe
-sFipYw/urAvJwuEvVJLmJEHU+CQWPIrsXU7NUXTmpTPBH6TpNeaFfEcJm7RzWybQ4N23rNZaWmF+
-3ToTGqndjhxJc5rJ3FEuKNsga8NwPHK6GhLvJYXwUMLfZETYFs8zO4lvTbLQyQKzlSmQsYqnU7/8
-cB/9LMtijATRBLLFf/IXlqSIcLFOQrZTNd5ATXhgVrCYUjXcfJqZsHfeIB3TvbKMfQLgZa4oReJl
-UgeCFYa9x1zx70FDQHhinkt7/6kd7VzsmPGSCHPEiqupRf9sX9tT3rP09grvCdhOTwt4JxF8a7mO
-6zlnvaRaEgOeDNoAVfB2LWPsGxH8M4L/E2I/g4DogZgndPv6hpcw7bu9Q/Ofi+kXuBgoroCTL8O9
-bC0VLRa+mNUDIPDVHFl3sq3N7dC2DYGINf7xN8CJ0Y1p0Hz3KFblG17DouxamZqSLfRHwDuhr6g/
-GsWeAxcMVse42DdqN9lb584t1BwZKGWpJnPDJTaU8hznuExIBqGl+r5K6pTli2bU4xYPNndqjvYV
-1YxriEuz1k1+ffyOzPmUuOJgN/6eTil7513WKsrswH8/OE6mIwFFpAvn3/m3jRY4IeO6/oNMUxAa
-NWlhR8FeKyefChKbT4cOjeTXHjH123a/pRoo+57fsCG16DTX689OYKKE5alc3v1vSibGyc1aCOuZ
-Tk9cxYS5yyolS/PPQ++RaqH0S6tvxdgexG4BsDlHczyFJnocqQissEYoMceKbNFSaNbDH0lHKbhw
-I/T2CCFqRO7nPwOVKlmW4HR9u2iDcknPsyW0mOspNu1+TUXckDf3IztnUQnX31C9v6IqcQy6NIPd
-bUubzRW5Ye+B9WOfBJubexryg9syDmRkj4JVm+4JoR8aTf/8xFsJS2n/MZzT/OBwQirdtlVMEc+y
-UnQS6fFrOWFXz4W3CMU6Sf0VmhTieHhF1mWKhlhAPZUU8Fh7jsEgN6AH7IrmGsb9zsCDmv7NiRup
-CCa9Vo8Hc/AwjcD0SbjCKUvLuQ8mniues3NqBlYhuQ1BkOZyIPW4PT9irJ0Xvnap3pCkvAAb1yxE
-EaIN+w3R0Fl9+KfC5DP4SrnZWCS41bOgsxsJ+ndAXoPqX5OeroXauVgxZWCzSFmWzUAiUSDYCb7D
-2maMtdgKpnYpalsrBt82zux5fi2wgq0veHl8BiAjr3zcVdwbZK5+cUEF/6g6bF5AUeLi5kHtq65o
-obdVcjWTBojgE/DWydRkJEeeSlXEMSonlDRvCu3nIyAeLxfE4arcNYIf6l5Yhw/l7dmDVIB1LF/m
-ZN+gvHunjKWrYrWh4OqbvkMrWmJtEZDO+FC7AUoj7KIralFJISN0wumtkuZ6e9MpFl4EbpinotgG
-4nsLaFfZ6hfGNGuPMfe+7YpYt6Uhw85ZhxmINC2y8PiaSIsokgpOm+baZB0zwXd8eYiLOwWw8hTx
-nobSdqRy1Qyq5uwI+vxCoYbGd+g6GecY4LqeijEXNn4N9Kynb+cUyDHgbtGVfPjbB1SG2QjzO4lM
-vuxx2KEzysBpKDFpP27KxsKjxYH+6llxmwUrGvlbZc0Ozc90GGWvanZIAHd9hp0rUVWafWROR2T1
-aso1hy3YD6CzkQsqW7OouFP2AkP5xhoo94Di/+NswRJRb7zyAQVJK3kx3oQKFvqjeMq5gb52+swh
-xt1iuZ/kQXqE3eiwc8DWxVu5pLMrBRUxeIosnAzr+WKNEkJjCHNk8/QIhx5vVbPIOypC+8uu+7dd
-L2FCzbPa4X5gj6XAMYdEyTvIRXN5AWLxkl1aFpr/JEop4JAxlsKb6sDicm/JeChz/BNVfGTtAATP
-2mbWYF1tEEhRoElTEkgg/r64j+p9IbcuYIcZ+NjHhVn3A4naKOn6aKvNqE/FvFE7WKuhrQwZmguC
-+hEBo20xeQ6kULAIFSpeSAwFWG9Yj8ALec3nChdtO5S+mlGRTv4a6hca+G53bZQxbAUrxUMLqruR
-9hmtJi858nxbZDN+9d10LgBUxj6WOJYQFKCUdXX0NMS6+/z30iwZ33/mlWa6JWqELjlvoEdnj+rs
-MZTjb4gC2Rh5eBO7iF1v+x40hZxPy4x87OZPlKs7TytgWy+/qaZYJJUCFvGcW1h6rjyc7VbG8T+E
-BgKUmIMsb4I3MO3b6uKaDm8cTnKiptc538RyjS5Q6UZm2JCNBk5OwByLDmJW5r+5tydvgS3vcOyF
-dnGIRNr+/wodzMd135ViZAAQPohTvU9xE1W9MI/LoKg3SMLe3VaQnkrJTGTcXPMWa4SdBLwO9B+9
-NiXfMbHItzVZtRoRzguCj7Dc3Y2+ONVL/rjPsdawCO85V/yUg0S6Ef6Ne8Maa5fvHqd8HodV0Uh0
-/0YDiG4/BRK4aP4LNZ3mYBH8EAkRxT1FmAgL4NgqyjsoncF8qavx7av7kN7m35Nxtgzxw/IXL+cJ
-pQ8a3Xm1+RiaJ9Yp7GXuQEqdwuKgvLb0p4ZfsQ1EsMPdOpSOY3/pvawGqasiUnzCpQ4Uj+/ATaCF
-8WbyN1bCa9T1hLZgv01trCM2d1CC1/44qNFiiS+7RMr9RlFQD00UnCIDpGXVl5grwf0H5V/585vC
-VAWQUGdp+DEmXgQaoUD5Vlw4gcdS5RTOxacN37lL/0j6YZfWnu2pzbCf/8agRODPB/wcPgmbcido
-JWbEtDqcbQ/lpDGY1wsGxykS/6Oz2H46IFHLULE2lu5lSEgqMVlMReLEuP1YJx8C/ashhVEE5Bqt
-EIFtcHU5U8NCNRB9BqFPyar0U85UDK1ZcKLPviGEsr+gU/1ffAEK+FnwMVG2vBGtLaoxb8Oxtavi
-ZDVDX0wbTHBw0i/v7BOiyUK18zlUAdjc7k91Sr2siVKkvaeasi8+RYDvl/RP5EK==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Blob\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
 
-?>
-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
+namespace MicrosoftAzure\Storage\Blob\Models;
+
+use MicrosoftAzure\Storage\Common\Internal\ACLBase;
+use MicrosoftAzure\Storage\Common\Internal\Resources;
+use MicrosoftAzure\Storage\Common\Internal\Validate;
+
+/**
+ * Holds container ACL members.
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Blob\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+class ContainerACL extends ACLBase
+{
+    private $publicAccess;
+
+    /**
+     * Constructor.
+     */
+    public function __construct()
+    {
+        //setting the resource type to a default value.
+        $this->setResourceType(Resources::RESOURCE_TYPE_CONTAINER);
+    }
+
+    /**
+     * Parses the given array into signed identifiers and create an instance of
+     * ContainerACL
+     *
+     * @param string $publicAccess The container public access.
+     * @param array  $parsed       The parsed response into array representation.
+     *
+     * @internal
+     *
+     * @return ContainerACL
+     */
+    public static function create($publicAccess, array $parsed = null)
+    {
+        Validate::isTrue(
+            PublicAccessType::isValid($publicAccess),
+            Resources::INVALID_BLOB_PAT_MSG
+        );
+        $result = new ContainerACL();
+        $result->fromXmlArray($parsed);
+        $result->setPublicAccess($publicAccess);
+        
+        return $result;
+    }
+
+    /**
+     * Gets container publicAccess.
+     *
+     * @return string
+     */
+    public function getPublicAccess()
+    {
+        return $this->publicAccess;
+    }
+
+    /**
+     * Sets container publicAccess.
+     *
+     * @param string $publicAccess value.
+     *
+     * @return void
+     */
+    public function setPublicAccess($publicAccess)
+    {
+        Validate::isTrue(
+            PublicAccessType::isValid($publicAccess),
+            Resources::INVALID_BLOB_PAT_MSG
+        );
+        $this->publicAccess = $publicAccess;
+        $this->setResourceType(
+            self::getResourceTypeByPublicAccess($publicAccess)
+        );
+    }
+
+    /**
+     * Gets the resource type according to the given public access. Default
+     * value is Resources::RESOURCE_TYPE_CONTAINER.
+     *
+     * @param  string $publicAccess The public access that determines the
+     *                              resource type.
+     *
+     * @return string
+     */
+    private static function getResourceTypeByPublicAccess($publicAccess)
+    {
+        $result = '';
+
+        switch ($publicAccess) {
+            case PublicAccessType::BLOBS_ONLY:
+                $result = Resources::RESOURCE_TYPE_BLOB;
+                break;
+            case PublicAccessType::CONTAINER_AND_BLOBS:
+                $result = Resources::RESOURCE_TYPE_CONTAINER;
+                break;
+            default:
+                $result = Resources::RESOURCE_TYPE_CONTAINER;
+                break;
+        }
+
+        return $result;
+    }
+
+    /**
+     * Validate if the resource type is for the class.
+     *
+     * @param  string $resourceType the resource type to be validated.
+     *
+     * @throws \InvalidArgumentException
+     *
+     * @internal
+     *
+     * @return void
+     */
+    protected static function validateResourceType($resourceType)
+    {
+        Validate::isTrue(
+            $resourceType == Resources::RESOURCE_TYPE_BLOB ||
+            $resourceType == Resources::RESOURCE_TYPE_CONTAINER,
+            Resources::INVALID_RESOURCE_TYPE
+        );
+    }
+}

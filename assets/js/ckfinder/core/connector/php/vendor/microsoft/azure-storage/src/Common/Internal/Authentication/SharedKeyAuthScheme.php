@@ -1,268 +1,316 @@
-<?php //ICB0 56:0 71:2614                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-PoRfaFzJ0S6XMLAvTW===
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Common\Internal\Authentication
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
 
-?>
-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
-91vw06c8p0EAYk7fg0U3gYeI9/LfebROWX8=
+namespace MicrosoftAzure\Storage\Common\Internal\Authentication;
+
+use GuzzleHttp\Psr7\Request;
+use MicrosoftAzure\Storage\Common\Internal\Http\HttpFormatter;
+use MicrosoftAzure\Storage\Common\Internal\Resources;
+use MicrosoftAzure\Storage\Common\Internal\Utilities;
+
+/**
+ * Provides shared key authentication scheme for blob and queue. For more info
+ * check: http://msdn.microsoft.com/en-us/library/windowsazure/dd179428.aspx
+ *
+ * @ignore
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Common\Internal\Authentication
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+class SharedKeyAuthScheme implements IAuthScheme
+{
+    /**
+     * The account name
+     */
+    protected $accountName;
+
+    /**
+     * The account key
+     */
+    protected $accountKey;
+
+    /**
+     * The included headers
+     */
+    protected $includedHeaders;
+
+    /**
+     * Constructor.
+     *
+     * @param string $accountName storage account name.
+     * @param string $accountKey  storage account primary or secondary key.
+     *
+     * @return SharedKeyAuthScheme
+     */
+    public function __construct($accountName, $accountKey)
+    {
+        $this->accountKey  = $accountKey;
+        $this->accountName = $accountName;
+
+        $this->includedHeaders   = array();
+        $this->includedHeaders[] = Resources::CONTENT_ENCODING;
+        $this->includedHeaders[] = Resources::CONTENT_LANGUAGE;
+        $this->includedHeaders[] = Resources::CONTENT_LENGTH;
+        $this->includedHeaders[] = Resources::CONTENT_MD5;
+        $this->includedHeaders[] = Resources::CONTENT_TYPE;
+        $this->includedHeaders[] = Resources::DATE;
+        $this->includedHeaders[] = Resources::IF_MODIFIED_SINCE;
+        $this->includedHeaders[] = Resources::IF_MATCH;
+        $this->includedHeaders[] = Resources::IF_NONE_MATCH;
+        $this->includedHeaders[] = Resources::IF_UNMODIFIED_SINCE;
+        $this->includedHeaders[] = Resources::RANGE;
+    }
+
+    /**
+     * Computes the authorization signature for blob and queue shared key.
+     *
+     * @param array  $headers     request headers.
+     * @param string $url         reuqest url.
+     * @param array  $queryParams query variables.
+     * @param string $httpMethod  request http method.
+     *
+     * @see Blob and Queue Services (Shared Key Authentication) at
+     *      http://msdn.microsoft.com/en-us/library/windowsazure/dd179428.aspx
+     *
+     * @return string
+     */
+    protected function computeSignature(
+        array $headers,
+        $url,
+        array $queryParams,
+        $httpMethod
+    ) {
+        $canonicalizedHeaders = $this->computeCanonicalizedHeaders($headers);
+
+        $canonicalizedResource = $this->computeCanonicalizedResource(
+            $url,
+            $queryParams
+        );
+
+        $stringToSign   = array();
+        $stringToSign[] = strtoupper($httpMethod);
+
+        foreach ($this->includedHeaders as $header) {
+            $stringToSign[] = Utilities::tryGetValue($headers, $header);
+        }
+
+        if (count($canonicalizedHeaders) > 0) {
+            $stringToSign[] = implode("\n", $canonicalizedHeaders);
+        }
+
+        $stringToSign[] = $canonicalizedResource;
+        $stringToSign   = implode("\n", $stringToSign);
+
+        return $stringToSign;
+    }
+
+    /**
+     * Returns authorization header to be included in the request.
+     *
+     * @param array  $headers     request headers.
+     * @param string $url         reuqest url.
+     * @param array  $queryParams query variables.
+     * @param string $httpMethod  request http method.
+     *
+     * @see Specifying the Authorization Header section at
+     *      http://msdn.microsoft.com/en-us/library/windowsazure/dd179428.aspx
+     *
+     * @return string
+     */
+    public function getAuthorizationHeader(
+        array $headers,
+        $url,
+        array $queryParams,
+        $httpMethod
+    ) {
+        $signature = $this->computeSignature(
+            $headers,
+            $url,
+            $queryParams,
+            $httpMethod
+        );
+
+        return 'SharedKey ' . $this->accountName . ':' . base64_encode(
+            hash_hmac('sha256', $signature, base64_decode($this->accountKey), true)
+        );
+    }
+
+    /**
+     * Computes canonicalized headers for headers array.
+     *
+     * @param array $headers request headers.
+     *
+     * @see Constructing the Canonicalized Headers String section at
+     *      http://msdn.microsoft.com/en-us/library/windowsazure/dd179428.aspx
+     *
+     * @return array
+     */
+    protected function computeCanonicalizedHeaders($headers)
+    {
+        $canonicalizedHeaders = array();
+        $normalizedHeaders    = array();
+        $validPrefix          =  Resources::X_MS_HEADER_PREFIX;
+
+        if (is_null($normalizedHeaders)) {
+            return $canonicalizedHeaders;
+        }
+
+        foreach ($headers as $header => $value) {
+            // Convert header to lower case.
+            $header = strtolower($header);
+
+            // Retrieve all headers for the resource that begin with x-ms-,
+            // including the x-ms-date header.
+            if (Utilities::startsWith($header, $validPrefix)) {
+                // Unfold the string by replacing any breaking white space
+                // (meaning what splits the headers, which is \r\n) with a single
+                // space.
+                $value = str_replace("\r\n", ' ', $value);
+
+                // Trim any white space around the colon in the header.
+                $value  = ltrim($value);
+                $header = rtrim($header);
+
+                $normalizedHeaders[$header] = $value;
+            }
+        }
+
+        // Sort the headers lexicographically by header name, in ascending order.
+        // Note that each header may appear only once in the string.
+        ksort($normalizedHeaders);
+
+        foreach ($normalizedHeaders as $key => $value) {
+            $canonicalizedHeaders[] = $key . ':' . $value;
+        }
+
+        return $canonicalizedHeaders;
+    }
+
+    /**
+     * Computes canonicalized resources from URL using Table formar
+     *
+     * @param string $url         request url.
+     * @param array  $queryParams request query variables.
+     *
+     * @see Constructing the Canonicalized Resource String section at
+     *      http://msdn.microsoft.com/en-us/library/windowsazure/dd179428.aspx
+     *
+     * @return string
+     */
+    protected function computeCanonicalizedResourceForTable($url, $queryParams)
+    {
+        $queryParams = array_change_key_case($queryParams);
+
+        // 1. Beginning with an empty string (""), append a forward slash (/),
+        //    followed by the name of the account that owns the accessed resource.
+        $canonicalizedResource = '/' . $this->accountName;
+
+        // 2. Append the resource's encoded URI path, without any query parameters.
+        $canonicalizedResource .= parse_url($url, PHP_URL_PATH);
+
+        // 3. The query string should include the question mark and the comp
+        //    parameter (for example, ?comp=metadata). No other parameters should
+        //    be included on the query string.
+        if (array_key_exists(Resources::QP_COMP, $queryParams)) {
+            $canonicalizedResource .= '?' . Resources::QP_COMP . '=';
+            $canonicalizedResource .= $queryParams[Resources::QP_COMP];
+        }
+
+        return $canonicalizedResource;
+    }
+
+    /**
+     * Computes canonicalized resources from URL.
+     *
+     * @param string $url         request url.
+     * @param array  $queryParams request query variables.
+     *
+     * @see Constructing the Canonicalized Resource String section at
+     *      http://msdn.microsoft.com/en-us/library/windowsazure/dd179428.aspx
+     *
+     * @return string
+     */
+    protected function computeCanonicalizedResource($url, $queryParams)
+    {
+        $queryParams = array_change_key_case($queryParams);
+
+        // 1. Beginning with an empty string (""), append a forward slash (/),
+        //    followed by the name of the account that owns the accessed resource.
+        $canonicalizedResource = '/' . $this->accountName;
+
+        // 2. Append the resource's encoded URI path, without any query parameters.
+        $canonicalizedResource .= parse_url($url, PHP_URL_PATH);
+
+        // 3. Retrieve all query parameters on the resource URI, including the comp
+        //    parameter if it exists.
+        // 4. Sort the query parameters lexicographically by parameter name, in
+        //    ascending order.
+        if (count($queryParams) > 0) {
+            ksort($queryParams);
+        }
+
+        // 5. Convert all parameter names to lowercase.
+        // 6. URL-decode each query parameter name and value.
+        // 7. Append each query parameter name and value to the string in the
+        //    following format:
+        //      parameter-name:parameter-value
+        // 9. Group query parameters
+        // 10. Append a new line character (\n) after each name-value pair.
+        foreach ($queryParams as $key => $value) {
+            // $value must already be ordered lexicographically
+            // See: ServiceRestProxy::groupQueryValues
+            $canonicalizedResource .= "\n" . $key . ':' . $value;
+        }
+
+        return $canonicalizedResource;
+    }
+
+    /**
+     * Adds authentication header to the request headers.
+     *
+     * @param  \GuzzleHttp\Psr7\Request $request HTTP request object.
+     *
+     * @abstract
+     *
+     * @return \GuzzleHttp\Psr7\Request
+     */
+    public function signRequest(Request $request)
+    {
+        $requestHeaders = HttpFormatter::formatHeaders($request->getHeaders());
+
+        $signedKey = $this->getAuthorizationHeader(
+            $requestHeaders,
+            $request->getUri(),
+            \GuzzleHttp\Psr7\parse_query(
+                $request->getUri()->getQuery()
+            ),
+            $request->getMethod()
+        );
+
+        return $request->withHeader(Resources::AUTHENTICATION, $signedKey);
+    }
+}

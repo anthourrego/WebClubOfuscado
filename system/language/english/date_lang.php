@@ -1,128 +1,94 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2017, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2017, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license	http://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 1.0.0
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
+$lang['date_year'] = 'Year';
+$lang['date_years'] = 'Years';
+$lang['date_month'] = 'Month';
+$lang['date_months'] = 'Months';
+$lang['date_week'] = 'Week';
+$lang['date_weeks'] = 'Weeks';
+$lang['date_day'] = 'Day';
+$lang['date_days'] = 'Days';
+$lang['date_hour'] = 'Hour';
+$lang['date_hours'] = 'Hours';
+$lang['date_minute'] = 'Minute';
+$lang['date_minutes'] = 'Minutes';
+$lang['date_second'] = 'Second';
+$lang['date_seconds'] = 'Seconds';
+
+$lang['UM12']	= '(UTC -12:00) Baker/Howland Island';
+$lang['UM11']	= '(UTC -11:00) Niue';
+$lang['UM10']	= '(UTC -10:00) Hawaii-Aleutian Standard Time, Cook Islands, Tahiti';
+$lang['UM95']	= '(UTC -9:30) Marquesas Islands';
+$lang['UM9']	= '(UTC -9:00) Alaska Standard Time, Gambier Islands';
+$lang['UM8']	= '(UTC -8:00) Pacific Standard Time, Clipperton Island';
+$lang['UM7']	= '(UTC -7:00) Mountain Standard Time';
+$lang['UM6']	= '(UTC -6:00) Central Standard Time';
+$lang['UM5']	= '(UTC -5:00) Eastern Standard Time, Western Caribbean Standard Time';
+$lang['UM45']	= '(UTC -4:30) Venezuelan Standard Time';
+$lang['UM4']	= '(UTC -4:00) Atlantic Standard Time, Eastern Caribbean Standard Time';
+$lang['UM35']	= '(UTC -3:30) Newfoundland Standard Time';
+$lang['UM3']	= '(UTC -3:00) Argentina, Brazil, French Guiana, Uruguay';
+$lang['UM2']	= '(UTC -2:00) South Georgia/South Sandwich Islands';
+$lang['UM1']	= '(UTC -1:00) Azores, Cape Verde Islands';
+$lang['UTC']	= '(UTC) Greenwich Mean Time, Western European Time';
+$lang['UP1']	= '(UTC +1:00) Central European Time, West Africa Time';
+$lang['UP2']	= '(UTC +2:00) Central Africa Time, Eastern European Time, Kaliningrad Time';
+$lang['UP3']	= '(UTC +3:00) Moscow Time, East Africa Time, Arabia Standard Time';
+$lang['UP35']	= '(UTC +3:30) Iran Standard Time';
+$lang['UP4']	= '(UTC +4:00) Azerbaijan Standard Time, Samara Time';
+$lang['UP45']	= '(UTC +4:30) Afghanistan';
+$lang['UP5']	= '(UTC +5:00) Pakistan Standard Time, Yekaterinburg Time';
+$lang['UP55']	= '(UTC +5:30) Indian Standard Time, Sri Lanka Time';
+$lang['UP575']	= '(UTC +5:45) Nepal Time';
+$lang['UP6']	= '(UTC +6:00) Bangladesh Standard Time, Bhutan Time, Omsk Time';
+$lang['UP65']	= '(UTC +6:30) Cocos Islands, Myanmar';
+$lang['UP7']	= '(UTC +7:00) Krasnoyarsk Time, Cambodia, Laos, Thailand, Vietnam';
+$lang['UP8']	= '(UTC +8:00) Australian Western Standard Time, Beijing Time, Irkutsk Time';
+$lang['UP875']	= '(UTC +8:45) Australian Central Western Standard Time';
+$lang['UP9']	= '(UTC +9:00) Japan Standard Time, Korea Standard Time, Yakutsk Time';
+$lang['UP95']	= '(UTC +9:30) Australian Central Standard Time';
+$lang['UP10']	= '(UTC +10:00) Australian Eastern Standard Time, Vladivostok Time';
+$lang['UP105']	= '(UTC +10:30) Lord Howe Island';
+$lang['UP11']	= '(UTC +11:00) Srednekolymsk Time, Solomon Islands, Vanuatu';
+$lang['UP115']	= '(UTC +11:30) Norfolk Island';
+$lang['UP12']	= '(UTC +12:00) Fiji, Gilbert Islands, Kamchatka Time, New Zealand Standard Time';
+$lang['UP1275']	= '(UTC +12:45) Chatham Islands Standard Time';
+$lang['UP13']	= '(UTC +13:00) Samoa Time Zone, Phoenix Islands Time, Tonga';
+$lang['UP14']	= '(UTC +14:00) Line Islands';

@@ -1,82 +1,90 @@
-<?php //ICB0 56:0 71:d31                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Blob\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+ 
+namespace MicrosoftAzure\Storage\Blob\Models;
 
-?>
-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
-zE4uVvWYldB1gwUY8uTxX0==
+use MicrosoftAzure\Storage\Common\Internal\Validate;
+use MicrosoftAzure\Storage\Common\Models\Range;
+
+/**
+ * Optional parameters for listPageBlobRanges wrapper
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Blob\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+class ListPageBlobRangesOptions extends BlobServiceOptions
+{
+    private $snapshot;
+    private $range;
+    private $_rangeStart;
+    private $_rangeEnd;
+    
+    /**
+     * Gets blob snapshot.
+     *
+     * @return string
+     */
+    public function getSnapshot()
+    {
+        return $this->snapshot;
+    }
+
+    /**
+     * Sets blob snapshot.
+     *
+     * @param string $snapshot value.
+     *
+     * @return void
+     */
+    public function setSnapshot($snapshot)
+    {
+        $this->snapshot = $snapshot;
+    }
+
+    /**
+     * Gets Blob range.
+     *
+     * @return Range
+     */
+    public function getRange()
+    {
+        return $this->range;
+    }
+
+    /**
+     * Sets Blob range.
+     *
+     * @param Range $range value.
+     *
+     * @return void
+     */
+    public function setRange(Range $range)
+    {
+        $this->range = $range;
+    }
+}

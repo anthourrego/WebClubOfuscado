@@ -1,108 +1,96 @@
-<?php //ICB0 56:0 71:10ad                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-e7fL/ya==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Common\Internal\Serialization
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
 
-?>
-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
+namespace MicrosoftAzure\Storage\Common\Internal\Serialization;
+
+use MicrosoftAzure\Storage\Common\Internal\Validate;
+
+/**
+ * Perform JSON serialization / deserialization
+ *
+ * @ignore
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Common\Internal\Serialization
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+class JsonSerializer implements ISerializer
+{
+    /**
+     * Serialize an object with specified root element name.
+     *
+     * @param object $targetObject The target object.
+     * @param string $rootName     The name of the root element.
+     *
+     * @return string
+     */
+    public static function objectSerialize($targetObject, $rootName)
+    {
+        Validate::notNull($targetObject, 'targetObject');
+        Validate::canCastAsString($rootName, 'rootName');
+
+        $contianer = new \stdClass();
+
+        $contianer->$rootName = $targetObject;
+
+        return json_encode($contianer);
+    }
+
+    /**
+     * Serializes given array. The array indices must be string to use them as
+     * as element name.
+     *
+     * @param array $array      The object to serialize represented in array.
+     * @param array $properties The used properties in the serialization process.
+     *
+     * @return string
+     */
+    public function serialize(array $array = null, array $properties = null)
+    {
+        Validate::isArray($array, 'array');
+
+        return json_encode($array);
+    }
+
+    /**
+     * Unserializes given serialized string to array.
+     *
+     * @param string $serialized The serialized object in string representation.
+     *
+     * @return array
+     */
+    public function unserialize($serialized)
+    {
+        Validate::canCastAsString($serialized, 'serialized');
+
+        $json = json_decode($serialized);
+        if ($json && !is_array($json)) {
+            return get_object_vars($json);
+        } else {
+            return $json;
+        }
+    }
+}

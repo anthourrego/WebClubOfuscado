@@ -1,304 +1,531 @@
-<?php //ICB0 56:0 71:2b51                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\File\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+ 
+namespace MicrosoftAzure\Storage\File\Models;
 
-?>
-HR+cPwBEOu3TZLYec17seoZ85BP+0NSese/xKji/XmGTHzpsFq7gLWVhyrAglnpUGI3ENf8IN2+F
-P0uU2XPNhhPBg+d0ujYV+99+T6mCoI9Ju2EsYDPaw1g+wYYcbtZdxt57PjV/ls7WbK0rTHsTaH2F
-CWX+HHdh4/gpQMmnahPBVTceSQ92J/GlRVu/o/+OkyqAi/KuMr6xwU5+lvh21Sg2ahJl+l6/Y074
-u+CWdzoxjD/yp58Y0niU1tSQX4cxUNDLZh6bCfQCiXVt9JsiVp1S6WJbXmJpQ/ZDKuAvRxfP5nBZ
-4EAmA/z2+nk8SR7Xmg7sMTVQTb2zLYEMV/Tep0lD0gC3kFONiLwUOGpzvFp9LWlqzzqx4bX45TWz
-sZfI/r3ssaf5qH3lmakiiTrE18ObXzmM1bGk1ADlE6vvfAFL6oSPQfc8SQ5faGtnyw7U1/Kl5kFQ
-RS9eLykkD5oV8pYTnI+IIPhpH2zJlASPTyuatL6iJ4M7DVPzsQRkcuAKW5QwNdAXBN9NGSS8om2p
-qYsAK8ueATGxL/dPe0XSfHeSvn9YwZ5B7xYO/zUFbRRKM9RSoXDf4YRMft4jA8+oU2JiSmF+UOgR
-fP3w9UUk8402doJS6Th4IPqs2dP1eVA6EY+u61NotaP1Nt2WgHcx6k1u6EcyvvgZA/pqUSsnSMFc
-uYsaUEduWFRDlCBaGi/pyGZhIlfmnekT1OcIfWzkz9Ni01x0g9CPTwWKKR0/28y8OSYCJ8uDyps5
-hQ8QWj785nof8srMDLjEWIjiB+IN642AQcr8S9577LyBOH0g1p7jFInJxsCTWN5ND6zCT/4fQmA+
-bpzzts6gd64wZ4CeRnpHcBGBzHCKWnSRTuPiwVFvS3fbpCykfBcGPmIVWv22vNWoGyyWui0R0alD
-eNysza7ey8AYrCope5xHerQzktF3Q78tpZdpAiA2dEOaWADiNdJIxSNlmfnUoeZd7gRqKEUIEfMn
-Enq4wjbeAx29Mm3/+R7dwnIjpTaxsFbTocIlZzo5uX43RdpkDxtBBCJbj0XI+NxfHKKNd3dyBb5T
-0wYKLV7zM6Q0IPwjexOicl4LwihJjyaiWxRvxYu1tAAp5dMfOFYs74BEVv0ak26QxbN24+8fg/F7
-mzoNHva+fjfWawveVbvuXHctjAo8q700zI1ACezEetkvxdMQGgt8rJflEEX8pofvCHo7Ig/ZU3xL
-cXbVpdwqoKlTzr3myP99dfl+/M4FvJXmg6T5rhqvA6/4e/RtN73Nq5hqKBQ92EJDvUHUcEokKjM5
-0lRcBaNEl2waOM44dOtOq+2s6yGk0JAFY3HbufCaHE+yqrPLv+AHEUk/uzOweZSHKbKT4Zq3fhKq
-skmVtO6l2Anr8UecwvbNQehayYRBbYB5mamwno5rCO1oMfDjzLlAwVe8+RQ6ci4GY5f+wtgaOZNO
-JDvkeF1jnr82fosyNUfjXudL6EbVH3kPK5MtOG2AlzzgxfnU4djYlWWLL+6uROekOuMd+VwA/axF
-tCGO+JSelmBLbMcNm4X1X86queNBvUn5XCyTT49TtoHSmeSo+gCgbiC+f8zJQ+t4X0cB2ubDFl8g
-gQ3e54UeromJNeb3CTs5nxIkuK6is6GrHWxeKsl+wR1aJ2r+RwlQjrqOrWeQBPYccUXM4pEGKARU
-Mr1y9O7EJxz+w2LatEP1/wKNApyANjacACjiESOr2DPjJIQ58AJXgHT0p83jQH+CMSh0TRNbNUF6
-Otc84smPIQ529txEI0k+GgkdBnLbVgRD1qOk5miZILzHerVaovP0Uah2xynv69zCeDzI/nWpvOtL
-gS0sm8PLOIlcasX+DR5UbTVbye8SudpuMgoVoSOxwB374ig8OtbSptwThzHq8qVFj1yzccZ3lDyu
-+oyJtSi+zypp4/gR8doXiKuDtDnKVBQw7hJZkuWOS49/F/ktsLAho14B8H24O/6OBSrc+7RmaFrO
-wj3M5NRTLzeZ/nuU0EEhnjCrZCNihJS/KhY1+RQkrh3IoZw0cR3F8YRFaHK/wXEr/+auELtuAhQo
-IyM67HfMaVdGb1GQeVDj/OEiJckqviGOy6xz1KCtzGf1C171suqjSRo6DRgXi8c9uIjnbLqMlxJu
-wZfxgFOwm9CJWTQfrqyW7o6x5/MeFjxgum7CyYPv5PcMkUdi9lbif0d+r2QsHTB19I54bwv/J5vh
-hBEHvGJVli5SXTVOSthy+a99nQwGvzMM1jspt4iT2KvPFfM9evC7uxkhqWqQRYb8L934k6aiRd3S
-1+nospXJ4Ij7vKnzOtkCtttmiAwzUmdso5a7cura0wDvPSIS0Z7z7qWGwDO1WyAYD33BCeNlG4UO
-V5zxHaVuGwPQoXVY6AiLnUJR3lyZu67gfjPGR5JqIAhSTPaIdPNKG/uWlEI9AztLrF7n+bIFu42U
-O+SXnpl1UHwfHUymGi0heu5ibyJzKZ+Ou4MCJMn0CfZkxWNk5ZHlEfxTD4NrqulhinrOdqU78EHU
-G/SPeqcvXMYYra+FK5HP782qHb4GL0DAiM1piRqsFTAHn+XcbgCJpvO7Xl7wcRNOERnnSjFi8/m4
-WLZGNgEIdt2T1yJZeRJd4Y1as5B2VZjWAkaffdpzzzo6m7Nw0w2r5K0t0F9neegIwwLNXnHzysit
-I9jXtIusoMSW+lmYE30GDNr8/RYr9fbmzKiAh1ZV3VbYCRPK9kGEFyqjkpu7ScCn/tvNIVqduDaw
-z1EiaTAAlNOLlrX46OLeB0Qcb6GQi6Ycx2ll/EDgsZgY9JFojKRAnOkrKQ8h6u7vIsScZoZK+FZX
-fA0uijPiFRicif0JTdqWMiZvzv2w9Azuw7h280EBvxkhl4eFzfndVujxC2p46MUqFXphUEOHH+2B
-IAR0yAJny4JKuBabOznYIG5TRJbvQQP5dj83RAUmntk27iJQodKpQwddhYRWX2DHc6tkE6jx/6ZM
-Dts997ENzM3hHMMaMy1fgGydGUXKoRF/FGZcwFkVZT28P9mJb0aAM7n4E6YSIg79AZLxolib8BIp
-K3DEfQWROrVnqsOipQRBAqFJ7YeP8raWdnbmivYMvIAMlICea/xsyYhn2ngfeOgxG+NMMxabIYWI
-femJX10ASFVnI4i2lLGmyQrEim5uH2q9gkcRvPKVY+CG+4FZC7z0L7dDmf1srxuZg8HIeFsG4shT
-YH6mf4//wHlS/X8bTOs3J0Z9jztv6V95YNKI05nOW7l3w/7Fh/FljvBie3iX1BXFgGBjbzYKqT0k
-0+EnHer+l3GnGmu28cDIvxyF5PAY7mLz5+v7SQw4YMdbr5fkKwR5Bai8ATtVdfkUJTbXB0AzPc5V
-G3gqrhRRPodlj2be6GzaLhO9h+6Ueu9iFlhs8zF4DQ6915pkd8531bydjXz3rXOY3ipD6eXWTv0L
-WZRx3f3kmiQcagffNAv/icuQ3FU6CuqDZZJEdrz2rYB1EMtpuUvyHFba+RC8bN17vmyMm7U8ABQp
-sp7XbYVJU1LPSfQF+fpsVaGJjyOiDN72xCBaiCeFwn86zbSOqueuohRI0f6SnPDJAE7I71jfoUXI
-kH2jcDV+58keP0BEor8VoYtTcie63ekgLJsh3C1GPs/msAYrXjKxPsALhwEt9aIcFd9YThdLYKs4
-FWe3PYoSDXK3Ed63W7rx0B+SYNI/joZvzrUdjaR2eVcxKifTWLcBOzVm+sQ66QYQzjThuR0+oCVi
-rIrvkLYMqVa59C0r7Gu9klnecraeKK6qCYst6hyB/pc33HNPaMcR0BVaxgfjcp9658kdHae6w+W/
-m7WCs8Uq3VKMbsgFM4+2Ho9kIuiUYka6kMVzwItIaQjsqzlUsTYugaLvSnTsmnUgNujM+4njHNfJ
-hsfXndboItkduCo8qNhZWXu41gUv39AsFMK4MtgJ/QePiIOnDDGEzic5X4MwRYbN6Gj83uZqvBDd
-mcGeyFLb6Qrv48Cc7CCAM7Vg/2uKdZjufY1M7saZNz2Bsu/cLJ76887MYeZBLHNRakEaHh76GZ3l
-PLnnd253nMSW/UdgwnijlMqlRboDwYQ9Gqv0z7bZt7zL+HMFYu0nadHWxyU5I3h1pR8JlwPM4Xf/
-EpZ/nBnR19jap/gZPAarF+BthnkGlrKTZwjvlo30jP8cfP/LDqEn1PmjSAqm+Ul6ynvtMy7PsTtt
-T84cfiJAnroQxW/hlnj9Bw9qtEaIGlIZ4YBcNwrj44+D7R49BhFgVGlIy/dneF84/oUpb+VlWjjp
-ESezllSEAgnft+Ah4uo3cUcbhNNJ79wQ8z5c/5QufmaitLQ9GbXU9hhvQYLmUo3lOhNUmzLw21s0
-xO5CDDqA81q1wCzQVh7ImwTMmIo+aa1jRXUBmAPu5WPjBU1qBnryB4IYF+zj+5AeHysHFadNxMvK
-LBo0SKYxzWv6VEeCilDGnLPoGcXv7sCEyUl7UY8IVF+pKPHrLzVy0291UPh/fWhksx101NeAfuZd
-WcJxRbzuCaReraftT7A9Y2BfrexlzdlnR9AjB0BcZW8ET7jbU21YIYb/MyL6pz0aAhdX/mOLaI0n
-8J7a2odDhlqp5qf7yjlUTgpaR0Y8tHI5FNJc0LcYhQyBTMjSg6W+apt3XnJumr8ZADKk1iPfq8pU
-ROE1/GS5XUkpYCB0wJt90MOvOMUuIZKWD0WSIg53oAZuLzXVxVsf+paWGVr+fMoMU3JeRYtNYIfn
-D8xbtCxTOf/e6AOgoIcJH5LGQ6DAsBijGJy4d2LnieALa6J4LsVdRCPSW1UAL26wBWwYfx0Rgz5g
-PBqvFPcdyXCfoB1XUu1Hqh6USg7rWL2SQI2az3kh2NhpDPlAhy8W+YP4hW3aKK9SeCVuWrM6MqnD
-xqSrGJOdn8cPn5h1hyFuijmuJfDiz/qsahyUe0Bv+I8OMBFsJGwpcbD9pBY2TTJLPRdGuXPjbXN/
-Nc0HMN4hqTPtkIoPrMSlIbpjOmt3M/oyawTxLJameeLdDaJoqK4XCrK9IIU6nhQt/lY71S3nDOSo
-29fYthL8hdUTBChKc7cRmlCCvaiI9V/LtUotjWqnr3LIlJLxiP0JCeekVgue7BGmY9tvakLI8swH
-CBqzdaNE6xR6ghYdpjVE15wWtM8c6ODkp7lWRFxycx/pbpx/U8mYMDKCUOHVhPSWL9gOt5okwGW8
-g26TpN4oWbcZSpFUimjaCg8En9eMo3k5XmP61QG8cnB4U/u7zZ7+6BrRgt0B4XnNyCDEHOvBLkJa
-nOlOO6nQdsS/bmpDSe7bm4CPDdVhjG6PRnInexEJUKcytrJpzV6plPiH+VQioBm4h9Zo/FLZHX+s
-IgByAgLjkxVcYFHOXdEgiETB7OIyjSfyu7fA6yuvXjvjW1CAW47diL9KcADycjjS6KHN3XoADvG3
-O1T0EJFiMDufeF/M8GNgAvF8pNyglzd1SvCbg9tOf367bshbBTMmnjJZynbykH0D4cMxcZ8Rd3sQ
-l5LwBGnUSk07IcaZXe0oefgox6239N9fHefEYBIkdmt/+XCB1Ab0ZEPGTLZgCz1R8d+Myl0rYui5
-C7ngKwdajYGme9SWkiNGlnjhnVBeOaW2x1B7CuzWyb3rn2Cu95UPEhRdxW5ERnfRXm8D2eqohsDO
-s1EM5mABqZSGHg/ndIS9zsHBbcfx9ct4uPLBQwuRVRKtoWpnJf2BuXBiVCufDIGbMCf0tnhs73SG
-NPpOkiTHAD1Vz5BWdm+x0Do/nlqK8d4VtbyoSAfxzcEEPQPonTPooT96PjIlPp90zqTv0soJsaxX
-4dDu6PB34HwoQuaeKJzIEcyG5/9cxWBNeGyQGAA1pWx4UkLUAhSU6Q3PUPE0iDjISn6hJZ7CxhDn
-BSW4LGUMSDkU+GbWpueta4CgY4BzLaOXRYEx3Ed1hWxqT2LY3G2tSazLlriQm+ZRX/ta2CKfTY4R
-uZOYHAikQBCe8chRlyQDfnX6zlRIOoMOZLY1K2cbRr3yyShxLNN7Gf0MRKjXSLbqAQ2aYNfOKafC
-AQAlL96lDiwcEn+F/kMcVpUXt5ZJPXTi2gFrOCTJ9MdLAEqInHzVUHqi3Lm9IS3nsKYAYDFJ11dV
-WewuclMWRE5GA68Iqw0ENfAiJt3COAgObqKn95cRdRxOTrq3owqoS8kPys0k4xgilF+CLt4KXgD6
-y2LknslqLQyuyQ2AVoz0EGFeIqD9plFFlepYheLl+CrPOGylUIRe1l0VleuDSMLog3L0d6/vwXk8
-gF7IkFU4ipNqIkrCIbf5ExemJjvdD50haDkAXEG0hQHswCks7eC6GbA3BHT7PkKxzKRiuRS/uDFM
-3GopAx7X0yqCZdzG7VOPFsE8TBTDqDlZnWrPYtsTm4+W89KhvFWjcg2xnuP9p5UyrWcG8QIGNfji
-LxMlrmle38wzWZKNOe/eSNFCSUP+C+BxO5Lf4cDkE5RaaPmChfu1C8dCW9UubPQ5ftndTr90DepP
-mByxQlZGK5x8WEteC1jC67udPUeqiG9iwrXcBo6+7ULCzFQrYke46PuD+0sg72pbs7NiWa+qV3Qq
-a0iMJ9YFx4FUGnoCvDAJfNgtOIaEN/9zrW5CYqgQS6aZTJiwDhN//QazoX7o+LMIlRooUpkSGal8
-IUO6i/9nb7cQmdp7Rp5qscB04EYqd1ijhJRPjVR0WKCfaZTZuvmX0+UmHosk3PQPPG7zAqJiQFVc
-euQap7/gXRx/EaCx52duXeZVAEgNGLIEn+CTEIw0LpEI6VkS+/KTDjOkZs5fH9oPnvQ3ghOm6EuH
-HEEGTtIrn2doWMf5SxIA6Poscv6yeUfHEhLMYl3CgY0NKtkTuZ8mCA+F3/5BfYBXoLnOWn3Dsa7W
-2J/kypDuXSKuOlVrPliTOO+sO2HlPduFpOTwZ1z3/r9QZ0jKIzTWKyBp7Yd2My/7Xwhn+7xWkqrZ
-UYjLcA0FuBPdNCkZ11PZtS9CIgfhS77qLBV/eeZVvOE/Ynbw9JKl/JBjD/9/0fxR43jofFeXvA3p
-dVPPI0e+nK3x6Rtjq3ZL7BDfTZ46wpWBulr/dc3M/F5dzjFPDvhosCHN7NALm+7bwBaHY/a7uNjE
-bNdH5K+jwx/0tlit9uFnu2KI+RbogjMh/KrKvECBz8i8Q23m9Vr6ed42xGGHCmo3xWYqAr97IA91
-6evEQ9vFetWqS6k9r0G09fttEIBrCp6fDYqYb3M+b1skaa99Fyb2lGErUhw53iLu4PS/8oMacBOl
-KZf8z5F4YDRgRGMIGo8p89+YMtg8rZqORC4WRjR8ZaVzg0pYGEXEoLlOcOlQnqXRX4ASnjXjZaOO
-XXiXn242KHgZttK3z8LU0oYLcXDsjfvGYada5cg53/kZPrPGHrX/L/fM070zLoMCCeUhJJGKCEio
-TisELbScmWA7vi3fTQiMnrzBf0hDeQB2xqpiVagsUUqhV+QEW7ujg/LWTFAMm5G6kDBGiJ5OETkv
-6GcuFvYTUygweUvwSulcy/+LemigWbhvEBz45I4TAAkQ4NFlq4fJ1UT4b7JY1Vahq1O9NH2pQVl1
-l7DGAS8jP1OgROFYUYWq8jzYyLL171a+518eBdbLP/IXKlzqg56PvqEIzxKfkgfFS+dVkmvosupZ
-LTCfuexYTZkm/p/0YSV2AvV/oOGLc+peCx0E1OQYtmh+vOqkOgZvqv3irY+Z6pSIMZ2rlw70CWai
-eZ7D74zTkP2NhqE0j6+UokWXI7zBTguXRXjR11ZuhUCM7xoIuKDW9cu66PJtk6sBcyur7AGxHS0a
-yxpEDgCf59z7alJsIXNTnkMnai4ORCvtaAXjE6MwvgRMz3JimfcASCy3q0Tib4MR2srvvxVNMO2Q
-nWdpx3QKbuKQLQRQmhyEJrivq5WJSadYxXDFY8Fc4gv8BU/xIXntd1RLtzdnS9dSpPy8sPCAT9nh
-my6FalKOHtcHcjzf/0+xnnz/Bg3AnAFA35V5cnE0fGtziGd4DxxC/jN5QbO/xh5rngbk4S/mqB6Q
-8hbkEN1lFqxcBL3rE2lZgKlOlTDVc2boERNFf/YcuZXuxIhiB7ad6K0bZ7A2ZccCj+lyE/tCu2vX
-WlbTm4o9Ihl+CQPBxf6RtaviO55oK9cO9P9MFNqNefwButtgxC9tZqBQk6LkpChyn5qvynRW4Ggw
-gvlBot1Rg4tJo+gYe6Kj6feJscC2hUvvmFqW1p3dvfomQoQJl5k7PxdDRZ9Cnef+31L5g6m8wNtG
-HRdhPcCgoVYG4CaV2eAp18nqmx32TAiUrqeftZM/CwhgROKXTQD01NqYGbOoVTHpxpCvMv/JRu8f
-ZMP/47oUBREewnDXu3DQl03cc9qOAad461sxCIT/yk+dj5V+iIQlevMETA+K4Bnr8KPyDkeFJCQK
-umOC3LO5H1X5JHd3l4Qs0ckA4X5aBW8IBgOjzlYyhgdiEpQQCugRYXSJ2PBXAQ66eaQ7wPCPOOWq
-2TKq2Kh98MnpTfcgp/cJE/JIjXCNUBPt14AmQRGcKeowqRzdx/BFInof8jkUCD+wfnk83UvzYczq
-4nLZ+6cTYJUBeSNyeM+zADTMdVFeBaiTSuKqPC+LcoZ7JGNDLxYNlz8vHJiWUK7dv7ClCNe30aaz
-YELGRzVgRKbwyYlt12QJM+wjI8P5MVyZziGOjfYYFV73nr+F94JfTazMgYeqnKZWd3vL8650AzQK
-EH7stZiac++0O1WPHdKSLgxJqDbbIEVNb2Gep62tIv6LcWRAUPNssJeV5kCPbZcDsWYsjzFGNfVw
-oH/RcNkrMq5Dx3Kc8MkoVfWQ0AhMqBC/FmkktzimC2eELd17aAP8SXEVO0TKSo3D3LFNz1FxcXIK
-6oFOGDwNHNNQ2u2/gMWcY1jAe2qDX1OkSq9yavvuqgVQ9c2RbsdCDA/NTgLtIrkB1CklL3WQMGrP
-Y+fXjeg5qHVIkLMjdtUCoMDSf5FOZ/nCGNGICqGqQZtCkLK/GUDfJ1WV5dF5y/vczgWfwTCkA2y5
-93IL2++6uorchMsiWr633hGs3/nOPCNu4FyRM/B4ntTlqMgfgTPTyi0r13sxR9vHvRi9QB+leRFd
-bglfrm2KmTjUzY1YdhKpD6aJiZ8W/6Ls0/xZ6UnaWkpSuXAQTeP5uWCx6RmqmYFmK3bf+bF8ebQD
-ux9hnCVYn4Snj0nz0BDahf4a8yTZfpFDHjf+Xvsu5opMJQZioRgPX+yPoXkt/sBzT5VsbplG3wGM
-Z6x8VgYEzcGBrVS2EUcjyrCY1P8RS6gcf4n79P8Qz+oMMeeIuF7EFNZJ+vL1Z+U1IXprs7BtUTHO
-YMTT3cdvV/Dwjq/QOVugsfN7dLOk1aciOHtm4bWgxL6jgmm/Iq2B6XgeQf5G6yAacBafn2U5bdfw
-U7OE9iQ0gQ2JbvnY3ljvcEH/5Y/b4RjUJSGprtV9Z4Siaq9ZVm9DXYwVA7kzYpfrn+vWhw0TOdot
-V5xwtinRipflIO0WB/0fqdjLPG91SAGS9wtUgAB10O0EH+lbie+I/VFPcq9h3+8j2Cgcz0K7Dr12
-nr83WQWLQof2PD2xvZkOPkjbOvtDl3CSoO8naikH8L2fKlLXAsA0jOnQ5z6pl1xjgiFId4Iy425k
-VzmT52tmoKSnwekXnVdXr2Li7J5L9F8ZXZsy3ZWf1038ZdkRbbz7BOfP6gQSsW5Cn9eoO39NuI6m
-RYKjE5B52/7S8zHD8TzQlj80G+afm3btu9RhXTqz3Mq8D1VTzSz3DQm8GJT9Haq/khC4xhCmiCFq
-QBT35htEggAEuKEeEjcAd37zX2MvuKUmdHh3YAex+9UXbtWkZ2n3ktdITo2XCptvDGW+/Dp9zR6u
-qyDXr+7fn5E8vRgieW2hg0Lnh1JLUztIM9dgGjfH3Aebgtm8P4V6yYse2W6z2jVcf3HDNv65GM87
-ZjtqHX3n/j7Ct6zk28tKtnJ+q4yWfZxM6HUK0nw6URcM+8bWhB3+dAyCe53xbJl8rEd/If3mpceg
-RGLQET/l50jFXf+Q8MhvTNWVM/PRYxuY3QeIDt5nZz89HuJaUeyCbUwz/r1kdWOnxGblwR3zST51
-OS/mAH3k2NPsvnZKKE3xEnNO1SY4cGV274Uyqx/glr1DQeUbkymNKYty01ARFX5jYfueQWqgxGRs
-T/Q3Xo93pvcCNj0Fk63uXBgSh7fo6qbUoXyjYQ8Or8qnAx2ODy01pGKZSmxOePC9QUNcooXoeaMa
-XhYoHoMlZjTjoq11uMPf/B/9Z3Ki1rgoTf96yokC1dfG2jE3xPRVaXw4EhZwwhfCnFStEYrc+2I4
-QR1h+0rgw8ZYjF+jtnoLxRma671NOkXXrn/ZjfPbTuIt3eXwDXpokSGkU6MMFPYBFoAj4oLysGUQ
-OsGG5lfNfc78iYe0Afktl5+PKZymVhjcLsWlzUDr78swsZ9ZEfTdgqPdeL4aNtfwrzOm87l1cta0
-Rx2SM5PcFt+ewWP2dq1bAukoWoIFypLnX1aoxRwXX1srwjsjzavWak0WRWdHplXEtvUc4oJHNAVY
-7kU5TNQBDJTe0jgffkekewjB4yCtcTylcOgJOvNRQZljTg+U3qdGy0fxkon9k4rWDtdoZJUlr7Mz
-W28RO+GacCYrj2gVSXZKNspTyCeOV6SHanWGsF3W9S2KtvhV8qYgH/g6uF2qtK0+S20+y1AZltga
-ApHQbwK0vYu4znhbXjpYJDwd92sU/mSIhefY6CfA/POs0XQVtv63GuQCyUyDwDjObdS+NAOgAkpj
-8V+Ci2i6MXMX/4ixZeJGsK4cP/WTvRkstuIQvEKwsTIcQQGqJcRfqnNZng63ZnnWOpWAVOt+Nrfs
-LAt1I6hjveLsUkMWfW09mJ256dSOFosyrR569UjmOn67Q3dsr/iQQMQ2oo5vmSxaHHOHL0pzuGWR
-wWUgULRcS8Hb2hU5BAxSqBRRfpuhjchXw4Xqwhbzl4v7sxP/mRzm2iRdfu3of0QvsgG6wlifs8BG
-fzTi9ECTN1fP3Y+9/ojxr7xR5H/w7dCAFh//XTlYIQC0YMW7NR8EnkEcsGJq6+4BxG4TSBeT9r/r
-Ce12I9O7BQOZKp3FHhwKXYE31RGjr3tfjMw9NE+YhSi7Uct/Q9D9jZVZmWjJY2zr7+WGqRtJxgfL
-j/hqNqe4hACu2B2drptlk8ZteNPnbBSwbTfpnatQFhKDcaYOTYD/KPQsH0XaT+f043TrO0+Ntx88
-bOj6J+EIjdF7jNVoQcB7+6Ud8trmGt7cybPFqHKjheBa0jlv4F/75+KDoPps9aT28wrvxDF3Jxmb
-loo3Ax7nsTX0cadhb/bu8Yf+vv13XRJsyMAk/2YWKRnSVqZJpRKBLqabT4NlBKalN95lUaiFsuUO
-o1Gqov6vidWfKda05nQQx81cZgslZwc/kO0U3sL83EEKLbdYGM2aE1vAaoAE/YaDRXJWlX6Rid+V
-GL4+A/0QVVzNMSsAJ4NNuuILUTfHf7bTbNvDfE/b7iGv7BN3UgdHgmsrzoQ3tCKBu2uWGQ5hPqOC
-MWBPqMerdOiCISSzIVxj5rpjXQSLyRdKQ7RjH80KIS3PoU6inXBnTcXwTdS+gki+RreVtypGxMoq
-XyXjpErfCSSzGCByKwDAwFaqXXVJzlU6lGC0Hq3/jT7I7AplRgfNiNZsAwSIAXVOrQBeoGTX23+Z
-MSHW2N7YP/HYlCB574YEJQOEwZFvHQSdv2ZhqThpA4JPKyuwq4nUVD4UqP9FGGb15JWDq4ZyPGVq
-JdlKnSqdhI0zDRXTRpeK1NBmrFjtz4Y2PYzfwhn2q4ocKnbzg2kymrJXfNG28ApIUkU7e7vGAhl3
-KkAukjmu+5FajMeN5xSs9XKWX4138jItUKLNELFj94MQJHgfJ1CukbdViibVxufAsECmfvMrwrL4
-JSjvn3RdhHvdkOKP15k2Ezu6vRwKY1RCJdDMP5G0x7ezodI4O88/fjnKakTHRBEaanwfTsFWvA2W
-ii4iknH2pH4B1c8+3KvCuWs4H1twcVHttGlVl2aYzhlC6B/j8zg+
+use MicrosoftAzure\Storage\Common\Internal\Resources;
+use MicrosoftAzure\Storage\Common\Internal\Utilities;
+use MicrosoftAzure\Storage\Common\Internal\Validate;
+
+/**
+ * Represents file properties
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\File\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+class FileProperties
+{
+    private $lastModified;
+    private $contentLength;
+    private $contentType;
+    private $etag;
+    private $contentMD5;
+    private $contentEncoding;
+    private $contentLanguage;
+    private $cacheControl;
+    private $contentDisposition;
+    private $contentRange;
+    private $copyCompletionTime;
+    private $copyStatusDescription;
+    private $copyID;
+    private $copyProgress;
+    private $copySource;
+    private $copyStatus;
+    private $rangeContentMD5;
+
+    /**
+     * Creates FileProperties object from $parsed response in array
+     * representation of http headers
+     *
+     * @param array $parsed parsed response in array format.
+     *
+     * @internal
+     *
+     * @return FileProperties
+     */
+    public static function createFromHttpHeaders(array $parsed)
+    {
+        $result = new FileProperties();
+        $clean  = array_change_key_case($parsed);
+
+        $lastModified = Utilities::tryGetValue($parsed, Resources::LAST_MODIFIED);
+        
+        $result->setLastModified(
+            Utilities::rfc1123ToDateTime($lastModified)
+        );
+
+        $result->setContentLength(
+            Utilities::tryGetValue($parsed, Resources::CONTENT_LENGTH)
+        );
+
+        $result->setContentType(
+            Utilities::tryGetValue($parsed, Resources::CONTENT_TYPE)
+        );
+
+        $result->setETag(
+            Utilities::tryGetValue($parsed, Resources::ETAG)
+        );
+
+        if (Utilities::tryGetValue($parsed, Resources::CONTENT_MD5) &&
+            !Utilities::tryGetValue($parsed, Resources::CONTENT_RANGE)
+        ) {
+            $result->setContentMD5(
+                Utilities::tryGetValue($parsed, Resources::CONTENT_MD5)
+            );
+        } else {
+            $result->setContentMD5(
+                Utilities::tryGetValue($parsed, Resources::FILE_CONTENT_MD5)
+            );
+            $result->setRangeContentMD5(
+                Utilities::tryGetValue($parsed, Resources::CONTENT_MD5)
+            );
+        }
+
+        $result->setContentEncoding(
+            Utilities::tryGetValue($parsed, Resources::CONTENT_ENCODING)
+        );
+
+        $result->setContentLanguage(
+            Utilities::tryGetValue($parsed, Resources::CONTENT_LANGUAGE)
+        );
+
+        $result->setCacheControl(
+            Utilities::tryGetValue($parsed, Resources::CACHE_CONTROL)
+        );
+
+        $result->setContentDisposition(
+            Utilities::tryGetValue($parsed, Resources::CONTENT_DISPOSITION)
+        );
+
+        $result->setContentRange(
+            Utilities::tryGetValue($parsed, Resources::CONTENT_RANGE)
+        );
+
+        $result->setCopyCompletionTime(
+            Utilities::tryGetValue($parsed, Resources::X_MS_COPY_COMPLETION_TIME)
+        );
+
+        $result->setCopyStatusDescription(
+            Utilities::tryGetValue($parsed, Resources::X_MS_COPY_STATUS_DESCRIPTION)
+        );
+
+        $result->setCopyID(
+            Utilities::tryGetValue($parsed, Resources::X_MS_COPY_ID)
+        );
+
+        $result->setCopyProgress(
+            Utilities::tryGetValue($parsed, Resources::X_MS_COPY_PROGRESS)
+        );
+
+        $result->setCopySource(
+            Utilities::tryGetValue($parsed, Resources::X_MS_COPY_SOURCE)
+        );
+
+        $result->setCopyStatus(
+            Utilities::tryGetValue($parsed, Resources::X_MS_COPY_STATUS)
+        );
+
+        return $result;
+    }
+
+    /**
+     * Gets file lastModified.
+     *
+     * @return \DateTime
+     */
+    public function getLastModified()
+    {
+        return $this->lastModified;
+    }
+
+    /**
+     * Sets file lastModified.
+     *
+     * @param \DateTime $lastModified value.
+     *
+     * @return void
+     */
+    protected function setLastModified(\DateTime $lastModified)
+    {
+        Validate::isDate($lastModified);
+        $this->lastModified = $lastModified;
+    }
+
+    /**
+     * Gets file etag.
+     *
+     * @return string
+     */
+    public function getETag()
+    {
+        return $this->etag;
+    }
+
+    /**
+     * Sets file etag.
+     *
+     * @param string $etag value.
+     *
+     * @return void
+     */
+    protected function setETag($etag)
+    {
+        $this->etag = $etag;
+    }
+    
+    /**
+     * Gets file contentType.
+     *
+     * @return string
+     */
+    public function getContentType()
+    {
+        return $this->contentType;
+    }
+
+    /**
+     * Sets file contentType.
+     *
+     * @param string $contentType value.
+     *
+     * @return void
+     */
+    public function setContentType($contentType)
+    {
+        $this->contentType = $contentType;
+    }
+    
+    /**
+     * Gets file contentRange.
+     *
+     * @return string
+     */
+    public function getContentRange()
+    {
+        return $this->contentRange;
+    }
+
+    /**
+     * Sets file contentRange.
+     *
+     * @param string $contentRange value.
+     *
+     * @return void
+     */
+    protected function setContentRange($contentRange)
+    {
+        $this->contentRange = $contentRange;
+    }
+    
+    /**
+     * Gets file contentLength.
+     *
+     * @return integer
+     */
+    public function getContentLength()
+    {
+        return $this->contentLength;
+    }
+
+    /**
+     * Sets file contentLength.
+     *
+     * @param integer $contentLength value.
+     *
+     * @return void
+     */
+    public function setContentLength($contentLength)
+    {
+        Validate::isInteger($contentLength, 'contentLength');
+        $this->contentLength = (int)$contentLength;
+    }
+    
+    /**
+     * Gets file contentEncoding.
+     *
+     * @return string
+     */
+    public function getContentEncoding()
+    {
+        return $this->contentEncoding;
+    }
+    /**
+     * Sets file contentEncoding.
+     *
+     * @param string $contentEncoding value.
+     *
+     * @return void
+     */
+    public function setContentEncoding($contentEncoding)
+    {
+        $this->contentEncoding = $contentEncoding;
+    }
+
+    /**
+     * Gets file contentLanguage.
+     *
+     * @return string
+     */
+    public function getContentLanguage()
+    {
+        return $this->contentLanguage;
+    }
+
+    /**
+     * Sets file contentLanguage.
+     *
+     * @param string $contentLanguage value.
+     *
+     * @return void
+     */
+    public function setContentLanguage($contentLanguage)
+    {
+        $this->contentLanguage = $contentLanguage;
+    }
+    
+    /**
+     * Gets file contentMD5.
+     *
+     * @return string
+     */
+    public function getContentMD5()
+    {
+        return $this->contentMD5;
+    }
+
+    /**
+     * Sets file contentMD5.
+     *
+     * @param string $contentMD5 value.
+     *
+     * @return void
+     */
+    public function setContentMD5($contentMD5)
+    {
+        $this->contentMD5 = $contentMD5;
+    }
+
+    /**
+     * Gets file range contentMD5.
+     *
+     * @return string
+     */
+    public function getRangeContentMD5()
+    {
+        return $this->rangeContentMD5;
+    }
+
+    /**
+     * Sets file range contentMD5.
+     *
+     * @param string rangeContentMD5 value.
+     *
+     * @return void
+     */
+    public function setRangeContentMD5($rangeContentMD5)
+    {
+        $this->rangeContentMD5 = $rangeContentMD5;
+    }
+
+    /**
+     * Gets file cacheControl.
+     *
+     * @return string
+     */
+    public function getCacheControl()
+    {
+        return $this->cacheControl;
+    }
+
+    /**
+     * Sets file cacheControl.
+     *
+     * @param string $cacheControl value.
+     *
+     * @return void
+     */
+    public function setCacheControl($cacheControl)
+    {
+        $this->cacheControl = $cacheControl;
+    }
+    
+    /**
+     * Gets file contentDisposition.
+     *
+     * @return string
+     */
+    public function getContentDisposition()
+    {
+        return $this->contentDisposition;
+    }
+
+    /**
+     * Sets file contentDisposition.
+     *
+     * @param string $contentDisposition value.
+     *
+     * @return void
+     */
+    public function setContentDisposition($contentDisposition)
+    {
+        $this->contentDisposition = $contentDisposition;
+    }
+    
+    /**
+     * Gets file copyCompletionTime.
+     *
+     * @return string
+     */
+    public function getCopyCompletionTime()
+    {
+        return $this->copyCompletionTime;
+    }
+
+    /**
+     * Sets file copyCompletionTime.
+     *
+     * @param string $copyCompletionTime value.
+     *
+     * @return void
+     */
+    protected function setCopyCompletionTime($copyCompletionTime)
+    {
+        $this->copyCompletionTime = $copyCompletionTime;
+    }
+    
+    /**
+     * Gets file copyStatusDescription.
+     *
+     * @return string
+     */
+    public function getCopyStatusDescription()
+    {
+        return $this->copyStatusDescription;
+    }
+
+    /**
+     * Sets file copyStatusDescription.
+     *
+     * @param string $copyStatusDescription value.
+     *
+     * @return void
+     */
+    protected function setCopyStatusDescription($copyStatusDescription)
+    {
+        $this->copyStatusDescription = $copyStatusDescription;
+    }
+    
+    /**
+     * Gets file lease state.
+     *
+     * @return string
+     */
+    public function getCopyID()
+    {
+        return $this->copyID;
+    }
+
+    /**
+     * Sets file lease state.
+     *
+     * @param string $copyID value.
+     *
+     * @return void
+     */
+    protected function setCopyID($copyID)
+    {
+        $this->copyID = $copyID;
+    }
+    
+    /**
+     * Gets file lease duration.
+     *
+     * @return string
+     */
+    public function getCopyProgress()
+    {
+        return $this->copyProgress;
+    }
+
+    /**
+     * Sets file copyStatusDescription.
+     *
+     * @param string $copyProgress value.
+     *
+     * @return void
+     */
+    protected function setCopyProgress($copyProgress)
+    {
+        $this->copyProgress = $copyProgress;
+    }
+    
+    /**
+     * Gets file copySource.
+     *
+     * @return int
+     */
+    public function getCopySource()
+    {
+        return $this->copySource;
+    }
+
+    /**
+     * Sets file copySource.
+     *
+     * @param int $copySource value.
+     *
+     * @return void
+     */
+    protected function setCopySource($copySource)
+    {
+        Validate::isInteger($copySource, 'copySource');
+        $this->copySource = $copySource;
+    }
+
+    /**
+     * Gets copy state of the file.
+     *
+     * @return CopyStatus
+     */
+    public function getCopyStatus()
+    {
+        return $this->copyStatus;
+    }
+
+    /**
+     * Sets the copy state of the file.
+     *
+     * @param CopyStatus $copyStatus the copy state of the file.
+     *
+     * @return void
+     */
+    protected function setCopyStatus($copyStatus)
+    {
+        $this->copyStatus = $copyStatus;
+    }
+}

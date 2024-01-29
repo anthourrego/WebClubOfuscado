@@ -1,97 +1,40 @@
-<?php //ICB0 56:0 71:edb                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+/**
+ * @package dompdf
+ * @link    http://dompdf.github.com/
+ * @author  Benj Carson <benjcarson@digitaljunkies.ca>
+ * @license http://www.gnu.org/copyleft/lesser.html GNU Lesser General Public License
+ */
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cPzgoqIHvd2eB10941ukphvv+ekACojpdfzO7LaLHGMSUBiK9YeTy4HA2YY+GcgQ1fszgw2dD
-+HEBYZjdWjL2MkZ5ZsOP6dGSw9IiXCKSt35mC5r0gssqW0qP5xcZDjive5DwEe9WlPjgUG4KRLEx
-iR/8oRO100B6LFj7cO7j8GfiSxe+x1wFyxJSaZ0NxJyZBSzYEbIgMIJ190rCOnkOMdd1Q6chVX/+
-Wi//MDdnQCb2ugVlKxnRvVr1gVnU1qYKThpOmTdka0ByZfvNj8dR7FVJQ+vGesY1O5mTUPdsdLU4
-ljfwooF/Z1XwwLxFp2wt9+QQGoOiLTFNqVBkqzIHR4IVViUZlc/oXfKY0Ywlzht0lCytyh79Bnyp
-wL01U2Vo3mxgsDPx+NoYisXa3JWCIysd2OSYDR8njor89+7FPS0XxyGFxQ3dJZvwS/oXhKkeFrcY
-ayCdPEBgak5aYnNTfLs3xWI5GVgnASvYe01Gresmj9EUG08Nvh3+m4chAm0bshMQYPtcR4Tn+tAZ
-gumBKURjAYUtWZOf/tLUGRzitKX6bSyBCCAn7sPTJ/zPqWvzmGOvSKQPLK0lrWPe2Ld+WG7CKwiO
-Fcr1huWq9Um/dCHKYkWbZeDd3o9ReuSTboj6+twWpPZGDCiXnYzJs/945KvAeebVYQdMk8jDve+h
-hK7xv/SMutXmZijsd4KXvcIGh8c+gAfo876xN4y0r/1e7sxpyh2q06USFV3QR4N3B215UT4EmmBb
-w5IDCMQNVCNmSh5Axmkj7C9JPC5QM/F/H1+ZtkgSJ+AehPpaDpuzSL4Kdfg9fVi/GDz9sOdo9vU8
-xH+KquLEvXre/84JcYdoqMOnRcHCW59nCYiRLrZOYExXV7YnmILXHf+GikpdtNP+ffrZBiAg2Ly1
-MQ3Hx31ywxGTf9HMBWbquY4qgvKiBUUETp4fBo1Ih8G6fURYvk7uOnL9xmkGowed1Knc6tFS5vOL
-FMoJL7MF1E0TzGW+U/ZG28qYd/dIup0dVcuD3T5CHlvN+cUUIwFAdXRSo+sCjFoK3+kc6V/Ifhp3
-l5oepE/HfZWrmVgX7NadN0wEC400tl+FYfXCv2Q4tuQf8y+YzN9TUx8CLZgdvVDYRaQFvdsSvA3S
-qsTtABhV72g7gAm9TZ3MOjKtqs+aU9vtGeDiIr15k8SD4G9c/NCdG9z1ke8EwcT5YHesdWjXZDhb
-n8gmlUiMpsvsgCdvOMu/S8o1dKSWLDFZmoUKirqq63cM22YeECoDsu3PohdEDYUWR5Rv9YnCNusR
-OfWbCsFWYQ6iflvSL8AsnQCQG+v/HC/icti1/5Dw/5zvpVrqUlRsKEHETG3/SKjyGQPbIYMLAiAx
-kQtZz6kNRE2taGJIvym65ON58A2WR48HSQjv+80D5Y5/WFORWxbLx81b2r/wxavECl0Z1RYP+lT7
-MiZaMsBvGakyiwh+XQbbiBQWuiqDlPo3wJt4P4Qhe0Whx8VjsdXmFjFOCJT5qyjfYt8hIqvrroFN
-B9V9/qsp4Pff8MW4cTedE5Jf5lOewtzPllmWHzTtI1+tt79tdP5ddHlpQIUaOgXyecoZCUpTx0rp
-zmBTZ/zyDZE+ObfUGPbo79jqgCuBYNEhA0U1dOrkeSwvAwwrCCzO5/0lr0BNXPKmFx4fci7NNPZw
-X4xAIx5tHbJY9g34JHTkCFy2zpjhn+RCdXIRfkaB6UR6qd4cFytunrGQzg1q9kDVQuMrTdD0hF48
-MvYeVlR1vkXHUf45rqllBu+qKC8iqKppvGOL4ithcehvmEHvbRvF8jlHcnO1kl6lZIPnh+8FGcGs
-5tb7nggoUhCTACaVrUo/M4AkMH3U1/fCr6toh4nCXkTrD1+jzf9Po17qCw6zap1CzrO1yOsbqZli
-xpD68FZZRdR4Xet4UGAHRMNxNqEKN9GHBCjyr6lyNiqw1+Ar/W2oRwFtYFmoqaH0zpHfyf7DEi7U
-FSHD/nlMg9K/1H02bueek4NHX4WMDAhdAW5YttMWaYWoMFf10CWTEVsQz5WIvQj6YjbTBezlYmSX
-uj5b1SUXncH5UT5W9lnGJfHN9SgCzwXJnYVH2C0ep0uUMrPVO30B9HyVgBGnxYf6x4EZrP2WgTKa
-zpRbu/VO7WJq2+lOiNGUtZ45BKaYJ6XcpOM031K6KvEytIpNp7Qkn1VroauvqwrFJInTKQgSUOcL
-TDQdp/u5qwEhdYHuT7Po1CLItIHP2GW4WtQXQzH60K9bkJ5QPoVPa0IW/F9PpOBgxZ4u+luizX1B
-nZZ6PkW4FrVbAUCJXnuRZZK8wOcStVtQMOgUfYhaErqWaWjhM6fA0gmfcZUA3SkI1YqPDObqxJBP
-oADFjcbSzwrJySJLTIaK12E/No3/AjW9IzSi4MH5f2Pgl+/L1+EIKmr2mubq4JTQcGy2/d1ZfExj
-9RPIDG5vgyV1a71y8ugM6AP2XVyUw4AzgJ7xqmsq2yOgzmnv9fw3prmiSGJwZFpOlOlvFjPQDDl8
-E+7L4SBooanmay3cRy82p+4kg6YARlLTx/Dr02N+2pfDudq+mlE8M1P0muXNBV35kv+vaiE0tsH0
-ETQT8hQR4Cg9iO2w6TKiDmIcBevmQcV/SHPDh5ie7+zIBTaRpqq3qPLKyD0JKqQ1Shd1LrDPp9KR
-q0btNVFWpWgv/gYUYil9teF7+c2+In+2vN7MPIB86IBr2ycaHcIksR7Rf/cVKxnHJdQRiBK5moRk
-ekwwNXlaWgQLXLt56WCvS6mJVJ2ybKrzj7n9udESOz/jkyEcB7ecL4SWtFcg0q68sAyThLobvww9
-D4Q6ZaUuNjx/FqEk/BWkqEJJ+vMeMY00qWY5gIwkCBEt6v8T7ZXSXYa5BZvVioubGb+EpMkSlDpF
-1Vm==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * Renders block frames
+ *
+ * @access private
+ * @package dompdf
+ */
+class Table_Row_Group_Renderer extends Block_Renderer {
 
-?>
-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
+  //........................................................................
+
+  function render(Frame $frame) {
+    $style = $frame->get_style(); 
+    
+    $this->_set_opacity( $frame->get_opacity( $style->opacity ) );
+
+    $this->_render_border($frame);
+    $this->_render_outline($frame);
+    
+    if (DEBUG_LAYOUT && DEBUG_LAYOUT_BLOCKS) {
+      $this->_debug_layout($frame->get_border_box(), "red");
+      if (DEBUG_LAYOUT_PADDINGBOX) {
+        $this->_debug_layout($frame->get_padding_box(), "red", array(0.5, 0.5));
+      }
+    }
+    
+    if (DEBUG_LAYOUT && DEBUG_LAYOUT_LINES && $frame->get_decorator()) {
+      foreach ($frame->get_decorator()->get_line_boxes() as $line) {
+        $frame->_debug_layout(array($line->x, $line->y, $line->w, $line->h), "orange");
+      }
+    }
+  }
+}

@@ -1,75 +1,36 @@
-<?php //ICB0 56:0 71:c2e                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\DynamoDb;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-a/scgCFDNW===
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use GuzzleHttp\Psr7;
 
-?>
-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
-uFbBQTtjS1AwHXu2lDPMiGF+Bci=
+/**
+ * Special object to represent a DynamoDB binary (B) value.
+ */
+class BinaryValue implements \JsonSerializable
+{
+    /** @var string Binary value. */
+    private $value;
+
+    /**
+     * @param mixed $value A binary value compatible with Guzzle streams.
+     *
+     * @see GuzzleHttp\Stream\Stream::factory
+     */
+    public function __construct($value)
+    {
+        if (!is_string($value)) {
+            $value = Psr7\stream_for($value);
+        }
+        $this->value = (string) $value;
+    }
+
+    public function jsonSerialize()
+    {
+        return $this->value;
+    }
+
+    public function __toString()
+    {
+        return $this->value;
+    }
+}

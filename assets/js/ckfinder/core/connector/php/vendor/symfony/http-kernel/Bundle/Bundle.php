@@ -1,118 +1,203 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
+/*
+ * This file is part of the Symfony package.
+ *
+ * (c) Fabien Potencier <fabien@symfony.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+namespace Symfony\Component\HttpKernel\Bundle;
+
+use Symfony\Component\DependencyInjection\ContainerAware;
+use Symfony\Component\DependencyInjection\ContainerBuilder;
+use Symfony\Component\DependencyInjection\Container;
+use Symfony\Component\Console\Application;
+use Symfony\Component\Finder\Finder;
+use Symfony\Component\DependencyInjection\Extension\ExtensionInterface;
+
+/**
+ * An implementation of BundleInterface that adds a few conventions
+ * for DependencyInjection extensions and Console commands.
+ *
+ * @author Fabien Potencier <fabien@symfony.com>
+ */
+abstract class Bundle extends ContainerAware implements BundleInterface
+{
+    protected $name;
+    protected $extension;
+    protected $path;
+
+    /**
+     * Boots the Bundle.
+     */
+    public function boot()
+    {
+    }
+
+    /**
+     * Shutdowns the Bundle.
+     */
+    public function shutdown()
+    {
+    }
+
+    /**
+     * Builds the bundle.
+     *
+     * It is only ever called once when the cache is empty.
+     *
+     * This method can be overridden to register compilation passes,
+     * other extensions, ...
+     */
+    public function build(ContainerBuilder $container)
+    {
+    }
+
+    /**
+     * Returns the bundle's container extension.
+     *
+     * @return ExtensionInterface|null The container extension
+     *
+     * @throws \LogicException
+     */
+    public function getContainerExtension()
+    {
+        if (null === $this->extension) {
+            $class = $this->getContainerExtensionClass();
+            if (class_exists($class)) {
+                $extension = new $class();
+
+                if (!$extension instanceof ExtensionInterface) {
+                    throw new \LogicException(sprintf('Extension %s must implement Symfony\Component\DependencyInjection\Extension\ExtensionInterface.', $class));
+                }
+
+                // check naming convention
+                $basename = preg_replace('/Bundle$/', '', $this->getName());
+                $expectedAlias = Container::underscore($basename);
+                if ($expectedAlias != $extension->getAlias()) {
+                    throw new \LogicException(sprintf(
+                        'Users will expect the alias of the default extension of a bundle to be the underscored version of the bundle name ("%s"). You can override "Bundle::getContainerExtension()" if you want to use "%s" or another alias.',
+                        $expectedAlias, $extension->getAlias()
+                    ));
+                }
+
+                $this->extension = $extension;
+            } else {
+                $this->extension = false;
+            }
+        }
+
+        if ($this->extension) {
+            return $this->extension;
+        }
+    }
+
+    /**
+     * Gets the Bundle namespace.
+     *
+     * @return string The Bundle namespace
+     */
+    public function getNamespace()
+    {
+        $class = get_class($this);
+
+        return substr($class, 0, strrpos($class, '\\'));
+    }
+
+    /**
+     * Gets the Bundle directory path.
+     *
+     * @return string The Bundle absolute path
+     */
+    public function getPath()
+    {
+        if (null === $this->path) {
+            $reflected = new \ReflectionObject($this);
+            $this->path = dirname($reflected->getFileName());
+        }
+
+        return $this->path;
+    }
+
+    /**
+     * Returns the bundle parent name.
+     *
+     * @return string|null The Bundle parent name it overrides or null if no parent
+     */
+    public function getParent()
+    {
+    }
+
+    /**
+     * Returns the bundle name (the class short name).
+     *
+     * @return string The Bundle name
+     */
+    final public function getName()
+    {
+        if (null !== $this->name) {
+            return $this->name;
+        }
+
+        $name = get_class($this);
+        $pos = strrpos($name, '\\');
+
+        return $this->name = false === $pos ? $name : substr($name, $pos + 1);
+    }
+
+    /**
+     * Finds and registers Commands.
+     *
+     * Override this method if your bundle commands do not follow the conventions:
+     *
+     * * Commands are in the 'Command' sub-directory
+     * * Commands extend Symfony\Component\Console\Command\Command
+     */
+    public function registerCommands(Application $application)
+    {
+        if (!is_dir($dir = $this->getPath().'/Command')) {
+            return;
+        }
+
+        if (!class_exists('Symfony\Component\Finder\Finder')) {
+            throw new \RuntimeException('You need the symfony/finder component to register bundle commands.');
+        }
+
+        $finder = new Finder();
+        $finder->files()->name('*Command.php')->in($dir);
+
+        $prefix = $this->getNamespace().'\\Command';
+        foreach ($finder as $file) {
+            $ns = $prefix;
+            if ($relativePath = $file->getRelativePath()) {
+                $ns .= '\\'.str_replace('/', '\\', $relativePath);
+            }
+            $class = $ns.'\\'.$file->getBasename('.php');
+            if ($this->container) {
+                $alias = 'console.command.'.strtolower(str_replace('\\', '_', $class));
+                if ($this->container->has($alias)) {
+                    continue;
+                }
+            }
+            $r = new \ReflectionClass($class);
+            if ($r->isSubclassOf('Symfony\\Component\\Console\\Command\\Command') && !$r->isAbstract() && !$r->getConstructor()->getNumberOfRequiredParameters()) {
+                $application->add($r->newInstance());
+            }
+        }
+    }
+
+    /**
+     * Returns the bundle's container extension class.
+     *
+     * @return string
+     */
+    protected function getContainerExtensionClass()
+    {
+        $basename = preg_replace('/Bundle$/', '', $this->getName());
+
+        return $this->getNamespace().'\\DependencyInjection\\'.$basename.'Extension';
+    }
+}

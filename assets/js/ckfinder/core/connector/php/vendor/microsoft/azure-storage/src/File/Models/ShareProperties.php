@@ -1,89 +1,129 @@
-<?php //ICB0 56:0 71:e1c                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\File\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2017 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+ 
+namespace MicrosoftAzure\Storage\File\Models;
 
-?>
-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
+use MicrosoftAzure\Storage\Common\Internal\Utilities;
+use MicrosoftAzure\Storage\Common\Internal\Resources;
+
+/**
+ * Holds share properties fields
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\File\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2017 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+class ShareProperties
+{
+    private $lastModified;
+    private $etag;
+    private $quota;
+
+    /**
+     * Creates an instance with given response array.
+     *
+     * @param  array  $parsedResponse The response array.
+     *
+     * @return ShareProperties
+     */
+    public static function create(array $parsedResponse)
+    {
+        $result = new ShareProperties();
+        $date   = $parsedResponse[Resources::QP_LAST_MODIFIED];
+        $date   = Utilities::rfc1123ToDateTime($date);
+        $result->setLastModified($date);
+        $result->setETag($parsedResponse[Resources::QP_ETAG]);
+        $result->setQuota($parsedResponse[Resources::QP_QUOTA]);
+        return $result;
+    }
+    
+    /**
+     * Gets share lastModified.
+     *
+     * @return \DateTime
+     */
+    public function getLastModified()
+    {
+        return $this->lastModified;
+    }
+
+    /**
+     * Sets share lastModified.
+     *
+     * @param \DateTime $lastModified value.
+     *
+     * @return void
+     */
+    public function setLastModified(\DateTime $lastModified)
+    {
+        $this->lastModified = $lastModified;
+    }
+    
+    /**
+     * Gets share etag.
+     *
+     * @return string
+     */
+    public function getETag()
+    {
+        return $this->etag;
+    }
+
+    /**
+     * Sets share etag.
+     *
+     * @param string $etag value.
+     *
+     * @return void
+     */
+    public function setETag($etag)
+    {
+        $this->etag = $etag;
+    }
+    
+    /**
+     * Gets share quota.
+     *
+     * @return string
+     */
+    public function getQuota()
+    {
+        return $this->quota;
+    }
+
+    /**
+     * Sets share quota.
+     *
+     * @param string $quota value.
+     *
+     * @return void
+     */
+    public function setQuota($quota)
+    {
+        $this->quota = $quota;
+    }
+}

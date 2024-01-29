@@ -1,100 +1,52 @@
-<?php //ICB0 56:0 71:f79                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-ykzM90===
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/*
+ * CKFinder
+ * ========
+ * https://ckeditor.com/ckeditor-4/ckfinder/
+ * Copyright (c) 2007-2018, CKSource - Frederico Knabben. All rights reserved.
+ *
+ * The software, this file and its contents are subject to the CKFinder
+ * License. Please read the license.txt file before using, installing, copying,
+ * modifying or distribute this file or part of its contents. The contents of
+ * this file is part of the Source Code of CKFinder.
+ */
 
-?>
-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
-nD9fjG8Q1drv7B2PjRfZaHJX
+namespace CKSource\CKFinder\Command;
+
+use CKSource\CKFinder\Acl\Permission;
+use CKSource\CKFinder\Event\CKFinderEvent;
+use CKSource\CKFinder\Event\RenameFolderEvent;
+use CKSource\CKFinder\Exception\InvalidRequestException;
+use CKSource\CKFinder\Filesystem\Folder\WorkingFolder;
+use Symfony\Component\EventDispatcher\EventDispatcher;
+use Symfony\Component\HttpFoundation\Request;
+
+class RenameFolder extends CommandAbstract
+{
+    protected $requestMethod = Request::METHOD_POST;
+
+    protected $requires = array(Permission::FOLDER_RENAME);
+
+    public function execute(Request $request, WorkingFolder $workingFolder, EventDispatcher $dispatcher)
+    {
+        // The root folder cannot be renamed.
+        if ($workingFolder->getClientCurrentFolder() === '/') {
+            throw new InvalidRequestException('Cannot rename resource type root folder');
+        }
+
+        $newFolderName = (string) $request->query->get('newFolderName');
+
+        $renameFolderEvent = new RenameFolderEvent($this->app, $workingFolder, $newFolderName);
+
+        $dispatcher->dispatch(CKFinderEvent::RENAME_FOLDER, $renameFolderEvent);
+
+        if (!$renameFolderEvent->isPropagationStopped()) {
+            $newFolderName = $renameFolderEvent->getNewFolderName();
+
+            return $workingFolder->rename($newFolderName);
+        }
+
+        return array('renamed' => 0);
+    }
+}

@@ -1,114 +1,126 @@
-<?php //ICB0 56:0 71:1190                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\Signature;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-gSG==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use Aws\Exception\UnresolvedSignatureException;
 
-?>
-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
-f60tJDwl2NuaRRFUAIHQjZrfPuS=
+/**
+ * Signature providers.
+ *
+ * A signature provider is a function that accepts a version, service, and
+ * region and returns a {@see SignatureInterface} object on success or NULL if
+ * no signature can be created from the provided arguments.
+ *
+ * You can wrap your calls to a signature provider with the
+ * {@see SignatureProvider::resolve} function to ensure that a signature object
+ * is created. If a signature object is not created, then the resolve()
+ * function will throw a {@see Aws\Exception\UnresolvedSignatureException}.
+ *
+ *     use Aws\Signature\SignatureProvider;
+ *     $provider = SignatureProvider::defaultProvider();
+ *     // Returns a SignatureInterface or NULL.
+ *     $signer = $provider('v4', 's3', 'us-west-2');
+ *     // Returns a SignatureInterface or throws.
+ *     $signer = SignatureProvider::resolve($provider, 'no', 's3', 'foo');
+ *
+ * You can compose multiple providers into a single provider using
+ * {@see Aws\or_chain}. This function accepts providers as arguments and
+ * returns a new function that will invoke each provider until a non-null value
+ * is returned.
+ *
+ *     $a = SignatureProvider::defaultProvider();
+ *     $b = function ($version, $service, $region) {
+ *         if ($version === 'foo') {
+ *             return new MyFooSignature();
+ *         }
+ *     };
+ *     $c = \Aws\or_chain($a, $b);
+ *     $signer = $c('v4', 'abc', '123');     // $a handles this.
+ *     $signer = $c('foo', 'abc', '123');    // $b handles this.
+ *     $nullValue = $c('???', 'abc', '123'); // Neither can handle this.
+ */
+class SignatureProvider
+{
+    /**
+     * Resolves and signature provider and ensures a non-null return value.
+     *
+     * @param callable $provider Provider function to invoke.
+     * @param string   $version  Signature version.
+     * @param string   $service  Service name.
+     * @param string   $region   Region name.
+     *
+     * @return SignatureInterface
+     * @throws UnresolvedSignatureException
+     */
+    public static function resolve(callable $provider, $version, $service, $region)
+    {
+        $result = $provider($version, $service, $region);
+        if ($result instanceof SignatureInterface) {
+            return $result;
+        }
+
+        throw new UnresolvedSignatureException(
+            "Unable to resolve a signature for $version/$service/$region.\n"
+            . "Valid signature versions include v4 and anonymous."
+        );
+    }
+
+    /**
+     * Default SDK signature provider.
+     *
+     * @return callable
+     */
+    public static function defaultProvider()
+    {
+        return self::memoize(self::version());
+    }
+
+    /**
+     * Creates a signature provider that caches previously created signature
+     * objects. The computed cache key is the concatenation of the version,
+     * service, and region.
+     *
+     * @param callable $provider Signature provider to wrap.
+     *
+     * @return callable
+     */
+    public static function memoize(callable $provider)
+    {
+        $cache = [];
+        return function ($version, $service, $region) use (&$cache, $provider) {
+            $key = "($version)($service)($region)";
+            if (!isset($cache[$key])) {
+                $cache[$key] = $provider($version, $service, $region);
+            }
+            return $cache[$key];
+        };
+    }
+
+    /**
+     * Creates signature objects from known signature versions.
+     *
+     * This provider currently recognizes the following signature versions:
+     *
+     * - v4: Signature version 4.
+     * - anonymous: Does not sign requests.
+     *
+     * @return callable
+     */
+    public static function version()
+    {
+        return function ($version, $service, $region) {
+            switch ($version) {
+                case 's3v4':
+                case 'v4':
+                    return $service === 's3'
+                        ? new S3SignatureV4($service, $region)
+                        : new SignatureV4($service, $region);
+                case 'v4-unsigned-body':
+                    return new SignatureV4($service, $region, ['unsigned-body' => 'true']);
+                case 'anonymous':
+                    return new AnonymousSignature();
+                default:
+                    return null;
+            }
+        };
+    }
+}

@@ -1,65 +1,90 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-8o5wOPUoJFLcgm==
+/*
+ * This file is part of the Symfony package.
+ *
+ * (c) Fabien Potencier <fabien@symfony.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+namespace Symfony\Component\HttpKernel\Fragment;
+
+use Symfony\Component\HttpKernel\Controller\ControllerReference;
+use Symfony\Component\HttpFoundation\Request;
+use Symfony\Component\HttpKernel\EventListener\FragmentListener;
+
+/**
+ * Adds the possibility to generate a fragment URI for a given Controller.
+ *
+ * @author Fabien Potencier <fabien@symfony.com>
+ */
+abstract class RoutableFragmentRenderer implements FragmentRendererInterface
+{
+    private $fragmentPath = '/_fragment';
+
+    /**
+     * Sets the fragment path that triggers the fragment listener.
+     *
+     * @param string $path The path
+     *
+     * @see FragmentListener
+     */
+    public function setFragmentPath($path)
+    {
+        $this->fragmentPath = $path;
+    }
+
+    /**
+     * Generates a fragment URI for a given controller.
+     *
+     * @param ControllerReference $reference A ControllerReference instance
+     * @param Request             $request   A Request instance
+     * @param bool                $absolute  Whether to generate an absolute URL or not
+     * @param bool                $strict    Whether to allow non-scalar attributes or not
+     *
+     * @return string A fragment URI
+     */
+    protected function generateFragmentUri(ControllerReference $reference, Request $request, $absolute = false, $strict = true)
+    {
+        if ($strict) {
+            $this->checkNonScalar($reference->attributes);
+        }
+
+        // We need to forward the current _format and _locale values as we don't have
+        // a proper routing pattern to do the job for us.
+        // This makes things inconsistent if you switch from rendering a controller
+        // to rendering a route if the route pattern does not contain the special
+        // _format and _locale placeholders.
+        if (!isset($reference->attributes['_format'])) {
+            $reference->attributes['_format'] = $request->getRequestFormat();
+        }
+        if (!isset($reference->attributes['_locale'])) {
+            $reference->attributes['_locale'] = $request->getLocale();
+        }
+
+        $reference->attributes['_controller'] = $reference->controller;
+
+        $reference->query['_path'] = http_build_query($reference->attributes, '', '&');
+
+        $path = $this->fragmentPath.'?'.http_build_query($reference->query, '', '&');
+
+        if ($absolute) {
+            return $request->getUriForPath($path);
+        }
+
+        return $request->getBaseUrl().$path;
+    }
+
+    private function checkNonScalar($values)
+    {
+        foreach ($values as $key => $value) {
+            if (is_array($value)) {
+                $this->checkNonScalar($value);
+            } elseif (!is_scalar($value) && null !== $value) {
+                throw new \LogicException(sprintf('Controller attributes cannot contain non-scalar/non-null values (value for key "%s" is not a scalar or null).', $key));
+            }
+        }
+    }
+}

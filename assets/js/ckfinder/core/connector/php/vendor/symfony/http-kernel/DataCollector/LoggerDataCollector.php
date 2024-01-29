@@ -1,118 +1,192 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cPmeridqIgGPow/KdNjcXfPfZVOnWgn/DmDHU3OQBg1K3bU9t4T0hBjkH+GnDh61BFJKWR3xJ
-OLSaEUXWlQ2mIWM9v2QmePcKGu0shPqdzxzv2Vncx5fIf4eJ5qs8Lj36eb3z8Ym8RHOZOBwFnKu6
-pI1NS4zVXUdfVRmxDazlVPKiwZDl+ZLHkqaDRNq+Fp/DgU2NJcRTpsZfrfh7h+0hwDvWn1PuoOre
-q2imi0hrK8X5em39tlx/0Gov78/OiCvlsA1h1fRM3+wG0loEdbUqYTiSzzDhxb2aQL9+ltfk731i
-/mf61LzW8lyaUEMQgYnIj7h1Zgd+RJ8FmDtJ+OUnS42+wwap3CzEge1DQptpiIFlk7k/x42sEqnF
-eW64IJbN85Icm1htadHVFSOFD1+jM/y3HyAPbT+IsxJS9qc9aofUrBvmb8g8h59g5DV6YdL34AnS
-+YBgN34c6smVVBoqsPi/FeyXIXKnNfJpMfSdi0BIcIdY5rqUZbXwbdzmkLpCCTxd4A+BJuYSavzT
-bVbTCzr67uKIcNhbh1HhzHerOgRjJguMXxCer2ZjZrpk2PUZxutl+vrW7S7XFKsOJaZLNn29jxbf
-HJYawdjWNfieGAGBOcrHBgZ7gP+1qgXbv9gnaSKvSCJccCiu/oKSDH5Xb+dH6HGm/QNfM2z+EuZI
-w/lRsv7mqAmPjm4LZ1lIOocUojGkGYKQnqKA3QfXCkyHKWE517eJbwbGzya/MQZzOqalTeRqe8mC
-CsW7OxnY8b/g1UF0Yp2STeqCwQMpdy01wM12Qso/QwefeWFZnIaIatzJY06oub9vDEuPmafnfC9C
-Z/Qwz7mH1uw6t0l8AZceryeK3UqxPbgblcUYdQccm0tu5nxG8dq5PM6Saepls9BA8r1cs1faN9hW
-qJAhp+bS1ewOubmQ58q7t88YJ5JLuzx/YfjmjLaN6eucBVMehb1yuXQ8lFbIZn5B2PkdbLHfULDF
-U36lJ0OMVmF/nwhrACnEJ67vpVnMy6tq1HE2+cPHxo73FWX4Vu0nxcNTLPpGVoJB+NI8JoU2S2Eq
-tOvDYvBleCxR7N9A5cPQG8GMfnlMEm7FUF4iyQ7vdC0ea/k/o0f8nX6pXFd1qhFXEeOaYT2KqYyx
-OYPWu+/AOJaXA7GYkVGRosyVHF76BKJS6ApRa2jHTwgK7PGZ8+DKnPMIgrauXN3tWp0I2eILOZPA
-gozTmij1jsAH7BewIV0G0s+QYNMQaGBCRcungMt0sDAL2+iaHFfSfKF1NYs8ZB5yPjNGhqheHkly
-lTzPMAIWf55ie7Dm92XXSwAx2tMw01CQOfZJ+lRESP1u3CGGD2YAaBSUbQNN18JrNFQdfZ1YBj0O
-40OM+omaNu0scc69tJX0Slq5y20Zb7LyI/rYygzTfVpmvsoZCjRH+GQRwj62fFlf8q44HuAwGVta
-08cRPHZ/gVmoS/kWlnkPcnFOhzNQKoArQTo2zsUxa41hkm9RyfJFSCZOCPnwB8eb4aNZluAAmlx8
-f0MYVrg3iEf9SYjznAIdnDvMMAillomICWQMM2k3Fv75e++NCq2Rkb8tDGAec4kZWeDttptmQYBU
-6x2gHQvfscwGr1OxsgZIQZsK9M02dbY4ATema+g0B2u7pC3z3BeSWaweExIwijbpcRojvYa6qirF
-nKDzGLCvtc8pxB+iuyP/57lzVyYYBsyuLHF9bBCZScIkcW9Odxrl4sxCrNOJialp3Vlu1vhrMvsT
-6CQFE2hM/+yOsgUEJKmxGDt3bfHEaEdKcF7DwXjIoB1jtB2Ijkh83rcTSzTeIBjMmxlCYgdlNuE4
-/xIz1tusIzr7ioHuox07P4byRac9u1NpmzuZlQtunLk1iBvGb4uPUU9GgGAU6ne8WKL8E/GAXbZ0
-IfhkhV9c1rImrPUgMoGnOcy1StqqNFimiGOGw58eKECz8+WfW9tsmpsQa+1LPP14hufsHS45W9Na
-f7bxurdWT8FllUtd5VWdGdTVp3QqEA1da0rV04mf1t3+JqFU8qrWCHUtCYeBWafqZ6F/KOVjWHOH
-2H+fuEr3gcbD2IVJ8XRbK2wez3PsugwllrU/ScgIIYDoJ/uiRZIqUo7TTqgB2K5v10PHL2CRu5Ez
-5aqGVu2vD5vjFRre3C7bv1+8Gi7MuIkLe900zlSWcDFKooVNzM9IbRx1r8XvodpNoHOOeaYzuy8n
-P7BCpoL9Bu58UVu+XtCW4584RLOWbTShq4bOJQcqEA+Wtav2Kk/OxJYugE1eJ3hXkjrNx3b39AJa
-zmzBPJV5D/fdELZNrMot3jugg/Pstw3nbdxAP7h7MbSK601Pb81KUuP908K5pxapFvLIh017She9
-AlKvt9LEO7rsguWT1CkZDqkVtT+4E0KT19UN+vYfRG5hZUXyVfOYBNOurXhFK2atUjP0OGWvxaz3
-CIlbiq3gXl8x1GshgBKkx9QisL18sHf+KQ0l+idlsNhO3Ivkm/VGD0GZTjVd9vyEe09iFKYSd90N
-o2QS2Px9rSv/z87UTmxcT2Doam+wyGZslglysN2/GlpV+IRidkQL4hbv1fTmd/rgYvmEIb3K4L6n
-cWM0CcG3sz+91YdN9PyEJz9TDbaTo6U2HdQYliLAwhc/0S4zTQuDC+Wn0jZ5839uUCG6Bgig6TsX
-JbkdLguwASTPtl55l0HyiPRXE8hKS2UAnrZmnSWS39aWgU0n9UU/NrJGOgZmhL2Q09bbqkxkiZSq
-g4uYdD5P3urk2brpXmc7cIGcW2QT79cKNXf3uexdh8xCdcwI6HKLOJsJFSYiuBs1P7bdx9wS5m9/
-MPT42rdVNWMNsjvV21C2KiGV3LcZiROnvH6B9yronSWNa5PGezuRFznDUrIcV6SxSCMf0rX886k9
-oKhY9mcS0UdgGWJ7HVBM1B+KRIdKOR38TwnCMym3aGB2TndbnOkmMtSJSblx+kd5b551k1h94sh8
-YoZFYMH30YnjNF69UoU/XjkxAVDvRQcsY3Q0ylpsQ3EKGy41jsKi3kvuQiQikjJ250Yc8YNY3xwJ
-0n7bfQSF+bc2+jcgS1U9jNnrfgMAUWatOBmlQiSb1C9kBtXqCrpGI01wqtwdzLt/lcYXCTbQOazC
-Tu6isZOoFTZLZGZjh4AgRGbcyJa+Wj0xsG3o/k7C2uy92VQLeakDMXQX2qawOZMGkFBXb8+Ut8cU
-13dQPszQnGKCEkiB8+FI8jaBN/3RTWCbekRYH/Il/gBD+nVi/4X5us5qqFjvX2/+ejyPTAnnIULK
-enu9GaIF6LpMUObneLa9Tu22kuhk9NCQSR7n7ZH1SeBbRHGZ3mEToujMSz/J+wsYnpDtV+W3I75o
-10e2r5Y9v/WTmzbuYqz+JLiMmuKDXgHeqjnagsTuoRfW80t6EPIWqBpU1GHdy1HcY41vx78JOuQj
-YfdeITFGfuSktQ4qejzFOPYh59sjyRX/k29eijkcuETJVqwuPkj0iPfOnoH818Zo26v0M/gW8+T7
-/bSKfMSzmHeJHwia8UbDg5JXfG2Bd1vWLfgANRHMVDn8ce4C3sAhYMIp4q5r5LWNCUW29n0b0o87
-x5xmXkQQHDLyFpuU80QFbeoi72ofPAJvFRzDg30q1YzObkdjb0rmh5AaIiP6cwIhAOv4X96HIfR7
-MH7dj3iVbF4RA4ojeJrFzHj92HWTSWTUWiQbAK7su/jn8ESQT1kzeDbwXb5UjLwPNCkRn3KuJG38
-V5cot9KVlt0gbP4+4DkuXDv5IJjAQ4G0nnPinZRzGcG2Fwcj4CIp6Xp4t5tOcJiUrqa3NwGb17zL
-Z865Bmlo/1H/vxLKQODimu8Qy0vHYvOx/7g1S9O/DMyviY8mtvUmmhqAHpHbCBMEm7jL+nO/cuGP
-9ugx4D0NnrCixKJ9QurA47J9ixin0TT8SQtG7EN3F/dbFzGLzGPkoM79Oku9myHizurWRiXrdHx5
-+7alenpI/1s9W/DDdQZDImuTwMbTX1k9mVmDlyMR2XTQ2RJHr6XkRNz0JsQBRKa6Rd+u0XRX4t/C
-y2/USdPDpy3jTWKBqki1NND4Zn7b9hYKU3I7vEbU2l9W0TECko0dKU0padnH8S6tIvHWm4Bsa0Fv
-JpwGijx609vm/WCMSYDkSWDOC2ABu7W7w+nKkD2C4b1oJkiEifpZ8TE0K3679JijJ7N+2W1Cqsa8
-AoqDLV4QHdqJKPesr4QPw5LjtVtlT/FpNx8IpRN9mIs7cJQt0kzLwXXRotqNV+b+ZxhmdodY89+5
-WptKc6vIT1KYTbejQmWFTvQk8y/iLAoy5b9BMfy/zorNaAz6Z593o56GpWAZ87H6hFb5o4rErr7J
-QyfBzTNrbseDUEIo990cd5K6BSY+x9JE6eClHowEZJcVJJrtfaV9+Tz5GS7qCHqMSXFkGBeXtf/0
-XvAOHD+l77d7/rhcg3HtjAhKXv5+L9MQy3Xe3pIZSnD8dybEjDJGRVNXv16HwGenSXVINUhJczqm
-FOFms8rk9l/qfby6gjx9V4Vu4krDWYpTwiwJjBo41qWwd/zgivYtJmzrwAMHwDa+k44qDAcRrIIj
-AIXZOIHEWw0xsPE1wg25DVAl9opwOPLfdV/zbKNg4GvKj/YUeXwzmYPZ07YZopMQSj2lAmyMOHuI
-gdQe/PFXi3akiE6OfjaXBB8lSX0ENl/6K7umfgYhKALYns0RtFpoDxuiPTMTbHYbRWD6QnwhKJKx
-ib7UYtXPEjfyk9KYGig5LmZi6tN/sGZzhwkzIdqhi4+c4y/MQIdouS+Z7I8ubXLr8uY6LeNu+UJp
-QlmJU1COwwE0gtBwBFPT4pb3csq4zb5Y1tEXxQQ0Uys8yz9oDqCoeZc93f3Z8Mz5UXz5KaYExN4J
-ecm3bOjhBV9DkquTSSJ2AQ3NXn3Xcxm0TgqRVcr8RoBQESUI1WN7b8WGvaddJdlQhqAsxIpDYwh1
-ijOSJcaK6WSl742qnpQ+stHs7CCu4cl6c7fQrq8zvn+EIvSLWfWXQNy8fqVc/JIuSkmeogs23iNi
-t8Y2/bJQWxtRSBOIy8qjCpOa3Dumqa+GBtYgC0NJNIYc9zWqZiN4iKJjbPBLUhxO9zbyx95nuklt
-GxOiepaSLtly2/p9cD1AiS0Qqsrk50VNnFKAdrLjMJAX1/U+PtsE3U3pa8fFyPU048EoJ1dXhudx
-yU53hwZfNhVNzd78xrMKfR+jqmbpc0D0/8slH2ASDAlhsJD7PNu41xOicWf9J2lpNfwvAsFtGc2Q
-L8k7+aY6kRH0O5ydfptlPwIG1vY6q1NVm7nXopBCQBvKPgFoSqTdHkbWhNMDNcZA7EqmvA/iOnH7
-Wqd5opQSqvjUZiRgJguEQ5F/x7W/su3AtvFqIhjPtMJn2ixie4H7UB6dzkoyyhtsxQgF8+EYx2Fo
-YzvCIkhlOgigQ0QztBbH4bBwi5DQmETweTtTrzX8S6oKMC2heokf1hcHVs07XFDb+P0ALe3cVIxM
-yAQBL9vYnIZoS8hK5/tsjzzVkcHAcLhA+IGNYFuB7A3zWUuPEyOSrsKiW2cXA1Z4fSOWYys0usI8
-WTk+IZafvJQH32+kDSE8n14ZPle44/BqrSHPgYrAElxVVYYwLqfCA1Ia/IHEvyDE5ga0sFEHPr4L
-layb8Q8RjznNcDUhRryoCaaNjPA0aOrRhE4DK1ra/B14DA5RLfL/5Su8cRr+b5qGUkfliem2kRqo
-QUrznqw6tVOn9aKuuU+94cIgKJ5u1LOaXTPHuj3u7AxkUVL/B5BdSSHtFfazh/V56mxy6JuzzzZs
-SnWF92Xe8rIDElIqxPBSgkL5pYR8WFznnym2udiKTf6e8chFhBprtqsmHJ0qsNbKLbPGXmzD5E3G
-P2Am30eAtS0z0aidMe9Kq4yZFxIzb0jcJDrR/unltdJVq6Do2QOQPnHr+7it9XYY79qLiRbxS6BE
-pTYQJf90DetO06i7aHcsjWpZ4M1AtPy+ee5bMhjedwFVOg1qIIJH8W3EH9e9pPMDARzvE4wjrn+1
-HLdCpolgMjwZuo3mmdpRzrQBAlIInUY9Ax4r8jVN8NU+zvlRQ3i7Y/gxbWirYWa/6ngZoTyquxpW
-YHdM92Yd2PRApa6CPZWw7OQ5mNL7w8bx1LB0z2403yf3WJ1cGD6TfB6BlwEqAR/LWzwLPmtaEDou
-D4EYv093wTGltZfUUUjPdbGe0nTqmP9PRrH1jE5FTDr2FuEc9zuthbqwLb719WC9IBFIeb5vV5nJ
-cWvXUX8IvZcqAhknxCYiawwzURvLlsrUoUqGD5VC6tBbXP7KA+QE44MKs7Gb31JG09eXda0cNK6f
-JdOz1TSmD354AeoTuy78Cz9tvN6Q0+K59DwSS529M0I2Xb3z1QIqZD0NVst46JeB3ezm8ZxdHESN
-O+ml6Ah5wI92KRQ7Az+YzSgWVtCS0Et0t18AA6gYRTifalJ7TgILSIGhrn0Yl2pV/tDcqguo68Ha
-M598SQKbDyYCAMgLehhd7VWh1+dnD6D24cx5DjzV2RLtB81vwrkllSq29ucVGTPcZUlTAcEG2HeX
-hOftOqWMB/qkkKkTrCxPvP5+kw69Xo8SR6TOBvoJOb/N9Wjq2IyvCkU7As/5HeR1GbTPSMvqSWtW
-mrphhi/0nTDOGCcihxyRuBWIQ4vkdgoo8PQ/cY8TtlVqepOR+L9BcasmoC5DZojfGowlu4Hfs0zs
-VkOPibqLe86Sp1ptgmrAUDHEhly4FXI2bmIRJ3bpKtWK6psoRDDdWwHR7EVe1tLf+lSnHYLv3YPr
-NRe40Bj6IcOFxgYWtzvY00S3N99+sKRhwZ8fPsCJG8/0oh5GSxliMXHSqC9KljNr0xkd2RtnegZO
-Z5PQRlofIqj7kTzOhBsxvqSdVM6nO7SKNAf/y6WZFpXIJnGvQCK6gTvRanqixFF4UYL63WYlQohx
-q1AVMHoh18kCqymdI2fJQ26aGO3e1tbIwYEIUoKfeqx+PLKAgsPuJ9anZ43oIIWkFwRNnPxhuRID
-EpJMOuls8y+Ra8g9LqZIUNTPbzKDDSJnIZjXo8UV5JjMbMzjMEkE9LPMPf1IGRREqEk2h9Yui/4C
-WsT9shhxjD4APyo+PKplnTxJM8P/uBdv7yJZpt6uh/xErPMd17fqIi9kjrkKlKD7rqhV4xWmnxP6
-lWF62taxE6Vh9gwiTZ6YlydfXUgIVMK3fCZR7moLkyb9iMzj0V0fxHJdXBVNL/AFy8PxrtBYTirx
-pa/gafxPqthVnQmDf9nZ/mSB1EgVYuHFZY/Hskc4DotMfHCjev2jSQTfVR2DMqV/Nk7lD7DLqpBq
-H5roE7w813MQaiN9ksenplG2Tl2lJa0H0o2/FfKXFjHzrQf/1ofb5bG6GDd7O6daR/JBNBdyWbV8
-g0vXj3zqKKYeUzsa9vRxR9RlDcahSyX/w4guK1wv1NIOjDzUjBurWMj2ffL2MbK3pQ3TYzCWwbHs
-XnkmpJArJziH5PkU215y2OYBG7OKvu/ClF+bIl8og7Rhewiz7gQqwt9MRTw38YDdI5+7Fh9ABn60
-lCeN2OMX0DOJLryXTjp7eAhVQZusoBsXFH2aCxm3Mt6/IlE6m41qeXulNr4VvF5KuSlMUevmUBZl
-9TH5q9IDb4jM3Yjurve/l7ImHG53XH5p/SR6CpCS3NoxGiuHsaUak3lQSqresewOBbQR1SQARas5
-pw1ZhRgAuf+10BTRxaxu9OMekGcIPVezYUkF2vPSr0eTURM0x4T+FGzMCqsfQeZvHRlEP2xx4NEH
-PHqfOuhfyCQDRICgvFy8r9sEPpTefG1R2nmpUycwGE8pYieFnotDw6zG66thUh71BI518OQYplwd
-nFTC5RAXGpC3RoFCUmjlc+aKT6+vtVq5yUSHeDle1bTeJO1qXylYyRDEoNDfGbIJmtRQu6dRmFng
-TZC1Afgz9m6rVj4NC7G3cIpmYmzmhzyDA1WkL2TkAZsZ7ee8fnEHZsXRLjc75PfkSVPep6Kfp4sV
-PpryZFxFtIeZCST6pVkCPhRAm05al0YmRhdZvpLqR5q+0YfOLDeZQ0b/aN+QhYNLb3PwIEr5CO7S
-vwTSwPHglqvcE5cIkodHEO99WZqou1ujkWCJ/ZKcES1ym8bvo9ED1qDEHheAOpJvgNPbYfJCDuwF
-COl8mNXpMPYxJvtpUgXUDqTsC5C3eQGrVxt4Hj5ngJlfkSn9x/WIvvFv1ZdaYkPQ1jwNG7BsDBnx
-WzddlThjOFcQ1unQGZzc64yaJR2oZ4236qIKx8YoGJB2Mk5zSTCqYwpe5GdwyxJtDmCCL9jZsSWk
-yOCWc91HBoh242EsAUO07xRBxZKrjzQumnLH0B6Q0Sny8zB6nRbX9KDFJyu/aq9TuNuJXmmqIbPS
-kuNFoVdszBtXCGPCaPkNqYrEfeswkfqWcDqUjPPC/FUZ6QjdO+db0L4AwxkhRO1aqLeGgl+Vj4i2
+/*
+ * This file is part of the Symfony package.
+ *
+ * (c) Fabien Potencier <fabien@symfony.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+namespace Symfony\Component\HttpKernel\DataCollector;
+
+use Symfony\Component\HttpFoundation\Request;
+use Symfony\Component\HttpFoundation\Response;
+use Symfony\Component\HttpKernel\Log\DebugLoggerInterface;
+
+/**
+ * LogDataCollector.
+ *
+ * @author Fabien Potencier <fabien@symfony.com>
+ */
+class LoggerDataCollector extends DataCollector implements LateDataCollectorInterface
+{
+    private $logger;
+
+    public function __construct($logger = null)
+    {
+        if (null !== $logger && $logger instanceof DebugLoggerInterface) {
+            $this->logger = $logger;
+        }
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function collect(Request $request, Response $response, \Exception $exception = null)
+    {
+        // everything is done as late as possible
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function lateCollect()
+    {
+        if (null !== $this->logger) {
+            $this->data = $this->computeErrorsCount();
+            $this->data['logs'] = $this->sanitizeLogs($this->logger->getLogs());
+        }
+    }
+
+    /**
+     * Gets the logs.
+     *
+     * @return array An array of logs
+     */
+    public function getLogs()
+    {
+        return isset($this->data['logs']) ? $this->data['logs'] : array();
+    }
+
+    public function getPriorities()
+    {
+        return isset($this->data['priorities']) ? $this->data['priorities'] : array();
+    }
+
+    public function countErrors()
+    {
+        return isset($this->data['error_count']) ? $this->data['error_count'] : 0;
+    }
+
+    public function countDeprecations()
+    {
+        return isset($this->data['deprecation_count']) ? $this->data['deprecation_count'] : 0;
+    }
+
+    public function countScreams()
+    {
+        return isset($this->data['scream_count']) ? $this->data['scream_count'] : 0;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function getName()
+    {
+        return 'logger';
+    }
+
+    private function sanitizeLogs($logs)
+    {
+        $errorContextById = array();
+        $sanitizedLogs = array();
+
+        foreach ($logs as $log) {
+            $context = $this->sanitizeContext($log['context']);
+
+            if (isset($context['type'], $context['file'], $context['line'], $context['level'])) {
+                $errorId = md5("{$context['type']}/{$context['line']}/{$context['file']}\x00{$log['message']}", true);
+                $silenced = !($context['type'] & $context['level']);
+
+                if (isset($errorContextById[$errorId])) {
+                    if (isset($errorContextById[$errorId]['errorCount'])) {
+                        ++$errorContextById[$errorId]['errorCount'];
+                    } else {
+                        $errorContextById[$errorId]['errorCount'] = 2;
+                    }
+
+                    if (!$silenced && isset($errorContextById[$errorId]['scream'])) {
+                        unset($errorContextById[$errorId]['scream']);
+                        $errorContextById[$errorId]['level'] = $context['level'];
+                    }
+
+                    continue;
+                }
+
+                $errorContextById[$errorId] = &$context;
+                if ($silenced) {
+                    $context['scream'] = true;
+                }
+
+                $log['context'] = &$context;
+                unset($context);
+            } else {
+                $log['context'] = $context;
+            }
+
+            $sanitizedLogs[] = $log;
+        }
+
+        return $sanitizedLogs;
+    }
+
+    private function sanitizeContext($context)
+    {
+        if (is_array($context)) {
+            foreach ($context as $key => $value) {
+                $context[$key] = $this->sanitizeContext($value);
+            }
+
+            return $context;
+        }
+
+        if (is_resource($context)) {
+            return sprintf('Resource(%s)', get_resource_type($context));
+        }
+
+        if (is_object($context)) {
+            if ($context instanceof \Exception) {
+                return sprintf('Exception(%s): %s', get_class($context), $context->getMessage());
+            }
+
+            return sprintf('Object(%s)', get_class($context));
+        }
+
+        return $context;
+    }
+
+    private function computeErrorsCount()
+    {
+        $count = array(
+            'error_count' => $this->logger->countErrors(),
+            'deprecation_count' => 0,
+            'scream_count' => 0,
+            'priorities' => array(),
+        );
+
+        foreach ($this->logger->getLogs() as $log) {
+            if (isset($count['priorities'][$log['priority']])) {
+                ++$count['priorities'][$log['priority']]['count'];
+            } else {
+                $count['priorities'][$log['priority']] = array(
+                    'count' => 1,
+                    'name' => $log['priorityName'],
+                );
+            }
+
+            if (isset($log['context']['type'], $log['context']['level'])) {
+                if (E_DEPRECATED === $log['context']['type'] || E_USER_DEPRECATED === $log['context']['type']) {
+                    ++$count['deprecation_count'];
+                } elseif (!($log['context']['type'] & $log['context']['level'])) {
+                    ++$count['scream_count'];
+                }
+            }
+        }
+
+        ksort($count['priorities']);
+
+        return $count;
+    }
+}

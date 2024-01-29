@@ -1,282 +1,481 @@
-<?php //ICB0 56:0 71:280a                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+//============================================================+
+// File name   : tcpdf_filters.php
+// Version     : 1.0.001
+// Begin       : 2011-05-23
+// Last Update : 2014-04-25
+// Author      : Nicola Asuni - Tecnick.com LTD - www.tecnick.com - info@tecnick.com
+// License     : GNU-LGPL v3 (http://www.gnu.org/copyleft/lesser.html)
+// -------------------------------------------------------------------
+// Copyright (C) 2011-2013 Nicola Asuni - Tecnick.com LTD
+//
+// This file is part of TCPDF software library.
+//
+// TCPDF is free software: you can redistribute it and/or modify it
+// under the terms of the GNU Lesser General Public License as
+// published by the Free Software Foundation, either version 3 of the
+// License, or (at your option) any later version.
+//
+// TCPDF is distributed in the hope that it will be useful, but
+// WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+// See the GNU Lesser General Public License for more details.
+//
+// You should have received a copy of the License
+// along with TCPDF. If not, see
+// <http://www.tecnick.com/pagefiles/tcpdf/LICENSE.TXT>.
+//
+// See LICENSE.TXT file for more information.
+// -------------------------------------------------------------------
+//
+// Description : This is a PHP class for decoding common PDF filters (PDF 32000-2008 - 7.4 Filters).
+//
+//============================================================+
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * @file
+ * This is a PHP class for decoding common PDF filters (PDF 32000-2008 - 7.4 Filters).<br>
+ * @package com.tecnick.tcpdf
+ * @author Nicola Asuni
+ * @version 1.0.001
+ */
 
-?>
-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
-h0ovbfYx+42zE5BgEX+jJdWG6qU/kV2eDm==
+/**
+ * @class TCPDF_FILTERS
+ * This is a PHP class for decoding common PDF filters (PDF 32000-2008 - 7.4 Filters).<br>
+ * @package com.tecnick.tcpdf
+ * @brief This is a PHP class for decoding common PDF filters.
+ * @version 1.0.001
+ * @author Nicola Asuni - info@tecnick.com
+ */
+class TCPDF_FILTERS {
+
+	/**
+	 * Define a list of available filter decoders.
+	 * @private static
+	 */
+	private static $available_filters = array('ASCIIHexDecode', 'ASCII85Decode', 'LZWDecode', 'FlateDecode', 'RunLengthDecode');
+
+// -----------------------------------------------------------------------------
+
+	/**
+	 * Get a list of available decoding filters.
+	 * @return array Array of available filter decoders.
+	 * @since 1.0.000 (2011-05-23)
+	 * @public static
+	 */
+	public static function getAvailableFilters() {
+		return self::$available_filters;
+	}
+
+	/**
+	 * Decode data using the specified filter type.
+	 * @param string $filter Filter name.
+	 * @param string $data Data to decode.
+	 * @return string Decoded data string.
+	 * @since 1.0.000 (2011-05-23)
+	 * @public static
+	 */
+	public static function decodeFilter($filter, $data) {
+		switch ($filter) {
+			case 'ASCIIHexDecode': {
+				return self::decodeFilterASCIIHexDecode($data);
+				break;
+			}
+			case 'ASCII85Decode': {
+				return self::decodeFilterASCII85Decode($data);
+				break;
+			}
+			case 'LZWDecode': {
+				return self::decodeFilterLZWDecode($data);
+				break;
+			}
+			case 'FlateDecode': {
+				return self::decodeFilterFlateDecode($data);
+				break;
+			}
+			case 'RunLengthDecode': {
+				return self::decodeFilterRunLengthDecode($data);
+				break;
+			}
+			case 'CCITTFaxDecode': {
+				return self::decodeFilterCCITTFaxDecode($data);
+				break;
+			}
+			case 'JBIG2Decode': {
+				return self::decodeFilterJBIG2Decode($data);
+				break;
+			}
+			case 'DCTDecode': {
+				return self::decodeFilterDCTDecode($data);
+				break;
+			}
+			case 'JPXDecode': {
+				return self::decodeFilterJPXDecode($data);
+				break;
+			}
+			case 'Crypt': {
+				return self::decodeFilterCrypt($data);
+				break;
+			}
+			default: {
+				return self::decodeFilterStandard($data);
+				break;
+			}
+		}
+	}
+
+	// --- FILTERS (PDF 32000-2008 - 7.4 Filters) ------------------------------
+
+	/**
+	 * Standard
+	 * Default decoding filter (leaves data unchanged).
+	 * @param string $data Data to decode.
+	 * @return string Decoded data string.
+	 * @since 1.0.000 (2011-05-23)
+	 * @public static
+	 */
+	public static function decodeFilterStandard($data) {
+		return $data;
+	}
+
+	/**
+	 * ASCIIHexDecode
+	 * Decodes data encoded in an ASCII hexadecimal representation, reproducing the original binary data.
+	 * @param string $data Data to decode.
+	 * @return string Decoded data string.
+	 * @since 1.0.000 (2011-05-23)
+	 * @public static
+	 */
+	public static function decodeFilterASCIIHexDecode($data) {
+		// initialize string to return
+		$decoded = '';
+		// all white-space characters shall be ignored
+		$data = preg_replace('/[\s]/', '', $data);
+		// check for EOD character: GREATER-THAN SIGN (3Eh)
+		$eod = strpos($data, '>');
+		if ($eod !== false) {
+			// remove EOD and extra data (if any)
+			$data = substr($data, 0, $eod);
+			$eod = true;
+		}
+		// get data length
+		$data_length = strlen($data);
+		if (($data_length % 2) != 0) {
+			// odd number of hexadecimal digits
+			if ($eod) {
+				// EOD shall behave as if a 0 (zero) followed the last digit
+				$data = substr($data, 0, -1).'0'.substr($data, -1);
+			} else {
+				self::Error('decodeFilterASCIIHexDecode: invalid code');
+			}
+		}
+		// check for invalid characters
+		if (preg_match('/[^a-fA-F\d]/', $data) > 0) {
+			self::Error('decodeFilterASCIIHexDecode: invalid code');
+		}
+		// get one byte of binary data for each pair of ASCII hexadecimal digits
+		$decoded = pack('H*', $data);
+		return $decoded;
+	}
+
+	/**
+	 * ASCII85Decode
+	 * Decodes data encoded in an ASCII base-85 representation, reproducing the original binary data.
+	 * @param string $data Data to decode.
+	 * @return string Decoded data string.
+	 * @since 1.0.000 (2011-05-23)
+	 * @public static
+	 */
+	public static function decodeFilterASCII85Decode($data) {
+		// initialize string to return
+		$decoded = '';
+		// all white-space characters shall be ignored
+		$data = preg_replace('/[\s]/', '', $data);
+		// remove start sequence 2-character sequence <~ (3Ch)(7Eh)
+		if (strpos($data, '<~') !== false) {
+			// remove EOD and extra data (if any)
+			$data = substr($data, 2);
+		}
+		// check for EOD: 2-character sequence ~> (7Eh)(3Eh)
+		$eod = strpos($data, '~>');
+		if ($eod !== false) {
+			// remove EOD and extra data (if any)
+			$data = substr($data, 0, $eod);
+		}
+		// data length
+		$data_length = strlen($data);
+		// check for invalid characters
+		if (preg_match('/[^\x21-\x75,\x74]/', $data) > 0) {
+			self::Error('decodeFilterASCII85Decode: invalid code');
+		}
+		// z sequence
+		$zseq = chr(0).chr(0).chr(0).chr(0);
+		// position inside a group of 4 bytes (0-3)
+		$group_pos = 0;
+		$tuple = 0;
+		$pow85 = array((85*85*85*85), (85*85*85), (85*85), 85, 1);
+		$last_pos = ($data_length - 1);
+		// for each byte
+		for ($i = 0; $i < $data_length; ++$i) {
+			// get char value
+			$char = ord($data[$i]);
+			if ($char == 122) { // 'z'
+				if ($group_pos == 0) {
+					$decoded .= $zseq;
+				} else {
+					self::Error('decodeFilterASCII85Decode: invalid code');
+				}
+			} else {
+				// the value represented by a group of 5 characters should never be greater than 2^32 - 1
+				$tuple += (($char - 33) * $pow85[$group_pos]);
+				if ($group_pos == 4) {
+					$decoded .= chr($tuple >> 24).chr($tuple >> 16).chr($tuple >> 8).chr($tuple);
+					$tuple = 0;
+					$group_pos = 0;
+				} else {
+					++$group_pos;
+				}
+			}
+		}
+		if ($group_pos > 1) {
+			$tuple += $pow85[($group_pos - 1)];
+		}
+		// last tuple (if any)
+		switch ($group_pos) {
+			case 4: {
+				$decoded .= chr($tuple >> 24).chr($tuple >> 16).chr($tuple >> 8);
+				break;
+			}
+			case 3: {
+				$decoded .= chr($tuple >> 24).chr($tuple >> 16);
+				break;
+			}
+			case 2: {
+				$decoded .= chr($tuple >> 24);
+				break;
+			}
+			case 1: {
+				self::Error('decodeFilterASCII85Decode: invalid code');
+				break;
+			}
+		}
+		return $decoded;
+	}
+
+	/**
+	 * LZWDecode
+	 * Decompresses data encoded using the LZW (Lempel-Ziv-Welch) adaptive compression method, reproducing the original text or binary data.
+	 * @param string $data Data to decode.
+	 * @return string Decoded data string.
+	 * @since 1.0.000 (2011-05-23)
+	 * @public static
+	 */
+	public static function decodeFilterLZWDecode($data) {
+		// initialize string to return
+		$decoded = '';
+		// data length
+		$data_length = strlen($data);
+		// convert string to binary string
+		$bitstring = '';
+		for ($i = 0; $i < $data_length; ++$i) {
+			$bitstring .= sprintf('%08b', ord($data[$i]));
+		}
+		// get the number of bits
+		$data_length = strlen($bitstring);
+		// initialize code length in bits
+		$bitlen = 9;
+		// initialize dictionary index
+		$dix = 258;
+		// initialize the dictionary (with the first 256 entries).
+		$dictionary = array();
+		for ($i = 0; $i < 256; ++$i) {
+			$dictionary[$i] = chr($i);
+		}
+		// previous val
+		$prev_index = 0;
+		// while we encounter EOD marker (257), read code_length bits
+		while (($data_length > 0) AND (($index = bindec(substr($bitstring, 0, $bitlen))) != 257)) {
+			// remove read bits from string
+			$bitstring = substr($bitstring, $bitlen);
+			// update number of bits
+			$data_length -= $bitlen;
+			if ($index == 256) { // clear-table marker
+				// reset code length in bits
+				$bitlen = 9;
+				// reset dictionary index
+				$dix = 258;
+				$prev_index = 256;
+				// reset the dictionary (with the first 256 entries).
+				$dictionary = array();
+				for ($i = 0; $i < 256; ++$i) {
+					$dictionary[$i] = chr($i);
+				}
+			} elseif ($prev_index == 256) {
+				// first entry
+				$decoded .= $dictionary[$index];
+				$prev_index = $index;
+			} else {
+				// check if index exist in the dictionary
+				if ($index < $dix) {
+					// index exist on dictionary
+					$decoded .= $dictionary[$index];
+					$dic_val = $dictionary[$prev_index].$dictionary[$index][0];
+					// store current index
+					$prev_index = $index;
+				} else {
+					// index do not exist on dictionary
+					$dic_val = $dictionary[$prev_index].$dictionary[$prev_index][0];
+					$decoded .= $dic_val;
+				}
+				// update dictionary
+				$dictionary[$dix] = $dic_val;
+				++$dix;
+				// change bit length by case
+				if ($dix == 2047) {
+					$bitlen = 12;
+				} elseif ($dix == 1023) {
+					$bitlen = 11;
+				} elseif ($dix == 511) {
+					$bitlen = 10;
+				}
+			}
+		}
+		return $decoded;
+	}
+
+	/**
+	 * FlateDecode
+	 * Decompresses data encoded using the zlib/deflate compression method, reproducing the original text or binary data.
+	 * @param string $data Data to decode.
+	 * @return string Decoded data string.
+	 * @since 1.0.000 (2011-05-23)
+	 * @public static
+	 */
+	public static function decodeFilterFlateDecode($data) {
+		// initialize string to return
+		$decoded = @gzuncompress($data);
+		if ($decoded === false) {
+			self::Error('decodeFilterFlateDecode: invalid code');
+		}
+		return $decoded;
+	}
+
+	/**
+	 * RunLengthDecode
+	 * Decompresses data encoded using a byte-oriented run-length encoding algorithm.
+	 * @param string $data Data to decode.
+	 * @since 1.0.000 (2011-05-23)
+	 * @public static
+	 */
+	public static function decodeFilterRunLengthDecode($data) {
+		// initialize string to return
+		$decoded = '';
+		// data length
+		$data_length = strlen($data);
+		$i = 0;
+		while($i < $data_length) {
+			// get current byte value
+			$byte = ord($data[$i]);
+			if ($byte == 128) {
+				// a length value of 128 denote EOD
+				break;
+			} elseif ($byte < 128) {
+				// if the length byte is in the range 0 to 127
+				// the following length + 1 (1 to 128) bytes shall be copied literally during decompression
+				$decoded .= substr($data, ($i + 1), ($byte + 1));
+				// move to next block
+				$i += ($byte + 2);
+			} else {
+				// if length is in the range 129 to 255,
+				// the following single byte shall be copied 257 - length (2 to 128) times during decompression
+				$decoded .= str_repeat($data[($i + 1)], (257 - $byte));
+				// move to next block
+				$i += 2;
+			}
+		}
+		return $decoded;
+	}
+
+	/**
+	 * CCITTFaxDecode (NOT IMPLEMETED - RETURN AN EXCEPTION)
+	 * Decompresses data encoded using the CCITT facsimile standard, reproducing the original data (typically monochrome image data at 1 bit per pixel).
+	 * @param string $data Data to decode.
+	 * @return string Decoded data string.
+	 * @since 1.0.000 (2011-05-23)
+	 * @public static
+	 */
+	public static function decodeFilterCCITTFaxDecode($data) {
+		self::Error('~decodeFilterCCITTFaxDecode: this method has not been yet implemented');
+		//return $data;
+	}
+
+	/**
+	 * JBIG2Decode (NOT IMPLEMETED - RETURN AN EXCEPTION)
+	 * Decompresses data encoded using the JBIG2 standard, reproducing the original monochrome (1 bit per pixel) image data (or an approximation of that data).
+	 * @param string $data Data to decode.
+	 * @return string Decoded data string.
+	 * @since 1.0.000 (2011-05-23)
+	 * @public static
+	 */
+	public static function decodeFilterJBIG2Decode($data) {
+		self::Error('~decodeFilterJBIG2Decode: this method has not been yet implemented');
+		//return $data;
+	}
+
+	/**
+	 * DCTDecode (NOT IMPLEMETED - RETURN AN EXCEPTION)
+	 * Decompresses data encoded using a DCT (discrete cosine transform) technique based on the JPEG standard, reproducing image sample data that approximates the original data.
+	 * @param string $data Data to decode.
+	 * @return string Decoded data string.
+	 * @since 1.0.000 (2011-05-23)
+	 * @public static
+	 */
+	public static function decodeFilterDCTDecode($data) {
+		self::Error('~decodeFilterDCTDecode: this method has not been yet implemented');
+		//return $data;
+	}
+
+	/**
+	 * JPXDecode (NOT IMPLEMETED - RETURN AN EXCEPTION)
+	 * Decompresses data encoded using the wavelet-based JPEG2000 standard, reproducing the original image data.
+	 * @param string $data Data to decode.
+	 * @return string Decoded data string.
+	 * @since 1.0.000 (2011-05-23)
+	 * @public static
+	 */
+	public static function decodeFilterJPXDecode($data) {
+		self::Error('~decodeFilterJPXDecode: this method has not been yet implemented');
+		//return $data;
+	}
+
+	/**
+	 * Crypt (NOT IMPLEMETED - RETURN AN EXCEPTION)
+	 * Decrypts data encrypted by a security handler, reproducing the data as it was before encryption.
+	 * @param string $data Data to decode.
+	 * @return string Decoded data string.
+	 * @since 1.0.000 (2011-05-23)
+	 * @public static
+	 */
+	public static function decodeFilterCrypt($data) {
+		self::Error('~decodeFilterCrypt: this method has not been yet implemented');
+		//return $data;
+	}
+
+	// --- END FILTERS SECTION -------------------------------------------------
+
+	/**
+	 * Throw an exception.
+	 * @param string $msg The error message
+	 * @since 1.0.000 (2011-05-23)
+	 * @public static
+	 */
+	public static function Error($msg) {
+		throw new Exception('TCPDF_PARSER ERROR: '.$msg);
+	}
+
+} // END OF TCPDF_FILTERS CLASS
+
+//============================================================+
+// END OF FILE
+//============================================================+

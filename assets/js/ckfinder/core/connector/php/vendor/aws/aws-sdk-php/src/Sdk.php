@@ -1,131 +1,393 @@
-<?php //ICB0 56:0 71:136e                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-sfd4EwdvUYcev7fCTm===
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * Builds AWS clients based on configuration settings.
+ *
+ * @method \Aws\ACMPCA\ACMPCAClient createACMPCA(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionACMPCA(array $args = [])
+ * @method \Aws\Acm\AcmClient createAcm(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionAcm(array $args = [])
+ * @method \Aws\AlexaForBusiness\AlexaForBusinessClient createAlexaForBusiness(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionAlexaForBusiness(array $args = [])
+ * @method \Aws\ApiGateway\ApiGatewayClient createApiGateway(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionApiGateway(array $args = [])
+ * @method \Aws\AppSync\AppSyncClient createAppSync(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionAppSync(array $args = [])
+ * @method \Aws\ApplicationAutoScaling\ApplicationAutoScalingClient createApplicationAutoScaling(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionApplicationAutoScaling(array $args = [])
+ * @method \Aws\ApplicationDiscoveryService\ApplicationDiscoveryServiceClient createApplicationDiscoveryService(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionApplicationDiscoveryService(array $args = [])
+ * @method \Aws\Appstream\AppstreamClient createAppstream(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionAppstream(array $args = [])
+ * @method \Aws\Athena\AthenaClient createAthena(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionAthena(array $args = [])
+ * @method \Aws\AutoScaling\AutoScalingClient createAutoScaling(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionAutoScaling(array $args = [])
+ * @method \Aws\AutoScalingPlans\AutoScalingPlansClient createAutoScalingPlans(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionAutoScalingPlans(array $args = [])
+ * @method \Aws\Batch\BatchClient createBatch(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionBatch(array $args = [])
+ * @method \Aws\Budgets\BudgetsClient createBudgets(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionBudgets(array $args = [])
+ * @method \Aws\Cloud9\Cloud9Client createCloud9(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionCloud9(array $args = [])
+ * @method \Aws\CloudDirectory\CloudDirectoryClient createCloudDirectory(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionCloudDirectory(array $args = [])
+ * @method \Aws\CloudFormation\CloudFormationClient createCloudFormation(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionCloudFormation(array $args = [])
+ * @method \Aws\CloudFront\CloudFrontClient createCloudFront(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionCloudFront(array $args = [])
+ * @method \Aws\CloudHSMV2\CloudHSMV2Client createCloudHSMV2(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionCloudHSMV2(array $args = [])
+ * @method \Aws\CloudHsm\CloudHsmClient createCloudHsm(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionCloudHsm(array $args = [])
+ * @method \Aws\CloudSearch\CloudSearchClient createCloudSearch(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionCloudSearch(array $args = [])
+ * @method \Aws\CloudSearchDomain\CloudSearchDomainClient createCloudSearchDomain(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionCloudSearchDomain(array $args = [])
+ * @method \Aws\CloudTrail\CloudTrailClient createCloudTrail(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionCloudTrail(array $args = [])
+ * @method \Aws\CloudWatch\CloudWatchClient createCloudWatch(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionCloudWatch(array $args = [])
+ * @method \Aws\CloudWatchEvents\CloudWatchEventsClient createCloudWatchEvents(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionCloudWatchEvents(array $args = [])
+ * @method \Aws\CloudWatchLogs\CloudWatchLogsClient createCloudWatchLogs(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionCloudWatchLogs(array $args = [])
+ * @method \Aws\CodeBuild\CodeBuildClient createCodeBuild(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionCodeBuild(array $args = [])
+ * @method \Aws\CodeCommit\CodeCommitClient createCodeCommit(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionCodeCommit(array $args = [])
+ * @method \Aws\CodeDeploy\CodeDeployClient createCodeDeploy(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionCodeDeploy(array $args = [])
+ * @method \Aws\CodePipeline\CodePipelineClient createCodePipeline(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionCodePipeline(array $args = [])
+ * @method \Aws\CodeStar\CodeStarClient createCodeStar(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionCodeStar(array $args = [])
+ * @method \Aws\CognitoIdentity\CognitoIdentityClient createCognitoIdentity(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionCognitoIdentity(array $args = [])
+ * @method \Aws\CognitoIdentityProvider\CognitoIdentityProviderClient createCognitoIdentityProvider(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionCognitoIdentityProvider(array $args = [])
+ * @method \Aws\CognitoSync\CognitoSyncClient createCognitoSync(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionCognitoSync(array $args = [])
+ * @method \Aws\Comprehend\ComprehendClient createComprehend(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionComprehend(array $args = [])
+ * @method \Aws\ConfigService\ConfigServiceClient createConfigService(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionConfigService(array $args = [])
+ * @method \Aws\Connect\ConnectClient createConnect(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionConnect(array $args = [])
+ * @method \Aws\CostExplorer\CostExplorerClient createCostExplorer(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionCostExplorer(array $args = [])
+ * @method \Aws\CostandUsageReportService\CostandUsageReportServiceClient createCostandUsageReportService(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionCostandUsageReportService(array $args = [])
+ * @method \Aws\DAX\DAXClient createDAX(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionDAX(array $args = [])
+ * @method \Aws\DataPipeline\DataPipelineClient createDataPipeline(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionDataPipeline(array $args = [])
+ * @method \Aws\DatabaseMigrationService\DatabaseMigrationServiceClient createDatabaseMigrationService(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionDatabaseMigrationService(array $args = [])
+ * @method \Aws\DeviceFarm\DeviceFarmClient createDeviceFarm(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionDeviceFarm(array $args = [])
+ * @method \Aws\DirectConnect\DirectConnectClient createDirectConnect(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionDirectConnect(array $args = [])
+ * @method \Aws\DirectoryService\DirectoryServiceClient createDirectoryService(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionDirectoryService(array $args = [])
+ * @method \Aws\DynamoDb\DynamoDbClient createDynamoDb(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionDynamoDb(array $args = [])
+ * @method \Aws\DynamoDbStreams\DynamoDbStreamsClient createDynamoDbStreams(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionDynamoDbStreams(array $args = [])
+ * @method \Aws\EKS\EKSClient createEKS(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionEKS(array $args = [])
+ * @method \Aws\Ec2\Ec2Client createEc2(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionEc2(array $args = [])
+ * @method \Aws\Ecr\EcrClient createEcr(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionEcr(array $args = [])
+ * @method \Aws\Ecs\EcsClient createEcs(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionEcs(array $args = [])
+ * @method \Aws\Efs\EfsClient createEfs(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionEfs(array $args = [])
+ * @method \Aws\ElastiCache\ElastiCacheClient createElastiCache(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionElastiCache(array $args = [])
+ * @method \Aws\ElasticBeanstalk\ElasticBeanstalkClient createElasticBeanstalk(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionElasticBeanstalk(array $args = [])
+ * @method \Aws\ElasticLoadBalancing\ElasticLoadBalancingClient createElasticLoadBalancing(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionElasticLoadBalancing(array $args = [])
+ * @method \Aws\ElasticLoadBalancingV2\ElasticLoadBalancingV2Client createElasticLoadBalancingV2(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionElasticLoadBalancingV2(array $args = [])
+ * @method \Aws\ElasticTranscoder\ElasticTranscoderClient createElasticTranscoder(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionElasticTranscoder(array $args = [])
+ * @method \Aws\ElasticsearchService\ElasticsearchServiceClient createElasticsearchService(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionElasticsearchService(array $args = [])
+ * @method \Aws\Emr\EmrClient createEmr(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionEmr(array $args = [])
+ * @method \Aws\FMS\FMSClient createFMS(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionFMS(array $args = [])
+ * @method \Aws\Firehose\FirehoseClient createFirehose(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionFirehose(array $args = [])
+ * @method \Aws\GameLift\GameLiftClient createGameLift(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionGameLift(array $args = [])
+ * @method \Aws\Glacier\GlacierClient createGlacier(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionGlacier(array $args = [])
+ * @method \Aws\Glue\GlueClient createGlue(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionGlue(array $args = [])
+ * @method \Aws\Greengrass\GreengrassClient createGreengrass(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionGreengrass(array $args = [])
+ * @method \Aws\GuardDuty\GuardDutyClient createGuardDuty(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionGuardDuty(array $args = [])
+ * @method \Aws\Health\HealthClient createHealth(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionHealth(array $args = [])
+ * @method \Aws\Iam\IamClient createIam(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionIam(array $args = [])
+ * @method \Aws\ImportExport\ImportExportClient createImportExport(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionImportExport(array $args = [])
+ * @method \Aws\Inspector\InspectorClient createInspector(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionInspector(array $args = [])
+ * @method \Aws\IoT1ClickDevicesService\IoT1ClickDevicesServiceClient createIoT1ClickDevicesService(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionIoT1ClickDevicesService(array $args = [])
+ * @method \Aws\IoT1ClickProjects\IoT1ClickProjectsClient createIoT1ClickProjects(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionIoT1ClickProjects(array $args = [])
+ * @method \Aws\IoTAnalytics\IoTAnalyticsClient createIoTAnalytics(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionIoTAnalytics(array $args = [])
+ * @method \Aws\IoTJobsDataPlane\IoTJobsDataPlaneClient createIoTJobsDataPlane(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionIoTJobsDataPlane(array $args = [])
+ * @method \Aws\Iot\IotClient createIot(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionIot(array $args = [])
+ * @method \Aws\IotDataPlane\IotDataPlaneClient createIotDataPlane(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionIotDataPlane(array $args = [])
+ * @method \Aws\Kinesis\KinesisClient createKinesis(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionKinesis(array $args = [])
+ * @method \Aws\KinesisAnalytics\KinesisAnalyticsClient createKinesisAnalytics(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionKinesisAnalytics(array $args = [])
+ * @method \Aws\KinesisVideo\KinesisVideoClient createKinesisVideo(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionKinesisVideo(array $args = [])
+ * @method \Aws\KinesisVideoArchivedMedia\KinesisVideoArchivedMediaClient createKinesisVideoArchivedMedia(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionKinesisVideoArchivedMedia(array $args = [])
+ * @method \Aws\KinesisVideoMedia\KinesisVideoMediaClient createKinesisVideoMedia(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionKinesisVideoMedia(array $args = [])
+ * @method \Aws\Kms\KmsClient createKms(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionKms(array $args = [])
+ * @method \Aws\Lambda\LambdaClient createLambda(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionLambda(array $args = [])
+ * @method \Aws\LexModelBuildingService\LexModelBuildingServiceClient createLexModelBuildingService(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionLexModelBuildingService(array $args = [])
+ * @method \Aws\LexRuntimeService\LexRuntimeServiceClient createLexRuntimeService(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionLexRuntimeService(array $args = [])
+ * @method \Aws\Lightsail\LightsailClient createLightsail(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionLightsail(array $args = [])
+ * @method \Aws\MQ\MQClient createMQ(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionMQ(array $args = [])
+ * @method \Aws\MTurk\MTurkClient createMTurk(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionMTurk(array $args = [])
+ * @method \Aws\MachineLearning\MachineLearningClient createMachineLearning(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionMachineLearning(array $args = [])
+ * @method \Aws\Macie\MacieClient createMacie(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionMacie(array $args = [])
+ * @method \Aws\MarketplaceCommerceAnalytics\MarketplaceCommerceAnalyticsClient createMarketplaceCommerceAnalytics(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionMarketplaceCommerceAnalytics(array $args = [])
+ * @method \Aws\MarketplaceEntitlementService\MarketplaceEntitlementServiceClient createMarketplaceEntitlementService(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionMarketplaceEntitlementService(array $args = [])
+ * @method \Aws\MarketplaceMetering\MarketplaceMeteringClient createMarketplaceMetering(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionMarketplaceMetering(array $args = [])
+ * @method \Aws\MediaConvert\MediaConvertClient createMediaConvert(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionMediaConvert(array $args = [])
+ * @method \Aws\MediaLive\MediaLiveClient createMediaLive(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionMediaLive(array $args = [])
+ * @method \Aws\MediaPackage\MediaPackageClient createMediaPackage(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionMediaPackage(array $args = [])
+ * @method \Aws\MediaStore\MediaStoreClient createMediaStore(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionMediaStore(array $args = [])
+ * @method \Aws\MediaStoreData\MediaStoreDataClient createMediaStoreData(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionMediaStoreData(array $args = [])
+ * @method \Aws\MediaTailor\MediaTailorClient createMediaTailor(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionMediaTailor(array $args = [])
+ * @method \Aws\MigrationHub\MigrationHubClient createMigrationHub(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionMigrationHub(array $args = [])
+ * @method \Aws\Mobile\MobileClient createMobile(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionMobile(array $args = [])
+ * @method \Aws\Neptune\NeptuneClient createNeptune(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionNeptune(array $args = [])
+ * @method \Aws\OpsWorks\OpsWorksClient createOpsWorks(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionOpsWorks(array $args = [])
+ * @method \Aws\OpsWorksCM\OpsWorksCMClient createOpsWorksCM(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionOpsWorksCM(array $args = [])
+ * @method \Aws\Organizations\OrganizationsClient createOrganizations(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionOrganizations(array $args = [])
+ * @method \Aws\PI\PIClient createPI(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionPI(array $args = [])
+ * @method \Aws\Pinpoint\PinpointClient createPinpoint(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionPinpoint(array $args = [])
+ * @method \Aws\Polly\PollyClient createPolly(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionPolly(array $args = [])
+ * @method \Aws\Pricing\PricingClient createPricing(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionPricing(array $args = [])
+ * @method \Aws\Rds\RdsClient createRds(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionRds(array $args = [])
+ * @method \Aws\Redshift\RedshiftClient createRedshift(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionRedshift(array $args = [])
+ * @method \Aws\Rekognition\RekognitionClient createRekognition(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionRekognition(array $args = [])
+ * @method \Aws\ResourceGroups\ResourceGroupsClient createResourceGroups(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionResourceGroups(array $args = [])
+ * @method \Aws\ResourceGroupsTaggingAPI\ResourceGroupsTaggingAPIClient createResourceGroupsTaggingAPI(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionResourceGroupsTaggingAPI(array $args = [])
+ * @method \Aws\Route53\Route53Client createRoute53(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionRoute53(array $args = [])
+ * @method \Aws\Route53Domains\Route53DomainsClient createRoute53Domains(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionRoute53Domains(array $args = [])
+ * @method \Aws\S3\S3Client createS3(array $args = [])
+ * @method \Aws\S3\S3MultiRegionClient createMultiRegionS3(array $args = [])
+ * @method \Aws\SageMaker\SageMakerClient createSageMaker(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionSageMaker(array $args = [])
+ * @method \Aws\SageMakerRuntime\SageMakerRuntimeClient createSageMakerRuntime(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionSageMakerRuntime(array $args = [])
+ * @method \Aws\SecretsManager\SecretsManagerClient createSecretsManager(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionSecretsManager(array $args = [])
+ * @method \Aws\ServerlessApplicationRepository\ServerlessApplicationRepositoryClient createServerlessApplicationRepository(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionServerlessApplicationRepository(array $args = [])
+ * @method \Aws\ServiceCatalog\ServiceCatalogClient createServiceCatalog(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionServiceCatalog(array $args = [])
+ * @method \Aws\ServiceDiscovery\ServiceDiscoveryClient createServiceDiscovery(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionServiceDiscovery(array $args = [])
+ * @method \Aws\Ses\SesClient createSes(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionSes(array $args = [])
+ * @method \Aws\Sfn\SfnClient createSfn(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionSfn(array $args = [])
+ * @method \Aws\Shield\ShieldClient createShield(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionShield(array $args = [])
+ * @method \Aws\Sms\SmsClient createSms(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionSms(array $args = [])
+ * @method \Aws\SnowBall\SnowBallClient createSnowBall(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionSnowBall(array $args = [])
+ * @method \Aws\Sns\SnsClient createSns(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionSns(array $args = [])
+ * @method \Aws\Sqs\SqsClient createSqs(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionSqs(array $args = [])
+ * @method \Aws\Ssm\SsmClient createSsm(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionSsm(array $args = [])
+ * @method \Aws\StorageGateway\StorageGatewayClient createStorageGateway(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionStorageGateway(array $args = [])
+ * @method \Aws\Sts\StsClient createSts(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionSts(array $args = [])
+ * @method \Aws\Support\SupportClient createSupport(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionSupport(array $args = [])
+ * @method \Aws\Swf\SwfClient createSwf(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionSwf(array $args = [])
+ * @method \Aws\TranscribeService\TranscribeServiceClient createTranscribeService(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionTranscribeService(array $args = [])
+ * @method \Aws\Translate\TranslateClient createTranslate(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionTranslate(array $args = [])
+ * @method \Aws\Waf\WafClient createWaf(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionWaf(array $args = [])
+ * @method \Aws\WafRegional\WafRegionalClient createWafRegional(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionWafRegional(array $args = [])
+ * @method \Aws\WorkDocs\WorkDocsClient createWorkDocs(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionWorkDocs(array $args = [])
+ * @method \Aws\WorkMail\WorkMailClient createWorkMail(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionWorkMail(array $args = [])
+ * @method \Aws\WorkSpaces\WorkSpacesClient createWorkSpaces(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionWorkSpaces(array $args = [])
+ * @method \Aws\XRay\XRayClient createXRay(array $args = [])
+ * @method \Aws\MultiRegionClient createMultiRegionXRay(array $args = [])
+ */
+class Sdk
+{
+    const VERSION = '3.62.9';
 
-?>
-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
-7gwwiaoN9L4JyQjpZbvq
+    /** @var array Arguments for creating clients */
+    private $args;
+
+    /**
+     * Constructs a new SDK object with an associative array of default
+     * client settings.
+     *
+     * @param array $args
+     *
+     * @throws \InvalidArgumentException
+     * @see Aws\AwsClient::__construct for a list of available options.
+     */
+    public function __construct(array $args = [])
+    {
+        $this->args = $args;
+
+        if (!isset($args['handler']) && !isset($args['http_handler'])) {
+            $this->args['http_handler'] = default_http_handler();
+        }
+    }
+
+    public function __call($name, array $args)
+    {
+        $args = isset($args[0]) ? $args[0] : [];
+        if (strpos($name, 'createMultiRegion') === 0) {
+            return $this->createMultiRegionClient(substr($name, 17), $args);
+        }
+
+        if (strpos($name, 'create') === 0) {
+            return $this->createClient(substr($name, 6), $args);
+        }
+
+        throw new \BadMethodCallException("Unknown method: {$name}.");
+    }
+
+    /**
+     * Get a client by name using an array of constructor options.
+     *
+     * @param string $name Service name or namespace (e.g., DynamoDb, s3).
+     * @param array  $args Arguments to configure the client.
+     *
+     * @return AwsClientInterface
+     * @throws \InvalidArgumentException if any required options are missing or
+     *                                   the service is not supported.
+     * @see Aws\AwsClient::__construct for a list of available options for args.
+     */
+    public function createClient($name, array $args = [])
+    {
+        // Get information about the service from the manifest file.
+        $service = manifest($name);
+        $namespace = $service['namespace'];
+
+        // Instantiate the client class.
+        $client = "Aws\\{$namespace}\\{$namespace}Client";
+        return new $client($this->mergeArgs($namespace, $service, $args));
+    }
+
+    public function createMultiRegionClient($name, array $args = [])
+    {
+        // Get information about the service from the manifest file.
+        $service = manifest($name);
+        $namespace = $service['namespace'];
+
+        $klass = "Aws\\{$namespace}\\{$namespace}MultiRegionClient";
+        $klass = class_exists($klass) ? $klass : 'Aws\\MultiRegionClient';
+
+        return new $klass($this->mergeArgs($namespace, $service, $args));
+    }
+
+    private function mergeArgs($namespace, array $manifest, array $args = [])
+    {
+        // Merge provided args with stored, service-specific args.
+        if (isset($this->args[$namespace])) {
+            $args += $this->args[$namespace];
+        }
+
+        // Provide the endpoint prefix in the args.
+        if (!isset($args['service'])) {
+            $args['service'] = $manifest['endpoint'];
+        }
+
+        return $args + $this->args;
+    }
+
+    /**
+     * Determine the endpoint prefix from a client namespace.
+     *
+     * @param string $name Namespace name
+     *
+     * @return string
+     * @internal
+     * @deprecated Use the `\Aws\manifest()` function instead.
+     */
+    public static function getEndpointPrefix($name)
+    {
+        return manifest($name)['endpoint'];
+    }
+}

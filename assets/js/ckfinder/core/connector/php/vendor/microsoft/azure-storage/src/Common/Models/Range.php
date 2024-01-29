@@ -1,86 +1,142 @@
-<?php //ICB0 56:0 71:e34                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Common\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+ 
+namespace MicrosoftAzure\Storage\Common\Models;
 
-?>
-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
+/**
+ * Holds info about resource+ range used in HTTP requests
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Common\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+class Range
+{
+    private $start;
+    private $end;
+
+    /**
+     * Constructor
+     *
+     * @param integer $start the resource start value
+     * @param integer $end   the resource end value
+     *
+     * @return Range
+     */
+    public function __construct($start, $end = null)
+    {
+        $this->start = $start;
+        $this->end   = $end;
+    }
+    
+    /**
+     * Sets resource start range
+     *
+     * @param integer $start the resource range start
+     *
+     * @return void
+     */
+    public function setStart($start)
+    {
+        $this->start = $start;
+    }
+    
+    /**
+     * Gets resource start range
+     *
+     * @return integer
+     */
+    public function getStart()
+    {
+        return $this->start;
+    }
+    
+    /**
+     * Sets resource end range
+     *
+     * @param integer $end the resource range end
+     *
+     * @return void
+     */
+    public function setEnd($end)
+    {
+        $this->end = $end;
+    }
+    
+    /**
+     * Gets resource end range
+     *
+     * @return integer
+     */
+    public function getEnd()
+    {
+        return $this->end;
+    }
+    
+    /**
+     * Gets resource range length
+     *
+     * @return integer
+     */
+    public function getLength()
+    {
+        if ($this->end != null) {
+            return $this->end - $this->start + 1;
+        } else {
+            return null;
+        }
+    }
+    
+    /**
+     * Sets resource range length
+     *
+     * @param integer $value new resource range
+     *
+     * @return void
+     */
+    public function setLength($value)
+    {
+        $this->end = $this->start + $value - 1;
+    }
+
+    /**
+     * Constructs the range string according to the set start and end
+     *
+     * @return string
+     */
+    public function getRangeString()
+    {
+        $rangeString = '';
+
+        $rangeString .= ('bytes=' . $this->start . '-');
+        if ($this->end != null) {
+            $rangeString .= $this->end;
+        }
+
+        return $rangeString;
+    }
+}

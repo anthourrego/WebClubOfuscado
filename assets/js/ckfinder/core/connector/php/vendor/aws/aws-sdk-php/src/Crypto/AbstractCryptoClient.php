@@ -1,81 +1,113 @@
-<?php //ICB0 56:0 71:d41                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\Crypto;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cPpRbto3/x4ya5pbJIWFQjnmM9NHejfbJcfMuKCN+sMw8EpQ6IzQwu0W6Z7Lejeg+JzDoIJDm
-nikBu3TYt6llxy5qG/tWgIAHXatYVrfXRXxsXq0DPXkMActFj84cnA30OqGBM70kVQW2BaaX22Bf
-OIBI4kzgaVlFKGMxr1GBHH+L7d/jNT7KLZQwrvcMqP4QDwsO1o65GlmYTcqNKKeCIAGlMEeFQaoI
-lQe2nOpsuG5/8s/muc0duuLf6qrr7M64gQ4ixf02/8wULxI9snptqslkK8TaD7Z8SJLpK84EUrPX
-979T/+EUFMDgDZl0qh7FiLWvj93BEnrMhj0V0dQCL4qmal6qhRKw40NpKfmNAKIFEO3k74MyduXd
-yg6nm89hD5ZrR96nl5qUQ7/XZ3I5PdHfZBgjSe3zBir2cZs428XW7gO8+zQ3MKR+H71NLqTT5nt7
-1GuErzuX9kVAcfb8/8JkyEsQG4j0Gj9XS+DuHZ1OJk5CrlYjdwogKpy/pNJ67Lp4SHC0HBtXZ14m
-xm6kUfKgDVLB5TxvLcdfgFniAP99QBEF/wEC0KiBxgT5oopW7KcHkH8DDeG1NExI4Bp13Gd4Tw1N
-l2J1GLUnJSh4FyTpKm0Bula5I2Rw/84CrxHOaBnfk0vcVjM/tIkoQcNSLnD4cLDvn/vi6v4JpKvp
-QoMO8bC3IaevKYIZcSNugjP6TuAZUxQzj+up1Ygbt2LM1Vtj+pXhL0Y4Q2Yc/xSUiIbVIZHyDhPy
-mv295IJ7iFqTohIgXw4nNeRufupAZYfycBWCub1aWwf929+YR2dxbtLnmardJHCXa+XdteY3eBXG
-NhJ4Drd6Isxjmo/MOjTTYsyYmkSxhxC7J6htl9cw29RT5/BgW1AzBz97+kQq7TOIUdYxGXV8NdLq
-NAVo+uZiH0iAYZ2jIyJrrd5bdJI9Ae1f3vTMwxzopPyj+0c2auBB6bUHRe0xBzHy0GI9ehOLOfD3
-mcFjaJ5UT/zkk1FRdeY7R1fVAZMHFpldVGpzxtU0v6N4lNoesC69kQeTWZ70IlK7eczuHKro9KZR
-aqt9PiO927mZz8fgihjdd7J3kk/ODBKe7adPS3IdxiqwU/XnhkKQkp1LeTWwLGrtHNG0+HLP8RSQ
-OiuZKMozWqOKWx3ZMkPs5k0tmF2id2j8MsJKvtGaJCWzif/up2EjyDB6toIsWFON35+4lGXgQ4Wq
-4foEuboZ3WT18BNg8+PkumhLFoVHLT5XFQTvz/vMLxHZRxqZt9IkEaIN1oRMBYHDB0UclxwRGK7v
-kHbzE1G2A9uCsuMPDXAxM0MgtYPfxHYlEQvcZyqL4kw8gTj6/paR6W+5sGDKg7iTSXk3E90zZzpF
-aIZzK+4WMMV9DIzXc2iYsOPcIECDoYUmra13knPIB4wePtgnBclJR0mJlIcjpYUyjsGJAXVZovcw
-Qi+Tw2K3dtZ141gCB/G8L22tCeGn4iXQpwwuYrq1pF2b2ChGCB0A12nBDW7WP/QxGbCjC+HkV3kB
-xwRLHcKkuLyRIDHmnhP6oZCDp3QnKksbZLZ7iOcZpGJpD/IxlbScYUirsHEfi4I0ZNk2s0AqnSdY
-JDwzz2vg5WGEcLGRsJApwomuFhex0VahL4D9HMnb361rjG0Rr5iM5YPNEJ3wLPPAJnvsfyV20Ram
-L8L7yIWGGrfS0ncoWDukot7rlW/DbdbiohXMnNyB3U1gFTZfXaZBmvPkH1xAw3aX/zEpyGTZBKe8
-PngEU8DPN64eGV9bYaTZJekYWyhs3Db9lALyMV4bOBEPzUZTa7i2LDYUlwMQaLsYsirikGRP4MdZ
-Kusq4ee3QVQy3bn3aTNiKJCXkwcGyRbbZGo6N4DTgk3eEs3X0XjJa3uzwggN227NI5OlNP+9G4MM
-uI2AOYncz33uQxZGYsr6koEhb8CZZkIyXkuGoiv1xYR7tT0qYIlFmP8JVTIQm5+YGoHYsFxzheOo
-csbYzyyRLJg2ZQlrCNYPMYeESkyUo2sAtjAWSOxAcB6q58qRGDRYBV/wUMD4OLtR/clOQo2iaIO6
-eA1fFW4ZKZSFR7nxCYssGw9R7pGUj4LA2o31V3QMq5le1NBcb9hXBroPgnInT1Izqr7pZVV/Ci+Z
-zdwh5SVjXAYczlBiTpba1U9S8HB364RCfpSL7hkPHDdKCVGl65UB2vpHCniDgeNnRYnbmOQu6Hc6
-GQm6NCw1vePaWKILZYPNeK660x6Xcl2Wi4nJQvHCCfFoEtA+39c6nx4kqGxtmcuPuFa/hUkMiYmt
-Eoa0oMNTYJT/1kmzTosLqV3FQzW6i+vA7DrjXji+MEO+RQNItOYxleQ8bFi8Wsmbf09i9s4Zj7mJ
-zwgjHkzqX0d9mf1KK8gU+yPN0FnTSzkAwKJ9+LFlqjrihJWQ57ij03783fsFzvnCE3FdCue+9h4M
-BZbKGwq7NJIy4TrqD4d37JEz2PvGDa2hPo2pDDeTEdNW9E5/laOL+lu==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use Aws\Crypto\Cipher\CipherMethod;
+use Aws\Crypto\Cipher\Cbc;
+use GuzzleHttp\Psr7\Stream;
 
-?>
-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
+/**
+ * @internal
+ */
+abstract class AbstractCryptoClient
+{
+    public static $supportedCiphers = ['cbc', 'gcm'];
+
+    /**
+     * Returns if the passed cipher name is supported for encryption by the SDK.
+     *
+     * @param string $cipherName The name of a cipher to verify is registered.
+     *
+     * @return bool If the cipher passed is in our supported list.
+     */
+    public static function isSupportedCipher($cipherName)
+    {
+        return in_array($cipherName, self::$supportedCiphers);
+    }
+
+    /**
+     * Returns an identifier recognizable by `openssl_*` functions, such as
+     * `aes-256-cbc` or `aes-128-ctr`.
+     *
+     * @param string $cipherName Name of the cipher being used for encrypting
+     *                           or decrypting.
+     * @param int $keySize Size of the encryption key, in bits, that will be
+     *                     used.
+     *
+     * @return string
+     */
+    abstract protected function getCipherOpenSslName($cipherName, $keySize);
+
+    /**
+     * Constructs a CipherMethod for the given name, initialized with the other
+     * data passed for use in encrypting or decrypting.
+     *
+     * @param string $cipherName Name of the cipher to generate for encrypting.
+     * @param string $iv Base Initialization Vector for the cipher.
+     * @param int $keySize Size of the encryption key, in bits, that will be
+     *                     used.
+     *
+     * @return CipherMethod
+     *
+     * @internal
+     */
+    abstract protected function buildCipherMethod($cipherName, $iv, $keySize);
+
+    /**
+     * Performs a reverse lookup to get the openssl_* cipher name from the
+     * AESName passed in from the MetadataEnvelope.
+     *
+     * @param $aesName
+     *
+     * @return string
+     *
+     * @internal
+     */
+    abstract protected function getCipherFromAesName($aesName);
+
+    /**
+     * Dependency to provide an interface for building an encryption stream for
+     * data given cipher details, metadata, and materials to do so.
+     *
+     * @param Stream $plaintext Plain-text data to be encrypted using the
+     *                          materials, algorithm, and data provided.
+     * @param array $cipherOptions Options for use in determining the cipher to
+     *                             be used for encrypting data.
+     * @param MaterialsProvider $provider A provider to supply and encrypt
+     *                                    materials used in encryption.
+     * @param MetadataEnvelope $envelope A storage envelope for encryption
+     *                                   metadata to be added to.
+     *
+     * @return AesStreamInterface
+     *
+     * @internal
+     */
+    abstract public function encrypt(
+        Stream $plaintext,
+        array $cipherOptions,
+        MaterialsProvider $provider,
+        MetadataEnvelope $envelope
+    );
+
+    /**
+     * Dependency to provide an interface for building a decryption stream for
+     * cipher text given metadata and materials to do so.
+     *
+     * @param string $cipherText Plain-text data to be decrypted using the
+     *                           materials, algorithm, and data provided.
+     * @param MaterialsProvider $provider A provider to supply and encrypt
+     *                                    materials used in encryption.
+     * @param MetadataEnvelope $envelope A storage envelope for encryption
+     *                                   metadata to be read from.
+     * @param array $cipherOptions Additional verification options.
+     *
+     * @return AesStreamInterface
+     *
+     * @internal
+     */
+    abstract public function decrypt(
+        $cipherText,
+        MaterialsProvider $provider,
+        MetadataEnvelope $envelope,
+        array $cipherOptions = []
+    );
+}

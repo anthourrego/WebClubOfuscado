@@ -1,179 +1,269 @@
-<?php //ICB0 56:0 71:19b3                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-cx0NmW===
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Common\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+ 
+namespace MicrosoftAzure\Storage\Common\Models;
 
-?>
-HR+cPzIw1thZBFnz+dAIMNMsHDTcqKniZqfoTP2ui5j+LeLDkyQrpvliiPybsn04yItIyhXz/Hqb
-xZT6zZH0Wt2r8qfYCz3K5NCZ5TuWxXlw//LZ5mkhFhY2YNC07aLaHOnEPdx02cFRoakWXwex23Ia
-w09Q0TAI+62kpK49qY2j1/Acrazra8nvRq1SJ6BggoGGFkvDJoBtKmcavGxVmMpKxul6yM++yVBN
-THnI62OrL8m33s7XJmUj9jWPjW3VQpWlUGLQbeoo5/SbFQn/C5mQ1EM716zaHcItTL793fkpN0CI
-Z5yTNueJkf5l1RtFJ8wrkagmbcmGkBzfPsFqyjzShf88nVNJlwv3h5RGm4vOs65EbH9Hg8MfE1bt
-4s+NgXQKR0IK7qzRGK1CEeby4VT+XKOICzsKC3/r7jbRBnL10TNXlW5UdUSPdnMHqI7bHkYKvXXO
-X5WVZJLBoE+5HtX0iNyu1FussSW5BxblDdIGNq62PDezdpNMCRsT1h/xDmhRPvLzfiu+WTDWNWCa
-6GsR0vuHFaLE7iOZ2kTONWuTAtRenmhnT/Zt/unWHntYX4WDhah6L06rl8AtwEEnVCITcmxqA7Z3
-CrnjEdSe//2wEEbRSVtXkdlKOOQOnmUUho4rvfJbKxUNQXu3g/Kedf02fqoqIr5TZ6WbdX+lcPVN
-X9VOA7l1nb9UhDNo+AkAtcNLpNDLHI6qe40D/1fCbntunK+eOxdIndMLJT8U/mrPqr1y0JAICTVl
-sxcJTlQ/bYr7u1NlVOXDd2/diUUiTZXOeWtbgvP2qmbTPU5IJ9mReUoOM25TueLl0hT+Vrv/SrgF
-I9c1ZxT8COB2zku94BB9T+SuRPSjpLG/QwGpDMkKe+7w1762yeXCWijtKtfdO/wfpqOPHti9Qchy
-S3gTDnsjbxUmygM6Ii+f62GnThl2X1sYahT1HR+9udKRdHM10U6nkbXQU5TjixdpWfjr1lTEXWxd
-X3aHo907+jV35LaWVF++L6AU2PcuTm9n3sR92IES3k5CmSC888+RzoSeYpzcM4d0+aqBoIGMm5i7
-7sEceusx1igWLcdKJe9rRlFi8fpU4KBxIUAX7EG7ocpjLmemh5f3aPKPyslOFSlxPojz3glZJAyc
-ULz/MwJe8UfFmBSrIw5dak7moa5HrRggkLUVKONg2OZXPt1rxRocGr1CiLtMV0G7IGBLw60sByim
-WbNKVrxUWLsyGbhndaHezOdI4ozB5Oc9EM8nt8G/YEINxcHoYVPJJwQp1HHA4u+ssLFRDFst+q1+
-zmwd6ib7NADS+TvzyJUyoCIpVIWTMCZjyVKifVA9yVuhycf+zhL3BrXKMXUPD66T7sujcupaDSLl
-ErItYWDnf6u0jWJKxtBrokvLQ/qpL9/CY++3dQXXEYQFta8PcGaz4fMOLVu4Kon7JvnjvPWub77/
-W8Lb6m9enPYrQe/P1x3yDjAU2PIDBp65v3W+IKdr8n+tKIjvq5JQzRO4UrVVYVFdIX42XcElUwE+
-IKLq2rBW7g9ra9Eakx5qZwvkSilhk2HndKxG7YF36/Nj4LTjc3RU/ZTf4xumQB0pGdt/A25A7lP4
-a3dySPsZcb7PWp7UfCJ7bdkauthbvcSJnOBbj5tJq3ROfqKDhHMQhbmUbrr/IJ/z7rEfDwrAw5dW
-pq/20ro/m4UPraqBvG6I4FN0KKThYzVTUXvV2vm0dXvl1nX9qBJMSwL33h23L68nHjNYyLtXCQuH
-X4x+AyL0WIUlahnOg29zpEfliSWZVekJ4Dv5+ibtfanzKvryc+pQANgKrvhdWCjHvk0/ZRRl0NXp
-9pABCE9m7Dhaqky9n0c7Q52JrW5JP8QhMH9q++JsKqpHej1QysXQMGliqwioUeMWBxDMIYprAuwI
-1gQ42NHDYGywKgsYLPsQJfTX9g5wBEDJmwiFSIV6DZ5ggh40RfQnUVz1kbmItglNacaJEqWlxyji
-xCb9qhNYJ/ehdvLsOMwD+rGkZlbZCU5w/ubQZAAMD0LCNoH1KT9aH0OiyuqntNoiMEPxSM9IwLkY
-hZGGxKnW5ic4SX74Kza5s3iPDIreY8VMg8bN+MI7OQ/XKOnXwGHS37cwmXD4NMWMj1wHW1cIS00e
-8nKIJtXs/yJJYDhFKuW6NzM8+ZNH6S//ZRHwBoyJBQcl4AeJb97ZQvpl9KXjXWP46WQZPtmkFqsh
-wn2qQl2VUa+seYO4m82jCY4pObmdPhtum9znrsMLqBvgMvz9ryfoHs8G3PwoWySXoyRP8ITYkBuT
-0EMZLKEcDX12/PV6YeKFYTPbSBdbBqp6ZmHwOGRXN4Mv/Sp/N2i8GyBYKbHK0FlGxaer+p7pCAyk
-hEBDW2Z+wvlMZQilVtj3ABi7pTDo7Lfryrn8/sGSh0oC4FhUObXCG1qWk4Pa3nn1an1bZNul6EXm
-BMYb8ZxCmXcATh4f2lI6BC+5Ws4S8kmJZtjzjL8GSb3qlyLJ7FCZmNdWli8HYiqity3wtOsccYH+
-pEi6xJR7BWm4GveWkr5fpCcBzhWaYltVSEd0b1nqnchVCLYHy7bdQy/mQV8c812xDdyX6T5O9W4G
-9hKd/rzAAuFrsNBmPhijYncW42d1tMh6XYpKnV5HtOWf+5fdO8pfBRUsACoetNNTBsTHtpxNrCaM
-7YRsYoi7HCVmoeXs5qX3sIxgpoijV5usR2K2Cdhyy1M5/OZ7sQTsHqsyxhBE99fKV7F7sagodLZ/
-gwTCcdclaj06P9QnzddPuiyVYIqcrtg+8wgHh8I5Z6lnRL1QtqarM59BAy/f8LYxIFiIlQNPEiOR
-Km2VArmsu3VHKxlQ+mxyRTPOTpH2+phebx0zoO/GsXYtdYxaP2GtwS5T+F4CFqd8nlVR/ReBLU7O
-lxpvmQ1ucUF60QSivqrp7CDC5PZwKogqjWeTO9O/BirC+ecyS/DYsxWIY0+omhKwKhBgbbsRjtGF
-Fr6+JtueHosT+dHx84E80dVH3GLVcn3idvOakNgwHWWozFkiHIkaUDFq27JPxfZtefp/UW/tUkOO
-li/AnAt6yexRqKyAB05WA7Q7xnf0Hst6kigC7lz752mp/MeAnQsW9yGmAFbv9v2DGDqY7bRaQLRn
-fHh4gHFaORt4T04x8yIp7Lx1FyNMjTapZxUfXfnyn17pPmFiWlxyEMUlegIr7PDd3aXzEmsSUYKw
-bHzB+oIwee3fC5WhNgPtGAsjWuhnAsgXZvB+iGZYBcxfBT10JLIHVFwKih5S0xETb3h0gTCKYj+Q
-KW4P3b2FSm7r8SsRJkiJbTPIXaz/FT91NVQ21CuLKO6OrwUDZPcrmAPIMIfGXv8GWOC+oAN4rxr2
-bL7XaxYILmt3kh8R46soOz4966pPiQPO3q/Ij1RUprtxyeUEJhwHMsri8lLmPeCjacGYEnKvEV0e
-3oNolwDIb2zQs8iWSPbTR8Z+6mWhuxgUgn3DCPj69L3Ew2Rv5iCmwi29o31TZnp+ghwnxvNaX1UR
-N8Uq35uPcaCmPfP/5vQgBdq4HvB4Ul4lduYPEoJHIVG5bN+sPZ5rm4qXzvBga6jYJh1uqK9FHuNT
-CfM5R+hFYJ8IAh3m3kUOpgpkJHodciNNE2FuiySHAwtUNC8eraeEoFRN3cOKqF5/gDqrMygKZ5Rj
-V/BaU44PvsBViHwYMnybSPM7SrR+iNCDydECKmIQ6XWTJlgdq+184DUAyB7AGDVqM28IVPpdTLiM
-0i0R9Frskvet4ZaTZE8f445O+Ha4Bd1Cz7mnArhVDYXvpdBSftA8irj9ieRjnq7y3Ts/6hUgjbaq
-nS1wR7AG9QKNzAM00Zz/ZRuzj6+aQII6JE3FxLSsG1r58FIIy/FJqmrdqXufzQ2QBr4R3/E/qNON
-bllZuFcVf6EcI6sJaZ6DZZk4D+7VESLXPHAJhNy3DOXhB5Foa54oiPxVBU/CnmfKyZjK3CZ02TER
-q92C+99pV7PpofDr0xojqWwa5by6fobLfZz5g/84bavtBTfDRZ9OvzvRXGjsetmdo7J81e0KR23O
-REBmKrsFu+m1p5uZlIB9ZyhPQRKJQkeedbGTOseqmX3PKbjSKoEowIFIGj2S6EUF3MEYc7Uwdvhz
-YAmTkJJNW9WfIrE+47m9F+ZyYwQs2NuPTzhTSE0W0wGP4bdO8M/WryLrSMmgTo2cWy5P4x1/sDzf
-LQCKucCV8nfG8AsjfdHdMCr+8EJr2Wq/hQ0K/LwZu75talf+dQQddqFzBH0zSKvHv+R1DT066kX2
-JGxrAO5o5Rh/VlUm/7jKOUH5dIF8Jvqca0u0H39DHiP+DEfLezce5OKEi9eEjtTawOr1zItGf9KF
-uQ+1OVCnxwL3yCxay3amelzh3RAqpFOBkzgWVlLkPS3mhnCApQDZWD1cFUHjCLWOykOrFfVNy57j
-oalPpsTOz+ouSlR7RofaLo/u6uomWN+dWAmAuiXvoUTc5M7RyxfR4gl8EhO/yWWWA96OvrcxUIQE
-lGCsgVd22vX9jdAy4GmQH3KtHCGIE1SwT0lkS8i8JsU0zGCXelx4nzKgOu6mZOsRz4owiqLPd9GU
-gOpEowIRhafny85NWzHOZSSjDXX0qNr6SzEQPVTq4+cKy2hzyEcqVhEbaQLWrxWznm8zZm4X58hW
-ZufckGuF77BDO9vJi8UbmwMGSqdz0thiNChSwoiBKMznaC8PLG5U9xgKqJSGk5z+UP6CEzjNfZqv
-eQuAfOSmtQQm1zHQ8Ppd+AXcCTTsMLQDzJ8UdIHfmPrpvX3x4HpuHKbnV9X3TIOYNJPxA2OoTtBN
-vKGbABBZRSQr4xDMUyju8TsilR8Ib9dO6Aq298ofRK/ssvYqdEsQUz4uU69AgoLDed8lL6sZJqa5
-9XUUoO2KnbBP8ssr9oZ0gWIm+kREV0cwoUtnigs3gjymuJKvkk43Ru5E6ZHM4LV6lICIS+1OZULH
-D9gvoQbz/5mrG0/95l9eUotE6LbTCdwTsZ8HP+fGOjA4L+x6Rkh+nuf9A6NEusanvFHBMzMHCLCK
-dvfcMV5KCkRTGAnGRaVlwlJ00XMJLNe8nvqBFzv0WkIQBZrRz55YFawfrAWBHOp0lKe4lklOGD6O
-DQxUja6+KBoqhamfbWdubj178x6xM/ppfLGclk5hhy5Ltxozi4vtl2LBw+it0rthxeV9ocs0VOH5
-cxW2PZxsV+k5y3k3AJaBVrUCve2k/9o7uOAPcrCEHBCMCvVVHraoTVNyuiEJiddEixWP2yPZqj/c
-OgxeP0dA+Mgm0dnqub9JmE9vkZDtByYmeWBVcXBpu47PprP0mJNntvM6eiU3Bs8urFPlvLBSVv+i
-hV7BozBwaw2rVH3IwBtOOioy/EOOH7SOmcTCiZ8+xe+6oOKqkXtl0/feJ3OARQGdRyptjcIlk3+s
-lzZA9rzYesuViznVA/eHAHN4ktRirTHxXDl2JWlBoT25/ED3LnD5EnV9Phw47MG8mcz322LcuKm7
-e20DS8FYZvXdN23HRLeFIoCoAtTI4K4tgP+PCWyL6xN+0PxSAs/VwR7U5ZGl7xKoawHMP1NrrHTv
-bn5JQMAOjxTYH9qtXVD/7oo4yd0tAVItXZhAOw06u1Y8zUQPnd+FUrn62h826b+WRAieILLHyKw0
-vV2nLxTwont5DWDuBNyQcIo/Wf1aNh5BvQtnBjOcf8dVjeihfKc5DjaeNAa2Qv6RnHlW1kd/BShj
-5K+R8AX+BfBCp3k2PpWu0OtxrexddXJkVmlvojNgH9Kp97EgHqZq2mbrfnYxJrTa0RamvKeDN4vF
-OBdwHsXXCBYhTEUaBbCzJUWdl2tzCYnjYXGYi3cEImZTVWBhKxvFtxWRUVL+v4JW89hhZwLxFQ/b
-fjEIUUqJoX2kPy3M6rPQKNwtNY6MVmxegxMQnDTPNMeagjQ3kX5lg1raN16rnJEDnpg0CVrW6arG
-Sf8+ufwX+XGnD/xZnnZbzeR4B8Y8Ihsxs0ZlaWitzo+/1XqMJMEAOqmH+zYi5uwXw7SQTGG3scES
-u44Ulo8myf28DfdrJw778NmcV/JrF/r63YTxgObROIaGaQLwD8QyZ05ImqEzFJ2hypwbkf2x/wYz
-tXphAxKvDEwJ5bL9roRDD2KEl0fzeRqu/TQXG1l2zXEXLZ1hCS8ogCTtRBqd/ZabcWRMwNnNYLex
-4QdnOwCXS1rXKI4ai+ZVGsAf23srZiC/22Fc2YjqYkiC+qh4DK07daLiZmOTLAJG0SXiBwZmnN98
-Iukh1dTkyjzON7hFHlCx53gJfgg2QFIbJvT+/Dlhc6yUqLTzw4Y0SKhp7eY4n4vZfYbtm2lJAgPX
-Wz0P0dYe42qKvOTDcjV/u1Z1zHcXxY5dbEWNTMa+ODkv0+c48ltkhKDrGNOLs12LFxeO5YIHIw+T
-aS6ND4YGazLjeAsae/zSm5krCUoyFzSrE7P3Gt/GO3YfUQoHjJs7EV9exG5AYdiV+N7pDLvGTc/u
-94eYGDF5hlKGJkmRZCP59ZFeFzFqZ4YdcXB0daSm+e4VPLNaGMSshfze0eiGCXkQcJUUo3iBhBHg
-mERQVhuVceDi9pi9hOE1acYMyw7JmgnwwbuscV6RJrWqXPckCvhdDl4HNzvJ/iw/Bc28Siri+p8U
-tetHc9u/kaUPttj8nDEiXWlae1X2YNhc7T4P7F1oz+U8YGyzDiLoa5RMd85KyBwTbcbEQbthpoPJ
-PLKMOJ/qsi2nPI/tvNl1/CmDyW2ADEDOOvDstjLIVjNSXXCc8EKbGlnfVNRfuMPxd+3S/uyNHpE4
-zde9U4XE7cFefSsfdtT7cx6e6CN8ayaMEHnsEyvgmGSJ012nOm+oK2qTqIpZL226oNnpLeDJ+Y4J
-yooRwaMRqTN0iAg+uxHBg+0A1ehct9s5nxWGb1DP
+use MicrosoftAzure\Storage\Common\Internal\Resources;
+use MicrosoftAzure\Storage\Common\Internal\Validate;
+
+/**
+ * Provides functionality and data structure for Cross-Origin Resource Sharing
+ * rules.
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Common\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2017 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+class CORS
+{
+    private $allowedOrigins;
+    private $allowedMethods;
+    private $allowedHeaders;
+    private $exposedHeaders;
+    private $maxAgeInSeconds;
+
+    /**
+     * Constructor of the class.
+     *
+     * @param string[] $allowedOrigins  The origin domains that are permitted
+     *                                  to make request against the storage
+     *                                  service via CORS.
+     * @param string[] $allowedMethods  The methods (HTTP request verbs) that
+     *                                  the origin domain may use for a CORS
+     *                                  request.
+     * @param string[] $allowedHeaders  The request headers that the origin
+     *                                  domain may specify on the CORS request.
+     * @param string[] $exposedHeaders  The response headers that may be sent in
+     *                                  the response to the CORS request and
+     *                                  exposed by the browser to the request
+     *                                  issuer.
+     * @param int      $maxAgeInSeconds The maximum amount of time that a
+     *                                  browser should cache the preflight
+     *                                  OPTIONS request.
+     */
+    public function __construct(
+        array $allowedOrigins,
+        array $allowedMethods,
+        array $allowedHeaders,
+        array $exposedHeaders,
+        $maxAgeInSeconds
+    ) {
+        $this->setAllowedOrigins($allowedOrigins);
+        $this->setAllowedMethods($allowedMethods);
+        $this->setAllowedHeaders($allowedHeaders);
+        $this->setExposedHeaders($exposedHeaders);
+        $this->setMaxedAgeInSeconds($maxAgeInSeconds);
+    }
+
+    /**
+     * Create an instance with parsed XML response with 'CORS' root.
+     *
+     * @param  array  $parsedResponse The response used to create an instance.
+     *
+     * @internal
+     *
+     * @return CORS
+     */
+    public static function create(array $parsedResponse)
+    {
+        Validate::hasKey(
+            Resources::XTAG_ALLOWED_ORIGINS,
+            'parsedResponse',
+            $parsedResponse
+        );
+        Validate::hasKey(
+            Resources::XTAG_ALLOWED_METHODS,
+            'parsedResponse',
+            $parsedResponse
+        );
+        Validate::hasKey(
+            Resources::XTAG_ALLOWED_HEADERS,
+            'parsedResponse',
+            $parsedResponse
+        );
+        Validate::hasKey(
+            Resources::XTAG_EXPOSED_HEADERS,
+            'parsedResponse',
+            $parsedResponse
+        );
+        Validate::hasKey(
+            Resources::XTAG_MAX_AGE_IN_SECONDS,
+            'parsedResponse',
+            $parsedResponse
+        );
+
+        // Get the values from the parsed response.
+        $allowedOrigins  = explode(
+            ',',
+            $parsedResponse[Resources::XTAG_ALLOWED_ORIGINS]
+        );
+        $allowedMethods  = explode(
+            ',',
+            $parsedResponse[Resources::XTAG_ALLOWED_METHODS]
+        );
+        $allowedHeaders  = explode(
+            ',',
+            $parsedResponse[Resources::XTAG_ALLOWED_HEADERS]
+        );
+        $exposedHeaders  = explode(
+            ',',
+            $parsedResponse[Resources::XTAG_EXPOSED_HEADERS]
+        );
+        $maxAgeInSeconds = intval(
+            $parsedResponse[Resources::XTAG_MAX_AGE_IN_SECONDS]
+        );
+
+        return new CORS(
+            $allowedOrigins,
+            $allowedMethods,
+            $allowedHeaders,
+            $exposedHeaders,
+            $maxAgeInSeconds
+        );
+    }
+
+    /**
+     * Converts this object to array with XML tags
+     *
+     * @return array
+     */
+    public function toArray()
+    {
+        return array(
+            Resources::XTAG_ALLOWED_ORIGINS    =>
+                implode(',', $this->getAllowedOrigins()),
+            Resources::XTAG_ALLOWED_METHODS    =>
+                implode(',', $this->getAllowedMethods()),
+            Resources::XTAG_ALLOWED_HEADERS    =>
+                implode(',', $this->getAllowedHeaders()),
+            Resources::XTAG_EXPOSED_HEADERS    =>
+                implode(',', $this->getExposedHeaders()),
+            Resources::XTAG_MAX_AGE_IN_SECONDS =>
+                $this->getMaxedAgeInSeconds()
+        );
+    }
+
+    /**
+     * Setter for allowedOrigins
+     *
+     * @param string[] $allowedOrigins the allowed origins to be set.
+     */
+    public function setAllowedOrigins(array $allowedOrigins)
+    {
+        $this->allowedOrigins = $allowedOrigins;
+    }
+
+    /**
+     * Getter for allowedOrigins
+     *
+     * @return string[]
+     */
+    public function getAllowedOrigins()
+    {
+        return $this->allowedOrigins;
+    }
+
+    /**
+     * Setter for allowedMethods
+     *
+     * @param string[] $allowedMethods the allowed methods to be set.
+     */
+    public function setAllowedMethods(array $allowedMethods)
+    {
+        $this->allowedMethods = $allowedMethods;
+    }
+
+    /**
+     * Getter for allowedMethods
+     *
+     * @return string[]
+     */
+    public function getAllowedMethods()
+    {
+        return $this->allowedMethods;
+    }
+
+    /**
+     * Setter for allowedHeaders
+     *
+     * @param string[] $allowedHeaders the allowed headers to be set.
+     */
+    public function setAllowedHeaders(array $allowedHeaders)
+    {
+        $this->allowedHeaders = $allowedHeaders;
+    }
+
+    /**
+     * Getter for allowedHeaders
+     *
+     * @return string[]
+     */
+    public function getAllowedHeaders()
+    {
+        return $this->allowedHeaders;
+    }
+
+    /**
+     * Setter for exposedHeaders
+     *
+     * @param string[] $exposedHeaders the exposed headers to be set.
+     */
+    public function setExposedHeaders(array $exposedHeaders)
+    {
+        $this->exposedHeaders = $exposedHeaders;
+    }
+
+    /**
+     * Getter for exposedHeaders
+     *
+     * @return string[]
+     */
+    public function getExposedHeaders()
+    {
+        return $this->exposedHeaders;
+    }
+
+    /**
+     * Setter for maxAgeInSeconds
+     *
+     * @param int $maxAgeInSeconds the max age in seconds to be set.
+     */
+    public function setMaxedAgeInSeconds($maxAgeInSeconds)
+    {
+        $this->maxAgeInSeconds = $maxAgeInSeconds;
+    }
+
+    /**
+     * Getter for maxAgeInSeconds
+     *
+     * @return int
+     */
+    public function getMaxedAgeInSeconds()
+    {
+        return $this->maxAgeInSeconds;
+    }
+}

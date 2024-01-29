@@ -1,115 +1,75 @@
-<?php //ICB0 56:0 71:11a8                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\S3;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-01XYRYVLALg6UWcNEJwlxRPb1m===
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use Aws\CommandInterface;
+use Psr\Http\Message\RequestInterface;
 
-?>
-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
-x89YQbivbS++qdxye0==
+/**
+ * Used to update the host used for S3 requests in the case of using a
+ * "bucket endpoint" or CNAME bucket.
+ *
+ * IMPORTANT: this middleware must be added after the "build" step.
+ *
+ * @internal
+ */
+class BucketEndpointMiddleware
+{
+    private static $exclusions = ['GetBucketLocation' => true];
+    private $nextHandler;
+
+    /**
+     * Create a middleware wrapper function.
+     *
+     * @return callable
+     */
+    public static function wrap()
+    {
+        return function (callable $handler) {
+            return new self($handler);
+        };
+    }
+
+    public function __construct(callable $nextHandler)
+    {
+        $this->nextHandler = $nextHandler;
+    }
+
+    public function __invoke(CommandInterface $command, RequestInterface $request)
+    {
+        $nextHandler = $this->nextHandler;
+        $bucket = $command['Bucket'];
+
+        if ($bucket && !isset(self::$exclusions[$command->getName()])) {
+            $request = $this->modifyRequest($request, $command);
+        }
+
+        return $nextHandler($command, $request);
+    }
+
+    private function removeBucketFromPath($path, $bucket)
+    {
+        $len = strlen($bucket) + 1;
+        if (substr($path, 0, $len) === "/{$bucket}") {
+            $path = substr($path, $len);
+        }
+
+        return $path ?: '/';
+    }
+
+    private function modifyRequest(
+        RequestInterface $request,
+        CommandInterface $command
+    ) {
+        $uri = $request->getUri();
+        $path = $uri->getPath();
+        $bucket = $command['Bucket'];
+        $path = $this->removeBucketFromPath($path, $bucket);
+
+        // Modify the Key to make sure the key is encoded, but slashes are not.
+        if ($command['Key']) {
+            $path = S3Client::encodeKey(rawurldecode($path));
+        }
+
+        return $request->withUri($uri->withPath($path));
+    }
+}

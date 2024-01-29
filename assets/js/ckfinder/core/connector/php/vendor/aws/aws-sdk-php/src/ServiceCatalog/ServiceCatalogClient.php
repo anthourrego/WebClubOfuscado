@@ -1,52 +1,129 @@
-<?php //ICB0 56:0 71:8ef                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\ServiceCatalog;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cPpCvxL5g7DPcSu9uSh1lxTsis5Z2R8BWNiSdI6QgvTqOM0VoBLBWAzpkRysHsVuwpYrDSrnr
-Zpk3BqY9664LtyIoiP0aWqmKgS//wAbBQTkvc/YBulYxU7x7iTazLptmtkRcBv/kVQmNL1GQKDaI
-mDQwfn1LvoBa0GAAWPYJUCHZYty7U1vzKciHvHBmOz9IY9idODhMLs7IxiY9lq/AGqLT19d5qLeu
-NdHndhc5yrEZkquEVceGLE7xkJ1Y5UYNfYX3W+wG0loEdbUqYTiSzzDhxb2gRgG6cPK/i5cQCtFU
-ovFe3Z1TEsm9X4z/r56XgKY3PLKSgUe7KstBY3FsU/E+LGQr+3Kd8gHYxcunTCJqy6Rf6dIEnbA0
-LjiQo9/YcALg+O5xQcPfqXCtMNM6sgIV2hsJxhpJLA+HO0kkPvsPrUmvo3d8EAyt8fvDWgrqMwox
-ScPW7qGd7evcELcAbdEvVSP99RtNorX/g+xhmYrsY6kT+pI+H2r1vTGouvMbA/DbhtGPfluaBRF9
-2PWLNVKDBviamoVajjYIFrCFb+knAyTUU4sKWh5M46xMa/jFFPjvwsnZaVXIIPk3f3NxmXUkDnE1
-fCHTuc11m3GkqXnRPgJa4SKex3fC3kAKTQYYf+Mve2paxgjY1D8esbOTN9XP3OaUrRW1+LiTejLG
-vpgcwMqnYALablYo29eh4i6JaP32GXdT0AslqtUCImgHWAiRAK0xhpZoHUGUQn9PvzcoG0w4lHxk
-HMfQxWrWFVuXKQtpMwzQ6yY8yMTodT9CehBJJw0q+tZdfteK6dORNH53wQmbC5l37/rEbKxw5wRD
-WxHalOoF1NfvyarOsKSu5hNGS6ornJMhrhtVOAS1EviQK0CTOZTDSE0QZv9SfSK8s9IymVDJgkBt
-UBFLB7Dyu8RAaNTmP+QG2SlI4f6JdwWFGm3jqeUvnrHHvA8Pq6e/pgnQBY62yiP4SH2UfhORYiU0
-CkZ1dGCpOJ5H/uLTvCZS1YSZnoser0Ab3w81tU/oCEmlgOSwnZUAiYvMqe3G2hMyiTbXIDE7BqcS
-gDwMyawYo+U8W6qksum7YF/ZWukO3YmzaZJtOooJfBXQ8OHFokO8JBYYd/13CijlVW87cb+1p1KA
-mJBGwwsn1u9tZ3RHFZ8ieo5dGdY3s9Z32kLsc+jUiED/nAVDyrVcnB5j1KV+Ybf0krIVzlc5fTeC
-uTtLZCUWrploWrVhSA0H27lMKy55tdYsbttVAUMDSyKqXe4h2R5UobvjYGbVFdf36pgfCSqAMVqn
-q/tf0zlD0xys7Q4ea02ywXDo5HXS3OowBwKxCO7JSWCXwcq6BH7hKSkbh7qaK+l7K0eLInFho+9z
-lyXH3gLPmL+OrpaH8spQfkcKTWa==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use Aws\AwsClient;
 
-?>
-HR+cPzrS3i1nkVBt3EMRutdD2XG0aTmJ4t7GOA2uj037AiG1m3LnaUp4PAh3qZGQ73d4fhLnRfu/
-XOUpmdN480Z/ltDkEtJPL03asBqBGOJGOWGUuWiSbhWv381wEnOeeVQlq4RJNBQKsGAyTNmxZJ2S
-2Is/kSg+nkkMDdfS9bDKrYnyk3lpX0HH4pf3B7Mm4OYPq19P03P4NrDvKNQgAeqWKYP5Iuf16PgD
-Vh1oaTx9mjTO0yYp6tBt/uwtYDcP2e9ViQ+Vbeoo5/SbFQn/C5mQ1EM711DZaRewDzv2Dr3zSUCG
-k7P7TnAPRm5frOcT7aNKoEdsaMvpr5hbfLRnUPZgAFYBKeHLdlYdMQoSxLk0xKibhP6CI5OG8ku0
-QVODn86e39O2mYg8gbl+SxOMJyjgPcMxjQhFXN5ngz/uARZnkKRa7BlHldfKqRVHN6AL39qfk99c
-It82o8Mfti82XsT8Xw9GpvcIWIVSEiqQtuoJ58DWMSium9rsECB6YoP3oQ3eB+JnCa5HAwafMa2k
-WgYMmAY3+Thev8qS03x9y5phTgC2bOQ8lj+14VcdY39nE83cIrFUW3Zh39a9ak3XFoxGIMCsZvYm
-4sNUbwxoJRtiYNTAhpLaI2SwmxkiDMVjZMRt4cujD/bHYn37yZTz9ECBdwHYNTuLFMgs8uDg6SKz
-v2NmiAt8/iikxxy/GGrh4UyOseeUmVHc5TYRmgHbvNkCdvnddvVG3qcOUrmDsO68ZKJ/Kh4d77QZ
-R8QjXYIeZfieYjc8YAXDivUseNgLVD0/ARtiaRFKS1BqxHoa4WkBgU0sRxSnWY/qUBJaeKGEwvb1
-OJ8fmSFIDZw/dv6MGs/PJeB0yCjl9EROCFPhqDz1wZwB3CCMgM/K1vUNpgTpRT/18EXN4AwYnhBT
-QwtbrorwPP1ROpS7skxqr9wGhSSh4Z/Mo58GTRqE0Zsg9yLEvKtwkKNA+v2nxEGBEShqRIeW56MB
-72J5U9TUzzAqVNBd3wtv8H6YYG9UVii48PRt0Z0qwImPgSdBpVSuXkQhRoSCElEbqEOt84lq4CzA
-ltukIz9fdagsbWsTv6ple0ulIaN9dCRXNWGjYIsYY6c5cRV4wXoQMj1XzXWF2F5UDiT63UVDsLxf
-mUjAJc8etTanKZITqqUCiDacE+RNYgg6F+Z9X6+o5oigk7fJEfuZSsX/bo8H/zKnOfvUcBImEh/Q
-tBmGDflwQd8FrVS9xjZ5LgZkzutt771QMH0WaL+O/j9Uvum+CTJWhOs/fjT4XdWSmKlZW6DdgBQi
-l6w5tkUz7YIVdTZzN1MUQAMorx4/CfKvTmPpyOl4LNw2CTIv6gPo5nadJcbnRvfBiTfnkf9pqIuM
-k5gN9KkNde42RAx3G7Rc8BphxkAZRrjWN4Yb2wBHKgUxU6LeSVPSGX70xxa1pslB9EBfeoWp9sF+
-bkgGU0MmghLdlJR+
+/**
+ * This client is used to interact with the **AWS Service Catalog** service.
+ * @method \Aws\Result acceptPortfolioShare(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise acceptPortfolioShareAsync(array $args = [])
+ * @method \Aws\Result associatePrincipalWithPortfolio(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise associatePrincipalWithPortfolioAsync(array $args = [])
+ * @method \Aws\Result associateProductWithPortfolio(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise associateProductWithPortfolioAsync(array $args = [])
+ * @method \Aws\Result associateTagOptionWithResource(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise associateTagOptionWithResourceAsync(array $args = [])
+ * @method \Aws\Result copyProduct(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise copyProductAsync(array $args = [])
+ * @method \Aws\Result createConstraint(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createConstraintAsync(array $args = [])
+ * @method \Aws\Result createPortfolio(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createPortfolioAsync(array $args = [])
+ * @method \Aws\Result createPortfolioShare(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createPortfolioShareAsync(array $args = [])
+ * @method \Aws\Result createProduct(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createProductAsync(array $args = [])
+ * @method \Aws\Result createProvisionedProductPlan(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createProvisionedProductPlanAsync(array $args = [])
+ * @method \Aws\Result createProvisioningArtifact(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createProvisioningArtifactAsync(array $args = [])
+ * @method \Aws\Result createTagOption(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createTagOptionAsync(array $args = [])
+ * @method \Aws\Result deleteConstraint(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteConstraintAsync(array $args = [])
+ * @method \Aws\Result deletePortfolio(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deletePortfolioAsync(array $args = [])
+ * @method \Aws\Result deletePortfolioShare(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deletePortfolioShareAsync(array $args = [])
+ * @method \Aws\Result deleteProduct(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteProductAsync(array $args = [])
+ * @method \Aws\Result deleteProvisionedProductPlan(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteProvisionedProductPlanAsync(array $args = [])
+ * @method \Aws\Result deleteProvisioningArtifact(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteProvisioningArtifactAsync(array $args = [])
+ * @method \Aws\Result deleteTagOption(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteTagOptionAsync(array $args = [])
+ * @method \Aws\Result describeConstraint(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeConstraintAsync(array $args = [])
+ * @method \Aws\Result describeCopyProductStatus(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeCopyProductStatusAsync(array $args = [])
+ * @method \Aws\Result describePortfolio(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describePortfolioAsync(array $args = [])
+ * @method \Aws\Result describeProduct(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeProductAsync(array $args = [])
+ * @method \Aws\Result describeProductAsAdmin(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeProductAsAdminAsync(array $args = [])
+ * @method \Aws\Result describeProductView(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeProductViewAsync(array $args = [])
+ * @method \Aws\Result describeProvisionedProduct(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeProvisionedProductAsync(array $args = [])
+ * @method \Aws\Result describeProvisionedProductPlan(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeProvisionedProductPlanAsync(array $args = [])
+ * @method \Aws\Result describeProvisioningArtifact(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeProvisioningArtifactAsync(array $args = [])
+ * @method \Aws\Result describeProvisioningParameters(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeProvisioningParametersAsync(array $args = [])
+ * @method \Aws\Result describeRecord(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeRecordAsync(array $args = [])
+ * @method \Aws\Result describeTagOption(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeTagOptionAsync(array $args = [])
+ * @method \Aws\Result disassociatePrincipalFromPortfolio(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise disassociatePrincipalFromPortfolioAsync(array $args = [])
+ * @method \Aws\Result disassociateProductFromPortfolio(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise disassociateProductFromPortfolioAsync(array $args = [])
+ * @method \Aws\Result disassociateTagOptionFromResource(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise disassociateTagOptionFromResourceAsync(array $args = [])
+ * @method \Aws\Result executeProvisionedProductPlan(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise executeProvisionedProductPlanAsync(array $args = [])
+ * @method \Aws\Result listAcceptedPortfolioShares(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listAcceptedPortfolioSharesAsync(array $args = [])
+ * @method \Aws\Result listConstraintsForPortfolio(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listConstraintsForPortfolioAsync(array $args = [])
+ * @method \Aws\Result listLaunchPaths(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listLaunchPathsAsync(array $args = [])
+ * @method \Aws\Result listPortfolioAccess(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listPortfolioAccessAsync(array $args = [])
+ * @method \Aws\Result listPortfolios(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listPortfoliosAsync(array $args = [])
+ * @method \Aws\Result listPortfoliosForProduct(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listPortfoliosForProductAsync(array $args = [])
+ * @method \Aws\Result listPrincipalsForPortfolio(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listPrincipalsForPortfolioAsync(array $args = [])
+ * @method \Aws\Result listProvisionedProductPlans(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listProvisionedProductPlansAsync(array $args = [])
+ * @method \Aws\Result listProvisioningArtifacts(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listProvisioningArtifactsAsync(array $args = [])
+ * @method \Aws\Result listRecordHistory(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listRecordHistoryAsync(array $args = [])
+ * @method \Aws\Result listResourcesForTagOption(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listResourcesForTagOptionAsync(array $args = [])
+ * @method \Aws\Result listTagOptions(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listTagOptionsAsync(array $args = [])
+ * @method \Aws\Result provisionProduct(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise provisionProductAsync(array $args = [])
+ * @method \Aws\Result rejectPortfolioShare(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise rejectPortfolioShareAsync(array $args = [])
+ * @method \Aws\Result scanProvisionedProducts(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise scanProvisionedProductsAsync(array $args = [])
+ * @method \Aws\Result searchProducts(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise searchProductsAsync(array $args = [])
+ * @method \Aws\Result searchProductsAsAdmin(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise searchProductsAsAdminAsync(array $args = [])
+ * @method \Aws\Result searchProvisionedProducts(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise searchProvisionedProductsAsync(array $args = [])
+ * @method \Aws\Result terminateProvisionedProduct(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise terminateProvisionedProductAsync(array $args = [])
+ * @method \Aws\Result updateConstraint(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateConstraintAsync(array $args = [])
+ * @method \Aws\Result updatePortfolio(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updatePortfolioAsync(array $args = [])
+ * @method \Aws\Result updateProduct(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateProductAsync(array $args = [])
+ * @method \Aws\Result updateProvisionedProduct(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateProvisionedProductAsync(array $args = [])
+ * @method \Aws\Result updateProvisioningArtifact(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateProvisioningArtifactAsync(array $args = [])
+ * @method \Aws\Result updateTagOption(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateTagOptionAsync(array $args = [])
+ */
+class ServiceCatalogClient extends AwsClient {}

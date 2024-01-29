@@ -1,50 +1,89 @@
-<?php //ICB0 56:0 71:8a2                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\WorkDocs;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cPzUkUxYMY42mRnNkcnakN7gfqqtyp08/OyXNWpJr3EN96uwr+DVf23FAdji9e2lntmRzBYwq
-VlOiSZIV3JCznR8ix9m1bg7VJFK4dX4fm3a0h8FzIXdVoQGoK+QS0L8r4576rGF0PX9rKWieH/9V
-lLr+eM2aVoXbUE3jQDklLUGgiN934uWluQe5cKkhAG7gqN++3F/R2umxjQrmpCnANNzgZp4iWto/
-GZrJ9RQZHQP9TnEO1CJKrsKDRJSepfp3/rt83UwG0loEdbUqYTiSzzDhxb3+PpaA69bmtC0yJAYM
-YytE5RVAckzWi95tm+5qAoozXNYYtY16GK7SkIbImgJHRexSrUjlvQoespghkVPb/PXtrbIFGjyv
-SBI7PPiNZ7Lc35iSxq/A14vGVR9GV/fUky/BrVL4LcJ4LZSPUYB1bA4XXY7EgSv0T5AlMnVloT2H
-Ck7uspbhSFHe+4axIVvRYa9DzpzhB0zwK4k2W4bOmHGgLWcPDNk4BIpYWPTvQpv78mxEYg7aiBC+
-9r6dnflzsImM7KMtIP3sulMLf1yBxvVYw0mioF5qdjUVtd0xFw2iWZqvVYw0nPm0GhZneqj0ZbZk
-d4K0Q5V1utJer7qgKYA5Pu4KP4dxRYky9CCuae7XN/9M7eCzMtCh/mqJcxMmahHMj+L5MICufm1z
-EBEuBjOsEdiYIG9lHx64MqdQGU3n6z+oXwHLLRzqxVo6mIpR3OQ25+wR1A8pHLR/Wu7/ataeRCbB
-S818UnQq0OlTANB1510izxC7hBQd5ykyZQ5xnn/x1LMB1JUwJ84DOGkQqCXEAjZXGJzACXX5HTJY
-zBN+cg7eqTmU7fz2ZFhx46tmyRfm7z9AM65kOz2G4aNpPJeay7TqzPxt52SnGJ9Yx/OKQjvBXqpa
-k98IWoqa1rLmjxdnevZH+gyGnuAt32HGAzHdNn3loQuiyveJc2fI4B3t7D80p328zlKxGWojjfIY
-4Rhz1XXUK7OYDHPKfHuSQEm+v0Gb6157z09MVBl+zLpurNb1Er0FXJki5TQgSsgAQljDuDQJtU4f
-Pj84ZIYcUtJnYHcb7VeU6IvPjWtX3P9qj/BSrTtZOx6SzyEfEJg0baPka4gFH49z5WtSK6bA6krU
-x9iBqxiNaVhQ357uKD2F1z2Zpo/IAjQcsAHOpY5hC4gRGsSMVK6ExtcIt1/fmoaqk/WiIzkypKqn
-HjcNidvMayJXYcENHA9fLEcypYpSqqwrl+qXedA/R68Wcedak4XrS4gD70aHFjBr+Tv3Es6YypQE
-jwGs3PC84TSM+vZj3JxwCxgCTgO9=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use Aws\AwsClient;
 
-?>
-HR+cPz8lkcqU2nz2vvSlJc3xWNyFDEj9vHkpKT4bgQxiNfIHaFw/UChVhgbHm/CEasB/upj+CTza
-X3yze6hyT+ROFQMIPrnIDBq3r45HLQHrnjPiVHZfup3R7FA2rXbhekQf6IXZbnE+L5tDnnmCeHVv
-ygx2udjACrxlINTnsJK4HT5d6cyzBXLn4yWE+Zg5m6rPcmkFae55nzJPVfko8mTHZRvQf/47ebgG
-YbJOAXkB5au+KmeMauU+Xk7VBsXwgR/nNv2sU9QCiXVt9JsiVp1S6WJbXmG+PyW5pxe2WSLqTtNZ
-aC5r88a14ZsT1bhiZo6nCfRboG0Q+47ZePJRePo/bJUUmZlp7myT3Qnp0BlGyVusS4XhD3kUK84J
-qx1GLFwTKZ3DPJ2qiHo8D6/YCspgTUimDmDPK9HOYoufqjFxq/OY1qNKhlxjTnwpRyNlWx85SSR6
-rdrfJaKTh9/YHz55Sm8gTXdo0+F6IPFkATHvou3bKtNrl+g8uPG0770untO/U2DWqz85JxcspjBI
-v+g6XDsjEdjYbuBMorqt43e3bEQ7DVpmTOKwxgJR0bYE09QUdLE2LoNLvyokpTu4yxHHt6kttGwW
-ZwC+XeUxr67RvBQCKQDEm+8+5cJjgiiMsZjsJxPQLw03sBmBHzcKfxoXn7WLYraEhlBYHudrDS+S
-9s3kVuI4p2U+8D6ubJgWDOIvUJbVzfonkwFIM9kalvZlJbq/5w0aJhg/pzU7E7I3OieUY+8sXGwx
-1GXzb5WR8PU8lDzWgS+5wHEqhsNVZs9v5zP7V9/k6nUlqyrYnl2LVRqtlkQUDLe2ZPfCnGM+yYUm
-IxiQGHA1+Rja72Kmx4UjCEQjoJw+wXwfxU3AmkeL0x6PvBN35vRaPtlRU5J5f41P+vc5gLjCoKQA
-GYUjscnmVt/3wvmgZ6aHUzEMXvM73Z1tsjWNgvEbMvuFSrFzegEo9CifdyLeLO6J9+2fA2E+zLW2
-1e+lypC6fzRl95BkScbY5h9sHbL50vrjpfg9L6qOUsMsPjjW5NM20LCU0RTlH/xOpv+7c6z2PjzO
-VMakDjVx26gXlPucTkmCamfAoUKxaQnefX2sqeFwIsYAe1kP88BryTSIavJgBWwb43ezupM/e0eK
-89X1R6pXhvkb+SGfWjii/d/1HfhkAp89///Yrw5gfW5G+4ang0Mh9zV9eyB/qUfI4iTR4tC8NaA5
-8s0fRQAH4QErtM8vRnmN/UD5QCFLVlqnvHPYBF6Ui9UgomzQcnKi6Izjh6H5HahcV17gU4LZHQqn
-GUzibOHlcQsE8qf3rM8fPHOcyC+cnk8mBRaYLpPPC+AzcDue8EHNHK0BWfeX2h+53YCYVj1uZYzX
-g0/atRZHhnZ/C6XF0VJht//0Y3OUf27f3/Vr+goqdtxg
+/**
+ * This client is used to interact with the **Amazon WorkDocs** service.
+ * @method \Aws\Result abortDocumentVersionUpload(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise abortDocumentVersionUploadAsync(array $args = [])
+ * @method \Aws\Result activateUser(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise activateUserAsync(array $args = [])
+ * @method \Aws\Result addResourcePermissions(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise addResourcePermissionsAsync(array $args = [])
+ * @method \Aws\Result createComment(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createCommentAsync(array $args = [])
+ * @method \Aws\Result createCustomMetadata(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createCustomMetadataAsync(array $args = [])
+ * @method \Aws\Result createFolder(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createFolderAsync(array $args = [])
+ * @method \Aws\Result createLabels(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createLabelsAsync(array $args = [])
+ * @method \Aws\Result createNotificationSubscription(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createNotificationSubscriptionAsync(array $args = [])
+ * @method \Aws\Result createUser(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createUserAsync(array $args = [])
+ * @method \Aws\Result deactivateUser(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deactivateUserAsync(array $args = [])
+ * @method \Aws\Result deleteComment(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteCommentAsync(array $args = [])
+ * @method \Aws\Result deleteCustomMetadata(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteCustomMetadataAsync(array $args = [])
+ * @method \Aws\Result deleteDocument(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteDocumentAsync(array $args = [])
+ * @method \Aws\Result deleteFolder(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteFolderAsync(array $args = [])
+ * @method \Aws\Result deleteFolderContents(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteFolderContentsAsync(array $args = [])
+ * @method \Aws\Result deleteLabels(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteLabelsAsync(array $args = [])
+ * @method \Aws\Result deleteNotificationSubscription(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteNotificationSubscriptionAsync(array $args = [])
+ * @method \Aws\Result deleteUser(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteUserAsync(array $args = [])
+ * @method \Aws\Result describeActivities(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeActivitiesAsync(array $args = [])
+ * @method \Aws\Result describeComments(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeCommentsAsync(array $args = [])
+ * @method \Aws\Result describeDocumentVersions(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeDocumentVersionsAsync(array $args = [])
+ * @method \Aws\Result describeFolderContents(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeFolderContentsAsync(array $args = [])
+ * @method \Aws\Result describeGroups(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeGroupsAsync(array $args = [])
+ * @method \Aws\Result describeNotificationSubscriptions(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeNotificationSubscriptionsAsync(array $args = [])
+ * @method \Aws\Result describeResourcePermissions(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeResourcePermissionsAsync(array $args = [])
+ * @method \Aws\Result describeRootFolders(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeRootFoldersAsync(array $args = [])
+ * @method \Aws\Result describeUsers(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeUsersAsync(array $args = [])
+ * @method \Aws\Result getCurrentUser(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getCurrentUserAsync(array $args = [])
+ * @method \Aws\Result getDocument(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getDocumentAsync(array $args = [])
+ * @method \Aws\Result getDocumentPath(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getDocumentPathAsync(array $args = [])
+ * @method \Aws\Result getDocumentVersion(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getDocumentVersionAsync(array $args = [])
+ * @method \Aws\Result getFolder(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getFolderAsync(array $args = [])
+ * @method \Aws\Result getFolderPath(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getFolderPathAsync(array $args = [])
+ * @method \Aws\Result initiateDocumentVersionUpload(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise initiateDocumentVersionUploadAsync(array $args = [])
+ * @method \Aws\Result removeAllResourcePermissions(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise removeAllResourcePermissionsAsync(array $args = [])
+ * @method \Aws\Result removeResourcePermission(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise removeResourcePermissionAsync(array $args = [])
+ * @method \Aws\Result updateDocument(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateDocumentAsync(array $args = [])
+ * @method \Aws\Result updateDocumentVersion(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateDocumentVersionAsync(array $args = [])
+ * @method \Aws\Result updateFolder(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateFolderAsync(array $args = [])
+ * @method \Aws\Result updateUser(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateUserAsync(array $args = [])
+ */
+class WorkDocsClient extends AwsClient {}

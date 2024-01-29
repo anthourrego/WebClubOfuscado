@@ -1,162 +1,282 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-fWgl/zd3aaRUvj1Q0ub7RhEcSWzV
+/*
+ * This file is part of the Symfony package.
+ *
+ * (c) Fabien Potencier <fabien@symfony.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+namespace Symfony\Component\HttpKernel\HttpCache;
+
+use Symfony\Component\HttpFoundation\Request;
+use Symfony\Component\HttpFoundation\Response;
+use Symfony\Component\HttpKernel\HttpKernelInterface;
+
+/**
+ * Esi implements the ESI capabilities to Request and Response instances.
+ *
+ * For more information, read the following W3C notes:
+ *
+ *  * ESI Language Specification 1.0 (http://www.w3.org/TR/esi-lang)
+ *
+ *  * Edge Architecture Specification (http://www.w3.org/TR/edge-arch)
+ *
+ * @author Fabien Potencier <fabien@symfony.com>
+ */
+class Esi implements SurrogateInterface
+{
+    private $contentTypes;
+    private $phpEscapeMap = array(
+        array('<?', '<%', '<s', '<S'),
+        array('<?php echo "<?"; ?>', '<?php echo "<%"; ?>', '<?php echo "<s"; ?>', '<?php echo "<S"; ?>'),
+    );
+
+    /**
+     * @param array $contentTypes An array of content-type that should be parsed for ESI information
+     *                            (default: text/html, text/xml, application/xhtml+xml, and application/xml)
+     */
+    public function __construct(array $contentTypes = array('text/html', 'text/xml', 'application/xhtml+xml', 'application/xml'))
+    {
+        $this->contentTypes = $contentTypes;
+    }
+
+    public function getName()
+    {
+        return 'esi';
+    }
+
+    /**
+     * Returns a new cache strategy instance.
+     *
+     * @return ResponseCacheStrategyInterface A ResponseCacheStrategyInterface instance
+     */
+    public function createCacheStrategy()
+    {
+        return new ResponseCacheStrategy();
+    }
+
+    /**
+     * Checks that at least one surrogate has ESI/1.0 capability.
+     *
+     * @return bool true if one surrogate has ESI/1.0 capability, false otherwise
+     */
+    public function hasSurrogateCapability(Request $request)
+    {
+        if (null === $value = $request->headers->get('Surrogate-Capability')) {
+            return false;
+        }
+
+        return false !== strpos($value, 'ESI/1.0');
+    }
+
+    /**
+     * Checks that at least one surrogate has ESI/1.0 capability.
+     *
+     * @param Request $request A Request instance
+     *
+     * @return bool true if one surrogate has ESI/1.0 capability, false otherwise
+     *
+     * @deprecated since version 2.6, to be removed in 3.0. Use hasSurrogateCapability() instead
+     */
+    public function hasSurrogateEsiCapability(Request $request)
+    {
+        @trigger_error('The '.__METHOD__.' method is deprecated since Symfony 2.6 and will be removed in 3.0. Use the hasSurrogateCapability() method instead.', E_USER_DEPRECATED);
+
+        return $this->hasSurrogateCapability($request);
+    }
+
+    /**
+     * Adds ESI/1.0 capability to the given Request.
+     */
+    public function addSurrogateCapability(Request $request)
+    {
+        $current = $request->headers->get('Surrogate-Capability');
+        $new = 'symfony2="ESI/1.0"';
+
+        $request->headers->set('Surrogate-Capability', $current ? $current.', '.$new : $new);
+    }
+
+    /**
+     * Adds ESI/1.0 capability to the given Request.
+     *
+     * @param Request $request A Request instance
+     *
+     * @deprecated since version 2.6, to be removed in 3.0. Use addSurrogateCapability() instead
+     */
+    public function addSurrogateEsiCapability(Request $request)
+    {
+        @trigger_error('The '.__METHOD__.' method is deprecated since Symfony 2.6 and will be removed in 3.0. Use the addSurrogateCapability() method instead.', E_USER_DEPRECATED);
+
+        $this->addSurrogateCapability($request);
+    }
+
+    /**
+     * Adds HTTP headers to specify that the Response needs to be parsed for ESI.
+     *
+     * This method only adds an ESI HTTP header if the Response has some ESI tags.
+     */
+    public function addSurrogateControl(Response $response)
+    {
+        if (false !== strpos($response->getContent(), '<esi:include')) {
+            $response->headers->set('Surrogate-Control', 'content="ESI/1.0"');
+        }
+    }
+
+    /**
+     * Checks that the Response needs to be parsed for ESI tags.
+     *
+     * @return bool true if the Response needs to be parsed, false otherwise
+     */
+    public function needsParsing(Response $response)
+    {
+        if (!$control = $response->headers->get('Surrogate-Control')) {
+            return false;
+        }
+
+        return (bool) preg_match('#content="[^"]*ESI/1.0[^"]*"#', $control);
+    }
+
+    /**
+     * Checks that the Response needs to be parsed for ESI tags.
+     *
+     * @param Response $response A Response instance
+     *
+     * @return bool true if the Response needs to be parsed, false otherwise
+     *
+     * @deprecated since version 2.6, to be removed in 3.0. Use needsParsing() instead
+     */
+    public function needsEsiParsing(Response $response)
+    {
+        @trigger_error('The '.__METHOD__.' method is deprecated since Symfony 2.6 and will be removed in 3.0. Use the needsParsing() method instead.', E_USER_DEPRECATED);
+
+        return $this->needsParsing($response);
+    }
+
+    /**
+     * Renders an ESI tag.
+     *
+     * @param string $uri          A URI
+     * @param string $alt          An alternate URI
+     * @param bool   $ignoreErrors Whether to ignore errors or not
+     * @param string $comment      A comment to add as an esi:include tag
+     *
+     * @return string
+     */
+    public function renderIncludeTag($uri, $alt = null, $ignoreErrors = true, $comment = '')
+    {
+        $html = sprintf('<esi:include src="%s"%s%s />',
+            $uri,
+            $ignoreErrors ? ' onerror="continue"' : '',
+            $alt ? sprintf(' alt="%s"', $alt) : ''
+        );
+
+        if (!empty($comment)) {
+            return sprintf("<esi:comment text=\"%s\" />\n%s", $comment, $html);
+        }
+
+        return $html;
+    }
+
+    /**
+     * Replaces a Response ESI tags with the included resource content.
+     *
+     * @return Response
+     */
+    public function process(Request $request, Response $response)
+    {
+        $type = $response->headers->get('Content-Type');
+        if (empty($type)) {
+            $type = 'text/html';
+        }
+
+        $parts = explode(';', $type);
+        if (!in_array($parts[0], $this->contentTypes)) {
+            return $response;
+        }
+
+        // we don't use a proper XML parser here as we can have ESI tags in a plain text response
+        $content = $response->getContent();
+        $content = preg_replace('#<esi\:remove>.*?</esi\:remove>#s', '', $content);
+        $content = preg_replace('#<esi\:comment[^>]+>#s', '', $content);
+
+        $chunks = preg_split('#<esi\:include\s+(.*?)\s*(?:/|</esi\:include)>#', $content, -1, PREG_SPLIT_DELIM_CAPTURE);
+        $chunks[0] = str_replace($this->phpEscapeMap[0], $this->phpEscapeMap[1], $chunks[0]);
+
+        $i = 1;
+        while (isset($chunks[$i])) {
+            $options = array();
+            preg_match_all('/(src|onerror|alt)="([^"]*?)"/', $chunks[$i], $matches, PREG_SET_ORDER);
+            foreach ($matches as $set) {
+                $options[$set[1]] = $set[2];
+            }
+
+            if (!isset($options['src'])) {
+                throw new \RuntimeException('Unable to process an ESI tag without a "src" attribute.');
+            }
+
+            $chunks[$i] = sprintf('<?php echo $this->surrogate->handle($this, %s, %s, %s) ?>'."\n",
+                var_export($options['src'], true),
+                var_export(isset($options['alt']) ? $options['alt'] : '', true),
+                isset($options['onerror']) && 'continue' === $options['onerror'] ? 'true' : 'false'
+            );
+            ++$i;
+            $chunks[$i] = str_replace($this->phpEscapeMap[0], $this->phpEscapeMap[1], $chunks[$i]);
+            ++$i;
+        }
+        $content = implode('', $chunks);
+
+        $response->setContent($content);
+        $response->headers->set('X-Body-Eval', 'ESI');
+
+        // remove ESI/1.0 from the Surrogate-Control header
+        if ($response->headers->has('Surrogate-Control')) {
+            $value = $response->headers->get('Surrogate-Control');
+            if ('content="ESI/1.0"' == $value) {
+                $response->headers->remove('Surrogate-Control');
+            } elseif (preg_match('#,\s*content="ESI/1.0"#', $value)) {
+                $response->headers->set('Surrogate-Control', preg_replace('#,\s*content="ESI/1.0"#', '', $value));
+            } elseif (preg_match('#content="ESI/1.0",\s*#', $value)) {
+                $response->headers->set('Surrogate-Control', preg_replace('#content="ESI/1.0",\s*#', '', $value));
+            }
+        }
+    }
+
+    /**
+     * Handles an ESI from the cache.
+     *
+     * @param HttpCache $cache        An HttpCache instance
+     * @param string    $uri          The main URI
+     * @param string    $alt          An alternative URI
+     * @param bool      $ignoreErrors Whether to ignore errors or not
+     *
+     * @return string
+     *
+     * @throws \RuntimeException
+     * @throws \Exception
+     */
+    public function handle(HttpCache $cache, $uri, $alt, $ignoreErrors)
+    {
+        $subRequest = Request::create($uri, 'get', array(), $cache->getRequest()->cookies->all(), array(), $cache->getRequest()->server->all());
+
+        try {
+            $response = $cache->handle($subRequest, HttpKernelInterface::SUB_REQUEST, true);
+
+            if (!$response->isSuccessful()) {
+                throw new \RuntimeException(sprintf('Error when rendering "%s" (Status code is %s).', $subRequest->getUri(), $response->getStatusCode()));
+            }
+
+            return $response->getContent();
+        } catch (\Exception $e) {
+            if ($alt) {
+                return $this->handle($cache, $alt, '', $ignoreErrors);
+            }
+
+            if (!$ignoreErrors) {
+                throw $e;
+            }
+        }
+    }
+}

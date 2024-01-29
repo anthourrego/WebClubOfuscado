@@ -1,141 +1,375 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2017, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2017, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license	http://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 3.0.0
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
+/**
+ * CodeIgniter Session Memcached Driver
+ *
+ * @package	CodeIgniter
+ * @subpackage	Libraries
+ * @category	Sessions
+ * @author	Andrey Andreev
+ * @link	https://codeigniter.com/user_guide/libraries/sessions.html
+ */
+class CI_Session_memcached_driver extends CI_Session_driver implements SessionHandlerInterface {
+
+	/**
+	 * Memcached instance
+	 *
+	 * @var	Memcached
+	 */
+	protected $_memcached;
+
+	/**
+	 * Key prefix
+	 *
+	 * @var	string
+	 */
+	protected $_key_prefix = 'ci_session:';
+
+	/**
+	 * Lock key
+	 *
+	 * @var	string
+	 */
+	protected $_lock_key;
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Class constructor
+	 *
+	 * @param	array	$params	Configuration parameters
+	 * @return	void
+	 */
+	public function __construct(&$params)
+	{
+		parent::__construct($params);
+
+		if (empty($this->_config['save_path']))
+		{
+			log_message('error', 'Session: No Memcached save path configured.');
+		}
+
+		if ($this->_config['match_ip'] === TRUE)
+		{
+			$this->_key_prefix .= $_SERVER['REMOTE_ADDR'].':';
+		}
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Open
+	 *
+	 * Sanitizes save_path and initializes connections.
+	 *
+	 * @param	string	$save_path	Server path(s)
+	 * @param	string	$name		Session cookie name, unused
+	 * @return	bool
+	 */
+	public function open($save_path, $name)
+	{
+		$this->_memcached = new Memcached();
+		$this->_memcached->setOption(Memcached::OPT_BINARY_PROTOCOL, TRUE); // required for touch() usage
+		$server_list = array();
+		foreach ($this->_memcached->getServerList() as $server)
+		{
+			$server_list[] = $server['host'].':'.$server['port'];
+		}
+
+		if ( ! preg_match_all('#,?([^,:]+)\:(\d{1,5})(?:\:(\d+))?#', $this->_config['save_path'], $matches, PREG_SET_ORDER))
+		{
+			$this->_memcached = NULL;
+			log_message('error', 'Session: Invalid Memcached save path format: '.$this->_config['save_path']);
+			return $this->_fail();
+		}
+
+		foreach ($matches as $match)
+		{
+			// If Memcached already has this server (or if the port is invalid), skip it
+			if (in_array($match[1].':'.$match[2], $server_list, TRUE))
+			{
+				log_message('debug', 'Session: Memcached server pool already has '.$match[1].':'.$match[2]);
+				continue;
+			}
+
+			if ( ! $this->_memcached->addServer($match[1], $match[2], isset($match[3]) ? $match[3] : 0))
+			{
+				log_message('error', 'Could not add '.$match[1].':'.$match[2].' to Memcached server pool.');
+			}
+			else
+			{
+				$server_list[] = $match[1].':'.$match[2];
+			}
+		}
+
+		if (empty($server_list))
+		{
+			log_message('error', 'Session: Memcached server pool is empty.');
+			return $this->_fail();
+		}
+
+		return $this->_success;
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Read
+	 *
+	 * Reads session data and acquires a lock
+	 *
+	 * @param	string	$session_id	Session ID
+	 * @return	string	Serialized session data
+	 */
+	public function read($session_id)
+	{
+		if (isset($this->_memcached) && $this->_get_lock($session_id))
+		{
+			// Needed by write() to detect session_regenerate_id() calls
+			$this->_session_id = $session_id;
+
+			$session_data = (string) $this->_memcached->get($this->_key_prefix.$session_id);
+			$this->_fingerprint = md5($session_data);
+			return $session_data;
+		}
+
+		return $this->_fail();
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Write
+	 *
+	 * Writes (create / update) session data
+	 *
+	 * @param	string	$session_id	Session ID
+	 * @param	string	$session_data	Serialized session data
+	 * @return	bool
+	 */
+	public function write($session_id, $session_data)
+	{
+		if ( ! isset($this->_memcached, $this->_lock_key))
+		{
+			return $this->_fail();
+		}
+		// Was the ID regenerated?
+		elseif ($session_id !== $this->_session_id)
+		{
+			if ( ! $this->_release_lock() OR ! $this->_get_lock($session_id))
+			{
+				return $this->_fail();
+			}
+
+			$this->_fingerprint = md5('');
+			$this->_session_id = $session_id;
+		}
+
+		$key = $this->_key_prefix.$session_id;
+
+		$this->_memcached->replace($this->_lock_key, time(), 300);
+		if ($this->_fingerprint !== ($fingerprint = md5($session_data)))
+		{
+			if ($this->_memcached->set($key, $session_data, $this->_config['expiration']))
+			{
+				$this->_fingerprint = $fingerprint;
+				return $this->_success;
+			}
+
+			return $this->_fail();
+		}
+		elseif (
+			$this->_memcached->touch($key, $this->_config['expiration'])
+			OR ($this->_memcached->getResultCode() === Memcached::RES_NOTFOUND && $this->_memcached->set($key, $session_data, $this->_config['expiration']))
+		)
+		{
+			return $this->_success;
+		}
+
+		return $this->_fail();
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Close
+	 *
+	 * Releases locks and closes connection.
+	 *
+	 * @return	bool
+	 */
+	public function close()
+	{
+		if (isset($this->_memcached))
+		{
+			$this->_release_lock();
+			if ( ! $this->_memcached->quit())
+			{
+				return $this->_fail();
+			}
+
+			$this->_memcached = NULL;
+			return $this->_success;
+		}
+
+		return $this->_fail();
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Destroy
+	 *
+	 * Destroys the current session.
+	 *
+	 * @param	string	$session_id	Session ID
+	 * @return	bool
+	 */
+	public function destroy($session_id)
+	{
+		if (isset($this->_memcached, $this->_lock_key))
+		{
+			$this->_memcached->delete($this->_key_prefix.$session_id);
+			$this->_cookie_destroy();
+			return $this->_success;
+		}
+
+		return $this->_fail();
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Garbage Collector
+	 *
+	 * Deletes expired sessions
+	 *
+	 * @param	int 	$maxlifetime	Maximum lifetime of sessions
+	 * @return	bool
+	 */
+	public function gc($maxlifetime)
+	{
+		// Not necessary, Memcached takes care of that.
+		return $this->_success;
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Get lock
+	 *
+	 * Acquires an (emulated) lock.
+	 *
+	 * @param	string	$session_id	Session ID
+	 * @return	bool
+	 */
+	protected function _get_lock($session_id)
+	{
+		// PHP 7 reuses the SessionHandler object on regeneration,
+		// so we need to check here if the lock key is for the
+		// correct session ID.
+		if ($this->_lock_key === $this->_key_prefix.$session_id.':lock')
+		{
+			if ( ! $this->_memcached->replace($this->_lock_key, time(), 300))
+			{
+				return ($this->_memcached->getResultCode() === Memcached::RES_NOTFOUND)
+					? $this->_memcached->set($this->_lock_key, time(), 300)
+					: FALSE;
+			}
+		}
+
+		// 30 attempts to obtain a lock, in case another request already has it
+		$lock_key = $this->_key_prefix.$session_id.':lock';
+		$attempt = 0;
+		do
+		{
+			if ($this->_memcached->get($lock_key))
+			{
+				sleep(1);
+				continue;
+			}
+
+			if ( ! $this->_memcached->set($lock_key, time(), 300))
+			{
+				log_message('error', 'Session: Error while trying to obtain lock for '.$this->_key_prefix.$session_id);
+				return FALSE;
+			}
+
+			$this->_lock_key = $lock_key;
+			break;
+		}
+		while (++$attempt < 30);
+
+		if ($attempt === 30)
+		{
+			log_message('error', 'Session: Unable to obtain lock for '.$this->_key_prefix.$session_id.' after 30 attempts, aborting.');
+			return FALSE;
+		}
+
+		$this->_lock = TRUE;
+		return TRUE;
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Release lock
+	 *
+	 * Releases a previously acquired lock
+	 *
+	 * @return	bool
+	 */
+	protected function _release_lock()
+	{
+		if (isset($this->_memcached, $this->_lock_key) && $this->_lock)
+		{
+			if ( ! $this->_memcached->delete($this->_lock_key) && $this->_memcached->getResultCode() !== Memcached::RES_NOTFOUND)
+			{
+				log_message('error', 'Session: Error while trying to free lock for '.$this->_lock_key);
+				return FALSE;
+			}
+
+			$this->_lock_key = NULL;
+			$this->_lock = FALSE;
+		}
+
+		return TRUE;
+	}
+}

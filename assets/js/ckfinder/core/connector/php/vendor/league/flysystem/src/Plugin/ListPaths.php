@@ -1,75 +1,36 @@
-<?php //ICB0 56:0 71:c2e                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-HRiEhagxEE0==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+namespace League\Flysystem\Plugin;
 
-?>
-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
+class ListPaths extends AbstractPlugin
+{
+    /**
+     * Get the method name.
+     *
+     * @return string
+     */
+    public function getMethod()
+    {
+        return 'listPaths';
+    }
+
+    /**
+     * List all paths.
+     *
+     * @param string $directory
+     * @param bool   $recursive
+     *
+     * @return array paths
+     */
+    public function handle($directory = '', $recursive = false)
+    {
+        $result = [];
+        $contents = $this->filesystem->listContents($directory, $recursive);
+
+        foreach ($contents as $object) {
+            $result[] = $object['path'];
+        }
+
+        return $result;
+    }
+}

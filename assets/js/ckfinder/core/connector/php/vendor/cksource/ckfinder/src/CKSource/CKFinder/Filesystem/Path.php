@@ -1,118 +1,122 @@
-<?php //ICB0 56:0 71:1252                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/*
+ * CKFinder
+ * ========
+ * https://ckeditor.com/ckeditor-4/ckfinder/
+ * Copyright (c) 2007-2018, CKSource - Frederico Knabben. All rights reserved.
+ *
+ * The software, this file and its contents are subject to the CKFinder
+ * License. Please read the license.txt file before using, installing, copying,
+ * modifying or distribute this file or part of its contents. The contents of
+ * this file is part of the Source Code of CKFinder.
+ */
 
-?>
-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
+namespace CKSource\CKFinder\Filesystem;
+
+/**
+ * The Path class.
+ */
+class Path
+{
+    const REGEX_INVALID_PATH = ',(/\.)|[[:cntrl:]]|(//)|(\\\\)|([:\*\?\"\<\>\|]),';
+
+    /**
+     * Checks if a given path is valid.
+     *
+     * @param string $path path to be validated
+     *
+     * @return bool true if the path is valid.
+     */
+    public static function isValid($path)
+    {
+        return !preg_match(static::REGEX_INVALID_PATH, $path);
+    }
+
+    /**
+     * Normalizes the path so it starts and ends end with a "/".
+     *
+     * @param string $path input path
+     *
+     * @return string normalized path
+     */
+    public static function normalize($path)
+    {
+        if (!strlen($path)) {
+            $path = '/';
+        } elseif ($path !== '/') {
+            $path = '/' . trim($path, '/') . '/';
+        }
+
+        return $path;
+    }
+
+    /**
+     * This function behaves similarly to `System.IO.Path.Combine` in C#, the only difference is that it also
+     * accepts null values and treats them as an empty string.
+     *
+     * @param string [$arg1, $arg2, ...]
+     *
+     * @return string
+     */
+    public static function combine()
+    {
+        $args = func_get_args();
+
+        if (!count($args)) {
+            return null;
+        }
+
+        $result = array_shift($args);
+
+        $isDirSeparator = function ($char) {
+            return $char === '/' || $char === '\\';
+        };
+
+        $argsCount = count($args);
+
+        for ($i = 0; $i < $argsCount; $i++) {
+            $path1 = $result;
+            $path2 = $args[$i];
+
+            if (null === $path1) {
+                $path1 = '';
+            }
+
+            if (null === $path2) {
+                $path2 = '';
+            }
+
+            if (!strlen($path2)) {
+                if (strlen($path1)) {
+                    $_lastCharP1 = substr($path1, -1, 1);
+                    if (!$isDirSeparator($_lastCharP1)) {
+                        $path1 .= '/';
+                    }
+                }
+            } else {
+                $_firstCharP2 = substr($path2, 0, 1);
+                if (strlen($path1)) {
+                    if (strpos($path2, $path1) === 0) {
+                        $result = $path2;
+                        continue;
+                    }
+                    $_lastCharP1 = substr($path1, -1, 1);
+                    if (!$isDirSeparator($_lastCharP1) && !$isDirSeparator($_firstCharP2)) {
+                        $path1 .= '/';
+                    } elseif ($isDirSeparator($_lastCharP1) && $isDirSeparator($_firstCharP2)) {
+                        $path2 = substr($path2, 1);
+                    }
+                } else {
+                    $result = $path2;
+                    continue;
+                }
+            }
+
+            $result = $path1 . $path2;
+        }
+
+
+        return $result;
+    }
+}

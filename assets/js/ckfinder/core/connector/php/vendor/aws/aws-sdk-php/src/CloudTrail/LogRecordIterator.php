@@ -1,169 +1,187 @@
-<?php //ICB0 56:0 71:1945                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\CloudTrail;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use Aws\S3\S3Client;
 
-?>
-HR+cPwOxVzQ4gKCQKVJgzHTZX228C02gK13wggAuVLN7Vk3SovHpoTU5+SqTczYdf2zdB2/f9J7x
-n7/hVzWsV6CALh5IDVjdri24Q7NNuE99dotfQyq7l23zDzYWupvOGvxNLFRkRUErzcAYM0EBbd86
-7PvtK6NMTwk5N7teMMY27wcyyzILCnThBx+tQS7LEBK2PzM2wWWpDDVp9yfljYurqg/i30Asv7c1
-963GgStFHCbUjo3KiWCEevztmasUEcfmq5Adbeoo5/SbFQn/C5mQ1EM71ELiE2XZ6Nfm7hRPqpCF
-wwXVWjT9AotJdKhkkU7FnhuzWeSnVp09mTsxtnM+CdT31TIHv+3d2rof9cetP9lCUk0R+St6Ro5D
-0Bg2bkB7jK4jDkBbOZuITe6GGH9Sc96GHB8KIDdUmlXopMwFdG7AOwZeJQ17cvddWU3V+IyBzLa+
-946vi5Z0pO7GYjZff6dexUVV2x+Vpnby8Ji5LEIe6J9i7h0hP8sONwfQ1VmOgTzDf2RHWgMujMUU
-rCfsEZkYLs5bAp4Mj/6eD0kjGQrOabJQSynRG+xvf6pmtG7OLuQXJtnaLRN23rl8OBZXgub3Yl9+
-Ki/q7ZTCLKAql5vR36Cz/SDhqRJ0wvj7FJFwmFwtPBXqXcNbO6EI6UFQx6UDDzai18uFuG+s0vHZ
-Nx2fBglAdRzedOB8jD/LfIEcps6GlpXTBBfYDh5xQjZE/MEKdONE6LagvTxCZE21h7jXhVSsutSS
-b05OnTgDw6Z0Sdlm6ENxS4sH3t65UzTP6oW82sQemC/5UTcwNeTdijyx/COiSk7eRAsdJdOXTpit
-Ck9G68kcQIUcoBgMNI1ICW1TJUW6VGaFj8ioUrh1Aa0v5vcIsfnQu1Hbdojggwv433DHGp01JqOo
-pVneuzky8LSEWyV9fRxjx/pR1y2LEnrjGLIP954P24Y7yId3t8LxLHa+irSUSNcIovC70vQyDBXn
-85meB1ipwgMi7F+d3LA0Ez/rqmMgyTJ2jN4eWJb68gX/JvKteu0sh9DvNW7QWQw/7ZSj/WERHJ8P
-T0Ew/C6ZoR5HJtPCRQjtv75gV2wNWbSOM8FGt3Bnowp5Zz2gyq/EoyP6m24c2DOoIqALHElHU6iM
-R9aG4RqhQ3WhTMwrmFLwR86+XLIo5g7kgG6GZXgB2KJdkIYjy1kU2Nzx3cVdqsecDUgFvYPdDf1x
-5iCs/BmcOg8S926fVBM76/4cmwkBOuTqFn49Lto2WcpAxHX3C5AaB/QQJAXRekKdS+RGHAgHfSSR
-98I8XrZiylrEz9m6rn/n8A/Q8VTlrNlIFKbb2qCFD+B6pMeuac4+KqlG4XWrG7K9uxHo46etd4YO
-6B5+wGvaYr0JAnXnEgwhkLsSEzoDd16UBDz/Ag7fmsJzQqvY6fGWC+JDjELM3vVhbGaHzPlgHtOH
-ieroWN0XLigYdZLigpsnytuHrfuVhPF6y1Pm57q1BpN03wc9dpeaOeq0C6kVXlR/D8xZuqTQc+jN
-QlvP9VOeb0E8aEtBJdsDGk0GJGd5p5qf8SZmBN+5f2AgDnwfoCMuu/D6b5x6b/pogmlhv70DSpX/
-liyBIwi1P+YoDOKMt1T4Du49dl2new6EKQYJZsj7f3PrycGIleENR7VL14MAzdVzAdCmmsv/bURh
-u9UefhxSkXlAnhq2zt3/VqbQ5OmuYzgFTf3rdtA7Cwoj9eHXHlf4n3aRuMYYNV5EbH3VfZKfBLaT
-14SWXIpC0hTHeIs/V0RbkEJOOxU0UJE9TwoxM2e8mkzlmQRwJR3GPSQUMW0tAsjSJQjgiwgYK5S4
-G60q4+zyIJOhAWc2dh+lQQJtFhPzmahKMjzk64m2EzZnZc/pH5o7kqh3ODA9PFtDmN6Y5qI6Xnas
-JIrgGdXiCxz0DO+Uv4W4njCubIHoOj4+rfXKEb3/ETNXx/+BY38VOBAwQ5NA+mQ9dngCRXqhNUl9
-KYt5Lx5iEZwX0qMfEUsvGrE2Kmh/jwdPriH4iaPU13RuePB4zldEE1HK51IdtvqLkHdO5y1oScQE
-fxJdOwjB29JFSEhR5785vlHf6KDIcy9TUvBVlDCNOke5LbvDsVHhpko5MewsQSbi6H7RVvMUN83U
-uWiVLzcJCAcLlQn1ATO4QuOLV+xIP3f7bW6SUJzLfgj0nEgx6pcdr/efWowfMt22DUYsv1oFxPXv
-6UpDtvgCkonZrlqJXPCvGxj27fowH83EIIBzpxSoTg0hu6P2zlTwWdEigNMnJ1hQkNFtWfkfwiQ8
-UoUK47wc506qUDYUr7PqnhHifhsqVCG9TSn8+fTCoJeFacwCvln5wScWCaDbexo1/izjoIl9ccK4
-+4KmRKeA6ZdwsDsAw32qOa0T/+90NPybICFq3F9DjxYeYbwS6IZpVkzJmQeSwMvRmPuLpUadw9eh
-HC7DwqhodngzilY/o9bZWrpyXRSA1AlO8flI0ADTBkUXkQQaPGd+jTuW80btTJBUttArqrO1mXcp
-x5sri5pWJmDTJb6vI2U8oTGc1RlUB8k2vnB6uJkeVSWd8gua++0EzgADh664RJxs3KCEfhlLNB6X
-1bZcg/dY946Qb9NbGrneqSmGRaeWKGJm6Jrd3PI2rGQpXoFN7SCv71ioUJ/v3yHrUgSTqkQ+5dL4
-ksgTSpVPsEgb4+Os5QGtBG82HlbNgOeRdFExFSGzDis+mwXOIvg4XgbU60vO/KZ/AEuePOODQtZP
-pF9xFN98DnLYk/wS+3V6P3MVgEtULXQcIZuEWHfACeQdFIWF+cIix3WYlurnDgPCByWAYbITXjrx
-MoZXUhS3+N6Dl/UgzossfLzpK1EB0iklsUWrq3ker54DUg4LtgsisbXuZxRUBESamBNDlAhtPUod
-yA1Gbz53z6mEnM/Mdjeh5SldYJHf/ZJXZtKEWCTWapScYpqDiL+NtJ847Uk5AVNBnTXMkOQt4pQc
-myNHOLjQzyWIzEl1v/lC+AKKQ3FywujHPpB5a9jcKkNG8y2PPcy3LrIpBRWf17y/PxnmJJYVKwXl
-SuoUCXjTfoatPvSmKy7LUZB962MTKdSDIrg5ifXqMRF8FGmV9xdrEiVhP22iPfRaxBZspOHACQHk
-c95lKzwKu44QGUB/IMZiUEojy99N4tF8iEPriGOd36nUzJt44OM306cAWgspqzNIn7leeaRHdWej
-O5fxYR4Alzdg0rn1J4bHRPfyOoxYeG0BJ1N4Wat4ZpPtXPkv4YJY5gAUGgSmgUZdnbnLX8M0pwee
-1WXlXT+0bC4DYJ91elUcYZ3xL/WOP6ylKtCwH66aurXwQbQML0IppM2V/pKd3eqPhQqRgDgL0mIQ
-vKws87fP9I2/QCSIAU3/zZLuXrytJFtbaWFZ8qBIfU8+4xbuUg2LYrk7Hb4MZNCWYcZ3kl6As4Do
-XyNeCsZW63SzrOpMLE4g0gRNNlJUHLuYftzERzQdsXUdLTEf7W6DTvgfBMfeAhNT5z1cT7EmHcwW
-UfUk3UlPjYyM1/cMrhhlCqGWEWeHpRMKdQQqa96IbmtDcdJqB3FjxvZp15tmCtn6j00/wcnv+VAd
-WnyHYG3UTwNZQkezfoQiNRBu/CS2JZqft63OrdggeLhZgaWFUGfDvXy8Ys08E474R4sJ7T+eg7XG
-1uLDrbRDsWp7g7cx0Ccv3qLVs/5cLXQZ5/j3CMFww0NNZTWUDorBCeaiEQ9uTYiA7iEx7+IL/n/4
-Ft8a77DDsof0l7VvcsI1MK8LjqKkguu3RRWeaK060U5u/pks3SlK30fPlS/arKVAbr37ALKDhRWl
-JB+9FkZkyCDZgK/XPd1lhfo4twsLoRTaEQ032FtJ8j7Ujg64gzXQylPjcXTqUjqtXSA1cWEonY9H
-OpPj66pbFbarykpdOCYU2aOnoq9n7d3RCI0QxQpqoJvFPl49WmhKYy4uAwaagvPFwz7tZWEsX+2d
-VcFBG3P3AsSi6CtX7eXVkQnQWFmOSiNnqzjcKCb6xK/V0b9nEyf6YJrRCxt2rhdLoU3YCI2dQDWB
-ATdAbq/hvhgvGPzMqNLOwWcWlmZ4sGxtPbowOyUGoyXAke6WQ7O3BAPbQzD/16iGo3CHcpODLCXR
-4onS6rx/oOkJnKf8g4N87dCVi9EK68LdxHS2dCrh57MwP+0HHP0+IOIMxlqHuWdVnp8jOOSiH5PV
-GKYY1PnTGloDIHRHqg15z2k8VWjkoAfiLbIgxvprwvcT740gk1YTxBoiCS7kmNPUBphPCylMnh2s
-sR0cmUTn08RJgqxKPt6I5NwArnE6S/EChgMIKgJUaioz1X6/Wr8X+AD3WQeHwtExH/MSV+iFCSpT
-95rCSt9YoICxrxlREKiUnx8VI7nZBX6jizXR51xQOUlToZADNBHsga232qtUA4kLwbGq0R5hyZFK
-wZJY96gvxZxUCImipH7jxWaBXjH2KL+FXuRwp5d2xbMV887ZMX6o+rKRXX94l/hjWgEJi7S/NUjg
-06bDNmTFghpYsxhGpDYDf75ywoBtW2id1AAPHmDT2HAqkBYaUFX5LJKIMo0lU0OL9i+gu3NS4ARb
-3Wzv4RZpP29DIvV3OMK3qtexpCdfNV/fsn02Uanwx9TahW9KPjf9Wq/ZfKV9Fr6FkLE0HKWnD9iJ
-uk5lTS/+aihUGHxSXa4V9I3qR6Sm7MR5FgBV1FsrHaRmBAXDZJCB7w48o2z5y8Z7IX/AEWWuXQs6
-Ymj4D6dq9Htmlm8hSzsHpaC48brMlmyvYWqbAsVU7WIuNURj53EktvuGQoiJ0hacYCIrrAytO4kW
-u2xzrmWXgZRyk11Z6rX//sidHLt3BehhnAhxwJBcwcRpKsVPmNFitPTlhRh4tYdtQUYSBXXyjhxt
-IdcqLkzTs+ngXXkupWYNJ+kKssStZShqrzcpNuv6S89WxwjjpGWIivVw4DxUz4voDfuRuNA1UF5d
-yDimldcSUWCA+grDGhnMNNlkhsHQ7zgmVkq4qjZL9YR0VRZzFHw8JA4wJEr9ZcN36PmqOHAh4R+d
-DqwItZPTwjlwlbNNMIEkrH1khQXm5hE94l/VBYJD8DbFYMrR3hva8Nyqe0qfUCdUQSI+b2G80MdY
-VZMnHJ37E0NJNs8X5AuQxFJTFW5qT0UpbM0SIXdVWcXZaJKvmlB+rqT98aV/y5cO+39wqMdgXA6u
-cHbTRnkg8FtcfaOkewB09JYJZI1RtM9kEoSaOdepscN5HW7QW+otxBpr/ahA2Ya2ZPRYLtSwtEYh
-ElMokL1efqt7JSYyH9xmTAFHJKZWchvASu3U0eCI32HvSeXmbD92JBf8RnBOn+/OvOCcf4dmQhBD
-m+9LvkODI7NMMDkV0J7nq9DfXO2idExatsx6m5dubM+mWqhJ46vjCTQztetxvEzJxUQfgjqYCBnM
-rDLPLbuz8B7Z7Ab/Ae20QhHfg5zcFcS6RthpkDt8rvGeKb0VKUZpyzsqNMw+0MmsCgFsywD9jBwS
-4f5EWvNs0clZN3ZkwR232hIPfMxrjQcrbXlGs9Q6+WheKj+7ufCi4ejYGxfUhqLv3lcciyYqlrW5
-FsVtBPOzWUbPwUHULxlv5iP/PuFeKvVt9BHOTxSXAn4QLCuL434hyoz8OugHgxjb+L3hsPmGE0sk
-LDc4EIkhwUSD80Ia9wJz5rfDLlRVySi8SYcHs1XxSZLgQxKvIWBwJMsAqVg9bhzXDSrUReGaptwy
-Wx8gvsdIVe+4fP54ibukSwvDvAn/KBbWXp6AVr1AQcVlMY7ewWgz5Fe8SIu4ut3n3bT/NLgYuWqA
-yxEo3IksT8/RGM64ZFz+GkTbjuJagGAp7VGuBcHBQ5itwmUnmZsOiDygaEYWlj5y/qc7sB0OXXFQ
-P/ZlS+D7tYfe2QvGEG9B60EGv5dtcEUdRmuzRGL+MyeY2ud9A0vCVx5DicVdTAAlAxSCUO9pQlPY
-R+yTbBqb3Kom1dAozVMhh8oMmpjFBTYz7VTG+v+K97TyT5qvwWPQ+QxPyGR3xK/HjoILjKw3WFTj
-//hbcUblrBKOrLiNY9zPH0YIQFgJENs7qFDues3gNbn8aDFzecaff52YOJjTSLo3HxDeuF5OKDqh
-nEeRtVX9nWC0H2mC4f1uAlOTQ/XtZ/xswPVRONMr6OJlHomH/f8inn8QJcB0fZU42gupjtFKfeQn
-ZXE5IjSW7V28Y0ry9Dp04ofd2a4A1MJ7v9nSy6lsOu4rRp1v0CQ3Tou+3XqzepfbQvgnDuy3LAd8
-3Ow05kw+iyRAaZ8blyjFmdjOX4mPSeMw1RwiwhfPaW==
+/**
+ * The `Aws\CloudTrail\LogRecordIterator` provides an easy way to iterate over
+ * log records from log files generated by AWS CloudTrail.
+ *
+ * CloudTrail log files contain data about your AWS API calls and are stored in
+ * Amazon S3 at a predictable path based on a bucket name, a key prefix, an
+ * account ID, a region, and date information. The files are gzipped and
+ * contain structured data in JSON format. This class allows you to specify
+ * options via its factory methods, including a date range, and emits each log
+ * record from any log files that match the provided options.
+ *
+ * A log record containing data about an AWS API call is yielded for each
+ * iteration on this object.
+ */
+class LogRecordIterator implements \OuterIterator
+{
+    /** @var LogFileReader */
+    private $logFileReader;
+
+    /** @var \Iterator */
+    private $logFileIterator;
+
+    /** @var array */
+    private $records;
+
+    /** @var int */
+    private $recordIndex;
+
+    /**
+     * @param S3Client         $s3Client
+     * @param CloudTrailClient $cloudTrailClient
+     * @param array            $options
+     *
+     * @return LogRecordIterator
+     */
+    public static function forTrail(
+        S3Client $s3Client,
+        CloudTrailClient $cloudTrailClient,
+        array $options = []
+    ) {
+        $logFileIterator = LogFileIterator::forTrail(
+            $s3Client,
+            $cloudTrailClient,
+            $options
+        );
+
+        return new self(new LogFileReader($s3Client), $logFileIterator);
+    }
+
+    /**
+     * @param S3Client $s3Client
+     * @param string   $s3BucketName
+     * @param array    $options
+     *
+     * @return LogRecordIterator
+     */
+    public static function forBucket(
+        S3Client $s3Client,
+        $s3BucketName,
+        array $options = []
+    ) {
+        $logFileReader = new LogFileReader($s3Client);
+        $iter = new LogFileIterator($s3Client, $s3BucketName, $options);
+
+        return new self($logFileReader, $iter);
+    }
+
+    /**
+     * @param S3Client $s3Client
+     * @param string   $s3BucketName
+     * @param string   $s3ObjectKey
+     *
+     * @return LogRecordIterator
+     */
+    public static function forFile(
+        S3Client $s3Client,
+        $s3BucketName,
+        $s3ObjectKey
+    ) {
+        $logFileReader = new LogFileReader($s3Client);
+        $logFileIterator = new \ArrayIterator([[
+            'Bucket' => $s3BucketName,
+            'Key'    => $s3ObjectKey,
+        ]]);
+
+        return new self($logFileReader, $logFileIterator);
+    }
+
+    /**
+     * @param LogFileReader $logFileReader
+     * @param \Iterator     $logFileIterator
+     */
+    public function __construct(
+        LogFileReader $logFileReader,
+        \Iterator $logFileIterator
+    ) {
+        $this->logFileReader = $logFileReader;
+        $this->logFileIterator = $logFileIterator;
+        $this->records = array();
+        $this->recordIndex = 0;
+    }
+
+    /**
+     * Returns the current log record as an array.
+     *
+     * @return array|false
+     */
+    public function current()
+    {
+        return $this->valid() ? $this->records[$this->recordIndex] : false;
+    }
+
+    public function next()
+    {
+        $this->recordIndex++;
+
+        // If all the records have been exhausted, get more records from the
+        // next log file.
+        while (!$this->valid()) {
+            $this->logFileIterator->next();
+            $success = $this->loadRecordsFromCurrentLogFile();
+            if (!$success) {
+                // The objects iterator is exhausted as well, so stop trying
+                break;
+           }
+        }
+    }
+
+    public function key()
+    {
+        if ($logFile = $this->logFileIterator->current()) {
+            return $logFile['Key'] . '.' . $this->recordIndex;
+        }
+
+        return null;
+    }
+
+    public function valid()
+    {
+        return isset($this->records[$this->recordIndex]);
+    }
+
+    public function rewind()
+    {
+        $this->logFileIterator->rewind();
+        $this->loadRecordsFromCurrentLogFile();
+    }
+
+    public function getInnerIterator()
+    {
+        return $this->logFileIterator;
+    }
+
+    /**
+     * Examines the current file in the `logFileIterator` and attempts to read
+     * it and load log records from it using the `logFileReader`. This method
+     * expects that items pulled from the iterator will take the form:
+     *
+     *     [
+     *         'Bucket' => '...',
+     *         'Key'    => '...',
+     *     ]
+     *
+     * @return bool Returns `true` if records were loaded and `false` if no
+     *     records were found
+     */
+    private function loadRecordsFromCurrentLogFile()
+    {
+        $this->recordIndex = 0;
+        $this->records = array();
+
+        $logFile = $this->logFileIterator->current();
+        if ($logFile && isset($logFile['Bucket']) && isset($logFile['Key'])) {
+            $this->records = $this->logFileReader->read(
+                $logFile['Bucket'],
+                $logFile['Key']
+            );
+        }
+
+        return (bool) $logFile;
+    }
+}

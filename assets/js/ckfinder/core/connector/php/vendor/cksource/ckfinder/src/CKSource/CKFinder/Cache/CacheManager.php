@@ -1,94 +1,132 @@
-<?php //ICB0 56:0 71:f70                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/*
+ * CKFinder
+ * ========
+ * https://ckeditor.com/ckeditor-4/ckfinder/
+ * Copyright (c) 2007-2018, CKSource - Frederico Knabben. All rights reserved.
+ *
+ * The software, this file and its contents are subject to the CKFinder
+ * License. Please read the license.txt file before using, installing, copying,
+ * modifying or distribute this file or part of its contents. The contents of
+ * this file is part of the Source Code of CKFinder.
+ */
 
-?>
-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
+namespace CKSource\CKFinder\Cache;
+
+use CKSource\CKFinder\Cache\Adapter\AdapterInterface;
+
+/**
+ * The CacheManager class.
+ */
+class CacheManager
+{
+    /**
+     * @var AdapterInterface
+     */
+    protected $adapter;
+
+    /**
+     * Constructor.
+     *
+     * @param AdapterInterface $adapter
+     */
+    public function __construct(AdapterInterface $adapter)
+    {
+        $this->adapter = $adapter;
+    }
+
+    /**
+     * Sets the value in cache for a given key.
+     *
+     * @param string $key
+     * @param mixed  $value
+     *
+     * @return bool `true` if successful.
+     */
+    public function set($key, $value)
+    {
+        return $this->adapter->set($key, $value);
+    }
+
+    /**
+     * Returns the value for a given key from cache.
+     *
+     * @param string $key
+     *
+     * @return array
+     */
+    public function get($key)
+    {
+        return $this->adapter->get($key);
+    }
+
+    /**
+     * Deletes the value under a given key from cache.
+     *
+     * @param string $key
+     *
+     * @return bool `true` if successful.
+     */
+    public function delete($key)
+    {
+        return $this->adapter->delete($key);
+    }
+
+    /**
+     * Copies the value for a given key to another key.
+     *
+     * @param string $sourceKey
+     * @param string $targetKey
+     *
+     * @return bool `true` if successful.
+     */
+    public function copy($sourceKey, $targetKey)
+    {
+        $value = $this->adapter->get($sourceKey);
+
+        if (null === $value) {
+            return false;
+        }
+
+        return $this->adapter->set($targetKey, $value);
+    }
+
+    /**
+     * Moves the value for a given key to another key.
+     *
+     * @param string $sourceKey
+     * @param string $targetKey
+     *
+     * @return bool `true` if successful.
+     */
+    public function move($sourceKey, $targetKey)
+    {
+        return $this->copy($sourceKey, $targetKey) && $this->delete($sourceKey);
+    }
+
+    /**
+     * Deletes all cache entries with a given key prefix.
+     *
+     * @param string $keyPrefix
+     *
+     * @return bool `true` if successful.
+     */
+    public function deleteByPrefix($keyPrefix)
+    {
+        return $this->adapter->deleteByPrefix($keyPrefix);
+    }
+
+    /**
+     * Changes the prefix for all entries given a key prefix.
+     *
+     * @param string $sourcePrefix
+     * @param string $targetPrefix
+     *
+     * @return bool `true` if successful.
+     */
+    public function changePrefix($sourcePrefix, $targetPrefix)
+    {
+        return $this->adapter->changePrefix($sourcePrefix, $targetPrefix);
+    }
+}

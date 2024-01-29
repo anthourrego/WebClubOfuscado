@@ -1,69 +1,58 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2017, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2017, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license	http://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 1.0.0
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
+$lang['email_must_be_array'] = 'The email validation method must be passed an array.';
+$lang['email_invalid_address'] = 'Invalid email address: %s';
+$lang['email_attachment_missing'] = 'Unable to locate the following email attachment: %s';
+$lang['email_attachment_unreadable'] = 'Unable to open this attachment: %s';
+$lang['email_no_from'] = 'Cannot send mail with no "From" header.';
+$lang['email_no_recipients'] = 'You must include recipients: To, Cc, or Bcc';
+$lang['email_send_failure_phpmail'] = 'Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.';
+$lang['email_send_failure_sendmail'] = 'Unable to send email using PHP Sendmail. Your server might not be configured to send mail using this method.';
+$lang['email_send_failure_smtp'] = 'Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.';
+$lang['email_sent'] = 'Your message has been successfully sent using the following protocol: %s';
+$lang['email_no_socket'] = 'Unable to open a socket to Sendmail. Please check settings.';
+$lang['email_no_hostname'] = 'You did not specify a SMTP hostname.';
+$lang['email_smtp_error'] = 'The following SMTP error was encountered: %s';
+$lang['email_no_smtp_unpw'] = 'Error: You must assign a SMTP username and password.';
+$lang['email_failed_smtp_login'] = 'Failed to send AUTH LOGIN command. Error: %s';
+$lang['email_smtp_auth_un'] = 'Failed to authenticate username. Error: %s';
+$lang['email_smtp_auth_pw'] = 'Failed to authenticate password. Error: %s';
+$lang['email_smtp_data_failure'] = 'Unable to send data: %s';
+$lang['email_exit_status'] = 'Exit status code: %s';

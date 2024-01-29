@@ -1,174 +1,208 @@
-<?php //ICB0 56:0 71:1b58                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\Exception;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use Psr\Http\Message\ResponseInterface;
+use Psr\Http\Message\RequestInterface;
+use Aws\CommandInterface;
+use Aws\ResultInterface;
 
-?>
-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
+/**
+ * Represents an AWS exception that is thrown when a command fails.
+ */
+class AwsException extends \RuntimeException
+{
+    /** @var ResponseInterface */
+    private $response;
+    private $request;
+    private $result;
+    private $command;
+    private $requestId;
+    private $errorType;
+    private $errorCode;
+    private $connectionError;
+    private $transferInfo;
+    private $errorMessage;
+
+    /**
+     * @param string           $message Exception message
+     * @param CommandInterface $command
+     * @param array            $context Exception context
+     * @param \Exception       $previous  Previous exception (if any)
+     */
+    public function __construct(
+        $message,
+        CommandInterface $command,
+        array $context = [],
+        \Exception $previous = null
+    ) {
+        $this->command = $command;
+        $this->response = isset($context['response']) ? $context['response'] : null;
+        $this->request = isset($context['request']) ? $context['request'] : null;
+        $this->requestId = isset($context['request_id'])
+            ? $context['request_id']
+            : null;
+        $this->errorType = isset($context['type']) ? $context['type'] : null;
+        $this->errorCode = isset($context['code']) ? $context['code'] : null;
+        $this->connectionError = !empty($context['connection_error']);
+        $this->result = isset($context['result']) ? $context['result'] : null;
+        $this->transferInfo = isset($context['transfer_stats'])
+            ? $context['transfer_stats']
+            : [];
+        $this->errorMessage = isset($context['message'])
+            ? $context['message']
+            : null;
+        parent::__construct($message, 0, $previous);
+    }
+
+    public function __toString()
+    {
+        if (!$this->getPrevious()) {
+            return parent::__toString();
+        }
+
+        // PHP strangely shows the innermost exception first before the outer
+        // exception message. It also has a default character limit for
+        // exception message strings such that the "next" exception (this one)
+        // might not even get shown, causing developers to attempt to catch
+        // the inner exception instead of the actual exception because they
+        // can't see the outer exception's __toString output.
+        return sprintf(
+            "exception '%s' with message '%s'\n\n%s",
+            get_class($this),
+            $this->getMessage(),
+            parent::__toString()
+        );
+    }
+
+    /**
+     * Get the command that was executed.
+     *
+     * @return CommandInterface
+     */
+    public function getCommand()
+    {
+        return $this->command;
+    }
+
+    /**
+     * Get the concise error message if any.
+     *
+     * @return string|null
+     */
+    public function getAwsErrorMessage()
+    {
+        return $this->errorMessage;
+    }
+
+    /**
+     * Get the sent HTTP request if any.
+     *
+     * @return RequestInterface|null
+     */
+    public function getRequest()
+    {
+        return $this->request;
+    }
+
+    /**
+     * Get the received HTTP response if any.
+     *
+     * @return ResponseInterface|null
+     */
+    public function getResponse()
+    {
+        return $this->response;
+    }
+
+    /**
+     * Get the result of the exception if available
+     *
+     * @return ResultInterface|null
+     */
+    public function getResult()
+    {
+        return $this->result;
+    }
+
+    /**
+     * Returns true if this is a connection error.
+     *
+     * @return bool
+     */
+    public function isConnectionError()
+    {
+        return $this->connectionError;
+    }
+
+    /**
+     * If available, gets the HTTP status code of the corresponding response
+     *
+     * @return int|null
+     */
+    public function getStatusCode()
+    {
+        return $this->response ? $this->response->getStatusCode() : null;
+    }
+
+    /**
+     * Get the request ID of the error. This value is only present if a
+     * response was received and is not present in the event of a networking
+     * error.
+     *
+     * @return string|null Returns null if no response was received
+     */
+    public function getAwsRequestId()
+    {
+        return $this->requestId;
+    }
+
+    /**
+     * Get the AWS error type.
+     *
+     * @return string|null Returns null if no response was received
+     */
+    public function getAwsErrorType()
+    {
+        return $this->errorType;
+    }
+
+    /**
+     * Get the AWS error code.
+     *
+     * @return string|null Returns null if no response was received
+     */
+    public function getAwsErrorCode()
+    {
+        return $this->errorCode;
+    }
+
+    /**
+     * Get all transfer information as an associative array if no $name
+     * argument is supplied, or gets a specific transfer statistic if
+     * a $name attribute is supplied (e.g., 'retries_attempted').
+     *
+     * @param string $name Name of the transfer stat to retrieve
+     *
+     * @return mixed|null|array
+     */
+    public function getTransferInfo($name = null)
+    {
+        if (!$name) {
+            return $this->transferInfo;
+        }
+
+        return isset($this->transferInfo[$name])
+            ? $this->transferInfo[$name]
+            : null;
+    }
+
+    /**
+     * Replace the transfer information associated with an exception.
+     *
+     * @param array $info
+     */
+    public function setTransferInfo(array $info)
+    {
+        $this->transferInfo = $info;
+    }
+}

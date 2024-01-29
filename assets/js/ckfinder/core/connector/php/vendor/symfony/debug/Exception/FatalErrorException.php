@@ -1,61 +1,99 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-+5wXSL+6V0==
+/*
+ * This file is part of the Symfony package.
+ *
+ * (c) Fabien Potencier <fabien@symfony.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+namespace Symfony\Component\HttpKernel\Exception;
+
+/**
+ * Fatal Error Exception.
+ *
+ * @author Fabien Potencier <fabien@symfony.com>
+ * @author Konstanton Myakshin <koc-dp@yandex.ru>
+ * @author Nicolas Grekas <p@tchwork.com>
+ *
+ * @deprecated Deprecated in 2.3, to be removed in 3.0. Use the same class from the Debug component instead.
+ */
+class FatalErrorException extends \ErrorException
+{
+}
+
+namespace Symfony\Component\Debug\Exception;
+
+use Symfony\Component\HttpKernel\Exception\FatalErrorException as LegacyFatalErrorException;
+
+/**
+ * Fatal Error Exception.
+ *
+ * @author Konstanton Myakshin <koc-dp@yandex.ru>
+ */
+class FatalErrorException extends LegacyFatalErrorException
+{
+    public function __construct($message, $code, $severity, $filename, $lineno, $traceOffset = null, $traceArgs = true, array $trace = null, $previous = null)
+    {
+        parent::__construct($message, $code, $severity, $filename, $lineno, $previous);
+
+        if (null !== $trace) {
+            if (!$traceArgs) {
+                foreach ($trace as &$frame) {
+                    unset($frame['args'], $frame['this'], $frame);
+                }
+            }
+
+            $this->setTrace($trace);
+        } elseif (null !== $traceOffset) {
+            if (function_exists('xdebug_get_function_stack')) {
+                $trace = xdebug_get_function_stack();
+                if (0 < $traceOffset) {
+                    array_splice($trace, -$traceOffset);
+                }
+
+                foreach ($trace as &$frame) {
+                    if (!isset($frame['type'])) {
+                        // XDebug pre 2.1.1 doesn't currently set the call type key http://bugs.xdebug.org/view.php?id=695
+                        if (isset($frame['class'])) {
+                            $frame['type'] = '::';
+                        }
+                    } elseif ('dynamic' === $frame['type']) {
+                        $frame['type'] = '->';
+                    } elseif ('static' === $frame['type']) {
+                        $frame['type'] = '::';
+                    }
+
+                    // XDebug also has a different name for the parameters array
+                    if (!$traceArgs) {
+                        unset($frame['params'], $frame['args']);
+                    } elseif (isset($frame['params']) && !isset($frame['args'])) {
+                        $frame['args'] = $frame['params'];
+                        unset($frame['params']);
+                    }
+                }
+
+                unset($frame);
+                $trace = array_reverse($trace);
+            } elseif (function_exists('symfony_debug_backtrace')) {
+                $trace = symfony_debug_backtrace();
+                if (0 < $traceOffset) {
+                    array_splice($trace, 0, $traceOffset);
+                }
+            } else {
+                $trace = array();
+            }
+
+            $this->setTrace($trace);
+        }
+    }
+
+    protected function setTrace($trace)
+    {
+        $traceReflector = new \ReflectionProperty('Exception', 'trace');
+        $traceReflector->setAccessible(true);
+        $traceReflector->setValue($this, $trace);
+    }
+}

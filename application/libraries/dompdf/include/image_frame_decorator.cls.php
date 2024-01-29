@@ -1,112 +1,80 @@
-<?php //ICB0 56:0 71:1116                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+/**
+ * @package dompdf
+ * @link    http://dompdf.github.com/
+ * @author  Benj Carson <benjcarson@digitaljunkies.ca>
+ * @author  Fabien Ménager <fabien.menager@gmail.com>
+ * @license http://www.gnu.org/copyleft/lesser.html GNU Lesser General Public License
+ */
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-NXJvxiQh4K0LdhWtJk8/9rzkZW7qEALaZazs=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * Decorates frames for image layout and rendering
+ *
+ * @access private
+ * @package dompdf
+ */
+class Image_Frame_Decorator extends Frame_Decorator {
 
-?>
-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
-LBABFa2r0R3BUOUOtMPkEFohKsK0nW==
+  /**
+   * The path to the image file (note that remote images are
+   * downloaded locally to DOMPDF_TEMP_DIR).
+   *
+   * @var string
+   */
+  protected $_image_url;
+  
+  /**
+   * The image's file error message
+   *
+   * @var string
+   */
+  protected $_image_msg;
+
+  /**
+   * Class constructor
+   *
+   * @param Frame $frame the frame to decorate
+   * @param DOMPDF $dompdf the document's dompdf object (required to resolve relative & remote urls)
+   */
+  function __construct(Frame $frame, DOMPDF $dompdf) {
+    parent::__construct($frame, $dompdf);
+    $url = $frame->get_node()->getAttribute("src");
+
+    $debug_png = $dompdf->get_option("debug_png");
+    if ($debug_png) print '[__construct '.$url.']';
+
+    list($this->_image_url, /*$type*/, $this->_image_msg) = Image_Cache::resolve_url(
+      $url,
+      $dompdf->get_protocol(),
+      $dompdf->get_host(),
+      $dompdf->get_base_path(),
+      $dompdf
+    );
+
+    if ( Image_Cache::is_broken($this->_image_url) &&
+         $alt = $frame->get_node()->getAttribute("alt") ) {
+      $style = $frame->get_style();
+      $style->width  = (4/3)*Font_Metrics::get_text_width($alt, $style->font_family, $style->font_size, $style->word_spacing);
+      $style->height = Font_Metrics::get_font_height($style->font_family, $style->font_size);
+    }
+  }
+
+  /**
+   * Return the image's url
+   *
+   * @return string The url of this image
+   */
+  function get_image_url() {
+    return $this->_image_url;
+  }
+
+  /**
+   * Return the image's error message
+   *
+   * @return string The image's error message
+   */
+  function get_image_msg() {
+    return $this->_image_msg;
+  }
+  
+}

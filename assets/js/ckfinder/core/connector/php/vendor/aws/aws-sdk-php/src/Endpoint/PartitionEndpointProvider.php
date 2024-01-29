@@ -1,109 +1,77 @@
-<?php //ICB0 56:0 71:10f6                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\Endpoint;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-Wj1Q=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+class PartitionEndpointProvider
+{
+    /** @var Partition[] */
+    private $partitions;
+    /** @var string */
+    private $defaultPartition;
 
-?>
-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
-EkZMQRD6BFkv4IBEfC3sIX8=
+    public function __construct(array $partitions, $defaultPartition = 'aws')
+    {
+        $this->partitions = array_map(function (array $definition) {
+            return new Partition($definition);
+        }, array_values($partitions));
+        $this->defaultPartition = $defaultPartition;
+    }
+
+    public function __invoke(array $args = [])
+    {
+        $partition = $this->getPartition(
+            isset($args['region']) ? $args['region'] : '',
+            isset($args['service']) ? $args['service'] : ''
+        );
+
+        return $partition($args);
+    }
+
+    /**
+     * Returns the partition containing the provided region or the default
+     * partition if no match is found.
+     *
+     * @param string $region
+     * @param string $service
+     *
+     * @return Partition
+     */
+    public function getPartition($region, $service)
+    {
+        foreach ($this->partitions as $partition) {
+            if ($partition->isRegionMatch($region, $service)) {
+                return $partition;
+            }
+        }
+
+        return $this->getPartitionByName($this->defaultPartition);
+    }
+
+    /**
+     * Returns the partition with the provided name or null if no partition with
+     * the provided name can be found.
+     *
+     * @param string $name
+     * 
+     * @return Partition|null
+     */
+    public function getPartitionByName($name)
+    {
+        foreach ($this->partitions as $partition) {
+            if ($name === $partition->getName()) {
+                return $partition;
+            }
+        }
+    }
+
+    /**
+     * Creates and returns the default SDK partition provider.
+     *
+     * @return PartitionEndpointProvider
+     */
+    public static function defaultProvider()
+    {
+        $data = \Aws\load_compiled_json(__DIR__ . '/../data/endpoints.json');
+
+        return new self($data['partitions']);
+    }
+}

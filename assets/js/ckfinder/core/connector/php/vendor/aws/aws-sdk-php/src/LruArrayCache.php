@@ -1,119 +1,79 @@
-<?php //ICB0 56:0 71:121d                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * Simple in-memory LRU cache that limits the number of cached entries.
+ *
+ * The LRU cache is implemented using PHP's ordered associative array. When
+ * accessing an element, the element is removed from the hash and re-added to
+ * ensure that recently used items are always at the end of the list while
+ * least recently used are at the beginning. When a value is added to the
+ * cache, if the number of cached items exceeds the allowed number, the first
+ * N number of items are removed from the array.
+ */
+class LruArrayCache implements CacheInterface, \Countable
+{
+    /** @var int */
+    private $maxItems;
 
-?>
-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
-YRpjl3wh
+    /** @var array */
+    private $items = array();
+
+    /**
+     * @param int $maxItems Maximum number of allowed cache items.
+     */
+    public function __construct($maxItems = 1000)
+    {
+        $this->maxItems = $maxItems;
+    }
+
+    public function get($key)
+    {
+        if (!isset($this->items[$key])) {
+            return null;
+        }
+
+        $entry = $this->items[$key];
+
+        // Ensure the item is not expired.
+        if (!$entry[1] || time() < $entry[1]) {
+            // LRU: remove the item and push it to the end of the array.
+            unset($this->items[$key]);
+            $this->items[$key] = $entry;
+            return $entry[0];
+        }
+
+        unset($this->items[$key]);
+        return null;
+    }
+
+    public function set($key, $value, $ttl = 0)
+    {
+        // Only call time() if the TTL is not 0/false/null
+        $ttl = $ttl ? time() + $ttl : 0;
+        $this->items[$key] = [$value, $ttl];
+
+        // Determine if there are more items in the cache than allowed.
+        $diff = count($this->items) - $this->maxItems;
+
+        // Clear out least recently used items.
+        if ($diff > 0) {
+            // Reset to the beginning of the array and begin unsetting.
+            reset($this->items);
+            for ($i = 0; $i < $diff; $i++) {
+                unset($this->items[key($this->items)]);
+                next($this->items);
+            }
+        }
+    }
+
+    public function remove($key)
+    {
+        unset($this->items[$key]);
+    }
+
+    public function count()
+    {
+        return count($this->items);
+    }
+}

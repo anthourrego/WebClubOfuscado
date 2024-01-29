@@ -1,115 +1,67 @@
-<?php //ICB0 56:0 71:11dd                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\Api;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-t6n+=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * Base class that is used by most API shapes
+ */
+abstract class AbstractModel implements \ArrayAccess
+{
+    /** @var array */
+    protected $definition;
 
-?>
-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
-z7RRKilJZtQoMJ+czs5azzgz6i8HiZDQBMm=
+    /** @var ShapeMap */
+    protected $shapeMap;
+
+    /**
+     * @param array    $definition Service description
+     * @param ShapeMap $shapeMap   Shapemap used for creating shapes
+     */
+    public function __construct(array $definition, ShapeMap $shapeMap)
+    {
+        $this->definition = $definition;
+        $this->shapeMap = $shapeMap;
+    }
+
+    public function toArray()
+    {
+        return $this->definition;
+    }
+
+    public function offsetGet($offset)
+    {
+        return isset($this->definition[$offset])
+            ? $this->definition[$offset] : null;
+    }
+
+    public function offsetSet($offset, $value)
+    {
+        $this->definition[$offset] = $value;
+    }
+
+    public function offsetExists($offset)
+    {
+        return isset($this->definition[$offset]);
+    }
+
+    public function offsetUnset($offset)
+    {
+        unset($this->definition[$offset]);
+    }
+
+    protected function shapeAt($key)
+    {
+        if (!isset($this->definition[$key])) {
+            throw new \InvalidArgumentException('Expected shape definition at '
+                . $key);
+        }
+
+        return $this->shapeFor($this->definition[$key]);
+    }
+
+    protected function shapeFor(array $definition)
+    {
+        return isset($definition['shape'])
+            ? $this->shapeMap->resolve($definition)
+            : Shape::create($definition, $this->shapeMap);
+    }
+}

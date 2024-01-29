@@ -1,66 +1,137 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
+/*
+ * This file is part of the Symfony package.
+ *
+ * (c) Fabien Potencier <fabien@symfony.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+namespace Symfony\Component\HttpFoundation;
+
+/**
+ * StreamedResponse represents a streamed HTTP response.
+ *
+ * A StreamedResponse uses a callback for its content.
+ *
+ * The callback should use the standard PHP functions like echo
+ * to stream the response back to the client. The flush() method
+ * can also be used if needed.
+ *
+ * @see flush()
+ *
+ * @author Fabien Potencier <fabien@symfony.com>
+ */
+class StreamedResponse extends Response
+{
+    protected $callback;
+    protected $streamed;
+    private $headersSent;
+
+    /**
+     * @param callable|null $callback A valid PHP callback or null to set it later
+     * @param int           $status   The response status code
+     * @param array         $headers  An array of response headers
+     */
+    public function __construct($callback = null, $status = 200, $headers = array())
+    {
+        parent::__construct(null, $status, $headers);
+
+        if (null !== $callback) {
+            $this->setCallback($callback);
+        }
+        $this->streamed = false;
+        $this->headersSent = false;
+    }
+
+    /**
+     * Factory method for chainability.
+     *
+     * @param callable|null $callback A valid PHP callback or null to set it later
+     * @param int           $status   The response status code
+     * @param array         $headers  An array of response headers
+     *
+     * @return static
+     */
+    public static function create($callback = null, $status = 200, $headers = array())
+    {
+        return new static($callback, $status, $headers);
+    }
+
+    /**
+     * Sets the PHP callback associated with this Response.
+     *
+     * @param callable $callback A valid PHP callback
+     *
+     * @throws \LogicException
+     */
+    public function setCallback($callback)
+    {
+        if (!is_callable($callback)) {
+            throw new \LogicException('The Response callback must be a valid PHP callable.');
+        }
+        $this->callback = $callback;
+    }
+
+    /**
+     * {@inheritdoc}
+     *
+     * This method only sends the headers once.
+     */
+    public function sendHeaders()
+    {
+        if ($this->headersSent) {
+            return $this;
+        }
+
+        $this->headersSent = true;
+
+        return parent::sendHeaders();
+    }
+
+    /**
+     * {@inheritdoc}
+     *
+     * This method only sends the content once.
+     */
+    public function sendContent()
+    {
+        if ($this->streamed) {
+            return $this;
+        }
+
+        $this->streamed = true;
+
+        if (null === $this->callback) {
+            throw new \LogicException('The Response callback must not be null.');
+        }
+
+        call_user_func($this->callback);
+
+        return $this;
+    }
+
+    /**
+     * {@inheritdoc}
+     *
+     * @throws \LogicException when the content is not null
+     */
+    public function setContent($content)
+    {
+        if (null !== $content) {
+            throw new \LogicException('The content cannot be set on a StreamedResponse instance.');
+        }
+    }
+
+    /**
+     * {@inheritdoc}
+     *
+     * @return false
+     */
+    public function getContent()
+    {
+        return false;
+    }
+}

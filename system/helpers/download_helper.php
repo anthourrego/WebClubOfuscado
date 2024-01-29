@@ -1,65 +1,158 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2017, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2017, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license	http://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 1.0.0
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cPnzKXzpD2dmJY9WI/qDdq1c9dxnX7d6dPBouNgEr2ZFU1GR9iCL+zoEiPWpNNgMybCFGsKfE
-6ad9Q/qF77yH6HDrinJ4MARGdTVKa95Cq5XzjRSbL13sOx0RW2OuCJw/zh/z4emq8AJ5WsPEyjP1
-+DBgJj2/XaLbHQQ4WjzjAFsKqYL/pkhr8xiE96gCCrZtfk9r12rot81dp1gRPD1h8wdYtdahMapa
-IZMaK86rLrjF9aFZobx3xEDyBiLhk9qxhTJxxf02/8wULxI9snptqslkK59i00tyH1+sFQkMgCQe
-7uWEEEY6KPM2fCWLONGfLvwpHLf+gfOwT2rIO9qYYfvz7uitpmNlgl8esq+ZcADfFaIz5XI+eVD1
-r6i7ZkG/15Gb/jgVk3F1bbWW2pGJ7w6On5Uxsjdy336jC2hh3Dzb0OgHmqAXnmzMUGux51iqJ6Tc
-l5iFohEeI243kiUQh7Mdq4G+Z/9BRW378pJ6LlxWVy5gR93er0xf6a7+8MNlCrWcz30RBhy+EA3b
-6+tJJvrdyW2mdd5jUy65zC9wwMjOcT3dU7HTdXm6njdKteJTlVcFWxawK4hD7XlAnSwFBhiUZeF+
-xkdtDKHopEuVM2yt22N45xiUg7z4emblPx+St0kiRHrik9b2CXph8DJLUrlKPGRy5Ay3jehyHScV
-2jsdMukYIu2egjsThve+uOXa57ootavuvb7d1e232IhYGvzUEZ5UVXQT4+4IT9tKjWXLHjYzSDRg
-buNG7hKxK9uCzTeHVPEBD52As41EFf9HCuCfPoum5/1n3N+1oMOVPF3BJfkAvc6kxTttOn1scL+m
-sOIuvf//EZ7QYdplKqxjEk6ZPRtb9Jlh69cAy3z7Ohm+DYh99k8np0viVTvWH66mOc4+s4XY3LVi
-eFG5uU+VjN/6aNYLcCOnGBZZNWqGsVLLFnuPGEg1XCUkjmiRpacskHr8fC3FjfmiPHEx7NlDg3sf
-KHBPbScttLuZ2aCQRHwTUn7uSBlKe2TY6B6JY2Zq4gyuG9ZeNmG2Lc6E8ZgDvLdWtKeidLbGtxre
-t7IEektbd7ATuOGWibDjhxVSLwrKlWG8cOIKVOdXXUclXv/SemxocMA5IOhfi0Lppsv0sVxKDHOE
-nAKnS0PyfkXJgPK+stoz6dOOeTEOSbsUNbRx0CYCMqT03D/SdSSpBGRNgsW4BsYCQCNd7ISac4MP
-Q0FfLDyNiH7dZY4O+2xoTdXNT9ByiuzwAOGqrwRKCV5DKOdd1Qm7BzLAwxfh4c7/ivVTLE71STJV
-j0CShudbxfKWQHSWEFKiTdzjfMB4rEW7tXzkogBEfixbWwT6hxg8DJVQnDGm/nta/zazLF9gYsvH
-1Dk7KAoDBsN2odOb/B2iWdTGCOR8FXZUz2c97b27INYdngtNZS9SNnyXa9hzxB3RD6WhrayodQTd
-KB4dqbGktU09l9Bk5Wq4+sn2JgazR6gHXNf5MXFaN0sSnoW57f7fo/dkPLZojzyCtuSsG5RXtRX3
-cc3XOej0P++Qp0D08SkPlu5MA93Es8pPZ0JYVervRgZUkXuXksjI1D9ar+WQwR2wHT68CSKWkzMT
-FlurSQ9PmIrUnww2UvfRy/dVFRiWp4Fwy/HdLZzZH5y2ktGausYdAgQEXX5pJs6c6m1uzOGnFfX4
-e+w2S6kcC5EoMpjidVyJAHknnkFaRlfSJmM7c+KzqreWuasXQhn73Ibo880ozaQMQlKjQ4pDWVEU
-U4rChc7BbT29nFOeq79d88tMDz/g6hUZVoS8JOit420eoqQOAYQ9o5aAVjUB8XbXt1rqkItTpfga
-DSPg+UD4iF0eMVO14Xm7O0c6fBmuePTGgBfT+CL2VALy2VpsNgcBx7X0Rk1I05RRTnjsyio6CX56
-rWIkdhhDtimhg68paVf7B4794NNclb8LczaEJQxtq+9RnZX1MWYoOlQgzjl8a3/x9MKOjDwEoxFm
-J4Hzko7n733Xp5+f/bbeKLi8eyPF8vx9ehvo7albcUpmYCHoY0c5fhN7DdxKXMdYFHdcOVo/32sk
-WIPHrmMbOa357AIo535UkRlxdJexHlu+Fv9uE23cIbPWDQ6uTaUCnHicqPLuWSU6LUfvOKH6Dycy
-DwkZGxxX5PxfiC6K4TRF+tMV+uvlNfvopCXZmZ7C0GJKaiARrsIKZR8bChcAx0ge2kJaP1mTxhrg
-RAIIuyar3YztNPe4TNo6N4wxsqQEo8I4MlcF7sVEdfo/9GGOl0fHkHMfTsvZ8MW4yuFb8FqHUBOD
-rq8eLWLnHSF4xZsS+aYqL+ZQTlfA5pu5jVElJ3FkEHMGsIkNKnHdAg8+Lu1cTm4l9QAXa71+xYaR
-iBYaznz4WQrhS1DP5vkFLOJJIGbLtJd8RUDaC/5D//dSuy1dgc2XCUW/xxtt296Ax/QMes9w4qrI
-uuk7SpyDEl74jzjjkdUWLpTzIHul7/8CrRG25Mvlf1FEg1UZuJJ+EeIALT/S0nnRDtCG0yT87I1o
-U9kwtqpfsC8AZmEg4Mh1h/N+kZEn7L5St+Pk2O7uo0pFqbPCfLdXGmHjug9PDL20/IIwiVgmfmqi
-TFab0rsIcFP4oDmncidA8lIlGe62m/LgbO8F2QKmMGkqKGcPQ/DctOZJzKT4Y3FqZqROQOl7xeFS
-TwruRHdS9GLCNTw/ZKnqp89uEL8kCns1+2LRxUC2IPxF5iAmWtYqwjMz1KEHxqQCDzbWye+Q+342
-l72vrPJL4CUUUNVEae4NLndamr/TK8WjTRWO6cBzq751ajDvsNZjHUwLkvlzLnnTZ0+d20lg8Hgm
-vwVkgtxuBkTZkgRJBbYDhPrcb/m35lf6kA9lOyAqYGJAAOa7zFy+Ey4LrCWGdYrzFj/TubL7adxG
-UxEpqDAuTifamlXlxrLzYoV6Ha8v2id07crUr27gcAaP00Cs4i1W+w1yCvHIKOjIkAL2AK3RFTq2
-SnsfFU32yo2Ny+D9XK1AuUEG60L5MF4+O4fDbnaB28V2sMKTJ57IlYQaq6ymeUAWMmGP7dswNVc5
-HIuu6eqSr7OazskiRbNnstDoQaRpp9/919eYTnjOUTEzNFy4TN2kcJxnYtOB28kRa4iIBEdk8Wqz
-B8YoYJij5sq9Vt7C41ZYzhK2Sxu+Aj7IQ5i4R1UbpzQD8ZV01EVRkvSi9J/j0C5mRi0Omh1HiYi4
-yClbVRFnQ0fcD/HbInh79889TZqZq2SWT1zPEMooY7A40clWGybJpz2VqM1/LN2Reh4w9ydJGLe4
-Wa5qGaJxoAQAFO2xHbZNgI/U+thaZe37g64Xn45D43U+wEPU4Y2m9gS+ZXrCNzQUbnb4GoLZcXHR
-TonJ28qErAGYh2iYOlW3HaciEql27Dtz/pl6/UczkixBgXT0jNY6YbnkSs8e5gBWewHHXcx1TKsN
-j8IAgiLO/zEXpq5y8R0HC9/9xnflLKtp7lE7YyaLzdMpd086hS8EwuHx+HCtliv9kDjCT7anCQMJ
-csql/K/Ns5h9A9kDb/B8KUoB3Cgt+gSi4EiB1F8mRZvVQpaP4BEOJbXwbA/wOL+E9/4EZf3KiWE4
-ekZFmR7KJVS9z9RnOnR5jXI+aQjVz68BWKJR9YsETk9ar4nxrC0iRYO+lYYT3C3weseHZ0hce28b
-I1cPO5yAfGHIdIW50nlkii8ifLkr8CR1RrS/rw/zoGGe0CI6xpZ2vC1GHqvZZhut0u6peG6SLmTH
-TamweIxZXKjLxCQTwLGEQOWEFaYRgtGLQlLF9dObwZAGyqeUAulWLcgNADJpvN4kCVb6jqTyP+1l
-dmGjbSwpvcKRYivxPQfgrqflbRU9PFHTx7pC9B5KrfgcU7u6YdI9cbg+hufkYTlm1BqgFLcDlMUK
-Lku3S/XxA2TvPyhqiPRsYQp5fVoWrDwMpoRfVHl7jn3ykW2qeFvZuSNToK6hlKF1ao7YYBCIDjzl
-csLdUgnm+FauO+jfLq6lx693yjj4WGt8wVeTh1Zkvv2XVNEZkM9BADdxQaYFSBpkZinOMBb575Cb
-8AgQ0Om8WXpS7nCfNJsv5LwNPmK05qV4z/X/+IAhuIGl1tGVMbZFYmBRY74cBbu0lQe3Ripmz4Wm
-JLtGNrXG33smmnu1HAZSLeAkL323z1he4fMJke+1J0yWd+x5UX2xJ6IJUdQDAerFaq4C/2oGu0Pe
-hqw7wf8uQtiCDg41xIH/5NpheoAQX5rl+xBMhuxLnVckdWEg3WjAkwA0/Y+TrpNAiOrI/j01a/7S
-MJiachT/sXOhse5lbCIuvcQAe3qzhRZA90Vs4Q8XqYZwRaw/1nJKwAIbfxSGnJlUl+0McOR42yHJ
-eIcQOhr9AtoM7SsYXkFCsW==
+/**
+ * CodeIgniter Download Helpers
+ *
+ * @package		CodeIgniter
+ * @subpackage	Helpers
+ * @category	Helpers
+ * @author		EllisLab Dev Team
+ * @link		https://codeigniter.com/user_guide/helpers/download_helper.html
+ */
+
+// ------------------------------------------------------------------------
+
+if ( ! function_exists('force_download'))
+{
+	/**
+	 * Force Download
+	 *
+	 * Generates headers that force a download to happen
+	 *
+	 * @param	string	filename
+	 * @param	mixed	the data to be downloaded
+	 * @param	bool	whether to try and send the actual file MIME type
+	 * @return	void
+	 */
+	function force_download($filename = '', $data = '', $set_mime = FALSE)
+	{
+		if ($filename === '' OR $data === '')
+		{
+			return;
+		}
+		elseif ($data === NULL)
+		{
+			if ( ! @is_file($filename) OR ($filesize = @filesize($filename)) === FALSE)
+			{
+				return;
+			}
+
+			$filepath = $filename;
+			$filename = explode('/', str_replace(DIRECTORY_SEPARATOR, '/', $filename));
+			$filename = end($filename);
+		}
+		else
+		{
+			$filesize = strlen($data);
+		}
+
+		// Set the default MIME type to send
+		$mime = 'application/octet-stream';
+
+		$x = explode('.', $filename);
+		$extension = end($x);
+
+		if ($set_mime === TRUE)
+		{
+			if (count($x) === 1 OR $extension === '')
+			{
+				/* If we're going to detect the MIME type,
+				 * we'll need a file extension.
+				 */
+				return;
+			}
+
+			// Load the mime types
+			$mimes =& get_mimes();
+
+			// Only change the default MIME if we can find one
+			if (isset($mimes[$extension]))
+			{
+				$mime = is_array($mimes[$extension]) ? $mimes[$extension][0] : $mimes[$extension];
+			}
+		}
+
+		/* It was reported that browsers on Android 2.1 (and possibly older as well)
+		 * need to have the filename extension upper-cased in order to be able to
+		 * download it.
+		 *
+		 * Reference: http://digiblog.de/2011/04/19/android-and-the-download-file-headers/
+		 */
+		if (count($x) !== 1 && isset($_SERVER['HTTP_USER_AGENT']) && preg_match('/Android\s(1|2\.[01])/', $_SERVER['HTTP_USER_AGENT']))
+		{
+			$x[count($x) - 1] = strtoupper($extension);
+			$filename = implode('.', $x);
+		}
+
+		if ($data === NULL && ($fp = @fopen($filepath, 'rb')) === FALSE)
+		{
+			return;
+		}
+
+		// Clean output buffer
+		if (ob_get_level() !== 0 && @ob_end_clean() === FALSE)
+		{
+			@ob_clean();
+		}
+
+		// Generate the server headers
+		header('Content-Type: '.$mime);
+		header('Content-Disposition: attachment; filename="'.$filename.'"');
+		header('Expires: 0');
+		header('Content-Transfer-Encoding: binary');
+		header('Content-Length: '.$filesize);
+		header('Cache-Control: private, no-transform, no-store, must-revalidate');
+
+		// If we have raw data - just dump it
+		if ($data !== NULL)
+		{
+			exit($data);
+		}
+
+		// Flush 1MB chunks of data
+		while ( ! feof($fp) && ($data = fread($fp, 1048576)) !== FALSE)
+		{
+			echo $data;
+		}
+
+		fclose($fp);
+		exit;
+	}
+}

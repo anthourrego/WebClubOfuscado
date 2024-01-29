@@ -1,71 +1,54 @@
-<?php //ICB0 56:0 71:bb4                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/*
+ * CKFinder
+ * ========
+ * https://ckeditor.com/ckeditor-4/ckfinder/
+ * Copyright (c) 2007-2018, CKSource - Frederico Knabben. All rights reserved.
+ *
+ * The software, this file and its contents are subject to the CKFinder
+ * License. Please read the license.txt file before using, installing, copying,
+ * modifying or distribute this file or part of its contents. The contents of
+ * this file is part of the Source Code of CKFinder.
+ */
 
-?>
-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
-ecESgMD+4r3hcONJY1Aod0vcwY/fleh2shq=
+namespace CKSource\CKFinder\Event;
+
+use CKSource\CKFinder\CKFinder;
+use CKSource\CKFinder\Filesystem\Folder\WorkingFolder;
+
+/**
+ * The DeleteFolderEvent event class.
+ */
+class DeleteFolderEvent extends CKFinderEvent
+{
+    /**
+     * The working folder that is going to be deleted.
+     *
+     * @var WorkingFolder $workingFolder
+     */
+    protected $workingFolder;
+
+    /**
+     * Constructor.
+     *
+     * @param CKFinder      $app
+     * @param WorkingFolder $workingFolder
+     */
+    public function __construct(CKFinder $app, WorkingFolder $workingFolder)
+    {
+        $this->workingFolder = $workingFolder;
+
+        parent::__construct($app);
+    }
+
+    /**
+     * Returns the working folder that is going to be deleted.
+     *
+     * @return WorkingFolder
+     */
+    public function getWorkingFolder()
+    {
+        return $this->workingFolder;
+    }
+}

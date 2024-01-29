@@ -1,87 +1,140 @@
-<?php //ICB0 56:0 71:def                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+namespace Psr\Log;
 
-?>
-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
+/**
+ * This is a simple Logger trait that classes unable to extend AbstractLogger
+ * (because they extend another class, etc) can include.
+ *
+ * It simply delegates all log-level-specific methods to the `log` method to
+ * reduce boilerplate code that a simple Logger that does the same thing with
+ * messages regardless of the error level has to implement.
+ */
+trait LoggerTrait
+{
+    /**
+     * System is unusable.
+     *
+     * @param string $message
+     * @param array  $context
+     *
+     * @return void
+     */
+    public function emergency($message, array $context = array())
+    {
+        $this->log(LogLevel::EMERGENCY, $message, $context);
+    }
+
+    /**
+     * Action must be taken immediately.
+     *
+     * Example: Entire website down, database unavailable, etc. This should
+     * trigger the SMS alerts and wake you up.
+     *
+     * @param string $message
+     * @param array  $context
+     *
+     * @return void
+     */
+    public function alert($message, array $context = array())
+    {
+        $this->log(LogLevel::ALERT, $message, $context);
+    }
+
+    /**
+     * Critical conditions.
+     *
+     * Example: Application component unavailable, unexpected exception.
+     *
+     * @param string $message
+     * @param array  $context
+     *
+     * @return void
+     */
+    public function critical($message, array $context = array())
+    {
+        $this->log(LogLevel::CRITICAL, $message, $context);
+    }
+
+    /**
+     * Runtime errors that do not require immediate action but should typically
+     * be logged and monitored.
+     *
+     * @param string $message
+     * @param array  $context
+     *
+     * @return void
+     */
+    public function error($message, array $context = array())
+    {
+        $this->log(LogLevel::ERROR, $message, $context);
+    }
+
+    /**
+     * Exceptional occurrences that are not errors.
+     *
+     * Example: Use of deprecated APIs, poor use of an API, undesirable things
+     * that are not necessarily wrong.
+     *
+     * @param string $message
+     * @param array  $context
+     *
+     * @return void
+     */
+    public function warning($message, array $context = array())
+    {
+        $this->log(LogLevel::WARNING, $message, $context);
+    }
+
+    /**
+     * Normal but significant events.
+     *
+     * @param string $message
+     * @param array  $context
+     *
+     * @return void
+     */
+    public function notice($message, array $context = array())
+    {
+        $this->log(LogLevel::NOTICE, $message, $context);
+    }
+
+    /**
+     * Interesting events.
+     *
+     * Example: User logs in, SQL logs.
+     *
+     * @param string $message
+     * @param array  $context
+     *
+     * @return void
+     */
+    public function info($message, array $context = array())
+    {
+        $this->log(LogLevel::INFO, $message, $context);
+    }
+
+    /**
+     * Detailed debug information.
+     *
+     * @param string $message
+     * @param array  $context
+     *
+     * @return void
+     */
+    public function debug($message, array $context = array())
+    {
+        $this->log(LogLevel::DEBUG, $message, $context);
+    }
+
+    /**
+     * Logs with an arbitrary level.
+     *
+     * @param mixed  $level
+     * @param string $message
+     * @param array  $context
+     *
+     * @return void
+     */
+    abstract public function log($level, $message, array $context = array());
+}

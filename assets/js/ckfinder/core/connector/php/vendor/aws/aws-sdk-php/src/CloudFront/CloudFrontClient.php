@@ -1,103 +1,190 @@
-<?php //ICB0 56:0 71:1090                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\CloudFront;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use Aws\AwsClient;
 
-?>
-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
-fb560GQWn7n+XG==
+/**
+ * This client is used to interact with the **Amazon CloudFront** service.
+ *
+ * @method \Aws\Result createCloudFrontOriginAccessIdentity(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createCloudFrontOriginAccessIdentityAsync(array $args = [])
+ * @method \Aws\Result createDistribution(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createDistributionAsync(array $args = [])
+ * @method \Aws\Result createInvalidation(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createInvalidationAsync(array $args = [])
+ * @method \Aws\Result createStreamingDistribution(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createStreamingDistributionAsync(array $args = [])
+ * @method \Aws\Result deleteCloudFrontOriginAccessIdentity(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteCloudFrontOriginAccessIdentityAsync(array $args = [])
+ * @method \Aws\Result deleteDistribution(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteDistributionAsync(array $args = [])
+ * @method \Aws\Result deleteStreamingDistribution(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteStreamingDistributionAsync(array $args = [])
+ * @method \Aws\Result getCloudFrontOriginAccessIdentity(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getCloudFrontOriginAccessIdentityAsync(array $args = [])
+ * @method \Aws\Result getCloudFrontOriginAccessIdentityConfig(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getCloudFrontOriginAccessIdentityConfigAsync(array $args = [])
+ * @method \Aws\Result getDistribution(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getDistributionAsync(array $args = [])
+ * @method \Aws\Result getDistributionConfig(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getDistributionConfigAsync(array $args = [])
+ * @method \Aws\Result getInvalidation(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getInvalidationAsync(array $args = [])
+ * @method \Aws\Result getStreamingDistribution(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getStreamingDistributionAsync(array $args = [])
+ * @method \Aws\Result getStreamingDistributionConfig(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getStreamingDistributionConfigAsync(array $args = [])
+ * @method \Aws\Result listCloudFrontOriginAccessIdentities(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listCloudFrontOriginAccessIdentitiesAsync(array $args = [])
+ * @method \Aws\Result listDistributions(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listDistributionsAsync(array $args = [])
+ * @method \Aws\Result listDistributionsByWebACLId(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listDistributionsByWebACLIdAsync(array $args = [])
+ * @method \Aws\Result listInvalidations(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listInvalidationsAsync(array $args = [])
+ * @method \Aws\Result listStreamingDistributions(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listStreamingDistributionsAsync(array $args = [])
+ * @method \Aws\Result updateCloudFrontOriginAccessIdentity(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateCloudFrontOriginAccessIdentityAsync(array $args = [])
+ * @method \Aws\Result updateDistribution(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateDistributionAsync(array $args = [])
+ * @method \Aws\Result updateStreamingDistribution(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateStreamingDistributionAsync(array $args = [])
+ * @method \Aws\Result createDistributionWithTags(array $args = []) (supported in versions 2016-08-01, 2016-08-20, 2016-09-07, 2016-09-29, 2016-11-25, 2017-03-25, 2017-10-30)
+ * @method \GuzzleHttp\Promise\Promise createDistributionWithTagsAsync(array $args = []) (supported in versions 2016-08-01, 2016-08-20, 2016-09-07, 2016-09-29, 2016-11-25, 2017-03-25, 2017-10-30)
+ * @method \Aws\Result createStreamingDistributionWithTags(array $args = []) (supported in versions 2016-08-01, 2016-08-20, 2016-09-07, 2016-09-29, 2016-11-25, 2017-03-25, 2017-10-30)
+ * @method \GuzzleHttp\Promise\Promise createStreamingDistributionWithTagsAsync(array $args = []) (supported in versions 2016-08-01, 2016-08-20, 2016-09-07, 2016-09-29, 2016-11-25, 2017-03-25, 2017-10-30)
+ * @method \Aws\Result listTagsForResource(array $args = []) (supported in versions 2016-08-01, 2016-08-20, 2016-09-07, 2016-09-29, 2016-11-25, 2017-03-25, 2017-10-30)
+ * @method \GuzzleHttp\Promise\Promise listTagsForResourceAsync(array $args = []) (supported in versions 2016-08-01, 2016-08-20, 2016-09-07, 2016-09-29, 2016-11-25, 2017-03-25, 2017-10-30)
+ * @method \Aws\Result tagResource(array $args = []) (supported in versions 2016-08-01, 2016-08-20, 2016-09-07, 2016-09-29, 2016-11-25, 2017-03-25, 2017-10-30)
+ * @method \GuzzleHttp\Promise\Promise tagResourceAsync(array $args = []) (supported in versions 2016-08-01, 2016-08-20, 2016-09-07, 2016-09-29, 2016-11-25, 2017-03-25, 2017-10-30)
+ * @method \Aws\Result untagResource(array $args = []) (supported in versions 2016-08-01, 2016-08-20, 2016-09-07, 2016-09-29, 2016-11-25, 2017-03-25, 2017-10-30)
+ * @method \GuzzleHttp\Promise\Promise untagResourceAsync(array $args = []) (supported in versions 2016-08-01, 2016-08-20, 2016-09-07, 2016-09-29, 2016-11-25, 2017-03-25, 2017-10-30)
+ * @method \Aws\Result deleteServiceLinkedRole(array $args = []) (supported in versions 2017-03-25)
+ * @method \GuzzleHttp\Promise\Promise deleteServiceLinkedRoleAsync(array $args = []) (supported in versions 2017-03-25)
+ * @method \Aws\Result createFieldLevelEncryptionConfig(array $args = []) (supported in versions 2017-10-30)
+ * @method \GuzzleHttp\Promise\Promise createFieldLevelEncryptionConfigAsync(array $args = []) (supported in versions 2017-10-30)
+ * @method \Aws\Result createFieldLevelEncryptionProfile(array $args = []) (supported in versions 2017-10-30)
+ * @method \GuzzleHttp\Promise\Promise createFieldLevelEncryptionProfileAsync(array $args = []) (supported in versions 2017-10-30)
+ * @method \Aws\Result createPublicKey(array $args = []) (supported in versions 2017-10-30)
+ * @method \GuzzleHttp\Promise\Promise createPublicKeyAsync(array $args = []) (supported in versions 2017-10-30)
+ * @method \Aws\Result deleteFieldLevelEncryptionConfig(array $args = []) (supported in versions 2017-10-30)
+ * @method \GuzzleHttp\Promise\Promise deleteFieldLevelEncryptionConfigAsync(array $args = []) (supported in versions 2017-10-30)
+ * @method \Aws\Result deleteFieldLevelEncryptionProfile(array $args = []) (supported in versions 2017-10-30)
+ * @method \GuzzleHttp\Promise\Promise deleteFieldLevelEncryptionProfileAsync(array $args = []) (supported in versions 2017-10-30)
+ * @method \Aws\Result deletePublicKey(array $args = []) (supported in versions 2017-10-30)
+ * @method \GuzzleHttp\Promise\Promise deletePublicKeyAsync(array $args = []) (supported in versions 2017-10-30)
+ * @method \Aws\Result getFieldLevelEncryption(array $args = []) (supported in versions 2017-10-30)
+ * @method \GuzzleHttp\Promise\Promise getFieldLevelEncryptionAsync(array $args = []) (supported in versions 2017-10-30)
+ * @method \Aws\Result getFieldLevelEncryptionConfig(array $args = []) (supported in versions 2017-10-30)
+ * @method \GuzzleHttp\Promise\Promise getFieldLevelEncryptionConfigAsync(array $args = []) (supported in versions 2017-10-30)
+ * @method \Aws\Result getFieldLevelEncryptionProfile(array $args = []) (supported in versions 2017-10-30)
+ * @method \GuzzleHttp\Promise\Promise getFieldLevelEncryptionProfileAsync(array $args = []) (supported in versions 2017-10-30)
+ * @method \Aws\Result getFieldLevelEncryptionProfileConfig(array $args = []) (supported in versions 2017-10-30)
+ * @method \GuzzleHttp\Promise\Promise getFieldLevelEncryptionProfileConfigAsync(array $args = []) (supported in versions 2017-10-30)
+ * @method \Aws\Result getPublicKey(array $args = []) (supported in versions 2017-10-30)
+ * @method \GuzzleHttp\Promise\Promise getPublicKeyAsync(array $args = []) (supported in versions 2017-10-30)
+ * @method \Aws\Result getPublicKeyConfig(array $args = []) (supported in versions 2017-10-30)
+ * @method \GuzzleHttp\Promise\Promise getPublicKeyConfigAsync(array $args = []) (supported in versions 2017-10-30)
+ * @method \Aws\Result listFieldLevelEncryptionConfigs(array $args = []) (supported in versions 2017-10-30)
+ * @method \GuzzleHttp\Promise\Promise listFieldLevelEncryptionConfigsAsync(array $args = []) (supported in versions 2017-10-30)
+ * @method \Aws\Result listFieldLevelEncryptionProfiles(array $args = []) (supported in versions 2017-10-30)
+ * @method \GuzzleHttp\Promise\Promise listFieldLevelEncryptionProfilesAsync(array $args = []) (supported in versions 2017-10-30)
+ * @method \Aws\Result listPublicKeys(array $args = []) (supported in versions 2017-10-30)
+ * @method \GuzzleHttp\Promise\Promise listPublicKeysAsync(array $args = []) (supported in versions 2017-10-30)
+ * @method \Aws\Result updateFieldLevelEncryptionConfig(array $args = []) (supported in versions 2017-10-30)
+ * @method \GuzzleHttp\Promise\Promise updateFieldLevelEncryptionConfigAsync(array $args = []) (supported in versions 2017-10-30)
+ * @method \Aws\Result updateFieldLevelEncryptionProfile(array $args = []) (supported in versions 2017-10-30)
+ * @method \GuzzleHttp\Promise\Promise updateFieldLevelEncryptionProfileAsync(array $args = []) (supported in versions 2017-10-30)
+ * @method \Aws\Result updatePublicKey(array $args = []) (supported in versions 2017-10-30)
+ * @method \GuzzleHttp\Promise\Promise updatePublicKeyAsync(array $args = []) (supported in versions 2017-10-30)
+ */
+class CloudFrontClient extends AwsClient
+{
+    /**
+     * Create a signed Amazon CloudFront URL.
+     *
+     * This method accepts an array of configuration options:
+     *
+     * - url: (string)  URL of the resource being signed (can include query
+     *   string and wildcards). For example: rtmp://s5c39gqb8ow64r.cloudfront.net/videos/mp3_name.mp3
+     *   http://d111111abcdef8.cloudfront.net/images/horizon.jpg?size=large&license=yes
+     * - policy: (string) JSON policy. Use this option when creating a signed
+     *   URL for a custom policy.
+     * - expires: (int) UTC Unix timestamp used when signing with a canned
+     *   policy. Not required when passing a custom 'policy' option.
+     * - key_pair_id: (string) The ID of the key pair used to sign CloudFront
+     *   URLs for private distributions.
+     * - private_key: (string) The filepath ot the private key used to sign
+     *   CloudFront URLs for private distributions.
+     *
+     * @param array $options Array of configuration options used when signing
+     *
+     * @return string Signed URL with authentication parameters
+     * @throws \InvalidArgumentException if url, key_pair_id, or private_key
+     *     were not specified.
+     * @link http://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/WorkingWithStreamingDistributions.html
+     */
+    public function getSignedUrl(array $options)
+    {
+        foreach (['url', 'key_pair_id', 'private_key'] as $required) {
+            if (!isset($options[$required])) {
+                throw new \InvalidArgumentException("$required is required");
+            }
+        }
+
+        $urlSigner = new UrlSigner(
+            $options['key_pair_id'],
+            $options['private_key']
+        );
+
+        return $urlSigner->getSignedUrl(
+            $options['url'],
+            isset($options['expires']) ? $options['expires'] : null,
+            isset($options['policy']) ? $options['policy'] : null
+        );
+    }
+
+    /**
+     * Create a signed Amazon CloudFront cookie.
+     *
+     * This method accepts an array of configuration options:
+     *
+     * - url: (string)  URL of the resource being signed (can include query
+     *   string and wildcards). For example: http://d111111abcdef8.cloudfront.net/images/horizon.jpg?size=large&license=yes
+     * - policy: (string) JSON policy. Use this option when creating a signed
+     *   URL for a custom policy.
+     * - expires: (int) UTC Unix timestamp used when signing with a canned
+     *   policy. Not required when passing a custom 'policy' option.
+     * - key_pair_id: (string) The ID of the key pair used to sign CloudFront
+     *   URLs for private distributions.
+     * - private_key: (string) The filepath ot the private key used to sign
+     *   CloudFront URLs for private distributions.
+     *
+     * @param array $options Array of configuration options used when signing
+     *
+     * @return array Key => value pairs of signed cookies to set
+     * @throws \InvalidArgumentException if url, key_pair_id, or private_key
+     *     were not specified.
+     * @link http://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/WorkingWithStreamingDistributions.html
+     */
+    public function getSignedCookie(array $options)
+    {
+        foreach (['key_pair_id', 'private_key'] as $required) {
+            if (!isset($options[$required])) {
+                throw new \InvalidArgumentException("$required is required");
+            }
+        }
+
+        $cookieSigner = new CookieSigner(
+            $options['key_pair_id'],
+            $options['private_key']
+        );
+
+        return $cookieSigner->getSignedCookie(
+            isset($options['url']) ? $options['url'] : null,
+            isset($options['expires']) ? $options['expires'] : null,
+            isset($options['policy']) ? $options['policy'] : null
+        );
+    }
+}

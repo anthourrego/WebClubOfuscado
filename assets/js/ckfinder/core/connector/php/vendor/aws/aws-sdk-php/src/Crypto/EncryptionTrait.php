@@ -1,185 +1,186 @@
-<?php //ICB0 56:0 71:1b48                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\Crypto;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-dha9WNyJ30GfoOks3eIlLwaQOeyl=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use GuzzleHttp\Psr7;
+use GuzzleHttp\Psr7\AppendStream;
+use GuzzleHttp\Psr7\Stream;
 
-?>
-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
-kUm9YJIteYZk9Zb91zFsQdYD+qVujUE9Sea=
+trait EncryptionTrait
+{
+    private static $allowedOptions = [
+        'Cipher' => true,
+        'KeySize' => true,
+        'Aad' => true,
+    ];
+
+    /**
+     * Dependency to generate a CipherMethod from a set of inputs for loading
+     * in to an AesEncryptingStream.
+     *
+     * @param string $cipherName Name of the cipher to generate for encrypting.
+     * @param string $iv Base Initialization Vector for the cipher.
+     * @param int $keySize Size of the encryption key, in bits, that will be
+     *                     used.
+     *
+     * @return Cipher\CipherMethod
+     *
+     * @internal
+     */
+    abstract protected function buildCipherMethod($cipherName, $iv, $keySize);
+
+    /**
+     * Builds an AesStreamInterface and populates encryption metadata into the
+     * supplied envelope.
+     *
+     * @param Stream $plaintext Plain-text data to be encrypted using the
+     *                          materials, algorithm, and data provided.
+     * @param array $cipherOptions Options for use in determining the cipher to
+     *                             be used for encrypting data.
+     * @param MaterialsProvider $provider A provider to supply and encrypt
+     *                                    materials used in encryption.
+     * @param MetadataEnvelope $envelope A storage envelope for encryption
+     *                                   metadata to be added to.
+     *
+     * @return AesStreamInterface
+     *
+     * @throws \InvalidArgumentException Thrown when a value in $cipherOptions
+     *                                   is not valid.
+     *
+     * @internal
+     */
+    protected function encrypt(
+        Stream $plaintext,
+        array $cipherOptions,
+        MaterialsProvider $provider,
+        MetadataEnvelope $envelope
+    ) {
+        $materialsDescription = $provider->getMaterialsDescription();
+
+        $cipherOptions = array_intersect_key(
+            $cipherOptions,
+            self::$allowedOptions
+        );
+
+        if (empty($cipherOptions['Cipher'])) {
+            throw new \InvalidArgumentException('An encryption cipher must be'
+                . ' specified in the "cipher_options".');
+        }
+
+        if (!self::isSupportedCipher($cipherOptions['Cipher'])) {
+            throw new \InvalidArgumentException('The cipher requested is not'
+                . ' supported by the SDK.');
+        }
+
+        if (empty($cipherOptions['KeySize'])) {
+            $cipherOptions['KeySize'] = 256;
+        }
+        if (!is_int($cipherOptions['KeySize'])) {
+            throw new \InvalidArgumentException('The cipher "KeySize" must be'
+                . ' an integer.');
+        }
+
+        if (!MaterialsProvider::isSupportedKeySize(
+            $cipherOptions['KeySize']
+        )) {
+            throw new \InvalidArgumentException('The cipher "KeySize" requested'
+                . ' is not supported by AES (128, 192, or 256).');
+        }
+
+        $cipherOptions['Iv'] = $provider->generateIv(
+            $this->getCipherOpenSslName(
+                $cipherOptions['Cipher'],
+                $cipherOptions['KeySize']
+            )
+        );
+
+        $cek = $provider->generateCek($cipherOptions['KeySize']);
+
+        list($encryptingStream, $aesName) = $this->getEncryptingStream(
+            $plaintext,
+            $cek,
+            $cipherOptions
+        );
+
+        // Populate envelope data
+        $envelope[MetadataEnvelope::CONTENT_KEY_V2_HEADER] =
+            $provider->encryptCek(
+                $cek,
+                $materialsDescription
+            );
+        unset($cek);
+
+        $envelope[MetadataEnvelope::IV_HEADER] =
+            base64_encode($cipherOptions['Iv']);
+        $envelope[MetadataEnvelope::KEY_WRAP_ALGORITHM_HEADER] =
+            $provider->getWrapAlgorithmName();
+        $envelope[MetadataEnvelope::CONTENT_CRYPTO_SCHEME_HEADER] = $aesName;
+        $envelope[MetadataEnvelope::UNENCRYPTED_CONTENT_LENGTH_HEADER] =
+            strlen($plaintext);
+        $envelope[MetadataEnvelope::UNENCRYPTED_CONTENT_MD5_HEADER] =
+            base64_encode(md5($plaintext));
+        $envelope[MetadataEnvelope::MATERIALS_DESCRIPTION_HEADER] =
+            json_encode($materialsDescription);
+        if (!empty($cipherOptions['Tag'])) {
+            $envelope[MetadataEnvelope::CRYPTO_TAG_LENGTH_HEADER] =
+                strlen($cipherOptions['Tag']) * 8;
+        }
+
+        return $encryptingStream;
+    }
+
+    /**
+     * Generates a stream that wraps the plaintext with the proper cipher and
+     * uses the content encryption key (CEK) to encrypt the data when read.
+     *
+     * @param Stream $plaintext Plain-text data to be encrypted using the
+     *                          materials, algorithm, and data provided.
+     * @param string $cek A content encryption key for use by the stream for
+     *                    encrypting the plaintext data.
+     * @param array $cipherOptions Options for use in determining the cipher to
+     *                             be used for encrypting data.
+     *
+     * @return [AesStreamInterface, string]
+     *
+     * @internal
+     */
+    protected function getEncryptingStream(
+        Stream $plaintext,
+        $cek,
+        &$cipherOptions
+    ) {
+        switch ($cipherOptions['Cipher']) {
+            case 'gcm':
+                $cipherOptions['TagLength'] = 16;
+
+                $cipherTextStream = new AesGcmEncryptingStream(
+                    $plaintext,
+                    $cek,
+                    $cipherOptions['Iv'],
+                    $cipherOptions['Aad'] = isset($cipherOptions['Aad'])
+                        ? $cipherOptions['Aad']
+                        : null,
+                    $cipherOptions['TagLength'],
+                    $cipherOptions['KeySize']
+                );
+
+                $appendStream = new AppendStream([
+                    $cipherTextStream->createStream()
+                ]);
+                $cipherOptions['Tag'] = $cipherTextStream->getTag();
+                $appendStream->addStream(Psr7\stream_for($cipherOptions['Tag']));
+                return [$appendStream, $cipherTextStream->getAesName()];
+            default:
+                $cipherMethod = $this->buildCipherMethod(
+                    $cipherOptions['Cipher'],
+                    $cipherOptions['Iv'],
+                    $cipherOptions['KeySize']
+                );
+                $cipherTextStream = new AesEncryptingStream(
+                    $plaintext,
+                    $cek,
+                    $cipherMethod
+                );
+                return [$cipherTextStream, $cipherTextStream->getAesName()];
+        }
+    }
+}

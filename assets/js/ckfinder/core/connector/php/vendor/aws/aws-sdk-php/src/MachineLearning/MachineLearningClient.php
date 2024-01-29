@@ -1,97 +1,97 @@
-<?php //ICB0 56:0 71:f54                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\MachineLearning;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use Aws\AwsClient;
+use Aws\CommandInterface;
+use GuzzleHttp\Psr7\Uri;
+use Psr\Http\Message\RequestInterface;
 
-?>
-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
-vOP2ATjNUigyM42rJqd2aG==
+/**
+ * Amazon Machine Learning client.
+ *
+ * @method \Aws\Result addTags(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise addTagsAsync(array $args = [])
+ * @method \Aws\Result createBatchPrediction(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createBatchPredictionAsync(array $args = [])
+ * @method \Aws\Result createDataSourceFromRDS(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createDataSourceFromRDSAsync(array $args = [])
+ * @method \Aws\Result createDataSourceFromRedshift(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createDataSourceFromRedshiftAsync(array $args = [])
+ * @method \Aws\Result createDataSourceFromS3(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createDataSourceFromS3Async(array $args = [])
+ * @method \Aws\Result createEvaluation(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createEvaluationAsync(array $args = [])
+ * @method \Aws\Result createMLModel(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createMLModelAsync(array $args = [])
+ * @method \Aws\Result createRealtimeEndpoint(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createRealtimeEndpointAsync(array $args = [])
+ * @method \Aws\Result deleteBatchPrediction(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteBatchPredictionAsync(array $args = [])
+ * @method \Aws\Result deleteDataSource(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteDataSourceAsync(array $args = [])
+ * @method \Aws\Result deleteEvaluation(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteEvaluationAsync(array $args = [])
+ * @method \Aws\Result deleteMLModel(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteMLModelAsync(array $args = [])
+ * @method \Aws\Result deleteRealtimeEndpoint(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteRealtimeEndpointAsync(array $args = [])
+ * @method \Aws\Result deleteTags(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteTagsAsync(array $args = [])
+ * @method \Aws\Result describeBatchPredictions(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeBatchPredictionsAsync(array $args = [])
+ * @method \Aws\Result describeDataSources(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeDataSourcesAsync(array $args = [])
+ * @method \Aws\Result describeEvaluations(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeEvaluationsAsync(array $args = [])
+ * @method \Aws\Result describeMLModels(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeMLModelsAsync(array $args = [])
+ * @method \Aws\Result describeTags(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeTagsAsync(array $args = [])
+ * @method \Aws\Result getBatchPrediction(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getBatchPredictionAsync(array $args = [])
+ * @method \Aws\Result getDataSource(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getDataSourceAsync(array $args = [])
+ * @method \Aws\Result getEvaluation(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getEvaluationAsync(array $args = [])
+ * @method \Aws\Result getMLModel(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getMLModelAsync(array $args = [])
+ * @method \Aws\Result predict(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise predictAsync(array $args = [])
+ * @method \Aws\Result updateBatchPrediction(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateBatchPredictionAsync(array $args = [])
+ * @method \Aws\Result updateDataSource(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateDataSourceAsync(array $args = [])
+ * @method \Aws\Result updateEvaluation(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateEvaluationAsync(array $args = [])
+ * @method \Aws\Result updateMLModel(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateMLModelAsync(array $args = [])
+ */
+class MachineLearningClient extends AwsClient
+{
+    public function __construct(array $config)
+    {
+        parent::__construct($config);
+        $list = $this->getHandlerList();
+        $list->appendBuild($this->predictEndpoint(), 'ml.predict_endpoint');
+    }
+
+    /**
+     * Changes the endpoint of the Predict operation to the provided endpoint.
+     *
+     * @return callable
+     */
+    private function predictEndpoint()
+    {
+        return static function (callable $handler) {
+            return function (
+                CommandInterface $command,
+                RequestInterface $request = null
+            ) use ($handler) {
+                if ($command->getName() === 'Predict') {
+                    $request = $request->withUri(new Uri($command['PredictEndpoint']));
+                }
+                return $handler($command, $request);
+            };
+        };
+    }
+}

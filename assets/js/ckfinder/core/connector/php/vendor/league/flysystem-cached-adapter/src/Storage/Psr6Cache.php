@@ -1,97 +1,59 @@
-<?php //ICB0 56:0 71:f38                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-3ykJ7+3qO4cnTjlrN0===
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+namespace League\Flysystem\Cached\Storage;
 
-?>
-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
+use Psr\Cache\CacheItemPoolInterface;
+
+class Psr6Cache extends AbstractCache
+{
+    /**
+     * @var CacheItemPoolInterface
+     */
+    private $pool;
+
+    /**
+     * @var string storage key
+     */
+    protected $key;
+
+    /**
+     * @var int|null seconds until cache expiration
+     */
+    protected $expire;
+
+    /**
+     * Constructor.
+     *
+     * @param CacheItemPoolInterface $pool
+     * @param string                 $key    storage key
+     * @param int|null               $expire seconds until cache expiration
+     */
+    public function __construct(CacheItemPoolInterface $pool, $key = 'flysystem', $expire = null)
+    {
+        $this->pool = $pool;
+        $this->key = $key;
+        $this->expire = $expire;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function save()
+    {
+        $item = $this->pool->getItem($this->key);
+        $item->set($this->getForStorage());
+        $item->expiresAfter($this->expire);
+        $this->pool->save($item);
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function load()
+    {
+        $item = $this->pool->getItem($this->key);
+        if ($item->isHit()) {
+            $this->setFromStorage($item->get());
+        }
+    }
+}

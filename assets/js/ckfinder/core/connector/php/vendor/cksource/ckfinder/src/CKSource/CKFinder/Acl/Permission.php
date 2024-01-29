@@ -1,71 +1,74 @@
-<?php //ICB0 56:0 71:b6b                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/*
+ * CKFinder
+ * ========
+ * https://ckeditor.com/ckeditor-4/ckfinder/
+ * Copyright (c) 2007-2018, CKSource - Frederico Knabben. All rights reserved.
+ *
+ * The software, this file and its contents are subject to the CKFinder
+ * License. Please read the license.txt file before using, installing, copying,
+ * modifying or distribute this file or part of its contents. The contents of
+ * this file is part of the Source Code of CKFinder.
+ */
 
-?>
-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
-KyJFeFldmUm=
+namespace CKSource\CKFinder\Acl;
+
+/**
+ * The Permission class.
+ *
+ * @copyright 2016 CKSource - Frederico Knabben
+ */
+class Permission
+{
+    const FOLDER_VIEW         = 1;
+    const FOLDER_CREATE       = 2;
+    const FOLDER_RENAME       = 4;
+    const FOLDER_DELETE       = 8;
+
+    const FILE_VIEW           = 16;
+    const FILE_CREATE         = 32;
+    const FILE_RENAME         = 64;
+    const FILE_DELETE         = 128;
+
+    const IMAGE_RESIZE        = 256;
+    const IMAGE_RESIZE_CUSTOM = 512;
+
+    /**
+     * @deprecated Use FILE_CREATE instead.
+     */
+    const FILE_UPLOAD         = 32;
+
+    /**
+     * Returns an array of all permissions defined in the Permission class constants.
+     *
+     * @return array an array of permission constants in the form of
+     *               PERMISSION_NAME => value
+     */
+    public static function getAll()
+    {
+        $ref = new \ReflectionClass(__CLASS__);
+
+        return $ref->getConstants();
+    }
+
+    /**
+     * Returns a numeric value for the passed permission name.
+     *
+     * @param string $name permission constant name
+     *
+     * @return int permission value
+     *
+     * @throws \InvalidArgumentException when the permission with a given name was not found.
+     */
+    public static function byName($name)
+    {
+        $formattedName = sprintf('static::%s', strtoupper($name));
+
+        if (!defined($formattedName)) {
+            throw new \InvalidArgumentException(sprintf('The permission "%s" doesn\'t exist', $name));
+        }
+
+        return constant($formattedName);
+    }
+}

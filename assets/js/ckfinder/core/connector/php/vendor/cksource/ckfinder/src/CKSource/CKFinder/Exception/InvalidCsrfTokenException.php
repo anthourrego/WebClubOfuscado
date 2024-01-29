@@ -1,74 +1,39 @@
-<?php //ICB0 56:0 71:bf1                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-4XiDCIeMVLsTQLIX8MHW3xiMdNd+=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/*
+ * CKFinder
+ * ========
+ * https://ckeditor.com/ckeditor-4/ckfinder/
+ * Copyright (c) 2007-2018, CKSource - Frederico Knabben. All rights reserved.
+ *
+ * The software, this file and its contents are subject to the CKFinder
+ * License. Please read the license.txt file before using, installing, copying,
+ * modifying or distribute this file or part of its contents. The contents of
+ * this file is part of the Source Code of CKFinder.
+ */
 
-?>
-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
-Fm0cIW==
+namespace CKSource\CKFinder\Exception;
+
+use CKSource\CKFinder\Error;
+
+/**
+ * The "invalid CSRF token" exception class.
+ *
+ * Thrown when received CSRF tokens do not match.
+ *
+ * @copyright 2016 CKSource - Frederico Knabben
+ */
+class InvalidCsrfTokenException extends CKFinderException
+{
+    /**
+     * Constructor.
+     *
+     * @param string     $message    the exception message
+     * @param array      $parameters the parameters passed for translation
+     * @param \Exception $previous   the previous exception
+     */
+    public function __construct($message = 'Invalid CSRF token.', $parameters = array(), \Exception $previous = null)
+    {
+        parent::__construct($message, Error::INVALID_REQUEST, $parameters, $previous);
+    }
+}

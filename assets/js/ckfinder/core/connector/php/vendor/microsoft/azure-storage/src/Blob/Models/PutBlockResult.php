@@ -1,84 +1,118 @@
-<?php //ICB0 56:0 71:d76                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-kcz2cml8ZPQKab7nSSDKZGokGV+2Ram==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Blob\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+ 
+namespace MicrosoftAzure\Storage\Blob\Models;
 
-?>
-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
+use MicrosoftAzure\Storage\Common\Internal\Resources;
+use MicrosoftAzure\Storage\Common\Internal\Utilities;
+
+/**
+ * The result of calling PutBlock API.
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Blob\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+class PutBlockResult
+{
+    private $contentMD5;
+    private $requestServerEncrypted;
+
+    /**
+     * Creates PutBlockResult object from the response of the put block request.
+     *
+     * @param array $headers The HTTP response headers in array representation.
+     *
+     * @internal
+     *
+     * @return PutBlockResult
+     */
+    public static function create(array $headers)
+    {
+        $result = new PutBlockResult();
+
+        $result->setContentMD5(
+            Utilities::tryGetValueInsensitive(Resources::CONTENT_MD5, $headers)
+        );
+
+        $result->setRequestServerEncrypted(
+            Utilities::toBoolean(
+                Utilities::tryGetValueInsensitive(
+                    Resources::X_MS_REQUEST_SERVER_ENCRYPTED,
+                    $headers
+                ),
+                true
+            )
+        );
+        
+        return $result;
+    }
+
+    /**
+     * Gets block content MD5.
+     *
+     * @return string
+     */
+    public function getContentMD5()
+    {
+        return $this->contentMD5;
+    }
+
+    /**
+     * Sets the content MD5 value.
+     *
+     * @param string $contentMD5 conent MD5 as a string.
+     *
+     * @return void
+     */
+    protected function setContentMD5($contentMD5)
+    {
+        $this->contentMD5 = $contentMD5;
+    }
+
+    /**
+     * Gets the whether the contents of the request are successfully encrypted.
+     *
+     * @return boolean
+     */
+    public function getRequestServerEncrypted()
+    {
+        return $this->requestServerEncrypted;
+    }
+
+    /**
+     * Sets the request server encryption value.
+     *
+     * @param boolean $requestServerEncrypted
+     *
+     * @return void
+     */
+    public function setRequestServerEncrypted($requestServerEncrypted)
+    {
+        $this->requestServerEncrypted = $requestServerEncrypted;
+    }
+}

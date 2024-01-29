@@ -1,88 +1,69 @@
-<?php //ICB0 56:0 71:de7                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\Api\Serializer;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use Aws\Api\Service;
+use Aws\CommandInterface;
+use GuzzleHttp\Psr7\Request;
+use Psr\Http\Message\RequestInterface;
 
-?>
-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
+/**
+ * Prepares a JSON-RPC request for transfer.
+ * @internal
+ */
+class JsonRpcSerializer
+{
+    /** @var JsonBody */
+    private $jsonFormatter;
+
+    /** @var string */
+    private $endpoint;
+
+    /** @var Service */
+    private $api;
+
+    /** @var string */
+    private $contentType;
+
+    /**
+     * @param Service  $api           Service description
+     * @param string   $endpoint      Endpoint to connect to
+     * @param JsonBody $jsonFormatter Optional JSON formatter to use
+     */
+    public function __construct(
+        Service $api,
+        $endpoint,
+        JsonBody $jsonFormatter = null
+    ) {
+        $this->endpoint = $endpoint;
+        $this->api = $api;
+        $this->jsonFormatter = $jsonFormatter ?: new JsonBody($this->api);
+        $this->contentType = JsonBody::getContentType($api);
+    }
+
+    /**
+     * When invoked with an AWS command, returns a serialization array
+     * containing "method", "uri", "headers", and "body" key value pairs.
+     *
+     * @param CommandInterface $command
+     *
+     * @return RequestInterface
+     */
+    public function __invoke(CommandInterface $command)
+    {
+        $name = $command->getName();
+        $operation = $this->api->getOperation($name);
+
+        return new Request(
+            $operation['http']['method'],
+            $this->endpoint,
+            [
+                'X-Amz-Target' => $this->api->getMetadata('targetPrefix') . '.' . $name,
+                'Content-Type' => $this->contentType
+            ],
+            $this->jsonFormatter->build(
+                $operation->getInput(),
+                $command->toArray()
+            )
+        );
+    }
+}

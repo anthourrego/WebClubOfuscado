@@ -1,163 +1,297 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cPuxIXZswXNioGmWJ7dZgWBSPjZbELNWvmV17KJ45wX5daEIKfXbh1LEUbhy69NhLfVlHnBHm
-SnDlqwO4eRkVjfB0MbLzpTfr+B6d5ZypSbJ/IpDjUBqM2bQJc8gmPdXA1jIyS4tOo008Ki6VxkCO
-RxQLskK6FndtUBXXj+nEPN77Un/db7sllagoN44a5DyIFMUyK148SNCUuOgRZ/ZFcNYIWNz2HEZU
-jKfEkgjFbPDxuTC3tGt1v/6VsWhRS0Dj9k6cbkwG0loEdbUqYTiSzzDhxb2UQjPh+y3n0tTkftnM
-+PfLM/aVqVacBwFl+cal/mqvOsSrkX6opSobEEWCjUjPz/kO6AkK0fc5VWFzk5w00GcnoHN2gA1t
-6JUEdwPZFd3yi4f9lAGWY4e8dZj0KCwtexsN6qVkhYsCGM1ZbOCZKy/3t9TGx8KbC/hpZYpkcWpl
-4gnJGtV6awmaLjd9hu8GC+/RtAETjzHOM9xzPrT+mfZ9yUKvhMSShwzK1NO2GHLQU4ovX6ZUdncd
-1OrciWNbPIpNZf8ZwfqqWJyoLoJ8nGsW5fF8807HUYE56jY8vPr3zHJ9OyTlfJOb6kQRvRO+B1H1
-0s1dbc+qdwTs50VcRgaY2n+sg6V+ulxgtIIRxpu5YkHSOmbI/yIVx9kIJSrz6FEKud8MoNhsqSNS
-9mNRoRXJwh7txhTkX6RoovdKGepPfQ4jr1KtRX0/WokUkZZvZEV+baHCSnCvERuGKEZTIojyjV/5
-v7Y2cUMvlYcI6DK48IQDFl+vfdCbSdPNBcTFBC4JO8mh6KK8Ay3zPim7URo2sNbi6ZKp2MwryLqw
-o8KmLAHJlkE4tTW0ISa7sJ3GHjERIuD3rGfUVNytHDgvx1tnheuGA2osm8YXT9xJaRJXuT5H5mL9
-7n1bGrYwNSjIwe7Z7OOqJ/yEnENpIpRudwp2U0Ny4yH3DfMJ9tjLymZ5dJy17k99tCn1YBX5aWib
-nLecr6pRC6j4OMjiD1pU36+GPNxC2tgMcDumO4nKMwpdP7/Opsb+o400ecGV+JWDBgV3SRt7EeWb
-5vRmE4lYTXscnBeR5quzygi0TzMBtJUwSumhsKQ1Z0tn01O4R9T1g7v7apk4FNopnj9X8daOV7mQ
-XOPjALeO7B8ijA1YtPWwE0vo/mS0quss59u/dKpwt8vYWrzdxaHlBbOIh91RSOk9gOx9Dd/MuWAB
-gmhawfPQqjJQ0hkVnnoIs7X0SkBa0VxOuHEslvL3BcOAH4MNvUl1JHKFBdddOmWh20B5vaqNfU4H
-LJCBQG97QyTtsuFsY4tE03Mejujpn9yOW6MgR6/DZ7/9YolO2mkbRfDomjDN9QCCQbe0rqsjrgq0
-dLcaoh4vrvNdl9HkIMab43xZHkwHoibBPpUFAf5rGIHhoCykLSC3QBnAEl1DPyjAO3abxy+siTFg
-T+KtB/IRqdKQNaCIxRH2GNoy+TmgEAtlfEro506FgLHF/NiNykTNr0XO1Z1y2fCEVEHQFeSN83Ln
-edvNvkvQJRcGVkmhjeaSpKkE0ZSOw+skWD0kny4fpyq+zZ2l/IdF9xr71ekdb/qPKdrW+kotTSFO
-eEROGYfP9wBMTYP3iG4WhnyI3s4XbB01CpgiK0K+rMTqMmjNN75BKf4tOUawp1243tpTp3+tj/vl
-DhlAKwpmE1cJcb9eGBVK8dXw/uvvsJ8eDrsObzm/ZDY93xvga0tinKXvnhpn0cSr+0MQAf+WRGTy
-otxnDjJByvjA3z54HB+k4lsTPq6Jqcuq4aqM/jZf7rr0QuPgcdpOPa82eB9bn9XoqDTXh4obhf5U
-JIDlAECd5Ktp1TfJt69beRpP237noz09DgBtFXcdZkvY0vF7xonBKeVKSKgmZSadX38TH651DB4s
-Oz/iqaZ/RwPfJw4gZNyXmsvQPwJIIyiJdABWbvypcl47TiOl+8HJkFEibXKuU2LTDhu6Uo/jwrC3
-OyPGuOluJvDJnkVfiKl7f4Mor8oI6SSwN6wImVpPT6690SYW+7n+YKFPdTaZ22opigXYGieuRLhE
-REX3BuoJ9TPCNG5i/ugB0nQmVP5n5c7H5HaEWr2qRPTqWziGFdJcLdznb5cDiE5kY5WjiJsaY3hL
-OI7TeSWWtBrba8E9uRUc5ias1SL7Hy7z7awGNdXhoEOmBOFbXoZgR3rvPMicfEN6dCC5Bw0haGvE
-Z/6AnT2JYTZzNyuWIwjcoOS1WJznoTEUB41CKxWCEjYuxB0F9hnOKFwoGj7j6TQY8bKw3ChvAyoC
-ycPBW4qYssXH+nT8BtL1TMPCew+8q8mmQ8F+LWksOjIs/8CDWFZSKkdbBsyUK54jAkhvwkCK/X+t
-dHHVd8bXS60rcLXh0jWMa68P8DfrQFyS0wvVk3P6RbmbW64fjvmREZ5UV7W1srZ08DsklG8RgIMF
-1QjQzHgGKMGtBbqrrV07dkizh3N/B+2jRC2xI+AeAMAXtx7eOYHYMfdD1xCJ3aaD2t0OpC/uPOwL
-ceX4LILycbhtLvEL8z8V/B0jVJtIilZOCwxfIllG6myRI5TY/M0zWpfaZttMFSZUaYOgx3TUAsdv
-yJDa3RFA/DK/Df1nobJ+KTdBO/o1YkJrGEHOE2RdWWB/IvR0QaMjPacYjW8YuhOIQlZMtnMaicQz
-tW9zwIpi62uwti4zSYkJGBddaQVvy/+sDvUMtHflzRDE+tTfXIGr7If7znWjyKVBdqum/oFm6M/D
-f+rtSzrFCpgXSXjno6tfsUGsbwsnEAlzGgTWusMOdc7GPYEXY6WzfoHcVw8E8Cy0+6utCkKvmAvq
-nkoNO725KSGJ1o2A58EFbtOsx9h473iuhke5CgNWyOCqx67DCVphpd2kaHRxEVMMgu0kgy7NFG0Q
-+FGxpOJ+vQx2cUgHe1eIbwLQM/RDZcd0CykeFfE2DSBN+6PlFpXWUmc3y4HCvFUa3phoupLLA2mH
-pnozGEtdMxCqZlKWqrHfdc7gGNgdbBVu5hoN3MpSNL/w0VZC7J7UvzZwgQ3rTx4GFSvWPeikipy5
-1kwefwXGost341VK3n8TcI7vg+zgK7L8v220vlmWk6UpqiD+CRaf5Gnz1hYm+JXZmWMSTnOn10HN
-BwXeg9FQZQhJdS+4XstZr9Z+icmX6iGY4Y5QOPJJ8Zko3871+UoQbT5y8lkzgWzkn8WJ7DsxZu9j
-XxBnwS+MZmJ1nrCDy5Ii4iUkuEMSSnwJ2KxNNPljMugiTM5KpyoXwaUw0vA4lujDzHPgQ6Fbjd7C
-mKlo+nbNl3cBWl5rLQFbH1m4gGP0q0VRbSLyQl5QHHYGTuwPVuAnNPyij06TjsZRqwuIfvmFu4Ho
-pbH2KV1C1Pesr8JEswZ2bSOm8B89fDyK5KIbBMvu/rm1b27bwSUVyozWGNzM16HuQ5P9TFhijhgg
-3quTvKb1yoJe9G8N7tbuFZ97VyykuVcvjcRNAh6vqNibHDLODfhhveYHJaLib609mLaTfBGUbsGG
-f2QijhWUey4jZLNTj+0d+jm/9RfbUJUF6Gnj0RlFGZMzt7MKnFpJNyYoyniYcF/6PU+IrScR8eFh
-iJyzK0oP+shAM9LssOnxnTms/lb9m9lQgS0v3DUZGFr8kuQfYnipGoFAaDosgoG9LLOC3BFO7uYe
-WDYk1W1P6J8GRt/eUpEErVAqsnQf08otEaAxi/tNsFjiyx8BeKNSO9oNKHmz0JlLIxt8RUonbE7Q
-ONWbf9IAJMSt8ccC+I0P10D9EcP0H8HfSyeOBePGJ4tHzgue//j+6IuKqyJzBk3a1OHAbZhLb5td
-bVH/KPM6yLoqXFgTGBpbm2xdY32Au47/av/wNeHUJti/7B3Ck63Hir+PrZ+0ShtF0CR8ZttISbRU
-qhOkq98kYHTMy7ZK0EuJi/bKO9+1ECaAZokxmy87mfSgvPmD0iFHxr/c81Vg1wH33pZcE8GfVmeP
-eQMgMMf8K8E28n+9TPLnm/U3oVafaRzrRO1VyKug5BgDaQLQK1zQBISYPQNFnPSPlOySH9RGK9+X
-gy+RJ2dqvAec9RnFhC7L64wWWFW0SL0UQqNw8M2AjscGSsM9M/lT2sX0rS1RW+QF1z0xjOTcAgfW
-rylmjHKJPH/2MQhS9eEPRLUvB99K0xe4bP344Yqz0vf9VGKvpku/Mr4of0f1q5uwPMtsJGB64hOs
-A+TLxVWIPJ9IebH1Dc8g6Q8eu2R7ghxW/TXtnnBNwGqHFqs5f2OO1rxWkK2YsiJIE9ld//M0J/Lp
-U222ijwpdu7frix9Tj6fOiVTGPC2SMp8RWaXfrg3R23wWeB4AK2gxiMUqSHpKYC2NI6uiEmk6mky
-/0jQ72Ngw5mt8gwqsWDugMHjQr/jaVVO9bwQUUR+G9YVsNKxOEUO0pJUcrunNjPWLsyv8L0LBevW
-D7Dh9NUCZ7M9VYRLQXoc4+H8KsQyWQ3zR5+sX/yEqwC4nc0WAlyz0OmW/ymn994ZmimwfSs0BvIY
-kbZybRe0QzaN1i+LacwSASS41itgapHuMFTii8p6VEC+9W5u+MqcmqymX11y4KacFnTlW3EG1eId
-W6JevVzxpr8l7Btfj8X6Dxp9xoUpzKE0opjB9pzwH1+r+QgBn7rIz4EeWo0todDf+dsRCrcVc6Z/
-dhex+VLlC8+Q8qWwae5fow1SjMOI9rzorliBRPIskYLLLGIaveyhjFJ+dg5LNuLD07FDjg6Skkv0
-FqNp/cdwbluo0PW0hNMIJJRd0P8lXgyBSlRwarV3/a6PA5p2QIm/vLD12Im42pZmvvS7N/+zsKBE
-cHckLPynFasNsyDDOmjxgB352HLdyugH85E/zrzDL6bzeN2vrYvHZVYI2dJobTCIfywu3+yaEyYS
-SooVu6NNdL3I0SfMGhKahUo3ENg9GNaMZcWUP3ElBKztLaWFN0MFmbwxi/TcSiF1pNnz5rLHqNRx
-mAvbDs1qBGPd6f391hLcJ9Gk9bPWStcqYrKhWq5R63AEdTF5KS7/E4Q7PHvSazq4hxjrG2GgxzyW
-M0Nmjw9W45tAWFGhj/Cv69gbfM+ACgZ/5+lY4e8I2FNvJhHhqgJ8n+JZLX4TBbIgPtMWlajzz/sJ
-dy26LaaIPHwRybLashPDPR7eoI7csc+A0pPQzT5fF/kuV5GbOChupqQlx4WTKnVTlzLwfKiTlPnf
-qgYEkIheQcQC4JjNGPEZPET3YiT1HBi4GshNkmsiTsHFJI/5g8cZruWi/YB3IsD9mSp1ivM2Kwe1
-O0B/oEYWLGQQLbghE3LS6rIAT/cqelCZi91Z+qe15Q4vjYj530PDvGAW76DAQ16Ge3jwzYa5o0jd
-DbgGv9ZqUt9kQEDge+sIKCLp0Vu8zGjJw+1tyR3URqAR3RXSuqdn3YaBcUncnm6JgAGR62jcIAt8
-2qe7g7gl0r9Hx6HXhb5Wl3R38HQn6qF1ylxSBIKSH/fgOnYGBdPFmY5IFGYWRuBKpUxk73YPu2X9
-fapSxy/cUd3pyvOBQNVH6Rp5RRPt/+ZyqicEWKqcQohB4eEWT58NPJMoScjfbXLnA1NschsRt+Vo
-R+q8ehqjVSuneN0BAIYei2zue3+oZ6ADBq3Yp00zLGTJobmwAdOUTIAasbratoLQjTCcKWCvFyNL
-W+4iTpP0mk/gwww2HoEPDy8r6LSaYNJdUe1FGPaxHUEgMB+82n8R1lruRWJsn7Qx4yK+YSPXmS8+
-ffgF8pKWY0MQYnfCl2+aokEfcBVAKm0a8Mb1v1S9Dc8TFfmizVsRSRWxYnjN449TIAwDDJ507hTP
-WXwibBwPTzPwgjD+labjur3ha5JztXsrot/51O0XoRDq3s06M4sTFWDGhPWUW8TIsa3/MeVhYrbE
-kYDebb0+eoD9lW1T0R6wpIso0w8TTIsxu3EnrnTEOYja5/WIwvPH6aOHjOZjFPPIOGiqx/ld4kme
-YWiCWH9jfTgeY/6hHTjR9HieKY7KgxomiPc2FQHAHfd4J6KziNqUcJyDdHQF2Kxl+HBjyItQstsq
-+vVPC8hVso8sSqrzVATuFNol9KVq6gCr+AlZslniMKjnLVvx2fpBc2pW/aKA8VnH6eFcTnIYD3lj
-HKSuOMwNUO1gISpSlgDRPm4zKt4K8jDxXaoMSQCIJAGEXFjpv/z++6w1jTwAMEUcGXVxfnNfuEk/
-tJj6SrvbnU/2l8WYiyoVJCnkM8+OE/zbGngXeLBjJ7mFQmKqvdOpN6hejfKV6OrmQNNDdvw6gVc5
-U/GsSge/eGEWA+ytCqaxRrEybO770VDn/LzQzZV80iZ3KjUr5WxwSGsZR6Sf0butwLEQ1oXCJg9s
-R4o5mE+U9feGGDk/CwPf7NsBcJ7ZeYz4j8otBfJWolz7N1t8IaanL7o25Qbmi81vaYuselF2DgXL
-b985oBiMP1N19uYxk+mXoyoOrTUoWjVwnNfkla0gi+A38os7V6wHH50XlqI+0PPb7Fa3b+Qmogcs
-1iOxCMj7uHnF2jyeaDgVLuL8FwCaNQXqt4aUFVMeMXof7pPM+JJfw35+BXNCSu7aPQ4LXft/yHjJ
-5G28oUI/1zKmEBKnQY0Tt6KA4BBzslhnNBHDiHKGIcbMMw4WdBJ4fsPzMgC10FScHDN+hIZfcW0H
-W2S6Krg26R3Ct8tEB/JztPrjiehaZ5IVdXO0Jm2Z70apCqmtR+9QB1/MNNva9cF0VctJyN+JuNux
-SHtW8jQv6Q0l5+ilS3F2bO92G60VdlEFnfVZ9NisxXidaN4eoKtFHPCi602rhUbMdnIhwn1ZJWZP
-ev5Fdiulr4GBNepz295uVQiWzwx4tD8/ZLI2ZnytZI68CxYG2Hhp7zofXvIdo2RY3HrGIRoJBcOM
-iuGDabgL/rg/D747dFsFGqCYOl84KsBUK7k8c0x/2zxbc/LtRKRrht/sqVvmN9qNf57GpUmnD3HS
-Rv1GVVFV4KMVoEXoj4f98CiFjxElnsc67ES4H5KqjGfRwGUwFgKQWIZL2rIj5Pi/bzjVNIedOz8W
-dtFMAxAxlPbC2Rkfp2L8y1Om7OjqoLpFecd/cGWVIfZwK7wMHi+p6EunAkUTodgAVXBLtqgWFIBC
-PzGPgOd+jrBysAkn/5lJxskcUMbWfMIPVU13nW7ZjbvR5W7WHPSpuB1GUgc4ORulKHLo3TbwcDX8
-fMK9oNW6fSPrNab5oNOz0mrdbShTrVmsYG4x7Z5Ij+BPi+uzcnZnn2v7rvVRszB0/dbOoRnYM4XA
-IGnLx3qHQuZ2ACdj2Fo9jJP/91f408VANiD3/TTimIj6k264tyOJcxEa5/uYS9dQ2dxvvjE62dsr
-p4DCDVeghP6jM2ebPPpBM9w8JBxOwSCYtxKzqzwn6vsuiC/3zrF2cwKZNZg8Lkzzo1tWT/iAdy7b
-R80Q0Sln750S+DoBhzbOfl4mPuNOAJd9+mfoCnJp1PQ0S79CfL8Q88fHPv3o6BCkIMe5/HlXssB2
-R4m4iUDTbCor3sfbpFEYJLGtMutDJsGJkrfPas3nGvajadPWvZ5xUVXxMj7ZA4Rfbkv3lQgZ9MmZ
-5fsggHZDmnH5vqt8SKXimW4PZMNn0oasJTfXEKNUlOotYhGfJq45lRNYrdmgK93qeu/giN/F5GKw
-7BDWQMMGimxP1Kf+GPjwlaTjacmarzNUWIia9s4A+llvdqVGz2JscKCcyJ3pah65pdJ2gWOWlu5I
-HH29jZiQV+QE+OneynLhSvqrs+VicEhkRqcWNvis/N2R6MsKtOfnR6DwnXPq2oGLDcBdDaqR4Fnp
-c8wi62nR8HTo5sA+Ne9b9TI2TCNMNamCrOhMnEtQWb9L//G9ZWv1Uz9A+jZHvleArp+JaTPXeuWv
-660xTM9a7tbPHvpsLEU3/3Kkfj8LjbwVj+2qGvhCjWNFFRFpB1Gh/ujAEaoW/KW42RpKiZu+oZu3
-RDhEikwACUVE+KE//59+oQcKmayM/QYWRZFEVdumAFqorjcaw9HWn03OpU1smXJ+oJ/fybQhib88
-yI6XKIMZOga3C1NuyQNvFx+P143ycnKO3uA1WY5dejclylqQ/igCaj6HKnj7agWm7BRZLXH6kcx3
-4P2995VrRfKKj2BgyT9fMazmb7mEzz8Qv5WtaXvnW9p1IXvg/OKIFvwIoWYDMAnQKGlgMHAhDQ/N
-l42/PIeqSRcerQ1Kp5g5XXlnp00ZQG6UIf4mPq2SXJOLhftMyA4D3bKQJfyzsXKhzry3b4kflC/W
-K7U+FT30FPuSUgtmPZj9Oys72fnj3ZaMsDpHXeRjRNoi7IaP/t1s8TTmzXEKMLejrRhii4yfh8BQ
-CHANc+RvOB8fDJ24TY/lWFl2HaBsVsE4gkVau9jFvJNttICszyUbImPAMNw+z1sDCoAOwVlnzfO7
-6XWpoMMBs0/aKCYdT4rz+bCI2wtB5XYPCJLxKFiTVcoS9UJdSgzoaAFlh0Ksk6qH+8kRYkvIhhj0
-8OkMYgUBJVaNTIuo8lNs9YA15YnaKGBiKa1+uLfeT3ciYlwDmzolAlKoKGFLFdvcQnu4SoNfex8e
-1r5bpveeTriOg871FrkGpHYVLp3evXFgcHy+3u4sm0g6Ba/YbH0ZACklVWwbX30tTwMp61cW2ehf
-r9T46anH/2OLO0MHrDLqwicLZrubtvH5aqFmTLsPsERNOfgMRM+K3CVb5enzclPlibP/PFvJzaGW
-DSEvDQKE5VjsRZXiGfcIvnF9chaWmHhMsqNiPDocct0DuMXmLlP4ViGpVlZ67+2t3VnoGOw5z3ap
-95gCdwdJ0ai9NHSbfYPu4i2WNGOUoL2r8WD2UmYkI/zUnIhO0IiYJ6uWeszvdMhpAvtoDrSxhm4x
-s8KvOslEEy51tDC4A1eohOW60P6grHfNNawRnDftTf/AXNN2ihQwa9VT8KkX2SiVXHVvlSVTqEl3
-9X7R0MAqFN5i0l+jiwaMX0wyynByEcMfMGbkDZ5LQV4eecVlbYPwE/z9zron+pZs4njQtccZrml/
-6+NQjU6WzcBIBN00WM0zDWOhorD/8e/3m72loKuwbq6KDaGWR6ceuqUv8guOXYjGkJ3B/aJOgcrj
-Kk0DkLkbud6MfGN4+1cjwClC5SyZFzGOvuRSwCyLLuejIH3WJqFW9MniZ3T3XgVH5xpekC6yO4v9
-/vwRvnKW3xKkeru7WOU2fi4naC9ZJJvITa/Jsb4/9tXNKmg954jRq2n3Keg5I5ush/dkhI1kex2E
-257VKkVvjGwKgdqVk1E3VBc9S3FY//l5Pj7zw9fPNHSb1Hl6azQFJrB87ke6j9pEgqUYG8LrpO1C
-kDJ/hjcZqbh2nwBHjYmsJWTnUFAnUygRIAe0LV+M4nkJoUXcWIzIwXGpgIuSu5eLgRPNDJUW8Tc0
-cBTiNkFD5qGNNeRb7PKjlv50e47ViHRvPW/fYhBk2TaluHkJtOykDEwgo5icCOrJJPXAT6gp5reH
-tilK+bILN+C7oSFy0PHg9KDC1AaxvhHiRf9CcuIuLFVK1rsqjYBpfJcPYQhyxIFy+62OP1z0No5Y
-/7tO+EWibhiW1f1A1P3jfV4U0i+yHAVGyjgW8RIxHsnKRi23k06rM0RoG5ZNdRxbN4dCiskOWq2H
-cABeVTPVtTZg94K5sdH6TqK57wsDoPK0CgAX6dN5ZXAsbgsXmNyClduseFkA2aF7WUGhYbDZP8Tp
-Fd29s+efC1LkXM2zhnTEXEQ5wes9y9zW1ZYyBJT6V5cZ50jkVSDlL6nzCXjnp1k7xwOmKO9g1BEx
-pwLBJn0lap1mmCpz8RqnRodklY3AD+IIkEcgsjd+BAGib86DwAol4p/S9b3CoIFZB66xJgrd924+
-Z3kDbZUXtW++zKxhRKQWZKClj0SoFLasCZfY33W25sCHoK01e8MDhsYUXr2n6aN9AAeXx4kdY5tF
-eUAw8qVQe+aaZ/3Bi83PA4YJvcyvSTIznIQCntIViEaJAS6uGasGlUr2nghzzFtdavVTEUQiUG6n
-hPJwO4fjYBCs+93gHNmRa08KxpDULOade04kJue/zIcHerwn6/YLo0JzX/gjEHdyMsNsIaWn04fs
-gy2Rp2rTocNhWtoq4yYG0dxNqx46mCuiRfgPoHPCat21j6+StnQ5hVd4W+8OdAx4NVoV6Ga1xEpX
-h9jfWfjEdTKfCnXSh7//ONTnviUysZ4YH7KS21INGz3QiZwMUwR1y7ZROACFqVgnEJ45rtRW0/q+
-Q0HyEgNP/8b4FbvObvPNdnHM2mDK8jRNtj3sM9FG5mAidC8kgV19iAswPSoUMO4/cVuL7FZBERJt
-7oqxg5NF6J4mzVDuvXBqblN4tEIrEFALGWwaHQLt38AALPXEPd2B6luB08k5Y34GdWa/3YLcTHUb
-2n5GZOsMFUpX1mh7uwkTIvOvCEcxXqb00a0AW20UyPmQZcOdy0IF8/3cwyi/BqQ1IvLus9dTcZu+
-nB3AaGvT0rZagBL6yIk/NfWYmToui/JvCp2WWLBfjjZntNAK62ZUlb4MNYl6+35skoXEmyyCul4F
-Nr+VqiiLwkp5u2VWazvo99AAZNePY+/OuXXR/uIo0qf2wmRhmJrv2qBDOYsA5jvwoDj+AUcUt/oN
-bjGZ1itEJwjCjtS2VJIq8pc7i5arEzZnUXgMsnqRD6fjDCGMqI6zKixevzzuR1CnHhco6XlZFVn6
-RLSQusz2QTt0N1FmpWpFZ4gK/BXsk28rP+dZC+9s3dDoXRjFFmgEJvkV0nDSIEj+VV3cJq5D3z62
-3EvaFrDqlIruQGFjosy1uKykUnVQNjW7Eg4Kvtty2r+LtYErWCGV7oahnBCZgcu1ZSdStmhTCzig
-xgpa39pNFcGnlLFN3T9G+Ca1ew8bdfHn3ljfDTz+3J0qNId3gefnKBmC1JkYJllvUE1+d+t93pMf
-rbu3QiolySC+s12kPX2fAWkAMU8rI59GZGVTcPAd+vqMEbIL3cazq1lDZ2quJIZ8CAB9dgjKKTlO
-MKr2Z+4kNkZlmH25brmLg+cjPVQ/vhi1FXTTAQT52prlNMeL5RvZn434rc4u0LAoaJ+QwO/D/g7A
-r9mwRHaSmw6TdW2irQob9wfzKYX/YWuafGZC2T09eekSlYYWtjE+wZzE2VnbEhlnyKJ2YhgI20qr
-GYFhZekroPMZw7dQDh9o7UF9k1mLKXiNwYD212/TOjEOWtCTJMtokF8B39gDaSkeh8tPWjq2KLcl
-4iCpSaoqtNb7nDow9RTQBWzvEtY7LYSRSJ5NTrnPOjLauwHWQpgccpF38yBlVOA7O+XZN1OwCAMI
-kFZ3aVzkzAprfRSPCVxO93NOftASvennfZ7FxlCjpVp418LBFjDe4ZtsZxZsjPrdZtzm5fhpmNsV
-ROrNnullsQNGSpTYAOh0fQXXHd0i7P+eFwkg6RIhxzsHYP1eVfMPENlBeDfj3hEBgjSfvBLGbEn6
-e8CvL5trVrPoFWmhT6iFZIeijo45aT8HwSBGlejnGpZBYuxgECQ7QJYjJtMWazhh/f32xI/8I50T
-jQUqQ3FTu6Xfg4hhm8R2y8VgXKDrRRU/tbrgxbyFWvdOV2OGcGXPsVwfGsXNmFyLW4V1EfB/CxFF
-kqs6Ne+B+iADvAhE8NsjHPmcO8EGkQIPpHBJnC2wI8blnhq4FO/E0D1FLgVhcej+0lD0ISd3i2WR
-rxH8l8PHthfktqMQz0RcrqEQcyCvyQklCXKEupMn+mJXJ6zwbFXtzSccV7uS3WdOOQ91BjVe/iy8
-JYISUofCfllCWfjS4LsuJjr2p6d+vCFk47J3uGbhTVEZyvLgbtiLIKuP9Y09ioBklkg9wBZebo8q
-GLuCjrkUuNC=
+/*
+ * This file is part of the Symfony package.
+ *
+ * (c) Fabien Potencier <fabien@symfony.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+namespace Symfony\Component\HttpKernel\Exception;
+
+use Symfony\Component\Debug\Exception\FlattenException as DebugFlattenException;
+
+/**
+ * FlattenException wraps a PHP Exception to be able to serialize it.
+ *
+ * Basically, this class removes all objects from the trace.
+ *
+ * @author Fabien Potencier <fabien@symfony.com>
+ *
+ * @deprecated Deprecated in 2.3, to be removed in 3.0. Use the same class from the Debug component instead.
+ */
+class FlattenException
+{
+    private $handler;
+
+    public static function __callStatic($method, $args)
+    {
+        if (!method_exists('Symfony\Component\Debug\Exception\FlattenException', $method)) {
+            throw new \BadMethodCallException(sprintf('Call to undefined method %s::%s()', get_called_class(), $method));
+        }
+
+        return call_user_func_array(array('Symfony\Component\Debug\Exception\FlattenException', $method), $args);
+    }
+
+    public function __call($method, $args)
+    {
+        if (!isset($this->handler)) {
+            $this->handler = new DebugFlattenException();
+        }
+
+        if (!method_exists($this->handler, $method)) {
+            throw new \BadMethodCallException(sprintf('Call to undefined method %s::%s()', get_class($this), $method));
+        }
+
+        return call_user_func_array(array($this->handler, $method), $args);
+    }
+}
+
+namespace Symfony\Component\Debug\Exception;
+
+use Symfony\Component\HttpKernel\Exception\FlattenException as LegacyFlattenException;
+use Symfony\Component\HttpKernel\Exception\HttpExceptionInterface;
+
+/**
+ * FlattenException wraps a PHP Exception to be able to serialize it.
+ *
+ * Basically, this class removes all objects from the trace.
+ *
+ * @author Fabien Potencier <fabien@symfony.com>
+ */
+class FlattenException extends LegacyFlattenException
+{
+    private $message;
+    private $code;
+    private $previous;
+    private $trace;
+    private $class;
+    private $statusCode;
+    private $headers;
+    private $file;
+    private $line;
+
+    public static function create(\Exception $exception, $statusCode = null, array $headers = array())
+    {
+        $e = new static();
+        $e->setMessage($exception->getMessage());
+        $e->setCode($exception->getCode());
+
+        if ($exception instanceof HttpExceptionInterface) {
+            $statusCode = $exception->getStatusCode();
+            $headers = array_merge($headers, $exception->getHeaders());
+        }
+
+        if (null === $statusCode) {
+            $statusCode = 500;
+        }
+
+        $e->setStatusCode($statusCode);
+        $e->setHeaders($headers);
+        $e->setTraceFromException($exception);
+        $e->setClass(get_class($exception));
+        $e->setFile($exception->getFile());
+        $e->setLine($exception->getLine());
+
+        $previous = $exception->getPrevious();
+
+        if ($previous instanceof \Exception) {
+            $e->setPrevious(static::create($previous));
+        } elseif ($previous instanceof \Throwable) {
+            $e->setPrevious(static::create(new FatalThrowableError($previous)));
+        }
+
+        return $e;
+    }
+
+    public function toArray()
+    {
+        $exceptions = array();
+        foreach (array_merge(array($this), $this->getAllPrevious()) as $exception) {
+            $exceptions[] = array(
+                'message' => $exception->getMessage(),
+                'class' => $exception->getClass(),
+                'trace' => $exception->getTrace(),
+            );
+        }
+
+        return $exceptions;
+    }
+
+    public function getStatusCode()
+    {
+        return $this->statusCode;
+    }
+
+    public function setStatusCode($code)
+    {
+        $this->statusCode = $code;
+    }
+
+    public function getHeaders()
+    {
+        return $this->headers;
+    }
+
+    public function setHeaders(array $headers)
+    {
+        $this->headers = $headers;
+    }
+
+    public function getClass()
+    {
+        return $this->class;
+    }
+
+    public function setClass($class)
+    {
+        $this->class = $class;
+    }
+
+    public function getFile()
+    {
+        return $this->file;
+    }
+
+    public function setFile($file)
+    {
+        $this->file = $file;
+    }
+
+    public function getLine()
+    {
+        return $this->line;
+    }
+
+    public function setLine($line)
+    {
+        $this->line = $line;
+    }
+
+    public function getMessage()
+    {
+        return $this->message;
+    }
+
+    public function setMessage($message)
+    {
+        $this->message = $message;
+    }
+
+    public function getCode()
+    {
+        return $this->code;
+    }
+
+    public function setCode($code)
+    {
+        $this->code = $code;
+    }
+
+    public function getPrevious()
+    {
+        return $this->previous;
+    }
+
+    public function setPrevious(FlattenException $previous)
+    {
+        $this->previous = $previous;
+    }
+
+    public function getAllPrevious()
+    {
+        $exceptions = array();
+        $e = $this;
+        while ($e = $e->getPrevious()) {
+            $exceptions[] = $e;
+        }
+
+        return $exceptions;
+    }
+
+    public function getTrace()
+    {
+        return $this->trace;
+    }
+
+    public function setTraceFromException(\Exception $exception)
+    {
+        $this->setTrace($exception->getTrace(), $exception->getFile(), $exception->getLine());
+    }
+
+    public function setTrace($trace, $file, $line)
+    {
+        $this->trace = array();
+        $this->trace[] = array(
+            'namespace' => '',
+            'short_class' => '',
+            'class' => '',
+            'type' => '',
+            'function' => '',
+            'file' => $file,
+            'line' => $line,
+            'args' => array(),
+        );
+        foreach ($trace as $entry) {
+            $class = '';
+            $namespace = '';
+            if (isset($entry['class'])) {
+                $parts = explode('\\', $entry['class']);
+                $class = array_pop($parts);
+                $namespace = implode('\\', $parts);
+            }
+
+            $this->trace[] = array(
+                'namespace' => $namespace,
+                'short_class' => $class,
+                'class' => isset($entry['class']) ? $entry['class'] : '',
+                'type' => isset($entry['type']) ? $entry['type'] : '',
+                'function' => isset($entry['function']) ? $entry['function'] : null,
+                'file' => isset($entry['file']) ? $entry['file'] : null,
+                'line' => isset($entry['line']) ? $entry['line'] : null,
+                'args' => isset($entry['args']) ? $this->flattenArgs($entry['args']) : array(),
+            );
+        }
+    }
+
+    private function flattenArgs($args, $level = 0, &$count = 0)
+    {
+        $result = array();
+        foreach ($args as $key => $value) {
+            if (++$count > 1e4) {
+                return array('array', '*SKIPPED over 10000 entries*');
+            }
+            if ($value instanceof \__PHP_Incomplete_Class) {
+                // is_object() returns false on PHP<=7.1
+                $result[$key] = array('incomplete-object', $this->getClassNameFromIncomplete($value));
+            } elseif (is_object($value)) {
+                $result[$key] = array('object', get_class($value));
+            } elseif (is_array($value)) {
+                if ($level > 10) {
+                    $result[$key] = array('array', '*DEEP NESTED ARRAY*');
+                } else {
+                    $result[$key] = array('array', $this->flattenArgs($value, $level + 1, $count));
+                }
+            } elseif (null === $value) {
+                $result[$key] = array('null', null);
+            } elseif (is_bool($value)) {
+                $result[$key] = array('boolean', $value);
+            } elseif (is_resource($value)) {
+                $result[$key] = array('resource', get_resource_type($value));
+            } else {
+                $result[$key] = array('string', (string) $value);
+            }
+        }
+
+        return $result;
+    }
+
+    private function getClassNameFromIncomplete(\__PHP_Incomplete_Class $value)
+    {
+        $array = new \ArrayObject($value);
+
+        return $array['__PHP_Incomplete_Class_Name'];
+    }
+}

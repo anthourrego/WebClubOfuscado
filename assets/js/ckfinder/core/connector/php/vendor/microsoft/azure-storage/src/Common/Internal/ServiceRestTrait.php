@@ -1,204 +1,259 @@
-<?php //ICB0 56:0 71:1d2e                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @ignore
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Common\Internal
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2017 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+ 
+namespace MicrosoftAzure\Storage\Common\Internal;
 
-?>
-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
-3IpH5vTUn2fp4OLi2Bxh8aNn
+use MicrosoftAzure\Storage\Common\LocationMode;
+use MicrosoftAzure\Storage\Common\Models\ServiceOptions;
+use MicrosoftAzure\Storage\Common\Models\ServiceProperties;
+use MicrosoftAzure\Storage\Common\Models\GetServicePropertiesResult;
+use MicrosoftAzure\Storage\Common\Models\GetServiceStatsResult;
+
+/**
+ * Trait implementing common REST API for all the services, including the
+ * following:
+ * Get/Set Service Properties
+ * Get service stats
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Common\Internal
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2017 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+trait ServiceRestTrait
+{
+    /**
+     * Gets the properties of the service.
+     *
+     * @param ServiceOptions $options The optional parameters.
+     *
+     * @return \MicrosoftAzure\Storage\Common\Models\GetServicePropertiesResult
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/hh452239.aspx
+     */
+    public function getServiceProperties(
+        ServiceOptions $options = null
+    ) {
+        return $this->getServicePropertiesAsync($options)->wait();
+    }
+
+    /**
+     * Creates promise to get the properties of the service.
+     *
+     * @param ServiceOptions $options The optional parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/hh452239.aspx
+     */
+    public function getServicePropertiesAsync(
+        ServiceOptions $options = null
+    ) {
+        $method      = Resources::HTTP_GET;
+        $headers     = array();
+        $queryParams = array();
+        $postParams  = array();
+        $path        = Resources::EMPTY_STRING;
+        
+        if (is_null($options)) {
+            $options = new ServiceOptions();
+        }
+        
+        $this->addOptionalQueryParam(
+            $queryParams,
+            Resources::QP_REST_TYPE,
+            'service'
+        );
+        $this->addOptionalQueryParam(
+            $queryParams,
+            Resources::QP_COMP,
+            'properties'
+        );
+
+        $dataSerializer = $this->dataSerializer;
+        
+        return $this->sendAsync(
+            $method,
+            $headers,
+            $queryParams,
+            $postParams,
+            $path,
+            Resources::STATUS_OK,
+            Resources::EMPTY_STRING,
+            $options
+        )->then(function ($response) use ($dataSerializer) {
+            $parsed = $dataSerializer->unserialize($response->getBody());
+            return GetServicePropertiesResult::create($parsed);
+        }, null);
+    }
+
+    /**
+     * Sets the properties of the service.
+     *
+     * It's recommended to use getServiceProperties, alter the returned object and
+     * then use setServiceProperties with this altered object.
+     *
+     * @param ServiceProperties $serviceProperties The service properties.
+     * @param ServiceOptions    $options           The optional parameters.
+     *
+     * @return void
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/hh452235.aspx
+     */
+    public function setServiceProperties(
+        ServiceProperties $serviceProperties,
+        ServiceOptions $options = null
+    ) {
+        $this->setServicePropertiesAsync($serviceProperties, $options)->wait();
+    }
+
+    /**
+     * Creates the promise to set the properties of the service.
+     *
+     * It's recommended to use getServiceProperties, alter the returned object and
+     * then use setServiceProperties with this altered object.
+     *
+     * @param ServiceProperties $serviceProperties The service properties.
+     * @param ServiceOptions    $options           The optional parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/hh452235.aspx
+     */
+    public function setServicePropertiesAsync(
+        ServiceProperties $serviceProperties,
+        ServiceOptions $options = null
+    ) {
+        Validate::isTrue(
+            $serviceProperties instanceof ServiceProperties,
+            Resources::INVALID_SVC_PROP_MSG
+        );
+                
+        $method      = Resources::HTTP_PUT;
+        $headers     = array();
+        $queryParams = array();
+        $postParams  = array();
+        $path        = Resources::EMPTY_STRING;
+        $body        = $serviceProperties->toXml($this->dataSerializer);
+        
+        if (is_null($options)) {
+            $options = new ServiceOptions();
+        }
+    
+        $this->addOptionalQueryParam(
+            $queryParams,
+            Resources::QP_REST_TYPE,
+            'service'
+        );
+        $this->addOptionalQueryParam(
+            $queryParams,
+            Resources::QP_COMP,
+            'properties'
+        );
+        $this->addOptionalHeader(
+            $headers,
+            Resources::CONTENT_TYPE,
+            Resources::URL_ENCODED_CONTENT_TYPE
+        );
+
+        $options->setLocationMode(LocationMode::PRIMARY_ONLY);
+        
+        return $this->sendAsync(
+            $method,
+            $headers,
+            $queryParams,
+            $postParams,
+            $path,
+            Resources::STATUS_ACCEPTED,
+            $body,
+            $options
+        );
+    }
+
+    /**
+     * Retrieves statistics related to replication for the service. The operation
+     * will only be sent to secondary location endpoint.
+     *
+     * @param  ServiceOptions|null $options The options this operation sends with.
+     *
+     * @return GetServiceStatsResult
+     */
+    public function getServiceStats(ServiceOptions $options = null)
+    {
+        return $this->getServiceStatsAsync($options)->wait();
+    }
+
+    /**
+     * Creates promise that retrieves statistics related to replication for the
+     * service. The operation will only be sent to secondary location endpoint.
+     *
+     * @param  ServiceOptions|null $options The options this operation sends with.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     */
+    public function getServiceStatsAsync(ServiceOptions $options = null)
+    {
+        $method      = Resources::HTTP_GET;
+        $headers     = array();
+        $queryParams = array();
+        $postParams  = array();
+        $path        = Resources::EMPTY_STRING;
+        
+        if (is_null($options)) {
+            $options = new ServiceOptions();
+        }
+        
+        $this->addOptionalQueryParam(
+            $queryParams,
+            Resources::QP_REST_TYPE,
+            'service'
+        );
+        $this->addOptionalQueryParam(
+            $queryParams,
+            Resources::QP_COMP,
+            'stats'
+        );
+
+        $dataSerializer = $this->dataSerializer;
+        
+        $options->setLocationMode(LocationMode::SECONDARY_ONLY);
+
+        return $this->sendAsync(
+            $method,
+            $headers,
+            $queryParams,
+            $postParams,
+            $path,
+            Resources::STATUS_OK,
+            Resources::EMPTY_STRING,
+            $options
+        )->then(function ($response) use ($dataSerializer) {
+            $parsed = $dataSerializer->unserialize($response->getBody());
+            return GetServiceStatsResult::create($parsed);
+        }, null);
+    }
+}

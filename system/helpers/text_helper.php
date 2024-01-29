@@ -1,237 +1,567 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2017, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2017, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license	http://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 1.0.0
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-kuXTovZQjEWhyTDbRJOFS+MiCzBU5G==
+/**
+ * CodeIgniter Text Helpers
+ *
+ * @package		CodeIgniter
+ * @subpackage	Helpers
+ * @category	Helpers
+ * @author		EllisLab Dev Team
+ * @link		https://codeigniter.com/user_guide/helpers/text_helper.html
+ */
+
+// ------------------------------------------------------------------------
+
+if ( ! function_exists('word_limiter'))
+{
+	/**
+	 * Word Limiter
+	 *
+	 * Limits a string to X number of words.
+	 *
+	 * @param	string
+	 * @param	int
+	 * @param	string	the end character. Usually an ellipsis
+	 * @return	string
+	 */
+	function word_limiter($str, $limit = 100, $end_char = '&#8230;')
+	{
+		if (trim($str) === '')
+		{
+			return $str;
+		}
+
+		preg_match('/^\s*+(?:\S++\s*+){1,'.(int) $limit.'}/', $str, $matches);
+
+		if (strlen($str) === strlen($matches[0]))
+		{
+			$end_char = '';
+		}
+
+		return rtrim($matches[0]).$end_char;
+	}
+}
+
+// ------------------------------------------------------------------------
+
+if ( ! function_exists('character_limiter'))
+{
+	/**
+	 * Character Limiter
+	 *
+	 * Limits the string based on the character count.  Preserves complete words
+	 * so the character count may not be exactly as specified.
+	 *
+	 * @param	string
+	 * @param	int
+	 * @param	string	the end character. Usually an ellipsis
+	 * @return	string
+	 */
+	function character_limiter($str, $n = 500, $end_char = '&#8230;')
+	{
+		if (mb_strlen($str) < $n)
+		{
+			return $str;
+		}
+
+		// a bit complicated, but faster than preg_replace with \s+
+		$str = preg_replace('/ {2,}/', ' ', str_replace(array("\r", "\n", "\t", "\v", "\f"), ' ', $str));
+
+		if (mb_strlen($str) <= $n)
+		{
+			return $str;
+		}
+
+		$out = '';
+		foreach (explode(' ', trim($str)) as $val)
+		{
+			$out .= $val.' ';
+
+			if (mb_strlen($out) >= $n)
+			{
+				$out = trim($out);
+				return (mb_strlen($out) === mb_strlen($str)) ? $out : $out.$end_char;
+			}
+		}
+	}
+}
+
+// ------------------------------------------------------------------------
+
+if ( ! function_exists('ascii_to_entities'))
+{
+	/**
+	 * High ASCII to Entities
+	 *
+	 * Converts high ASCII text and MS Word special characters to character entities
+	 *
+	 * @param	string	$str
+	 * @return	string
+	 */
+	function ascii_to_entities($str)
+	{
+		$out = '';
+		$length = defined('MB_OVERLOAD_STRING')
+			? mb_strlen($str, '8bit') - 1
+			: strlen($str) - 1;
+		for ($i = 0, $count = 1, $temp = array(); $i <= $length; $i++)
+		{
+			$ordinal = ord($str[$i]);
+
+			if ($ordinal < 128)
+			{
+				/*
+					If the $temp array has a value but we have moved on, then it seems only
+					fair that we output that entity and restart $temp before continuing. -Paul
+				*/
+				if (count($temp) === 1)
+				{
+					$out .= '&#'.array_shift($temp).';';
+					$count = 1;
+				}
+
+				$out .= $str[$i];
+			}
+			else
+			{
+				if (count($temp) === 0)
+				{
+					$count = ($ordinal < 224) ? 2 : 3;
+				}
+
+				$temp[] = $ordinal;
+
+				if (count($temp) === $count)
+				{
+					$number = ($count === 3)
+						? (($temp[0] % 16) * 4096) + (($temp[1] % 64) * 64) + ($temp[2] % 64)
+						: (($temp[0] % 32) * 64) + ($temp[1] % 64);
+
+					$out .= '&#'.$number.';';
+					$count = 1;
+					$temp = array();
+				}
+				// If this is the last iteration, just output whatever we have
+				elseif ($i === $length)
+				{
+					$out .= '&#'.implode(';', $temp).';';
+				}
+			}
+		}
+
+		return $out;
+	}
+}
+
+// ------------------------------------------------------------------------
+
+if ( ! function_exists('entities_to_ascii'))
+{
+	/**
+	 * Entities to ASCII
+	 *
+	 * Converts character entities back to ASCII
+	 *
+	 * @param	string
+	 * @param	bool
+	 * @return	string
+	 */
+	function entities_to_ascii($str, $all = TRUE)
+	{
+		if (preg_match_all('/\&#(\d+)\;/', $str, $matches))
+		{
+			for ($i = 0, $s = count($matches[0]); $i < $s; $i++)
+			{
+				$digits = $matches[1][$i];
+				$out = '';
+
+				if ($digits < 128)
+				{
+					$out .= chr($digits);
+
+				}
+				elseif ($digits < 2048)
+				{
+					$out .= chr(192 + (($digits - ($digits % 64)) / 64)).chr(128 + ($digits % 64));
+				}
+				else
+				{
+					$out .= chr(224 + (($digits - ($digits % 4096)) / 4096))
+						.chr(128 + ((($digits % 4096) - ($digits % 64)) / 64))
+						.chr(128 + ($digits % 64));
+				}
+
+				$str = str_replace($matches[0][$i], $out, $str);
+			}
+		}
+
+		if ($all)
+		{
+			return str_replace(
+				array('&amp;', '&lt;', '&gt;', '&quot;', '&apos;', '&#45;'),
+				array('&', '<', '>', '"', "'", '-'),
+				$str
+			);
+		}
+
+		return $str;
+	}
+}
+
+// ------------------------------------------------------------------------
+
+if ( ! function_exists('word_censor'))
+{
+	/**
+	 * Word Censoring Function
+	 *
+	 * Supply a string and an array of disallowed words and any
+	 * matched words will be converted to #### or to the replacement
+	 * word you've submitted.
+	 *
+	 * @param	string	the text string
+	 * @param	string	the array of censored words
+	 * @param	string	the optional replacement value
+	 * @return	string
+	 */
+	function word_censor($str, $censored, $replacement = '')
+	{
+		if ( ! is_array($censored))
+		{
+			return $str;
+		}
+
+		$str = ' '.$str.' ';
+
+		// \w, \b and a few others do not match on a unicode character
+		// set for performance reasons. As a result words like über
+		// will not match on a word boundary. Instead, we'll assume that
+		// a bad word will be bookeneded by any of these characters.
+		$delim = '[-_\'\"`(){}<>\[\]|!?@#%&,.:;^~*+=\/ 0-9\n\r\t]';
+
+		foreach ($censored as $badword)
+		{
+			$badword = str_replace('\*', '\w*?', preg_quote($badword, '/'));
+			if ($replacement !== '')
+			{
+				$str = preg_replace(
+					"/({$delim})(".$badword.")({$delim})/i",
+					"\\1{$replacement}\\3",
+					$str
+				);
+			}
+			elseif (preg_match_all("/{$delim}(".$badword."){$delim}/i", $str, $matches, PREG_PATTERN_ORDER | PREG_OFFSET_CAPTURE))
+			{
+				$matches = $matches[1];
+				for ($i = count($matches) - 1; $i >= 0; $i--)
+				{
+					$length = strlen($matches[$i][0]);
+					$str = substr_replace(
+						$str,
+						str_repeat('#', $length),
+						$matches[$i][1],
+						$length
+					);
+				}
+			}
+		}
+
+		return trim($str);
+	}
+}
+
+// ------------------------------------------------------------------------
+
+if ( ! function_exists('highlight_code'))
+{
+	/**
+	 * Code Highlighter
+	 *
+	 * Colorizes code strings
+	 *
+	 * @param	string	the text string
+	 * @return	string
+	 */
+	function highlight_code($str)
+	{
+		/* The highlight string function encodes and highlights
+		 * brackets so we need them to start raw.
+		 *
+		 * Also replace any existing PHP tags to temporary markers
+		 * so they don't accidentally break the string out of PHP,
+		 * and thus, thwart the highlighting.
+		 */
+		$str = str_replace(
+			array('&lt;', '&gt;', '<?', '?>', '<%', '%>', '\\', '</script>'),
+			array('<', '>', 'phptagopen', 'phptagclose', 'asptagopen', 'asptagclose', 'backslashtmp', 'scriptclose'),
+			$str
+		);
+
+		// The highlight_string function requires that the text be surrounded
+		// by PHP tags, which we will remove later
+		$str = highlight_string('<?php '.$str.' ?>', TRUE);
+
+		// Remove our artificially added PHP, and the syntax highlighting that came with it
+		$str = preg_replace(
+			array(
+				'/<span style="color: #([A-Z0-9]+)">&lt;\?php(&nbsp;| )/i',
+				'/(<span style="color: #[A-Z0-9]+">.*?)\?&gt;<\/span>\n<\/span>\n<\/code>/is',
+				'/<span style="color: #[A-Z0-9]+"\><\/span>/i'
+			),
+			array(
+				'<span style="color: #$1">',
+				"$1</span>\n</span>\n</code>",
+				''
+			),
+			$str
+		);
+
+		// Replace our markers back to PHP tags.
+		return str_replace(
+			array('phptagopen', 'phptagclose', 'asptagopen', 'asptagclose', 'backslashtmp', 'scriptclose'),
+			array('&lt;?', '?&gt;', '&lt;%', '%&gt;', '\\', '&lt;/script&gt;'),
+			$str
+		);
+	}
+}
+
+// ------------------------------------------------------------------------
+
+if ( ! function_exists('highlight_phrase'))
+{
+	/**
+	 * Phrase Highlighter
+	 *
+	 * Highlights a phrase within a text string
+	 *
+	 * @param	string	$str		the text string
+	 * @param	string	$phrase		the phrase you'd like to highlight
+	 * @param	string	$tag_open	the openging tag to precede the phrase with
+	 * @param	string	$tag_close	the closing tag to end the phrase with
+	 * @return	string
+	 */
+	function highlight_phrase($str, $phrase, $tag_open = '<mark>', $tag_close = '</mark>')
+	{
+		return ($str !== '' && $phrase !== '')
+			? preg_replace('/('.preg_quote($phrase, '/').')/i'.(UTF8_ENABLED ? 'u' : ''), $tag_open.'\\1'.$tag_close, $str)
+			: $str;
+	}
+}
+
+// ------------------------------------------------------------------------
+
+if ( ! function_exists('convert_accented_characters'))
+{
+	/**
+	 * Convert Accented Foreign Characters to ASCII
+	 *
+	 * @param	string	$str	Input string
+	 * @return	string
+	 */
+	function convert_accented_characters($str)
+	{
+		static $array_from, $array_to;
+
+		if ( ! is_array($array_from))
+		{
+			if (file_exists(APPPATH.'config/foreign_chars.php'))
+			{
+				include(APPPATH.'config/foreign_chars.php');
+			}
+
+			if (file_exists(APPPATH.'config/'.ENVIRONMENT.'/foreign_chars.php'))
+			{
+				include(APPPATH.'config/'.ENVIRONMENT.'/foreign_chars.php');
+			}
+
+			if (empty($foreign_characters) OR ! is_array($foreign_characters))
+			{
+				$array_from = array();
+				$array_to = array();
+
+				return $str;
+			}
+
+			$array_from = array_keys($foreign_characters);
+			$array_to = array_values($foreign_characters);
+		}
+
+		return preg_replace($array_from, $array_to, $str);
+	}
+}
+
+// ------------------------------------------------------------------------
+
+if ( ! function_exists('word_wrap'))
+{
+	/**
+	 * Word Wrap
+	 *
+	 * Wraps text at the specified character. Maintains the integrity of words.
+	 * Anything placed between {unwrap}{/unwrap} will not be word wrapped, nor
+	 * will URLs.
+	 *
+	 * @param	string	$str		the text string
+	 * @param	int	$charlim = 76	the number of characters to wrap at
+	 * @return	string
+	 */
+	function word_wrap($str, $charlim = 76)
+	{
+		// Set the character limit
+		is_numeric($charlim) OR $charlim = 76;
+
+		// Reduce multiple spaces
+		$str = preg_replace('| +|', ' ', $str);
+
+		// Standardize newlines
+		if (strpos($str, "\r") !== FALSE)
+		{
+			$str = str_replace(array("\r\n", "\r"), "\n", $str);
+		}
+
+		// If the current word is surrounded by {unwrap} tags we'll
+		// strip the entire chunk and replace it with a marker.
+		$unwrap = array();
+		if (preg_match_all('|\{unwrap\}(.+?)\{/unwrap\}|s', $str, $matches))
+		{
+			for ($i = 0, $c = count($matches[0]); $i < $c; $i++)
+			{
+				$unwrap[] = $matches[1][$i];
+				$str = str_replace($matches[0][$i], '{{unwrapped'.$i.'}}', $str);
+			}
+		}
+
+		// Use PHP's native function to do the initial wordwrap.
+		// We set the cut flag to FALSE so that any individual words that are
+		// too long get left alone. In the next step we'll deal with them.
+		$str = wordwrap($str, $charlim, "\n", FALSE);
+
+		// Split the string into individual lines of text and cycle through them
+		$output = '';
+		foreach (explode("\n", $str) as $line)
+		{
+			// Is the line within the allowed character count?
+			// If so we'll join it to the output and continue
+			if (mb_strlen($line) <= $charlim)
+			{
+				$output .= $line."\n";
+				continue;
+			}
+
+			$temp = '';
+			while (mb_strlen($line) > $charlim)
+			{
+				// If the over-length word is a URL we won't wrap it
+				if (preg_match('!\[url.+\]|://|www\.!', $line))
+				{
+					break;
+				}
+
+				// Trim the word down
+				$temp .= mb_substr($line, 0, $charlim - 1);
+				$line = mb_substr($line, $charlim - 1);
+			}
+
+			// If $temp contains data it means we had to split up an over-length
+			// word into smaller chunks so we'll add it back to our current line
+			if ($temp !== '')
+			{
+				$output .= $temp."\n".$line."\n";
+			}
+			else
+			{
+				$output .= $line."\n";
+			}
+		}
+
+		// Put our markers back
+		if (count($unwrap) > 0)
+		{
+			foreach ($unwrap as $key => $val)
+			{
+				$output = str_replace('{{unwrapped'.$key.'}}', $val, $output);
+			}
+		}
+
+		return $output;
+	}
+}
+
+// ------------------------------------------------------------------------
+
+if ( ! function_exists('ellipsize'))
+{
+	/**
+	 * Ellipsize String
+	 *
+	 * This function will strip tags from a string, split it at its max_length and ellipsize
+	 *
+	 * @param	string	string to ellipsize
+	 * @param	int	max length of string
+	 * @param	mixed	int (1|0) or float, .5, .2, etc for position to split
+	 * @param	string	ellipsis ; Default '...'
+	 * @return	string	ellipsized string
+	 */
+	function ellipsize($str, $max_length, $position = 1, $ellipsis = '&hellip;')
+	{
+		// Strip tags
+		$str = trim(strip_tags($str));
+
+		// Is the string long enough to ellipsize?
+		if (mb_strlen($str) <= $max_length)
+		{
+			return $str;
+		}
+
+		$beg = mb_substr($str, 0, floor($max_length * $position));
+		$position = ($position > 1) ? 1 : $position;
+
+		if ($position === 1)
+		{
+			$end = mb_substr($str, 0, -($max_length - mb_strlen($beg)));
+		}
+		else
+		{
+			$end = mb_substr($str, -($max_length - mb_strlen($beg)));
+		}
+
+		return $beg.$ellipsis.$end;
+	}
+}

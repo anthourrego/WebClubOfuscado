@@ -1,74 +1,42 @@
-<?php //ICB0 56:0 71:bcc                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+/**
+ * @package php-font-lib
+ * @link    https://github.com/PhenX/php-font-lib
+ * @author  Fabien Ménager <fabien.menager@gmail.com>
+ * @license http://www.gnu.org/copyleft/lesser.html GNU Lesser General Public License
+ */
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cP++riIlmaWeCZG0a23Cmt45QfGA1c6g2LlY6CIy/MI45L1FbjuChMz+c71e1WtmnGETJlq81
-RPWC9UMlMeyd1E2/YR/LSL55M0ADZrAkWSbPKiLMU50bM0j7XrXX4I2mDFtHON039D3B/HoMzCuM
-0u7Ck5VCDxjhrh/WyTWw1Lg0wkx3f11qI/5ILbt0i9iuC4PVDrOcam5yBFMuEcZxBa+gCUkBsrdv
-CyJxMesO3ApDBuC3RDYfwa3nE6iTWLio+JL7OUwG0loEdbUqYTiSzzDhxb3rOacSo+kG7wVCh/uc
-32eGT/zpYVLJ2RpinuLBGQUNZmKE/Z7T4raBxI9OhnIiydM2gO9AqHhUjTuph1j+BF1fyCLdx5JV
-tA8H4c5yY/v9JMqd4s/8VtNmZ+KXCh0ZBxDRifxA3SO+ARTJE3XET6Yz3V7hYoq8jA4Xywnupj93
-2LkeRuKwP8jVcFNSeWFoxWV4XsCfezIW7MbNcM2o2MiBGy2dKVauJwcVNe82TzZGOaJHI0kWxgjP
-HHlmHHnFgokTPTszUhjii6fGOOqVCtzOeASbWP5JCo7tt272MDJJEzxMUi7zi/LM+xg0pA8wdPlg
-B3SzoYYDFM8B1AdP5eFYmgKCpptmu5lHdPeo/D70jO1jJdnrxaHzGOS8rvOqvFqgLvgS08INxupB
-yXjvasRqhUBAXu9xShpT5YH/6EMHm1tU6fCRFMpY9EJzh1wfgauEx0zFOx+32UHu+opjeTO088qX
-Ih0c1UouQ0dW/9A8d4q2GYD4/lbAr0OPt4MNFxcL2n4KPzc3vn+crR9TxnZjfS2z70xXjAY5+dVI
-BlzNAhunzvYnRElHkwOwCvCSxIZhgSxonOFnajfxhXL1gKEBHqEbQC53gHS/EuSWdpSXpwwZXBiq
-VIxugt9bvAllZ6U0U26gkZl5v/fE4z4zHL053lQ3N9zwl1PyEzZyaSTmRekefZQT7KHaGl69YQYZ
-e/1vK17twoh/3oLLbA7rTCDxisfaJ5tPfQY1vAmJMijpNBVMqEwm4ER540PGFotl2FA28hdnayvD
-/UVPc2WTpajYEaHcIZgeKOiBXi/K20z/ZL7F2SGuBAh1VLXeJZFF0OHoElgihvbZnBNy1210N9ur
-tjatuniXJWBwz14po50W81ZfWQUwEVSEaGkWjo1FOiXKlT+ifRFmMZtCQzbF2l6rJ5GiQ8NHpSP7
-V0iRGHjffDuKmRGNzvK0o0J9PQ5WzeNfurA8x5TvK6wcEs7J5RS0gPB0OxHzfVK4EOWQRfgfOo1b
-V0dInyQvgM2UFLwIFwY0RCKQ7NKKeLApULHBM42UYuf0xsKGVIyh8EYb6DSSiz+Mh2pFQRkWt30K
-lapTMHvVJXmiYnbkIMBEbZTmHxGhTABLQglFbvqrMyd5Bl+qa+B9cr/U4d/VhNVZiAPNrrEYWNXg
-mgvxcXWvTQusZQY4CU2FCaRTfb2GnA58bZZAEdrcK4VYvtdvNNRovQ53iDOFwjjOP695nXfwVYvn
-XeH9ATTzGqYuAUTteYcKejanZLtIh+9q58IkchAGhLjYt0ydvdUbZrsDVSy6qaTPGqfmpxkuZAmC
-c8tGRWHn6Z0X60bmtlxgL3qLh/BdPVrp9sT++9b+3esTlhW2It3IsldkP/kbHhbWvZVVmMo+oHZW
-TcgKPlYRWay5w+srqmH5/xX+OyRa3c+bNnbKqAsSwhVSm6jQRdxBKmfq1EvQdj6eniL0LRNngcuu
-A9pH5lXXlbCg6J2V8BOnHX8ECMt2RX4v1nt9LHcNBa9ZuiVA8tzRqlN2kt+gIfrb0s3EjAdVR2N9
-KQzWlUjX442ndpd6s8gAiVFcmTXYHQfzo4Ko1rfZ+YMpgaj4N2AsMo/AiBDfR4gfIxf2H4biVMlz
-QSvnNf+QSvgEw79iE95Y2zt9xw1aoOyKi/tfzCi1Ob3xbPb0OtDXd6Ih/JCesTBxr0+pABum308+
-qCxbbfmc7L1sAeQI0Iej5SwA+wZGPM07bkDdHhPcItq8wK+Q7ehB/wDLTM8ub5FfghIaf9V8N5AZ
-ve4cQR8Za7O4A9Xz1pKbCV5O1fD845ZqR4mWtgtEjpr2bKD/yMozMrW/ehYq5QcBdG===
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+namespace FontLib\Table\Type;
+use FontLib\Table\Table;
 
-?>
-HR+cPshpIRYaMxA/iKVScrocJnQFMWvR+73BEU2B3mkX904I5BBInSYOiaIPTOAGXM5AP9Q40wsQ
-PXqzie4lBQ7yip+0GSTGrbl4jgDoezg88AQ5LVvkt70KNbymMJazrrrdHmxvQgIi50AHzgHCsP3s
-ynNiI2+edMsDQ48X0Wo4BJsbNPj/2k8vQBvN973MbLLUMKO9YytOD9expK4Jjia7xj0okfoxHQWi
-rhnHV+8PfcW7r30WGcUH0LxRysZsfvt5oL/RrfQCiXVt9JsiVp1S6WJbXmGMPIO2lf3gFOv6kqpJ
-bEbV2//u8ItZVEzNe4E8wS0Q7iZ0IsTchV51RwJRQ5JG04jLANJW9WcytDzpgkv3GNof9k49TNxU
-fuOhcgFBSNAPRLH5DvvTZ54d08trgAmrfjht2rwg6KMSdeMiEAqrtae0nYY+yFebry1aUn68c6Wl
-Fu8VHLZmyLef86Y2lkkmwlOgzPIKTM3q8yT1MESv9JDpOiwRY2zB6b/JvdzjY0M1qHxDDRITIRIw
-oE7K6YXzFjc4sf32McKCDKApWD8Mt82S6guZGGVOQH2+tSHDW7ja0s0q1CN78MJjDTJEz2B3Ba/0
-T5wIAEgxpGjZCMQ93jY1TaUlwHz3a6yFzDAuShtmOzKp/my68ajd4P4JgUOhoJj1peIO5n3dSiOG
-FMLqBb0MbGvufc19MT3D8z+H8iYFKuS73vLuXPIUEyu/Hld2K6J3CKPSpHGzhsHuZ8iBtqJXNF4z
-jY61P6g2kofa+QSSw4ActQR1C3CT6iT1eybLJVROJwz3psySp2SG5xpFo2rG3nkZtpf5+ZcwheaC
-fvbDHFMCO0CnBanXNmu3/Yo9/RZzP0dKxqb7/4L0NFRCm5jihngKRR6We7BAUefisJRem+XMeLUK
-M/M1GmBZvgJLXh1rR9oLaiC/OLWjHmiz9nB+JkwlEkzboeHHwjIss4PgSvGJYGySG+wcycGNygis
-koWabHJ/QF5QTLc7QzWhaRgmrMo0sWXvZUMo/SDoFNKkkaFxh2hEgMM9Fz5nINcWFyJt2PfsuR3b
-JijDIcl7/yrG7N3pbnwCU1OeUfrQd2UXP6S+kQ/dQ7ES7nvTE3i/owoj98KSDctH97CzVG7AaZjw
-AJOvQ/yMt1lEUv+FpP17fIRxrMDC92Nv1aetiBetotR2ABgdpJAKpdHIdaqpUQg22Y9d6lygU8mS
-nhEZhHcG7tBkwUsG70PLcFewkKwxfT8DEENdcT1fWmuCUyM3P38evhnmxNXYxBnrq97Vk89C7+/a
-LlCRtjGZjL64SghfCiGV+O0dAw6UCE5FkA5vf+QCJdsfLHrWUbITxvYy9gXOGVbCX89CO5Dm9BHP
-LeC3wSvpwvMXGE4BYQoafGDIyf/dHi0XLqRS2MLpZJW5a8N46qKAxffmB91wlSvR7VLHSLsldGG8
-jmjnsW0jl+N1cqYBypIQw81YjwUtsFZSgF5IaCVUkxrVRolcQQtd4p7JDF5KhCLBaETq2JT7Eh1L
-x/PBQTUKCtCD/rrq2vGxt+sLWeSCIsF3bsUuGLp0zxoj+aZO0j0rZ2DakNM64Y5AhIbvQy15bQ/G
-08d1eVD6TG9BobyKJYeE2ijypkl3+L+8ou5cvL30PkUM94l6ncxjYWe+PkrktkfFfRfeS5/PQwnr
-wJZ3+lqS8HPw1VSkdlVLcbvb+7KTXuLRka6NQMyoOQfNBZqBG//YYiq4qRB6nOvmIB+jD0ju4Te2
-aTWpjy0Yqw3yHu/REv1H8rAnVeJeL+eDgKpREH8KGVJrx6Ga9hqV8WWsnVoYEfeJ6roa9sTlNjQj
-U7HW4p8XjrBaN0yCY7zLq//ISiGlQ2fydMijeKuEBKXv21XgpPMToLnq6Lf5rHmxfWQcCEXEM9ze
-+ixgcn6M8okm6Po89mJTL/RBVw6TJuTO5Fb+ZpM5X+5/Dh4m9JuAGOQDCgktof+MbBKoiHhaEx1l
-0OnfGq1xl//jV2TZ0TR6KVjAf0ndq7ujkX/tzXiz1H1b24aG9WjMXTbw/uMemEYv8XvxBitV5sCx
-BwcnO/6xbFwhLMgW87t8EI7pYAf8JYyk95VED1xdVG4NhQb0nZaw4pDVl0MRcITtasXbN3NIGk9v
-C6xq0dKdgeXbYO2nmEOrxO6btL681mOCCxwklZ7USzFMCNz3vkrEUQUMtl68rwbiETuGabCYkzfe
-VnUyOjm6cpuUetz4MWq99dzS0522eRXsm2ESdCxSUVAFiXw4W3N+MX5c+pvueNLyy1d3YzNWMMiN
-T2Ti91I130N5ZhPuEC3TSE2mKV77BcGGACobYmoM7gjeP3XycOzV+rvxAxfDhCdmjjLlwYn4H3Qb
-k5Ub5SBsadr11Yqd5aj2qdPPyS8SlV3+jyHPhbCJ7zU8G2pFhLA5Ftt6RvE5OpMr3/r3bRfeaGa9
-MNAK1mUSNv5kMP5Tqjn9zw5Rbvm8uc8Sg3KLjne=
+/**
+ * `maxp` font table.
+ *
+ * @package php-font-lib
+ */
+class maxp extends Table {
+  protected $def = array(
+    "version"               => self::Fixed,
+    "numGlyphs"             => self::uint16,
+    "maxPoints"             => self::uint16,
+    "maxContours"           => self::uint16,
+    "maxComponentPoints"    => self::uint16,
+    "maxComponentContours"  => self::uint16,
+    "maxZones"              => self::uint16,
+    "maxTwilightPoints"     => self::uint16,
+    "maxStorage"            => self::uint16,
+    "maxFunctionDefs"       => self::uint16,
+    "maxInstructionDefs"    => self::uint16,
+    "maxStackElements"      => self::uint16,
+    "maxSizeOfInstructions" => self::uint16,
+    "maxComponentElements"  => self::uint16,
+    "maxComponentDepth"     => self::uint16,
+  );
+
+  function _encode() {
+    $font                    = $this->getFont();
+    $this->data["numGlyphs"] = count($font->getSubset());
+
+    return parent::_encode();
+  }
+}

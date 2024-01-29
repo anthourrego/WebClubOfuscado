@@ -1,84 +1,153 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
+/*
+ * This file is part of the Symfony package.
+ *
+ * (c) Fabien Potencier <fabien@symfony.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+namespace Symfony\Component\HttpFoundation\Session\Attribute;
+
+/**
+ * This class provides structured storage of session attributes using
+ * a name spacing character in the key.
+ *
+ * @author Drak <drak@zikula.org>
+ */
+class NamespacedAttributeBag extends AttributeBag
+{
+    private $namespaceCharacter;
+
+    /**
+     * @param string $storageKey         Session storage key
+     * @param string $namespaceCharacter Namespace character to use in keys
+     */
+    public function __construct($storageKey = '_sf2_attributes', $namespaceCharacter = '/')
+    {
+        $this->namespaceCharacter = $namespaceCharacter;
+        parent::__construct($storageKey);
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function has($name)
+    {
+        // reference mismatch: if fixed, re-introduced in array_key_exists; keep as it is
+        $attributes = $this->resolveAttributePath($name);
+        $name = $this->resolveKey($name);
+
+        if (null === $attributes) {
+            return false;
+        }
+
+        return array_key_exists($name, $attributes);
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function get($name, $default = null)
+    {
+        // reference mismatch: if fixed, re-introduced in array_key_exists; keep as it is
+        $attributes = $this->resolveAttributePath($name);
+        $name = $this->resolveKey($name);
+
+        if (null === $attributes) {
+            return $default;
+        }
+
+        return array_key_exists($name, $attributes) ? $attributes[$name] : $default;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function set($name, $value)
+    {
+        $attributes = &$this->resolveAttributePath($name, true);
+        $name = $this->resolveKey($name);
+        $attributes[$name] = $value;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function remove($name)
+    {
+        $retval = null;
+        $attributes = &$this->resolveAttributePath($name);
+        $name = $this->resolveKey($name);
+        if (null !== $attributes && array_key_exists($name, $attributes)) {
+            $retval = $attributes[$name];
+            unset($attributes[$name]);
+        }
+
+        return $retval;
+    }
+
+    /**
+     * Resolves a path in attributes property and returns it as a reference.
+     *
+     * This method allows structured namespacing of session attributes.
+     *
+     * @param string $name         Key name
+     * @param bool   $writeContext Write context, default false
+     *
+     * @return array
+     */
+    protected function &resolveAttributePath($name, $writeContext = false)
+    {
+        $array = &$this->attributes;
+        $name = (0 === strpos($name, $this->namespaceCharacter)) ? substr($name, 1) : $name;
+
+        // Check if there is anything to do, else return
+        if (!$name) {
+            return $array;
+        }
+
+        $parts = explode($this->namespaceCharacter, $name);
+        if (count($parts) < 2) {
+            if (!$writeContext) {
+                return $array;
+            }
+
+            $array[$parts[0]] = array();
+
+            return $array;
+        }
+
+        unset($parts[count($parts) - 1]);
+
+        foreach ($parts as $part) {
+            if (null !== $array && !array_key_exists($part, $array)) {
+                $array[$part] = $writeContext ? array() : null;
+            }
+
+            $array = &$array[$part];
+        }
+
+        return $array;
+    }
+
+    /**
+     * Resolves the key from the name.
+     *
+     * This is the last part in a dot separated string.
+     *
+     * @param string $name
+     *
+     * @return string
+     */
+    protected function resolveKey($name)
+    {
+        if (false !== $pos = strrpos($name, $this->namespaceCharacter)) {
+            $name = substr($name, $pos + 1);
+        }
+
+        return $name;
+    }
+}

@@ -1,49 +1,87 @@
-<?php //ICB0 56:0 71:881                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\MTurk;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cPu1ezYPBpye94jDZ1Q9t9R0hkU3DCiYBavsuM2jzWMurI4ZSXWQJteVgKdOGwtecblhXN8nl
-r8Zi6/nJv3Seh/0U+Bg0BwgUIIArzIM8eRpvhvp/y9m+g2ZeLEAgV6ElC4gRXsEzR21tU/DZg4hu
-VdkEiyNWAWAYV5VXKoMLwAzEkA1R8i6RPtEu1fsFEHGDmXCftZCUOhw6rJ54tWZtNTcE/lW+H0NT
-Erjk/td791g+8kkOSfrGuUmW9CyJ/GGUlICDxf02/8wULxI9snptqslkK2rieiSeW9JTv3qTbgRN
-EOKzZSA8KM48RQEz2EWSvL7idYwBrmvgS3sw7RHPmlmP71Xb8v2XOE7nLYDXLZh0daIgTv1Fcqtw
-8RymZ28ogQ/hjWsW6DnxajFNUolnVhc7nQCRFJFJ5/v679uTCvaUZsLTK/6D6hYxkWMlQ65ybmrp
-Mov7BQZwz1oADrBG2+XZXJY7t/SdARR2UOKdB/73ivsY2W6xYjzxJ7+apjQgS1FxQ9/M0In8j5j+
-tz95fMvtORkpuX1mafdSHKxpLR0PxvzGCl0eez8KUS/+ygLk9VXS3ORi2m4iYuBcplwp9lrlcsgB
-ZwERamaY5xNZi/OSKmNXrEMlJGwcE3dy1ceru0/q68ip4tmQSUEFs7N/3Ym3vItVYL7svVGn7Cy1
-D+6PTUCYvmfR/b9XtwoFijT85+owuIUpM1HdI/zyEGwsGpSxDTitr4VHBVL0wlVIi2G8Nbc8bGnH
-m0jm8tXbEKg4uFRzp7tQLIKkv4wYcwzI6siLuNFD8jIvRFAEXAL0YyaA0MQH8H6C7m98pWStY4lm
-TbtzKcOJLns6TICjaIPcyVaSh4fvxsatgmri0kLmdf+XiG2vDs7U9H97w6alFGLKiQLfLRM7BwN5
-VQpZtwDWngORbjn8pOXkrXl+ep9qfLs4MOPhl7usXw031JA6R0VVP4SL89Phq7Skw7F0cYwF7AB3
-VM7gk+FEYyO3TH9hQyoP5pfDBNB1UHPnU1s2nHk2C0kJkF0tALkDNfg3Hvb0iTn0hhR6x8AKrmOV
-cH+WsXQggxdYED/1dTXoMqvAiCNlnDP13lIrouc6fxZL3PRMYYRS3qkXyjBpVujBg/tvDgTRJA4j
-4IKMOvVmALRF9XaAJ4eIyS08iPJC3xxttwGGxgxFQP0Bu2HmUlDBNUKKEEEYHF7C8+RtFaXGh2tr
-onoxOlm0xoQ52yqVlg7D3WdRioj8DFqiZ9yJ/MezROmiUb8gDrDPpIcdv8rWdYkaacHGgG===
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use Aws\AwsClient;
 
-?>
-HR+cP+TNprdeepEUzUzQUcaNJRFn2Y5t2TwtkuwuvwrPYLl5ZDwVwpB8Qs5Zky73Fvmw6YsNPVLS
-q7rqAEVI6VlCX4MR5grt7O0ridABPTgPqHdAl02N6wyzWqCsW70kBvObUBr7kLc0d5HWyKVsFdjk
-9J/fKUfZt/Dy/RS/mflENezA7DoTJTUuRs4xT3NO0eJLQkhi+/87BWwcRGjB0LX+IVbOY+r4aePF
-OwrkKAIJNFky+TYQDQMVxJr6Tfvecpyj690Sbeoo5/SbFQn/C5mQ1EM71ALf3GCCaDsfKd7eRPCI
-Dd10VsFMkbWcJfjl4HKG860O7Fs1f80x3K1xouMr+zagqHh1nkeCCdBt6JJUroTAzp+a0rZ+v4wb
-EGoLlVQ414f03cvVL24r58CoTfI12WWAcW/GxRj8fDkb9nvA1uAU1dYUDl6f8GOdLbsBE6hQH9xZ
-pLPEXNWxLTxequIOxBKegYI0LJ9/fffZurKzxYpbo0BUE0LZ8Te63ENJLvNSw3V8e+zCry3g784o
-rgA9w08gsUseH6XSNum6kjLEcNgf89KX7OFGQj9pn4u8tmURoBcEQBFOVLFo68A5T1f9c0ViNmoF
-Xe2QmcTM90vlJpCiNewbkqXXK9Fy5X7nm3u22jtI9QDCxp0QoKaw6wrzSWcwVZZG4m3UJIEmhASO
-ArBcFukG/mcHE1ZymWhDL81qCjf83GPe4eX1JSkKvlB+qPfXDF5qX+oXzsfWHGDEIiKvEyLeZq8b
-bLzMgiDS3MuxfTIClPoK0Ywf5MwubpvzzQkgbp/WIRzvSgWuJgxYIXAa+pj3k7Ly7CGfW+Kkt4GA
-FwHKr2+OIIKWqlBRmWcRLmtQnRXaZ17b6CLX5wFh7a2rhwK1PgVym8bl9b9i60coMfoH+HRZ0uJs
-K8ozB+Y7BoBqxY30uL9YQ+KggYBvOmLIJnRJb5T7gtXwxsJwuIDpsjs9EzmnO8fQPKtVP6/WpR2d
-eeOsif/SI97L36atBl/Pl23xaIV64Rggzk5Iw3hCgUGTft+4MB9Y3UEx//7p2ovZepR58k1WR1MJ
-ufycvc6pMDwG+0/u6fIpM2hyKTzwl//coWZaVeETrIq68dfQOD9v02BYwfeq5IlMMtfX9keDUwVs
-7RAz2/kTOpzKmitSjP0JWSfRRRjXMfgKKeXBpjT+gKl7PGAMGNDHhykPYJCHk7OKchLR/6TRYQAi
-WM7cJvvggS5J2/bpxogFfQ4ppAVUzgGKljlC879aCWPHwvpVAjqimMzceXDtTpx5zSszofgomNH4
-Xzgb8vzYM+XSvepXqP7+W6lW9VJsK3Hfcaz0KaMqeuWDkRnLZhVqGsGA2phoj2Y1QbvaI6cKemo7
-S0a=
+/**
+ * This client is used to interact with the **Amazon Mechanical Turk Requester Service** service.
+ * @method \Aws\Result acceptQualificationRequest(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise acceptQualificationRequestAsync(array $args = [])
+ * @method \Aws\Result approveAssignment(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise approveAssignmentAsync(array $args = [])
+ * @method \Aws\Result associateQualificationWithWorker(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise associateQualificationWithWorkerAsync(array $args = [])
+ * @method \Aws\Result createAdditionalAssignmentsForHIT(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createAdditionalAssignmentsForHITAsync(array $args = [])
+ * @method \Aws\Result createHIT(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createHITAsync(array $args = [])
+ * @method \Aws\Result createHITType(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createHITTypeAsync(array $args = [])
+ * @method \Aws\Result createHITWithHITType(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createHITWithHITTypeAsync(array $args = [])
+ * @method \Aws\Result createQualificationType(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createQualificationTypeAsync(array $args = [])
+ * @method \Aws\Result createWorkerBlock(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createWorkerBlockAsync(array $args = [])
+ * @method \Aws\Result deleteHIT(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteHITAsync(array $args = [])
+ * @method \Aws\Result deleteQualificationType(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteQualificationTypeAsync(array $args = [])
+ * @method \Aws\Result deleteWorkerBlock(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteWorkerBlockAsync(array $args = [])
+ * @method \Aws\Result disassociateQualificationFromWorker(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise disassociateQualificationFromWorkerAsync(array $args = [])
+ * @method \Aws\Result getAccountBalance(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getAccountBalanceAsync(array $args = [])
+ * @method \Aws\Result getAssignment(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getAssignmentAsync(array $args = [])
+ * @method \Aws\Result getFileUploadURL(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getFileUploadURLAsync(array $args = [])
+ * @method \Aws\Result getHIT(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getHITAsync(array $args = [])
+ * @method \Aws\Result getQualificationScore(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getQualificationScoreAsync(array $args = [])
+ * @method \Aws\Result getQualificationType(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getQualificationTypeAsync(array $args = [])
+ * @method \Aws\Result listAssignmentsForHIT(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listAssignmentsForHITAsync(array $args = [])
+ * @method \Aws\Result listBonusPayments(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listBonusPaymentsAsync(array $args = [])
+ * @method \Aws\Result listHITs(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listHITsAsync(array $args = [])
+ * @method \Aws\Result listHITsForQualificationType(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listHITsForQualificationTypeAsync(array $args = [])
+ * @method \Aws\Result listQualificationRequests(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listQualificationRequestsAsync(array $args = [])
+ * @method \Aws\Result listQualificationTypes(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listQualificationTypesAsync(array $args = [])
+ * @method \Aws\Result listReviewPolicyResultsForHIT(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listReviewPolicyResultsForHITAsync(array $args = [])
+ * @method \Aws\Result listReviewableHITs(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listReviewableHITsAsync(array $args = [])
+ * @method \Aws\Result listWorkerBlocks(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listWorkerBlocksAsync(array $args = [])
+ * @method \Aws\Result listWorkersWithQualificationType(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listWorkersWithQualificationTypeAsync(array $args = [])
+ * @method \Aws\Result notifyWorkers(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise notifyWorkersAsync(array $args = [])
+ * @method \Aws\Result rejectAssignment(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise rejectAssignmentAsync(array $args = [])
+ * @method \Aws\Result rejectQualificationRequest(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise rejectQualificationRequestAsync(array $args = [])
+ * @method \Aws\Result sendBonus(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise sendBonusAsync(array $args = [])
+ * @method \Aws\Result sendTestEventNotification(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise sendTestEventNotificationAsync(array $args = [])
+ * @method \Aws\Result updateExpirationForHIT(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateExpirationForHITAsync(array $args = [])
+ * @method \Aws\Result updateHITReviewStatus(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateHITReviewStatusAsync(array $args = [])
+ * @method \Aws\Result updateHITTypeOfHIT(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateHITTypeOfHITAsync(array $args = [])
+ * @method \Aws\Result updateNotificationSettings(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateNotificationSettingsAsync(array $args = [])
+ * @method \Aws\Result updateQualificationType(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateQualificationTypeAsync(array $args = [])
+ */
+class MTurkClient extends AwsClient {}

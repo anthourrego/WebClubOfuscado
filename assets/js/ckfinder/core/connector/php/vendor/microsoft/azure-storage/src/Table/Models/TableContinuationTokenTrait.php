@@ -1,116 +1,169 @@
-<?php //ICB0 56:0 71:1325                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-Q7OW+92bmL1q24YnH640+0===
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @ignore
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Table\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2017 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+ 
+namespace MicrosoftAzure\Storage\Table\Models;
 
-?>
-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
-7Se1amWnc/6I2zuddXUo229RFPqi0JcqD0YByG==
+/**
+ * Trait implementing logic for Table continuation tokens.
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Table\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2017 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+trait TableContinuationTokenTrait
+{
+    private $continuationToken;
+
+    /**
+     * Setter for continuationToken
+     *
+     * @param string $continuationToken the continuation token to be set.
+     */
+    public function setContinuationToken($continuationToken)
+    {
+        $this->continuationToken = $continuationToken;
+    }
+
+    /**
+     * Getter for continuationToken
+     *
+     * @return string
+     */
+    public function getContinuationToken()
+    {
+        return $this->continuationToken;
+    }
+
+    /**
+     * Gets for location for previous request.
+     *
+     * @return string
+     */
+    public function getLocation()
+    {
+        if ($this->continuationToken == null) {
+            return null;
+        }
+        return $this->continuationToken->getLocation();
+    }
+
+    public function getLocationMode()
+    {
+        if ($this->continuationToken == null) {
+            return parent::getLocationMode();
+        } elseif ($this->continuationToken->getLocation() == '') {
+            return parent::getLocationMode();
+        } else {
+            return $this->getLocation();
+        }
+    }
+
+    /**
+     * Gets nextTableName
+     *
+     * @return string
+     */
+    public function getNextTableName()
+    {
+        if ($this->continuationToken == null) {
+            return null;
+        }
+        return $this->continuationToken->getNextTableName();
+    }
+
+    /**
+     * Gets entity next partition key.
+     *
+     * @return string
+     */
+    public function getNextPartitionKey()
+    {
+        if ($this->continuationToken == null) {
+            return null;
+        }
+        return $this->continuationToken->getNextPartitionKey();
+    }
+
+    /**
+     * Gets entity next row key.
+     *
+     * @return string
+     */
+    public function getNextRowKey()
+    {
+        if ($this->continuationToken == null) {
+            return null;
+        }
+        return $this->continuationToken->getNextRowKey();
+    }
+
+    /**
+     * Sets entity next row key.
+     *
+     * @param string $nextRowKey The entity next row key value.
+     *
+     * @return void
+     */
+    public function setNextRowKey($nextRowKey)
+    {
+        if ($this->continuationToken == null) {
+            $this->setContinuationToken(new TableContinuationToken());
+        }
+        $this->continuationToken->setNextRowKey($nextRowKey);
+    }
+
+    /**
+     * Sets entity next partition key.
+     *
+     * @param string $nextPartitionKey The entity next partition key value.
+     *
+     * @return void
+     */
+    public function setNextPartitionKey($nextPartitionKey)
+    {
+        if ($this->continuationToken == null) {
+            $this->setContinuationToken(new TableContinuationToken());
+        }
+        $this->continuationToken->setNextPartitionKey($nextPartitionKey);
+    }
+
+    /**
+     * Sets nextTableName
+     *
+     * @param string $nextTableName value
+     *
+     * @return void
+     */
+    public function setNextTableName($nextTableName)
+    {
+        if ($this->continuationToken == null) {
+            $this->setContinuationToken(new TableContinuationToken());
+        }
+        $this->continuationToken->setNextTableName($nextTableName);
+    }
+}

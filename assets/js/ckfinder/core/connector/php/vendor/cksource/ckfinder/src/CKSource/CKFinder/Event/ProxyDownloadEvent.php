@@ -1,71 +1,53 @@
-<?php //ICB0 56:0 71:b8c                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-Gom==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/*
+ * CKFinder
+ * ========
+ * https://ckeditor.com/ckeditor-4/ckfinder/
+ * Copyright (c) 2007-2018, CKSource - Frederico Knabben. All rights reserved.
+ *
+ * The software, this file and its contents are subject to the CKFinder
+ * License. Please read the license.txt file before using, installing, copying,
+ * modifying or distribute this file or part of its contents. The contents of
+ * this file is part of the Source Code of CKFinder.
+ */
 
-?>
-HR+cPwQ+YdiWcGzyFGKVM945Df2YECK11ry9L/Tq3Go02RT4CecmznbIOQpJ2ySve/kU3F0kylOU
-tHJff114Zmt5HM5OXVPOO5XnKa66l//MvfQXrV24KIjHMyG/XeoYbltnTmtTs1E8DiipvUUe30Hl
-vFUModYEYPSFrGcwm4XAW+G8ojLrbSJ7dt5LMzfDeGkZGu2lgsjn2qUZa2BtBBlJCr3ZuouNLxEF
-S+OxuH/ZpCQP7lweTuy0aQq2iCDjVDpHDl1y/9QCiXVt9JsiVp1S6WJbXmIAQBp9cuAh7ek+wpJ3
-ZyA25V+N3yWR+RV15jV9zswieboeYJWGVlR5f+UgbwYJcYZ+vl0bYo1F6qXm34PcX1gkvQ03RinD
-qyJUENEzPsEoXt+Z8mxV0O5mxvTUj9LCGq1BkcsH9DeEBWlV//zNTX7WbYNSdasn0tNkV1UG7j+7
-e4nIIIi9nTo4AsICesp1kk7hAHDRdNOo/3VaVtfHbHftAJVv30r1kBzhna/dWjAh9L9IdUjEchy2
-+bZ4exxZPgrb0ENZ5K/WJfB6D1S+kjIQAWw9Gayk40PgPSs44peMlxgwM2eZrwiU8Da0Q1Vn2pWv
-BNyDP4xsEjrzziRgqyuCqLu6C+3ZC0y5dt6k+vhgs2Wi/rgy7yjh2DjtN2hf8BPX8E+YdHT69nU/
-5OE2/OU2A6Zsor9G4k4izjRo4iQUvvqrjD1xFNCDGm8gIzybZ2eaM3cRkEqQ46i8zxn/0CXmK9Rw
-E/8mXyBlrEFgT5VAxfkYlI/+1uRo6vHKnISlUgepOwzld0pzCfySNtlFNKxCwbyTcpS9QMs1kn+8
-BtknAg8W7hHvEXkx1todYZevNmMjpPtAC4Ej1UBHRFT4Y9kF0FzZe4q6A3unEZ8IyPFPS6jgx23c
-kOUM1f7XIPP9F+orQmPMfxv36iPWFrAlojPoAISGscoGcz2b7tYWOrUiY7O2VoXpJoGrQPCtiqtU
-W2/Bw2Rnsf6blf2xO0rJ7yVfpy8596JzaDNAOjEIT6fAbC4GsUoddOERAkNTQ1Ldz6JUNDIhLiKj
-+shPWZA6wGZ6AqpOzX5jzeTiJJuZZGDYw8zSc3eJb0GGYPawud4uGYdR5sUbHtdndqo8SaBzyaij
-8r4NLQBskkJ3qzI2g6rRQ1GuG3g1phYTvZselCWK2fNLUmgNzxKk9UiDsww0tRLs6M9/fXwtYoYk
-i6jtQvwYjo9ALGOU4b+f3g2DV8EIYsNWyCxPx9HmpEm2yoN+gCjCqt8kRVtYrANhDaGKxwtHJgie
-T1mFauy4QkR1FSfUAu1RobwdHeQYQGrwGuGu7b4PubZuNUS+P5BOPMJnqpRyENcf+UMv0hIaUPGi
-4VopnDmDh51UHkpibic6akfjHqk8ohbfekMU0d+5yOlGnrX/9hjxRhzyvjCuQZDzGb0abwAv/utp
-WhFW1/GgX8iSh0G59uvML0dFtyUMPCKGmQuxx+x/rlbk6UKbELEAyImAV8KkLAkwxNTz5ficsbJs
-i8oGHVKn+0xzqc98Bqy6E8BrT+/jiwYG0XUGuIm6q60rwRl6elYYbEs+Rqm/sCJCTyNlNQc9hm4J
-IbE2tpD0y/Y/C5P+5VJ8C5q0PSMnNEZG+d9A2BWz1TuAz7ODq1Kp8Zbng668+ilwDzQwT6q26vRk
-RsRGoU0SdwLR9u5xI71Ius0FP+Ys5XHMJ052mjawg8vA67pCg2cDjP42W5IzrfOP09NVewlyRfQc
-ysFAfrUbnvOElnLCZh/X+EZhZxyDEU19CJU0MPkGLKWp3kCGSvslGjb/SkZUPcFweh/7e721vhiE
-I/i0H8N85PKTj3CK3ih5R71Czn5fjDBJldiCnzLr4muap0X3MbaLMMBtSPxlIuwLuWObtTAHWf6A
-m2Z7HpdERxWnizy9nQ9Xnv995N/+P26LTDUS2OVR1ORFLKV3iTo+IcgkJbIlqGiNy4i1Tx/sWFm6
-NYHCLXknfd/TeLyYAahYu+AHTGmVAFqxx27FDmdqaj2ui1d/tx7EyOPhoFr2LaFeq29xTRMYuLRe
-52thg8a07+CHwYjkshVbb66nWi3JvNFsXHTnoceEgmlmAAK8ho+5oXdFNlNiXF6KibR2eIQ3goXj
-OalgR5M8Sg9GicyV0lNEj8CmmYpYR0/yXchfpNJYr+e9wvcgPHjm8oZLmDdhtFpQWM0DktQWH6a1
-mPTukztCWES=
+namespace CKSource\CKFinder\Event;
+
+use CKSource\CKFinder\CKFinder;
+use CKSource\CKFinder\Filesystem\File\DownloadedFile;
+use CKSource\CKFinder\ResizedImage\ResizedImage;
+
+/**
+ * The DownloadFileEvent event class.
+ */
+class ProxyDownloadEvent extends CKFinderEvent
+{
+    /**
+     * @var DownloadedFile|ResizedImage $downloadedFile
+     */
+    protected $downloadedFile;
+
+    /**
+     * Constructor.
+     *
+     * @param CKFinder                    $app
+     * @param DownloadedFile|ResizedImage $downloadedFile
+     */
+    public function __construct(CKFinder $app, $downloadedFile)
+    {
+        $this->downloadedFile = $downloadedFile;
+
+        parent::__construct($app);
+    }
+
+    /**
+     * Returns the downloaded file object.
+     *
+     * @return DownloadedFile|ResizedImage
+     */
+    public function getFile()
+    {
+        return $this->downloadedFile;
+    }
+}

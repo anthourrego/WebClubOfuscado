@@ -1,127 +1,132 @@
-<?php //ICB0 56:0 71:1376                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-k0qDZ1uDWgsrv5MQYfIWi89VjW===
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Common\Internal\Authentication
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      http://github.com/windowsazure/azure-sdk-for-php
+ */
 
-?>
-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
+namespace MicrosoftAzure\Storage\Common\Internal\Authentication;
+
+use MicrosoftAzure\Storage\Common\Internal\Resources;
+use MicrosoftAzure\Storage\Common\Internal\Utilities;
+
+/**
+ * Provides shared key authentication scheme for blob and queue. For more info
+ * check: http://msdn.microsoft.com/en-us/library/windowsazure/dd179428.aspx
+ *
+ * @ignore
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Common\Internal\Authentication
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      http://github.com/windowsazure/azure-sdk-for-php
+ */
+class TableSharedKeyLiteAuthScheme extends SharedKeyAuthScheme
+{
+    /**
+     * The invaluded headers
+     */
+    protected $includedHeaders;
+
+    /**
+     * Constructor.
+     *
+     * @param string $accountName storage account name.
+     * @param string $accountKey  storage account primary or secondary key.
+     *
+     * @return TableSharedKeyLiteAuthScheme
+     */
+    public function __construct($accountName, $accountKey)
+    {
+        $this->accountKey  = $accountKey;
+        $this->accountName = $accountName;
+
+        $this->includedHeaders   = array();
+        $this->includedHeaders[] = Resources::DATE;
+    }
+
+    /**
+     * Computes the authorization signature for blob and queue shared key.
+     *
+     * @param array  $headers     request headers.
+     * @param string $url         reuqest url.
+     * @param array  $queryParams query variables.
+     * @param string $httpMethod  request http method.
+     *
+     * @see Blob and Queue Services (Shared Key Authentication) at
+     *      http://msdn.microsoft.com/en-us/library/windowsazure/dd179428.aspx
+     *
+     * @return string
+     */
+    protected function computeSignature(
+        array $headers,
+        $url,
+        array $queryParams,
+        $httpMethod
+    ) {
+        $canonicalizedResource = $this->computeCanonicalizedResourceForTable(
+            $url,
+            $queryParams
+        );
+
+        $stringToSign = array();
+
+        foreach ($this->includedHeaders as $header) {
+            $stringToSign[] = Utilities::tryGetValue($headers, $header);
+        }
+
+        $stringToSign[] = $canonicalizedResource;
+        $stringToSign   = implode("\n", $stringToSign);
+
+        return $stringToSign;
+    }
+
+    /**
+     * Returns authorization header to be included in the request.
+     *
+     * @param array  $headers     request headers.
+     * @param string $url         reuqest url.
+     * @param array  $queryParams query variables.
+     * @param string $httpMethod  request http method.
+     *
+     * @see Specifying the Authorization Header section at
+     *      http://msdn.microsoft.com/en-us/library/windowsazure/dd179428.aspx
+     *
+     * @return string
+     */
+    public function getAuthorizationHeader(
+        array $headers,
+        $url,
+        array $queryParams,
+        $httpMethod
+    ) {
+        $signature = $this->computeSignature(
+            $headers,
+            $url,
+            $queryParams,
+            $httpMethod
+        );
+
+        return 'SharedKeyLite ' . $this->accountName . ':' . base64_encode(
+            hash_hmac('sha256', $signature, base64_decode($this->accountKey), true)
+        );
+    }
+}

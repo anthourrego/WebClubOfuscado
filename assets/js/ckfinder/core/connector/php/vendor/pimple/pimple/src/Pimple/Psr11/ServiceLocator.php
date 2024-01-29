@@ -1,89 +1,75 @@
-<?php //ICB0 56:0 71:dfc                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-qwDl0hdrRx+G=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/*
+ * This file is part of Pimple.
+ *
+ * Copyright (c) 2009 Fabien Potencier
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is furnished
+ * to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in all
+ * copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ */
 
-?>
-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
+namespace Pimple\Psr11;
+
+use Pimple\Container as PimpleContainer;
+use Pimple\Exception\UnknownIdentifierException;
+use Psr\Container\ContainerInterface;
+
+/**
+ * Pimple PSR-11 service locator.
+ *
+ * @author Pascal Luna <skalpa@zetareticuli.org>
+ */
+class ServiceLocator implements ContainerInterface
+{
+    private $container;
+    private $aliases = array();
+
+    /**
+     * @param PimpleContainer $container The Container instance used to locate services
+     * @param array           $ids       Array of service ids that can be located. String keys can be used to define aliases
+     */
+    public function __construct(PimpleContainer $container, array $ids)
+    {
+        $this->container = $container;
+
+        foreach ($ids as $key => $id) {
+            $this->aliases[\is_int($key) ? $id : $key] = $id;
+        }
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function get($id)
+    {
+        if (!isset($this->aliases[$id])) {
+            throw new UnknownIdentifierException($id);
+        }
+
+        return $this->container[$this->aliases[$id]];
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function has($id)
+    {
+        return isset($this->aliases[$id]) && isset($this->container[$this->aliases[$id]]);
+    }
+}

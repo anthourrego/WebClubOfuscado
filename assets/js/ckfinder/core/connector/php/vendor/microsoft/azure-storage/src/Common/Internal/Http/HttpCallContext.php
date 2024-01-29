@@ -1,246 +1,430 @@
-<?php //ICB0 56:0 71:2476                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Common\Internal\Http
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+ 
+namespace MicrosoftAzure\Storage\Common\Internal\Http;
 
-?>
-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
-Gy9ObAewgAlTvXx3
+use MicrosoftAzure\Storage\Common\Internal\Utilities;
+use MicrosoftAzure\Storage\Common\Internal\Resources;
+use MicrosoftAzure\Storage\Common\Internal\Validate;
+use MicrosoftAzure\Storage\Common\Models\ServiceOptions;
+
+/**
+ * Holds basic elements for making HTTP call.
+ *
+ * @ignore
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Common\Internal\Http
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+class HttpCallContext
+{
+    private $_method;
+    private $_headers;
+    private $_queryParams;
+    private $_postParameters;
+    private $_uri;
+    private $_path;
+    private $_statusCodes;
+    private $_body;
+    private $_serviceOptions;
+    
+    /**
+     * Default constructor.
+     */
+    public function __construct()
+    {
+        $this->_method         = null;
+        $this->_body           = null;
+        $this->_path           = null;
+        $this->_uri            = null;
+        $this->_queryParams    = array();
+        $this->_postParameters = array();
+        $this->_statusCodes    = array();
+        $this->_headers        = array();
+        $this->_serviceOptions = new ServiceOptions();
+    }
+    
+    /**
+     * Gets method.
+     *
+     * @return string
+     */
+    public function getMethod()
+    {
+        return $this->_method;
+    }
+    
+    /**
+     * Sets method.
+     *
+     * @param string $method The method value.
+     *
+     * @return void
+     */
+    public function setMethod($method)
+    {
+        Validate::canCastAsString($method, 'method');
+        
+        $this->_method = $method;
+    }
+    
+    /**
+     * Gets headers.
+     *
+     * @return array
+     */
+    public function getHeaders()
+    {
+        return $this->_headers;
+    }
+    
+    /**
+     * Sets headers.
+     *
+     * Ignores the header if its value is empty.
+     *
+     * @param array $headers The headers value.
+     *
+     * @return void
+     */
+    public function setHeaders(array $headers)
+    {
+        $this->_headers = array();
+        foreach ($headers as $key => $value) {
+            $this->addHeader($key, $value);
+        }
+    }
+    
+    /**
+     * Gets queryParams.
+     *
+     * @return array
+     */
+    public function getQueryParameters()
+    {
+        return $this->_queryParams;
+    }
+    
+    /**
+     * Sets queryParams.
+     *
+     * Ignores the query variable if its value is empty.
+     *
+     * @param array $queryParams The queryParams value.
+     *
+     * @return void
+     */
+    public function setQueryParameters(array $queryParams)
+    {
+        $this->_queryParams = array();
+        foreach ($queryParams as $key => $value) {
+            $this->addQueryParameter($key, $value);
+        }
+    }
+    
+    /**
+     * Gets uri.
+     *
+     * @return string
+     */
+    public function getUri()
+    {
+        return $this->_uri;
+    }
+    
+    /**
+     * Sets uri.
+     *
+     * @param string $uri The uri value.
+     *
+     * @return void
+     */
+    public function setUri($uri)
+    {
+        Validate::canCastAsString($uri, 'uri');
+        
+        $this->_uri = $uri;
+    }
+    
+    /**
+     * Gets path.
+     *
+     * @return string
+     */
+    public function getPath()
+    {
+        return $this->_path;
+    }
+    
+    /**
+     * Sets path.
+     *
+     * @param string $path The path value.
+     *
+     * @return void
+     */
+    public function setPath($path)
+    {
+        Validate::canCastAsString($path, 'path');
+        
+        $this->_path = $path;
+    }
+    
+    /**
+     * Gets statusCodes.
+     *
+     * @return array
+     */
+    public function getStatusCodes()
+    {
+        return $this->_statusCodes;
+    }
+    
+    /**
+     * Sets statusCodes.
+     *
+     * @param array $statusCodes The statusCodes value.
+     *
+     * @return void
+     */
+    public function setStatusCodes(array $statusCodes)
+    {
+        $this->_statusCodes = array();
+        foreach ($statusCodes as $value) {
+            $this->addStatusCode($value);
+        }
+    }
+    
+    /**
+     * Gets body.
+     *
+     * @return string
+     */
+    public function getBody()
+    {
+        return $this->_body;
+    }
+    
+    /**
+     * Sets body.
+     *
+     * @param string $body The body value.
+     *
+     * @return void
+     */
+    public function setBody($body)
+    {
+        Validate::canCastAsString($body, 'body');
+        
+        $this->_body = $body;
+    }
+    
+    /**
+     * Adds or sets header pair.
+     *
+     * @param string $name  The HTTP header name.
+     * @param string $value The HTTP header value.
+     *
+     * @return void
+     */
+    public function addHeader($name, $value)
+    {
+        Validate::canCastAsString($name, 'name');
+        Validate::canCastAsString($value, 'value');
+        
+        $this->_headers[$name] = $value;
+    }
+    
+    /**
+     * Adds or sets header pair.
+     *
+     * Ignores header if it's value satisfies empty().
+     *
+     * @param string $name  The HTTP header name.
+     * @param string $value The HTTP header value.
+     *
+     * @return void
+     */
+    public function addOptionalHeader($name, $value)
+    {
+        Validate::canCastAsString($name, 'name');
+        Validate::canCastAsString($value, 'value');
+        
+        if (!empty($value)) {
+            $this->_headers[$name] = $value;
+        }
+    }
+    
+    /**
+     * Removes header from the HTTP request headers.
+     *
+     * @param string $name The HTTP header name.
+     *
+     * @return void
+     */
+    public function removeHeader($name)
+    {
+        Validate::canCastAsString($name, 'name');
+        Validate::notNullOrEmpty($name, 'name');
+        
+        unset($this->_headers[$name]);
+    }
+    
+    /**
+     * Adds or sets query parameter pair.
+     *
+     * @param string $name  The URI query parameter name.
+     * @param string $value The URI query parameter value.
+     *
+     * @return void
+     */
+    public function addQueryParameter($name, $value)
+    {
+        Validate::canCastAsString($name, 'name');
+        Validate::canCastAsString($value, 'value');
+        
+        $this->_queryParams[$name] = $value;
+    }
+    
+    /**
+     * Gets HTTP POST parameters.
+     *
+     * @return array
+     */
+    public function getPostParameters()
+    {
+        return $this->_postParameters;
+    }
+
+    /**
+     * Sets HTTP POST parameters.
+     *
+     * @param array $postParameters The HTTP POST parameters.
+     *
+     * @return void
+     */
+    public function setPostParameters(array $postParameters)
+    {
+        Validate::isArray($postParameters, 'postParameters');
+        $this->_postParameters = $postParameters;
+    }
+    
+    /**
+     * Adds or sets query parameter pair.
+     *
+     * Ignores query parameter if it's value satisfies empty().
+     *
+     * @param string $name  The URI query parameter name.
+     * @param string $value The URI query parameter value.
+     *
+     * @return void
+     */
+    public function addOptionalQueryParameter($name, $value)
+    {
+        Validate::canCastAsString($name, 'name');
+        Validate::canCastAsString($value, 'value');
+        
+        if (!empty($value)) {
+            $this->_queryParams[$name] = $value;
+        }
+    }
+    
+    /**
+     * Adds status code to the expected status codes.
+     *
+     * @param integer $statusCode The expected status code.
+     *
+     * @return void
+     */
+    public function addStatusCode($statusCode)
+    {
+        Validate::isInteger($statusCode, 'statusCode');
+        
+        $this->_statusCodes[] = $statusCode;
+    }
+    
+    /**
+     * Gets header value.
+     *
+     * @param string $name The header name.
+     *
+     * @return mixed
+     */
+    public function getHeader($name)
+    {
+        return Utilities::tryGetValue($this->_headers, $name);
+    }
+
+    /**
+     * Gets the saved service options
+     *
+     * @return ServiceOptions
+     */
+    public function getServiceOptions()
+    {
+        if ($this->_serviceOptions == null) {
+            $this->_serviceOptions = new ServiceOptions();
+        }
+        return $this->_serviceOptions;
+    }
+
+    /**
+     * Sets the service options
+     *
+     * @param ServiceOptions $serviceOptions the service options to be set.
+     *
+     * @return void
+     */
+    public function setServiceOptions(ServiceOptions $serviceOptions)
+    {
+        $this->_serviceOptions = $serviceOptions;
+    }
+    
+    /**
+     * Converts the context object to string.
+     *
+     * @return string
+     */
+    public function __toString()
+    {
+        $headers = Resources::EMPTY_STRING;
+        $uri     = $this->_uri;
+        
+        if ($uri[strlen($uri)-1] != '/') {
+            $uri = $uri.'/';
+        }
+        
+        foreach ($this->_headers as $key => $value) {
+            $headers .= "$key: $value\n";
+        }
+        
+        $str  = "$this->_method $uri$this->_path HTTP/1.1\n$headers\n";
+        $str .= "$this->_body";
+        
+        return $str;
+    }
+}

@@ -1,96 +1,118 @@
-<?php //ICB0 56:0 71:eae                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cP/uoy0Wr6Salm8LbAnYZUaJcqgKEgQIgyiSOnVbb9lrG+BIC2b20DZBOgET3vKHSOnSNyr+i
-ZkUT1mOapdGlU19h123o+G9J6O4Uq5iZEQaJg/q3XcW3pjnpyA9g+a3xyK2zWKi1tdyMi2EI8+6l
-Bfr5+97XFY5vVzthzXiiZ1cKKBzjCRWJ/F9g/6WmXSd7dOR6nTO7u6dwUq7phPStAZxtwkT8sEyr
-vlFWAT4c+deqH6DX/kucRYFH8POpOYsJc995O3vZxf02/8wULxI9snptqslkK1bjWbD7BQ0W4Ix/
-ZCRGSaDn/m+J2kzLoBy3Wb+WX/9Vk0rNgskRJOMCqb7QeRUX1oW4AYQ16JTqiKRk96TvN3kXlm6I
-53HrvTrl7kYMK5EfDF9GyuDD0WmI5uQXUbjdTjkaLOyP05Fo5SQ+HMjLQPB6IZ+oWuNfWV9hlCYd
-7lIXiGDo7H9WA/9GMG0cdYepVT1T8Yn1znNvaVf2mZuaVTmjJvXlVhPfgd555Wry1QoZHr+EEyWl
-32uRVrmHpbGYvejbvbH+iXwwmCyX/L3MlPaihoL+g9BN2nB/0h5X6axP9X/V4UtrwgEjKAUuTsh0
-QX08GxdhhV7Nv9Ap1mNFZakXHGnsS2QJ/h/sOkST1rSZbJUZ3+z9I7rfA0V3j4p4RFc+OqnDO/7e
-OhETQ1d27XM6UD2TkClk2i0jKkYnT0/+H8+RVikhpq1kzBOh0H9/mYPx689oU9KZLEec0Inseosh
-yFZvXwhmrnXJKfFGkjw8b+YPMtLtakmXZmJT7BsBwGWgEUCVYj0KD+FFVOgBfJ8P0ale7g7cJraw
-KXBhXN3DfN7DfQqoVSQMGUMRt+7e6T5OEGYjc9UhRrirTGD5il+wWKOeVdbn/qpTvivYbeEOzXVQ
-AzbRicVvntfDC1MRff8OCnBMBjzNWQ2xZxgasWOgy1V0KTvtpzubk31N9oXlJfn33FBghW3OhE3j
-ds79zMF+AsZWMl/tG1NJx/i6TYRyNeE7EI33UfAlm/6sP+j/VWxd4S4piHvsStliGXFtfiu6Ag7L
-wpyYu7kcEfde8Nsi4aNSNEROmSX2csNjYWSisCxUzqBUsN9x4X2tJRVRuronntyeKyfSqr1tGFBW
-7DHrIog3au+NL5HigAHB+yVWHSZz+d50vMg7/IpTyguztZ73mXJy4+t+kG2IEAqnJ1QJu70mXPiI
-OyDHBxp/h5VlvnhwONAZCpxR2k9B8sa6PshT2AfT6VLJB58YA2SRilWZnz/mXxeM+tlH2rE7ZMGd
-D3RkvRl5WCv1jOq577TXFSwDCPqXjHuzy9orXZPhusKc75y/QuyCRAZop9/NlibeuZ1pPbqSxpxb
-M4/cmVwOkrWrq/bb56T5Ed0kzLqfMKW4sWsgsMmC04J09Y+YGUBh/BsgiBBq9kBEGf0Leozcd9Jg
-QF853yRLbRigH8NFkHIkFn/UhQLR+9iemZ9OZLpxx8iUxup5T990aG5xLObTBBzcGVp/K6kdkfDb
-4hhHPuJy7A0hyTmMNG49Q2XoGBPEl60Emwbo3e4iV+2zzbfiENhsc9E5c2/cknLbyOBEYxBoSYqZ
-iFBZtZ2owdRB62QTB+6CjL8Y6XGFg5jLd1Sx7lthISWdPfuREOEo8A/xa4pYWmc0dKDIvrLmfCjw
-wCmIDDr+ucWobozF7sTD/0dKHVe9nB50Z4mHv2RBniqXgRcvOpZvUXs24AJqTDwc3EFlfDttlU9p
-jf2IOGTgHn4GPaTgSo390tQj+3ZlZvpc8F/172u1dS/Pjmo7vc6nWvINgTs4sfnhxcWa5mFLRPcs
-voYoPtLJBMjwAjpsLNegKrvgqbRjt6VWVnJS6D706f96Y6eGKPz4zZqWSmTW5Tz3oQCEyMESQ7wm
-RRfYdIh8zynhAJD8OzsM5h9lvNkeGeoYM9fp4sElU6eqt8Q2enTP+piH+yDxnIpC1vU2K9gyPHBT
-wqbZIS3lrysWko8KNmJ+rObnOmxA28JI8rnU+rW/+POvtKPQtRQrB9H6kCg/EV+RB3jHTXnkphG8
-r8fbQTJp1qIdjIiCViQNrbHuFQiK44Q/XEMn5fHv+UAI7bmH9ySGnV04qG3y7oEeeXCOFStorq9y
-0bvNZo9QXbEJTljTMGp8YefA6oSRaa+hK+rwm6k/MeTLdm6hHgm9bshsKVUdgXrbY5pNrL7kNKHX
-vWTRaNgGi1tKGOPOBGpakBg6g3WVzt+4skryBzjp5x7mgDnzjeVR7S6KyycT1qikzgaD1irLceC3
-vGJ71eydgXtYZzRkIpyhMTbxTSCaiPHYE6f4Dih78POrtnRiu/LQDJH/5i0ZULnghRu0OoXKr7rZ
-ebJWkKYhMP//b7MXKI0+XZGHAcaahl1anmdkBHY3K4+UAERC5h8AlWmg+lQ3WhJIQhNPr5VZaaPJ
-9zYgrP6nShNsX9tNV4YJI65kvDFxP1h90hDyxa6AGMKR5j/woS0zy76LVm/sFLYh3fU6oNvdXtWi
-mQwgI97mYXBiuymJRtMNb8ZL4gdtFuY9VumZOwvG9sJfcyzEuOC2/1qq+v228QbVYRQrq+ilmFsD
-EoiFyckeA5JTe5Vu0WHQZ6kVdb8A0gc0sbl+1yg2RCfBV2McPU2jTV+GnGp+ki8A5zlgvCrNtwwI
-ytgO5PxhTwUiDpLCGiaQ+QSmaiyv4G1EH4/FH8eNs6UrCcxQfLj9cOu53CJIL0uXAJ4b8zZospLF
-X2VeODWHG1mNAyxvoz9DmFbchiD0zeHIfEkuIa9DxZ4bgREdgegcDaN0KhGagKav8QgBC2TYluRQ
-5VBj6GOhjbnuUX7Yq/B5jW2kIHUhFwnzioVv=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Common\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2017 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
 
-?>
-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
-qHiIJ3EU3xCTbZ04kATL4ujAFGJbuttMgAID4re=
+namespace MicrosoftAzure\Storage\Common\Models;
+
+use MicrosoftAzure\Storage\Common\Internal\Resources;
+use MicrosoftAzure\Storage\Common\Internal\Utilities;
+
+/**
+ * Result from calling get service stats REST wrapper.
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Common\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2017 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+class GetServiceStatsResult
+{
+    private $status;
+    private $lastSyncTime;
+    
+    /**
+     * Creates object from $parsedResponse.
+     *
+     * @internal
+     * @param array $parsedResponse XML response parsed into array.
+     *
+     * @return \MicrosoftAzure\Storage\Common\Models\GetServiceStatsResult
+     */
+    public static function create(array $parsedResponse)
+    {
+        $result = new GetServiceStatsResult();
+        if (Utilities::arrayKeyExistsInsensitive(
+            Resources::XTAG_GEO_REPLICATION,
+            $parsedResponse
+        )) {
+            $geoReplication = $parsedResponse[Resources::XTAG_GEO_REPLICATION];
+            if (Utilities::arrayKeyExistsInsensitive(
+                Resources::XTAG_STATUS,
+                $geoReplication
+            )) {
+                $result->setStatus($geoReplication[Resources::XTAG_STATUS]);
+            }
+
+            if (Utilities::arrayKeyExistsInsensitive(
+                Resources::XTAG_LAST_SYNC_TIME,
+                $geoReplication
+            )) {
+                $lastSyncTime = $geoReplication[Resources::XTAG_LAST_SYNC_TIME];
+                $result->setLastSyncTime(Utilities::convertToDateTime($lastSyncTime));
+            }
+        }
+
+        return $result;
+    }
+    
+    /**
+     * Gets status of the result.
+     *
+     * @return string
+     */
+    public function getStatus()
+    {
+        return $this->status;
+    }
+    
+    /**
+     * Gets the last sync time.
+     * @return \DateTime
+     */
+    public function getLastSyncTime()
+    {
+        return $this->lastSyncTime;
+    }
+
+    /**
+     * Sets status of the result.
+     *
+     * @return void
+     */
+    protected function setStatus($status)
+    {
+        $this->status = $status;
+    }
+    
+    /**
+     * Sets the last sync time.
+     *
+     * @return void
+     */
+    protected function setLastSyncTime(\DateTime $lastSyncTime)
+    {
+        $this->lastSyncTime = $lastSyncTime;
+    }
+}

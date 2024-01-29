@@ -1,93 +1,123 @@
-<?php //ICB0 56:0 71:e9a                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-ju2aaHwWqQGa8G===
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Queue\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+ 
+namespace MicrosoftAzure\Storage\Queue\Models;
 
-?>
-HR+cPzx0uIDTADeK67Pq0F22POTUrpwnyu5ewxoucar7yV0KyDFMaJq/ymAJaaOxbOAnr4/XHsnu
-CueFgRCF7IJBXS55BcP6/w8aT1b1s4vhODWGBNvYs0Rv76ALnq+aZrV1mcd9LYmMTFFlFyBk/QNy
-EDjQCOWU1eSzZyAQmILYs3DW7GjAHa/c5pchZ2Zvwf8rIBYuivvcVeKnrex8A1ZHAgGcqZCzXaMC
-cNlUDge7flcemvCVz29a+VgbSSMXddBb0hhmbeoo5/SbFQn/C5mQ1EM7129eJY0pneuKOa7bNpEF
-3PrlLH0CbpTc+/C7uN2XnsJPZ8r1Z6F8cEjt/xrnx90ET7a0cIHcm9MMnrqnl93Z9OyxInxzuHrZ
-PDZuQcjpFsZOjSPD1YPzFhuOouyRAkBRpzgdNM21pGkFocoftfq+B5Ybk1HAQBus6/IZQv8w0/FX
-1IdUiFxUYnVizUcnw9yVzNK3Yq2fKyhvBUq7FdzyH1sG67RLJQRPh6At5fX+xh6zCEZNfWvEXg4z
-Fls8Bk5IYODnZxK83Wbg8MfXWds3Xoj3HY5SOlnEY5hwrUtm1Jz/+GoIflUQtv6ZipRPDfcW2kLD
-Z2D6jqqM4E9U6+rP51A+wiZrThGZ3x3UWGXt+1Bz2Twj3q7W+cuhUyO1XrUb0tRsCkOkJ74Ceu93
-PlT/WX5q+IRETk3JX0iXTRAGk+LjVhkNhr4DELhCssHxk0HBaz2n9bh5kbow1sHSeXgpPKnG4frv
-OmxQobhxdG7xiEzFVNJPOC/wUGrAN1UvkbOAFp7aRsnLaN4I6962ZIQcxj4LvFaCm3I9w7MgJ6dF
-9V2jLwDlu43sY7Yo239U3p1qg5QEoRRb67JniLK7/MzATh5EYvI2Ys/RfQwTH46h4/BVYC9/Q1I+
-HHi1V2uUSBSY78aDfHbKqginbzHHxt8dvYkc0q5rX8k1rbeU2oSbTIoFWgR57TIHmIKqwTgGN+ww
-zmjNcy0nf3DlRqlFw+GMfa3bBVJstdAROjhHgv8NEWRAyo6AzxcKrStWvGqdsstTK/jpAwsPcGcu
-vPzWQGCOh9wyZh4Fevi4oi/FYxh6zMrpayfKgv2FoZsp/qNw2WlTSY752wKg1fptG7l/dqIS5Bny
-BF1g6ME4bA5F1ldOP69gPcmCGU9rfJCuLV4WV77Di8nL4kJyhMTwT/1LCcZE6hQcVmufICdCVW6d
-2KMN9v0P+ri8pk43r5JBXRwl6pqRH6/wWfeOVrhutI8lZCVkrVai+FZ5wCX9Pw/DOqc2OoUUHh8I
-FUkNcK7tqAaRJ8ODqUKQTbMIb6FaskjQtBL6mK4TaNQnAG04ZE6bpjvQ/+EIzlUASJkS320aRZVK
-HnJcKBq9qcBx5LQQwQ3yMUgADKopWCQlB1TKyQ7yjzok1r8pLXFJhKbqcCWW8aIJkCPmJ+Ml9snG
-NOOBvTcsLsExLVeEs4qpnkJyDyDcrO+KIN1nb4U5LM/k7HXgndY9Yjaq3dtwWZjuPXs+/qC1eiy6
-3XCPOMOGQctZxZPeXiSh9yr4+sSTmxaJSnlyh2kWnH2oHfrN2lS9KyvTzM9KT+S5EJSOngt33xEs
-msedIK2pbsIFFadGKVBHNTdvN8vIHE2Jgn5l79VaSURlLy0nYmtXR+wWIBA0FRrprZ7AzL1x4wdN
-Fg9o/vTkGZTEGunTcJN/Hs6sQR79jcN8ho0l0Jk0iOiwtpw28Tlmwew4SoI8025vZlQC1BR5nfip
-SS0u0Jq+4clox0IiXxSvHsCa1DgalOlhxGuNDcCk47UNSK3zukZzUXEiAQzvg/GKWNeLCKeSYVhy
-QTUvIGdMzZJlZcZoTus86J1fS6wBSxDkxfpRyxcjdPSVaASQvXrC+nMmsCHelRvS2/wUepzZuODI
-1t3/+gjSXEetGWQqC/WT0RGeVp5yVaSC2nPaO8hI2bSpV8bEvBnehCT6WX5wv24EiEbAKqB2/JQE
-BKTX2q7sGXK2gTuocMNNmKX6KV/Mu3FPMHMqZgOhcEd3+u2Exyrfivs26XgYXR7oVuIIafMcBuV/
-epQhCUSjWGLGRzo7QPfl0+0R/+hDvfuL317H/4Qyl18qjeqnvY0I9qlbSGdq+5xQBb9x4ioUqWTP
-WXO5qz05Zuuv6RNDi5iFm5Cg2AEdfq47sOuFWuh6bCEtOjYB7LAcGz3rUIQLNfb9niKQpGktk89P
-29CdtH6PNh+m0K2o0tX7b0r4O/MtFKDfmdlRB8NGDOgjvhwPfQ2y/gA1DLzOmU9KHfYmfSbwDNMC
-TgZrVEOBBg3Bvu6DrbD1Pt7p5LLKDtt38sPh/fJ9g8Lbd0uPJb2x6YPlmSi6G0cO75xac2irYad9
-BVMdcejsAhc2lihfkeE+K0C9r+1m/y5fsezsR9j4afom0TQ6N5+vG+MZZSLEkujQmmQe2QLkezIq
-VC+u1/8PBplg8M89QdEGHWaRYdnDnowhyf9uFGpopvRTlw0jzxupxFsw/lSdrdbg0OUudzz+LZWs
-vs2UYj0ZJbaZlrCVZDFHqbuazgdztEqj9VVgwFmWLLefIDTezM7wFUWBhRg9hM6QIeS6qkUiB6Vu
-rZdQ7GCWokCn6A7rvE0lfiE5qzKUm2Yh3ty0FOut2YyYUekOvPP+XuwQpwzjtI27j3QJ8rxJlF2P
-Jqe8c9br9hbP5cbUsO6RefpEWh31Y+PYnMt8LZIrOblI+uQCNafIgKOo+KVnNslHk2Z2jDtAYqdD
-+6ZkKGqOJWrodx4VZ48UMrx6JlTVwiR4oio+/7wiXEEXcj/Pul2CxqMt4j2PvScb9o3BYyf/gdwP
-xpQ2ZiTG4ihFm0ilfhAyXNFXKJriq9XSa2a1mUu25s/8TH+D9HoLK17WqUPW5f/uUeiX60FP7zGz
-D0UE/8xSvoAp7wL+ezqgQlzol9bE/65sE68BUtPiJVSHkifwkF3O6/rMNVwd0im7c9yV/38S70nK
-fIC4gwEm29rqiNCrxRjA5Is8nq8x11y47n15rgZA+J41Xrb4V2GM7x44KrNvSa/XOWRJ0q9Pehxh
-OWPiRP0DpYbpVdggiyR3M2x7bfahrPiQ0LXgHxyZOiL0TupxfnycymgFDE2m352Cnl5D2e1qgNcs
-CdJRo14zIo9UQnADCPXTeC/dLth+2B5r2DustP71sn6rtTtsOOWv+I2IinSqDPS=
+use MicrosoftAzure\Storage\Common\Internal\Validate;
+use MicrosoftAzure\Storage\Common\Internal\Utilities;
+use MicrosoftAzure\Storage\Common\Internal\Resources;
+
+/**
+ * Holds results of updateMessage wrapper.
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Queue\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+class UpdateMessageResult
+{
+    private $_popReceipt;
+    private $_timeNextVisible;
+
+    /**
+     * Creates an instance with the given response headers.
+     *
+     * @param  array  $headers The response headers used to create the instance.
+     *
+     * @internal
+     *
+     * @return UpdateMessageResult
+     */
+    public static function create(array $headers)
+    {
+        $result = new UpdateMessageResult();
+        $result->setPopReceipt(Utilities::tryGetValueInsensitive(
+            Resources::X_MS_POPRECEIPT,
+            $headers
+        ));
+        $timeNextVisible = Utilities::tryGetValueInsensitive(
+            Resources::X_MS_TIME_NEXT_VISIBLE,
+            $headers
+        );
+        $date   = Utilities::rfc1123ToDateTime($timeNextVisible);
+        $result->setTimeNextVisible($date);
+
+        return $result;
+    }
+
+    /**
+     * Gets timeNextVisible field.
+     *
+     * @return \DateTime
+     */
+    public function getTimeNextVisible()
+    {
+        return $this->_timeNextVisible;
+    }
+    
+    /**
+     * Sets timeNextVisible field.
+     *
+     * @param \DateTime $timeNextVisible A UTC date/time value that represents when
+     * the message will be visible on the queue.
+     *
+     * @internal
+     *
+     * @return void
+     */
+    protected function setTimeNextVisible(\DateTime $timeNextVisible)
+    {
+        Validate::isDate($timeNextVisible);
+        
+        $this->_timeNextVisible = $timeNextVisible;
+    }
+    
+    /**
+     * Gets popReceipt field.
+     *
+     * @return string
+     */
+    public function getPopReceipt()
+    {
+        return $this->_popReceipt;
+    }
+    
+    /**
+     * Sets popReceipt field.
+     *
+     * @param string $popReceipt The pop receipt of the queue message.
+     *
+     * @internal
+     *
+     * @return void
+     */
+    protected function setPopReceipt($popReceipt)
+    {
+        Validate::canCastAsString($popReceipt, 'popReceipt');
+        $this->_popReceipt = $popReceipt;
+    }
+}

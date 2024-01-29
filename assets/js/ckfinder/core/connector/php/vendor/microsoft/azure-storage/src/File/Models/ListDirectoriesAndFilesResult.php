@@ -1,208 +1,260 @@
-<?php //ICB0 56:0 71:1eab                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\File\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+ 
+namespace MicrosoftAzure\Storage\File\Models;
 
-?>
-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
+use MicrosoftAzure\Storage\Common\Internal\Resources;
+use MicrosoftAzure\Storage\Common\Internal\Utilities;
+use MicrosoftAzure\Storage\Common\Models\MarkerContinuationToken;
+use MicrosoftAzure\Storage\Common\MarkerContinuationTokenTrait;
+
+/**
+ * Share to hold list directories and files response object.
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\File\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+class ListDirectoriesAndFilesResult
+{
+    use MarkerContinuationTokenTrait;
+
+    private $directories;
+    private $files;
+    private $maxResults;
+    private $accountName;
+    private $marker;
+
+    /**
+     * Creates ListDirectoriesAndFilesResult object from parsed XML response.
+     *
+     * @param array  $parsedResponse XML response parsed into array.
+     * @param string $location       Contains the location for the previous
+     *                               request.
+     *
+     * @internal
+     *
+     * @return ListSharesResult
+     */
+    public static function create(array $parsedResponse, $location = '')
+    {
+        $result               = new ListDirectoriesAndFilesResult();
+        $serviceEndpoint      = Utilities::tryGetKeysChainValue(
+            $parsedResponse,
+            Resources::XTAG_ATTRIBUTES,
+            Resources::XTAG_SERVICE_ENDPOINT
+        );
+        $result->setAccountName(Utilities::tryParseAccountNameFromUrl(
+            $serviceEndpoint
+        ));
+
+        $nextMarker = Utilities::tryGetValue(
+            $parsedResponse,
+            Resources::QP_NEXT_MARKER
+        );
+
+        if ($nextMarker != null) {
+            $result->setContinuationToken(
+                new MarkerContinuationToken(
+                    $nextMarker,
+                    $location
+                )
+            );
+        }
+
+        $result->setMaxResults(Utilities::tryGetValue(
+            $parsedResponse,
+            Resources::QP_MAX_RESULTS
+        ));
+
+        $result->setMarker(Utilities::tryGetValue(
+            $parsedResponse,
+            Resources::QP_MARKER
+        ));
+
+        $entries = Utilities::tryGetValue(
+            $parsedResponse,
+            Resources::QP_ENTRIES
+        );
+
+        if (empty($entries)) {
+            $result->setDirectories(array());
+            $result->setFiles(array());
+        } else {
+            $directoriesArray = Utilities::tryGetValue(
+                $entries,
+                Resources::QP_DIRECTORY
+            );
+            $filesArray = Utilities::tryGetValue(
+                $entries,
+                Resources::QP_FILE
+            );
+
+            $directories = array();
+            $files = array();
+
+            if ($directoriesArray != null) {
+                if (array_key_exists(Resources::QP_NAME, $directoriesArray)) {
+                    $directoriesArray = [$directoriesArray];
+                }
+                foreach ($directoriesArray as $directoryArray) {
+                    $directories[] = Directory::create($directoryArray);
+                }
+            }
+            
+            if ($filesArray != null) {
+                if (array_key_exists(Resources::QP_NAME, $filesArray)) {
+                    $filesArray = [$filesArray];
+                }
+                foreach ($filesArray as $fileArray) {
+                    $files[] = Directory::create($fileArray);
+                }
+            }
+
+            $result->setDirectories($directories);
+            $result->setFiles($files);
+        }
+
+        return $result;
+    }
+
+    /**
+     * Sets Directories.
+     *
+     * @param array $directories list of directories.
+     *
+     * @return void
+     */
+    protected function setDirectories(array $directories)
+    {
+        $this->directories = array();
+        foreach ($directories as $directory) {
+            $this->directories[] = clone $directory;
+        }
+    }
+    
+    /**
+     * Gets directories.
+     *
+     * @return Directory[]
+     */
+    public function getDirectories()
+    {
+        return $this->directories;
+    }
+
+    /**
+     * Sets files.
+     *
+     * @param array $files list of files.
+     *
+     * @return void
+     */
+    protected function setFiles(array $files)
+    {
+        $this->files = array();
+        foreach ($files as $file) {
+            $this->files[] = clone $file;
+        }
+    }
+    
+    /**
+     * Gets files.
+     *
+     * @return File[]
+     */
+    public function getFiles()
+    {
+        return $this->files;
+    }
+
+    /**
+     * Gets max results.
+     *
+     * @return string
+     */
+    public function getMaxResults()
+    {
+        return $this->maxResults;
+    }
+
+    /**
+     * Sets max results.
+     *
+     * @param string $maxResults value.
+     *
+     * @return void
+     */
+    protected function setMaxResults($maxResults)
+    {
+        $this->maxResults = $maxResults;
+    }
+
+    /**
+     * Gets marker.
+     *
+     * @return string
+     */
+    public function getMarker()
+    {
+        return $this->marker;
+    }
+
+    /**
+     * Sets marker.
+     *
+     * @param string $marker value.
+     *
+     * @return void
+     */
+    protected function setMarker($marker)
+    {
+        $this->marker = $marker;
+    }
+
+    /**
+     * Gets account name.
+     *
+     * @return string
+     */
+    public function getAccountName()
+    {
+        return $this->accountName;
+    }
+
+    /**
+     * Sets account name.
+     *
+     * @param string $accountName value.
+     *
+     * @return void
+     */
+    protected function setAccountName($accountName)
+    {
+        $this->accountName = $accountName;
+    }
+}

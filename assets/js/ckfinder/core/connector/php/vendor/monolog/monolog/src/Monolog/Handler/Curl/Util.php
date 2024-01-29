@@ -1,79 +1,57 @@
-<?php //ICB0 56:0 71:cd8                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-CUpPT1/9wOIyqwaERQ/Kh9KGIVK==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/*
+ * This file is part of the Monolog package.
+ *
+ * (c) Jordi Boggiano <j.boggiano@seld.be>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
 
-?>
-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
-DlBH
+namespace Monolog\Handler\Curl;
+
+class Util
+{
+    private static $retriableErrorCodes = array(
+        CURLE_COULDNT_RESOLVE_HOST,
+        CURLE_COULDNT_CONNECT,
+        CURLE_HTTP_NOT_FOUND,
+        CURLE_READ_ERROR,
+        CURLE_OPERATION_TIMEOUTED,
+        CURLE_HTTP_POST_ERROR,
+        CURLE_SSL_CONNECT_ERROR,
+    );
+
+    /**
+     * Executes a CURL request with optional retries and exception on failure
+     *
+     * @param  resource          $ch curl handler
+     * @throws \RuntimeException
+     */
+    public static function execute($ch, $retries = 5, $closeAfterDone = true)
+    {
+        while ($retries--) {
+            if (curl_exec($ch) === false) {
+                $curlErrno = curl_errno($ch);
+
+                if (false === in_array($curlErrno, self::$retriableErrorCodes, true) || !$retries) {
+                    $curlError = curl_error($ch);
+
+                    if ($closeAfterDone) {
+                        curl_close($ch);
+                    }
+
+                    throw new \RuntimeException(sprintf('Curl error (code %s): %s', $curlErrno, $curlError));
+                }
+
+                continue;
+            }
+
+            if ($closeAfterDone) {
+                curl_close($ch);
+            }
+            break;
+        }
+    }
+}

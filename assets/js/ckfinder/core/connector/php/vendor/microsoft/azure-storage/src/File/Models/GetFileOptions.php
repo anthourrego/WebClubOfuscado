@@ -1,93 +1,98 @@
-<?php //ICB0 56:0 71:eff                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cPrAeO27EYbaNbnZr0gmKBpybSQuPMM2eMAYu0YSci4WX+yyoPfDwds8xZf3+Ji+4fyxmvT3D
-pU9ZDnv796E0k29zhk0YXK0lcuNed6LKri+BAjbR17NWPcr4OtW4IhWnm6DZqzQ/C00t/S3dduNx
-uW6J7pSUL20QZ7o1qi3KhHjpvoY2vtgF0m9RNikw5hMpz7YxbcNAJcF5BQdhLcjpKKECp54VB5q5
-zFyd1rPr+o4/i/kDv1bvVJdKB/xwmq7St3aTxf02/8wULxI9snptqslkK11eTrAtZT/a8Y+J77xm
-BauzQZ1Qd+4Qx/4snxl2WAf3NWgapiVpwgyEpW7eDLCNuWefMYAnI7IRgpO6E6kFbLJd7Q6DbYSd
-K/mHi2z/NwQq9gN4OlcwTICCHNEAk5sH7eitGMPKJJXt0g9ivVkXcQtv0pk6GXIGlpgqucET42ff
-BSwhAFp/CdZvcuYwjlo0fv44fHvzMw5uJXNidecltNdAnT2FKZk+OHFXRw45WK4vjEAdRn8Q5OSf
-VRFPI+EUUsB5ND8jS43Deq4nbdmEg1ymW6Xu7rxj7rTV/IGfpGK7LaDRolaQn7P8YczoAczwyZaH
-gCe/mwl8p9jktFPlr8x9fd9dUblYRGRMMXYIXykoY6ShMZHqrtN/R/D/duk+yjlEUc7Gdv2Cutx0
-TrZEPOpaKZ7FDCiOl/SHQGZ9bhx7Nu0qo9KPIrJJ7WiK+81jRezcuFKo0XiipfutvaXDSxQExPGi
-zPCd+ifCPzynjBX9Ddw6GJTKhDBwfm3XipjOSstAwWzo765y5QaYigQ7iferd/oz21zKSonWaOgG
-u5Jxg/ZTS/90w5/vIBlle78mImIlYnvpKjI3BVTwE4YSWCsViIdIu/qFsrqs5xR/IVCD20fpqShS
-WTFHkF2cDjpUsQBGICsKgkB01YGaSSU2J+2sYfdR+1EBUTOTGw1CYWQgz7HcB9jQJ+4eG5xPs4aO
-+ObHh6LbdGv2IeL4Embk94pPVIhrWSdpLTfTG1Y34o5O4YvrQr+ZI6y7SNAwPTmKi/gjs3Rir1YJ
-XtXcNOdG/fD8Yt0r8riA/QytHvbhfqHadVLd30IbchniKSxJXPo6AyJHmABc7OM6+Wjoa/bRK+g7
-BJGw4+GuSzOlT/t1QoiXh+ohoRaaYHRzQbapSfMJYcG+RTL2HOf+c1YLrDXq7ELWCt1kJI1KnnJi
-7cNQVGv/5yY0U0pDmUlyRKhgri1hjCrqD0me2FCb0EooXvH5fczSOMxsEwD7DwYN1BCo/+mjZFne
-Pv8qRNagl56kjwupkD+rNIf5OSRkI1jMpnmm0QoUZZq8paek+hmSmQ2TK0q2YE8dbqrc4mVkEgL5
-2khv8isLPSapVzg1ymUiDYCJoveS97ib0q1nNJcvJBfb2Z0FfQPxNnhKpInLISFlOvsG3JMtPAp2
-HczQH0xg+tjJczIAshumARhuFcPNR67I5mgQu29wDPQZ317nxaYxFGu8m+yOKzgb+yJPHd0TjI+6
-MVZSvdRGOXFsroQyt1KUuJRcK4Xss+o9tbmaIAU7L64Jx4NH7crXZlFmJRiXaMgxVz6v5O7g3INU
-JekBGZIvWbN7QaZgtDlVnA3ri16A3PF41OAbrLcjAOPIwqInZJj9AYUGD5Gdz+1X9uA5UBCXRehJ
-Y9/prdfTxgZRAB2m75BdJX3yZcInl0Y9k8anA0A1MNv2R4jFaQ16fCb/eNFZ7PnkCTro/lkWT1Is
-dkAGLvmlN2l3uhSii4icuzkuQTvZR3kOhZFcThRFA5bk1HxOjCsXN6sgdXqOlAjL65HtXBpX6qjA
-PzlKSDwm2ABixC8MqVPge9oxXdNlJJ/+P6N08brbLDqzLobouD1eQNPDkKH+Z8qqZKRHa6qNEzln
-4/HKLhwFLHYDEm5Gx7Wn1vPWKWZ4y/PQvsbs8k6IR2iicY8FTWkHr1y9bLL33xfE1+dPL+aBKsvy
-Qqwk4WBlAik7KzmE9G22Geumvu7kDAezUu4eUdFA2V3wN4dQtcPnvdTI6SpeQlQH6NaAdWm5jBEK
-KA7NCK7HK/+77NAIn8sOSXeQkC9TUUppkAKzLsfAhOjanYgmQo8Qx8Mp60x1ES1JU1o8Xo6qAkx0
-8g49fmYZPYx4Ws3WZk5QQblft5mFFQpmg9UQXy3HcYtYAXYa+rJXzeyfbwTRbDHGhQ52ec19csLo
-miKK35WnJ+qHJAOxO/8NETBpEBx5hMK1q5DG3VmANC4uNPpA4BkYBdw3h5GufnTNfAgLzohsbDWM
-da/TrEmA4adfrsfaa7IsRKKZMVqbwni39Kr0z5mG+RpJ7d1yCnPNVInPlDToM+VnQcYXlmXFI0Ya
-V+ru54i5CxIVipvjX1JB0D551PCAB/b95gZsbscWUo3gwWqwKX1viHvbtyXCBGj1tcomTSI5KiqK
-U8MglCzv0yvkhalfysadiUODHHnsNgz9ax1i+VWb3H/xH5lSP+kihDCDaSSfD67gGoFswEuWdFnS
-AclIv1+Q8HgiHzJgVUP0mOxuXSBykq/MKFi4qR0MPaEiw8hPEyGkEO0hBg3l4GC4nHjgUkYl8Gag
-8xigtvb0VMjNJgUACxGM/6C5dW+sAF9sU5kOG+0LCiWvDmusT1t7tS9yfa1gIlpLV30CGLedb9ZJ
-dEJ04r6UsMGaBpap4XknB5cnnUoUG/aRpZ5WO/CZL24wMC+IcViZlgEElt8dPV0s5luJbrAQ6iI4
-/U52FIIXwBBfld9+vIKwGUdgHGMa5oS2Aum0B5ZsOfa+2idI0Ugj8rXarT4eKK38CoAf7xozStjP
-STnUbGCZvAnqrfJRSeNCeEGzhKUkl+2MT/CWroiCKomSaPvX4+dxiZy96r6APwI/RHr2j1dUN4ef
-2AaMib4Ok5kpLIA0fY7wOWJn3J4hwr9Jez+xrXW==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\File\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2017 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+ 
+namespace MicrosoftAzure\Storage\File\Models;
 
-?>
-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
+use MicrosoftAzure\Storage\Common\Internal\Validate;
+use MicrosoftAzure\Storage\Common\Models\Range;
+
+/**
+ * Optional parameters for getFile.
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\File\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2017 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+class GetFileOptions extends FileServiceOptions
+{
+    private $range = null;
+    private $rangeGetContentMD5 = false;
+
+    /**
+     * Gets File range.
+     *
+     * @return Range
+     */
+    public function getRange()
+    {
+        return $this->range;
+    }
+
+    /**
+     * Sets File range.
+     *
+     * @param Range $range value.
+     *
+     * @return void
+     */
+    public function setRange(Range $range)
+    {
+        $this->range = $range;
+    }
+
+    /**
+     * Gets File rangeGetContentMD5.
+     *
+     * @return bool
+     */
+    public function getRangeGetContentMD5()
+    {
+        return $this->rangeGetContentMD5;
+    }
+
+    /**
+     * Sets File rangeGetContentMD5.
+     *
+     * @param bool $rangeGetContentMD5 value.
+     *
+     * @return void
+     */
+    public function setRangeGetContentMD5($rangeGetContentMD5)
+    {
+        Validate::isBoolean($rangeGetContentMD5);
+        $this->rangeGetContentMD5 = (bool)$rangeGetContentMD5;
+    }
+
+    public function getRangeString()
+    {
+        if ($this->range != null) {
+            return $this->range->getRangeString();
+        } else {
+            return null;
+        }
+    }
+}

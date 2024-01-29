@@ -1,102 +1,79 @@
-<?php //ICB0 56:0 71:fe2                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\Api;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-WzZi2Ch+6IZrvgm+W4CT7RyFTIGffrm96vC==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * Represents a structure shape and resolve member shape references.
+ */
+class StructureShape extends Shape
+{
+    /**
+     * @var Shape[]
+     */
+    private $members;
 
-?>
-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
-fnnC8zYOjRkmGDO=
+    public function __construct(array $definition, ShapeMap $shapeMap)
+    {
+        $definition['type'] = 'structure';
+
+        if (!isset($definition['members'])) {
+            $definition['members'] = [];
+        }
+
+        parent::__construct($definition, $shapeMap);
+    }
+
+    /**
+     * Gets a list of all members
+     *
+     * @return Shape[]
+     */
+    public function getMembers()
+    {
+        if (empty($this->members)) {
+            $this->generateMembersHash();
+        }
+
+        return $this->members;
+    }
+
+    /**
+     * Check if a specific member exists by name.
+     *
+     * @param string $name Name of the member to check
+     *
+     * @return bool
+     */
+    public function hasMember($name)
+    {
+        return isset($this->definition['members'][$name]);
+    }
+
+    /**
+     * Retrieve a member by name.
+     *
+     * @param string $name Name of the member to retrieve
+     *
+     * @return Shape
+     * @throws \InvalidArgumentException if the member is not found.
+     */
+    public function getMember($name)
+    {
+        $members = $this->getMembers();
+
+        if (!isset($members[$name])) {
+            throw new \InvalidArgumentException('Unknown member ' . $name);
+        }
+
+        return $members[$name];
+    }
+
+
+    private function generateMembersHash()
+    {
+        $this->members = [];
+
+        foreach ($this->definition['members'] as $name => $definition) {
+            $this->members[$name] = $this->shapeFor($definition);
+        }
+    }
+}

@@ -1,146 +1,178 @@
-<?php //ICB0 56:0 71:15de                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-p7SGPyNp6w1L8pCqM5AnT4kPBG===
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Common\Internal\Serialization
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2017 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
 
-?>
-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
+namespace MicrosoftAzure\Storage\Common\Internal\Serialization;
+
+use MicrosoftAzure\Storage\Common\Internal\Validate;
+use MicrosoftAzure\Storage\Common\Internal\Resources;
+use GuzzleHttp\Exception\RequestException;
+
+/**
+ * Provides functionality to serialize a message to a string.
+ *
+ * @ignore
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Common\Internal\Serialization
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2017 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+class MessageSerializer
+{
+    /**
+     * Serialize a message to a string. The message object must be either a type
+     * of \Exception, or have following methods implemented.
+     * getHeaders()
+     * getProtocolVersion()
+     * (getUri() && getMethod()) || (getStatusCode() && getReasonPhrase())
+     *
+     * @param object $message The message to be serialized.
+     *
+     * @return string
+     */
+    public static function objectSerialize($targetObject)
+    {
+        //if the object is of exception type, serialize it using the methods
+        //without checking the methods.
+        if ($targetObject instanceof RequestException) {
+            return self::serializeRequestException($targetObject);
+        } elseif ($targetObject instanceof \Exception) {
+            return self::serializeException($targetObject);
+        }
+
+        Validate::methodExists($targetObject, 'getHeaders', 'targetObject');
+        Validate::methodExists($targetObject, 'getProtocolVersion', 'targetObject');
+
+        // Serialize according to the implemented method.
+        if (method_exists($targetObject, 'getUri') &&
+            method_exists($targetObject, 'getMethod')) {
+            return self::serializeRequest($targetObject);
+        } elseif (method_exists($targetObject, 'getStatusCode') &&
+                   method_exists($targetObject, 'getReasonPhrase')) {
+            return self::serializeResponse($targetObject);
+        } else {
+            throw new \InvalidArgumentException(
+                Resources::INVALID_MESSAGE_OBJECT_TO_SERIALIZE
+            );
+        }
+    }
+
+    /**
+     * Serialize the request type that implemented the following methods:
+     * getHeaders()
+     * getProtocolVersion()
+     * getUri()
+     * getMethod()
+     *
+     * @param  object $request The request to be serialized.
+     *
+     * @return string
+     */
+    private static function serializeRequest($request)
+    {
+        $headers = $request->getHeaders();
+        $version = $request->getProtocolVersion();
+        $uri     = $request->getUri();
+        $method  = $request->getMethod();
+
+        $resultString = "Request:\n";
+        $resultString .= "URI: {$uri}\nHTTP Version: {$version}\nMethod: {$method}\n";
+        $resultString .= self::serializeHeaders($headers);
+
+        return $resultString;
+    }
+
+    /**
+     * Serialize the response type that implemented the following methods:
+     * getHeaders()
+     * getProtocolVersion()
+     * getStatusCode()
+     * getReasonPhrase()
+     *
+     * @param  object $response The response to be serialized
+     *
+     * @return string
+     */
+    private static function serializeResponse($response)
+    {
+        $headers = $response->getHeaders();
+        $version = $response->getProtocolVersion();
+        $status  = $response->getStatusCode();
+        $reason  = $response->getReasonPhrase();
+
+        $resultString = "Response:\n";
+        $resultString .= "Status Code: {$status}\nReason: {$reason}\n";
+        $resultString .= "HTTP Version: {$version}\n";
+        $resultString .= self::serializeHeaders($headers);
+
+        return $resultString;
+    }
+
+    /**
+     * Serialize the message headers.
+     *
+     * @param  array  $headers The headers to be serialized.
+     *
+     * @return string
+     */
+    private static function serializeHeaders(array $headers)
+    {
+        $resultString = "Headers:\n";
+        foreach ($headers as $key => $value) {
+            $resultString .= sprintf("%s: %s\n", $key, $value[0]);
+        }
+
+        return $resultString;
+    }
+
+    /**
+     * Serialize the request exception.
+     *
+     * @param  RequestException $e the request exception to be serialized.
+     *
+     * @return string
+     */
+    private static function serializeRequestException(RequestException $e)
+    {
+        $resultString = sprintf("Reason:\n%s\n", $e);
+        if ($e->hasResponse()) {
+            $resultString .= self::serializeResponse($e->getResponse());
+        }
+
+        return $resultString;
+    }
+
+    /**
+     * Serialize the general exception
+     *
+     * @param  \Exception $e general exception to be serialized.
+     *
+     * @return string
+     */
+    private static function serializeException(\Exception $e)
+    {
+        return sprintf("Reason:\n%s\n", $e);
+    }
+}

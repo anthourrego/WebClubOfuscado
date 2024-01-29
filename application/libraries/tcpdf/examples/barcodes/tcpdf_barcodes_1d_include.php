@@ -1,81 +1,46 @@
-<?php //ICB0 56:0 71:c62                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+//============================================================+
+// File name   : tcpdf_barcodes_1d_include.php
+// Begin       : 2013-05-19
+// Last Update : 2013-05-19
+//
+// Description : Search and include the TCPDF Barcode 1D class.
+//
+// Author: Nicola Asuni
+//
+// (c) Copyright:
+//               Nicola Asuni
+//               Tecnick.com LTD
+//               www.tecnick.com
+//               info@tecnick.com
+//============================================================+
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * Search and include the TCPDF Barcode 1D class.
+ * @package com.tecnick.tcpdf
+ * @abstract TCPDF - Include the main class.
+ * @author Nicola Asuni
+ * @since 2013-05-19
+ */
 
-?>
-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
+// Include the TCPDF 1D barcode class (search the class on the following directories).
+$tcpdf_barcodes_1d_include_dirs = array(
+    realpath(dirname(__FILE__) . '/../../tcpdf_barcodes_1d.php'),// True source file
+	realpath('../../tcpdf_barcodes_1d.php'),// Relative from $PWD
+	'/usr/share/php/tcpdf/tcpdf_barcodes_1d.php',
+	'/usr/share/tcpdf/tcpdf_barcodes_1d.php',
+	'/usr/share/php-tcpdf/tcpdf_barcodes_1d.php',
+	'/var/www/tcpdf/tcpdf_barcodes_1d.php',
+	'/var/www/html/tcpdf/tcpdf_barcodes_1d.php',
+	'/usr/local/apache2/htdocs/tcpdf/tcpdf_barcodes_1d.php'
+);
+foreach ($tcpdf_barcodes_1d_include_dirs as $tcpdf_barcodes_1d_include_path) {
+	if (@file_exists($tcpdf_barcodes_1d_include_path)) {
+		require_once($tcpdf_barcodes_1d_include_path);
+		break;
+	}
+}
+
+//============================================================+
+// END OF FILE
+//============================================================+

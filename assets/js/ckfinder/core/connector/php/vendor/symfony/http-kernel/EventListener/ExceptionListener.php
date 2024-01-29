@@ -1,108 +1,133 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
+/*
+ * This file is part of the Symfony package.
+ *
+ * (c) Fabien Potencier <fabien@symfony.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+namespace Symfony\Component\HttpKernel\EventListener;
+
+use Psr\Log\LoggerInterface;
+use Symfony\Component\Debug\Exception\FlattenException;
+use Symfony\Component\EventDispatcher\EventDispatcherInterface;
+use Symfony\Component\HttpFoundation\Request;
+use Symfony\Component\HttpKernel\Event\FilterResponseEvent;
+use Symfony\Component\HttpKernel\Log\DebugLoggerInterface;
+use Symfony\Component\HttpKernel\Event\GetResponseForExceptionEvent;
+use Symfony\Component\HttpKernel\KernelEvents;
+use Symfony\Component\HttpKernel\HttpKernelInterface;
+use Symfony\Component\HttpKernel\Exception\HttpExceptionInterface;
+use Symfony\Component\EventDispatcher\EventSubscriberInterface;
+
+/**
+ * ExceptionListener.
+ *
+ * @author Fabien Potencier <fabien@symfony.com>
+ */
+class ExceptionListener implements EventSubscriberInterface
+{
+    protected $controller;
+    protected $logger;
+    protected $debug;
+
+    public function __construct($controller, LoggerInterface $logger = null, $debug = false)
+    {
+        $this->controller = $controller;
+        $this->logger = $logger;
+        $this->debug = $debug;
+    }
+
+    public function onKernelException(GetResponseForExceptionEvent $event)
+    {
+        $exception = $event->getException();
+        $request = $event->getRequest();
+        $eventDispatcher = func_num_args() > 2 ? func_get_arg(2) : null;
+
+        $this->logException($exception, sprintf('Uncaught PHP Exception %s: "%s" at %s line %s', get_class($exception), $exception->getMessage(), $exception->getFile(), $exception->getLine()));
+
+        $request = $this->duplicateRequest($exception, $request);
+
+        try {
+            $response = $event->getKernel()->handle($request, HttpKernelInterface::SUB_REQUEST, false);
+        } catch (\Exception $e) {
+            $this->logException($e, sprintf('Exception thrown when handling an exception (%s: %s at %s line %s)', get_class($e), $e->getMessage(), $e->getFile(), $e->getLine()));
+
+            $wrapper = $e;
+
+            while ($prev = $wrapper->getPrevious()) {
+                if ($exception === $wrapper = $prev) {
+                    throw $e;
+                }
+            }
+
+            $prev = new \ReflectionProperty('Exception', 'previous');
+            $prev->setAccessible(true);
+            $prev->setValue($wrapper, $exception);
+
+            throw $e;
+        }
+
+        $event->setResponse($response);
+
+        if ($this->debug && $eventDispatcher instanceof EventDispatcherInterface) {
+            $cspRemovalListener = function (FilterResponseEvent $event) use (&$cspRemovalListener, $eventDispatcher) {
+                $event->getResponse()->headers->remove('Content-Security-Policy');
+                $eventDispatcher->removeListener(KernelEvents::RESPONSE, $cspRemovalListener);
+            };
+            $eventDispatcher->addListener(KernelEvents::RESPONSE, $cspRemovalListener, -128);
+        }
+    }
+
+    public static function getSubscribedEvents()
+    {
+        return array(
+            KernelEvents::EXCEPTION => array('onKernelException', -128),
+        );
+    }
+
+    /**
+     * Logs an exception.
+     *
+     * @param \Exception $exception The \Exception instance
+     * @param string     $message   The error message to log
+     */
+    protected function logException(\Exception $exception, $message)
+    {
+        if (null !== $this->logger) {
+            if (!$exception instanceof HttpExceptionInterface || $exception->getStatusCode() >= 500) {
+                $this->logger->critical($message, array('exception' => $exception));
+            } else {
+                $this->logger->error($message, array('exception' => $exception));
+            }
+        }
+    }
+
+    /**
+     * Clones the request for the exception.
+     *
+     * @param \Exception $exception The thrown exception
+     * @param Request    $request   The original request
+     *
+     * @return Request $request The cloned request
+     */
+    protected function duplicateRequest(\Exception $exception, Request $request)
+    {
+        $attributes = array(
+            '_controller' => $this->controller,
+            'exception' => FlattenException::create($exception),
+            'logger' => $this->logger instanceof DebugLoggerInterface ? $this->logger : null,
+            // keep for BC -- as $format can be an argument of the controller callable
+            // see src/Symfony/Bundle/TwigBundle/Controller/ExceptionController.php
+            // @deprecated since version 2.4, to be removed in 3.0
+            'format' => $request->getRequestFormat(),
+        );
+        $request = $request->duplicate(null, null, $attributes);
+        $request->setMethod('GET');
+
+        return $request;
+    }
+}

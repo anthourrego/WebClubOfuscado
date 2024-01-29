@@ -1,69 +1,55 @@
-<?php //ICB0 56:0 71:b6b                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/*
+ * This file is part of Pimple.
+ *
+ * Copyright (c) 2009-2017 Fabien Potencier
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is furnished
+ * to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in all
+ * copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ */
 
-?>
-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
+namespace Pimple\Psr11;
+
+use Pimple\Container as PimpleContainer;
+use Psr\Container\ContainerInterface;
+
+/**
+ * PSR-11 compliant wrapper.
+ *
+ * @author Pascal Luna <skalpa@zetareticuli.org>
+ */
+final class Container implements ContainerInterface
+{
+    private $pimple;
+
+    public function __construct(PimpleContainer $pimple)
+    {
+        $this->pimple = $pimple;
+    }
+
+    public function get($id)
+    {
+        return $this->pimple[$id];
+    }
+
+    public function has($id)
+    {
+        return isset($this->pimple[$id]);
+    }
+}

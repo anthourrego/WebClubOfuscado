@@ -1,89 +1,286 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2017, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2017, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license	http://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 2.0
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-QXRllgirZtUe
+/**
+ * CodeIgniter File Caching Class
+ *
+ * @package		CodeIgniter
+ * @subpackage	Libraries
+ * @category	Core
+ * @author		EllisLab Dev Team
+ * @link
+ */
+class CI_Cache_file extends CI_Driver {
+
+	/**
+	 * Directory in which to save cache files
+	 *
+	 * @var string
+	 */
+	protected $_cache_path;
+
+	/**
+	 * Initialize file-based cache
+	 *
+	 * @return	void
+	 */
+	public function __construct()
+	{
+		$CI =& get_instance();
+		$CI->load->helper('file');
+		$path = $CI->config->item('cache_path');
+		$this->_cache_path = ($path === '') ? APPPATH.'cache/' : $path;
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Fetch from cache
+	 *
+	 * @param	string	$id	Cache ID
+	 * @return	mixed	Data on success, FALSE on failure
+	 */
+	public function get($id)
+	{
+		$data = $this->_get($id);
+		return is_array($data) ? $data['data'] : FALSE;
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Save into cache
+	 *
+	 * @param	string	$id	Cache ID
+	 * @param	mixed	$data	Data to store
+	 * @param	int	$ttl	Time to live in seconds
+	 * @param	bool	$raw	Whether to store the raw value (unused)
+	 * @return	bool	TRUE on success, FALSE on failure
+	 */
+	public function save($id, $data, $ttl = 60, $raw = FALSE)
+	{
+		$contents = array(
+			'time'		=> time(),
+			'ttl'		=> $ttl,
+			'data'		=> $data
+		);
+
+		if (write_file($this->_cache_path.$id, serialize($contents)))
+		{
+			chmod($this->_cache_path.$id, 0640);
+			return TRUE;
+		}
+
+		return FALSE;
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Delete from Cache
+	 *
+	 * @param	mixed	unique identifier of item in cache
+	 * @return	bool	true on success/false on failure
+	 */
+	public function delete($id)
+	{
+		return is_file($this->_cache_path.$id) ? unlink($this->_cache_path.$id) : FALSE;
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Increment a raw value
+	 *
+	 * @param	string	$id	Cache ID
+	 * @param	int	$offset	Step/value to add
+	 * @return	New value on success, FALSE on failure
+	 */
+	public function increment($id, $offset = 1)
+	{
+		$data = $this->_get($id);
+
+		if ($data === FALSE)
+		{
+			$data = array('data' => 0, 'ttl' => 60);
+		}
+		elseif ( ! is_int($data['data']))
+		{
+			return FALSE;
+		}
+
+		$new_value = $data['data'] + $offset;
+		return $this->save($id, $new_value, $data['ttl'])
+			? $new_value
+			: FALSE;
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Decrement a raw value
+	 *
+	 * @param	string	$id	Cache ID
+	 * @param	int	$offset	Step/value to reduce by
+	 * @return	New value on success, FALSE on failure
+	 */
+	public function decrement($id, $offset = 1)
+	{
+		$data = $this->_get($id);
+
+		if ($data === FALSE)
+		{
+			$data = array('data' => 0, 'ttl' => 60);
+		}
+		elseif ( ! is_int($data['data']))
+		{
+			return FALSE;
+		}
+
+		$new_value = $data['data'] - $offset;
+		return $this->save($id, $new_value, $data['ttl'])
+			? $new_value
+			: FALSE;
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Clean the Cache
+	 *
+	 * @return	bool	false on failure/true on success
+	 */
+	public function clean()
+	{
+		return delete_files($this->_cache_path, FALSE, TRUE);
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Cache Info
+	 *
+	 * Not supported by file-based caching
+	 *
+	 * @param	string	user/filehits
+	 * @return	mixed	FALSE
+	 */
+	public function cache_info($type = NULL)
+	{
+		return get_dir_file_info($this->_cache_path);
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Get Cache Metadata
+	 *
+	 * @param	mixed	key to get cache metadata on
+	 * @return	mixed	FALSE on failure, array on success.
+	 */
+	public function get_metadata($id)
+	{
+		if ( ! is_file($this->_cache_path.$id))
+		{
+			return FALSE;
+		}
+
+		$data = unserialize(file_get_contents($this->_cache_path.$id));
+
+		if (is_array($data))
+		{
+			$mtime = filemtime($this->_cache_path.$id);
+
+			if ( ! isset($data['ttl'], $data['time']))
+			{
+				return FALSE;
+			}
+
+			return array(
+				'expire' => $data['time'] + $data['ttl'],
+				'mtime'	 => $mtime
+			);
+		}
+
+		return FALSE;
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Is supported
+	 *
+	 * In the file driver, check to see that the cache directory is indeed writable
+	 *
+	 * @return	bool
+	 */
+	public function is_supported()
+	{
+		return is_really_writable($this->_cache_path);
+	}
+
+	// ------------------------------------------------------------------------
+
+	/**
+	 * Get all data
+	 *
+	 * Internal method to get all the relevant data about a cache item
+	 *
+	 * @param	string	$id	Cache ID
+	 * @return	mixed	Data array on success or FALSE on failure
+	 */
+	protected function _get($id)
+	{
+		if ( ! is_file($this->_cache_path.$id))
+		{
+			return FALSE;
+		}
+
+		$data = unserialize(file_get_contents($this->_cache_path.$id));
+
+		if ($data['ttl'] > 0 && time() > $data['time'] + $data['ttl'])
+		{
+			unlink($this->_cache_path.$id);
+			return FALSE;
+		}
+
+		return $data;
+	}
+
+}

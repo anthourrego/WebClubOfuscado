@@ -1,123 +1,413 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2017, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2017, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license	http://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 3.0.0
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-+B04zellUFj7rpe5pWUeYtdzafsWEaKYNG==
+/**
+ * Firebird/Interbase Database Adapter Class
+ *
+ * Note: _DB is an extender class that the app controller
+ * creates dynamically based on whether the query builder
+ * class is being used or not.
+ *
+ * @package		CodeIgniter
+ * @subpackage	Drivers
+ * @category	Database
+ * @author		EllisLab Dev Team
+ * @link		https://codeigniter.com/user_guide/database/
+ */
+class CI_DB_ibase_driver extends CI_DB {
+
+	/**
+	 * Database driver
+	 *
+	 * @var	string
+	 */
+	public $dbdriver = 'ibase';
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * ORDER BY random keyword
+	 *
+	 * @var	array
+	 */
+	protected $_random_keyword = array('RAND()', 'RAND()');
+
+	/**
+	 * IBase Transaction status flag
+	 *
+	 * @var	resource
+	 */
+	protected $_ibase_trans;
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Non-persistent database connection
+	 *
+	 * @param	bool	$persistent
+	 * @return	resource
+	 */
+	public function db_connect($persistent = FALSE)
+	{
+		return ($persistent === TRUE)
+			? ibase_pconnect($this->hostname.':'.$this->database, $this->username, $this->password, $this->char_set)
+			: ibase_connect($this->hostname.':'.$this->database, $this->username, $this->password, $this->char_set);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Database version number
+	 *
+	 * @return	string
+	 */
+	public function version()
+	{
+		if (isset($this->data_cache['version']))
+		{
+			return $this->data_cache['version'];
+		}
+
+		if (($service = ibase_service_attach($this->hostname, $this->username, $this->password)))
+		{
+			$this->data_cache['version'] = ibase_server_info($service, IBASE_SVC_SERVER_VERSION);
+
+			// Don't keep the service open
+			ibase_service_detach($service);
+			return $this->data_cache['version'];
+		}
+
+		return FALSE;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Execute the query
+	 *
+	 * @param	string	$sql	an SQL query
+	 * @return	resource
+	 */
+	protected function _execute($sql)
+	{
+		return ibase_query(isset($this->_ibase_trans) ? $this->_ibase_trans : $this->conn_id, $sql);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Begin Transaction
+	 *
+	 * @return	bool
+	 */
+	protected function _trans_begin()
+	{
+		if (($trans_handle = ibase_trans($this->conn_id)) === FALSE)
+		{
+			return FALSE;
+		}
+
+		$this->_ibase_trans = $trans_handle;
+		return TRUE;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Commit Transaction
+	 *
+	 * @return	bool
+	 */
+	protected function _trans_commit()
+	{
+		if (ibase_commit($this->_ibase_trans))
+		{
+			$this->_ibase_trans = NULL;
+			return TRUE;
+		}
+
+		return FALSE;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Rollback Transaction
+	 *
+	 * @return	bool
+	 */
+	protected function _trans_rollback()
+	{
+		if (ibase_rollback($this->_ibase_trans))
+		{
+			$this->_ibase_trans = NULL;
+			return TRUE;
+		}
+
+		return FALSE;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Affected Rows
+	 *
+	 * @return	int
+	 */
+	public function affected_rows()
+	{
+		return ibase_affected_rows($this->conn_id);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Insert ID
+	 *
+	 * @param	string	$generator_name
+	 * @param	int	$inc_by
+	 * @return	int
+	 */
+	public function insert_id($generator_name, $inc_by = 0)
+	{
+		//If a generator hasn't been used before it will return 0
+		return ibase_gen_id('"'.$generator_name.'"', $inc_by);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * List table query
+	 *
+	 * Generates a platform-specific query string so that the table names can be fetched
+	 *
+	 * @param	bool	$prefix_limit
+	 * @return	string
+	 */
+	protected function _list_tables($prefix_limit = FALSE)
+	{
+		$sql = 'SELECT TRIM("RDB$RELATION_NAME") AS TABLE_NAME FROM "RDB$RELATIONS" WHERE "RDB$RELATION_NAME" NOT LIKE \'RDB$%\' AND "RDB$RELATION_NAME" NOT LIKE \'MON$%\'';
+
+		if ($prefix_limit !== FALSE && $this->dbprefix !== '')
+		{
+			return $sql.' AND TRIM("RDB$RELATION_NAME") AS TABLE_NAME LIKE \''.$this->escape_like_str($this->dbprefix)."%' "
+				.sprintf($this->_like_escape_str, $this->_like_escape_chr);
+		}
+
+		return $sql;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Show column query
+	 *
+	 * Generates a platform-specific query string so that the column names can be fetched
+	 *
+	 * @param	string	$table
+	 * @return	string
+	 */
+	protected function _list_columns($table = '')
+	{
+		return 'SELECT TRIM("RDB$FIELD_NAME") AS COLUMN_NAME FROM "RDB$RELATION_FIELDS" WHERE "RDB$RELATION_NAME" = '.$this->escape($table);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Returns an object with field data
+	 *
+	 * @param	string	$table
+	 * @return	array
+	 */
+	public function field_data($table)
+	{
+		$sql = 'SELECT "rfields"."RDB$FIELD_NAME" AS "name",
+				CASE "fields"."RDB$FIELD_TYPE"
+					WHEN 7 THEN \'SMALLINT\'
+					WHEN 8 THEN \'INTEGER\'
+					WHEN 9 THEN \'QUAD\'
+					WHEN 10 THEN \'FLOAT\'
+					WHEN 11 THEN \'DFLOAT\'
+					WHEN 12 THEN \'DATE\'
+					WHEN 13 THEN \'TIME\'
+					WHEN 14 THEN \'CHAR\'
+					WHEN 16 THEN \'INT64\'
+					WHEN 27 THEN \'DOUBLE\'
+					WHEN 35 THEN \'TIMESTAMP\'
+					WHEN 37 THEN \'VARCHAR\'
+					WHEN 40 THEN \'CSTRING\'
+					WHEN 261 THEN \'BLOB\'
+					ELSE NULL
+				END AS "type",
+				"fields"."RDB$FIELD_LENGTH" AS "max_length",
+				"rfields"."RDB$DEFAULT_VALUE" AS "default"
+			FROM "RDB$RELATION_FIELDS" "rfields"
+				JOIN "RDB$FIELDS" "fields" ON "rfields"."RDB$FIELD_SOURCE" = "fields"."RDB$FIELD_NAME"
+			WHERE "rfields"."RDB$RELATION_NAME" = '.$this->escape($table).'
+			ORDER BY "rfields"."RDB$FIELD_POSITION"';
+
+		return (($query = $this->query($sql)) !== FALSE)
+			? $query->result_object()
+			: FALSE;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Error
+	 *
+	 * Returns an array containing code and message of the last
+	 * database error that has occurred.
+	 *
+	 * @return	array
+	 */
+	public function error()
+	{
+		return array('code' => ibase_errcode(), 'message' => ibase_errmsg());
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Update statement
+	 *
+	 * Generates a platform-specific update string from the supplied data
+	 *
+	 * @param	string	$table
+	 * @param	array	$values
+	 * @return	string
+	 */
+	protected function _update($table, $values)
+	{
+		$this->qb_limit = FALSE;
+		return parent::_update($table, $values);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Truncate statement
+	 *
+	 * Generates a platform-specific truncate string from the supplied data
+	 *
+	 * If the database does not support the TRUNCATE statement,
+	 * then this method maps to 'DELETE FROM table'
+	 *
+	 * @param	string	$table
+	 * @return	string
+	 */
+	protected function _truncate($table)
+	{
+		return 'DELETE FROM '.$table;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Delete statement
+	 *
+	 * Generates a platform-specific delete string from the supplied data
+	 *
+	 * @param	string	$table
+	 * @return	string
+	 */
+	protected function _delete($table)
+	{
+		$this->qb_limit = FALSE;
+		return parent::_delete($table);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * LIMIT
+	 *
+	 * Generates a platform-specific LIMIT clause
+	 *
+	 * @param	string	$sql	SQL Query
+	 * @return	string
+	 */
+	protected function _limit($sql)
+	{
+		// Limit clause depends on if Interbase or Firebird
+		if (stripos($this->version(), 'firebird') !== FALSE)
+		{
+			$select = 'FIRST '.$this->qb_limit
+				.($this->qb_offset ? ' SKIP '.$this->qb_offset : '');
+		}
+		else
+		{
+			$select = 'ROWS '
+				.($this->qb_offset ? $this->qb_offset.' TO '.($this->qb_limit + $this->qb_offset) : $this->qb_limit);
+		}
+
+		return preg_replace('`SELECT`i', 'SELECT '.$select, $sql, 1);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Insert batch statement
+	 *
+	 * Generates a platform-specific insert string from the supplied data.
+	 *
+	 * @param	string	$table	Table name
+	 * @param	array	$keys	INSERT keys
+	 * @param	array	$values	INSERT values
+	 * @return	string|bool
+	 */
+	protected function _insert_batch($table, $keys, $values)
+	{
+		return ($this->db_debug) ? $this->display_error('db_unsupported_feature') : FALSE;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Close DB Connection
+	 *
+	 * @return	void
+	 */
+	protected function _close()
+	{
+		ibase_close($this->conn_id);
+	}
+
+}

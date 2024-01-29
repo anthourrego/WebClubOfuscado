@@ -1,72 +1,20 @@
-<?php //ICB0 56:0 71:bf9                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php include("head.inc"); ?>
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-/nNkUcoTv2Jb7zJEtib7NRCto/sXgHYgVOy==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<a name="overview"></a><h2>Overview</h2>
 
-?>
-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
+<p>dompdf is an HTML to PDF converter. At its heart, dompdf is (mostly) CSS2.1
+compliant HTML layout and rendering engine written in PHP. It is a style-driven
+renderer: it will download and read external stylesheets, inline style tags, and
+the style attributes of individual HTML elements. It also supports most
+presentational HTML attributes.</p>
+
+<p>PDF rendering is currently provided either by PDFLib (<a
+href="http://www.pdflib.com">www.pdflib.com</a>) or by a bundled version the
+CPDF class, originally R&amp;OS CPDF written by Wayne Munro but customized by
+the dompdf team to improve performance and add features. In order to use PDFLib
+with dompdf the PDFLib PHP extension is required (available from PDFLib). Using
+PDFLib improves performance and reduces the memory requirements of dompdf
+somewhat, while the CPDF class, though slightly slower, eliminates any
+dependencies on external PDF libraries.</p>
+
+<?php include("foot.inc"); ?>

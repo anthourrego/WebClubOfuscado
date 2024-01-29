@@ -1,260 +1,251 @@
-<?php //ICB0 56:0 71:263c                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\Glacier;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use Aws\Api\ApiProvider;
+use Aws\Api\DocModel;
+use Aws\Api\Service;
+use Aws\AwsClient;
+use Aws\CommandInterface;
+use Aws\Exception\CouldNotCreateChecksumException;
+use Aws\HashingStream;
+use Aws\Middleware;
+use Aws\PhpHash;
+use Psr\Http\Message\RequestInterface;
 
-?>
-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
-EGlvjqlWprC=
+/**
+ * This client is used to interact with the **Amazon Glacier** service.
+ *
+ * @method \Aws\Result abortMultipartUpload(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise abortMultipartUploadAsync(array $args = [])
+ * @method \Aws\Result abortVaultLock(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise abortVaultLockAsync(array $args = [])
+ * @method \Aws\Result addTagsToVault(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise addTagsToVaultAsync(array $args = [])
+ * @method \Aws\Result completeMultipartUpload(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise completeMultipartUploadAsync(array $args = [])
+ * @method \Aws\Result completeVaultLock(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise completeVaultLockAsync(array $args = [])
+ * @method \Aws\Result createVault(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createVaultAsync(array $args = [])
+ * @method \Aws\Result deleteArchive(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteArchiveAsync(array $args = [])
+ * @method \Aws\Result deleteVault(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteVaultAsync(array $args = [])
+ * @method \Aws\Result deleteVaultAccessPolicy(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteVaultAccessPolicyAsync(array $args = [])
+ * @method \Aws\Result deleteVaultNotifications(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteVaultNotificationsAsync(array $args = [])
+ * @method \Aws\Result describeJob(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeJobAsync(array $args = [])
+ * @method \Aws\Result describeVault(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeVaultAsync(array $args = [])
+ * @method \Aws\Result getDataRetrievalPolicy(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getDataRetrievalPolicyAsync(array $args = [])
+ * @method \Aws\Result getJobOutput(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getJobOutputAsync(array $args = [])
+ * @method \Aws\Result getVaultAccessPolicy(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getVaultAccessPolicyAsync(array $args = [])
+ * @method \Aws\Result getVaultLock(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getVaultLockAsync(array $args = [])
+ * @method \Aws\Result getVaultNotifications(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getVaultNotificationsAsync(array $args = [])
+ * @method \Aws\Result initiateJob(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise initiateJobAsync(array $args = [])
+ * @method \Aws\Result initiateMultipartUpload(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise initiateMultipartUploadAsync(array $args = [])
+ * @method \Aws\Result initiateVaultLock(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise initiateVaultLockAsync(array $args = [])
+ * @method \Aws\Result listJobs(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listJobsAsync(array $args = [])
+ * @method \Aws\Result listMultipartUploads(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listMultipartUploadsAsync(array $args = [])
+ * @method \Aws\Result listParts(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listPartsAsync(array $args = [])
+ * @method \Aws\Result listProvisionedCapacity(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listProvisionedCapacityAsync(array $args = [])
+ * @method \Aws\Result listTagsForVault(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listTagsForVaultAsync(array $args = [])
+ * @method \Aws\Result listVaults(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listVaultsAsync(array $args = [])
+ * @method \Aws\Result purchaseProvisionedCapacity(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise purchaseProvisionedCapacityAsync(array $args = [])
+ * @method \Aws\Result removeTagsFromVault(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise removeTagsFromVaultAsync(array $args = [])
+ * @method \Aws\Result setDataRetrievalPolicy(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise setDataRetrievalPolicyAsync(array $args = [])
+ * @method \Aws\Result setVaultAccessPolicy(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise setVaultAccessPolicyAsync(array $args = [])
+ * @method \Aws\Result setVaultNotifications(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise setVaultNotificationsAsync(array $args = [])
+ * @method \Aws\Result uploadArchive(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise uploadArchiveAsync(array $args = [])
+ * @method \Aws\Result uploadMultipartPart(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise uploadMultipartPartAsync(array $args = [])
+ */
+class GlacierClient extends AwsClient
+{
+    public function __construct(array $args)
+    {
+        parent::__construct($args);
+
+        // Setup middleware.
+        $stack = $this->getHandlerList();
+        $stack->appendBuild($this->getApiVersionMiddleware(), 'glacier.api_version');
+        $stack->appendBuild($this->getChecksumsMiddleware(), 'glacier.checksum');
+        $stack->appendBuild(
+            Middleware::contentType(['UploadArchive', 'UploadPart']),
+            'glacier.content_type'
+        );
+        $stack->appendInit(
+            Middleware::sourceFile($this->getApi(), 'body', 'sourceFile'),
+            'glacier.source_file'
+        );
+    }
+
+    /**
+     * {@inheritdoc}
+     *
+     * Sets the default accountId to "-" for all operations.
+     */
+    public function getCommand($name, array $args = [])
+    {
+        return parent::getCommand($name, $args + ['accountId' => '-']);
+    }
+
+    /**
+     * Creates a middleware that updates a command with the content and tree
+     * hash headers for upload operations.
+     *
+     * @return callable
+     * @throws CouldNotCreateChecksumException if the body is not seekable.
+     */
+    private function getChecksumsMiddleware()
+    {
+        return function (callable $handler) {
+            return function (
+                CommandInterface $command,
+                RequestInterface $request = null
+            ) use ($handler) {
+                // Accept "ContentSHA256" with a lowercase "c" to match other Glacier params.
+                if (!$command['ContentSHA256'] && $command['contentSHA256']) {
+                    $command['ContentSHA256'] = $command['contentSHA256'];
+                    unset($command['contentSHA256']);
+                }
+
+                // If uploading, then make sure checksums are added.
+                $name = $command->getName();
+                if (($name === 'UploadArchive' || $name === 'UploadMultipartPart')
+                    && (!$command['checksum'] || !$command['ContentSHA256'])
+                ) {
+                    $body = $request->getBody();
+                    if (!$body->isSeekable()) {
+                        throw new CouldNotCreateChecksumException('sha256');
+                    }
+
+                    // Add a tree hash if not provided.
+                    if (!$command['checksum']) {
+                        $body = new HashingStream(
+                            $body, new TreeHash(),
+                            function ($result) use ($command, &$request) {
+                                $request = $request->withHeader(
+                                    'x-amz-sha256-tree-hash',
+                                    bin2hex($result)
+                                );
+                            }
+                        );
+                    }
+
+                    // Add a linear content hash if not provided.
+                    if (!$command['ContentSHA256']) {
+                        $body = new HashingStream(
+                            $body, new PhpHash('sha256'),
+                            function ($result) use ($command) {
+                                $command['ContentSHA256'] = bin2hex($result);
+                            }
+                        );
+                    }
+
+                    // Read the stream in order to calculate the hashes.
+                    while (!$body->eof()) {
+                        $body->read(1048576);
+                    }
+                    $body->seek(0);
+                }
+
+                // Set the content hash header if a value is in the command.
+                if ($command['ContentSHA256']) {
+                    $request = $request->withHeader(
+                        'x-amz-content-sha256',
+                        $command['ContentSHA256']
+                    );
+                }
+
+                return $handler($command, $request);
+            };
+        };
+    }
+
+    /**
+     * Creates a middleware that adds the API version header for all requests.
+     *
+     * @return callable
+     */
+    private function getApiVersionMiddleware()
+    {
+        return function (callable $handler) {
+            return function (
+                CommandInterface $command,
+                RequestInterface $request = null
+            ) use ($handler) {
+                return $handler($command, $request->withHeader(
+                    'x-amz-glacier-version',
+                    $this->getApi()->getMetadata('apiVersion')
+                ));
+            };
+        };
+    }
+
+    /**
+     * @internal
+     * @codeCoverageIgnore
+     */
+    public static function applyDocFilters(array $api, array $docs)
+    {
+        // Add the SourceFile parameter.
+        $docs['shapes']['SourceFile']['base'] = 'The path to a file on disk to use instead of the body parameter.';
+        $api['shapes']['SourceFile'] = ['type' => 'string'];
+        $api['shapes']['UploadArchiveInput']['members']['sourceFile'] = ['shape' => 'SourceFile'];
+        $api['shapes']['UploadMultipartPartInput']['members']['sourceFile'] = ['shape' => 'SourceFile'];
+
+        // Add the ContentSHA256 parameter.
+        $docs['shapes']['ContentSHA256']['base'] = 'A SHA256 hash of the content of the request body';
+        $api['shapes']['ContentSHA256'] = ['type' => 'string'];
+        $api['shapes']['UploadArchiveInput']['members']['contentSHA256'] = ['shape' => 'ContentSHA256'];
+        $api['shapes']['UploadMultipartPartInput']['members']['contentSHA256'] = ['shape' => 'ContentSHA256'];
+
+        // Add information about "checksum" and "ContentSHA256" being optional.
+        $optional = '<div class="alert alert-info">The SDK will compute this value '
+            . 'for you on your behalf if it is not supplied.</div>';
+        $docs['shapes']['checksum']['append'] = $optional;
+        $docs['shapes']['ContentSHA256']['append'] = $optional;
+
+        // Make "accountId" optional for all operations.
+        foreach ($api['operations'] as $operation) {
+            $inputShape =& $api['shapes'][$operation['input']['shape']];
+            $accountIdIndex = array_search('accountId', $inputShape['required']);
+            unset($inputShape['required'][$accountIdIndex]);
+        }
+        // Add information about the default value for "accountId".
+        $optional = '<div class="alert alert-info">The SDK will set this value to "-" by default.</div>';
+        foreach ($docs['shapes']['string']['refs'] as $name => &$ref) {
+            if (strpos($name, 'accountId')) {
+                $ref .= $optional;
+            }
+        }
+
+        return [
+            new Service($api, ApiProvider::defaultProvider()),
+            new DocModel($docs)
+        ];
+    }
+}

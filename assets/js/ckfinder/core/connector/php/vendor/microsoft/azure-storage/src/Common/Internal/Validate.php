@@ -1,284 +1,422 @@
-<?php //ICB0 56:0 71:292a                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @ignore
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Common\Internal
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
 
-?>
-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
-rKCtjEQkDzO=
+namespace MicrosoftAzure\Storage\Common\Internal;
+
+use MicrosoftAzure\Storage\Common\Exceptions\InvalidArgumentTypeException;
+
+/**
+ * Validates against a condition and throws an exception in case of failure.
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Common\Internal
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+class Validate
+{
+    /**
+     * Throws exception if the provided variable type is not array.
+     *
+     * @param mixed  $var  The variable to check.
+     * @param string $name The parameter name.
+     *
+     * @throws InvalidArgumentTypeException.
+     *
+     * @return void
+     */
+    public static function isArray($var, $name)
+    {
+        if (!is_array($var)) {
+            throw new InvalidArgumentTypeException(gettype(array()), $name);
+        }
+    }
+
+    /**
+     * Throws exception if the provided variable can not convert to a string.
+     *
+     * @param mixed  $var  The variable to check.
+     * @param string $name The parameter name.
+     *
+     * @throws InvalidArgumentTypeException
+     *
+     * @return void
+     */
+    public static function canCastAsString($var, $name)
+    {
+        try {
+            (string)$var;
+        } catch (\Exception $e) {
+            throw new InvalidArgumentTypeException(gettype(''), $name);
+        }
+    }
+
+    /**
+     * Throws exception if the provided variable type is not boolean.
+     *
+     * @param mixed $var variable to check against.
+     *
+     * @throws InvalidArgumentTypeException
+     *
+     * @return void
+     */
+    public static function isBoolean($var)
+    {
+        (bool)$var;
+    }
+
+    /**
+     * Throws exception if the provided variable is set to null.
+     *
+     * @param mixed  $var  The variable to check.
+     * @param string $name The parameter name.
+     *
+     * @throws \InvalidArgumentException
+     *
+     * @return void
+     */
+    public static function notNullOrEmpty($var, $name)
+    {
+        if (is_null($var) || empty($var)) {
+            throw new \InvalidArgumentException(
+                sprintf(Resources::NULL_OR_EMPTY_MSG, $name)
+            );
+        }
+    }
+
+    /**
+     * Throws exception if the provided variable is not double.
+     *
+     * @param mixed  $var  The variable to check.
+     * @param string $name The parameter name.
+     *
+     * @throws \InvalidArgumentException
+     *
+     * @return void
+     */
+    public static function isDouble($var, $name)
+    {
+        if (!is_numeric($var)) {
+            throw new InvalidArgumentTypeException('double', $name);
+        }
+    }
+
+    /**
+     * Throws exception if the provided variable type is not integer.
+     *
+     * @param mixed  $var  The variable to check.
+     * @param string $name The parameter name.
+     *
+     * @throws InvalidArgumentTypeException
+     *
+     * @return void
+     */
+    public static function isInteger($var, $name)
+    {
+        try {
+            (int)$var;
+        } catch (\Exception $e) {
+            throw new InvalidArgumentTypeException(gettype(123), $name);
+        }
+    }
+
+    /**
+     * Returns whether the variable is an empty or null string.
+     *
+     * @param string $var value.
+     *
+     * @return boolean
+     */
+    public static function isNullOrEmptyString($var)
+    {
+        try {
+            (string)$var;
+        } catch (\Exception $e) {
+            return false;
+        }
+
+        return (!isset($var) || trim($var)==='');
+    }
+
+    /**
+     * Throws exception if the provided condition is not satisfied.
+     *
+     * @param bool   $isSatisfied    condition result.
+     * @param string $failureMessage the exception message
+     *
+     * @throws \Exception
+     *
+     * @return void
+     */
+    public static function isTrue($isSatisfied, $failureMessage)
+    {
+        if (!$isSatisfied) {
+            throw new \InvalidArgumentException($failureMessage);
+        }
+    }
+
+    /**
+     * Throws exception if the provided $date is not of type \DateTime
+     *
+     * @param mixed $date variable to check against.
+     *
+     * @throws InvalidArgumentTypeException
+     *
+     * @return void
+     */
+    public static function isDate($date)
+    {
+        if (gettype($date) != 'object' || get_class($date) != 'DateTime') {
+            throw new InvalidArgumentTypeException('DateTime');
+        }
+    }
+
+    /**
+     * Throws exception if the provided variable is set to null.
+     *
+     * @param mixed  $var  The variable to check.
+     * @param string $name The parameter name.
+     *
+     * @throws \InvalidArgumentException
+     *
+     * @return void
+     */
+    public static function notNull($var, $name)
+    {
+        if (is_null($var)) {
+            throw new \InvalidArgumentException(sprintf(Resources::NULL_MSG, $name));
+        }
+    }
+
+    /**
+     * Throws exception if the object is not of the specified class type.
+     *
+     * @param mixed  $objectInstance An object that requires class type validation.
+     * @param mixed  $classInstance  The instance of the class the the
+     * object instance should be.
+     * @param string $name           The name of the object.
+     *
+     * @throws \InvalidArgumentException
+     *
+     * @return void
+     */
+    public static function isInstanceOf($objectInstance, $classInstance, $name)
+    {
+        Validate::notNull($classInstance, 'classInstance');
+        if (is_null($objectInstance)) {
+            return true;
+        }
+
+        $objectType = gettype($objectInstance);
+        $classType  = gettype($classInstance);
+
+        if ($objectType === $classType) {
+            return true;
+        } else {
+            throw new \InvalidArgumentException(
+                sprintf(
+                    Resources::INSTANCE_TYPE_VALIDATION_MSG,
+                    $name,
+                    $objectType,
+                    $classType
+                )
+            );
+        }
+    }
+
+    /**
+     * Creates a anonymous function that check if the given uri is valid or not.
+     *
+     * @return callable
+     */
+    public static function getIsValidUri()
+    {
+        return function ($uri) {
+            return Validate::isValidUri($uri);
+        };
+    }
+
+    /**
+     * Throws exception if the string is not of a valid uri.
+     *
+     * @param string $uri String to check.
+     *
+     * @throws \InvalidArgumentException
+     *
+     * @return boolean
+     */
+    public static function isValidUri($uri)
+    {
+        $isValid = filter_var($uri, FILTER_VALIDATE_URL);
+
+        if ($isValid) {
+            return true;
+        } else {
+            throw new \RuntimeException(
+                sprintf(Resources::INVALID_CONFIG_URI, $uri)
+            );
+        }
+    }
+
+    /**
+     * Throws exception if the provided variable type is not object.
+     *
+     * @param mixed  $var  The variable to check.
+     * @param string $name The parameter name.
+     *
+     * @throws InvalidArgumentTypeException.
+     *
+     * @return boolean
+     */
+    public static function isObject($var, $name)
+    {
+        if (!is_object($var)) {
+            throw new InvalidArgumentTypeException('object', $name);
+        }
+
+        return true;
+    }
+
+    /**
+     * Throws exception if the object is not of the specified class type.
+     *
+     * @param mixed  $objectInstance An object that requires class type validation.
+     * @param string $class          The class the object instance should be.
+     * @param string $name           The parameter name.
+     *
+     * @throws \InvalidArgumentException
+     *
+     * @return boolean
+     */
+    public static function isA($objectInstance, $class, $name)
+    {
+        Validate::canCastAsString($class, 'class');
+        Validate::notNull($objectInstance, 'objectInstance');
+        Validate::isObject($objectInstance, 'objectInstance');
+
+        $objectType = get_class($objectInstance);
+
+        if (is_a($objectInstance, $class)) {
+            return true;
+        } else {
+            throw new \InvalidArgumentException(
+                sprintf(
+                    Resources::INSTANCE_TYPE_VALIDATION_MSG,
+                    $name,
+                    $objectType,
+                    $class
+                )
+            );
+        }
+    }
+
+    /**
+     * Validate if method exists in object
+     *
+     * @param object $objectInstance An object that requires method existing
+     *                               validation
+     * @param string $method         Method name
+     * @param string $name           The parameter name
+     *
+     * @return boolean
+     */
+    public static function methodExists($objectInstance, $method, $name)
+    {
+        Validate::canCastAsString($method, 'method');
+        Validate::notNull($objectInstance, 'objectInstance');
+        Validate::isObject($objectInstance, 'objectInstance');
+
+        if (method_exists($objectInstance, $method)) {
+            return true;
+        } else {
+            throw new \InvalidArgumentException(
+                sprintf(
+                    Resources::ERROR_METHOD_NOT_FOUND,
+                    $method,
+                    $name
+                )
+            );
+        }
+    }
+
+    /**
+     * Validate if string is date formatted
+     *
+     * @param string $value Value to validate
+     * @param string $name  Name of parameter to insert in erro message
+     *
+     * @throws \InvalidArgumentException
+     *
+     * @return boolean
+     */
+    public static function isDateString($value, $name)
+    {
+        Validate::canCastAsString($value, 'value');
+
+        try {
+            new \DateTime($value);
+            return true;
+        } catch (\Exception $e) {
+            throw new \InvalidArgumentException(
+                sprintf(
+                    Resources::ERROR_INVALID_DATE_STRING,
+                    $name,
+                    $value
+                )
+            );
+        }
+    }
+
+    /**
+     * Validate if the provided array has key, throw exception otherwise.
+     *
+     * @param  string  $key   The key to be searched.
+     * @param  string  $name  The name of the array.
+     * @param  array   $array The array to be validated.
+     *
+     * @throws \UnexpectedValueException
+     * @throws \InvalidArgumentException
+     *
+     * @return  boolean
+     */
+    public static function hasKey($key, $name, array $array)
+    {
+        Validate::isArray($array, $name);
+
+        if (!array_key_exists($key, $array)) {
+            throw new \UnexpectedValueException(
+                sprintf(
+                    Resources::INVALID_VALUE_MSG,
+                    $name,
+                    sprintf(Resources::ERROR_KEY_NOT_EXIST, $key)
+                )
+            );
+        }
+
+        return true;
+    }
+}

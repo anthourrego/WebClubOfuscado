@@ -1,145 +1,82 @@
-<?php //ICB0 56:0 71:162f                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace GuzzleHttp\Promise;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-u7fu3ufldXvi3SvHU6F0X8BGOADkOtSe=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * A promise that has been fulfilled.
+ *
+ * Thenning off of this promise will invoke the onFulfilled callback
+ * immediately and ignore other callbacks.
+ */
+class FulfilledPromise implements PromiseInterface
+{
+    private $value;
 
-?>
-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
-IEu9CZrHjWcZyZLBS4lgjzm8GgW=
+    public function __construct($value)
+    {
+        if (method_exists($value, 'then')) {
+            throw new \InvalidArgumentException(
+                'You cannot create a FulfilledPromise with a promise.');
+        }
+
+        $this->value = $value;
+    }
+
+    public function then(
+        callable $onFulfilled = null,
+        callable $onRejected = null
+    ) {
+        // Return itself if there is no onFulfilled function.
+        if (!$onFulfilled) {
+            return $this;
+        }
+
+        $queue = queue();
+        $p = new Promise([$queue, 'run']);
+        $value = $this->value;
+        $queue->add(static function () use ($p, $value, $onFulfilled) {
+            if ($p->getState() === self::PENDING) {
+                try {
+                    $p->resolve($onFulfilled($value));
+                } catch (\Throwable $e) {
+                    $p->reject($e);
+                } catch (\Exception $e) {
+                    $p->reject($e);
+                }
+            }
+        });
+
+        return $p;
+    }
+
+    public function otherwise(callable $onRejected)
+    {
+        return $this->then(null, $onRejected);
+    }
+
+    public function wait($unwrap = true, $defaultDelivery = null)
+    {
+        return $unwrap ? $this->value : null;
+    }
+
+    public function getState()
+    {
+        return self::FULFILLED;
+    }
+
+    public function resolve($value)
+    {
+        if ($value !== $this->value) {
+            throw new \LogicException("Cannot resolve a fulfilled promise");
+        }
+    }
+
+    public function reject($reason)
+    {
+        throw new \LogicException("Cannot reject a fulfilled promise");
+    }
+
+    public function cancel()
+    {
+        // pass
+    }
+}

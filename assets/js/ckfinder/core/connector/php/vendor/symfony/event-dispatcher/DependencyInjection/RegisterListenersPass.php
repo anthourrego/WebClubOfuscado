@@ -1,94 +1,100 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-NBkScL8+YPAI4/XqblRrqXk2YHEi/HxEQG==
+/*
+ * This file is part of the Symfony package.
+ *
+ * (c) Fabien Potencier <fabien@symfony.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+namespace Symfony\Component\EventDispatcher\DependencyInjection;
+
+use Symfony\Component\DependencyInjection\ContainerBuilder;
+use Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface;
+
+/**
+ * Compiler pass to register tagged services for an event dispatcher.
+ */
+class RegisterListenersPass implements CompilerPassInterface
+{
+    protected $dispatcherService;
+    protected $listenerTag;
+    protected $subscriberTag;
+
+    /**
+     * @param string $dispatcherService Service name of the event dispatcher in processed container
+     * @param string $listenerTag       Tag name used for listener
+     * @param string $subscriberTag     Tag name used for subscribers
+     */
+    public function __construct($dispatcherService = 'event_dispatcher', $listenerTag = 'kernel.event_listener', $subscriberTag = 'kernel.event_subscriber')
+    {
+        $this->dispatcherService = $dispatcherService;
+        $this->listenerTag = $listenerTag;
+        $this->subscriberTag = $subscriberTag;
+    }
+
+    public function process(ContainerBuilder $container)
+    {
+        if (!$container->hasDefinition($this->dispatcherService) && !$container->hasAlias($this->dispatcherService)) {
+            return;
+        }
+
+        $definition = $container->findDefinition($this->dispatcherService);
+
+        foreach ($container->findTaggedServiceIds($this->listenerTag) as $id => $events) {
+            $def = $container->getDefinition($id);
+            if (!$def->isPublic()) {
+                throw new \InvalidArgumentException(sprintf('The service "%s" must be public as event listeners are lazy-loaded.', $id));
+            }
+
+            if ($def->isAbstract()) {
+                throw new \InvalidArgumentException(sprintf('The service "%s" must not be abstract as event listeners are lazy-loaded.', $id));
+            }
+
+            foreach ($events as $event) {
+                $priority = isset($event['priority']) ? $event['priority'] : 0;
+
+                if (!isset($event['event'])) {
+                    throw new \InvalidArgumentException(sprintf('Service "%s" must define the "event" attribute on "%s" tags.', $id, $this->listenerTag));
+                }
+
+                if (!isset($event['method'])) {
+                    $event['method'] = 'on'.preg_replace_callback(array(
+                        '/(?<=\b)[a-z]/i',
+                        '/[^a-z0-9]/i',
+                    ), function ($matches) { return strtoupper($matches[0]); }, $event['event']);
+                    $event['method'] = preg_replace('/[^a-z0-9]/i', '', $event['method']);
+                }
+
+                $definition->addMethodCall('addListenerService', array($event['event'], array($id, $event['method']), $priority));
+            }
+        }
+
+        foreach ($container->findTaggedServiceIds($this->subscriberTag) as $id => $attributes) {
+            $def = $container->getDefinition($id);
+            if (!$def->isPublic()) {
+                throw new \InvalidArgumentException(sprintf('The service "%s" must be public as event subscribers are lazy-loaded.', $id));
+            }
+
+            if ($def->isAbstract()) {
+                throw new \InvalidArgumentException(sprintf('The service "%s" must not be abstract as event subscribers are lazy-loaded.', $id));
+            }
+
+            // We must assume that the class value has been correctly filled, even if the service is created by a factory
+            $class = $container->getParameterBag()->resolveValue($def->getClass());
+            $interface = 'Symfony\Component\EventDispatcher\EventSubscriberInterface';
+
+            if (!is_subclass_of($class, $interface)) {
+                if (!class_exists($class, false)) {
+                    throw new \InvalidArgumentException(sprintf('Class "%s" used for service "%s" cannot be found.', $class, $id));
+                }
+
+                throw new \InvalidArgumentException(sprintf('Service "%s" must implement interface "%s".', $id, $interface));
+            }
+
+            $definition->addMethodCall('addSubscriberService', array($id, $class));
+        }
+    }
+}

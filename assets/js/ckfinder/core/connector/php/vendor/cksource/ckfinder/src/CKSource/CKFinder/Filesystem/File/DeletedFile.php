@@ -1,118 +1,73 @@
-<?php //ICB0 56:0 71:129f                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/*
+ * CKFinder
+ * ========
+ * https://ckeditor.com/ckeditor-4/ckfinder/
+ * Copyright (c) 2007-2018, CKSource - Frederico Knabben. All rights reserved.
+ *
+ * The software, this file and its contents are subject to the CKFinder
+ * License. Please read the license.txt file before using, installing, copying,
+ * modifying or distribute this file or part of its contents. The contents of
+ * this file is part of the Source Code of CKFinder.
+ */
 
-?>
-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
-oEXpfpfrksAWVusfY0==
+namespace CKSource\CKFinder\Filesystem\File;
+
+use CKSource\CKFinder\Error;
+use CKSource\CKFinder\Exception\InvalidExtensionException;
+use CKSource\CKFinder\Exception\InvalidRequestException;
+use CKSource\CKFinder\Filesystem\Path;
+
+/**
+ * The DeletedFile class.
+ *
+ * Represents the deleted file.
+ */
+class DeletedFile extends ExistingFile
+{
+    /**
+     * Deletes the current file.
+     *
+     * @return bool `true` if the file was deleted successfully.
+     *
+     * @throws \Exception
+     */
+    public function doDelete()
+    {
+        if ($this->resourceType->getBackend()->delete($this->getFilePath())) {
+            $this->deleteThumbnails();
+            $this->deleteResizedImages();
+            $this->getCache()->delete(Path::combine($this->resourceType->getName(), $this->folder, $this->getFilename()));
+
+            return true;
+        } else {
+            $this->addError(Error::ACCESS_DENIED);
+
+            return false;
+        }
+    }
+
+    public function isValid()
+    {
+        if (!$this->hasValidFilename() || !$this->hasValidPath()) {
+            throw new InvalidRequestException('Invalid filename or path');
+        }
+
+        if (!$this->hasAllowedExtension()) {
+            throw new InvalidExtensionException();
+        }
+
+        if ($this->isHidden() || $this->hasHiddenPath()) {
+            throw new InvalidRequestException('Deleted file is hidden');
+        }
+
+        if (!$this->exists()) {
+            $this->addError(Error::FILE_NOT_FOUND);
+
+            return false;
+        }
+
+        return true;
+    }
+}

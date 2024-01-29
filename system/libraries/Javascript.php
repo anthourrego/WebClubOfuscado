@@ -1,190 +1,856 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2017, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2017, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license	http://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 1.0.0
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-dXmSn+Dk7z/v+Q+zfVa7
+/**
+ * Javascript Class
+ *
+ * @package		CodeIgniter
+ * @subpackage	Libraries
+ * @category	Javascript
+ * @author		EllisLab Dev Team
+ * @link		https://codeigniter.com/user_guide/libraries/javascript.html
+ * @deprecated	3.0.0	This was never a good idea in the first place.
+ */
+class CI_Javascript {
+
+	/**
+	 * JavaScript location
+	 *
+	 * @var	string
+	 */
+	protected $_javascript_location = 'js';
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Constructor
+	 *
+	 * @param	array	$params
+	 * @return	void
+	 */
+	public function __construct($params = array())
+	{
+		$defaults = array('js_library_driver' => 'jquery', 'autoload' => TRUE);
+
+		foreach ($defaults as $key => $val)
+		{
+			if (isset($params[$key]) && $params[$key] !== '')
+			{
+				$defaults[$key] = $params[$key];
+			}
+		}
+
+		extract($defaults);
+
+		$this->CI =& get_instance();
+
+		// load the requested js library
+		$this->CI->load->library('Javascript/'.$js_library_driver, array('autoload' => $autoload));
+		// make js to refer to current library
+		$this->js =& $this->CI->$js_library_driver;
+
+		log_message('info', 'Javascript Class Initialized and loaded. Driver used: '.$js_library_driver);
+	}
+
+	// --------------------------------------------------------------------
+	// Event Code
+	// --------------------------------------------------------------------
+
+	/**
+	 * Blur
+	 *
+	 * Outputs a javascript library blur event
+	 *
+	 * @param	string	The element to attach the event to
+	 * @param	string	The code to execute
+	 * @return	string
+	 */
+	public function blur($element = 'this', $js = '')
+	{
+		return $this->js->_blur($element, $js);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Change
+	 *
+	 * Outputs a javascript library change event
+	 *
+	 * @param	string	The element to attach the event to
+	 * @param	string	The code to execute
+	 * @return	string
+	 */
+	public function change($element = 'this', $js = '')
+	{
+		return $this->js->_change($element, $js);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Click
+	 *
+	 * Outputs a javascript library click event
+	 *
+	 * @param	string	The element to attach the event to
+	 * @param	string	The code to execute
+	 * @param	bool	whether or not to return false
+	 * @return	string
+	 */
+	public function click($element = 'this', $js = '', $ret_false = TRUE)
+	{
+		return $this->js->_click($element, $js, $ret_false);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Double Click
+	 *
+	 * Outputs a javascript library dblclick event
+	 *
+	 * @param	string	The element to attach the event to
+	 * @param	string	The code to execute
+	 * @return	string
+	 */
+	public function dblclick($element = 'this', $js = '')
+	{
+		return $this->js->_dblclick($element, $js);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Error
+	 *
+	 * Outputs a javascript library error event
+	 *
+	 * @param	string	The element to attach the event to
+	 * @param	string	The code to execute
+	 * @return	string
+	 */
+	public function error($element = 'this', $js = '')
+	{
+		return $this->js->_error($element, $js);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Focus
+	 *
+	 * Outputs a javascript library focus event
+	 *
+	 * @param	string	The element to attach the event to
+	 * @param	string	The code to execute
+	 * @return	string
+	 */
+	public function focus($element = 'this', $js = '')
+	{
+		return $this->js->_focus($element, $js);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Hover
+	 *
+	 * Outputs a javascript library hover event
+	 *
+	 * @param	string	- element
+	 * @param	string	- Javascript code for mouse over
+	 * @param	string	- Javascript code for mouse out
+	 * @return	string
+	 */
+	public function hover($element = 'this', $over = '', $out = '')
+	{
+		return $this->js->_hover($element, $over, $out);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Keydown
+	 *
+	 * Outputs a javascript library keydown event
+	 *
+	 * @param	string	The element to attach the event to
+	 * @param	string	The code to execute
+	 * @return	string
+	 */
+	public function keydown($element = 'this', $js = '')
+	{
+		return $this->js->_keydown($element, $js);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Keyup
+	 *
+	 * Outputs a javascript library keydown event
+	 *
+	 * @param	string	The element to attach the event to
+	 * @param	string	The code to execute
+	 * @return	string
+	 */
+	public function keyup($element = 'this', $js = '')
+	{
+		return $this->js->_keyup($element, $js);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Load
+	 *
+	 * Outputs a javascript library load event
+	 *
+	 * @param	string	The element to attach the event to
+	 * @param	string	The code to execute
+	 * @return	string
+	 */
+	public function load($element = 'this', $js = '')
+	{
+		return $this->js->_load($element, $js);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Mousedown
+	 *
+	 * Outputs a javascript library mousedown event
+	 *
+	 * @param	string	The element to attach the event to
+	 * @param	string	The code to execute
+	 * @return	string
+	 */
+	public function mousedown($element = 'this', $js = '')
+	{
+		return $this->js->_mousedown($element, $js);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Mouse Out
+	 *
+	 * Outputs a javascript library mouseout event
+	 *
+	 * @param	string	The element to attach the event to
+	 * @param	string	The code to execute
+	 * @return	string
+	 */
+	public function mouseout($element = 'this', $js = '')
+	{
+		return $this->js->_mouseout($element, $js);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Mouse Over
+	 *
+	 * Outputs a javascript library mouseover event
+	 *
+	 * @param	string	The element to attach the event to
+	 * @param	string	The code to execute
+	 * @return	string
+	 */
+	public function mouseover($element = 'this', $js = '')
+	{
+		return $this->js->_mouseover($element, $js);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Mouseup
+	 *
+	 * Outputs a javascript library mouseup event
+	 *
+	 * @param	string	The element to attach the event to
+	 * @param	string	The code to execute
+	 * @return	string
+	 */
+	public function mouseup($element = 'this', $js = '')
+	{
+		return $this->js->_mouseup($element, $js);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Output
+	 *
+	 * Outputs the called javascript to the screen
+	 *
+	 * @param	string	The code to output
+	 * @return	string
+	 */
+	public function output($js)
+	{
+		return $this->js->_output($js);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Ready
+	 *
+	 * Outputs a javascript library mouseup event
+	 *
+	 * @param	string	$js	Code to execute
+	 * @return	string
+	 */
+	public function ready($js)
+	{
+		return $this->js->_document_ready($js);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Resize
+	 *
+	 * Outputs a javascript library resize event
+	 *
+	 * @param	string	The element to attach the event to
+	 * @param	string	The code to execute
+	 * @return	string
+	 */
+	public function resize($element = 'this', $js = '')
+	{
+		return $this->js->_resize($element, $js);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Scroll
+	 *
+	 * Outputs a javascript library scroll event
+	 *
+	 * @param	string	The element to attach the event to
+	 * @param	string	The code to execute
+	 * @return	string
+	 */
+	public function scroll($element = 'this', $js = '')
+	{
+		return $this->js->_scroll($element, $js);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Unload
+	 *
+	 * Outputs a javascript library unload event
+	 *
+	 * @param	string	The element to attach the event to
+	 * @param	string	The code to execute
+	 * @return	string
+	 */
+	public function unload($element = 'this', $js = '')
+	{
+		return $this->js->_unload($element, $js);
+	}
+
+	// --------------------------------------------------------------------
+	// Effects
+	// --------------------------------------------------------------------
+
+	/**
+	 * Add Class
+	 *
+	 * Outputs a javascript library addClass event
+	 *
+	 * @param	string	- element
+	 * @param	string	- Class to add
+	 * @return	string
+	 */
+	public function addClass($element = 'this', $class = '')
+	{
+		return $this->js->_addClass($element, $class);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Animate
+	 *
+	 * Outputs a javascript library animate event
+	 *
+	 * @param	string	$element = 'this'
+	 * @param	array	$params = array()
+	 * @param	mixed	$speed			'slow', 'normal', 'fast', or time in milliseconds
+	 * @param	string	$extra
+	 * @return	string
+	 */
+	public function animate($element = 'this', $params = array(), $speed = '', $extra = '')
+	{
+		return $this->js->_animate($element, $params, $speed, $extra);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Fade In
+	 *
+	 * Outputs a javascript library hide event
+	 *
+	 * @param	string	- element
+	 * @param	string	- One of 'slow', 'normal', 'fast', or time in milliseconds
+	 * @param	string	- Javascript callback function
+	 * @return	string
+	 */
+	public function fadeIn($element = 'this', $speed = '', $callback = '')
+	{
+		return $this->js->_fadeIn($element, $speed, $callback);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Fade Out
+	 *
+	 * Outputs a javascript library hide event
+	 *
+	 * @param	string	- element
+	 * @param	string	- One of 'slow', 'normal', 'fast', or time in milliseconds
+	 * @param	string	- Javascript callback function
+	 * @return	string
+	 */
+	public function fadeOut($element = 'this', $speed = '', $callback = '')
+	{
+		return $this->js->_fadeOut($element, $speed, $callback);
+	}
+	// --------------------------------------------------------------------
+
+	/**
+	 * Slide Up
+	 *
+	 * Outputs a javascript library slideUp event
+	 *
+	 * @param	string	- element
+	 * @param	string	- One of 'slow', 'normal', 'fast', or time in milliseconds
+	 * @param	string	- Javascript callback function
+	 * @return	string
+	 */
+	public function slideUp($element = 'this', $speed = '', $callback = '')
+	{
+		return $this->js->_slideUp($element, $speed, $callback);
+
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Remove Class
+	 *
+	 * Outputs a javascript library removeClass event
+	 *
+	 * @param	string	- element
+	 * @param	string	- Class to add
+	 * @return	string
+	 */
+	public function removeClass($element = 'this', $class = '')
+	{
+		return $this->js->_removeClass($element, $class);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Slide Down
+	 *
+	 * Outputs a javascript library slideDown event
+	 *
+	 * @param	string	- element
+	 * @param	string	- One of 'slow', 'normal', 'fast', or time in milliseconds
+	 * @param	string	- Javascript callback function
+	 * @return	string
+	 */
+	public function slideDown($element = 'this', $speed = '', $callback = '')
+	{
+		return $this->js->_slideDown($element, $speed, $callback);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Slide Toggle
+	 *
+	 * Outputs a javascript library slideToggle event
+	 *
+	 * @param	string	- element
+	 * @param	string	- One of 'slow', 'normal', 'fast', or time in milliseconds
+	 * @param	string	- Javascript callback function
+	 * @return	string
+	 */
+	public function slideToggle($element = 'this', $speed = '', $callback = '')
+	{
+		return $this->js->_slideToggle($element, $speed, $callback);
+
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Hide
+	 *
+	 * Outputs a javascript library hide action
+	 *
+	 * @param	string	- element
+	 * @param	string	- One of 'slow', 'normal', 'fast', or time in milliseconds
+	 * @param	string	- Javascript callback function
+	 * @return	string
+	 */
+	public function hide($element = 'this', $speed = '', $callback = '')
+	{
+		return $this->js->_hide($element, $speed, $callback);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Toggle
+	 *
+	 * Outputs a javascript library toggle event
+	 *
+	 * @param	string	- element
+	 * @return	string
+	 */
+	public function toggle($element = 'this')
+	{
+		return $this->js->_toggle($element);
+
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Toggle Class
+	 *
+	 * Outputs a javascript library toggle class event
+	 *
+	 * @param	string	$element = 'this'
+	 * @param	string	$class = ''
+	 * @return	string
+	 */
+	public function toggleClass($element = 'this', $class = '')
+	{
+		return $this->js->_toggleClass($element, $class);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Show
+	 *
+	 * Outputs a javascript library show event
+	 *
+	 * @param	string	- element
+	 * @param	string	- One of 'slow', 'normal', 'fast', or time in milliseconds
+	 * @param	string	- Javascript callback function
+	 * @return	string
+	 */
+	public function show($element = 'this', $speed = '', $callback = '')
+	{
+		return $this->js->_show($element, $speed, $callback);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Compile
+	 *
+	 * gather together all script needing to be output
+	 *
+	 * @param	string	$view_var
+	 * @param	bool	$script_tags
+	 * @return	string
+	 */
+	public function compile($view_var = 'script_foot', $script_tags = TRUE)
+	{
+		$this->js->_compile($view_var, $script_tags);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Clear Compile
+	 *
+	 * Clears any previous javascript collected for output
+	 *
+	 * @return	void
+	 */
+	public function clear_compile()
+	{
+		$this->js->_clear_compile();
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * External
+	 *
+	 * Outputs a <script> tag with the source as an external js file
+	 *
+	 * @param	string	$external_file
+	 * @param	bool	$relative
+	 * @return	string
+	 */
+	public function external($external_file = '', $relative = FALSE)
+	{
+		if ($external_file !== '')
+		{
+			$this->_javascript_location = $external_file;
+		}
+		elseif ($this->CI->config->item('javascript_location') !== '')
+		{
+			$this->_javascript_location = $this->CI->config->item('javascript_location');
+		}
+
+		if ($relative === TRUE OR strpos($external_file, 'http://') === 0 OR strpos($external_file, 'https://') === 0)
+		{
+			$str = $this->_open_script($external_file);
+		}
+		elseif (strpos($this->_javascript_location, 'http://') !== FALSE)
+		{
+			$str = $this->_open_script($this->_javascript_location.$external_file);
+		}
+		else
+		{
+			$str = $this->_open_script($this->CI->config->slash_item('base_url').$this->_javascript_location.$external_file);
+		}
+
+		return $str.$this->_close_script();
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Inline
+	 *
+	 * Outputs a <script> tag
+	 *
+	 * @param	string	The element to attach the event to
+	 * @param	bool	If a CDATA section should be added
+	 * @return	string
+	 */
+	public function inline($script, $cdata = TRUE)
+	{
+		return $this->_open_script()
+			. ($cdata ? "\n// <![CDATA[\n".$script."\n// ]]>\n" : "\n".$script."\n")
+			. $this->_close_script();
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Open Script
+	 *
+	 * Outputs an opening <script>
+	 *
+	 * @param	string
+	 * @return	string
+	 */
+	protected function _open_script($src = '')
+	{
+		return '<script type="text/javascript" charset="'.strtolower($this->CI->config->item('charset')).'"'
+			.($src === '' ? '>' : ' src="'.$src.'">');
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Close Script
+	 *
+	 * Outputs an closing </script>
+	 *
+	 * @param	string
+	 * @return	string
+	 */
+	protected function _close_script($extra = "\n")
+	{
+		return '</script>'.$extra;
+	}
+
+	// --------------------------------------------------------------------
+	// AJAX-Y STUFF - still a testbed
+	// --------------------------------------------------------------------
+
+	/**
+	 * Update
+	 *
+	 * Outputs a javascript library slideDown event
+	 *
+	 * @param	string	- element
+	 * @param	string	- One of 'slow', 'normal', 'fast', or time in milliseconds
+	 * @param	string	- Javascript callback function
+	 * @return	string
+	 */
+	public function update($element = 'this', $speed = '', $callback = '')
+	{
+		return $this->js->_updater($element, $speed, $callback);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Generate JSON
+	 *
+	 * Can be passed a database result or associative array and returns a JSON formatted string
+	 *
+	 * @param	mixed	result set or array
+	 * @param	bool	match array types (defaults to objects)
+	 * @return	string	a json formatted string
+	 */
+	public function generate_json($result = NULL, $match_array_type = FALSE)
+	{
+		// JSON data can optionally be passed to this function
+		// either as a database result object or an array, or a user supplied array
+		if ($result !== NULL)
+		{
+			if (is_object($result))
+			{
+				$json_result = is_callable(array($result, 'result_array')) ? $result->result_array() : (array) $result;
+			}
+			elseif (is_array($result))
+			{
+				$json_result = $result;
+			}
+			else
+			{
+				return $this->_prep_args($result);
+			}
+		}
+		else
+		{
+			return 'null';
+		}
+
+		$json = array();
+		$_is_assoc = TRUE;
+
+		if ( ! is_array($json_result) && empty($json_result))
+		{
+			show_error('Generate JSON Failed - Illegal key, value pair.');
+		}
+		elseif ($match_array_type)
+		{
+			$_is_assoc = $this->_is_associative_array($json_result);
+		}
+
+		foreach ($json_result as $k => $v)
+		{
+			if ($_is_assoc)
+			{
+				$json[] = $this->_prep_args($k, TRUE).':'.$this->generate_json($v, $match_array_type);
+			}
+			else
+			{
+				$json[] = $this->generate_json($v, $match_array_type);
+			}
+		}
+
+		$json = implode(',', $json);
+
+		return $_is_assoc ? '{'.$json.'}' : '['.$json.']';
+
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Is associative array
+	 *
+	 * Checks for an associative array
+	 *
+	 * @param	array
+	 * @return	bool
+	 */
+	protected function _is_associative_array($arr)
+	{
+		foreach (array_keys($arr) as $key => $val)
+		{
+			if ($key !== $val)
+			{
+				return TRUE;
+			}
+		}
+
+		return FALSE;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Prep Args
+	 *
+	 * Ensures a standard json value and escapes values
+	 *
+	 * @param	mixed	$result
+	 * @param	bool	$is_key = FALSE
+	 * @return	string
+	 */
+	protected function _prep_args($result, $is_key = FALSE)
+	{
+		if ($result === NULL)
+		{
+			return 'null';
+		}
+		elseif (is_bool($result))
+		{
+			return ($result === TRUE) ? 'true' : 'false';
+		}
+		elseif (is_string($result) OR $is_key)
+		{
+			return '"'.str_replace(array('\\', "\t", "\n", "\r", '"', '/'), array('\\\\', '\\t', '\\n', "\\r", '\"', '\/'), $result).'"';
+		}
+		elseif (is_scalar($result))
+		{
+			return $result;
+		}
+	}
+
+}

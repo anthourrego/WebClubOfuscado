@@ -1,91 +1,156 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
+/*
+ * This file is part of the Symfony package.
+ *
+ * (c) Fabien Potencier <fabien@symfony.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+namespace Symfony\Component\HttpFoundation;
+
+/**
+ * Http utility functions.
+ *
+ * @author Fabien Potencier <fabien@symfony.com>
+ */
+class IpUtils
+{
+    private static $checkedIps = array();
+
+    /**
+     * This class should not be instantiated.
+     */
+    private function __construct()
+    {
+    }
+
+    /**
+     * Checks if an IPv4 or IPv6 address is contained in the list of given IPs or subnets.
+     *
+     * @param string       $requestIp IP to check
+     * @param string|array $ips       List of IPs or subnets (can be a string if only a single one)
+     *
+     * @return bool Whether the IP is valid
+     */
+    public static function checkIp($requestIp, $ips)
+    {
+        if (!is_array($ips)) {
+            $ips = array($ips);
+        }
+
+        $method = substr_count($requestIp, ':') > 1 ? 'checkIp6' : 'checkIp4';
+
+        foreach ($ips as $ip) {
+            if (self::$method($requestIp, $ip)) {
+                return true;
+            }
+        }
+
+        return false;
+    }
+
+    /**
+     * Compares two IPv4 addresses.
+     * In case a subnet is given, it checks if it contains the request IP.
+     *
+     * @param string $requestIp IPv4 address to check
+     * @param string $ip        IPv4 address or subnet in CIDR notation
+     *
+     * @return bool Whether the request IP matches the IP, or whether the request IP is within the CIDR subnet
+     */
+    public static function checkIp4($requestIp, $ip)
+    {
+        $cacheKey = $requestIp.'-'.$ip;
+        if (isset(self::$checkedIps[$cacheKey])) {
+            return self::$checkedIps[$cacheKey];
+        }
+
+        if (!filter_var($requestIp, FILTER_VALIDATE_IP, FILTER_FLAG_IPV4)) {
+            return self::$checkedIps[$cacheKey] = false;
+        }
+
+        if (false !== strpos($ip, '/')) {
+            list($address, $netmask) = explode('/', $ip, 2);
+
+            if ('0' === $netmask) {
+                return self::$checkedIps[$cacheKey] = filter_var($address, FILTER_VALIDATE_IP, FILTER_FLAG_IPV4);
+            }
+
+            if ($netmask < 0 || $netmask > 32) {
+                return self::$checkedIps[$cacheKey] = false;
+            }
+        } else {
+            $address = $ip;
+            $netmask = 32;
+        }
+
+        if (false === ip2long($address)) {
+            return self::$checkedIps[$cacheKey] = false;
+        }
+
+        return self::$checkedIps[$cacheKey] = 0 === substr_compare(sprintf('%032b', ip2long($requestIp)), sprintf('%032b', ip2long($address)), 0, $netmask);
+    }
+
+    /**
+     * Compares two IPv6 addresses.
+     * In case a subnet is given, it checks if it contains the request IP.
+     *
+     * @author David Soria Parra <dsp at php dot net>
+     *
+     * @see https://github.com/dsp/v6tools
+     *
+     * @param string $requestIp IPv6 address to check
+     * @param string $ip        IPv6 address or subnet in CIDR notation
+     *
+     * @return bool Whether the IP is valid
+     *
+     * @throws \RuntimeException When IPV6 support is not enabled
+     */
+    public static function checkIp6($requestIp, $ip)
+    {
+        $cacheKey = $requestIp.'-'.$ip;
+        if (isset(self::$checkedIps[$cacheKey])) {
+            return self::$checkedIps[$cacheKey];
+        }
+
+        if (!((extension_loaded('sockets') && defined('AF_INET6')) || @inet_pton('::1'))) {
+            throw new \RuntimeException('Unable to check Ipv6. Check that PHP was not compiled with option "disable-ipv6".');
+        }
+
+        if (false !== strpos($ip, '/')) {
+            list($address, $netmask) = explode('/', $ip, 2);
+
+            if ('0' === $netmask) {
+                return (bool) unpack('n*', @inet_pton($address));
+            }
+
+            if ($netmask < 1 || $netmask > 128) {
+                return self::$checkedIps[$cacheKey] = false;
+            }
+        } else {
+            $address = $ip;
+            $netmask = 128;
+        }
+
+        $bytesAddr = unpack('n*', @inet_pton($address));
+        $bytesTest = unpack('n*', @inet_pton($requestIp));
+
+        if (!$bytesAddr || !$bytesTest) {
+            return self::$checkedIps[$cacheKey] = false;
+        }
+
+        for ($i = 1, $ceil = ceil($netmask / 16); $i <= $ceil; ++$i) {
+            $left = $netmask - 16 * ($i - 1);
+            $left = ($left <= 16) ? $left : 16;
+            $mask = ~(0xffff >> $left) & 0xffff;
+            if (($bytesAddr[$i] & $mask) != ($bytesTest[$i] & $mask)) {
+                return self::$checkedIps[$cacheKey] = false;
+            }
+        }
+
+        return self::$checkedIps[$cacheKey] = true;
+    }
+}

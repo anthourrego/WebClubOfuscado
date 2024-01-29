@@ -1,130 +1,128 @@
-<?php //ICB0 56:0 71:14fb                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\Api;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-wtPjVspUSE1MrihDf2Sw7UmCnw9r3MZn=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * Encapsulates the documentation strings for a given service-version and
+ * provides methods for extracting the desired parts related to a service,
+ * operation, error, or shape (i.e., parameter).
+ */
+class DocModel
+{
+    /** @var array */
+    private $docs;
 
-?>
-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
-/0==
+    /**
+     * @param array $docs
+     *
+     * @throws \RuntimeException
+     */
+    public function __construct(array $docs)
+    {
+        if (!extension_loaded('tidy')) {
+            throw new \RuntimeException('The "tidy" PHP extension is required.');
+        }
+
+        $this->docs = $docs;
+    }
+
+    /**
+     * Convert the doc model to an array.
+     *
+     * @return array
+     */
+    public function toArray()
+    {
+        return $this->docs;
+    }
+
+    /**
+     * Retrieves documentation about the service.
+     *
+     * @return null|string
+     */
+    public function getServiceDocs()
+    {
+        return isset($this->docs['service']) ? $this->docs['service'] : null;
+    }
+
+    /**
+     * Retrieves documentation about an operation.
+     *
+     * @param string $operation Name of the operation
+     *
+     * @return null|string
+     */
+    public function getOperationDocs($operation)
+    {
+        return isset($this->docs['operations'][$operation])
+            ? $this->docs['operations'][$operation]
+            : null;
+    }
+
+    /**
+     * Retrieves documentation about an error.
+     *
+     * @param string $error Name of the error
+     *
+     * @return null|string
+     */
+    public function getErrorDocs($error)
+    {
+        return isset($this->docs['shapes'][$error]['base'])
+            ? $this->docs['shapes'][$error]['base']
+            : null;
+    }
+
+    /**
+     * Retrieves documentation about a shape, specific to the context.
+     *
+     * @param string $shapeName  Name of the shape.
+     * @param string $parentName Name of the parent/context shape.
+     * @param string $ref        Name used by the context to reference the shape.
+     *
+     * @return null|string
+     */
+    public function getShapeDocs($shapeName, $parentName, $ref)
+    {
+        if (!isset($this->docs['shapes'][$shapeName])) {
+            return '';
+        }
+
+        $result = '';
+        $d = $this->docs['shapes'][$shapeName];
+        if (isset($d['refs']["{$parentName}\$${ref}"])) {
+            $result = $d['refs']["{$parentName}\$${ref}"];
+        } elseif (isset($d['base'])) {
+            $result = $d['base'];
+        }
+
+        if (isset($d['append'])) {
+            $result .= $d['append'];
+        }
+
+        return $this->clean($result);
+    }
+
+    private function clean($content)
+    {
+        if (!$content) {
+            return '';
+        }
+
+        $tidy = new \Tidy();
+        $tidy->parseString($content, [
+            'indent' => true,
+            'doctype' => 'omit',
+            'output-html' => true,
+            'show-body-only' => true,
+            'drop-empty-paras' => true,
+            'drop-font-tags' => true,
+            'drop-proprietary-attributes' => true,
+            'hide-comments' => true,
+            'logical-emphasis' => true
+        ]);
+        $tidy->cleanRepair();
+
+        return (string) $content;
+    }
+}

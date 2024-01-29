@@ -1,81 +1,48 @@
-<?php //ICB0 56:0 71:d11                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-UBhI51JM=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/*
+ * This file is part of the Monolog package.
+ *
+ * (c) Jordi Boggiano <j.boggiano@seld.be>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
 
-?>
-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
-ZW==
+namespace Monolog\Formatter;
+
+/**
+ * Formats data into an associative array of scalar values.
+ * Objects and arrays will be JSON encoded.
+ *
+ * @author Andrew Lawson <adlawson@gmail.com>
+ */
+class ScalarFormatter extends NormalizerFormatter
+{
+    /**
+     * {@inheritdoc}
+     */
+    public function format(array $record)
+    {
+        foreach ($record as $key => $value) {
+            $record[$key] = $this->normalizeValue($value);
+        }
+
+        return $record;
+    }
+
+    /**
+     * @param  mixed $value
+     * @return mixed
+     */
+    protected function normalizeValue($value)
+    {
+        $normalized = $this->normalize($value);
+
+        if (is_array($normalized) || is_object($normalized)) {
+            return $this->toJson($normalized, true);
+        }
+
+        return $normalized;
+    }
+}

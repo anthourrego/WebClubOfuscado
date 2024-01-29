@@ -1,86 +1,92 @@
-<?php //ICB0 56:0 71:dc3                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-PbgnWQPGCikbTyy3DFVJkbMp8MS1oW===
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Blob\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+ 
+namespace MicrosoftAzure\Storage\Blob\Models;
 
-?>
-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
-ztYHheGI10wWfzWsGvGc0L8+y7eb7wQ0iUkG
+use MicrosoftAzure\Storage\Common\Models\ServiceOptions;
+
+/**
+ * Blob service options.
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Blob\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+class BlobServiceOptions extends ServiceOptions
+{
+    private $_leaseId;
+    private $_accessConditions;
+    
+    /**
+     * Gets lease Id for the blob
+     *
+     * @return string
+     */
+    public function getLeaseId()
+    {
+        return $this->_leaseId;
+    }
+    
+    /**
+     * Sets lease Id for the blob
+     *
+     * @param string $leaseId the blob lease id.
+     *
+     * @return void
+     */
+    public function setLeaseId($leaseId)
+    {
+        $this->_leaseId = $leaseId;
+    }
+    
+    /**
+     * Gets access condition
+     *
+     * @return \MicrosoftAzure\Storage\Blob\Models\AccessCondition[]
+     */
+    public function getAccessConditions()
+    {
+        return $this->_accessConditions;
+    }
+    
+    /**
+     * Sets access condition
+     *
+     * @param mixed $accessConditions value to use.
+     *
+     * @return void
+     */
+    public function setAccessConditions($accessConditions)
+    {
+        if (!is_null($accessConditions) &&
+            is_array($accessConditions)) {
+            $this->_accessConditions = $accessConditions;
+        } else {
+            $this->_accessConditions = [$accessConditions];
+        }
+    }
+}

@@ -1,102 +1,62 @@
-<?php //ICB0 56:0 71:fca                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-GegviGlWKG===
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * AWS command object.
+ */
+class Command implements CommandInterface
+{
+    use HasDataTrait;
 
-?>
-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
-b42KGabSV1pGp0Ew01DOEfoQn2ubw++ebA3bj0==
+    /** @var string */
+    private $name;
+
+    /** @var HandlerList */
+    private $handlerList;
+
+    /**
+     * Accepts an associative array of command options, including:
+     *
+     * - @http: (array) Associative array of transfer options.
+     *
+     * @param string      $name           Name of the command
+     * @param array       $args           Arguments to pass to the command
+     * @param HandlerList $list           Handler list
+     */
+    public function __construct($name, array $args = [], HandlerList $list = null)
+    {
+        $this->name = $name;
+        $this->data = $args;
+        $this->handlerList = $list ?: new HandlerList();
+
+        if (!isset($this->data['@http'])) {
+            $this->data['@http'] = [];
+        }
+    }
+
+    public function __clone()
+    {
+        $this->handlerList = clone $this->handlerList;
+    }
+
+    public function getName()
+    {
+        return $this->name;
+    }
+
+    public function hasParam($name)
+    {
+        return array_key_exists($name, $this->data);
+    }
+
+    public function getHandlerList()
+    {
+        return $this->handlerList;
+    }
+
+    /** @deprecated */
+    public function get($name)
+    {
+        return $this[$name];
+    }
+}

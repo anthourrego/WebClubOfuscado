@@ -1,186 +1,309 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-AeskBiqfwVkMtc0CkEu6HFUk/OpJY5WmjxDa8RK=
+/*
+ * This file is part of the Symfony package.
+ *
+ * (c) Fabien Potencier <fabien@symfony.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+namespace Symfony\Component\HttpKernel\DataCollector;
+
+use Symfony\Component\HttpFoundation\ParameterBag;
+use Symfony\Component\HttpFoundation\Request;
+use Symfony\Component\HttpFoundation\Response;
+use Symfony\Component\HttpKernel\KernelEvents;
+use Symfony\Component\HttpKernel\Event\FilterControllerEvent;
+use Symfony\Component\EventDispatcher\EventSubscriberInterface;
+
+/**
+ * @author Fabien Potencier <fabien@symfony.com>
+ */
+class RequestDataCollector extends DataCollector implements EventSubscriberInterface
+{
+    protected $controllers;
+
+    public function __construct()
+    {
+        $this->controllers = new \SplObjectStorage();
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function collect(Request $request, Response $response, \Exception $exception = null)
+    {
+        $responseHeaders = $response->headers->all();
+        foreach ($response->headers->getCookies() as $cookie) {
+            $responseHeaders['set-cookie'][] = (string) $cookie;
+        }
+
+        // attributes are serialized and as they can be anything, they need to be converted to strings.
+        $attributes = array();
+        foreach ($request->attributes->all() as $key => $value) {
+            if ('_route' === $key && is_object($value)) {
+                $attributes[$key] = $this->varToString($value->getPath());
+            } elseif ('_route_params' === $key) {
+                // we need to keep route params as an array (see getRouteParams())
+                foreach ($value as $k => $v) {
+                    $value[$k] = $this->varToString($v);
+                }
+                $attributes[$key] = $value;
+            } else {
+                $attributes[$key] = $this->varToString($value);
+            }
+        }
+
+        $content = null;
+        try {
+            $content = $request->getContent();
+        } catch (\LogicException $e) {
+            // the user already got the request content as a resource
+            $content = false;
+        }
+
+        $sessionMetadata = array();
+        $sessionAttributes = array();
+        $flashes = array();
+        if ($request->hasSession()) {
+            $session = $request->getSession();
+            if ($session->isStarted()) {
+                $sessionMetadata['Created'] = date(DATE_RFC822, $session->getMetadataBag()->getCreated());
+                $sessionMetadata['Last used'] = date(DATE_RFC822, $session->getMetadataBag()->getLastUsed());
+                $sessionMetadata['Lifetime'] = $session->getMetadataBag()->getLifetime();
+                $sessionAttributes = $session->all();
+                $flashes = $session->getFlashBag()->peekAll();
+            }
+        }
+
+        $statusCode = $response->getStatusCode();
+
+        $this->data = array(
+            'format' => $request->getRequestFormat(),
+            'content' => $content,
+            'content_type' => $response->headers->get('Content-Type', 'text/html'),
+            'status_text' => isset(Response::$statusTexts[$statusCode]) ? Response::$statusTexts[$statusCode] : '',
+            'status_code' => $statusCode,
+            'request_query' => $request->query->all(),
+            'request_request' => $request->request->all(),
+            'request_headers' => $request->headers->all(),
+            'request_server' => $request->server->all(),
+            'request_cookies' => $request->cookies->all(),
+            'request_attributes' => $attributes,
+            'response_headers' => $responseHeaders,
+            'session_metadata' => $sessionMetadata,
+            'session_attributes' => $sessionAttributes,
+            'flashes' => $flashes,
+            'path_info' => $request->getPathInfo(),
+            'controller' => 'n/a',
+            'locale' => $request->getLocale(),
+        );
+
+        if (isset($this->data['request_headers']['php-auth-pw'])) {
+            $this->data['request_headers']['php-auth-pw'] = '******';
+        }
+
+        if (isset($this->data['request_server']['PHP_AUTH_PW'])) {
+            $this->data['request_server']['PHP_AUTH_PW'] = '******';
+        }
+
+        if (isset($this->data['request_request']['_password'])) {
+            $this->data['request_request']['_password'] = '******';
+        }
+
+        foreach ($this->data as $key => $value) {
+            if (!is_array($value)) {
+                continue;
+            }
+            if ('request_headers' === $key || 'response_headers' === $key) {
+                $value = array_map(function ($v) { return isset($v[0]) && !isset($v[1]) ? $v[0] : $v; }, $value);
+            }
+            if ('request_server' !== $key && 'request_cookies' !== $key) {
+                $this->data[$key] = $value;
+            }
+        }
+
+        if (isset($this->controllers[$request])) {
+            $controller = $this->controllers[$request];
+            if (is_array($controller)) {
+                try {
+                    $r = new \ReflectionMethod($controller[0], $controller[1]);
+                    $this->data['controller'] = array(
+                        'class' => is_object($controller[0]) ? get_class($controller[0]) : $controller[0],
+                        'method' => $controller[1],
+                        'file' => $r->getFileName(),
+                        'line' => $r->getStartLine(),
+                    );
+                } catch (\ReflectionException $e) {
+                    if (is_callable($controller)) {
+                        // using __call or  __callStatic
+                        $this->data['controller'] = array(
+                            'class' => is_object($controller[0]) ? get_class($controller[0]) : $controller[0],
+                            'method' => $controller[1],
+                            'file' => 'n/a',
+                            'line' => 'n/a',
+                        );
+                    }
+                }
+            } elseif ($controller instanceof \Closure) {
+                $r = new \ReflectionFunction($controller);
+                $this->data['controller'] = array(
+                    'class' => $r->getName(),
+                    'method' => null,
+                    'file' => $r->getFileName(),
+                    'line' => $r->getStartLine(),
+                );
+            } elseif (is_object($controller)) {
+                $r = new \ReflectionClass($controller);
+                $this->data['controller'] = array(
+                    'class' => $r->getName(),
+                    'method' => null,
+                    'file' => $r->getFileName(),
+                    'line' => $r->getStartLine(),
+                );
+            } else {
+                $this->data['controller'] = (string) $controller ?: 'n/a';
+            }
+            unset($this->controllers[$request]);
+        }
+    }
+
+    public function getPathInfo()
+    {
+        return $this->data['path_info'];
+    }
+
+    public function getRequestRequest()
+    {
+        return new ParameterBag($this->data['request_request']);
+    }
+
+    public function getRequestQuery()
+    {
+        return new ParameterBag($this->data['request_query']);
+    }
+
+    public function getRequestHeaders()
+    {
+        return new ParameterBag($this->data['request_headers']);
+    }
+
+    public function getRequestServer()
+    {
+        return new ParameterBag($this->data['request_server']);
+    }
+
+    public function getRequestCookies()
+    {
+        return new ParameterBag($this->data['request_cookies']);
+    }
+
+    public function getRequestAttributes()
+    {
+        return new ParameterBag($this->data['request_attributes']);
+    }
+
+    public function getResponseHeaders()
+    {
+        return new ParameterBag($this->data['response_headers']);
+    }
+
+    public function getSessionMetadata()
+    {
+        return $this->data['session_metadata'];
+    }
+
+    public function getSessionAttributes()
+    {
+        return $this->data['session_attributes'];
+    }
+
+    public function getFlashes()
+    {
+        return $this->data['flashes'];
+    }
+
+    public function getContent()
+    {
+        return $this->data['content'];
+    }
+
+    public function getContentType()
+    {
+        return $this->data['content_type'];
+    }
+
+    public function getStatusText()
+    {
+        return $this->data['status_text'];
+    }
+
+    public function getStatusCode()
+    {
+        return $this->data['status_code'];
+    }
+
+    public function getFormat()
+    {
+        return $this->data['format'];
+    }
+
+    public function getLocale()
+    {
+        return $this->data['locale'];
+    }
+
+    /**
+     * Gets the route name.
+     *
+     * The _route request attributes is automatically set by the Router Matcher.
+     *
+     * @return string The route
+     */
+    public function getRoute()
+    {
+        return isset($this->data['request_attributes']['_route']) ? $this->data['request_attributes']['_route'] : '';
+    }
+
+    /**
+     * Gets the route parameters.
+     *
+     * The _route_params request attributes is automatically set by the RouterListener.
+     *
+     * @return array The parameters
+     */
+    public function getRouteParams()
+    {
+        return isset($this->data['request_attributes']['_route_params']) ? $this->data['request_attributes']['_route_params'] : array();
+    }
+
+    /**
+     * Gets the controller.
+     *
+     * @return string The controller as a string
+     */
+    public function getController()
+    {
+        return $this->data['controller'];
+    }
+
+    public function onKernelController(FilterControllerEvent $event)
+    {
+        $this->controllers[$event->getRequest()] = $event->getController();
+    }
+
+    public static function getSubscribedEvents()
+    {
+        return array(KernelEvents::CONTROLLER => 'onKernelController');
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function getName()
+    {
+        return 'request';
+    }
+}

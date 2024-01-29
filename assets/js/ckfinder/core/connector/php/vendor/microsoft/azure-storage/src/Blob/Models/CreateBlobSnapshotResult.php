@@ -1,92 +1,139 @@
-<?php //ICB0 56:0 71:e89                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Blob\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+ 
+namespace MicrosoftAzure\Storage\Blob\Models;
 
-?>
-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
-Rn1is9PiixEe8ob51ruWPwunBiqr
+use MicrosoftAzure\Storage\Common\Internal\Resources;
+use MicrosoftAzure\Storage\Common\Internal\Utilities;
+
+/**
+ * The result of creating Blob snapshot.
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Blob\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+class CreateBlobSnapshotResult
+{
+    private $_snapshot;
+    private $_etag;
+    private $_lastModified;
+    
+    /**
+     * Creates CreateBlobSnapshotResult object from the response of the
+     * create Blob snapshot request.
+     *
+     * @param array $headers The HTTP response headers in array representation.
+     *
+     * @internal
+     *
+     * @return CreateBlobSnapshotResult
+     */
+    public static function create(array $headers)
+    {
+        $result                 = new CreateBlobSnapshotResult();
+        $headerWithLowerCaseKey = array_change_key_case($headers);
+        
+        $result->setETag($headerWithLowerCaseKey[Resources::ETAG]);
+        
+        $result->setLastModified(
+            Utilities::rfc1123ToDateTime(
+                $headerWithLowerCaseKey[Resources::LAST_MODIFIED]
+            )
+        );
+        
+        $result->setSnapshot($headerWithLowerCaseKey[Resources::X_MS_SNAPSHOT]);
+        
+        return $result;
+    }
+    
+    /**
+     * Gets snapshot.
+     *
+     * @return string
+     */
+    public function getSnapshot()
+    {
+        return $this->_snapshot;
+    }
+    
+    /**
+     * Sets snapshot.
+     *
+     * @param string $snapshot value.
+     *
+     * @return void
+     */
+    protected function setSnapshot($snapshot)
+    {
+        $this->_snapshot = $snapshot;
+    }
+    
+    /**
+     * Gets ETag.
+     *
+     * @return string
+     */
+    public function getETag()
+    {
+        return $this->_etag;
+    }
+
+    /**
+     * Sets ETag.
+     *
+     * @param string $etag value.
+     *
+     * @return void
+     */
+    protected function setETag($etag)
+    {
+        $this->_etag = $etag;
+    }
+    
+    /**
+     * Gets blob lastModified.
+     *
+     * @return \DateTime
+     */
+    public function getLastModified()
+    {
+        return $this->_lastModified;
+    }
+
+    /**
+     * Sets blob lastModified.
+     *
+     * @param \DateTime $lastModified value.
+     *
+     * @return void
+     */
+    protected function setLastModified($lastModified)
+    {
+        $this->_lastModified = $lastModified;
+    }
+}

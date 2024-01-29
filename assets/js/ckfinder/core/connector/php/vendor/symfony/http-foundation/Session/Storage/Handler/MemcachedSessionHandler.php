@@ -1,71 +1,122 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-05+zOe2e77q+AG==
+/*
+ * This file is part of the Symfony package.
+ *
+ * (c) Fabien Potencier <fabien@symfony.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+namespace Symfony\Component\HttpFoundation\Session\Storage\Handler;
+
+/**
+ * Memcached based session storage handler based on the Memcached class
+ * provided by the PHP memcached extension.
+ *
+ * @see http://php.net/memcached
+ *
+ * @author Drak <drak@zikula.org>
+ */
+class MemcachedSessionHandler implements \SessionHandlerInterface
+{
+    private $memcached;
+
+    /**
+     * @var int Time to live in seconds
+     */
+    private $ttl;
+
+    /**
+     * @var string Key prefix for shared environments
+     */
+    private $prefix;
+
+    /**
+     * Constructor.
+     *
+     * List of available options:
+     *  * prefix: The prefix to use for the memcached keys in order to avoid collision
+     *  * expiretime: The time to live in seconds
+     *
+     * @param \Memcached $memcached A \Memcached instance
+     * @param array      $options   An associative array of Memcached options
+     *
+     * @throws \InvalidArgumentException When unsupported options are passed
+     */
+    public function __construct(\Memcached $memcached, array $options = array())
+    {
+        $this->memcached = $memcached;
+
+        if ($diff = array_diff(array_keys($options), array('prefix', 'expiretime'))) {
+            throw new \InvalidArgumentException(sprintf(
+                'The following options are not supported "%s"', implode(', ', $diff)
+            ));
+        }
+
+        $this->ttl = isset($options['expiretime']) ? (int) $options['expiretime'] : 86400;
+        $this->prefix = isset($options['prefix']) ? $options['prefix'] : 'sf2s';
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function open($savePath, $sessionName)
+    {
+        return true;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function close()
+    {
+        return true;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function read($sessionId)
+    {
+        return $this->memcached->get($this->prefix.$sessionId) ?: '';
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function write($sessionId, $data)
+    {
+        return $this->memcached->set($this->prefix.$sessionId, $data, time() + $this->ttl);
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function destroy($sessionId)
+    {
+        $result = $this->memcached->delete($this->prefix.$sessionId);
+
+        return $result || \Memcached::RES_NOTFOUND == $this->memcached->getResultCode();
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function gc($maxlifetime)
+    {
+        // not required here because memcached will auto expire the records anyhow.
+        return true;
+    }
+
+    /**
+     * Return a Memcached instance.
+     *
+     * @return \Memcached
+     */
+    protected function getMemcached()
+    {
+        return $this->memcached;
+    }
+}

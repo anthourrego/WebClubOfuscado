@@ -1,83 +1,63 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2017, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2017, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license	http://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 1.0.0
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cPuxQLT96ZAxb7nB0yI10MBUDXqSeo2wonjyeBipFv1oFcw2hSJ6CWHKeSlVfkM17NInAH+m4
-DLFpprDl5lOTKl4jyVuz+KClH1THCHATYgm9yjNU2tM3Yx0M3FqGfp4VPNmD5MFuq57DpKEoiED0
-d4qNsxO2GgwEDYfUUKOZTKNuOgvHPaL2ua+cLtPBWTviPbU1501YsXqpVC1LWaCuhq2ymfqYPCEh
-pPI6go/r+ghAvZhuU61gGUN84WfuAGHq9QUkDSBka0ByZfvNj8dR7FVJQ+vGicRUFxdw2Shgrs2D
-Bc8/SZJ/QrWkn4hsDd/tibHRcCr/whrMW/pxUzpdrVaFkRtcUpbnILgFaq6077VxPKBu+IvLOW8a
-LJJQn5B2Ix+hNEr9nf7a5eUtn/MARgFPKPP3cgIMDq0GZCBr3fX6LEXmx18jciXte3GZw8Qi7+GT
-HVTAv6Gve00u5k0mrpPNtsR3h/GQu5Zy/A+inwFYR2RxEnzb3RQ+3nntxXW075bV9P8CrUg90XJ8
-Ve3YvSQoh0Nud06fU4b3uKWg725kzXt35lgTJacU3TxKAPRVCb31NWuqrUeqhYDnrOV0q97bILRW
-zVI7gvPg5BLHZXGXB1bOK/J9yV6Lm0KLfDCCVb7gkC/l9VyqfE6pM+TwSIFD+S5qr7n5ICvi4aPi
-EBTvujyA4fv5vbdzB0Hgn8drAawHvn//0H8pui2FhZVASA4STIy+GYB6KNTEHIbZXs9rALktEeDy
-LNtS4y9vf1JkgwTpZJCPjtgnGkNIx17+CP581gVNi/Ev+YPDkxLcrDlEIkJGfOnsDH9qho9PB+Aa
-y5G+qfe6vljKLq/oyEKYn/CPRFaxqGGDfipKAiDhZEzM6D8vTkEw7Qd4UxoTxAe2+kCIyqHxmm4I
-nsgebg6GZVgGPyV6ehMBx7OPDqGbSUwuB9C7rIid8vNW4ei4QcaGwx++t4HsIyLMU6BDIzwu6Xnu
-EmFgiPSNWygWt2dE5GirKt4RQHvWhrqNRT91B4QiKZyp6JUmjfX6CepXDW0Nb05n6v9D1KNH99nf
-IXGwnzJtxkkq5k6xPImlvHUs/epqeCdyLu4ZEXpKFw5BwcPyGqSYylTCO/udNRkz+vZl7XAcNvuz
-7695ANYmpeVfqriRb3Z643D5SXMfOTwdbpqKUvCCHAauAvMpKqdkRrLPknqm+/13k2dOvFgyKngq
-aON+OLBhcdGzKnTJsksoYGtnVMjI6QwuFTv6+66olftgl1klgwNbI0Jo9zkwNXZ/NtPS4CFKnPAn
-yEcoRr12v1Jz2THJK7F0zFGY5ztb4PWrF+u+nKfaZBded8kcNIt//594CQlAjCeiNMNA01xTrG8S
-9iPfPrd2oTt4+jaETcOEJY02E0RO3h+GDhhSR8IkfxzSL74jYh6uAsQ7XENxsbFRwi/C2NLUPf8i
-Xr+xg43+sKn/9T6z9kJYOcavDDfduVOhKOob2x7QEZSdOjI5Q94qYIf08FwjPPIQllurWFTwoq94
-hV0MqBhrARVGmWwo3adCpaMRHRjiI3K9GODnljInC7nnlVxVvH5388yVPRYZDkBMunPbjXlp3HtI
-cwBQk3aZpVRzKnbjUkGg/NTotBBzNHKG2KTOJiiV38a6d1YCiqdP0PK1RAk1gaGCueUuP9eRSWYj
-TLMe8lUPW43IPlyREBPi+naGMfb0xuiZa9eCWrpEjPPSuqtVyHSu9KQNlJuGMFl+gwsNcSUzAMWm
-Kt4lVswjmzJIN4stb2H5Td8fOt0BGcrzpl6SgP56zehjk/CIwsu94RFdCXmJK7Lp+XndmtWXaiQB
-/d1nFWMRSVvxkGaKAh3gKodwX6GQdJUNQdoYVUrTzRmjOWc0VWsDUOPs0rV5SIeTXh+7snd+vFd3
-DTQKASFUskUFNlB8EWHj5crj5QvPnuAfxw2CXYuqxWWEx2fB6q6mP2p46WyQeh70dfDQkZUXihlD
-iJuZ7g0M8OffKtUlWioaX8loE7HTybycZMJsRxpElnT3gioBu4CF8DNzHdUsqvoooZU6LIvHuOsD
-R7Kqg1Yy0rxixNJd7U0fZwOTSExLnDYnwdRuQBgj01eGVYuzd94eWDLFvXAhJoea4dNgO9+cKlOo
-kvMvrremkPkkc2w2Hs96IiFF6je3bJJLWLpyzcUTj37z1WXdOMSfUbV1qyR3Jvp6KvqdkjVBDMLR
-smBXVRHZjc/PlIQVLBftvsYTE1fj/SuMO+pA9InJBVM9a6FXih3s7Ap+1EdPGa3fo3DeXlYdziVT
-XoSXFXFoRUGJqsEUWmk3ureMk7xKSfVKvdYnodn4Cz9Z2ItTSspOrSijHBzysHpMHQSoBOX+qFF9
-eGMlnYgAP+jsJ/qr217VD14t3/J6gQP2MEOJAV+3/C7hwfAVJ2GKfkdOjD0cf1CjnYmSA+GogLuT
-8UzP5XDT44CwcnuxVxrsJ969SyTH9yMB5LGzMG21OikZHj2V/fqvPxZt0JYA8/63OY2K1Rd0aiFv
-ZJSXGlPxWRILOy1JlrD7/1cxYwhQ6vPfsBsPb55zkfvQPQjULAeJeNzz/W+keaSVKm3CCyZiJ4VA
-6aArXSTzVdt1awWzn3XvG4DaHriWLf/zbo4pyicYUwVZQqseDRYKC/wzW/AUbWf3nmkPiXrifh81
-sB6teYyeho2D4WnI++sdZSiFbEr1Zu2ZVBkpWES17pMOdUZhSA8IGcMKY/XFQRdtG/zUp64L1Ime
-vMwPTzcl6V6EZe9R+6T89RgRAg0mIm2f/lfKQ7XUGa19kRj/2809BnAhWfJCi4NRIckn3Duv2E/e
-h7BsqpNcVdnxtxt/qyGMCLMlDJcKe716YACc2Al964SB6mhKPY8ZuVk/Aub8zfDQvH246gjCnXJs
-RGmxTKIv7Qf0Ij2H3u0TxFv7Glwyc+5+IoNz4L0VdOX9QDruGK0dKnYnBK557DWpz45TkNIJfjsx
-O8LSeSij8SR1hRXlP7q11lxK3uEf41TmrW63nlown28lkxBdaVhKwTvLbaPDGbrxZnqsAYyjAE1H
-wTAt0tCcVKWlwOLBXH/WfFqgzhym/tf4E/kJaZ5TYcOZsyFxMOr4iLrEktNwv8IrnyFfMUp/7EXi
-Ytc51AXAWa+OVCRcQ0ntKgclInQjtlI1XVtp1ch9bjDMSACm41PSp3KpjyyQj2WsffGEA48An+xG
-MZ5R6lVe3r3UwRGEbpaJR1vL1Ssu0zcXn0Lm/9Uy7Arg1/H4yQKaWMIz2cFpWQG5Qati8LTQV7eV
-0fqrgjgQSG8vC4UJ/FE14ccAN8iXXLSwA6sClfzDUBR6zCpft7bcZ0xt5e72SDZAZ4K1bMYxrrfS
-99s1M8l2wFWNZnwIooNph3JWacUOh5rOFKdQ/yD5ATh7PbGw/mxmTewRRJZgPlEBV1XoWWRxyr+x
-GlT1Y7i0owL+fSAnVENMl5zXeNz2PkS8BQj8ND20q554eWvYC/MBQXVHhfLTDOH5DmKhNirohSGY
-EnSvMzzWA31Rfh/gW+Fvt2eNcBrrOXGHmh4xwf8ZFQfL5TnEvBjuAomXyBIiEDHQztpEc5LzIjwd
-k/w87VfaisZ32T8lsBORRmGrR6k6ml4XA2ViK6R37IRvDwK9QdhhC8nkidP9hGL2UkXG5HIjoShM
-LXdnE1F2qawO3e5t0g+pdHHfGN633bXkQogAXOzyYUeVWrdgoO/nd5CO2Jl9+UXO1yrATa6sF/Jp
-1oSsRzq6qiU4Q/RB9Q3uIljtIq70QY8n6xhML1vcYS8hHSJ8pI3IDWOxd0yHoeFgKs84x0PpWKXm
-daoKP2kHQ4+i8dqNFXyt66Mz4wc93nFkLfOHjhpKLCuTt5WOV4sSSgFTJvx9wXJDM5aBvUzpTblC
-5osTMH+lDCkAE1M8rZ+AOUCBoYTJHRsgeie0Q7azE9goeCaRZ739NxZb/00x48ZLvYB4w/gDtWv+
-o8aFj6Gkr63FKRfWj7UEQC+Jdy62t9tr/cXNKuaJwsnHYk/o6ujfEqxolgZy347fLfTvawbgA9tx
-gnJ0o/t2PwKxyByksB0v9x03THVUYWj4ilDTAQKiqYc4LWr4seUVvbq4/pdYqzeUukUrioViM8pc
-0oXeD+n1RbaIvXFphit0h/0PwqDV2KxNimOx1sUOxHNWxpAGak5FlCF/kGg3vqhiANaxdkj38rg3
-8fDOcJVvt0GsJEc0CknBtNzXudqX7JTiLeuAXIHtvDPZOZS6GfffAgiNfA9kzgR6wQn85Dq0UjES
-cF/TWJSNa0Q2MVQj5IVhPfZmkN8CE+ZHO0clvDe3gw5Re2qUIau80W3dIamnMnGATeW6TlQf9JbU
-+WBBxEqYChoUOCbDkNmIosqCxaseNeDnt1L2hF80QCCdwsctT7FFecfOV2Zwk1MWHSr+lrAty1UC
-EUByf5TN5db7ptvoMDR8g8uerwrn+GxvBHijRgRQw8QF83QMwWjfHCLwjKf2mize5Vo9JboIhz27
-x9IVhzZvNm+LEO226nLwdrGvrKDQh1hjsKTW+t3zE1rZhjYlrRztHIMyCCwOK2+kY4cPPEapt7gr
-gHvTZGTW3cqYW2twPl8dHpNyVojZCVacLOK3hohYYn5/Hqku0nF9bKYgHI6jpVOnUMPt7zPXEqI9
-zGsI48XXFUBjgKbm5uI+NNhi95Au2232n8+Gup51guO++h1h1rsVPJHWNf+fM/PadvHsJItOxFpb
-SOE91ijMsx6E3AAQ9OaTq9ryuFFLc3N4qEBRAvIjXyQ4TmnpnZzkmBzQROmTm+Yn0PDalqmo1Mrg
-r9DQTet4WGKI+bmqTeXD5V/R487ApcKub57mzrSScwyEzeG9NcadJu7GQmMCyAZL6rViUHag0c4Z
-M3rsiNM7lZ2RTP68LwI1GMg3eTDWrBBa4TRR0qc3m/KiAkNngBVnQ3NOeC5Lk2EtUgoVv6f9Ivn9
-nRXfo11AaY6naOM993vzCta+XYYD0+7iU5CA5F6EUf6egngMkMNxYG9x87Wr1sUiiIqsQvEHSowL
-BH9GUjVvePTHvX8mxrFsS2d+yVXV/gYD0ufP6FE5PeHxlpKIysVrWWgtpbq9ctEvrfy1Nr74WajE
-G5Di4BOEckZi9BgzMIfJ0GcUdJ5gJncikJa1iRDkPEG8ZmWmjiX7olkZXwKIrismfNg1Bp3G+noi
-1PVDXf9ETqU+B7LddCeOPZYln+RDjnIoX9ME3gJynTL+tDi0iSooYGC8ar9M5yb+GyO3x2YIDS+k
-OBEiQMvS9ZRWIIXhzTv3CsoF6jaOti+Rk3v/yiqfIK4iuSJpGMJzBCZKVmVBk5fDlrp+wzuZd+Md
-0J5s0i4a1rXpwOVLjQ2J0AVdTzOkCAnHFgeOu8gqEl+uO9d+NRlE0eB92GfGgdDMZk3VEYlJmdjQ
-O+h11F/Xk+YbHP+h7ytG6tfX3ouZBAArrqAgZ47tlbEIIca7x+RaXhWQ1Od9FI0JxiYnm/ZLNhNW
-mI8O9ArOBgaLc5aoBCl15fLWzRg1n4IYeLjoz3aFGzl49HujIUCr8lN0iXL+9iDTDJAqf0QP79jY
-Tb5ZHm8zoxxVbf8w8bP1SRRR3L+AxrORCRlh9reB+AEAzEwJ00+c61lv58donYkPrC6Jj0Y8Z4QZ
-BSaYqUJ9PG8WysWgClV4qg4D16VeOEAVXdkQZIMBKh1zbKiEJOorpHIcXS/xgFxc1x0PLxFQnMWW
-0UjbwIApc3Jp4gbay7vNkphYWHO=
+$lang['db_invalid_connection_str'] = 'Unable to determine the database settings based on the connection string you submitted.';
+$lang['db_unable_to_connect'] = 'Unable to connect to your database server using the provided settings.';
+$lang['db_unable_to_select'] = 'Unable to select the specified database: %s';
+$lang['db_unable_to_create'] = 'Unable to create the specified database: %s';
+$lang['db_invalid_query'] = 'The query you submitted is not valid.';
+$lang['db_must_set_table'] = 'You must set the database table to be used with your query.';
+$lang['db_must_use_set'] = 'You must use the "set" method to update an entry.';
+$lang['db_must_use_index'] = 'You must specify an index to match on for batch updates.';
+$lang['db_batch_missing_index'] = 'One or more rows submitted for batch updating is missing the specified index.';
+$lang['db_must_use_where'] = 'Updates are not allowed unless they contain a "where" clause.';
+$lang['db_del_must_use_where'] = 'Deletes are not allowed unless they contain a "where" or "like" clause.';
+$lang['db_field_param_missing'] = 'To fetch fields requires the name of the table as a parameter.';
+$lang['db_unsupported_function'] = 'This feature is not available for the database you are using.';
+$lang['db_transaction_failure'] = 'Transaction failure: Rollback performed.';
+$lang['db_unable_to_drop'] = 'Unable to drop the specified database.';
+$lang['db_unsupported_feature'] = 'Unsupported feature of the database platform you are using.';
+$lang['db_unsupported_compression'] = 'The file compression format you chose is not supported by your server.';
+$lang['db_filepath_error'] = 'Unable to write data to the file path you have submitted.';
+$lang['db_invalid_cache_path'] = 'The cache path you submitted is not valid or writable.';
+$lang['db_table_name_required'] = 'A table name is required for that operation.';
+$lang['db_column_name_required'] = 'A column name is required for that operation.';
+$lang['db_column_definition_required'] = 'A column definition is required for that operation.';
+$lang['db_unable_to_set_charset'] = 'Unable to set client connection character set: %s';
+$lang['db_error_heading'] = 'A Database Error Occurred';

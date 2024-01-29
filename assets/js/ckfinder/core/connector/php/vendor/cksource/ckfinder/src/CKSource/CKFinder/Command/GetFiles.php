@@ -1,99 +1,49 @@
-<?php //ICB0 56:0 71:f48                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-5VT+LzrgsVO4szmUcGFKemOnTb4pZA6itj2W=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/*
+ * CKFinder
+ * ========
+ * https://ckeditor.com/ckeditor-4/ckfinder/
+ * Copyright (c) 2007-2018, CKSource - Frederico Knabben. All rights reserved.
+ *
+ * The software, this file and its contents are subject to the CKFinder
+ * License. Please read the license.txt file before using, installing, copying,
+ * modifying or distribute this file or part of its contents. The contents of
+ * this file is part of the Source Code of CKFinder.
+ */
 
-?>
-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
+namespace CKSource\CKFinder\Command;
+
+use CKSource\CKFinder\Acl\Permission;
+use CKSource\CKFinder\Filesystem\Folder\WorkingFolder;
+use CKSource\CKFinder\Utils;
+
+class GetFiles extends CommandAbstract
+{
+    protected $requires = array(Permission::FILE_VIEW);
+
+    public function execute(WorkingFolder $workingFolder)
+    {
+        $data = new \stdClass();
+        $files = $workingFolder->listFiles();
+
+        $data->files = array();
+
+        foreach ($files as $file) {
+            $fileObject = array(
+                'name' => $file['basename'],
+                'date' => Utils::formatDate($file['timestamp']),
+                'size' => Utils::formatSize($file['size'])
+            );
+
+            $data->files[] = $fileObject;
+        }
+
+        // Sort files
+        usort($data->files, function ($a, $b) {
+            return strnatcasecmp($a['name'], $b['name']);
+        });
+
+        return $data;
+    }
+}

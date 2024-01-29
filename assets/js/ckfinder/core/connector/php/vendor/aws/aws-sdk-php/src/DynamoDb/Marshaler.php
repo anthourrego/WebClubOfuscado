@@ -1,241 +1,324 @@
-<?php //ICB0 56:0 71:242d                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\DynamoDb;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use Psr\Http\Message\StreamInterface;
 
-?>
-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
+/**
+ * Marshals and unmarshals JSON documents and PHP arrays into DynamoDB items.
+ */
+class Marshaler
+{
+    /** @var array Default options to merge into provided options. */
+    private static $defaultOptions = [
+        'ignore_invalid'  => false,
+        'nullify_invalid' => false,
+        'wrap_numbers'    => false,
+    ];
+
+    /** @var array Marshaler options. */
+    private $options;
+
+    /**
+     * Instantiates a DynamoDB Marshaler.
+     *
+     * The following options are valid.
+     *
+     * - ignore_invalid: (bool) Set to `true` if invalid values should be
+     *   ignored (i.e., not included) during marshaling.
+     * - nullify_invalid: (bool) Set to `true` if invalid values should be set
+     *   to null.
+     * - wrap_numbers: (bool) Set to `true` to wrap numbers with `NumberValue`
+     *   objects during unmarshaling to preserve the precision.
+     *
+     * @param array $options Marshaler options
+     */
+    public function __construct(array $options = [])
+    {
+        $this->options = $options + self::$defaultOptions;
+    }
+
+    /**
+     * Creates a special object to represent a DynamoDB binary (B) value.
+     *
+     * This helps disambiguate binary values from string (S) values.
+     *
+     * @param mixed $value A binary value compatible with Guzzle streams.
+     *
+     * @return BinaryValue
+     * @see GuzzleHttp\Stream\Stream::factory
+     */
+    public function binary($value)
+    {
+        return new BinaryValue($value);
+    }
+
+    /**
+     * Creates a special object to represent a DynamoDB number (N) value.
+     *
+     * This helps maintain the precision of large integer/float in PHP.
+     *
+     * @param string|int|float $value A number value.
+     *
+     * @return NumberValue
+     */
+    public function number($value)
+    {
+        return new NumberValue($value);
+    }
+
+    /**
+     * Creates a special object to represent a DynamoDB set (SS/NS/BS) value.
+     *
+     * This helps disambiguate set values from list (L) values.
+     *
+     * @param array $values The values of the set.
+     *
+     * @return SetValue
+     *
+     */
+    public function set(array $values)
+    {
+        return new SetValue($values);
+    }
+
+    /**
+     * Marshal a JSON document from a string to a DynamoDB item.
+     *
+     * The result is an array formatted in the proper parameter structure
+     * required by the DynamoDB API for items.
+     *
+     * @param string $json A valid JSON document.
+     *
+     * @return array Item formatted for DynamoDB.
+     * @throws \InvalidArgumentException if the JSON is invalid.
+     */
+    public function marshalJson($json)
+    {
+        $data = json_decode($json);
+        if (!($data instanceof \stdClass)) {
+            throw new \InvalidArgumentException(
+                'The JSON document must be valid and be an object at its root.'
+            );
+        }
+
+        return current($this->marshalValue($data));
+    }
+
+    /**
+     * Marshal a native PHP array of data to a DynamoDB item.
+     *
+     * The result is an array formatted in the proper parameter structure
+     * required by the DynamoDB API for items.
+     *
+     * @param array|\stdClass $item An associative array of data.
+     *
+     * @return array Item formatted for DynamoDB.
+     */
+    public function marshalItem($item)
+    {
+        return current($this->marshalValue($item));
+    }
+
+    /**
+     * Marshal a native PHP value into a DynamoDB attribute value.
+     *
+     * The result is an associative array that is formatted in the proper
+     * `[TYPE => VALUE]` parameter structure required by the DynamoDB API.
+     *
+     * @param mixed $value A scalar, array, or `stdClass` value.
+     *
+     * @return array Attribute formatted for DynamoDB.
+     * @throws \UnexpectedValueException if the value cannot be marshaled.
+     */
+    public function marshalValue($value)
+    {
+        $type = gettype($value);
+
+        // Handle string values.
+        if ($type === 'string') {
+            if ($value === '') {
+                return $this->handleInvalid('empty strings are invalid');
+            }
+
+            return ['S' => $value];
+        }
+
+        // Handle number values.
+        if ($type === 'integer'
+            || $type === 'double'
+            || $value instanceof NumberValue
+        ) {
+            return ['N' => (string) $value];
+        }
+
+        // Handle boolean values.
+        if ($type === 'boolean') {
+            return ['BOOL' => $value];
+        }
+
+        // Handle null values.
+        if ($type === 'NULL') {
+            return ['NULL' => true];
+        }
+
+        // Handle set values.
+        if ($value instanceof SetValue) {
+            if (count($value) === 0) {
+                return $this->handleInvalid('empty sets are invalid');
+            }
+            $previousType = null;
+            $data = [];
+            foreach ($value as $v) {
+                $marshaled = $this->marshalValue($v);
+                $setType = key($marshaled);
+                if (!$previousType) {
+                    $previousType = $setType;
+                } elseif ($setType !== $previousType) {
+                    return $this->handleInvalid('sets must be uniform in type');
+                }
+                $data[] = current($marshaled);
+            }
+
+            return [$previousType . 'S' => array_values(array_unique($data))];
+        }
+
+        // Handle list and map values.
+        $dbType = 'L';
+        if ($value instanceof \stdClass) {
+            $type = 'array';
+            $dbType = 'M';
+        }
+        if ($type === 'array' || $value instanceof \Traversable) {
+            $data = [];
+            $index = 0;
+            foreach ($value as $k => $v) {
+                if ($v = $this->marshalValue($v)) {
+                    $data[$k] = $v;
+                    if ($dbType === 'L' && (!is_int($k) || $k != $index++)) {
+                        $dbType = 'M';
+                    }
+                }
+            }
+            return [$dbType => $data];
+        }
+
+        // Handle binary values.
+        if (is_resource($value) || $value instanceof StreamInterface) {
+            $value = $this->binary($value);
+        }
+        if ($value instanceof BinaryValue) {
+            return ['B' => (string) $value];
+        }
+
+        // Handle invalid values.
+        return $this->handleInvalid('encountered unexpected value');
+    }
+
+    /**
+     * Unmarshal a document (item) from a DynamoDB operation result into a JSON
+     * document string.
+     *
+     * @param array $data            Item/document from a DynamoDB result.
+     * @param int   $jsonEncodeFlags Flags to use with `json_encode()`.
+     *
+     * @return string
+     */
+    public function unmarshalJson(array $data, $jsonEncodeFlags = 0)
+    {
+        return json_encode(
+            $this->unmarshalValue(['M' => $data], true),
+            $jsonEncodeFlags
+        );
+    }
+
+    /**
+     * Unmarshal an item from a DynamoDB operation result into a native PHP
+     * array. If you set $mapAsObject to true, then a stdClass value will be
+     * returned instead.
+     *
+     * @param array $data Item from a DynamoDB result.
+     * @param bool  $mapAsObject Whether maps should be represented as stdClass.
+     *
+     * @return array|\stdClass
+     */
+    public function unmarshalItem(array $data, $mapAsObject = false)
+    {
+        return $this->unmarshalValue(['M' => $data], $mapAsObject);
+    }
+
+    /**
+     * Unmarshal a value from a DynamoDB operation result into a native PHP
+     * value. Will return a scalar, array, or (if you set $mapAsObject to true)
+     * stdClass value.
+     *
+     * @param array $value       Value from a DynamoDB result.
+     * @param bool  $mapAsObject Whether maps should be represented as stdClass.
+     *
+     * @return mixed
+     * @throws \UnexpectedValueException
+     */
+    public function unmarshalValue(array $value, $mapAsObject = false)
+    {
+        $type = key($value);
+        $value = $value[$type];
+        switch ($type) {
+            case 'S':
+            case 'BOOL':
+                return $value;
+            case 'NULL':
+                return null;
+            case 'N':
+                if ($this->options['wrap_numbers']) {
+                    return new NumberValue($value);
+                }
+
+                // Use type coercion to unmarshal numbers to int/float.
+                return $value + 0;
+            case 'M':
+                if ($mapAsObject) {
+                    $data = new \stdClass;
+                    foreach ($value as $k => $v) {
+                        $data->$k = $this->unmarshalValue($v, $mapAsObject);
+                    }
+                    return $data;
+                }
+                // NOBREAK: Unmarshal M the same way as L, for arrays.
+            case 'L':
+                foreach ($value as $k => $v) {
+                    $value[$k] = $this->unmarshalValue($v, $mapAsObject);
+                }
+                return $value;
+            case 'B':
+                return new BinaryValue($value);
+            case 'SS':
+            case 'NS':
+            case 'BS':
+                foreach ($value as $k => $v) {
+                    $value[$k] = $this->unmarshalValue([$type[0] => $v]);
+                }
+                return new SetValue($value);
+        }
+
+        throw new \UnexpectedValueException("Unexpected type: {$type}.");
+    }
+
+    /**
+     * Handle invalid value based on marshaler configuration.
+     *
+     * @param string $message Error message
+     *
+     * @return array|null
+     */
+    private function handleInvalid($message)
+    {
+        if ($this->options['ignore_invalid']) {
+            return null;
+        }
+
+        if ($this->options['nullify_invalid']) {
+            return ['NULL' => true];
+        }
+
+        throw new \UnexpectedValueException("Marshaling error: {$message}.");
+    }
+}

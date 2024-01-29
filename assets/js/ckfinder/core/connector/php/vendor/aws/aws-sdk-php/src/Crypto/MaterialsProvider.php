@@ -1,85 +1,105 @@
-<?php //ICB0 56:0 71:dcf                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\Crypto;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+abstract class MaterialsProvider
+{
+    private static $supportedKeySizes = [
+        128 => true,
+        192 => true,
+        256 => true,
+    ];
 
-?>
-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
-MfLaKW==
+    /**
+     * Returns if the requested size is supported by AES.
+     *
+     * @param int $keySize Size of the requested key in bits.
+     *
+     * @return bool
+     */
+    public static function isSupportedKeySize($keySize)
+    {
+        return isset(self::$supportedKeySizes[$keySize]);
+    }
+
+    /**
+     * Performs further initialization of the MaterialsProvider based on the
+     * data inside the MetadataEnvelope.
+     *
+     * @param MetadataEnvelope $envelope A storage envelope for encryption
+     *                                   metadata to be read from.
+     *
+     * @return MaterialsProvider
+     *
+     * @throws \RuntimeException Thrown when there is an empty or improperly
+     *                           formed materials description in the envelope.
+     *
+     * @internal
+     */
+    abstract public function fromDecryptionEnvelope(MetadataEnvelope $envelope);
+
+    /**
+     * Returns the material description for this Provider so it can be verified
+     * by encryption mechanisms.
+     *
+     * @return string
+     */
+    abstract public function getMaterialsDescription();
+
+    /**
+     * Returns the wrap algorithm name for this Provider.
+     *
+     * @return string
+     */
+    abstract public function getWrapAlgorithmName();
+
+    /**
+     * Takes a content encryption key (CEK) and description to return an
+     * encrypted key according to the Provider's specifications.
+     *
+     * @param string $unencryptedCek Key for use in encrypting other data
+     *                               that itself needs to be encrypted by the
+     *                               Provider.
+     * @param string $materialDescription Material Description for use in
+     *                                    encrypting the $cek.
+     *
+     * @return string
+     */
+    abstract public function encryptCek($unencryptedCek, $materialDescription);
+
+    /**
+     * Takes an encrypted content encryption key (CEK) and material description
+     * for use decrypting the key according to the Provider's specifications.
+     *
+     * @param string $encryptedCek Encrypted key to be decrypted by the Provider
+     *                             for use decrypting other data.
+     * @param string $materialDescription Material Description for use in
+     *                                    encrypting the $cek.
+     *
+     * @return string
+     */
+    abstract public function decryptCek($encryptedCek, $materialDescription);
+
+    /**
+     * @param string $keySize Length of a cipher key in bits for generating a
+     *                        random content encryption key (CEK).
+     *
+     * @return string
+     */
+    public function generateCek($keySize)
+    {
+        return openssl_random_pseudo_bytes($keySize / 8);
+    }
+
+    /**
+     * @param string $openSslName Cipher OpenSSL name to use for generating
+     *                            an initialization vector.
+     *
+     * @return string
+     */
+    public function generateIv($openSslName)
+    {
+        return openssl_random_pseudo_bytes(
+            openssl_cipher_iv_length($openSslName)
+        );
+    }
+}

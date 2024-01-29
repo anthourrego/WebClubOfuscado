@@ -1,73 +1,168 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
+/*
+ * This file is part of the Symfony package.
+ *
+ * (c) Fabien Potencier <fabien@symfony.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+namespace Symfony\Component\HttpFoundation\Session\Storage;
+
+use Symfony\Component\HttpFoundation\Session\SessionBagInterface;
+
+/**
+ * Metadata container.
+ *
+ * Adds metadata to the session.
+ *
+ * @author Drak <drak@zikula.org>
+ */
+class MetadataBag implements SessionBagInterface
+{
+    const CREATED = 'c';
+    const UPDATED = 'u';
+    const LIFETIME = 'l';
+
+    /**
+     * @var string
+     */
+    private $name = '__metadata';
+
+    /**
+     * @var string
+     */
+    private $storageKey;
+
+    /**
+     * @var array
+     */
+    protected $meta = array(self::CREATED => 0, self::UPDATED => 0, self::LIFETIME => 0);
+
+    /**
+     * Unix timestamp.
+     *
+     * @var int
+     */
+    private $lastUsed;
+
+    /**
+     * @var int
+     */
+    private $updateThreshold;
+
+    /**
+     * @param string $storageKey      The key used to store bag in the session
+     * @param int    $updateThreshold The time to wait between two UPDATED updates
+     */
+    public function __construct($storageKey = '_sf2_meta', $updateThreshold = 0)
+    {
+        $this->storageKey = $storageKey;
+        $this->updateThreshold = $updateThreshold;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function initialize(array &$array)
+    {
+        $this->meta = &$array;
+
+        if (isset($array[self::CREATED])) {
+            $this->lastUsed = $this->meta[self::UPDATED];
+
+            $timeStamp = time();
+            if ($timeStamp - $array[self::UPDATED] >= $this->updateThreshold) {
+                $this->meta[self::UPDATED] = $timeStamp;
+            }
+        } else {
+            $this->stampCreated();
+        }
+    }
+
+    /**
+     * Gets the lifetime that the session cookie was set with.
+     *
+     * @return int
+     */
+    public function getLifetime()
+    {
+        return $this->meta[self::LIFETIME];
+    }
+
+    /**
+     * Stamps a new session's metadata.
+     *
+     * @param int $lifetime Sets the cookie lifetime for the session cookie. A null value
+     *                      will leave the system settings unchanged, 0 sets the cookie
+     *                      to expire with browser session. Time is in seconds, and is
+     *                      not a Unix timestamp.
+     */
+    public function stampNew($lifetime = null)
+    {
+        $this->stampCreated($lifetime);
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function getStorageKey()
+    {
+        return $this->storageKey;
+    }
+
+    /**
+     * Gets the created timestamp metadata.
+     *
+     * @return int Unix timestamp
+     */
+    public function getCreated()
+    {
+        return $this->meta[self::CREATED];
+    }
+
+    /**
+     * Gets the last used metadata.
+     *
+     * @return int Unix timestamp
+     */
+    public function getLastUsed()
+    {
+        return $this->lastUsed;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function clear()
+    {
+        // nothing to do
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function getName()
+    {
+        return $this->name;
+    }
+
+    /**
+     * Sets name.
+     *
+     * @param string $name
+     */
+    public function setName($name)
+    {
+        $this->name = $name;
+    }
+
+    private function stampCreated($lifetime = null)
+    {
+        $timeStamp = time();
+        $this->meta[self::CREATED] = $this->meta[self::UPDATED] = $this->lastUsed = $timeStamp;
+        $this->meta[self::LIFETIME] = (null === $lifetime) ? ini_get('session.cookie_lifetime') : $lifetime;
+    }
+}

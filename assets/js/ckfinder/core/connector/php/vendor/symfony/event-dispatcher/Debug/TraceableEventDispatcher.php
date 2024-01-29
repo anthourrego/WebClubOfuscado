@@ -1,181 +1,332 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
+/*
+ * This file is part of the Symfony package.
+ *
+ * (c) Fabien Potencier <fabien@symfony.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+namespace Symfony\Component\EventDispatcher\Debug;
+
+use Symfony\Component\EventDispatcher\EventDispatcherInterface;
+use Symfony\Component\EventDispatcher\EventSubscriberInterface;
+use Symfony\Component\EventDispatcher\Event;
+use Symfony\Component\Stopwatch\Stopwatch;
+use Psr\Log\LoggerInterface;
+
+/**
+ * Collects some data about event listeners.
+ *
+ * This event dispatcher delegates the dispatching to another one.
+ *
+ * @author Fabien Potencier <fabien@symfony.com>
+ */
+class TraceableEventDispatcher implements TraceableEventDispatcherInterface
+{
+    protected $logger;
+    protected $stopwatch;
+
+    private $called;
+    private $dispatcher;
+    private $wrappedListeners;
+
+    public function __construct(EventDispatcherInterface $dispatcher, Stopwatch $stopwatch, LoggerInterface $logger = null)
+    {
+        $this->dispatcher = $dispatcher;
+        $this->stopwatch = $stopwatch;
+        $this->logger = $logger;
+        $this->called = array();
+        $this->wrappedListeners = array();
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function addListener($eventName, $listener, $priority = 0)
+    {
+        $this->dispatcher->addListener($eventName, $listener, $priority);
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function addSubscriber(EventSubscriberInterface $subscriber)
+    {
+        $this->dispatcher->addSubscriber($subscriber);
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function removeListener($eventName, $listener)
+    {
+        if (isset($this->wrappedListeners[$eventName])) {
+            foreach ($this->wrappedListeners[$eventName] as $index => $wrappedListener) {
+                if ($wrappedListener->getWrappedListener() === $listener) {
+                    $listener = $wrappedListener;
+                    unset($this->wrappedListeners[$eventName][$index]);
+                    break;
+                }
+            }
+        }
+
+        return $this->dispatcher->removeListener($eventName, $listener);
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function removeSubscriber(EventSubscriberInterface $subscriber)
+    {
+        return $this->dispatcher->removeSubscriber($subscriber);
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function getListeners($eventName = null)
+    {
+        return $this->dispatcher->getListeners($eventName);
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function hasListeners($eventName = null)
+    {
+        return $this->dispatcher->hasListeners($eventName);
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function dispatch($eventName, Event $event = null)
+    {
+        if (null === $event) {
+            $event = new Event();
+        }
+
+        if (null !== $this->logger && $event->isPropagationStopped()) {
+            $this->logger->debug(sprintf('The "%s" event is already stopped. No listeners have been called.', $eventName));
+        }
+
+        $this->preProcess($eventName);
+        $this->preDispatch($eventName, $event);
+
+        $e = $this->stopwatch->start($eventName, 'section');
+
+        $this->dispatcher->dispatch($eventName, $event);
+
+        if ($e->isStarted()) {
+            $e->stop();
+        }
+
+        $this->postDispatch($eventName, $event);
+        $this->postProcess($eventName);
+
+        return $event;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function getCalledListeners()
+    {
+        $called = array();
+        foreach ($this->called as $eventName => $listeners) {
+            foreach ($listeners as $listener) {
+                $info = $this->getListenerInfo($listener->getWrappedListener(), $eventName);
+                $called[$eventName.'.'.$info['pretty']] = $info;
+            }
+        }
+
+        return $called;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function getNotCalledListeners()
+    {
+        try {
+            $allListeners = $this->getListeners();
+        } catch (\Exception $e) {
+            if (null !== $this->logger) {
+                $this->logger->info('An exception was thrown while getting the uncalled listeners.', array('exception' => $e));
+            }
+
+            // unable to retrieve the uncalled listeners
+            return array();
+        }
+
+        $notCalled = array();
+        foreach ($allListeners as $eventName => $listeners) {
+            foreach ($listeners as $listener) {
+                $called = false;
+                if (isset($this->called[$eventName])) {
+                    foreach ($this->called[$eventName] as $l) {
+                        if ($l->getWrappedListener() === $listener) {
+                            $called = true;
+
+                            break;
+                        }
+                    }
+                }
+
+                if (!$called) {
+                    $info = $this->getListenerInfo($listener, $eventName);
+                    $notCalled[$eventName.'.'.$info['pretty']] = $info;
+                }
+            }
+        }
+
+        return $notCalled;
+    }
+
+    /**
+     * Proxies all method calls to the original event dispatcher.
+     *
+     * @param string $method    The method name
+     * @param array  $arguments The method arguments
+     *
+     * @return mixed
+     */
+    public function __call($method, $arguments)
+    {
+        return call_user_func_array(array($this->dispatcher, $method), $arguments);
+    }
+
+    /**
+     * Called before dispatching the event.
+     *
+     * @param string $eventName The event name
+     * @param Event  $event     The event
+     */
+    protected function preDispatch($eventName, Event $event)
+    {
+    }
+
+    /**
+     * Called after dispatching the event.
+     *
+     * @param string $eventName The event name
+     * @param Event  $event     The event
+     */
+    protected function postDispatch($eventName, Event $event)
+    {
+    }
+
+    private function preProcess($eventName)
+    {
+        foreach ($this->dispatcher->getListeners($eventName) as $listener) {
+            $this->dispatcher->removeListener($eventName, $listener);
+            $info = $this->getListenerInfo($listener, $eventName);
+            $name = isset($info['class']) ? $info['class'] : $info['type'];
+            $wrappedListener = new WrappedListener($listener, $name, $this->stopwatch, $this);
+            $this->wrappedListeners[$eventName][] = $wrappedListener;
+            $this->dispatcher->addListener($eventName, $wrappedListener);
+        }
+    }
+
+    private function postProcess($eventName)
+    {
+        unset($this->wrappedListeners[$eventName]);
+        $skipped = false;
+        foreach ($this->dispatcher->getListeners($eventName) as $listener) {
+            if (!$listener instanceof WrappedListener) { // #12845: a new listener was added during dispatch.
+                continue;
+            }
+            // Unwrap listener
+            $this->dispatcher->removeListener($eventName, $listener);
+            $this->dispatcher->addListener($eventName, $listener->getWrappedListener());
+
+            $info = $this->getListenerInfo($listener->getWrappedListener(), $eventName);
+            if ($listener->wasCalled()) {
+                if (null !== $this->logger) {
+                    $this->logger->debug(sprintf('Notified event "%s" to listener "%s".', $eventName, $info['pretty']));
+                }
+
+                if (!isset($this->called[$eventName])) {
+                    $this->called[$eventName] = new \SplObjectStorage();
+                }
+
+                $this->called[$eventName]->attach($listener);
+            }
+
+            if (null !== $this->logger && $skipped) {
+                $this->logger->debug(sprintf('Listener "%s" was not called for event "%s".', $info['pretty'], $eventName));
+            }
+
+            if ($listener->stoppedPropagation()) {
+                if (null !== $this->logger) {
+                    $this->logger->debug(sprintf('Listener "%s" stopped propagation of the event "%s".', $info['pretty'], $eventName));
+                }
+
+                $skipped = true;
+            }
+        }
+    }
+
+    /**
+     * Returns information about the listener.
+     *
+     * @param object $listener  The listener
+     * @param string $eventName The event name
+     *
+     * @return array Information about the listener
+     */
+    private function getListenerInfo($listener, $eventName)
+    {
+        $info = array(
+            'event' => $eventName,
+        );
+        if ($listener instanceof \Closure) {
+            $info += array(
+                'type' => 'Closure',
+                'pretty' => 'closure',
+            );
+        } elseif (is_string($listener)) {
+            try {
+                $r = new \ReflectionFunction($listener);
+                $file = $r->getFileName();
+                $line = $r->getStartLine();
+            } catch (\ReflectionException $e) {
+                $file = null;
+                $line = null;
+            }
+            $info += array(
+                'type' => 'Function',
+                'function' => $listener,
+                'file' => $file,
+                'line' => $line,
+                'pretty' => $listener,
+            );
+        } elseif (is_array($listener) || (is_object($listener) && is_callable($listener))) {
+            if (!is_array($listener)) {
+                $listener = array($listener, '__invoke');
+            }
+            $class = is_object($listener[0]) ? get_class($listener[0]) : $listener[0];
+            try {
+                $r = new \ReflectionMethod($class, $listener[1]);
+                $file = $r->getFileName();
+                $line = $r->getStartLine();
+            } catch (\ReflectionException $e) {
+                $file = null;
+                $line = null;
+            }
+            $info += array(
+                'type' => 'Method',
+                'class' => $class,
+                'method' => $listener[1],
+                'file' => $file,
+                'line' => $line,
+                'pretty' => $class.'::'.$listener[1],
+            );
+        }
+
+        return $info;
+    }
+}

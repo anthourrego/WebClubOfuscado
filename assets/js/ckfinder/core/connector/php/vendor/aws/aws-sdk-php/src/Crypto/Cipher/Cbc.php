@@ -1,125 +1,82 @@
-<?php //ICB0 56:0 71:1315                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\Crypto\Cipher;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-1w1bLHlq=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use \InvalidArgumentException;
+use \LogicException;
 
-?>
-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
-k+/aMNwpHc5MtTtUd2Saexp/Sdpq
+/**
+ * An implementation of the CBC cipher for use with an AesEncryptingStream or
+ * AesDecrypting stream.
+ */
+class Cbc implements CipherMethod
+{
+    const BLOCK_SIZE = 16;
+
+    /**
+     * @var string
+     */
+    private $baseIv;
+
+    /**
+     * @var string
+     */
+    private $iv;
+
+    /**
+     * @var int
+     */
+    private $keySize;
+
+    /**
+     * @param string $iv Base Initialization Vector for the cipher.
+     * @param int $keySize Size of the encryption key, in bits, that will be
+     *                     used.
+     *
+     * @throws InvalidArgumentException Thrown if the passed iv does not match
+     *                                  the iv length required by the cipher.
+     */
+    public function __construct($iv, $keySize = 256)
+    {
+        $this->baseIv = $this->iv = $iv;
+        $this->keySize = $keySize;
+
+        if (strlen($iv) !== openssl_cipher_iv_length($this->getOpenSslName())) {
+            throw new InvalidArgumentException('Invalid initialization vector');
+        }
+    }
+
+    public function getOpenSslName()
+    {
+        return "aes-{$this->keySize}-cbc";
+    }
+
+    public function getAesName()
+    {
+        return 'AES/CBC/PKCS5Padding';
+    }
+
+    public function getCurrentIv()
+    {
+        return $this->iv;
+    }
+
+    public function requiresPadding()
+    {
+        return true;
+    }
+
+    public function seek($offset, $whence = SEEK_SET)
+    {
+        if ($offset === 0 && $whence === SEEK_SET) {
+            $this->iv = $this->baseIv;
+        } else {
+            throw new LogicException('CBC initialization only support being'
+                . ' rewound, not arbitrary seeking.');
+        }
+    }
+
+    public function update($cipherTextBlock)
+    {
+        $this->iv = substr($cipherTextBlock, self::BLOCK_SIZE * -1);
+    }
+}

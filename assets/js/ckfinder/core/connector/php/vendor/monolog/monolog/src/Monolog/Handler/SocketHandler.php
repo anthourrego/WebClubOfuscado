@@ -1,354 +1,385 @@
-<?php //ICB0 56:0 71:33ad                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-PmFDVwH36sWlxQjUhtdvpFzhJMZ3hDTGNBe==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/*
+ * This file is part of the Monolog package.
+ *
+ * (c) Jordi Boggiano <j.boggiano@seld.be>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
 
-?>
-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
-cGCJBawSKrlki6L2Akpjk7reoQ4=
+namespace Monolog\Handler;
+
+use Monolog\Logger;
+
+/**
+ * Stores to any socket - uses fsockopen() or pfsockopen().
+ *
+ * @author Pablo de Leon Belloc <pablolb@gmail.com>
+ * @see    http://php.net/manual/en/function.fsockopen.php
+ */
+class SocketHandler extends AbstractProcessingHandler
+{
+    private $connectionString;
+    private $connectionTimeout;
+    private $resource;
+    private $timeout = 0;
+    private $writingTimeout = 10;
+    private $lastSentBytes = null;
+    private $chunkSize = null;
+    private $persistent = false;
+    private $errno;
+    private $errstr;
+    private $lastWritingAt;
+
+    /**
+     * @param string $connectionString Socket connection string
+     * @param int    $level            The minimum logging level at which this handler will be triggered
+     * @param bool   $bubble           Whether the messages that are handled can bubble up the stack or not
+     */
+    public function __construct($connectionString, $level = Logger::DEBUG, $bubble = true)
+    {
+        parent::__construct($level, $bubble);
+        $this->connectionString = $connectionString;
+        $this->connectionTimeout = (float) ini_get('default_socket_timeout');
+    }
+
+    /**
+     * Connect (if necessary) and write to the socket
+     *
+     * @param array $record
+     *
+     * @throws \UnexpectedValueException
+     * @throws \RuntimeException
+     */
+    protected function write(array $record)
+    {
+        $this->connectIfNotConnected();
+        $data = $this->generateDataStream($record);
+        $this->writeToSocket($data);
+    }
+
+    /**
+     * We will not close a PersistentSocket instance so it can be reused in other requests.
+     */
+    public function close()
+    {
+        if (!$this->isPersistent()) {
+            $this->closeSocket();
+        }
+    }
+
+    /**
+     * Close socket, if open
+     */
+    public function closeSocket()
+    {
+        if (is_resource($this->resource)) {
+            fclose($this->resource);
+            $this->resource = null;
+        }
+    }
+
+    /**
+     * Set socket connection to nbe persistent. It only has effect before the connection is initiated.
+     *
+     * @param bool $persistent
+     */
+    public function setPersistent($persistent)
+    {
+        $this->persistent = (bool) $persistent;
+    }
+
+    /**
+     * Set connection timeout.  Only has effect before we connect.
+     *
+     * @param float $seconds
+     *
+     * @see http://php.net/manual/en/function.fsockopen.php
+     */
+    public function setConnectionTimeout($seconds)
+    {
+        $this->validateTimeout($seconds);
+        $this->connectionTimeout = (float) $seconds;
+    }
+
+    /**
+     * Set write timeout. Only has effect before we connect.
+     *
+     * @param float $seconds
+     *
+     * @see http://php.net/manual/en/function.stream-set-timeout.php
+     */
+    public function setTimeout($seconds)
+    {
+        $this->validateTimeout($seconds);
+        $this->timeout = (float) $seconds;
+    }
+
+    /**
+     * Set writing timeout. Only has effect during connection in the writing cycle.
+     *
+     * @param float $seconds 0 for no timeout
+     */
+    public function setWritingTimeout($seconds)
+    {
+        $this->validateTimeout($seconds);
+        $this->writingTimeout = (float) $seconds;
+    }
+
+    /**
+     * Set chunk size. Only has effect during connection in the writing cycle.
+     *
+     * @param float $bytes
+     */
+    public function setChunkSize($bytes)
+    {
+        $this->chunkSize = $bytes;
+    }
+
+    /**
+     * Get current connection string
+     *
+     * @return string
+     */
+    public function getConnectionString()
+    {
+        return $this->connectionString;
+    }
+
+    /**
+     * Get persistent setting
+     *
+     * @return bool
+     */
+    public function isPersistent()
+    {
+        return $this->persistent;
+    }
+
+    /**
+     * Get current connection timeout setting
+     *
+     * @return float
+     */
+    public function getConnectionTimeout()
+    {
+        return $this->connectionTimeout;
+    }
+
+    /**
+     * Get current in-transfer timeout
+     *
+     * @return float
+     */
+    public function getTimeout()
+    {
+        return $this->timeout;
+    }
+
+    /**
+     * Get current local writing timeout
+     *
+     * @return float
+     */
+    public function getWritingTimeout()
+    {
+        return $this->writingTimeout;
+    }
+
+    /**
+     * Get current chunk size
+     *
+     * @return float
+     */
+    public function getChunkSize()
+    {
+        return $this->chunkSize;
+    }
+
+    /**
+     * Check to see if the socket is currently available.
+     *
+     * UDP might appear to be connected but might fail when writing.  See http://php.net/fsockopen for details.
+     *
+     * @return bool
+     */
+    public function isConnected()
+    {
+        return is_resource($this->resource)
+            && !feof($this->resource);  // on TCP - other party can close connection.
+    }
+
+    /**
+     * Wrapper to allow mocking
+     */
+    protected function pfsockopen()
+    {
+        return @pfsockopen($this->connectionString, -1, $this->errno, $this->errstr, $this->connectionTimeout);
+    }
+
+    /**
+     * Wrapper to allow mocking
+     */
+    protected function fsockopen()
+    {
+        return @fsockopen($this->connectionString, -1, $this->errno, $this->errstr, $this->connectionTimeout);
+    }
+
+    /**
+     * Wrapper to allow mocking
+     *
+     * @see http://php.net/manual/en/function.stream-set-timeout.php
+     */
+    protected function streamSetTimeout()
+    {
+        $seconds = floor($this->timeout);
+        $microseconds = round(($this->timeout - $seconds) * 1e6);
+
+        return stream_set_timeout($this->resource, $seconds, $microseconds);
+    }
+
+    /**
+     * Wrapper to allow mocking
+     *
+     * @see http://php.net/manual/en/function.stream-set-chunk-size.php
+     */
+    protected function streamSetChunkSize()
+    {
+        return stream_set_chunk_size($this->resource, $this->chunkSize);
+    }
+
+    /**
+     * Wrapper to allow mocking
+     */
+    protected function fwrite($data)
+    {
+        return @fwrite($this->resource, $data);
+    }
+
+    /**
+     * Wrapper to allow mocking
+     */
+    protected function streamGetMetadata()
+    {
+        return stream_get_meta_data($this->resource);
+    }
+
+    private function validateTimeout($value)
+    {
+        $ok = filter_var($value, FILTER_VALIDATE_FLOAT);
+        if ($ok === false || $value < 0) {
+            throw new \InvalidArgumentException("Timeout must be 0 or a positive float (got $value)");
+        }
+    }
+
+    private function connectIfNotConnected()
+    {
+        if ($this->isConnected()) {
+            return;
+        }
+        $this->connect();
+    }
+
+    protected function generateDataStream($record)
+    {
+        return (string) $record['formatted'];
+    }
+
+    /**
+     * @return resource|null
+     */
+    protected function getResource()
+    {
+        return $this->resource;
+    }
+
+    private function connect()
+    {
+        $this->createSocketResource();
+        $this->setSocketTimeout();
+        $this->setStreamChunkSize();
+    }
+
+    private function createSocketResource()
+    {
+        if ($this->isPersistent()) {
+            $resource = $this->pfsockopen();
+        } else {
+            $resource = $this->fsockopen();
+        }
+        if (!$resource) {
+            throw new \UnexpectedValueException("Failed connecting to $this->connectionString ($this->errno: $this->errstr)");
+        }
+        $this->resource = $resource;
+    }
+
+    private function setSocketTimeout()
+    {
+        if (!$this->streamSetTimeout()) {
+            throw new \UnexpectedValueException("Failed setting timeout with stream_set_timeout()");
+        }
+    }
+
+    private function setStreamChunkSize()
+    {
+        if ($this->chunkSize && !$this->streamSetChunkSize()) {
+            throw new \UnexpectedValueException("Failed setting chunk size with stream_set_chunk_size()");
+        }
+    }
+
+    private function writeToSocket($data)
+    {
+        $length = strlen($data);
+        $sent = 0;
+        $this->lastSentBytes = $sent;
+        while ($this->isConnected() && $sent < $length) {
+            if (0 == $sent) {
+                $chunk = $this->fwrite($data);
+            } else {
+                $chunk = $this->fwrite(substr($data, $sent));
+            }
+            if ($chunk === false) {
+                throw new \RuntimeException("Could not write to socket");
+            }
+            $sent += $chunk;
+            $socketInfo = $this->streamGetMetadata();
+            if ($socketInfo['timed_out']) {
+                throw new \RuntimeException("Write timed-out");
+            }
+
+            if ($this->writingIsTimedOut($sent)) {
+                throw new \RuntimeException("Write timed-out, no data sent for `{$this->writingTimeout}` seconds, probably we got disconnected (sent $sent of $length)");
+            }
+        }
+        if (!$this->isConnected() && $sent < $length) {
+            throw new \RuntimeException("End-of-file reached, probably we got disconnected (sent $sent of $length)");
+        }
+    }
+
+    private function writingIsTimedOut($sent)
+    {
+        $writingTimeout = (int) floor($this->writingTimeout);
+        if (0 === $writingTimeout) {
+            return false;
+        }
+
+        if ($sent !== $this->lastSentBytes) {
+            $this->lastWritingAt = time();
+            $this->lastSentBytes = $sent;
+
+            return false;
+        } else {
+            usleep(100);
+        }
+
+        if ((time() - $this->lastWritingAt) >= $writingTimeout) {
+            $this->closeSocket();
+
+            return true;
+        }
+
+        return false;
+    }
+}

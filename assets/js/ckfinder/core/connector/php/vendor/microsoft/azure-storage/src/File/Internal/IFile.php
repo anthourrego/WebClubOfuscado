@@ -1,300 +1,1164 @@
-<?php //ICB0 56:0 71:2fd4                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\File\Internal
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2017 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+ 
+namespace MicrosoftAzure\Storage\File\Internal;
 
-?>
-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
+use MicrosoftAzure\Storage\File\Models as FileModels;
+use MicrosoftAzure\Storage\Common\Models\ServiceOptions;
+use MicrosoftAzure\Storage\Common\Models\ServiceProperties;
+use MicrosoftAzure\Storage\Common\Models\Range;
+
+/**
+ * This interface has all REST APIs provided by Windows Azure for File service.
+ *
+ * @ignore
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\File\Internal
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2017 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ * @see       https://docs.microsoft.com/en-us/rest/api/storageservices/file-service-rest-api
+ */
+interface IFile
+{
+    /**
+    * Gets the properties of the service.
+    *
+    * @param ServiceOptions $options optional service options.
+    *
+    * @return GetServicePropertiesResult
+    *
+    * @see https://docs.microsoft.com/en-us/rest/api/storageservices/get-file-service-properties
+    */
+    public function getServiceProperties(ServiceOptions $options = null);
+
+    /**
+     * Creates promise to get the properties of the service.
+     *
+     * @param ServiceOptions $options The optional parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/get-file-service-properties
+     */
+    public function getServicePropertiesAsync(ServiceOptions $options = null);
+
+    /**
+    * Sets the properties of the service.
+    *
+    * @param ServiceProperties $serviceProperties new service properties
+    * @param ServiceOptions    $options           optional parameters
+    *
+    * @return void
+    *
+    * @see https://docs.microsoft.com/en-us/rest/api/storageservices/set-file-service-properties
+    */
+    public function setServiceProperties(
+        ServiceProperties $serviceProperties,
+        ServiceOptions    $options = null
+    );
+
+    /**
+     * Creates the promise to set the properties of the service.
+     *
+     * It's recommended to use getServiceProperties, alter the returned object and
+     * then use setServiceProperties with this altered object.
+     *
+     * @param ServiceProperties $serviceProperties new service properties.
+     * @param ServiceOptions    $options           optional parameters
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/set-file-service-properties
+     */
+    public function setServicePropertiesAsync(
+        ServiceProperties $serviceProperties,
+        ServiceOptions    $options = null
+    );
+
+    /**
+     * Returns a list of the shares under the specified account
+     *
+     * @param  FileModels\ListSharesOptions|null $options The optional parameters
+     *
+     * @return FileModels\ListSharesResult
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/list-shares
+     */
+    public function listShares(FileModels\ListSharesOptions $options = null);
+
+    /**
+     * Create a promise to return a list of the shares under the specified account
+     *
+     * @param  FileModels\ListSharesOptions|null $options The optional parameters
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/list-shares
+     */
+    public function listSharesAsync(FileModels\ListSharesOptions $options = null);
+
+    /**
+     * Creates a new share in the given storage account.
+     *
+     * @param string                             $share   The share name.
+     * @param FileModels\CreateShareOptions|null $options The optional parameters.
+     *
+     * @return void
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/create-share
+     */
+    public function createShare(
+        $share,
+        FileModels\CreateShareOptions $options = null
+    );
+
+    /**
+     * Creates promise to create a new share in the given storage account.
+     *
+     * @param string                             $share   The share name.
+     * @param FileModels\CreateShareOptions|null $options The optional parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/create-share
+     */
+    public function createShareAsync(
+        $share,
+        FileModels\CreateShareOptions $options = null
+    );
+
+    /**
+     * Deletes a share in the given storage account.
+     *
+     * @param string                             $share   The share name.
+     * @param FileModels\FileServiceOptions|null $options optional parameters
+     *
+     * @return void
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/delete-share
+     */
+    public function deleteShare(
+        $share,
+        FileModels\FileServiceOptions $options = null
+    );
+
+    /**
+     * Create a promise for deleting a share.
+     *
+     * @param  string                             $share   name of the share
+     * @param  FileModels\FileServiceOptions|null $options optional parameters
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/delete-share
+     */
+    public function deleteShareAsync(
+        $share,
+        FileModels\FileServiceOptions $options = null
+    );
+
+    /**
+     * Returns all properties and metadata on the share.
+     *
+     * @param string                             $share   name
+     * @param FileModels\FileServiceOptions|null $options optional parameters
+     *
+     * @return FileModels\GetSharePropertiesResult
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/get-share-properties
+     */
+    public function getShareProperties(
+        $share,
+        FileModels\FileServiceOptions $options = null
+    );
+
+    /**
+     * Create promise to return all properties and metadata on the share.
+     *
+     * @param string                             $share   name
+     * @param FileModels\FileServiceOptions|null $options optional parameters
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/get-share-properties
+     */
+    public function getSharePropertiesAsync(
+        $share,
+        FileModels\FileServiceOptions $options = null
+    );
+
+    /**
+     * Sets quota of the share.
+     *
+     * @param string                             $share   name
+     * @param int                                $quota   quota of the share
+     * @param FileModels\FileServiceOptions|null $options optional parameters
+     *
+     * @return void
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/set-share-properties
+     */
+    public function setShareProperties(
+        $share,
+        $quota,
+        FileModels\FileServiceOptions $options = null
+    );
+
+    /**
+     * Creates promise to set quota the share.
+     *
+     * @param string                             $share   name
+     * @param int                                $quota   quota of the share
+     * @param FileModels\FileServiceOptions|null $options optional parameters
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/set-share-properties
+     */
+    public function setSharePropertiesAsync(
+        $share,
+        $quota,
+        FileModels\FileServiceOptions $options = null
+    );
+
+    /**
+     * Returns only user-defined metadata for the specified share.
+     *
+     * @param string                             $share   name
+     * @param FileModels\FileServiceOptions|null $options optional parameters
+     *
+     * @return FileModels\GetSharePropertiesResult
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/get-share-metadata
+     */
+    public function getShareMetadata(
+        $share,
+        FileModels\FileServiceOptions $options = null
+    );
+
+    /**
+    * Create promise to return only user-defined metadata for the specified
+    * share.
+    *
+    * @param string                             $share   name
+    * @param FileModels\FileServiceOptions|null $options optional parameters
+    *
+    * @return \GuzzleHttp\Promise\PromiseInterface
+    *
+    * @see https://docs.microsoft.com/en-us/rest/api/storageservices/get-share-metadata
+    */
+    public function getShareMetadataAsync(
+        $share,
+        FileModels\FileServiceOptions $options = null
+    );
+
+    /**
+     * Updates metadata of the share.
+     *
+     * @param string                             $share    name
+     * @param array                              $metadata metadata key/value pair.
+     * @param FileModels\FileServiceOptions|null $options optional  parameters
+     *
+     * @return void
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/set-share-metadata
+     */
+    public function setShareMetadata(
+        $share,
+        array $metadata,
+        FileModels\FileServiceOptions $options = null
+    );
+
+    /**
+     * Creates promise to update metadata headers on the share.
+     *
+     * @param string                             $share    name
+     * @param array                              $metadata metadata key/value pair.
+     * @param FileModels\FileServiceOptions|null $options optional  parameters
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/set-share-metadata
+     */
+    public function setShareMetadataAsync(
+        $share,
+        array $metadata,
+        FileModels\FileServiceOptions $options = null
+    );
+
+    /**
+     * Gets the access control list (ACL) for the share.
+     *
+     * @param string                             $share   The share name.
+     * @param FileModels\FileServiceOptions|null $options The optional parameters.
+     *
+     * @return FileModels\GetShareACLResult
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/get-share-acl
+     */
+    public function getShareAcl(
+        $share,
+        FileModels\FileServiceOptions $options = null
+    );
+
+    /**
+     * Creates the promise to get the access control list (ACL) for the share.
+     *
+     * @param string                             $share   The share name.
+     * @param FileModels\FileServiceOptions|null $options The optional parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/get-share-acl
+     */
+    public function getShareAclAsync(
+        $share,
+        FileModels\FileServiceOptions $options = null
+    );
+
+    /**
+     * Sets the ACL and any share-level access policies for the share.
+     *
+     * @param string                             $share   name
+     * @param FileModels\ShareACL                $acl     access control list
+     *                                                    for share
+     * @param FileModels\FileServiceOptions|null $options optional parameters
+     *
+     * @return void
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/set-share-acl
+     */
+    public function setShareAcl(
+        $share,
+        FileModels\ShareACL $acl,
+        FileModels\FileServiceOptions $options = null
+    );
+
+    /**
+     * Creates promise to set the ACL and any share-level access policies
+     * for the share.
+     *
+     * @param string                             $share   name
+     * @param FileModels\ShareACL                $acl     access control list
+     * for share
+     * @param FileModels\FileServiceOptions|null $options optional parameters
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/set-share-acl
+     */
+    public function setShareAclAsync(
+        $share,
+        FileModels\ShareACL $acl,
+        FileModels\FileServiceOptions $options = null
+    );
+
+    /**
+     * Get the statistics related to the share.
+     *
+     * @param  string                             $share   The name of the share.
+     * @param  FileModels\FileServiceOptions|null $options The request options.
+     *
+     * @return FileModels\GetShareStatsResult
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/get-share-stats
+     */
+    public function getShareStats(
+        $share,
+        FileModels\FileServiceOptions $options = null
+    );
+
+    /**
+     * Get the statistics related to the share.
+     *
+     * @param  string                             $share   The name of the share.
+     * @param  FileModels\FileServiceOptions|null $options The request options.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/get-share-stats
+     */
+    public function getShareStatsAsync(
+        $share,
+        FileModels\FileServiceOptions $options = null
+    );
+
+    /**
+     * List directories and files under specified path.
+     *
+     * @param  string                              $share   The share that
+     *                                                      contains all the
+     *                                                      files and directories.
+     * @param  string                              $path    The path to be listed.
+     * @param  FileModels\ListDirectoriesAndFilesOptions|null $options Optional parameters.
+     *
+     * @return FileModels\ListDirectoriesAndFilesResult
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/list-directories-and-files
+     */
+    public function listDirectoriesAndFiles(
+        $share,
+        $path = '',
+        FileModels\ListDirectoriesAndFilesOptions $options = null
+    );
+
+    /**
+     * Creates promise to list directories and files under specified path.
+     *
+     * @param  string                              $share   The share that
+     *                                                      contains all the
+     *                                                      files and directories.
+     * @param  string                              $path    The path to be listed.
+     * @param  FileModels\ListDirectoriesAndFilesOptions|null $options Optional parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/list-directories-and-files
+     */
+    public function listDirectoriesAndFilesAsync(
+        $share,
+        $path = '',
+        FileModels\ListDirectoriesAndFilesOptions $options = null
+    );
+
+    /**
+     * Creates a new directory in the given share and path.
+     *
+     * @param string                                 $share     The share name.
+     * @param string                                 $path      The path to
+     *                                                          create the directory.
+     * @param FileModels\CreateDirectoryOptions|null $options   The optional parameters.
+     *
+     * @return void
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/create-directory
+     */
+    public function createDirectory(
+        $share,
+        $path,
+        FileModels\CreateDirectoryOptions $options = null
+    );
+
+    /**
+     * Creates a promise to create a new directory in the given share and path.
+     *
+     * @param string                                 $share     The share name.
+     * @param string                                 $path      The path to
+     *                                                          create the directory.
+     * @param FileModels\CreateDirectoryOptions|null $options   The optional parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/create-directory
+     */
+    public function createDirectoryAsync(
+        $share,
+        $path,
+        FileModels\CreateDirectoryOptions $options = null
+    );
+
+    /**
+     * Deletes a directory in the given share and path.
+     *
+     * @param string                             $share     The share name.
+     * @param string                             $path      The path to delete
+     *                                                      the directory.
+     * @param FileModels\FileServiceOptions|null $options   The optional parameters.
+     *
+     * @return void
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/delete-directory
+     */
+    public function deleteDirectory(
+        $share,
+        $path,
+        FileModels\FileServiceOptions $options = null
+    );
+
+    /**
+     * Creates a promise to delete a new directory in the given share and path.
+     *
+     * @param string                             $share     The share name.
+     * @param string                             $path      The path to delete
+     *                                                      the directory.
+     * @param FileModels\FileServiceOptions|null $options   The optional parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/delete-directory
+     */
+    public function deleteDirectoryAsync(
+        $share,
+        $path,
+        FileModels\FileServiceOptions $options = null
+    );
+
+    /**
+     * Gets a directory's properties from the given share and path.
+     *
+     * @param string                            $share     The share name.
+     * @param string                            $path      The path of the directory.
+     * @param FileModelsFileServiceOptions|null $options   The optional parameters.
+     *
+     * @return FileModels\GetDirectoryPropertiesResult
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/get-directory-properties
+     */
+    public function getDirectoryProperties(
+        $share,
+        $path,
+        FileModels\FileServiceOptions $options = null
+    );
+
+    /**
+     * Creates promise to get a directory's properties from the given share
+     * and path.
+     *
+     * @param string                            $share     The share name.
+     * @param string                            $path      The path of the directory.
+     * @param FileModelsFileServiceOptions|null $options   The optional parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/get-directory-properties
+     */
+    public function getDirectoryPropertiesAsync(
+        $share,
+        $path,
+        FileModels\FileServiceOptions $options = null
+    );
+
+    /**
+     * Gets a directory's metadata from the given share and path.
+     *
+     * @param string                             $share     The share name.
+     * @param string                             $path      The path of the directory.
+     * @param FileModels\FileServiceOptions|null $options   The optional parameters.
+     *
+     * @return FileModels\GetDirectoryMetadataResult
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/get-directory-metadata
+     */
+    public function getDirectoryMetadata(
+        $share,
+        $path,
+        FileModels\FileServiceOptions $options = null
+    );
+
+    /**
+     * Creates promise to get a directory's metadata from the given share
+     * and path.
+     *
+     * @param string                             $share     The share name.
+     * @param string                             $path      The path of the directory.
+     * @param FileModels\FileServiceOptions|null $options   The optional parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/get-directory-metadata
+     */
+    public function getDirectoryMetadataAsync(
+        $share,
+        $path,
+        FileModels\FileServiceOptions $options = null
+    );
+
+    /**
+     * Sets a directory's metadata from the given share and path.
+     *
+     * @param string                             $share     The share name.
+     * @param string                             $path      The path to delete
+     *                                                      the directory.
+     * @param array                              $metadata  The metadata to be set.
+     * @param FileModels\FileServiceOptions|null $options   The optional parameters.
+     *
+     * @return void
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/set-directory-metadata
+     */
+    public function setDirectoryMetadata(
+        $share,
+        $path,
+        array $metadata,
+        FileModels\FileServiceOptions $options = null
+    );
+
+    /**
+     * Creates promise to set a directory's metadata from the given share
+     * and path.
+     *
+     * @param string                             $share     The share name.
+     * @param string                             $path      The path to delete
+     *                                                      the directory.
+     * @param array                              $metadata  The metadata to be set.
+     * @param FileModels\FileServiceOptions|null $options   The optional parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/set-directory-metadata
+     */
+    public function setDirectoryMetadataAsync(
+        $share,
+        $path,
+        array $metadata,
+        FileModels\FileServiceOptions $options = null
+    );
+
+    /**
+     * Create a new file.
+     *
+     * @param string                            $share   The share name.
+     * @param string                            $path    The path and name of the file.
+     * @param int                               $size    The size of the file.
+     * @param FileModels\CreateFileOptions|null $options The optional parameters.
+     *
+     * @return void
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/create-file
+     */
+    public function createFile(
+        $share,
+        $path,
+        $size,
+        FileModels\CreateFileOptions $options = null
+    );
+
+    /**
+     * Creates promise to create a new file.
+     *
+     * @param string                            $share   The share name.
+     * @param string                            $path    The path and name of the file.
+     * @param int                               $size    The size of the file.
+     * @param FileModels\CreateFileOptions|null $options The optional parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/create-file
+     */
+    public function createFileAsync(
+        $share,
+        $path,
+        $size,
+        FileModels\CreateFileOptions $options = null
+    );
+
+    /**
+     * Deletes a file in the given share and path.
+     *
+     * @param string                             $share     The share name.
+     * @param string                             $path      The path to delete the file.
+     * @param FileModels\FileServiceOptions|null $options   The optional parameters.
+     *
+     * @return void
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/delete-file2
+     */
+    public function deleteFile(
+        $share,
+        $path,
+        FileModels\FileServiceOptions $options = null
+    );
+
+    /**
+     * Creates a promise to delete a new file in the given share and path.
+     *
+     * @param string                             $share     The share name.
+     * @param string                             $path      The path to delete the file.
+     * @param FileModels\FileServiceOptions|null $options   The optional parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/delete-file2
+     */
+    public function deleteFileAsync(
+        $share,
+        $path,
+        FileModels\FileServiceOptions $options = null
+    );
+
+    /**
+     * Reads or downloads a file from the server, including its metadata and
+     * properties.
+     *
+     * @param string                         $share   name of the share
+     * @param string                         $path    path of the file to be get
+     * @param FileModels\GetFileOptions|null $options optional parameters
+     *
+     * @return FileModels\GetFileResult
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/get-file
+     */
+    public function getFile(
+        $share,
+        $path,
+        FileModels\GetFileOptions $options = null
+    );
+
+    /**
+     * Creates promise to read or download a file from the server, including its
+     * metadata and properties.
+     *
+     * @param string                         $share   name of the share
+     * @param string                         $path    path of the file to be get
+     * @param FileModels\GetFileOptions|null $options optional parameters
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/get-file
+     */
+    public function getFileAsync(
+        $share,
+        $path,
+        FileModels\GetFileOptions $options = null
+    );
+
+    /**
+     * Gets a file's properties from the given share and path.
+     *
+     * @param string                             $share     The share name.
+     * @param string                             $path      The path to delete the file.
+     * @param FileModels\FileServiceOptions|null $options   The optional parameters.
+     *
+     * @return FileModels\FileProperties
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/get-file-properties
+     */
+    public function getFileProperties(
+        $share,
+        $path,
+        FileModels\FileServiceOptions $options = null
+    );
+
+    /**
+     * Creates promise to get a file's properties from the given share
+     * and path.
+     *
+     * @param string                             $share     The share name.
+     * @param string                             $path      The path to delete the file.
+     * @param FileModels\FileServiceOptions|null $options   The optional parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/get-file-properties
+     */
+    public function getFilePropertiesAsync(
+        $share,
+        $path,
+        FileModels\FileServiceOptions $options = null
+    );
+
+    /**
+     * Sets properties on the file.
+     *
+     * @param string                             $share      share name
+     * @param string                             $path       path of the file
+     * @param FileModels\FileProperties          $properties file properties.
+     * @param FileModels\FileServiceOptions|null $options    optional     parameters
+     *
+     * @return void
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/set-file-properties
+     */
+    public function setFileProperties(
+        $share,
+        $path,
+        FileModels\FileProperties $properties,
+        FileModels\FileServiceOptions $options = null
+    );
+
+    /**
+     * Creates promise to set properties on the file.
+     *
+     * @param string                             $share      share name
+     * @param string                             $path       path of the file
+     * @param FileModels\FileProperties          $properties file properties.
+     * @param FileModels\FileServiceOptions|null $options    optional     parameters
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/set-file-properties
+     */
+    public function setFilePropertiesAsync(
+        $share,
+        $path,
+        FileModels\FileProperties $properties,
+        FileModels\FileServiceOptions $options = null
+    );
+
+    /**
+     * Gets a file's metadata from the given share and path.
+     *
+     * @param string                             $share     The share name.
+     * @param string                             $path      The path of the file.
+     * @param FileModels\FileServiceOptions|null $options   The optional parameters.
+     *
+     * @return FileModels\GetFileMetadataResult
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/get-file-metadata
+     */
+    public function getFileMetadata(
+        $share,
+        $path,
+        FileModels\FileServiceOptions $options = null
+    );
+
+    /**
+     * Creates promise to get a file's metadata from the given share
+     * and path.
+     *
+     * @param string                             $share     The share name.
+     * @param string                             $path      The path of the file.
+     * @param FileModels\FileServiceOptions|null $options   The optional parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/get-file-metadata
+     */
+    public function getFileMetadataAsync(
+        $share,
+        $path,
+        FileModels\FileServiceOptions $options = null
+    );
+
+    /**
+     * Sets a file's metadata from the given share and path.
+     *
+     * @param string                             $share     The share name.
+     * @param string                             $path      The path to delete the file.
+     * @param array                              $metadata  The metadata to be set.
+     * @param FileModels\FileServiceOptions|null $options   The optional parameters.
+     *
+     * @return void
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/set-file-metadata
+     */
+    public function setFileMetadata(
+        $share,
+        $path,
+        array $metadata,
+        FileModels\FileServiceOptions $options = null
+    );
+
+    /**
+     * Creates promise to set a file's metadata from the given share
+     * and path.
+     *
+     * @param string                             $share     The share name.
+     * @param string                             $path      The path to delete the file.
+     * @param array                              $metadata  The metadata to be set.
+     * @param FileModels\FileServiceOptions|null $options   The optional parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/set-file-metadata
+     */
+    public function setFileMetadataAsync(
+        $share,
+        $path,
+        array $metadata,
+        FileModels\FileServiceOptions $options = null
+    );
+
+    /**
+     * Writes range of bytes to a file. Range can be at most 4MB in length.
+     *
+     * @param  string                              $share   The share name.
+     * @param  string                              $path    The path of the file.
+     * @param  string|resource|StreamInterface     $content The content to be uploaded.
+     * @param  Range                               $range   The range in the file to
+     *                                                      be put.
+     * @param  FileModels\PutFileRangeOptions|null $options The optional parameters.
+     *
+     * @return void
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/put-range
+     */
+    public function putFileRange(
+        $share,
+        $path,
+        $content,
+        Range $range,
+        FileModels\PutFileRangeOptions $options = null
+    );
+
+    /**
+     * Creates promise to write range of bytes to a file. Range can be at most
+     * 4MB in length.
+     *
+     * @param  string                              $share   The share name.
+     * @param  string                              $path    The path of the file.
+     * @param  string|resource|StreamInterface     $content The content to be uploaded.
+     * @param  Range                               $range   The range in the file to
+     *                                                      be put.
+     * @param  FileModels\PutFileRangeOptions|null $options The optional parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/put-range
+     *
+     */
+    public function putFileRangeAsync(
+        $share,
+        $path,
+        $content,
+        Range $range,
+        FileModels\PutFileRangeOptions $options = null
+    );
+
+    /**
+     * Creates a file from a provided content.
+     *
+     * @param  string                            $share   the share name
+     * @param  string                            $path    the path of the file
+     * @param  StreamInterface|resource|string   $content the content used to
+     *                                                    create the file
+     * @param  FileModels\CreateFileOptions|null $options optional parameters
+     *
+     * @return void
+     */
+    public function createFileFromContent(
+        $share,
+        $path,
+        $content,
+        FileModels\CreateFileOptions $options = null
+    );
+
+    /**
+     * Creates a promise to create a file from a provided content.
+     *
+     * @param  string                            $share   the share name
+     * @param  string                            $path    the path of the file
+     * @param  StreamInterface|resource|string   $content the content used to
+     *                                                    create the file
+     * @param  FileModels\CreateFileOptions|null $options optional parameters
+     *
+     * @return void
+     */
+    public function createFileFromContentAsync(
+        $share,
+        $path,
+        $content,
+        FileModels\CreateFileOptions $options = null
+    );
+
+    /**
+     * Clears range of bytes of a file. If the specified range is not 512-byte
+     * aligned, the operation will write zeros to the start or end of the range
+     * that is not 512-byte aligned and free the rest of the range inside that
+     * is 512-byte aligned.
+     *
+     * @param  string                             $share   The share name.
+     * @param  string                             $path    The path of the file.
+     * @param  Range                              $range   The range in the file to
+     *                                                     be cleared.
+     * @param  FileModels\FileServiceOptions|null $options The optional parameters.
+     *
+     * @return void
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/put-range
+     */
+    public function clearFileRange(
+        $share,
+        $path,
+        Range $range,
+        FileModels\FileServiceOptions $options = null
+    );
+
+    /**
+     * Creates promise to clear range of bytes of a file. If the specified range
+     * is not 512-byte aligned, the operation will write zeros to the start or
+     * end of the range that is not 512-byte aligned and free the rest of the
+     * range inside that is 512-byte aligned.
+     *
+     * @param  string                             $share   The share name.
+     * @param  string                             $path    The path of the file.
+     * @param  Range                              $range   The range in the file to
+     *                                                     be cleared.
+     * @param  FileModels\FileServiceOptions|null $options The optional parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/put-range
+     *
+     */
+    public function clearFileRangeAsync(
+        $share,
+        $path,
+        Range $range,
+        FileModels\FileServiceOptions $options = null
+    );
+
+    /**
+     * Lists range of bytes of a file.
+     *
+     * @param  string                             $share   The share name.
+     * @param  string                             $path    The path of the file.
+     * @param  Range                              $range   The range in the file to
+     *                                                     be listed.
+     * @param  FileModels\FileServiceOptions|null $options The optional parameters.
+     *
+     * @return FileModels\ListFileRangesResult
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/list-ranges
+     */
+    public function listFileRange(
+        $share,
+        $path,
+        Range $range = null,
+        FileModels\FileServiceOptions $options = null
+    );
+
+    /**
+     * Creates promise to list range of bytes of a file.
+     *
+     * @param  string                             $share   The share name.
+     * @param  string                             $path    The path of the file.
+     * @param  Range                              $range   The range in the file to
+     *                                                     be listed.
+     * @param  FileModels\FileServiceOptions|null $options The optional parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/list-ranges
+     *
+     */
+    public function listFileRangeAsync(
+        $share,
+        $path,
+        Range $range = null,
+        FileModels\FileServiceOptions $options = null
+    );
+
+    /**
+     * Informs server to copy file from $sourcePath to $path.
+     * To copy a file to another file within the same storage account, you may
+     * use Shared Key to authenticate the source file. If you are copying a file
+     * from another storage account, or if you are copying a blob from the same
+     * storage account or another storage account, then you must authenticate
+     * the source file or blob using a shared access signature. If the source is
+     * a public blob, no authentication is required to perform the copy
+     * operation.
+     * Here are some examples of source object URLs:
+     * https://myaccount.file.core.windows.net/myshare/mydirectorypath/myfile
+     * https://myaccount.blob.core.windows.net/mycontainer/myblob?sastoken
+     *
+     * @param  string                             $share      The share name.
+     * @param  string                             $path       The path of the file.
+     * @param  string                             $sourcePath The path of the source.
+     * @param  array                              $metadata   The metadata of
+     *                                                        the file. If
+     *                                                        specified, source
+     *                                                        metadata will not
+     *                                                        be copied.
+     * @param  FileModels\FileServiceOptions|null $options    The optional parameters.
+     *
+     * @return FileModels\CopyFileResult
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/copy-file
+     */
+    public function copyFile(
+        $share,
+        $path,
+        $sourcePath,
+        array $metadata = array(),
+        FileModels\FileServiceOptions $options = null
+    );
+
+    /**
+     * Creates promise to inform server to copy file from $sourcePath to $path.
+     *
+     * To copy a file to another file within the same storage account, you may
+     * use Shared Key to authenticate the source file. If you are copying a file
+     * from another storage account, or if you are copying a blob from the same
+     * storage account or another storage account, then you must authenticate
+     * the source file or blob using a shared access signature. If the source is
+     * a public blob, no authentication is required to perform the copy
+     * operation.
+     * Here are some examples of source object URLs:
+     * https://myaccount.file.core.windows.net/myshare/mydirectorypath/myfile
+     * https://myaccount.blob.core.windows.net/mycontainer/myblob?sastoken
+     *
+     * @param  string                             $share      The share name.
+     * @param  string                             $path       The path of the file.
+     * @param  string                             $sourcePath The path of the source.
+     * @param  array                              $metadata   The metadata of
+     *                                                        the file. If
+     *                                                        specified, source
+     *                                                        metadata will not
+     *                                                        be copied.
+     * @param  FileModels\FileServiceOptions|null $options    The optional parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/copy-file
+     *
+     */
+    public function copyFileAsync(
+        $share,
+        $path,
+        $sourcePath,
+        array $metadata = array(),
+        FileModels\FileServiceOptions $options = null
+    );
+
+    /**
+     * Abort a file copy operation
+     *
+     * @param string                             $share   name of the share
+     * @param string                             $path    path of the file
+     * @param string                             $copyID  copy operation identifier.
+     * @param FileModels\FileServiceOptions|null $options optional parameters
+     *
+     * @return void
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/abort-copy-file
+     */
+    public function abortCopy(
+        $share,
+        $path,
+        $copyID,
+        FileModels\FileServiceOptions $options = null
+    );
+
+    /**
+     * Creates promise to abort a file copy operation
+     *
+     * @param string                             $share   name of the share
+     * @param string                             $path    path of the file
+     * @param string                             $copyID  copy operation identifier.
+     * @param FileModels\FileServiceOptions|null $options optional parameters
+     *
+     * @return void
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/abort-copy-file
+     */
+    public function abortCopyAsync(
+        $share,
+        $path,
+        $copyID,
+        FileModels\FileServiceOptions $options = null
+    );
+}

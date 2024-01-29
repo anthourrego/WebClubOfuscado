@@ -1,52 +1,141 @@
-<?php //ICB0 56:0 71:8df                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\CloudDirectory;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cPyLl36hCplHDYTIPIRfTIHIHfLI9ZYoyYFWvcPB9qHifPnf5spkSu5pjc+iDyfislr1c5vYE
-U1fzqHIlc2NhGHfeKlPTRPKizgTk88D+73KJsv/kmWGZBUIDltaszUy089r1lxQ8W62xVbG7I16D
-RsOr4iZN7qS+6HX+dvZdDir50nD6DwPwz3rKtO9gD4yCHz0Je7macsMGD/PgacmL0R2DqMPau+Mk
-Acqs7uXaEEhrBGDvVkWRqvhQArNbnffol98japlka0ByZfvNj8dR7FVJQ+vGmMMi8BKNotduWveW
-Bc8aSbZ/ABAqvQuSHWv55NCjnYAPHZBrKgRlhMuUCDv/UPV9gQqney9Quw7cYh9wqc75D2FGI0CS
-TLKZ7gHoc3eTw1+FSf+MYtBmlHpwyarYTVP9+EuoTyKiDWsz1XH7yGU0J2EnjsT3bkMF/uBfQzaf
-MAax68CNOGd/tWLdtkXGFXq1/7ghokBX7nDkobTldVVQoIhjwDul4/nI1rtBgmgYtl4cMGNI8O2i
-Fwa5G5ZkFV9DVGka+aO0kaHOwjTkYaLHeo4a6I7gEWATIlh2BfJPnS4g3svUueR9OnMKVqC4ec2e
-Ah2lwGNCIbErT21pA2XsgtWTtrBl67PuV6ANeRGOKQ6EEXbulK6A+H0UxUb+aXb7ep1qDcLzr1Fd
-DEohccb2cUSHYi4wg1v8ES81ESj8rYXCvl2RzSl+yyr6eS7dOzTvdvwngapiMjlPZYvIoGASuIif
-JNeZoBaaxiRTVb4VIGrAhbw2TB39XeKBwjhDzSRR5wCT60cVqRt+3GGq32MDm+eAGzBylcZbyT97
-y/x4IxKvNQU8xvOn6Fzc0os5L7tWuWRcoU/Ou4f2ly0LdbxCbMn2deRsQjyWEu9X5KlFwqgFga5L
-BjNwJpNOe1NVXgC96uuNxuX3njJjgmATj4kkq/FxkZA8DXvGN0kheCF+muZjsAPYRkOfhRDbhhEA
-tdmIwpljN2+XcLeMLF6m6w31Po/pFesS5rKCAsfWZnoqemya37wWWd0zBaYr3A2+IbvPkUT9S5vu
-Y4cc38IfePIk99LWH+Fe4EPx9w+UZGVH7W+XjiT4/G56Fe7A2jB4IvO+AAh3eFgFhdy+C23WV9KM
-xxN1/juKGouTEq/MKxvI4j0MJYrOAt7COADb+R7Mtx/AH+5q45NXeSXhRdPL5vfK6bmavNisqAgz
-wi0gy9VITj1wBMwNkV666LXI7a19xnXpsp7d9kNUPlETkBPNnw8VN8Bh/QFTwTcRyn5h4IzoHK2R
-er6X1z3I76wng8sO4SXX1yhkGLIrp722tm+tdEHpJ+YhUrGsW6PGtkHBStKFBbK20r2moWDPek/u
-paDMiO2FYH4==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use Aws\AwsClient;
 
-?>
-HR+cPmx5RLG95bQSr7puTmm29a+MDqPVe+Z2+SaxzEjSlShuy9tJWaN07GmgwtI0aOND1ru+0iO2
-bxVuHcgQrnzE9qkrV1BBkK5CGsHS/K2Jmv/+SGWLVnMPV1sLpHjkeIL7nYsmvlh4QhApYn5YonhI
-ffRiPVg2qMg1FKUEs7dvugl2G7D5uLUjuhNOZD4qv9vdD2Dw4ZyDqZL/DSFbzxfpJNMJXvQIo/2Y
-L+XjnhNisHbk5eFE+pbo40aA+ynvKdxM29d93fQCiXVt9JsiVp1S6WJbXmIIQbG436bRWdPby6xJ
-53Pm8l/L1nySUnsoy00SA+GXWaZSMkiIp6b18GyV7TSAftd5SEBGQBgsKfQ6WGX07OY05VVzaBmt
-PJ2eUvtnBTd4gCmK4av4Z9DR5QQtGK1ETnggu3Sp6BJw4ii//Pwnmp7QAmUwd/tJRkbsnclowfR+
-wEr22CO3ZxDhJkE7Q7wZg8OUXjcz48pkOcn6jpNp0P5Y/NWcd2YGYcnhgRAC2r5Di9mi29+Feu5F
-TaHTGejKoNWSGC2EYCOUBref4YAzROKCP7Sr2jNFJ0s0iRtVvxDMExG3idF4SRcceRe6pHZjOrPh
-kAEacri5fI71XosSWMVmILFDgE13A7Ypk63//Rh3jw9W/ofmkO//gaAK/j6v8oEyXvA8lbnYtcM7
-/VwQWc8GUV6koFhjiG4bYHa5dhnNn384KNm/3ltHWSACtozqc1gcS6unxQY4fh/6D/nShFUIdGt/
-osnJ4RbocFzwQEMS6/m+hYwPmrBJxyMGoRLOCuMZVoxvGTygdRukNe3XJ3RvnHuly4T3Rv3loxu6
-3pEVSaIXV59fLbL4OA4kGDg2G33nDQeDwbto/RLlwk0dtEg3OLPu8BH5kGCUdt3IFbO7l3fkA2Uk
-l14g2fZ383vTg+6FeF2Dh/fMQSJadxbFcR64+n+DZHSsQV0NQaykKpsjFbpmjmzcbjDAOkMcrQ4J
-RcOembR/YhUYxITD0fnD9pxtHr3cmaAx8cJdslxHgIfRg57Y8nS5NPmJ7yNIDQe+1KEIk8etuAEs
-pVbunLyo1Tp2TQMP88vJCh8k9qZSCJcOCafABzi62zDA8HQIBFD1lZdYPrHeQ7r0aPtd8Jalj6lY
-NjAldlB5crWPrcH06na5uy0vsUyCXjwHsXTfFk4oEJZHw5cQ1ksiD9dndsUuTyyu0hnpNM0EyznQ
-8ERwQdy5kXw3M8PNCgcyWeR30Mkaydo6KcVDjO9VITHyq3+AKTj77yJIWqrCsTkl/PmGPwfGx7DM
-buZ2cfpJt8iamoqsd4Z1hexySOLRGqYo+8S/nYjVK972SqjzZa5+uAyFwLURBJe3rDHfOCP/NuOT
-MUdweaSIifcs0HT/tKjbCaFC2QcuXHOPh7kMOL+ZU9r4oOBGae1btuSDR+/41gBnisPuteQj8QZt
-Z0==
+/**
+ * This client is used to interact with the **Amazon CloudDirectory** service.
+ * @method \Aws\Result addFacetToObject(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise addFacetToObjectAsync(array $args = [])
+ * @method \Aws\Result applySchema(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise applySchemaAsync(array $args = [])
+ * @method \Aws\Result attachObject(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise attachObjectAsync(array $args = [])
+ * @method \Aws\Result attachPolicy(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise attachPolicyAsync(array $args = [])
+ * @method \Aws\Result attachToIndex(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise attachToIndexAsync(array $args = [])
+ * @method \Aws\Result attachTypedLink(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise attachTypedLinkAsync(array $args = [])
+ * @method \Aws\Result batchRead(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise batchReadAsync(array $args = [])
+ * @method \Aws\Result batchWrite(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise batchWriteAsync(array $args = [])
+ * @method \Aws\Result createDirectory(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createDirectoryAsync(array $args = [])
+ * @method \Aws\Result createFacet(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createFacetAsync(array $args = [])
+ * @method \Aws\Result createIndex(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createIndexAsync(array $args = [])
+ * @method \Aws\Result createObject(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createObjectAsync(array $args = [])
+ * @method \Aws\Result createSchema(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createSchemaAsync(array $args = [])
+ * @method \Aws\Result createTypedLinkFacet(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createTypedLinkFacetAsync(array $args = [])
+ * @method \Aws\Result deleteDirectory(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteDirectoryAsync(array $args = [])
+ * @method \Aws\Result deleteFacet(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteFacetAsync(array $args = [])
+ * @method \Aws\Result deleteObject(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteObjectAsync(array $args = [])
+ * @method \Aws\Result deleteSchema(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteSchemaAsync(array $args = [])
+ * @method \Aws\Result deleteTypedLinkFacet(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteTypedLinkFacetAsync(array $args = [])
+ * @method \Aws\Result detachFromIndex(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise detachFromIndexAsync(array $args = [])
+ * @method \Aws\Result detachObject(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise detachObjectAsync(array $args = [])
+ * @method \Aws\Result detachPolicy(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise detachPolicyAsync(array $args = [])
+ * @method \Aws\Result detachTypedLink(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise detachTypedLinkAsync(array $args = [])
+ * @method \Aws\Result disableDirectory(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise disableDirectoryAsync(array $args = [])
+ * @method \Aws\Result enableDirectory(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise enableDirectoryAsync(array $args = [])
+ * @method \Aws\Result getAppliedSchemaVersion(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getAppliedSchemaVersionAsync(array $args = [])
+ * @method \Aws\Result getDirectory(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getDirectoryAsync(array $args = [])
+ * @method \Aws\Result getFacet(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getFacetAsync(array $args = [])
+ * @method \Aws\Result getLinkAttributes(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getLinkAttributesAsync(array $args = [])
+ * @method \Aws\Result getObjectAttributes(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getObjectAttributesAsync(array $args = [])
+ * @method \Aws\Result getObjectInformation(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getObjectInformationAsync(array $args = [])
+ * @method \Aws\Result getSchemaAsJson(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getSchemaAsJsonAsync(array $args = [])
+ * @method \Aws\Result getTypedLinkFacetInformation(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getTypedLinkFacetInformationAsync(array $args = [])
+ * @method \Aws\Result listAppliedSchemaArns(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listAppliedSchemaArnsAsync(array $args = [])
+ * @method \Aws\Result listAttachedIndices(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listAttachedIndicesAsync(array $args = [])
+ * @method \Aws\Result listDevelopmentSchemaArns(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listDevelopmentSchemaArnsAsync(array $args = [])
+ * @method \Aws\Result listDirectories(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listDirectoriesAsync(array $args = [])
+ * @method \Aws\Result listFacetAttributes(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listFacetAttributesAsync(array $args = [])
+ * @method \Aws\Result listFacetNames(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listFacetNamesAsync(array $args = [])
+ * @method \Aws\Result listIncomingTypedLinks(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listIncomingTypedLinksAsync(array $args = [])
+ * @method \Aws\Result listIndex(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listIndexAsync(array $args = [])
+ * @method \Aws\Result listObjectAttributes(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listObjectAttributesAsync(array $args = [])
+ * @method \Aws\Result listObjectChildren(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listObjectChildrenAsync(array $args = [])
+ * @method \Aws\Result listObjectParentPaths(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listObjectParentPathsAsync(array $args = [])
+ * @method \Aws\Result listObjectParents(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listObjectParentsAsync(array $args = [])
+ * @method \Aws\Result listObjectPolicies(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listObjectPoliciesAsync(array $args = [])
+ * @method \Aws\Result listOutgoingTypedLinks(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listOutgoingTypedLinksAsync(array $args = [])
+ * @method \Aws\Result listPolicyAttachments(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listPolicyAttachmentsAsync(array $args = [])
+ * @method \Aws\Result listPublishedSchemaArns(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listPublishedSchemaArnsAsync(array $args = [])
+ * @method \Aws\Result listTagsForResource(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listTagsForResourceAsync(array $args = [])
+ * @method \Aws\Result listTypedLinkFacetAttributes(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listTypedLinkFacetAttributesAsync(array $args = [])
+ * @method \Aws\Result listTypedLinkFacetNames(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listTypedLinkFacetNamesAsync(array $args = [])
+ * @method \Aws\Result lookupPolicy(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise lookupPolicyAsync(array $args = [])
+ * @method \Aws\Result publishSchema(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise publishSchemaAsync(array $args = [])
+ * @method \Aws\Result putSchemaFromJson(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise putSchemaFromJsonAsync(array $args = [])
+ * @method \Aws\Result removeFacetFromObject(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise removeFacetFromObjectAsync(array $args = [])
+ * @method \Aws\Result tagResource(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise tagResourceAsync(array $args = [])
+ * @method \Aws\Result untagResource(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise untagResourceAsync(array $args = [])
+ * @method \Aws\Result updateFacet(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateFacetAsync(array $args = [])
+ * @method \Aws\Result updateLinkAttributes(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateLinkAttributesAsync(array $args = [])
+ * @method \Aws\Result updateObjectAttributes(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateObjectAttributesAsync(array $args = [])
+ * @method \Aws\Result updateSchema(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateSchemaAsync(array $args = [])
+ * @method \Aws\Result updateTypedLinkFacet(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateTypedLinkFacetAsync(array $args = [])
+ * @method \Aws\Result upgradeAppliedSchema(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise upgradeAppliedSchemaAsync(array $args = [])
+ * @method \Aws\Result upgradePublishedSchema(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise upgradePublishedSchemaAsync(array $args = [])
+ * @method \Aws\Result listManagedSchemaArns(array $args = []) (supported in versions 2017-01-11)
+ * @method \GuzzleHttp\Promise\Promise listManagedSchemaArnsAsync(array $args = []) (supported in versions 2017-01-11)
+ */
+class CloudDirectoryClient extends AwsClient {}

@@ -1,120 +1,181 @@
-<?php //ICB0 56:0 71:1287                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cPyto1OhIKlwjgq2GgJR7HRxQlNpEuPKi+ewuIodgskVENHVgBTfxXbwQHp6HQlaeD5+WL2Iq
-AAx0IJrOeMlggxteJsGuJBW7OjZFcxvkFZsmNqExBBqbuVYeaSPlv2uuqe/trIBrlscKwL2afBRQ
-yR3gU2OuUa8kb8WUCNqc6evKXyzOcADVnieXLtBM9CibC15UC0RsvwQf6rDDtKuLtZ0zYm9vRrbY
-oMeaYuGYkJPj9iWjNlSJhsaYAmV0X0lYtwh2xf02/8wULxI9snptqslkK7XhKCKEYtEuKmW9pywc
-W3ro/+r4TFkiuhc7ATprn+HnlQV1gGn2KlkcjeqxIQynbDDE67+qireCBP3FPmqiTNgNFP3pCf1c
-b3365w/66s0ehz/PQM6Y9l2iCHS+VfpVi/jhBkcofnA5cixdIYwB31y8Sju0GmsQmoTvi14EvTZP
-EI0DNRYJ8+goKM4ocguBD+0vFO/6LTthASUc5Yfb5t4Qt+Ewx+WZ5yzKlQ1hOvuAZSdsfCzsZI1a
-Dgwp9RSJveBBCLUbFX1Oje2IvVR6ostqrnXQS6q40KlqaJYYPGaW08IzwAv42zOvq0ITMjZ/3aS1
-B4K5ieSoO5Nvx4quWp0S8Q5ZEqLvc/9RmJ325PqfEpNGGZvV4XEkIFOR9cOpEOmpbPw+AuhOOnc4
-iD4FruU/NrVunD7yMzmFDbVq19irjKYj6NSdP8ztnbOYpIh/DfJxHuU0IeSHtYHl/i1icBbCccSF
-H0OoeFsrjKQVkjtjf964y4Z27i8n7BDT/C0vDU0WJGXWwwdOHdH8QL+eBaAg6ldCGZIwxmSHlC6X
-NcrszH1qEpdUtD45/SYOOm83PB38+VVOW+rMreFFvmb+AcByJa0pm9Hd2cY0G/FYuPzkHONXHN/L
-7aBddPordjEBplx5X9LCRGUKNPVnMSZJZIHI7jlMmfmr8VHgcx7jEPTVzLe12/eGDhdXpYR0T/ZI
-Z98H9GTfFklMMytPLVyVQWhXd2PXJbdogBuBTCTCGcDAOTsDNBgBXw4Db/A+hG5R7bbRKbsv5zwu
-wx8lUk/K4EZFWbCL1+Ov25y0B2qCD/K2yUOEZdQ+Jy3UM8iY1eaUMzYoi+wICH12yiH/2Op1w+J1
-SjHoAvZ9IVVQOshX036TKtry9i4ZtWzr75QRsMhW5FHQ0es1GGOZaCf54P4RJmWLtx9ArXbO2bTn
-st1KPa9qIgYMlbspz/dHIeF+Zau8/qnylHSuyX/UghhgUEWAozmF3jjjeOXGLQN/dK1k1x1Gjt6O
-R3bXL3qOpkJDC7syhh/eeq0pKFVDL/UaGjtFQCjKw1uuFo8OTwKRsr1X/xVgPlAPsARVGiasIM6U
-aYCUZjntQxUBVkX4tKNHFY6srML+/JrMFiEfcGZcjoorMN1zC3l18nP8ugthk+2cbyYQGfs/1dCV
-38RqJQMLegZn2pNdJceKxEyZWVaVOzbcG4sBfKnjlP5d4cs2YEH/NhEjU8XfjC13042i6OTyY8zY
-LtJSmIOIzGinfpln6RnpMP1l71OlAV740CRwb6VWkIf6BY1fnSXC9mLo/bRKe9DgUH7sble9LFYZ
-amNku4CqjOkw+Hw5XUAGlHuY9+jJ9lmvRtlnbnCVDKtup6Ms8XK8J8kKwX/qH73/3B+p8rAUrJ7n
-hIHahdFAsB8/SA2sztF/onlwr/tecpVuIZPdvKtZxV3OsUt80hgeDleTGQt8iSGifOBPp9FPNxfY
-YMSsdNzRiRxZOaIamGqN57RQISDlSXtrZcd7V+YYNaGWSwJFitT8jbC3ezsySzdL1ZsiIDIiQdfH
-kLCJLi68CxuleF0CLx9Eul9hvNYt2+KT0V1P/egVo91Am6IWQu/V0JRLw+qg+A/uPjaFGZhg4sDM
-19lANpgRmaaIiP39Ty6SHoZmt/IsPsvReDGPpxTl5YjzMg87i35T54IBWq0/x09vbDZ3YZ7Epcmn
-5p35a4bo1GgUL7DulfwZPJa2dpL5IgEA2JeNRAg1R31cAte8YvkqvJc133l/x45AoWnCpz0xmvFE
-M9ubp0M5PazrWfHijdKzc+zgZuWFcT1e4hKsXllGqghN+gsAfMaT3rj4v0H3r5e12PfcLLM40Pdz
-ABPHjtqxp7KCxMwooPd7yHPbyuaOLyG13nHU/DbHA9SwUbwX+5W1Q0K8EXbfeRFPrrS2Oh5pSXAh
-QvEK/Pe0q5HDIo/bsIPOI3yLfmcHD/W+bNSXLym1qhzpzy9VkeSxOY3oUecZ+iGrOxwYkqtBx+Ho
-eGmZpeCpcgz2w8hp1b9ue3Er8Oy4pdnAAB4vAluqPy9FLITtDNtnmgpAkEgYCVuiwlJqB7IWW2dZ
-Be6O5nGZENzlFugPsRebzqRdZGCiLNY/CtCkI2MOTDoQERKhiPhpJaxrszdDtxA5NNA9z7el/Z/N
-zTVpdG/e3gbGTCUKW8iYo9E48j3TtKVd1KON+tb++624OOEqMYY+lC9SWxQWuD7cYLrc4EJxGPeJ
-/s1CpWC4TcLrHvW2vkNZZ1539/4ml+7p6r4axH0Ba4+QZ9QHur79OCKhLgw8E8GsnniRGEpciRC5
-TN/4Fv6zMiBgYjevCeCjgU/2ha8usz9EA5yihPANCqhGR9I1TA44A6h+yPlEMCTag1zMzTw5my+s
-7EW2knxIChKsAHjFT/VECXT4M6lEWUrwJpfyxsOKVMfQ3pDIucY8FYTqcneptHVhSGeibqTkIpNr
-GlY4keBfkwMWstkoaHGCk2ckIWg/9WiWdhjQrq2sf1ZS0JSSN9dP7M7UNusgCCMiiDBKfEme9K+A
-hVOvwky1Ct14kqK5GhONlP5OON/sAMwxag0njhEP2aBpDwbAMGfyCi+zLaKpS0hER+yDaCH5/IHY
-+AB8Mihgg2SVVrdQM3GBydQq4y7FTvi8AdOFDnW1IzMJWjgEXdAwReaeUq+fTyQrs6qIfHeWT0I0
-vqYy3Xi21qWlcmPfDE929Os9odpKjPlqH0ZZp2YBkhU2b7FAHZBW3gaTmftbNYK0PcdKNTlnstY2
-EMph4xMWDCd1bV2gi3h6dluSdJeOp8BsFGR87EQwHA9vTWb+dcQ2S8zEtqz5LFbRGpiplKA4ZvA8
-0zezRurQ228adO/sfQByKeucJThUk391NeYBx7F/tioI0mc0363ai0Sf0Yw88EdY7EB/tGbH5kSe
-hBOM75J7A6Jw8S6EnynJY5RfbZ/EXoA4Jlf9fJchf8AGgY/Bgt+Pbq9d2iibb2t4KCAkH0qZdKBx
-sIQsE091oe0AvjqZo7FaPZKglnMiloy5Ktte8EjJlCP4c0g8QRxpB5N6xQ9+h4mHc6kgyH265lvp
-Frw7n898ptn+8xtf7kRpShXDoLen70eiRNHwnxtb2uA7TY09W8TAMyvu7abg3Cg+YS3EegBTD+QI
-Rw4MeJVtS+wPAZl/q1b4pTGhCSMTL3skstS+D9Jnd67LsKtAJ0L6U4oJgOWcPdguhOV+BicBCI0N
-2R0+PeuPXaQxrfVwbVrsIDbPv4AT5UUQDro6J9dMGR1SCUvVSIg8uKb3jETgkXfB2vgUodFQoJ73
-tUZY+lp88brCEq58GnEfFMypD2MzVf9vrTzmRA3WMJF7mn0srZ3zSYxfG8ddQZ149mWF+ygqcNEY
-n31nadgoD+KT6MM+bC6XVcrm1h0O1blJSn8j5E0g+UlSemzQVQQEopWcSAu3HMX/Xzf4wtjxYsd1
-M38S/KO85sbypW3aAsildCtEaVPIQ7YtQ8T0AS2kX2uVcHKEjxrvTHap746AdlMKXdHsWFDMtvXt
-kMgHVpMGaaV/fAGICIe==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Common\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+ 
+namespace MicrosoftAzure\Storage\Common\Models;
 
-?>
-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
+use MicrosoftAzure\Storage\Common\Internal\Utilities;
+
+/**
+ * Holds elements of queue properties metrics field.
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Common\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+class Metrics
+{
+    private $_version;
+    private $_enabled;
+    private $_includeAPIs;
+    private $_retentionPolicy;
+    
+    /**
+     * Creates object from $parsedResponse.
+     *
+     * @internal
+     * @param array $parsedResponse XML response parsed into array.
+     *
+     * @return Metrics
+     */
+    public static function create(array $parsedResponse)
+    {
+        $result = new Metrics();
+        $result->setVersion($parsedResponse['Version']);
+        $result->setEnabled(Utilities::toBoolean($parsedResponse['Enabled']));
+        if ($result->getEnabled()) {
+            $result->setIncludeAPIs(
+                Utilities::toBoolean($parsedResponse['IncludeAPIs'])
+            );
+        }
+        $result->setRetentionPolicy(
+            RetentionPolicy::create($parsedResponse['RetentionPolicy'])
+        );
+        
+        return $result;
+    }
+    
+    /**
+     * Gets retention policy
+     *
+     * @return RetentionPolicy
+     *
+     */
+    public function getRetentionPolicy()
+    {
+        return $this->_retentionPolicy;
+    }
+    
+    /**
+     * Sets retention policy
+     *
+     * @param RetentionPolicy $policy object to use
+     *
+     * @return void
+     */
+    public function setRetentionPolicy(RetentionPolicy $policy)
+    {
+        $this->_retentionPolicy = $policy;
+    }
+    
+    /**
+     * Gets include APIs.
+     *
+     * @return bool
+     */
+    public function getIncludeAPIs()
+    {
+        return $this->_includeAPIs;
+    }
+    
+    /**
+     * Sets include APIs.
+     *
+     * @param bool $includeAPIs value to use.
+     *
+     * @return void
+     */
+    public function setIncludeAPIs($includeAPIs)
+    {
+        $this->_includeAPIs = $includeAPIs;
+    }
+    
+    /**
+     * Gets enabled.
+     *
+     * @return bool
+     */
+    public function getEnabled()
+    {
+        return $this->_enabled;
+    }
+    
+    /**
+     * Sets enabled.
+     *
+     * @param bool $enabled value to use.
+     *
+     * @return void
+     */
+    public function setEnabled($enabled)
+    {
+        $this->_enabled = $enabled;
+    }
+    
+    /**
+     * Gets version
+     *
+     * @return string
+     */
+    public function getVersion()
+    {
+        return $this->_version;
+    }
+    
+    /**
+     * Sets version
+     *
+     * @param string $version new value.
+     *
+     * @return void
+     */
+    public function setVersion($version)
+    {
+        $this->_version = $version;
+    }
+    
+    /**
+     * Converts this object to array with XML tags
+     *
+     * @internal
+     * @return array
+     */
+    public function toArray()
+    {
+        $array = array(
+            'Version' => $this->_version,
+            'Enabled' => Utilities::booleanToString($this->_enabled)
+        );
+        if ($this->_enabled) {
+            $array['IncludeAPIs'] = Utilities::booleanToString($this->_includeAPIs);
+        }
+        $array['RetentionPolicy'] = !empty($this->_retentionPolicy)
+            ? $this->_retentionPolicy->toArray()
+            : null;
+        
+        return $array;
+    }
+}

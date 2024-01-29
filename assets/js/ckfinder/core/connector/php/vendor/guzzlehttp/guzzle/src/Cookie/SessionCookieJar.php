@@ -1,114 +1,71 @@
-<?php //ICB0 56:0 71:11bc                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace GuzzleHttp\Cookie;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * Persists cookies in the client session
+ */
+class SessionCookieJar extends CookieJar
+{
+    /** @var string session key */
+    private $sessionKey;
+    
+    /** @var bool Control whether to persist session cookies or not. */
+    private $storeSessionCookies;
 
-?>
-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
-rSmxNIv7SXy4nvDClYbHxMC=
+    /**
+     * Create a new SessionCookieJar object
+     *
+     * @param string $sessionKey        Session key name to store the cookie
+     *                                  data in session
+     * @param bool $storeSessionCookies Set to true to store session cookies
+     *                                  in the cookie jar.
+     */
+    public function __construct($sessionKey, $storeSessionCookies = false)
+    {
+        $this->sessionKey = $sessionKey;
+        $this->storeSessionCookies = $storeSessionCookies;
+        $this->load();
+    }
+
+    /**
+     * Saves cookies to session when shutting down
+     */
+    public function __destruct()
+    {
+        $this->save();
+    }
+
+    /**
+     * Save cookies to the client session
+     */
+    public function save()
+    {
+        $json = [];
+        foreach ($this as $cookie) {
+            /** @var SetCookie $cookie */
+            if (CookieJar::shouldPersist($cookie, $this->storeSessionCookies)) {
+                $json[] = $cookie->toArray();
+            }
+        }
+
+        $_SESSION[$this->sessionKey] = json_encode($json);
+    }
+
+    /**
+     * Load the contents of the client session into the data array
+     */
+    protected function load()
+    {
+        if (!isset($_SESSION[$this->sessionKey])) {
+            return;
+        }
+        $data = json_decode($_SESSION[$this->sessionKey], true);
+        if (is_array($data)) {
+            foreach ($data as $cookie) {
+                $this->setCookie(new SetCookie($cookie));
+            }
+        } elseif (strlen($data)) {
+            throw new \RuntimeException("Invalid cookie data");
+        }
+    }
+}

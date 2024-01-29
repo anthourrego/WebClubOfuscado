@@ -1,66 +1,99 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
+/*
+ * This file is part of the Symfony package.
+ *
+ * (c) Fabien Potencier <fabien@symfony.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+namespace Symfony\Component\HttpFoundation\File\MimeType;
+
+use Symfony\Component\HttpFoundation\File\Exception\FileNotFoundException;
+use Symfony\Component\HttpFoundation\File\Exception\AccessDeniedException;
+
+/**
+ * Guesses the mime type with the binary "file" (only available on *nix).
+ *
+ * @author Bernhard Schussek <bschussek@gmail.com>
+ */
+class FileBinaryMimeTypeGuesser implements MimeTypeGuesserInterface
+{
+    private $cmd;
+
+    /**
+     * The $cmd pattern must contain a "%s" string that will be replaced
+     * with the file name to guess.
+     *
+     * The command output must start with the mime type of the file.
+     *
+     * @param string $cmd The command to run to get the mime type of a file
+     */
+    public function __construct($cmd = 'file -b --mime %s 2>/dev/null')
+    {
+        $this->cmd = $cmd;
+    }
+
+    /**
+     * Returns whether this guesser is supported on the current OS.
+     *
+     * @return bool
+     */
+    public static function isSupported()
+    {
+        static $supported = null;
+
+        if (null !== $supported) {
+            return $supported;
+        }
+
+        if ('\\' === DIRECTORY_SEPARATOR || !function_exists('passthru') || !function_exists('escapeshellarg')) {
+            return $supported = false;
+        }
+
+        ob_start();
+        passthru('command -v file', $exitStatus);
+        $binPath = trim(ob_get_clean());
+
+        return $supported = 0 === $exitStatus && '' !== $binPath;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function guess($path)
+    {
+        if (!is_file($path)) {
+            throw new FileNotFoundException($path);
+        }
+
+        if (!is_readable($path)) {
+            throw new AccessDeniedException($path);
+        }
+
+        if (!self::isSupported()) {
+            return;
+        }
+
+        ob_start();
+
+        // need to use --mime instead of -i. see #6641
+        passthru(sprintf($this->cmd, escapeshellarg($path)), $return);
+        if ($return > 0) {
+            ob_end_clean();
+
+            return;
+        }
+
+        $type = trim(ob_get_clean());
+
+        if (!preg_match('#^([a-z0-9\-]+/[a-z0-9\-\.]+)#i', $type, $match)) {
+            // it's not a type, but an error message
+            return;
+        }
+
+        return $match[1];
+    }
+}

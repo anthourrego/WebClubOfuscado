@@ -1,50 +1,93 @@
-<?php //ICB0 56:0 71:8a2                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\GuardDuty;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cP/UXlhEsTmE4JnehaAsPovN35s2LSQXxyTMChZ3lTqLgA2ceQB+FsnWehSnsl0rcAlbYLIFk
-sHe7+dO+uS5U8AvPMlePDQeA/raznojw79KVQXzpDipwlvprXqu7SnEUFS5RZM00xzE3B1e7LDDx
-fmfml99D+HzEyBhIyTDTJEnYZwIUUK168rvd7z5+XyQ5ZI4pc60hLW6ri0z/oi0O40F0AJyP/JsF
-AyZY5LOHWmWr19u9b86HHu8o7X8oYMK4Hxh9jUwG0loEdbUqYTiSzzDhxb3/1M9N3Odcs6czIfX6
-FQRuIF+uPsoyuHKAzMYUKhae6fU2Eao4wIQeeHhoNNkriPSK5scIyf71jh5nvIcKkHctltXKflVn
-c6mtS2oc7ukZLysVw/IA5I8lJHsGN0LpZIMh2811GzXBAKkmEjilGl6aADdVkC1+/7S49CUKN8iW
-FaeMYSmOSvPAQBesLGYlrzBYd0QxyBrkvgUr2UkZYhLYNIrM7+DHUuYA+YVp0jWhYkCfBYU5bBC7
-seG3Fyv6YE5nTRsNbIb8HgQdD8WlL4Tar10j+bvphkvdEUA1XjreAhHduqdH/DmY0lhhitC8DKf6
-UcaP0YoYMOkk/KEwWe7Kb9qZyC+LmINeYt+McFlybUi+/rNCyNbxgCTLi63UzUWqWtmGHslczrxD
-wb3WZBHqBSkv8EQIkK3T0LCEuWhsAbDIEMSSFRmhc191tyXkv5WZKAru5j7ogwFMMUTxxKuoFL3N
-7VDa8PbxeKC6pIwZne0oODS4zEq7G/uJ9pvogZRI5ZT9O9gBWnlF681m+VLJitGgU27fFb8T6D48
-EMAYBXNObL0iArMLfkZ0x69xtxAMt62e718JpsBqkuJpCUdg1AydZhMdeEDow76bbwcMeVDcPAKO
-5ER/MU9gsZHPIsmhb+3t3Wbi+tifN5eJ989yVu7ubZ5x8A4E4aX28YloZIiNFzzJP00n6omOQL3G
-KMWFFnRkiRqGUbbdTMg8Fm+n2d6YDAChAzNRpwpqG9LN97PftYl9G692gtWJjv6RaqFcqkQ7IAQd
-jl+EsVFrqXA33RuHTlCzZlOXNQT+wjWw7cgDgW7BzV2uOCHdEKINWCjnRgx3YRsLhgdtqr8nVQdG
-12Nqaf+A/UcJ9gxRO0F2/9sdsvNqLROjixffVddMzQ7Xb8VglkZ+gMlayFJ4SNgyZRiFTAnVP9Nh
-rwtatY0tm2VS0GtV4gbVTMGZRIOxNK3TCD/wcwO/PEZJ1vyMM0UHCICHToh8YZ33cpYfyF5JRYF5
-JnCX6nstdJaVikJ0pINjPhthUvHr=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use Aws\AwsClient;
 
-?>
-HR+cPzKzciyV6N/WveKFx9EqjeIkD5m1DN++xFPFL58P234lR0puac8Y0MmFD5HwDRftVZGwPYRF
-xQeK5HUbnmIA02z2JcBwYaQaygXokGu/GwgziviwD2ka9PkMGu7rUGbcHqKcQQojlumGY8Te0xOv
-ylD9j7VxUwUfzd/wjMeZIT/qNVtnbikd12p+TvOtZSmvULc0v8DjDPx4/8mTRJLTJYPY8gi7FyIp
-Q46GRtunWUi/WGAGKeTnyOTWdKc/v+a9XNtzY9QCiXVt9JsiVp1S6WJbXmHZO/9g36Mztg6euRWp
-3+YePrJH9rCxp8DY3G2rp1HmTzCeW+LafYrG3N8KJZA+hSS59MZlMMIJxLrEU9JQtg7bGxalNUWi
-6X5c5X+fIYWxAOrsPAx/yFOwvXcUyzVhe5f37EGSoOA7YMsgRAx53JwMpxtk6PoROF350LgeZ81G
-kgupSWUB/8xlXee1tQzkmZyx00CzgKnmHsLzYPk1Ang3x2ZnnM2ikgXkf+aTc/s1pEWFtn/GLo0Z
-T2HAJghVwZsJ4/i60+zGsAhmbR1jL7AqvMZqXH6oP7E1O8jAi8MpzfuQAFAbe+u+ToX5AegH472n
-OA2ejnXnFh+VM7cRQoR2+l6b/tt1ek41p5idNrpnEnuLZWjMg0xxuaaC4Eu5MkmuxGnRQP3I+h8A
-7X4KBb1bLk1LgmwHwG0kht5pQwAANw3UL/sm8y15LYEx91KGOqEDmaeSsJlAXrbim+zBTj7pFwXc
-NjO6tSwcxiMlu70p/m4ND1hEDSlcqPNEdNkThCvKHR1If2Zp5g60wfwIPf6+Ng0M0+E7GuxNZBpp
-U29ARGapkwzGRrh4QXZX8M2GLFBM2HyO1OB0krDtDhqvtfPOI05DYBbSL31LKxh0TJxdcAVkBEqR
-jUNk9lWe7j/kkiVOhZiZb8gsfBiw/WWgFyCL4//j8M3NjI4IHmt0P08x+EzrOiA+AOS1cqlImZu7
-1hBZDMWMGCgi5LdfNZZ/+wkbx6Tsj5zkf+GcnRfBkLq71UQp8S3tfIM5MzIcBjaxCdW1lMcmLmZt
-AGlsS0dAtlUr87MEnM3TRiln8HtXTu2p/lFsYBiSldmekhJdEJ9VXQxz7fSIpEtlV+JZFsdTJDov
-G0rvFTNGLua4um1BaMdjmZzdY3A5EyJz67Qf7wmNPnCK2XMwlpujrSbFqP7DGVn5L9RcJur/eFVU
-yen5DrytxduBQhFN4T1ehRF5CnDIWJYiHHFP4mv7gOiFIj4aYbYQ/QrzRdgtNxsC2Gu5ifUG6G3k
-q/Re3ONjmELJ1NeDHJFALyOIyHCftF2Z1Y7JkmoE5gMhrf+oRIptGhN9PoiJFeYf6Z7nu4xFP+e6
-OugDFrn1zG0Okdrgz9s6oBrjwEXjMJv/lelgIWFQfkkO5E0=
+/**
+ * This client is used to interact with the **Amazon GuardDuty** service.
+ * @method \Aws\Result acceptInvitation(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise acceptInvitationAsync(array $args = [])
+ * @method \Aws\Result archiveFindings(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise archiveFindingsAsync(array $args = [])
+ * @method \Aws\Result createDetector(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createDetectorAsync(array $args = [])
+ * @method \Aws\Result createFilter(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createFilterAsync(array $args = [])
+ * @method \Aws\Result createIPSet(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createIPSetAsync(array $args = [])
+ * @method \Aws\Result createMembers(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createMembersAsync(array $args = [])
+ * @method \Aws\Result createSampleFindings(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createSampleFindingsAsync(array $args = [])
+ * @method \Aws\Result createThreatIntelSet(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createThreatIntelSetAsync(array $args = [])
+ * @method \Aws\Result declineInvitations(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise declineInvitationsAsync(array $args = [])
+ * @method \Aws\Result deleteDetector(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteDetectorAsync(array $args = [])
+ * @method \Aws\Result deleteFilter(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteFilterAsync(array $args = [])
+ * @method \Aws\Result deleteIPSet(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteIPSetAsync(array $args = [])
+ * @method \Aws\Result deleteInvitations(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteInvitationsAsync(array $args = [])
+ * @method \Aws\Result deleteMembers(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteMembersAsync(array $args = [])
+ * @method \Aws\Result deleteThreatIntelSet(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteThreatIntelSetAsync(array $args = [])
+ * @method \Aws\Result disassociateFromMasterAccount(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise disassociateFromMasterAccountAsync(array $args = [])
+ * @method \Aws\Result disassociateMembers(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise disassociateMembersAsync(array $args = [])
+ * @method \Aws\Result getDetector(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getDetectorAsync(array $args = [])
+ * @method \Aws\Result getFilter(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getFilterAsync(array $args = [])
+ * @method \Aws\Result getFindings(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getFindingsAsync(array $args = [])
+ * @method \Aws\Result getFindingsStatistics(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getFindingsStatisticsAsync(array $args = [])
+ * @method \Aws\Result getIPSet(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getIPSetAsync(array $args = [])
+ * @method \Aws\Result getInvitationsCount(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getInvitationsCountAsync(array $args = [])
+ * @method \Aws\Result getMasterAccount(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getMasterAccountAsync(array $args = [])
+ * @method \Aws\Result getMembers(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getMembersAsync(array $args = [])
+ * @method \Aws\Result getThreatIntelSet(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getThreatIntelSetAsync(array $args = [])
+ * @method \Aws\Result inviteMembers(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise inviteMembersAsync(array $args = [])
+ * @method \Aws\Result listDetectors(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listDetectorsAsync(array $args = [])
+ * @method \Aws\Result listFilters(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listFiltersAsync(array $args = [])
+ * @method \Aws\Result listFindings(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listFindingsAsync(array $args = [])
+ * @method \Aws\Result listIPSets(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listIPSetsAsync(array $args = [])
+ * @method \Aws\Result listInvitations(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listInvitationsAsync(array $args = [])
+ * @method \Aws\Result listMembers(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listMembersAsync(array $args = [])
+ * @method \Aws\Result listThreatIntelSets(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listThreatIntelSetsAsync(array $args = [])
+ * @method \Aws\Result startMonitoringMembers(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise startMonitoringMembersAsync(array $args = [])
+ * @method \Aws\Result stopMonitoringMembers(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise stopMonitoringMembersAsync(array $args = [])
+ * @method \Aws\Result unarchiveFindings(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise unarchiveFindingsAsync(array $args = [])
+ * @method \Aws\Result updateDetector(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateDetectorAsync(array $args = [])
+ * @method \Aws\Result updateFilter(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateFilterAsync(array $args = [])
+ * @method \Aws\Result updateFindingsFeedback(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateFindingsFeedbackAsync(array $args = [])
+ * @method \Aws\Result updateIPSet(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateIPSetAsync(array $args = [])
+ * @method \Aws\Result updateThreatIntelSet(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateThreatIntelSetAsync(array $args = [])
+ */
+class GuardDutyClient extends AwsClient {}

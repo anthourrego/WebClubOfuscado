@@ -1,144 +1,113 @@
-<?php //ICB0 56:0 71:15c2                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/*
+ * CKFinder
+ * ========
+ * https://ckeditor.com/ckeditor-4/ckfinder/
+ * Copyright (c) 2007-2018, CKSource - Frederico Knabben. All rights reserved.
+ *
+ * The software, this file and its contents are subject to the CKFinder
+ * License. Please read the license.txt file before using, installing, copying,
+ * modifying or distribute this file or part of its contents. The contents of
+ * this file is part of the Source Code of CKFinder.
+ */
 
-?>
-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
-9QGpHjmXgDmVZHm=
+namespace CKSource\CKFinder\ResourceType;
+
+use CKSource\CKFinder\Backend\Backend;
+use CKSource\CKFinder\ResizedImage\ResizedImageRepository;
+use CKSource\CKFinder\Thumbnail\ThumbnailRepository;
+
+class ResourceType
+{
+    protected $app;
+    protected $name;
+    protected $backend;
+    protected $configNode;
+    protected $thumbnailRepository;
+    protected $resizedImageRepository;
+
+    public function __construct($name, array $configNode, Backend $backend, ThumbnailRepository $thumbnailRepository, ResizedImageRepository $resizedImageRepository)
+    {
+        $this->name = $name;
+        $this->configNode = $configNode;
+        $this->backend = $backend;
+        $this->thumbnailRepository = $thumbnailRepository;
+        $this->resizedImageRepository = $resizedImageRepository;
+    }
+
+    public function getName()
+    {
+        return $this->name;
+    }
+
+    public function getDirectory()
+    {
+        return $this->configNode['directory'];
+    }
+
+    public function getBackend()
+    {
+        return $this->backend;
+    }
+
+    public function getThumbnailRepository()
+    {
+        return $this->thumbnailRepository;
+    }
+
+    public function getResizedImageRepository()
+    {
+        return $this->resizedImageRepository;
+    }
+
+    public function getMaxSize()
+    {
+        return $this->configNode['maxSize'];
+    }
+
+    public function getAllowedExtensions()
+    {
+        return $this->configNode['allowedExtensions'];
+    }
+
+    public function getDeniedExtensions()
+    {
+        return $this->configNode['deniedExtensions'];
+    }
+
+    public function getLabel()
+    {
+        return isset($this->configNode['label']) ? $this->configNode['label'] : null;
+    }
+
+    public function isLazyLoaded()
+    {
+        return isset($this->configNode['lazyLoad']) && $this->configNode['lazyLoad'];
+    }
+
+    public function isAllowedExtension($extension)
+    {
+        $extension = strtolower(ltrim($extension, '.'));
+
+        $allowed = $this->configNode['allowedExtensions'];
+        $denied = $this->configNode['deniedExtensions'];
+
+        if (!empty($allowed) && !in_array($extension, $allowed) ||
+            !empty($denied) && in_array($extension, $denied)) {
+            return false;
+        }
+
+        return true;
+    }
+
+    /**
+     * Returns the resource type hash.
+     *
+     * @return string hash string
+     */
+    public function getHash()
+    {
+        return substr(md5($this->configNode['name'] . $this->configNode['backend'] . $this->configNode['directory'] . $this->backend->getBaseUrl() . $this->backend->getRootDirectory()), 0, 16);
+    }
+}

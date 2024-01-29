@@ -1,247 +1,320 @@
-<?php //ICB0 56:0 71:247e                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+namespace League\Flysystem;
 
-?>
-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
-35DBvvZvxreCtYpRqdnbdRHSDmK+MOEc/1N8q0==
+use InvalidArgumentException;
+use League\Flysystem\FilesystemNotFoundException;
+use League\Flysystem\Plugin\PluggableTrait;
+use League\Flysystem\Plugin\PluginNotFoundException;
+
+/**
+ * Class MountManager.
+ *
+ * Proxies methods to Filesystem (@see __call):
+ *
+ * @method AdapterInterface getAdapter($prefix)
+ * @method Config getConfig($prefix)
+ * @method bool has($path)
+ * @method bool write($path, $contents, array $config = [])
+ * @method bool writeStream($path, $resource, array $config = [])
+ * @method bool put($path, $contents, $config = [])
+ * @method bool putStream($path, $contents, $config = [])
+ * @method string readAndDelete($path)
+ * @method bool update($path, $contents, $config = [])
+ * @method bool updateStream($path, $resource, $config = [])
+ * @method string|false read($path)
+ * @method resource|false readStream($path)
+ * @method bool rename($path, $newpath)
+ * @method bool delete($path)
+ * @method bool deleteDir($dirname)
+ * @method bool createDir($dirname, $config = [])
+ * @method array listFiles($directory = '', $recursive = false)
+ * @method array listPaths($directory = '', $recursive = false)
+ * @method array getWithMetadata($path, array $metadata)
+ * @method string|false getMimetype($path)
+ * @method int|false getTimestamp($path)
+ * @method string|false getVisibility($path)
+ * @method int|false getSize($path);
+ * @method bool setVisibility($path, $visibility)
+ * @method array|false getMetadata($path)
+ * @method Handler get($path, Handler $handler = null)
+ * @method Filesystem flushCache()
+ * @method void assertPresent($path)
+ * @method void assertAbsent($path)
+ * @method Filesystem addPlugin(PluginInterface $plugin)
+ */
+class MountManager
+{
+    use PluggableTrait;
+
+    /**
+     * @var FilesystemInterface[]
+     */
+    protected $filesystems = [];
+
+    /**
+     * Constructor.
+     *
+     * @param FilesystemInterface[] $filesystems [:prefix => Filesystem,]
+     *
+     * @throws InvalidArgumentException
+     */
+    public function __construct(array $filesystems = [])
+    {
+        $this->mountFilesystems($filesystems);
+    }
+
+    /**
+     * Mount filesystems.
+     *
+     * @param FilesystemInterface[] $filesystems [:prefix => Filesystem,]
+     *
+     * @throws InvalidArgumentException
+     *
+     * @return $this
+     */
+    public function mountFilesystems(array $filesystems)
+    {
+        foreach ($filesystems as $prefix => $filesystem) {
+            $this->mountFilesystem($prefix, $filesystem);
+        }
+
+        return $this;
+    }
+
+    /**
+     * Mount filesystems.
+     *
+     * @param string              $prefix
+     * @param FilesystemInterface $filesystem
+     *
+     * @throws InvalidArgumentException
+     *
+     * @return $this
+     */
+    public function mountFilesystem($prefix, FilesystemInterface $filesystem)
+    {
+        if ( ! is_string($prefix)) {
+            throw new InvalidArgumentException(__METHOD__ . ' expects argument #1 to be a string.');
+        }
+
+        $this->filesystems[$prefix] = $filesystem;
+
+        return $this;
+    }
+
+    /**
+     * Get the filesystem with the corresponding prefix.
+     *
+     * @param string $prefix
+     *
+     * @throws FilesystemNotFoundException
+     *
+     * @return FilesystemInterface
+     */
+    public function getFilesystem($prefix)
+    {
+        if ( ! isset($this->filesystems[$prefix])) {
+            throw new FilesystemNotFoundException('No filesystem mounted with prefix ' . $prefix);
+        }
+
+        return $this->filesystems[$prefix];
+    }
+
+    /**
+     * Retrieve the prefix from an arguments array.
+     *
+     * @param array $arguments
+     *
+     * @throws InvalidArgumentException
+     *
+     * @return array [:prefix, :arguments]
+     */
+    public function filterPrefix(array $arguments)
+    {
+        if (empty($arguments)) {
+            throw new InvalidArgumentException('At least one argument needed');
+        }
+
+        $path = array_shift($arguments);
+
+        if ( ! is_string($path)) {
+            throw new InvalidArgumentException('First argument should be a string');
+        }
+
+        list($prefix, $path) = $this->getPrefixAndPath($path);
+        array_unshift($arguments, $path);
+
+        return [$prefix, $arguments];
+    }
+
+    /**
+     * @param string $directory
+     * @param bool   $recursive
+     *
+     * @throws InvalidArgumentException
+     * @throws FilesystemNotFoundException
+     *
+     * @return array
+     */
+    public function listContents($directory = '', $recursive = false)
+    {
+        list($prefix, $directory) = $this->getPrefixAndPath($directory);
+        $filesystem = $this->getFilesystem($prefix);
+        $result = $filesystem->listContents($directory, $recursive);
+
+        foreach ($result as &$file) {
+            $file['filesystem'] = $prefix;
+        }
+
+        return $result;
+    }
+
+    /**
+     * Call forwarder.
+     *
+     * @param string $method
+     * @param array  $arguments
+     *
+     * @throws InvalidArgumentException
+     * @throws FilesystemNotFoundException
+     *
+     * @return mixed
+     */
+    public function __call($method, $arguments)
+    {
+        list($prefix, $arguments) = $this->filterPrefix($arguments);
+
+        return $this->invokePluginOnFilesystem($method, $arguments, $prefix);
+    }
+
+    /**
+     * @param string $from
+     * @param string $to
+     * @param array  $config
+     *
+     * @throws InvalidArgumentException
+     * @throws FilesystemNotFoundException
+     *
+     * @return bool
+     */
+    public function copy($from, $to, array $config = [])
+    {
+        list($prefixFrom, $from) = $this->getPrefixAndPath($from);
+
+        $buffer = $this->getFilesystem($prefixFrom)->readStream($from);
+
+        if ($buffer === false) {
+            return false;
+        }
+
+        list($prefixTo, $to) = $this->getPrefixAndPath($to);
+
+        $result = $this->getFilesystem($prefixTo)->writeStream($to, $buffer, $config);
+
+        if (is_resource($buffer)) {
+            fclose($buffer);
+        }
+
+        return $result;
+    }
+
+    /**
+     * List with plugin adapter.
+     *
+     * @param array  $keys
+     * @param string $directory
+     * @param bool   $recursive
+     *
+     * @throws InvalidArgumentException
+     * @throws FilesystemNotFoundException
+     *
+     * @return array
+     */
+    public function listWith(array $keys = [], $directory = '', $recursive = false)
+    {
+        list($prefix, $directory) = $this->getPrefixAndPath($directory);
+        $arguments = [$keys, $directory, $recursive];
+
+        return $this->invokePluginOnFilesystem('listWith', $arguments, $prefix);
+    }
+
+    /**
+     * Move a file.
+     *
+     * @param string $from
+     * @param string $to
+     * @param array  $config
+     *
+     * @throws InvalidArgumentException
+     * @throws FilesystemNotFoundException
+     *
+     * @return bool
+     */
+    public function move($from, $to, array $config = [])
+    {
+        list($prefixFrom, $pathFrom) = $this->getPrefixAndPath($from);
+        list($prefixTo, $pathTo) = $this->getPrefixAndPath($to);
+
+        if ($prefixFrom === $prefixTo) {
+            $filesystem = $this->getFilesystem($prefixFrom);
+            $renamed = $filesystem->rename($pathFrom, $pathTo);
+
+            if ($renamed && isset($config['visibility'])) {
+                return $filesystem->setVisibility($pathTo, $config['visibility']);
+            }
+
+            return $renamed;
+        }
+
+        $copied = $this->copy($from, $to, $config);
+
+        if ($copied) {
+            return $this->delete($from);
+        }
+
+        return false;
+    }
+
+    /**
+     * Invoke a plugin on a filesystem mounted on a given prefix.
+     *
+     * @param string $method
+     * @param array  $arguments
+     * @param string $prefix
+     *
+     * @throws FilesystemNotFoundException
+     *
+     * @return mixed
+     */
+    public function invokePluginOnFilesystem($method, $arguments, $prefix)
+    {
+        $filesystem = $this->getFilesystem($prefix);
+
+        try {
+            return $this->invokePlugin($method, $arguments, $filesystem);
+        } catch (PluginNotFoundException $e) {
+            // Let it pass, it's ok, don't panic.
+        }
+
+        $callback = [$filesystem, $method];
+
+        return call_user_func_array($callback, $arguments);
+    }
+
+    /**
+     * @param string $path
+     *
+     * @throws InvalidArgumentException
+     *
+     * @return string[] [:prefix, :path]
+     */
+    protected function getPrefixAndPath($path)
+    {
+        if (strpos($path, '://') < 1) {
+            throw new InvalidArgumentException('No prefix detected in path: ' . $path);
+        }
+
+        return explode('://', $path, 2);
+    }
+}

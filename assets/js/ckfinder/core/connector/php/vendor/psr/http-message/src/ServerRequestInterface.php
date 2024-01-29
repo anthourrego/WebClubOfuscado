@@ -1,103 +1,261 @@
-<?php //ICB0 56:0 71:10e9                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+namespace Psr\Http\Message;
 
-?>
-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
+/**
+ * Representation of an incoming, server-side HTTP request.
+ *
+ * Per the HTTP specification, this interface includes properties for
+ * each of the following:
+ *
+ * - Protocol version
+ * - HTTP method
+ * - URI
+ * - Headers
+ * - Message body
+ *
+ * Additionally, it encapsulates all data as it has arrived to the
+ * application from the CGI and/or PHP environment, including:
+ *
+ * - The values represented in $_SERVER.
+ * - Any cookies provided (generally via $_COOKIE)
+ * - Query string arguments (generally via $_GET, or as parsed via parse_str())
+ * - Upload files, if any (as represented by $_FILES)
+ * - Deserialized body parameters (generally from $_POST)
+ *
+ * $_SERVER values MUST be treated as immutable, as they represent application
+ * state at the time of request; as such, no methods are provided to allow
+ * modification of those values. The other values provide such methods, as they
+ * can be restored from $_SERVER or the request body, and may need treatment
+ * during the application (e.g., body parameters may be deserialized based on
+ * content type).
+ *
+ * Additionally, this interface recognizes the utility of introspecting a
+ * request to derive and match additional parameters (e.g., via URI path
+ * matching, decrypting cookie values, deserializing non-form-encoded body
+ * content, matching authorization headers to users, etc). These parameters
+ * are stored in an "attributes" property.
+ *
+ * Requests are considered immutable; all methods that might change state MUST
+ * be implemented such that they retain the internal state of the current
+ * message and return an instance that contains the changed state.
+ */
+interface ServerRequestInterface extends RequestInterface
+{
+    /**
+     * Retrieve server parameters.
+     *
+     * Retrieves data related to the incoming request environment,
+     * typically derived from PHP's $_SERVER superglobal. The data IS NOT
+     * REQUIRED to originate from $_SERVER.
+     *
+     * @return array
+     */
+    public function getServerParams();
+
+    /**
+     * Retrieve cookies.
+     *
+     * Retrieves cookies sent by the client to the server.
+     *
+     * The data MUST be compatible with the structure of the $_COOKIE
+     * superglobal.
+     *
+     * @return array
+     */
+    public function getCookieParams();
+
+    /**
+     * Return an instance with the specified cookies.
+     *
+     * The data IS NOT REQUIRED to come from the $_COOKIE superglobal, but MUST
+     * be compatible with the structure of $_COOKIE. Typically, this data will
+     * be injected at instantiation.
+     *
+     * This method MUST NOT update the related Cookie header of the request
+     * instance, nor related values in the server params.
+     *
+     * This method MUST be implemented in such a way as to retain the
+     * immutability of the message, and MUST return an instance that has the
+     * updated cookie values.
+     *
+     * @param array $cookies Array of key/value pairs representing cookies.
+     * @return static
+     */
+    public function withCookieParams(array $cookies);
+
+    /**
+     * Retrieve query string arguments.
+     *
+     * Retrieves the deserialized query string arguments, if any.
+     *
+     * Note: the query params might not be in sync with the URI or server
+     * params. If you need to ensure you are only getting the original
+     * values, you may need to parse the query string from `getUri()->getQuery()`
+     * or from the `QUERY_STRING` server param.
+     *
+     * @return array
+     */
+    public function getQueryParams();
+
+    /**
+     * Return an instance with the specified query string arguments.
+     *
+     * These values SHOULD remain immutable over the course of the incoming
+     * request. They MAY be injected during instantiation, such as from PHP's
+     * $_GET superglobal, or MAY be derived from some other value such as the
+     * URI. In cases where the arguments are parsed from the URI, the data
+     * MUST be compatible with what PHP's parse_str() would return for
+     * purposes of how duplicate query parameters are handled, and how nested
+     * sets are handled.
+     *
+     * Setting query string arguments MUST NOT change the URI stored by the
+     * request, nor the values in the server params.
+     *
+     * This method MUST be implemented in such a way as to retain the
+     * immutability of the message, and MUST return an instance that has the
+     * updated query string arguments.
+     *
+     * @param array $query Array of query string arguments, typically from
+     *     $_GET.
+     * @return static
+     */
+    public function withQueryParams(array $query);
+
+    /**
+     * Retrieve normalized file upload data.
+     *
+     * This method returns upload metadata in a normalized tree, with each leaf
+     * an instance of Psr\Http\Message\UploadedFileInterface.
+     *
+     * These values MAY be prepared from $_FILES or the message body during
+     * instantiation, or MAY be injected via withUploadedFiles().
+     *
+     * @return array An array tree of UploadedFileInterface instances; an empty
+     *     array MUST be returned if no data is present.
+     */
+    public function getUploadedFiles();
+
+    /**
+     * Create a new instance with the specified uploaded files.
+     *
+     * This method MUST be implemented in such a way as to retain the
+     * immutability of the message, and MUST return an instance that has the
+     * updated body parameters.
+     *
+     * @param array $uploadedFiles An array tree of UploadedFileInterface instances.
+     * @return static
+     * @throws \InvalidArgumentException if an invalid structure is provided.
+     */
+    public function withUploadedFiles(array $uploadedFiles);
+
+    /**
+     * Retrieve any parameters provided in the request body.
+     *
+     * If the request Content-Type is either application/x-www-form-urlencoded
+     * or multipart/form-data, and the request method is POST, this method MUST
+     * return the contents of $_POST.
+     *
+     * Otherwise, this method may return any results of deserializing
+     * the request body content; as parsing returns structured content, the
+     * potential types MUST be arrays or objects only. A null value indicates
+     * the absence of body content.
+     *
+     * @return null|array|object The deserialized body parameters, if any.
+     *     These will typically be an array or object.
+     */
+    public function getParsedBody();
+
+    /**
+     * Return an instance with the specified body parameters.
+     *
+     * These MAY be injected during instantiation.
+     *
+     * If the request Content-Type is either application/x-www-form-urlencoded
+     * or multipart/form-data, and the request method is POST, use this method
+     * ONLY to inject the contents of $_POST.
+     *
+     * The data IS NOT REQUIRED to come from $_POST, but MUST be the results of
+     * deserializing the request body content. Deserialization/parsing returns
+     * structured data, and, as such, this method ONLY accepts arrays or objects,
+     * or a null value if nothing was available to parse.
+     *
+     * As an example, if content negotiation determines that the request data
+     * is a JSON payload, this method could be used to create a request
+     * instance with the deserialized parameters.
+     *
+     * This method MUST be implemented in such a way as to retain the
+     * immutability of the message, and MUST return an instance that has the
+     * updated body parameters.
+     *
+     * @param null|array|object $data The deserialized body data. This will
+     *     typically be in an array or object.
+     * @return static
+     * @throws \InvalidArgumentException if an unsupported argument type is
+     *     provided.
+     */
+    public function withParsedBody($data);
+
+    /**
+     * Retrieve attributes derived from the request.
+     *
+     * The request "attributes" may be used to allow injection of any
+     * parameters derived from the request: e.g., the results of path
+     * match operations; the results of decrypting cookies; the results of
+     * deserializing non-form-encoded message bodies; etc. Attributes
+     * will be application and request specific, and CAN be mutable.
+     *
+     * @return array Attributes derived from the request.
+     */
+    public function getAttributes();
+
+    /**
+     * Retrieve a single derived request attribute.
+     *
+     * Retrieves a single derived request attribute as described in
+     * getAttributes(). If the attribute has not been previously set, returns
+     * the default value as provided.
+     *
+     * This method obviates the need for a hasAttribute() method, as it allows
+     * specifying a default value to return if the attribute is not found.
+     *
+     * @see getAttributes()
+     * @param string $name The attribute name.
+     * @param mixed $default Default value to return if the attribute does not exist.
+     * @return mixed
+     */
+    public function getAttribute($name, $default = null);
+
+    /**
+     * Return an instance with the specified derived request attribute.
+     *
+     * This method allows setting a single derived request attribute as
+     * described in getAttributes().
+     *
+     * This method MUST be implemented in such a way as to retain the
+     * immutability of the message, and MUST return an instance that has the
+     * updated attribute.
+     *
+     * @see getAttributes()
+     * @param string $name The attribute name.
+     * @param mixed $value The value of the attribute.
+     * @return static
+     */
+    public function withAttribute($name, $value);
+
+    /**
+     * Return an instance that removes the specified derived request attribute.
+     *
+     * This method allows removing a single derived request attribute as
+     * described in getAttributes().
+     *
+     * This method MUST be implemented in such a way as to retain the
+     * immutability of the message, and MUST return an instance that removes
+     * the attribute.
+     *
+     * @see getAttributes()
+     * @param string $name The attribute name.
+     * @return static
+     */
+    public function withoutAttribute($name);
+}

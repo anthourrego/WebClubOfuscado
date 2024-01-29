@@ -1,191 +1,618 @@
-<?php //ICB0 56:0 71:1ebf                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Table\Internal
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+ 
+namespace MicrosoftAzure\Storage\Table\Internal;
 
-?>
-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
-VqyeK3fl1juldRFYwQ2H69xE
+use MicrosoftAzure\Storage\Table\Models as TableModels;
+use MicrosoftAzure\Storage\Common\Models\ServiceProperties;
+use MicrosoftAzure\Storage\Common\Models\ServiceOptions;
+use MicrosoftAzure\Storage\Common\Models\GetServiceStats;
+
+/**
+ * This interface has all REST APIs provided by Windows Azure for Table service.
+ *
+ * @ignore
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Table\Internal
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ * @see       http://msdn.microsoft.com/en-us/library/windowsazure/dd179423.aspx
+ */
+interface ITable
+{
+    /**
+    * Gets the properties of the service.
+    *
+    * @param ServiceOptions $options optional table service options.
+    *
+    * @return \MicrosoftAzure\Storage\Common\Models\GetServicePropertiesResult
+    *
+    * @see http://msdn.microsoft.com/en-us/library/windowsazure/hh452238.aspx
+    */
+    public function getServiceProperties(
+        ServiceOptions $options = null
+    );
+
+    /**
+     * Creates promise to get the properties of the service.
+     *
+     * @param ServiceOptions $options optional table service options.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/hh452238.aspx
+     */
+    public function getServicePropertiesAsync(
+        ServiceOptions $options = null
+    );
+
+    /**
+    * Sets the properties of the service.
+    *
+    * @param ServiceProperties $serviceProperties new service properties
+    * @param ServiceOptions    $options           optional parameters
+    *
+    * @return void
+    *
+    * @see http://msdn.microsoft.com/en-us/library/windowsazure/hh452240.aspx
+    */
+    public function setServiceProperties(
+        ServiceProperties $serviceProperties,
+        ServiceOptions $options = null
+    );
+
+    /**
+     * Creates promise to set the properties of the service.
+     *
+     * It's recommended to use getServiceProperties, alter the returned object and
+     * then use setServiceProperties with this altered object.
+     *
+     * @param ServiceProperties $serviceProperties new service properties
+     * @param ServiceOptions    $options           optional parameters
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/hh452240.aspx
+     */
+    public function setServicePropertiesAsync(
+        ServiceProperties $serviceProperties,
+        ServiceOptions $options = null
+    );
+
+    /**
+     * Retieves statistics related to replication for the service. The operation
+     * will only be sent to secondary location endpoint.
+     *
+     * @param  ServiceOptions|null $options The options this operation sends with.
+     *
+     * @return GetServiceStatsResult
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/get-table-service-stats
+     */
+    public function getServiceStats(ServiceOptions $options = null);
+
+    /**
+     * Creates promise that retrieves statistics related to replication for the
+     * service. The operation will only be sent to secondary location endpoint.
+     *
+     * @param  ServiceOptions|null $options The options this operation sends with.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/get-table-service-stats
+     */
+    public function getServiceStatsAsync(ServiceOptions $options = null);
+    
+    /**
+     * Quries tables in the given storage account.
+     *
+     * @param TableModels\QueryTablesOptions|string|TableModels\Filters\Filter $options
+     * Could be optional parameters, table prefix or filter to apply.
+     *
+     * @return TableModels\QueryTablesResult
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/query-tables
+     */
+    public function queryTables($options = null);
+
+    /**
+     * Creates promise to query the tables in the given storage account.
+     *
+     * @param TableModels\QueryTablesOptions|string|Models\Filters\Filter $options
+     * Could be optional parameters, table prefix or filter to apply.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/query-tables
+     */
+    public function queryTablesAsync($options = null);
+    
+    /**
+     * Creates new table in the storage account
+     *
+     * @param string                                $table   The name of the table.
+     * @param TableModels\TableServiceCreateOptions $options optional parameters
+     *
+     * @return void
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/create-table
+     */
+    public function createTable(
+        $table,
+        TableModels\TableServiceCreateOptions $options = null
+    );
+
+    /**
+     * Creates promise to create new table in the storage account
+     *
+     * @param string                                $table   The name of the table.
+     * @param TableModels\TableServiceCreateOptions $options The optional parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/create-table
+     */
+    public function createTableAsync(
+        $table,
+        TableModels\TableServiceCreateOptions $options = null
+    );
+    
+    /**
+     * Gets the table.
+     *
+     * @param string                      $table   The The name of the table..
+     * @param TableModels\GetTableOptions $options The optional parameters.
+     *
+     * @return TableModels\GetTableResult
+     */
+    public function getTable(
+        $table,
+        TableModels\GetTableOptions $options = null
+    );
+
+    /**
+     * Creates the promise to get the table.
+     *
+     * @param string                      $table   The name of the table.
+     * @param TableModels\GetTableOptions $options The optional parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     */
+    public function getTableAsync(
+        $table,
+        TableModels\GetTableOptions $options = null
+    );
+    
+    /**
+     * Deletes the specified table and any data it contains.
+     *
+     * @param string                          $table   The name of the table.
+     * @param TableModels\TableServiceOptions $options optional parameters
+     *
+     * @return void
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd179387.aspx
+     */
+    public function deleteTable(
+        $table,
+        TableModels\TableServiceOptions $options = null
+    );
+
+    /**
+     * Creates promise to delete the specified table and any data it contains.
+     *
+     * @param string                          $table   The name of the table.
+     * @param TableModels\TableServiceOptions $options optional parameters
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd179387.aspx
+     */
+    public function deleteTableAsync(
+        $table,
+        TableModels\TableServiceOptions$options = null
+    );
+    
+    /**
+     * Quries entities for the given table name
+     *
+     * @param string                                             $table   The name
+     * of the table.
+     * @param TableModels\QueryEntitiesOptions|string|TableModels\Filters\Filter $options
+     * Could be optional parameters, query string or filter to apply.
+     *
+     * @return TableModels\QueryEntitiesResult
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/query-entities
+     */
+    public function queryEntities($table, $options = null);
+
+    /**
+     * Quries entities for the given table name
+     *
+     * @param string                                                   $table   The name of
+     * the table.
+     * @param Models\QueryEntitiesOptions|string|Models\Filters\Filter $options Coule be
+     * optional parameters, query string or filter to apply.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/query-entities
+     */
+    public function queryEntitiesAsync($table, $options = null);
+    
+    /**
+     * Inserts new entity to the table
+     *
+     * @param string                                $table   name of the table
+     * @param TableModels\Entity                    $entity  table entity
+     * @param TableModels\TableServiceCreateOptions $options optional parameters
+     *
+     * @return TableModels\InsertEntityResult
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/insert-entity
+     */
+    public function insertEntity(
+        $table,
+        TableModels\Entity $entity,
+        TableModels\TableServiceCreateOptions $options = null
+    );
+
+    /**
+     * Inserts new entity to the table.
+     *
+     * @param string                                $table   name of the table.
+     * @param TableModels\Entity                    $entity  table entity.
+     * @param TableModels\TableServiceCreateOptions $options optional parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/insert-entity
+     */
+    public function insertEntityAsync(
+        $table,
+        TableModels\Entity $entity,
+        TableModels\TableServiceCreateOptions $options = null
+    );
+    
+    /**
+     * Updates an existing entity or inserts a new entity if it does not exist in the
+     * table.
+     *
+     * @param string                          $table   name of the table
+     * @param TableModels\Entity              $entity  table entity
+     * @param TableModels\TableServiceOptions $options optional parameters
+     *
+     * @return TableModels\UpdateEntityResult
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/hh452241.aspx
+     */
+    public function insertOrMergeEntity(
+        $table,
+        TableModels\Entity $entity,
+        TableModels\TableServiceOptions $options = null
+    );
+    
+    /**
+     * Creates promise to update an existing entity or inserts a new entity if
+     * it does not exist in the table.
+     *
+     * @param string                          $table   name of the table
+     * @param TableModels\Entity              $entity  table entity
+     * @param TableModels\TableServiceOptions $options optional parameters
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/hh452241.aspx
+     */
+    public function insertOrMergeEntityAsync(
+        $table,
+        TableModels\Entity $entity,
+        TableModels\TableServiceOptions $options = null
+    );
+
+    /**
+     * Replaces an existing entity or inserts a new entity if it does not exist in
+     * the table.
+     *
+     * @param string                          $table   name of the table
+     * @param TableModels\Entity              $entity  table entity
+     * @param TableModels\TableServiceOptions $options optional parameters
+     *
+     * @return TableModels\UpdateEntityResult
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/hh452242.aspx
+     */
+    public function insertOrReplaceEntity(
+        $table,
+        TableModels\Entity $entity,
+        TableModels\TableServiceOptions $options = null
+    );
+
+    /**
+     * Creates a promise to replace an existing entity or inserts a new entity if it does not exist in the table.
+     *
+     * @param string                          $table   name of the table
+     * @param TableModels\Entity              $entity  table entity
+     * @param TableModels\TableServiceOptions $options optional parameters
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/hh452242.aspx
+     */
+    public function insertOrReplaceEntityAsync(
+        $table,
+        TableModels\Entity $entity,
+        TableModels\TableServiceOptions $options = null
+    );
+    
+    /**
+     * Updates an existing entity in a table. The Update Entity operation replaces
+     * the entire entity and can be used to remove properties.
+     *
+     * @param string                          $table   The table name.
+     * @param TableModels\Entity              $entity  The table entity.
+     * @param TableModels\TableServiceOptions $options The optional parameters.
+     *
+     * @return TableModels\UpdateEntityResult
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd179427.aspx
+     */
+    public function updateEntity(
+        $table,
+        TableModels\Entity $entity,
+        TableModels\TableServiceOptions $options = null
+    );
+
+    /**
+     * Creates promise to update an existing entity in a table. The Update Entity
+     * operation replaces the entire entity and can be used to remove properties.
+     *
+     * @param string                          $table   The table name.
+     * @param TableModels\Entity              $entity  The table entity.
+     * @param TableModels\TableServiceOptions $options The optional parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd179427.aspx
+     */
+    public function updateEntityAsync(
+        $table,
+        TableModels\Entity $entity,
+        TableModels\TableServiceOptions $options = null
+    );
+    
+    /**
+     * Updates an existing entity by updating the entity's properties. This operation
+     * does not replace the existing entity, as the updateEntity operation does.
+     *
+     * @param string                          $table   The table name.
+     * @param TableModels\Entity              $entity  The table entity.
+     * @param TableModels\TableServiceOptions $options The optional parameters.
+     *
+     * @return TableModels\UpdateEntityResult
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd179392.aspx
+     */
+    public function mergeEntity(
+        $table,
+        TableModels\Entity $entity,
+        TableModels\TableServiceOptions $options = null
+    );
+
+    /**
+     * Creates promise to update an existing entity by updating the entity's
+     * properties. This operation does not replace the existing entity, as the
+     * updateEntity operation does.
+     *
+     * @param string                          $table   The table name.
+     * @param TableModels\Entity              $entity  The table entity.
+     * @param TableModels\TableServiceOptions $options The optional parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd179392.aspx
+     */
+    public function mergeEntityAsync(
+        $table,
+        TableModels\Entity $entity,
+        TableModels\TableServiceOptions $options = null
+    );
+    
+    /**
+     * Deletes an existing entity in a table.
+     *
+     * @param string                          $table        The name of the table.
+     * @param string                          $partitionKey The entity partition key.
+     * @param string                          $rowKey       The entity row key.
+     * @param TableModels\DeleteEntityOptions $options      The optional parameters.
+     *
+     * @return void
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd135727.aspx
+     */
+    public function deleteEntity(
+        $table,
+        $partitionKey,
+        $rowKey,
+        TableModels\DeleteEntityOptions $options = null
+    );
+
+    /**
+     * Creates promise to delete an existing entity in a table.
+     *
+     * @param string                          $table        The name of the table.
+     * @param string                          $partitionKey The entity partition key.
+     * @param string                          $rowKey       The entity row key.
+     * @param TableModels\DeleteEntityOptions $options      The optional parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd135727.aspx
+     */
+    public function deleteEntityAsync(
+        $table,
+        $partitionKey,
+        $rowKey,
+        TableModels\DeleteEntityOptions $options = null
+    );
+    
+    /**
+     * Gets table entity.
+     *
+     * @param string                            $table        The name of the
+     *                                                        table.
+     * @param string                            $partitionKey The entity
+     *                                                        partition key.
+     * @param string                            $rowKey       The entity
+     *                                                        row key.
+     * @param TableModels\GetEntityOptions|null $options      The optional
+     *                                                        parameters.
+     *
+     * @return TableModels\GetEntityResult
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd179421.aspx
+     */
+    public function getEntity(
+        $table,
+        $partitionKey,
+        $rowKey,
+        TableModels\GetEntityOptions $options = null
+    );
+
+    /**
+     * Creates promise to get table entity.
+     *
+     * @param string                            $table        The name of
+     *                                                        the table.
+     * @param string                            $partitionKey The entity
+     *                                                        partition key.
+     * @param string                            $rowKey       The entity
+     *                                                        row key.
+     * @param TableModels\GetEntityOptions|null $options      The optional
+     *                                                        parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd179421.aspx
+     */
+    public function getEntityAsync(
+        $table,
+        $partitionKey,
+        $rowKey,
+        TableModels\GetEntityOptions $options = null
+    );
+    
+    /**
+     * Does batch of operations on given table service.
+     *
+     * @param TableModels\BatchOperations     $operations the operations to apply
+     * @param TableModels\TableServiceOptions $options    optional parameters
+     *
+     * @return TableModels\BatchResult
+     */
+    public function batch(
+        TableModels\BatchOperations $operations,
+        TableModels\TableServiceOptions $options = null
+    );
+
+    /**
+     * Creates promise that does batch of operations on the table service.
+     *
+     * @param TableModels\BatchOperations     $batchOperations The operations to apply.
+     * @param TableModels\TableServiceOptions $options         The optional parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     */
+    public function batchAsync(
+        TableModels\BatchOperations $batchOperations,
+        TableModels\TableServiceOptions $options = null
+    );
+
+    /**
+     * Gets the access control list (ACL)
+     *
+     * @param string                          $table   The container name.
+     * @param TableModels\TableServiceOptions $options The optional parameters.
+     *
+     * @return TableModels\TableACL
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/fileservices/get-table-acl
+     */
+    public function getTableAcl(
+        $table,
+        TableModels\TableServiceOptions $options = null
+    );
+
+    /**
+     * Creates the promise to gets the access control list (ACL)
+     *
+     * @param string                          $table   The container name.
+     * @param TableModels\TableServiceOptions $options The optional parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/fileservices/get-table-acl
+     */
+    public function getTableAclAsync(
+        $table,
+        TableModels\TableServiceOptions $options = null
+    );
+
+    /**
+     * Sets the ACL.
+     *
+     * @param string                          $table   name
+     * @param TableModels\TableACL            $acl     access control list
+     * @param TableModels\TableServiceOptions $options optional parameters
+     *
+     * @return void
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/fileservices/set-table-acl
+     */
+    public function setTableAcl(
+        $table,
+        TableModels\TableACL $acl,
+        TableModels\TableServiceOptions $options = null
+    );
+
+    /**
+     * Creates promise to set the ACL
+     *
+     * @param string                          $table   name
+     * @param TableModels\TableACL            $acl     access control list
+     * @param TableModels\TableServiceOptions $options optional parameters
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/fileservices/set-table-acl
+     */
+    public function setTableAclAsync(
+        $table,
+        TableModels\TableACL $acl,
+        TableModels\TableServiceOptions $options = null
+    );
+}

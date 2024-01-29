@@ -1,87 +1,323 @@
-<?php //ICB0 56:0 71:eae                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Psr\Http\Message;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-E/Ou0fZjQAfkj9ei/vJ+RBzPBZOzcB0Ufywt=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * Value object representing a URI.
+ *
+ * This interface is meant to represent URIs according to RFC 3986 and to
+ * provide methods for most common operations. Additional functionality for
+ * working with URIs can be provided on top of the interface or externally.
+ * Its primary use is for HTTP requests, but may also be used in other
+ * contexts.
+ *
+ * Instances of this interface are considered immutable; all methods that
+ * might change state MUST be implemented such that they retain the internal
+ * state of the current instance and return an instance that contains the
+ * changed state.
+ *
+ * Typically the Host header will be also be present in the request message.
+ * For server-side requests, the scheme will typically be discoverable in the
+ * server parameters.
+ *
+ * @link http://tools.ietf.org/html/rfc3986 (the URI specification)
+ */
+interface UriInterface
+{
+    /**
+     * Retrieve the scheme component of the URI.
+     *
+     * If no scheme is present, this method MUST return an empty string.
+     *
+     * The value returned MUST be normalized to lowercase, per RFC 3986
+     * Section 3.1.
+     *
+     * The trailing ":" character is not part of the scheme and MUST NOT be
+     * added.
+     *
+     * @see https://tools.ietf.org/html/rfc3986#section-3.1
+     * @return string The URI scheme.
+     */
+    public function getScheme();
 
-?>
-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
-G4FaEht3nLDbZyTD61iVdrYb0dl3PG==
+    /**
+     * Retrieve the authority component of the URI.
+     *
+     * If no authority information is present, this method MUST return an empty
+     * string.
+     *
+     * The authority syntax of the URI is:
+     *
+     * <pre>
+     * [user-info@]host[:port]
+     * </pre>
+     *
+     * If the port component is not set or is the standard port for the current
+     * scheme, it SHOULD NOT be included.
+     *
+     * @see https://tools.ietf.org/html/rfc3986#section-3.2
+     * @return string The URI authority, in "[user-info@]host[:port]" format.
+     */
+    public function getAuthority();
+
+    /**
+     * Retrieve the user information component of the URI.
+     *
+     * If no user information is present, this method MUST return an empty
+     * string.
+     *
+     * If a user is present in the URI, this will return that value;
+     * additionally, if the password is also present, it will be appended to the
+     * user value, with a colon (":") separating the values.
+     *
+     * The trailing "@" character is not part of the user information and MUST
+     * NOT be added.
+     *
+     * @return string The URI user information, in "username[:password]" format.
+     */
+    public function getUserInfo();
+
+    /**
+     * Retrieve the host component of the URI.
+     *
+     * If no host is present, this method MUST return an empty string.
+     *
+     * The value returned MUST be normalized to lowercase, per RFC 3986
+     * Section 3.2.2.
+     *
+     * @see http://tools.ietf.org/html/rfc3986#section-3.2.2
+     * @return string The URI host.
+     */
+    public function getHost();
+
+    /**
+     * Retrieve the port component of the URI.
+     *
+     * If a port is present, and it is non-standard for the current scheme,
+     * this method MUST return it as an integer. If the port is the standard port
+     * used with the current scheme, this method SHOULD return null.
+     *
+     * If no port is present, and no scheme is present, this method MUST return
+     * a null value.
+     *
+     * If no port is present, but a scheme is present, this method MAY return
+     * the standard port for that scheme, but SHOULD return null.
+     *
+     * @return null|int The URI port.
+     */
+    public function getPort();
+
+    /**
+     * Retrieve the path component of the URI.
+     *
+     * The path can either be empty or absolute (starting with a slash) or
+     * rootless (not starting with a slash). Implementations MUST support all
+     * three syntaxes.
+     *
+     * Normally, the empty path "" and absolute path "/" are considered equal as
+     * defined in RFC 7230 Section 2.7.3. But this method MUST NOT automatically
+     * do this normalization because in contexts with a trimmed base path, e.g.
+     * the front controller, this difference becomes significant. It's the task
+     * of the user to handle both "" and "/".
+     *
+     * The value returned MUST be percent-encoded, but MUST NOT double-encode
+     * any characters. To determine what characters to encode, please refer to
+     * RFC 3986, Sections 2 and 3.3.
+     *
+     * As an example, if the value should include a slash ("/") not intended as
+     * delimiter between path segments, that value MUST be passed in encoded
+     * form (e.g., "%2F") to the instance.
+     *
+     * @see https://tools.ietf.org/html/rfc3986#section-2
+     * @see https://tools.ietf.org/html/rfc3986#section-3.3
+     * @return string The URI path.
+     */
+    public function getPath();
+
+    /**
+     * Retrieve the query string of the URI.
+     *
+     * If no query string is present, this method MUST return an empty string.
+     *
+     * The leading "?" character is not part of the query and MUST NOT be
+     * added.
+     *
+     * The value returned MUST be percent-encoded, but MUST NOT double-encode
+     * any characters. To determine what characters to encode, please refer to
+     * RFC 3986, Sections 2 and 3.4.
+     *
+     * As an example, if a value in a key/value pair of the query string should
+     * include an ampersand ("&") not intended as a delimiter between values,
+     * that value MUST be passed in encoded form (e.g., "%26") to the instance.
+     *
+     * @see https://tools.ietf.org/html/rfc3986#section-2
+     * @see https://tools.ietf.org/html/rfc3986#section-3.4
+     * @return string The URI query string.
+     */
+    public function getQuery();
+
+    /**
+     * Retrieve the fragment component of the URI.
+     *
+     * If no fragment is present, this method MUST return an empty string.
+     *
+     * The leading "#" character is not part of the fragment and MUST NOT be
+     * added.
+     *
+     * The value returned MUST be percent-encoded, but MUST NOT double-encode
+     * any characters. To determine what characters to encode, please refer to
+     * RFC 3986, Sections 2 and 3.5.
+     *
+     * @see https://tools.ietf.org/html/rfc3986#section-2
+     * @see https://tools.ietf.org/html/rfc3986#section-3.5
+     * @return string The URI fragment.
+     */
+    public function getFragment();
+
+    /**
+     * Return an instance with the specified scheme.
+     *
+     * This method MUST retain the state of the current instance, and return
+     * an instance that contains the specified scheme.
+     *
+     * Implementations MUST support the schemes "http" and "https" case
+     * insensitively, and MAY accommodate other schemes if required.
+     *
+     * An empty scheme is equivalent to removing the scheme.
+     *
+     * @param string $scheme The scheme to use with the new instance.
+     * @return static A new instance with the specified scheme.
+     * @throws \InvalidArgumentException for invalid or unsupported schemes.
+     */
+    public function withScheme($scheme);
+
+    /**
+     * Return an instance with the specified user information.
+     *
+     * This method MUST retain the state of the current instance, and return
+     * an instance that contains the specified user information.
+     *
+     * Password is optional, but the user information MUST include the
+     * user; an empty string for the user is equivalent to removing user
+     * information.
+     *
+     * @param string $user The user name to use for authority.
+     * @param null|string $password The password associated with $user.
+     * @return static A new instance with the specified user information.
+     */
+    public function withUserInfo($user, $password = null);
+
+    /**
+     * Return an instance with the specified host.
+     *
+     * This method MUST retain the state of the current instance, and return
+     * an instance that contains the specified host.
+     *
+     * An empty host value is equivalent to removing the host.
+     *
+     * @param string $host The hostname to use with the new instance.
+     * @return static A new instance with the specified host.
+     * @throws \InvalidArgumentException for invalid hostnames.
+     */
+    public function withHost($host);
+
+    /**
+     * Return an instance with the specified port.
+     *
+     * This method MUST retain the state of the current instance, and return
+     * an instance that contains the specified port.
+     *
+     * Implementations MUST raise an exception for ports outside the
+     * established TCP and UDP port ranges.
+     *
+     * A null value provided for the port is equivalent to removing the port
+     * information.
+     *
+     * @param null|int $port The port to use with the new instance; a null value
+     *     removes the port information.
+     * @return static A new instance with the specified port.
+     * @throws \InvalidArgumentException for invalid ports.
+     */
+    public function withPort($port);
+
+    /**
+     * Return an instance with the specified path.
+     *
+     * This method MUST retain the state of the current instance, and return
+     * an instance that contains the specified path.
+     *
+     * The path can either be empty or absolute (starting with a slash) or
+     * rootless (not starting with a slash). Implementations MUST support all
+     * three syntaxes.
+     *
+     * If the path is intended to be domain-relative rather than path relative then
+     * it must begin with a slash ("/"). Paths not starting with a slash ("/")
+     * are assumed to be relative to some base path known to the application or
+     * consumer.
+     *
+     * Users can provide both encoded and decoded path characters.
+     * Implementations ensure the correct encoding as outlined in getPath().
+     *
+     * @param string $path The path to use with the new instance.
+     * @return static A new instance with the specified path.
+     * @throws \InvalidArgumentException for invalid paths.
+     */
+    public function withPath($path);
+
+    /**
+     * Return an instance with the specified query string.
+     *
+     * This method MUST retain the state of the current instance, and return
+     * an instance that contains the specified query string.
+     *
+     * Users can provide both encoded and decoded query characters.
+     * Implementations ensure the correct encoding as outlined in getQuery().
+     *
+     * An empty query string value is equivalent to removing the query string.
+     *
+     * @param string $query The query string to use with the new instance.
+     * @return static A new instance with the specified query string.
+     * @throws \InvalidArgumentException for invalid query strings.
+     */
+    public function withQuery($query);
+
+    /**
+     * Return an instance with the specified URI fragment.
+     *
+     * This method MUST retain the state of the current instance, and return
+     * an instance that contains the specified URI fragment.
+     *
+     * Users can provide both encoded and decoded fragment characters.
+     * Implementations ensure the correct encoding as outlined in getFragment().
+     *
+     * An empty fragment value is equivalent to removing the fragment.
+     *
+     * @param string $fragment The fragment to use with the new instance.
+     * @return static A new instance with the specified fragment.
+     */
+    public function withFragment($fragment);
+
+    /**
+     * Return the string representation as a URI reference.
+     *
+     * Depending on which components of the URI are present, the resulting
+     * string is either a full URI or relative reference according to RFC 3986,
+     * Section 4.1. The method concatenates the various components of the URI,
+     * using the appropriate delimiters:
+     *
+     * - If a scheme is present, it MUST be suffixed by ":".
+     * - If an authority is present, it MUST be prefixed by "//".
+     * - The path can be concatenated without delimiters. But there are two
+     *   cases where the path has to be adjusted to make the URI reference
+     *   valid as PHP does not allow to throw an exception in __toString():
+     *     - If the path is rootless and an authority is present, the path MUST
+     *       be prefixed by "/".
+     *     - If the path is starting with more than one "/" and no authority is
+     *       present, the starting slashes MUST be reduced to one.
+     * - If a query is present, it MUST be prefixed by "?".
+     * - If a fragment is present, it MUST be prefixed by "#".
+     *
+     * @see http://tools.ietf.org/html/rfc3986#section-4.1
+     * @return string
+     */
+    public function __toString();
+}

@@ -1,79 +1,101 @@
-<?php //ICB0 56:0 71:c83                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-azW9xyl7qLQS9RGpwLu0=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Table\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+ 
+namespace MicrosoftAzure\Storage\Table\Models;
 
-?>
-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
-hfD1iGO=
+use MicrosoftAzure\Storage\Common\Internal\Validate;
+use MicrosoftAzure\Storage\Common\Internal\Resources;
+use MicrosoftAzure\Storage\Common\Internal\Utilities;
+
+/**
+ * Represents one batch operation
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Table\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+class BatchOperation
+{
+    private $_type;
+    private $_params;
+    
+    /**
+     * Sets operation type.
+     *
+     * @param string $type The operation type. Must be valid type.
+     *
+     * @return void
+     */
+    public function setType($type)
+    {
+        Validate::isTrue(
+            BatchOperationType::isValid($type),
+            Resources::INVALID_BO_TYPE_MSG
+        );
+        
+        $this->_type = $type;
+    }
+    
+    /**
+     * Gets operation type.
+     *
+     * @return string
+     */
+    public function getType()
+    {
+        return $this->_type;
+    }
+    
+    /**
+     * Adds or sets parameter for the operation.
+     *
+     * @param string $name  The param name. Must be valid name.
+     * @param mixed  $value The param value.
+     *
+     * @return void
+     */
+    public function addParameter($name, $value)
+    {
+        Validate::isTrue(
+            BatchOperationParameterName::isValid($name),
+            Resources::INVALID_BO_PN_MSG
+        );
+        $this->_params[$name] = $value;
+    }
+    
+    /**
+     * Gets parameter value and if the name doesn't exist, return null.
+     *
+     * @param string $name The parameter name.
+     *
+     * @return mixed
+     */
+    public function getParameter($name)
+    {
+        return Utilities::tryGetValue($this->_params, $name);
+    }
+}

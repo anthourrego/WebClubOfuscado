@@ -1,96 +1,209 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-MmPvbcNX9Pcd0q0bc0==
+/*
+ * This file is part of the Symfony package.
+ *
+ * (c) Fabien Potencier <fabien@symfony.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+namespace Symfony\Component\HttpFoundation;
+
+/**
+ * Represents an Accept-* header item.
+ *
+ * @author Jean-François Simon <contact@jfsimon.fr>
+ */
+class AcceptHeaderItem
+{
+    private $value;
+    private $quality = 1.0;
+    private $index = 0;
+    private $attributes = array();
+
+    /**
+     * @param string $value
+     * @param array  $attributes
+     */
+    public function __construct($value, array $attributes = array())
+    {
+        $this->value = $value;
+        foreach ($attributes as $name => $value) {
+            $this->setAttribute($name, $value);
+        }
+    }
+
+    /**
+     * Builds an AcceptHeaderInstance instance from a string.
+     *
+     * @param string $itemValue
+     *
+     * @return self
+     */
+    public static function fromString($itemValue)
+    {
+        $bits = preg_split('/\s*(?:;*("[^"]+");*|;*(\'[^\']+\');*|;+)\s*/', $itemValue, 0, PREG_SPLIT_NO_EMPTY | PREG_SPLIT_DELIM_CAPTURE);
+        $value = array_shift($bits);
+        $attributes = array();
+
+        $lastNullAttribute = null;
+        foreach ($bits as $bit) {
+            if (($start = substr($bit, 0, 1)) === ($end = substr($bit, -1)) && ('"' === $start || '\'' === $start)) {
+                $attributes[$lastNullAttribute] = substr($bit, 1, -1);
+            } elseif ('=' === $end) {
+                $lastNullAttribute = $bit = substr($bit, 0, -1);
+                $attributes[$bit] = null;
+            } else {
+                $parts = explode('=', $bit);
+                $attributes[$parts[0]] = isset($parts[1]) && strlen($parts[1]) > 0 ? $parts[1] : '';
+            }
+        }
+
+        return new self(($start = substr($value, 0, 1)) === ($end = substr($value, -1)) && ('"' === $start || '\'' === $start) ? substr($value, 1, -1) : $value, $attributes);
+    }
+
+    /**
+     * Returns header  value's string representation.
+     *
+     * @return string
+     */
+    public function __toString()
+    {
+        $string = $this->value.($this->quality < 1 ? ';q='.$this->quality : '');
+        if (count($this->attributes) > 0) {
+            $string .= ';'.implode(';', array_map(function ($name, $value) {
+                return sprintf(preg_match('/[,;=]/', $value) ? '%s="%s"' : '%s=%s', $name, $value);
+            }, array_keys($this->attributes), $this->attributes));
+        }
+
+        return $string;
+    }
+
+    /**
+     * Set the item value.
+     *
+     * @param string $value
+     *
+     * @return $this
+     */
+    public function setValue($value)
+    {
+        $this->value = $value;
+
+        return $this;
+    }
+
+    /**
+     * Returns the item value.
+     *
+     * @return string
+     */
+    public function getValue()
+    {
+        return $this->value;
+    }
+
+    /**
+     * Set the item quality.
+     *
+     * @param float $quality
+     *
+     * @return $this
+     */
+    public function setQuality($quality)
+    {
+        $this->quality = $quality;
+
+        return $this;
+    }
+
+    /**
+     * Returns the item quality.
+     *
+     * @return float
+     */
+    public function getQuality()
+    {
+        return $this->quality;
+    }
+
+    /**
+     * Set the item index.
+     *
+     * @param int $index
+     *
+     * @return $this
+     */
+    public function setIndex($index)
+    {
+        $this->index = $index;
+
+        return $this;
+    }
+
+    /**
+     * Returns the item index.
+     *
+     * @return int
+     */
+    public function getIndex()
+    {
+        return $this->index;
+    }
+
+    /**
+     * Tests if an attribute exists.
+     *
+     * @param string $name
+     *
+     * @return bool
+     */
+    public function hasAttribute($name)
+    {
+        return isset($this->attributes[$name]);
+    }
+
+    /**
+     * Returns an attribute by its name.
+     *
+     * @param string $name
+     * @param mixed  $default
+     *
+     * @return mixed
+     */
+    public function getAttribute($name, $default = null)
+    {
+        return isset($this->attributes[$name]) ? $this->attributes[$name] : $default;
+    }
+
+    /**
+     * Returns all attributes.
+     *
+     * @return array
+     */
+    public function getAttributes()
+    {
+        return $this->attributes;
+    }
+
+    /**
+     * Set an attribute.
+     *
+     * @param string $name
+     * @param string $value
+     *
+     * @return $this
+     */
+    public function setAttribute($name, $value)
+    {
+        if ('q' === $name) {
+            $this->quality = (float) $value;
+        } else {
+            $this->attributes[$name] = (string) $value;
+        }
+
+        return $this;
+    }
+}

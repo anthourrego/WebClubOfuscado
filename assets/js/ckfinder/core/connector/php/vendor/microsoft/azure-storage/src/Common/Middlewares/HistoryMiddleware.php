@@ -1,202 +1,200 @@
-<?php //ICB0 56:0 71:1d4f                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-1mzKWW===
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Common\Middlewares
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2017 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
 
-?>
-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
-Nh5cmi1I
+namespace MicrosoftAzure\Storage\Common\Middlewares;
+
+use MicrosoftAzure\Storage\Common\Internal\Validate;
+use MicrosoftAzure\Storage\Common\Internal\Utilities;
+use MicrosoftAzure\Storage\Common\Internal\Serialization\MessageSerializer;
+use Psr\Http\Message\RequestInterface;
+use Psr\Http\Message\ResponseInterface;
+use GuzzleHttp\Promise\RejectedPromise;
+
+/**
+ * This class provides the functionality to log the requests/options/responses.
+ * Logging large number of entries without providing a file path may exhaust
+ * the memory.
+ *
+ * The middleware should be pushed into client options if the logging is
+ * intended to persist between different API calls.
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Common\Middlewares
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2017 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+class HistoryMiddleware extends MiddlewareBase
+{
+    private $history;
+    private $path;
+    private $count;
+
+    const TITLE_LENGTH = 120;
+
+    /**
+     * Gets the saved paried history.
+     *
+     * @return array
+     */
+    public function getHistory()
+    {
+        return $this->history;
+    }
+
+    /**
+     * Constructor
+     *
+     * @param string $path the path to save the history. If path is provided,
+     *                     no data is going to be saved to memory and the
+     *                     entries are going to be serialized and saved to given
+     *                     path.
+     *
+     */
+    public function __construct($path = '')
+    {
+        $this->history = array();
+        $this->path = $path;
+        $this->count = 0;
+    }
+
+    /**
+     * Add an entry to history
+     *
+     * @param array $entry the entry to be added.
+     */
+    public function addHistory(array $entry)
+    {
+        if ($this->path !== '') {
+            $this->appendNewEntryToPath($entry);
+        } else {
+            Validate::isTrue(
+                array_key_exists('request', $entry) &&
+                array_key_exists('options', $entry) &&
+                (array_key_exists('response', $entry) ||
+                array_key_exists('reason', $entry)),
+                'Given history entry not in correct format'
+            );
+            $this->history[] = $entry;
+        }
+        ++$this->count;
+    }
+
+    /**
+     * Clear the history
+     *
+     * @return void
+     */
+    public function clearHistory()
+    {
+        $this->history = array();
+        $this->count = 0;
+    }
+
+    /**
+     * This function will be invoked after the request is sent, if
+     * the promise is fulfilled.
+     *
+     * @param  RequestInterface $request the request sent.
+     * @param  array            $options the options that the request sent with.
+     *
+     * @return callable
+     */
+    protected function onFulfilled(RequestInterface $request, array $options)
+    {
+        $reflection = $this;
+        return function (ResponseInterface $response) use (
+            $reflection,
+            $request,
+            $options
+        ) {
+            $reflection->addHistory([
+                'request'  => $request,
+                'response' => $response,
+                'options'  => $options
+            ]);
+            return $response;
+        };
+    }
+
+    /**
+     * This function will be executed after the request is sent, if
+     * the promise is rejected.
+     *
+     * @param  RequestInterface $request the request sent.
+     * @param  array            $options the options that the request sent with.
+     *
+     * @return callable
+     */
+    protected function onRejected(RequestInterface $request, array $options)
+    {
+        $reflection = $this;
+        return function ($reason) use (
+            $reflection,
+            $request,
+            $options
+        ) {
+            $reflection->addHistory([
+                'request' => $request,
+                'reason'  => $reason,
+                'options' => $options
+            ]);
+            return new RejectedPromise($reason);
+        };
+    }
+
+    /**
+     * Append the new entry to saved file path.
+     *
+     * @param array $entry the entry to be added.
+     *
+     * @return void
+     */
+    private function appendNewEntryToPath(array $entry)
+    {
+        $entryNoString = "Entry " . $this->count;
+        $delimiter = str_pad(
+            $entryNoString,
+            self::TITLE_LENGTH,
+            '-',
+            STR_PAD_BOTH
+        ) . PHP_EOL;
+        $entryString = $delimiter;
+        $entryString .= sprintf(
+            "Time: %s\n",
+            (new \DateTime("now", new \DateTimeZone('UTC')))->format('Y-m-d H:i:s')
+        );
+        $entryString .= MessageSerializer::objectSerialize($entry['request']);
+        if (array_key_exists('reason', $entry)) {
+            $entryString .= MessageSerializer::objectSerialize($entry['reason']);
+        } elseif (array_key_exists('response', $entry)) {
+            $entryString .= MessageSerializer::objectSerialize($entry['response']);
+        }
+
+        $entryString .= $delimiter;
+
+        Utilities::appendToFile($this->path, $entryString);
+    }
+}

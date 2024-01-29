@@ -1,72 +1,46 @@
-<?php //ICB0 56:0 71:bc4                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/*
+ * This file is part of the Monolog package.
+ *
+ * (c) Jordi Boggiano <j.boggiano@seld.be>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
 
-?>
-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
-vMDqZ3XdRfIoAwlAljBkZF8=
+namespace Monolog\Processor;
+
+/**
+ * Adds a unique identifier into records
+ *
+ * @author Simon Mönch <sm@webfactory.de>
+ */
+class UidProcessor
+{
+    private $uid;
+
+    public function __construct($length = 7)
+    {
+        if (!is_int($length) || $length > 32 || $length < 1) {
+            throw new \InvalidArgumentException('The uid length must be an integer between 1 and 32');
+        }
+
+        $this->uid = substr(hash('md5', uniqid('', true)), 0, $length);
+    }
+
+    public function __invoke(array $record)
+    {
+        $record['extra']['uid'] = $this->uid;
+
+        return $record;
+    }
+
+    /**
+     * @return string
+     */
+    public function getUid()
+    {
+        return $this->uid;
+    }
+}

@@ -1,218 +1,185 @@
-<?php //ICB0 56:0 71:2024                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-WoARGThw8TmP3/4ucD6AW0o+4K1KREl5lWqJ8k8==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/*
+ * This file is part of the Monolog package.
+ *
+ * (c) Jordi Boggiano <j.boggiano@seld.be>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
 
-?>
-HR+cPm/aB+GjSfJBA22wnsjVrwR/fW3/GEcPlesu8iXFQ8ARu+ipNXhI1DCjNflLxZtROHD9RigA
-Mz5jUjh/yR2bM0ClvcFlfQ+TWg2avqaTVig6apy88/3nUynL0GpZV6k/0L3P/pLp+fOrvXGMw9oh
-fxeIyfAlvbfvAZKRf/lzgQafVFrZixGCgD02+2s2/RCO4pFPCBtCyD52moHeFVvhqSxVRGKksPlI
-27A7HUinNF8p46KPGDhfiIE9zo1Q9HkIhhLZbeoo5/SbFQn/C5mQ1EM715jiOXb61kzJ8xu/XsiJ
-YLzgLUi4lK8sH3+wnnMs/LsMZEmsYtbX4FsNOhz8ihkuOHMeKuqulAo49gJWcFjCh0jcFNS9aoGV
-thpirK+9o4cIui5xx/ljbapRrxBQB8nBLfIIB8I2iN6ADc+CgKPRU1XV8O+FkMRsEjiud97dThAd
-g3dHJ+AXEtOijxbQAFEyTfHRMLfZNKwEj2oI5z7+Y9Ama90cJV/fCML/GGITzNvWqT6a07oi+Xpt
-zUGV5yy5pA7gHHNQ/q8eMYLtwWCc3wQHmsCMzNAVLKzS9S/VbAESDfPxGR+4Lt8e1iJi3xOpm08E
-bKIePKAFZMCS2LPvahCfIUpya4aBwxUSBXW1aCoETOOtlUCqSbmzjRekbCEtqNLJfkpSUTLirzEv
-KLcCU9mQxXfrygR/kqv/mxcy32UAnKW5P4clO5JETkC2YKfbWeeNmhMdQvofGuQfwqJYh9JEc5WS
-MoikXj1G16MsOIM9pVS5MAiJnjIzdoHEHdPxeNOsddC/SKHv4s3UmUI1PpxRd01U198uR15UCe0e
-tnRRDjdLsU5nG+giySdob0hQUhPFrBrdgAdbXA8qkQvsupD2xSpJi4mOZWgMEUHCsZA/RlYmO9t9
-xVT77IRC4owunOFjBpe5EGEjtcBJ87I/htnZza3B2/EFUKko7NSBvo10YexF8CspjNEHBsG/DWX3
-cePe/wrHSrN1cyA0rKbJFVzymInGf4VtyhN2Sw+ZNtNk/k1J+aYTxiMvNTncbqx9sAqs34KzLRIT
-6VW9WjlXO6T81UQKO56wMHpBIzZT9Ul3YANfLxXlIjmtKjERlseLxYoj4cE+cztCAiXGihTJZBzf
-g4DG8RsRo8qAb8Kf2dEgkfkurdFw+toycIKgx9T8T4O66j+ZvpPr6IRtpbwKNpXw99TaCVlDz8BZ
-G2J1ZwZ4djiz4S158X0Y6uZT0XrcrkvNmfmzNBHNFMu9zyapN4bjGqeCi+H4fqz3LChlpulz3D/n
-XPM4EjUoVpUQ+7b2PXkQ5oK0sUrGN7B3+D3sv0I6qg3d8Km8iIKieujymAarCDLIdDx62MebbrIg
-Ge22t4hbpDg/kmqhxBxE2Ivrby1ZkOBOZRfkmNf3ZXLiveBCnfMU7aTyCYnovrpzgX7CACTaZV23
-pGbc/yT8L12tStozOjawBSELyAWa4gjt/pZnYGJ2b38Npw2Qg2Qp3L2VOlDX/o/d9mCz6BPK6Pun
-JuOigyqWBNOuWM8k/v0rybJpSAMIxgzWgd+2tbi717P7dRDI7PwlRhVL7UlQZcouGq4Emmx3CExJ
-gnEPxzLHoemdxzc3WW51B0n7p0JPB78qIZuPOTmM1qHcJ6N0AQHbZvEqRueaPDnJP9kpXNCSkI4i
-VP6mLsQZrbPIVo9KqUGbSZJKe+fv2L8Ech/M0TJc6BV0R39LxgEI5qJINNhNo66QNMSa9P1ITjTp
-HuCxRTijkkbGLHzL8UAiDL/cCH6kOhEE7fBX16hZcV8BShhIPFQ8zXPETzrCIT/hageKUNvLZjFw
-tQKHbIAi9ytQvbLYNMcmSopuspPw/z2Sj1lVV42RRAD1jhO982b50xHqyXOLjY/RDq4qP6KkJMEd
-SZIKvUD2A9CK6/4ZsG2Gv+hLpP4ob+FW5VhkjtANW+J9OyAobMv4ezCoVoYvZuyRmJrh5zqXsKeN
-vOslv4jaLyNr0M1MZWzNwBUKW+dnyvjXX3fp7SaJZVIr4QMgm3lR5oOxf8XO25qRro7ljEEQOUIj
-0/zQWznlSf9wmxk8NDrNjpMLAcq6/CYiv9s0iboWhHSUD/nbw5EKhP5OME5nwTQesPNp/i/Rb6u4
-IDV3QPq4ccn6+jU8AZax++CSs7Uentje+mKj+Ys7vp9VWJJ36F8ZpLB1LiK4R0sOPADepz82+e2j
-Q0Vv5wPBPFb8kuS2si+ZKDQHFvEIaKaatBgHyeDzHyQ7ACc6vCAYiZ5nnAxDxPBAK+P3XtdTMtBQ
-sUeE3+w9gyeia2pV3kyiemUpUnE3enM3UXT3cXxNrswvSdyBK0RS0ErJXwNkQg6lEQLSs1lMNT2U
-hUFWoG+8QPVp7hvtRjKNOax2sEb5Xr9qhoN9LduR/z04PVgi/rNP8dO24euRhZP2QJxZ6yST7316
-BHzDz0SpvQcZrCOZslDcZhtuhcWXhh6XUzB71KvRuMYY1swO1GeT1UABPbpDchNHRz+g3FXK//uq
-h54ie1Vz/+MxSMdwjVqCXMoZqm5J0J4cKWlxp1cD8SEskTAMN9maAX7rzmjSXmKVDLNMsqkeWxJI
-dnOZ2lTlr6cvY9MT8TiR3GcCMUgK72v8XftFFO3uwFe1dnhUTzlw+rS1EZltgyiK9PIfuh2UKD0o
-SNXaoYJ8HC1xvamauF4Hgs4BRoBHf2jX+rxzJFbeCehnyV7SIky68C1WltLf6M1Sde8VDWACM/np
-dtF/fsk+iVuPgvEWDFXIFH/xLetRnpj718nOp1zDp+i2em5zzQCD1HOQ8Q4cTSFOoxfXDtkVO0u1
-etnQMWeP16ncHc2oNyDI53bBHx9V/vV3mNwGwMzoHgJEs1JI2vU+cUNrjDnXWxQpp4cFcszOr23S
-V2KmfPf208Xp4UzN6QFdro0D2CUhtelvIPE9zYG5w/eR8PPXp3XQi0A1IPSXSggez6nhc1KmAeBq
-/uirKwh5FpcArkVV453OzBQr4+DyO003Npbxaah0pQiHOe8VKzUL+VYqqKuEfpsfXHefYZ5hn7+d
-/YA+ylvi5YxBgHO7LNIa/YSgxv9idGHKNDleBHxHZBbgT3/tD3qYZ/brXHNpe0uCm6JpPcybYDN0
-8UE9SLvjKiK3/YrsprA+4zsCxWrvwvt2ezRFL26i6aY3BzLBMkuOPKrHtYwn/Mh3o0UjJIlmNmlg
-LN7Swcw/o6Bqvaaa8MTPrnYDNJ0xmwk+BtJmR6IBnNrBSZF9YhLqNxmnQjdrdGbunLXuc9K8ikUO
-DaIpq6DKflcuKjFwK2lRKmLG9q6lzUA50uyzjqbp0juAGvm1hgtG1t9wbTN1ZCbgHTgOYanXucvw
-IzYQtv4tiX6KYKwh/3zlFI4s9ukhb5feAOF9ppcnNHpC9UQeqsOC8wm0JVBMU3qhyQXUYOxUzXm+
-Ak/BiZ8ZHJ7T84mbIIU87dY7UlrRpcMpgvNUt1HtGDwyhrpvjsi0W6dgqbHLqJU8rObdtJgDhU9F
-2xf4T5bisI2IZ5d8BH71J4UB5i8zi/1UC/iTJHdpW5iq8jtuPF17pEz+6lcv+OgF/mXamtNP5f2F
-shoc+RBgytka1hAKy3gFyIKZ6Rm5R7CIVdI0dQ2Pep02UPxw2R5naUY8g2FpkLrDOX0mxH9E2Aex
-q7UWkKUIg41qUM3NsoobpE73voOHXrClGs1JZjhfy+CB2weSfQmmTsGXoTR20Cpf4FWP54hN3hfM
-TiEJycz2FcKbVpPKxTo7K6BptYKvUaxaTIG7MnJe4rwzizXEbUxQ+EJ/qpHB/qrjcYaFcpN7i3ap
-b7zR5AbBgnZmKZGr0qCeo2MDsTo0r2snCalZHxxIBUvrFao0UxfS9T7yiIW9PzCSjKrRXe+wj/B9
-+d5F21lzmdhHPDRudSbOpsBdTl+z2A+OfS7oUHtY+Djvsck9xjItUuvsiV/ks3fuY1LwEGwLW6hy
-EKGfIQHUvDHSZZUbMSzu7FYrnlSiIDTJFSVfdqOfqz3eIUQgNFjFelknHhADLH8thv3Yqfta0/MA
-+/kRLHNsdvQ+xvYev1j95huaEpJXi+bFv/mP6tabmlgk6ZzNxSiBbPB1hLXo1ADyw5vZR20U4Wc6
-tXvWwUEkSicoXKL7IygmRnbum1nGyk+3a+jrtblng1dv+ZPKOe826kRneG+Wah9g8duPO7fNmtL1
-JYx6qJfzshWhhrX27yzbJZTqenNiSiHhSsvSNspnl2J5GV3DQdvlqYbBIGFHw4vJFPI8yWGxOkuj
-VW0TSsVpeQQxmA86mJN4tz8CiGDF2XyccOeZXguoqNCJnuPKkAq4ktt5ScmhoMT/zSMov4ax1Xi8
-yCMhJsGdqX5iAK0WPFHgousdGe5/pOq070y4h33lcHhSk0tNVWGrkfCFZ1aX93OrXIKVhL7Ugkcd
-S83r8R6LsE5yE158kpbqI4Xyd9f3OZfE+mLHSougeaDDneF6Skt4/chzB8La6SPeKlyd68+OMYJh
-Ovr66kQ/p2l+xgoMd4SrYlYC7D8FhK3ZZwKn/6h9S0b9Gu4CPjxx7LiBFMXOtPgAhELsLSUcMxmf
-dtO5Bf1FWGkqNPxLydnv4QIJpFeIfTMjXnKf3xrpGI999uv1OS4Q5ueU2Oxo/ikz/8tflAhJm/q4
-qB/xR1kkmf19pVWtZPvS1lqptbBUkshCMvkrvVDcbTBKDpwF7a/3mHdRcCqSkUmrKoNJOJtxPUzc
-t8WCLbqFnXbjejX2DBhZ08CiYblvfmbAy7RXPLZrO8/1QmMytYHZsbztt0T+m6l61ZtEls9HCSAb
-995YHuFf6QtoRxLbddkWzt4gQJz7cOrgSIcZLE2YRWbIUwmrm2eeJaE8pPHcP3t+Tm5TIr2cPY6t
-t92r09xTFjbaSNHwlLnuiNNn1WgbO4NUnLRqhFx+xgGM+ahKwh/bahGI0nua20OftMONa5vgtCBV
-IHnwNC1KCJ3nWtGsA8+D7Ih+6pkte5V1xTiexdUNeLxkCOACK2a3wAKZoiHRfHnG9KnjfbbwIhgn
-q2RDtOUGGMKmIwq6372pfofsacWx189803KYQPuBojUHFT7fUXO5sLTFsT5pN0gP6867kLrk2+lL
-BK0wK0zXM+SpMJDdIoBbcuHZwi64ZcRHZJOzsNbdHm66HClO0vB5fmypN22Sf43UVbuGCbp/Na64
-rN6AjgwWLESFYT8DbKnsxlKhLQTDSzXct2azbgkmk74dMCZu8qPfjZHRRfuKM76Gwcb3mhoTIh3S
-5JEO6lKEpS8f7/fJjt0oYPjeBwuUPdUZYggxuCrLBKZr8LisgUMkN4OrVM83adBhOlhdJpg2+Tf1
-E+f8B8RwjRocP4D7bxUi5PyfCZB1YgbM1NLkyoW8K+LUErhq3J/ICKp7wjBsVmLROycko6Vw+jVR
-EG8W0A7dw0Ezfubo0mFS0SmIclN3Zvfn29SqeWiK9MOlDp82Sr0LdToqk/Mp7sMsEBccX2ZJuioM
-TlL0tJCY5GHGS7zHqdAEsP0+hJujzvpP0b3+FI1hNLp3G0yeY48hmXojYsrx3M4lX7o2iHKCCp8o
-WVM8WZuXai+cwHQOhXN7q+lHNh7glC3NHkPpW4uGZ/1Pk9Ez6z5C35FT42yfnWToceBdSAubYwnh
-L3vpcG/Hk7+wgw95Uh4LyyIl90ZMll5pyBucbsmUl0Ag4d2HXibm6+J7yFzhho2EcHfFouBgnG4F
-vfaaR+8rf1rfp6G9dMZrvMZeYP0XMuVZ3+L8lz0zxU4QeNBCVmeZQByqAfbw6iUBOF0YVpMG2KcF
-976SQ/CtWrVD0YfNV/mLqzW5rOVsv9CQYhWQrweuHcniofE+uAQMZ8bd4TALhis8kxNoswa71IiV
-/uebEXvHIu47lr8uyU2fLSRNCgONyGs4s+UZrInYPpYULnfkARsL5W0kz6eEfSjrVKe1M+wMk7Wd
-xays4WstX7J/wb/SKd1hG6BrnDe0U6qgKxQSJwSFwERTfrQwB9UusJVLw3ZPzV3rmMlzWjIzvOzu
-cYUtzxJBbfZizgSw6blcnIbH/cCFlZ5+zKz1VyYGBZ3eu4p9RmA8fcc1Pp5o748vfTihvt5l/k97
-J2lduT3Cw7IEk3Fj8JOT+SGUqD4GvjGjMnuv7/Nk0p7OTZ6rx33tQ5q0hwLnnvxiAhVGGUjaxOTU
-wCr8cubgViensJ90Q+L4Z9W9JIC/T1VUeYCSKr//rG53HX2NJB8Q5mWUZ6yJzYdjsAeALnlAicYl
-A2tzjxYsPyiN6HQWxL+bv2UlQPo3G0I1Wd0b6be5GyMuPdQrAF/LWxW7nhrPePC2IMEBwp5Yet4i
-fJvWXOg15nDRMBTpbLRjUCmFUzDKmBg9enRVo5J2aaO2tN/x897W1W5az5NP540CyOSw2cy/Ca43
-5PfX00E5wtyZ+l6RgUxMZb0gIumAsQSRxyju6PG+vVwM4sXsiVnq6M1yNc+IAbqMObvtw2TB1863
-8YsagiDNpucTuZ30662ehhmK/BRuNxIEbYpgjhPca+63dHlWufabrGifT+gbFOtjoNCXicV/cYZW
-GsgrnYqx2QsAOV8dNRawdlG38J5OcxkQL2HyN5sY82fPXTOZw0PyEQPCYlAlhD2s2JPv6ziVXad6
-gMp7N/8msy4XMRRNycHM89hHI28viIorNu3kHg8+OdgmTBWsSGeSkJTlbw75dXsb2koSWxz8CkV9
-ZIkoShM745g4doYbHaWqaVJf2sc6pM/wvy466lQVU106utef1mjpSnixqSsz40vxY0fdOQDLX8gR
-nwiGeMzVJVlt30nGpcqzew1fu8uKRKgp2MDuG5UtwYtUNYEFdB/EkqjaWYBiI5FIXS4RRI6HJ9hn
-3ZytUk1nUe8L7FtEhcjEtU3Qmm8WMOM53xedslx7bvJKvj0M/+bbV1eo3mDa5Ngua0akrvKoIqsp
-Jcx1oMy32cN5SX0aJ1TM8WV4PmTR6lDqmHdqu0pUEQN24wNz9hgngqg0lA3BLxVz2wqEfDX/i+aD
-waktt2SU3/8ATRDHuiAZc+5it6Mf5jC15xVHCiIGjgRln8T7l0Pn8uE5Wigf/GVMsQr99GhlsSZw
-IcKamtBWHoTqyeMpyAu88btlJLgUDcbBFrP8T3VMxgJGJEof5/MnCFJsXvawdorPhAWKwJ8O79ol
-rl0cZm6fUQ4pr3OpXvpcOzxZ3iYWe31WUNxhAy8EvTrbsuWeuv3Sz9duxUZyFnY/a6wTBynR8ASf
-avhjs5Nd22R/whCj3HjWyi1+SSz8sELd1yiuGaHwrjmSg2WqOY0nmA4rVDEIaodnjELkhJRfoBlW
-/I7M007gMg4cJY8ISExIwkw5ddixcixzzSCRQcY1csr8m+jR6IIfkzpAZ4oYIEo+FVVz3CaFymD2
-7GWkgL+ORT9kYpZYn3sguS0mjE9kgtG+FS7ClIZMtkEiIeoh7B/SPCBzDAqHLCTUv217UvAKgnKZ
-k9fiL0wabCFg9bD5807uyPqWIYDpPwpZuopnMJw5wuPI8Ki2lowHVTcjtwF9Ygt51aRl9/ziMySz
-42QNKhBxYqWJRrmnZBVcziCZ4BCJnamZBjD7FcFeBXn6VmK/EF/hxexbjV7TCtmQ28p4Mhddy2cz
-eSnvzfsGualh7NgLSii9lVbGT4tMboZg9N3hhOI+A2fFwTmzGVQv+gz0NwDcnJG4kJezhdZaajP1
-E3vfMKT/6wX6ZRCzIn4260TFUuNrtoGRdA68ysGe4BkwwVYTSE8+8pP44eswCB0+0CVFh5Y30wrA
-tp6tv/cN3O9tPDEGZxODgEWkZPXn4aKFBl6SK8oX/a/lJcux0xat6htDNkGn6p7uoHvVocyIxr1H
-XbsQ8oKgEvFSldNqxJ/7hOYCiKLTJdzoRKYZM4MqZz5xGfOZdnwypN0SAVZPd9W2akFYzjgoYEvK
-fazsZQ7vbIXq+ZgjXP0nxMqe5ScfAgFTGEBCWe4wOsOXjps07R7jNWvRc/4JXqemHmKmiifDCPSc
-Hf34nRPGu1sOcr+ElZdoENc9nnM1+2EFVwJ2mVT1F+tLQaWYKFlXQeStn1vSbly1v/JwUoypPrvp
-X5PxJ44g1FuN87tlkfJOZM07oOx7rGBxzYlPkVBcykNN0LVCw5Oupljd4a9vnZHhS5IobLXaOXty
-RjA66gi3vhHp5KVl80Mn/5QgLcqznmHJKKopBP1w1Fb/jHbHxInSjoHPuL8fvP+h/xkdXvw6vPoL
-AIH//2MQtF+yeBk4exLbPyvbGPQabNciaisfNJeA1hMgXgdXm0==
+namespace Monolog\Handler;
+
+use Monolog\Logger;
+
+/**
+ * Sends notifications through the pushover api to mobile phones
+ *
+ * @author Sebastian Göttschkes <sebastian.goettschkes@googlemail.com>
+ * @see    https://www.pushover.net/api
+ */
+class PushoverHandler extends SocketHandler
+{
+    private $token;
+    private $users;
+    private $title;
+    private $user;
+    private $retry;
+    private $expire;
+
+    private $highPriorityLevel;
+    private $emergencyLevel;
+    private $useFormattedMessage = false;
+
+    /**
+     * All parameters that can be sent to Pushover
+     * @see https://pushover.net/api
+     * @var array
+     */
+    private $parameterNames = array(
+        'token' => true,
+        'user' => true,
+        'message' => true,
+        'device' => true,
+        'title' => true,
+        'url' => true,
+        'url_title' => true,
+        'priority' => true,
+        'timestamp' => true,
+        'sound' => true,
+        'retry' => true,
+        'expire' => true,
+        'callback' => true,
+    );
+
+    /**
+     * Sounds the api supports by default
+     * @see https://pushover.net/api#sounds
+     * @var array
+     */
+    private $sounds = array(
+        'pushover', 'bike', 'bugle', 'cashregister', 'classical', 'cosmic', 'falling', 'gamelan', 'incoming',
+        'intermission', 'magic', 'mechanical', 'pianobar', 'siren', 'spacealarm', 'tugboat', 'alien', 'climb',
+        'persistent', 'echo', 'updown', 'none',
+    );
+
+    /**
+     * @param string       $token             Pushover api token
+     * @param string|array $users             Pushover user id or array of ids the message will be sent to
+     * @param string       $title             Title sent to the Pushover API
+     * @param int          $level             The minimum logging level at which this handler will be triggered
+     * @param bool         $bubble            Whether the messages that are handled can bubble up the stack or not
+     * @param bool         $useSSL            Whether to connect via SSL. Required when pushing messages to users that are not
+     *                                        the pushover.net app owner. OpenSSL is required for this option.
+     * @param int          $highPriorityLevel The minimum logging level at which this handler will start
+     *                                        sending "high priority" requests to the Pushover API
+     * @param int          $emergencyLevel    The minimum logging level at which this handler will start
+     *                                        sending "emergency" requests to the Pushover API
+     * @param int          $retry             The retry parameter specifies how often (in seconds) the Pushover servers will send the same notification to the user.
+     * @param int          $expire            The expire parameter specifies how many seconds your notification will continue to be retried for (every retry seconds).
+     */
+    public function __construct($token, $users, $title = null, $level = Logger::CRITICAL, $bubble = true, $useSSL = true, $highPriorityLevel = Logger::CRITICAL, $emergencyLevel = Logger::EMERGENCY, $retry = 30, $expire = 25200)
+    {
+        $connectionString = $useSSL ? 'ssl://api.pushover.net:443' : 'api.pushover.net:80';
+        parent::__construct($connectionString, $level, $bubble);
+
+        $this->token = $token;
+        $this->users = (array) $users;
+        $this->title = $title ?: gethostname();
+        $this->highPriorityLevel = Logger::toMonologLevel($highPriorityLevel);
+        $this->emergencyLevel = Logger::toMonologLevel($emergencyLevel);
+        $this->retry = $retry;
+        $this->expire = $expire;
+    }
+
+    protected function generateDataStream($record)
+    {
+        $content = $this->buildContent($record);
+
+        return $this->buildHeader($content) . $content;
+    }
+
+    private function buildContent($record)
+    {
+        // Pushover has a limit of 512 characters on title and message combined.
+        $maxMessageLength = 512 - strlen($this->title);
+
+        $message = ($this->useFormattedMessage) ? $record['formatted'] : $record['message'];
+        $message = substr($message, 0, $maxMessageLength);
+
+        $timestamp = $record['datetime']->getTimestamp();
+
+        $dataArray = array(
+            'token' => $this->token,
+            'user' => $this->user,
+            'message' => $message,
+            'title' => $this->title,
+            'timestamp' => $timestamp,
+        );
+
+        if (isset($record['level']) && $record['level'] >= $this->emergencyLevel) {
+            $dataArray['priority'] = 2;
+            $dataArray['retry'] = $this->retry;
+            $dataArray['expire'] = $this->expire;
+        } elseif (isset($record['level']) && $record['level'] >= $this->highPriorityLevel) {
+            $dataArray['priority'] = 1;
+        }
+
+        // First determine the available parameters
+        $context = array_intersect_key($record['context'], $this->parameterNames);
+        $extra = array_intersect_key($record['extra'], $this->parameterNames);
+
+        // Least important info should be merged with subsequent info
+        $dataArray = array_merge($extra, $context, $dataArray);
+
+        // Only pass sounds that are supported by the API
+        if (isset($dataArray['sound']) && !in_array($dataArray['sound'], $this->sounds)) {
+            unset($dataArray['sound']);
+        }
+
+        return http_build_query($dataArray);
+    }
+
+    private function buildHeader($content)
+    {
+        $header = "POST /1/messages.json HTTP/1.1\r\n";
+        $header .= "Host: api.pushover.net\r\n";
+        $header .= "Content-Type: application/x-www-form-urlencoded\r\n";
+        $header .= "Content-Length: " . strlen($content) . "\r\n";
+        $header .= "\r\n";
+
+        return $header;
+    }
+
+    protected function write(array $record)
+    {
+        foreach ($this->users as $user) {
+            $this->user = $user;
+
+            parent::write($record);
+            $this->closeSocket();
+        }
+
+        $this->user = null;
+    }
+
+    public function setHighPriorityLevel($value)
+    {
+        $this->highPriorityLevel = $value;
+    }
+
+    public function setEmergencyLevel($value)
+    {
+        $this->emergencyLevel = $value;
+    }
+
+    /**
+     * Use the formatted message?
+     * @param bool $value
+     */
+    public function useFormattedMessage($value)
+    {
+        $this->useFormattedMessage = (bool) $value;
+    }
+}

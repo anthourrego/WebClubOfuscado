@@ -1,78 +1,66 @@
-<?php //ICB0 56:0 71:ca7                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\Api;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cPt6kqvJaYYZRyHX6jvj5djqCqUGciRV96vcuwORYVAdCG9zUjLB3bGx3cRIZlD7oGTpL4FuR
-kuppO8mMgYxpFrLWKnM/9M0PrI3fV0Fr0a2PTPwTVOzgfqyqVL57qtJ7XtDfx9M3zSrP/5UTmdtQ
-hoVaIgVWVXhzEVyUPJ9aZ0zGO+ryOgne2+eUI35WyBbU0vGkwIrqRvX8tJ6hczrjCELR4TAnsWjQ
-TC4ay7xA7ECYLJNRp9ZOGmS08m1kr72jMTNWxf02/8wULxI9snptqslkKFHj23OOf+ehxjcJGEQv
-Dd0k/q2rQqlipNiXgI7zGIJsyrOeHjWJAQxCzX5q/38EaVNOvuGUaM29SE6ehBX8i2MIUE/bEHbc
-YRxoiBnP7cYbABK4wYNHCGVYfgJFdRW21AIZyz1FUvA4U/f7xbU89lqVcqWPKHgcMBPsYXpwnn9X
-g7gt3oyVjnZEkJ28VcxgznIpWlACj7VXZWzWHVSHcaEZy600ubscpy9XtekQPu8P0mRwCReYivU3
-nm1W0dnHNt7Df8rGVhTUW4hnfxIUSJK5L/2xo6c32U0qWj1ENexGTbwYC8/s8FPY8KHHyGnJg8gp
-WIaR634SNHK55HfAocBo7uLMdflw0hIUlZjswmO82ZZ/Cx9uTs+UBgnhf9LG94exquQY8mGVOA3C
-eh+qzmgj9oXcImxgdmAeJTZOY3f9Ty33meyPJX8FzHDyJ1S3wzLUd695kXZRetWztTRkVYT/wNHB
-rAEfEciMEq11vkLCCc+zoW3eVWzjoHsgkNJshGNmHrNUB1ucKx55aF5p7GN/9vnrc8NucHKogT8T
-52Z1zBk8yllGeuse3hmjBirn2PQo3bBtWzyPj7gEY0Xho53K2AqcJk8+aUqJHlWECwOSisOX18TD
-VCK/7WyFAuNR3qFmiwjW02lFWR665ZDYPBs38DuR76pyYrJnKLiEhq3QZnPtP1lpvQ95cpRPY+DN
-rS664QaLXmvtWaQRtchDELyo/M3ePebgeA5frGyFhptf6eSsJd+SbWBsaMeRXifEazeJm8FTERFl
-gaWk8T2HccX+96iepzJ9wr8/1oV0n5K6UOu7IBgDSdW8Rz6JDS+8NjQ/UtXMNQ9vUXXbKQ1il/x1
-VzBk8WL1pIgDmErpgks6K0RV6i9IZJu/vVZKHpTWbavbWVw9lM29CAF27OFhnlS6gKZNTHruIhJX
-prsNaJ562OTSC/WfvcQPGOP9UKiHEl3g2BeKx4q7OSwyqrZamHwx+0zoPqmiN5+591JMOkYDlC7t
-izo+IlS9k893fZiemIM1MzlMEUSsGD6QB+1t7bNcG1gqWJY9s5HJm09dIRszt1Xp4As6hSpFIJ55
-tziFvW0WRCPFXbq6s0AIQPu3y9WEUu03LLNv73F+MNdOnssvDTmn70yO/Ns7UZ1XAI84j+jrMZ7c
-p5sEnhmMMHqA4BErrcg2DV6Fv0Akr+vzSr0d1rZV6NRRtTJFRrMobg7hDq0+QIZX5KJ6RWaFIAVQ
-jn1pUZGZhJwAEAgCbojpCPl6qVYqSjdN67/3pFQaXrWmnYF37sRZZySHNVTCXh7y3h7bNVLhtpts
-0u8VAPE0T3uZcNeknt9xCqubA7+lSMMt6U+zmgB4mQ7mMkn08watfI/aLfM1ACQ8bmxQllWQWJ8O
-k6z9064rZFdBTjKe2qp/m5ZeB8vfagJraK5od52TgTsae426bmJKjOqG7e76g2/C+DIb1k6qWx+f
-RdLkyIICMgHW1R7ikH1KagoQ1Dpi4Mq5Gpg4ojtcFMvlt9UET/HRG0CtMMcmpCPenhrVu5BcIO35
-t5RBKsoCYLmWzlDyAWoalU1iTr8Z0j0bClUqBi72XNKZye2lbNvEDi+5hOVYTSSz7ljxYeuIL1h5
-pWt1WRdpVtdwXpNc17a0SdkgzHyhdhWGvPEeAqC8oaM4xwnroDMWnxbUy5V+VfeDBjcqwMKVSxKl
-x3BXexzotWhDz5u/4u17DiWVNkLBb3g8XRl1ykcDglSfMmZ7miuxO1RRKAGE5BS6NiFMlqdJvrkY
-GmBHslAJ+p9S+sL8Df5hoOqmXKMbpTIN6/eTyYQs/XN6Ht+2effZVfwhtcSb0DSGL6lPKYnwUaAu
-dEqldQLlL3EJA77FJM4IJghDnvSQATRwUfJWmVGaHImJm+0MiL4AKXBKCAUHeswwkO0qM/j9V7QE
-D9SYPGW+Sx9q+eLe47zifF269BP+HL3XgrwIsOMZzqYcPci7Df3uV3EU9cFet0mFlfGpL3PgjLCk
-nEzm0EY9AVAAopdqvTpuz6adPsopduHNeydpm9yi3nMICMIkR+k0n0===
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * Builds shape based on shape references.
+ */
+class ShapeMap
+{
+    /** @var array */
+    private $definitions;
 
-?>
-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
+    /** @var Shape[] */
+    private $simple;
+
+    /**
+     * @param array $shapeModels Associative array of shape definitions.
+     */
+    public function __construct(array $shapeModels)
+    {
+        $this->definitions = $shapeModels;
+    }
+
+    /**
+     * Get an array of shape names.
+     *
+     * @return array
+     */
+    public function getShapeNames()
+    {
+        return array_keys($this->definitions);
+    }
+
+    /**
+     * Resolve a shape reference
+     *
+     * @param array $shapeRef Shape reference shape
+     *
+     * @return Shape
+     * @throws \InvalidArgumentException
+     */
+    public function resolve(array $shapeRef)
+    {
+        $shape = $shapeRef['shape'];
+
+        if (!isset($this->definitions[$shape])) {
+            throw new \InvalidArgumentException('Shape not found: ' . $shape);
+        }
+
+        $isSimple = count($shapeRef) == 1;
+        if ($isSimple && isset($this->simple[$shape])) {
+            return $this->simple[$shape];
+        }
+
+        $definition = $shapeRef + $this->definitions[$shape];
+        $definition['name'] = $definition['shape'];
+        unset($definition['shape']);
+
+        $result = Shape::create($definition, $this);
+
+        if ($isSimple) {
+            $this->simple[$shape] = $result;
+        }
+
+        return $result;
+    }
+}

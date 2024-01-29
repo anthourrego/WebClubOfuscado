@@ -1,214 +1,253 @@
-<?php //ICB0 56:0 71:1f49                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @ignore
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Common\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2017 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
 
-?>
-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
-57h2A14s5rYj6HujjwZWYaK1JwSnQ7VS
+namespace MicrosoftAzure\Storage\Common\Internal;
+
+use MicrosoftAzure\Storage\Common\Models\AccessPolicy;
+use MicrosoftAzure\Storage\Common\Models\SignedIdentifier;
+use MicrosoftAzure\Storage\Common\Internal\Serialization\XmlSerializer;
+
+/**
+ * Provide base class for service ACLs.
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Common\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2017 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+abstract class ACLBase
+{
+    private $signedIdentifiers = array();
+    private $resourceType = '';
+
+    /**
+     * Validate if the resource type for the class.
+     *
+     * @param  string $resourceType the resource type to be validated.
+     *
+     * @throws \InvalidArgumentException
+     *
+     * @internal
+     *
+     * @return void
+     */
+    abstract protected static function validateResourceType($resourceType);
+
+    /**
+     * Converts signed identifiers to array representation for XML serialization
+     *
+     * @internal
+     *
+     * @return array
+     */
+    public function toArray()
+    {
+        $array = array();
+        
+        foreach ($this->getSignedIdentifiers() as $value) {
+            $array[] = $value->toArray();
+        }
+        
+        return $array;
+    }
+
+    /**
+     * Converts this signed identifiers to XML representation.
+     *
+     * @param  XmlSerializer $xmlSerializer The XML serializer.
+     *
+     * @internal
+     *
+     * @return string
+     */
+    public function toXml(XmlSerializer $serializer)
+    {
+        $properties = array(
+            XmlSerializer::DEFAULT_TAG => Resources::XTAG_SIGNED_IDENTIFIER,
+            XmlSerializer::ROOT_NAME   => Resources::XTAG_SIGNED_IDENTIFIERS
+        );
+        
+        return $serializer->serialize($this->toArray(), $properties);
+    }
+
+    /**
+     * Construct the signed identifiers from a given parsed XML in array
+     * representation.
+     *
+     * @param array|null  $parsed The parsed XML into array representation.
+     *
+     * @internal
+     *
+     * @return void
+     */
+    public function fromXmlArray(array $parsed = null)
+    {
+        $this->setSignedIdentifiers(array());
+
+        // Initialize signed identifiers.
+        if (!empty($parsed) &&
+                is_array($parsed[Resources::XTAG_SIGNED_IDENTIFIER])
+        ) {
+            $entries = $parsed[Resources::XTAG_SIGNED_IDENTIFIER];
+            $temp    = Utilities::getArray($entries);
+
+            foreach ($temp as $value) {
+                $accessPolicy = $value[Resources::XTAG_ACCESS_POLICY];
+                $startString  = urldecode(
+                    $accessPolicy[Resources::XTAG_SIGNED_START]
+                );
+                $expiryString = urldecode(
+                    $accessPolicy[Resources::XTAG_SIGNED_EXPIRY]
+                );
+                $start        = Utilities::convertToDateTime($startString);
+                $expiry       = Utilities::convertToDateTime($expiryString);
+                $permission   = $accessPolicy[Resources::XTAG_SIGNED_PERMISSION];
+                $id           = $value[Resources::XTAG_SIGNED_ID];
+                $this->addSignedIdentifier($id, $start, $expiry, $permission);
+            }
+        }
+    }
+
+    /**
+     * Gets the type of resource this ACL relate to.
+     *
+     * @internal
+     *
+     * @return string
+     */
+    protected function getResourceType()
+    {
+        return $this->resourceType;
+    }
+
+    /**
+     * Set the type of resource this ACL relate to.
+     *
+     * @internal
+     *
+     * @return void
+     */
+    protected function setResourceType($resourceType)
+    {
+        static::validateResourceType($resourceType);
+        $this->resourceType = $resourceType;
+    }
+
+    /**
+     * Add a signed identifier to the ACL.
+     *
+     * @param string    $id          A unique id for this signed identifier.
+     * @param \DateTime $start       The time at which the Shared Access
+     *                               Signature becomes valid. If omitted, start
+     *                               time for this call is assumed to be the
+     *                               time when the service receives the
+     *                               request.
+     * @param \DateTime $expiry      The time at which the Shared Access
+     *                               Signature becomes invalid.
+     * @param string    $permissions The permissions associated with the Shared
+     *                               Access Signature. The user is restricted to
+     *                               operations allowed by the permissions.
+     *
+     * @return void
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/fileservices/establishing-a-stored-access-policy
+     */
+    public function addSignedIdentifier(
+        $id,
+        \DateTime $start,
+        \DateTime $expiry,
+        $permissions
+    ) {
+        Validate::canCastAsString($id, 'id');
+        if ($start != null) {
+            Validate::isDate($start);
+        }
+        Validate::isDate($expiry);
+        Validate::canCastAsString($permissions, 'permissions');
+
+        $accessPolicy = new AccessPolicy($this->getResourceType());
+        $accessPolicy->setStart($start);
+        $accessPolicy->setExpiry($expiry);
+        $accessPolicy->setPermission($permissions);
+
+        $signedIdentifier = new SignedIdentifier();
+        $signedIdentifier->setId($id);
+        $signedIdentifier->setAccessPolicy($accessPolicy);
+        
+        // Remove the signed identifier with the same ID.
+        $this->removeSignedIdentifier($id);
+
+        // There can be no more than 5 signed identifiers at the same time.
+        Validate::isTrue(
+            count($this->getSignedIdentifiers()) < 5,
+            Resources::ERROR_TOO_MANY_SIGNED_IDENTIFIERS
+        );
+
+        $this->signedIdentifiers[] = $signedIdentifier;
+    }
+
+    /**
+     * Remove the signed identifier with given ID.
+     *
+     * @param  string $id The ID of the signed identifier to be removed.
+     *
+     * @return boolean
+     */
+    public function removeSignedIdentifier($id)
+    {
+        Validate::canCastAsString($id, 'id');
+        //var_dump($this->signedIdentifiers);
+        for ($i = 0; $i < count($this->signedIdentifiers); ++$i) {
+            if ($this->signedIdentifiers[$i]->getId() == $id) {
+                array_splice($this->signedIdentifiers, $i, 1);
+                return true;
+            }
+        }
+
+        return false;
+    }
+
+    /**
+     * Gets signed identifiers.
+     *
+     * @return array
+     */
+    public function getSignedIdentifiers()
+    {
+        return $this->signedIdentifiers;
+    }
+
+    public function setSignedIdentifiers(array $signedIdentifiers)
+    {
+        // There can be no more than 5 signed identifiers at the same time.
+        Validate::isTrue(
+            count($signedIdentifiers) <= 5,
+            Resources::ERROR_TOO_MANY_SIGNED_IDENTIFIERS
+        );
+        $this->signedIdentifiers = $signedIdentifiers;
+    }
+}

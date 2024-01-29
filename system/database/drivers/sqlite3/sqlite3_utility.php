@@ -1,32 +1,61 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2017, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2017, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license	http://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 3.0.0
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cPp1ZyOdkoCckzzPaggd0uV+B3U6km0BkevwuKf6iod7KQ1/3FdQnxF8WPAmMrrGT89iNsZOB
-xa/vJZdOTRE9EW04/yeN2PU9aqGlTOW5MLi9eqIs0VeFKI3Wz9NzfXA7GMlKs1UkxIxuXkb2CG3s
-kvowiA5eIr7gJhW1AE208Li2+N2s1wO5YEtmukabi9yEXIK/H6dJXDwqZMf0c7XvCb+MfqY9CxJP
-5wAQZ7bDFdAEp4BqhgMWHwdeQBNuLuLex/FPxf02/8wULxI9snptqslkKEHkqOHfTYPB5TGS/0w9
-p7fylHPdTWIxg2iOM+bKPrc6o8XpZOVe3TGXIZ0nZ25+zaJb4tkdAQgrsYA9XecIBh84j5mYuO1A
-CK0xU18+zWdLHpcKV9TariOF4eA7jHaxMkqh8NUzthD7fyH0ztkXhE5ME1CeaB51uZCfG/UWpqO1
-W43v/ghHhgTYbC7WZeOKLK8eqciDWAbbzF7JnmshlRzb1+KwFVqflzFrL6nU+1/zwjZ6on6+FV5y
-obAJghqe3ntNgWQtV12NGAKNhQiDpvohCK4/NCpkq7mtyUu6GQF693t9eoLnNbq4dOCj1R+D9irt
-ZeSM8cldh8DuaybKJeGWGhlo2riYaIQQnBJQsjBo6AdNQ1V2d5kIec/F/eFcCVJRCuHKVpuBlsQ/
-YAAhV34wCzLup6v68mGphin0dNcuT96QDziMOXLYBg22WMWnVjudcEGuZ4WTq+eZ6egmEyFPjcb5
-p1T5mBbHMHrpiGhzFKWH0RXISdU5yZ+4l8vxDfDUCOVdrw98E621WhjWGueR40ga3quonChvhiVJ
-akE44281gLpquO9SRbj3xOeWfekjmicn9Wci52dOqbInjbLla1NycMFNTVzD+T5M7bkrFrmVDsVf
-mKcNQcKxkttxXRErJOE41M9C5eBqWtvTk8xp9Evyp7OfNmH18dNjVOLN5jXzpaBBfWp8+MwHYTe4
-Hj0uQWwRy0id0H4wdvtAzmG5ausUEOJvmFNQ6sVFxwRmeEe5iqdc+PzR8GJhJn6hX/Xgr54iGnqL
-BytK5mtu4qwu0fIxgeagWJBMoMUhAl6ec5H9+ZgqudXl/B/pY8emW9ont1+PuFj07LZZkWll2vJ2
-bmkfZHNeQUGS2utjneXuWdGhwbZuapy6s07508JMJXphX/DWaCtNEo+p0jReiTYvc2SlhQ9oEbqH
-QfffFI+UauBVkpX3hMad4pq0m0Cg91y8h1HJBWr/GNhxSK3SdH+IXbXmjwxcaMsp7O2+TPto9I/q
-AgyRU6TUnfZIxkWmUG0eD0iz52badPG/CAJwoiv0ku2yaAtzg/Mno+w+VF335555IDFHxz5/cp9t
-4okbjWU+NzMItwJrli9uVIsOztZUgljHQo+/1mCmjmMMnvYTca4wH59f5yzLHcvuAUTpH9DMAp5z
-sLCqaKqokVlvYmPZL9JKDXP8fN1DCH3iIyJaC7so6YuaseZU0wJaQ8Xhv+H/Pfwg5eCbqNYgySUI
-dgJC11i9ljZtCYtAqQyO5qs/UGTflwF088biznIzvOyXQwdovXPmDLNx+OnuMKakbC2mbWhcrUao
-mmc1jxMvsmDRrdNVRe7MKXIM2zxWOTwUrwJBIGkZS4GQYbD1PNnkCeAx6al8VUVIrtQVDVEnThh5
-AfvYjQkPlzB1hzD3fi76jKd8vOoR0eyVYiXw2mNdQnVG2uyi/kyHit1DLiB/K6uA6nDP13fxyuws
-mvLe2cp3eGimyaH26vfpWMPos+uCwSRG6GiMiHUoV3W5Gn39/c6AvOxm11yvCq84ElODLZYfw2rT
-Xu3rq8dnbC79zpUYeT7/qQaMeaVV62Z8Uu7FbHWpYnWXsVXDDA0IvmhGoA7uf9CMtyUEEBTmJXv4
+/**
+ * SQLite3 Utility Class
+ *
+ * @category	Database
+ * @author	Andrey Andreev
+ * @link	https://codeigniter.com/user_guide/database/
+ */
+class CI_DB_sqlite3_utility extends CI_DB_utility {
+
+	/**
+	 * Export
+	 *
+	 * @param	array	$params	Preferences
+	 * @return	mixed
+	 */
+	protected function _backup($params = array())
+	{
+		// Not supported
+		return $this->db->display_error('db_unsupported_feature');
+	}
+
+}

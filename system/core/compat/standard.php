@@ -1,74 +1,182 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2017, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2017, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license	http://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 3.0.0
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
+/**
+ * PHP ext/standard compatibility package
+ *
+ * @package		CodeIgniter
+ * @subpackage	CodeIgniter
+ * @category	Compatibility
+ * @author		Andrey Andreev
+ * @link		https://codeigniter.com/user_guide/
+ */
+
+// ------------------------------------------------------------------------
+
+if (is_php('5.5'))
+{
+	return;
+}
+
+// ------------------------------------------------------------------------
+
+if ( ! function_exists('array_column'))
+{
+	/**
+	 * array_column()
+	 *
+	 * @link	http://php.net/array_column
+	 * @param	array	$array
+	 * @param	mixed	$column_key
+	 * @param	mixed	$index_key
+	 * @return	array
+	 */
+	function array_column(array $array, $column_key, $index_key = NULL)
+	{
+		if ( ! in_array($type = gettype($column_key), array('integer', 'string', 'NULL'), TRUE))
+		{
+			if ($type === 'double')
+			{
+				$column_key = (int) $column_key;
+			}
+			elseif ($type === 'object' && method_exists($column_key, '__toString'))
+			{
+				$column_key = (string) $column_key;
+			}
+			else
+			{
+				trigger_error('array_column(): The column key should be either a string or an integer', E_USER_WARNING);
+				return FALSE;
+			}
+		}
+
+		if ( ! in_array($type = gettype($index_key), array('integer', 'string', 'NULL'), TRUE))
+		{
+			if ($type === 'double')
+			{
+				$index_key = (int) $index_key;
+			}
+			elseif ($type === 'object' && method_exists($index_key, '__toString'))
+			{
+				$index_key = (string) $index_key;
+			}
+			else
+			{
+				trigger_error('array_column(): The index key should be either a string or an integer', E_USER_WARNING);
+				return FALSE;
+			}
+		}
+
+		$result = array();
+		foreach ($array as &$a)
+		{
+			if ($column_key === NULL)
+			{
+				$value = $a;
+			}
+			elseif (is_array($a) && array_key_exists($column_key, $a))
+			{
+				$value = $a[$column_key];
+			}
+			else
+			{
+				continue;
+			}
+
+			if ($index_key === NULL OR ! array_key_exists($index_key, $a))
+			{
+				$result[] = $value;
+			}
+			else
+			{
+				$result[$a[$index_key]] = $value;
+			}
+		}
+
+		return $result;
+	}
+}
+
+// ------------------------------------------------------------------------
+
+if (is_php('5.4'))
+{
+	return;
+}
+
+// ------------------------------------------------------------------------
+
+if ( ! function_exists('hex2bin'))
+{
+	/**
+	 * hex2bin()
+	 *
+	 * @link	http://php.net/hex2bin
+	 * @param	string	$data
+	 * @return	string
+	 */
+	function hex2bin($data)
+	{
+		if (in_array($type = gettype($data), array('array', 'double', 'object', 'resource'), TRUE))
+		{
+			if ($type === 'object' && method_exists($data, '__toString'))
+			{
+				$data = (string) $data;
+			}
+			else
+			{
+				trigger_error('hex2bin() expects parameter 1 to be string, '.$type.' given', E_USER_WARNING);
+				return NULL;
+			}
+		}
+
+		if (strlen($data) % 2 !== 0)
+		{
+			trigger_error('Hexadecimal input string must have an even length', E_USER_WARNING);
+			return FALSE;
+		}
+		elseif ( ! preg_match('/^[0-9a-f]*$/i', $data))
+		{
+			trigger_error('Input string must be hexadecimal string', E_USER_WARNING);
+			return FALSE;
+		}
+
+		return pack('H*', $data);
+	}
+}

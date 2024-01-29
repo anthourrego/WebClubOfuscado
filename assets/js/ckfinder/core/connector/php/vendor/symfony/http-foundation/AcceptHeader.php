@@ -1,82 +1,168 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
+/*
+ * This file is part of the Symfony package.
+ *
+ * (c) Fabien Potencier <fabien@symfony.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+namespace Symfony\Component\HttpFoundation;
+
+/**
+ * Represents an Accept-* header.
+ *
+ * An accept header is compound with a list of items,
+ * sorted by descending quality.
+ *
+ * @author Jean-François Simon <contact@jfsimon.fr>
+ */
+class AcceptHeader
+{
+    /**
+     * @var AcceptHeaderItem[]
+     */
+    private $items = array();
+
+    /**
+     * @var bool
+     */
+    private $sorted = true;
+
+    /**
+     * @param AcceptHeaderItem[] $items
+     */
+    public function __construct(array $items)
+    {
+        foreach ($items as $item) {
+            $this->add($item);
+        }
+    }
+
+    /**
+     * Builds an AcceptHeader instance from a string.
+     *
+     * @param string $headerValue
+     *
+     * @return self
+     */
+    public static function fromString($headerValue)
+    {
+        $index = 0;
+
+        return new self(array_map(function ($itemValue) use (&$index) {
+            $item = AcceptHeaderItem::fromString($itemValue);
+            $item->setIndex($index++);
+
+            return $item;
+        }, preg_split('/\s*(?:,*("[^"]+"),*|,*(\'[^\']+\'),*|,+)\s*/', $headerValue, 0, PREG_SPLIT_NO_EMPTY | PREG_SPLIT_DELIM_CAPTURE)));
+    }
+
+    /**
+     * Returns header value's string representation.
+     *
+     * @return string
+     */
+    public function __toString()
+    {
+        return implode(',', $this->items);
+    }
+
+    /**
+     * Tests if header has given value.
+     *
+     * @param string $value
+     *
+     * @return bool
+     */
+    public function has($value)
+    {
+        return isset($this->items[$value]);
+    }
+
+    /**
+     * Returns given value's item, if exists.
+     *
+     * @param string $value
+     *
+     * @return AcceptHeaderItem|null
+     */
+    public function get($value)
+    {
+        return isset($this->items[$value]) ? $this->items[$value] : null;
+    }
+
+    /**
+     * Adds an item.
+     *
+     * @return $this
+     */
+    public function add(AcceptHeaderItem $item)
+    {
+        $this->items[$item->getValue()] = $item;
+        $this->sorted = false;
+
+        return $this;
+    }
+
+    /**
+     * Returns all items.
+     *
+     * @return AcceptHeaderItem[]
+     */
+    public function all()
+    {
+        $this->sort();
+
+        return $this->items;
+    }
+
+    /**
+     * Filters items on their value using given regex.
+     *
+     * @param string $pattern
+     *
+     * @return self
+     */
+    public function filter($pattern)
+    {
+        return new self(array_filter($this->items, function (AcceptHeaderItem $item) use ($pattern) {
+            return preg_match($pattern, $item->getValue());
+        }));
+    }
+
+    /**
+     * Returns first item.
+     *
+     * @return AcceptHeaderItem|null
+     */
+    public function first()
+    {
+        $this->sort();
+
+        return !empty($this->items) ? reset($this->items) : null;
+    }
+
+    /**
+     * Sorts items by descending quality.
+     */
+    private function sort()
+    {
+        if (!$this->sorted) {
+            uasort($this->items, function (AcceptHeaderItem $a, AcceptHeaderItem $b) {
+                $qA = $a->getQuality();
+                $qB = $b->getQuality();
+
+                if ($qA === $qB) {
+                    return $a->getIndex() > $b->getIndex() ? 1 : -1;
+                }
+
+                return $qA > $qB ? -1 : 1;
+            });
+
+            $this->sorted = true;
+        }
+    }
+}

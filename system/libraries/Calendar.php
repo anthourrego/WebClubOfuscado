@@ -1,210 +1,546 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2017, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2017, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license	http://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 1.0.0
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-pxzH
+/**
+ * CodeIgniter Calendar Class
+ *
+ * This class enables the creation of calendars
+ *
+ * @package		CodeIgniter
+ * @subpackage	Libraries
+ * @category	Libraries
+ * @author		EllisLab Dev Team
+ * @link		https://codeigniter.com/user_guide/libraries/calendar.html
+ */
+class CI_Calendar {
+
+	/**
+	 * Calendar layout template
+	 *
+	 * @var mixed
+	 */
+	public $template = '';
+
+	/**
+	 * Replacements array for template
+	 *
+	 * @var array
+	 */
+	public $replacements = array();
+
+	/**
+	 * Day of the week to start the calendar on
+	 *
+	 * @var string
+	 */
+	public $start_day = 'sunday';
+
+	/**
+	 * How to display months
+	 *
+	 * @var string
+	 */
+	public $month_type = 'long';
+
+	/**
+	 * How to display names of days
+	 *
+	 * @var string
+	 */
+	public $day_type = 'abr';
+
+	/**
+	 * Whether to show next/prev month links
+	 *
+	 * @var bool
+	 */
+	public $show_next_prev = FALSE;
+
+	/**
+	 * Url base to use for next/prev month links
+	 *
+	 * @var bool
+	 */
+	public $next_prev_url = '';
+
+	/**
+	 * Show days of other months
+	 *
+	 * @var bool
+	 */
+	public $show_other_days = FALSE;
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * CI Singleton
+	 *
+	 * @var object
+	 */
+	protected $CI;
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Class constructor
+	 *
+	 * Loads the calendar language file and sets the default time reference.
+	 *
+	 * @uses	CI_Lang::$is_loaded
+	 *
+	 * @param	array	$config	Calendar options
+	 * @return	void
+	 */
+	public function __construct($config = array())
+	{
+		$this->CI =& get_instance();
+		$this->CI->lang->load('calendar');
+
+		empty($config) OR $this->initialize($config);
+
+		log_message('info', 'Calendar Class Initialized');
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Initialize the user preferences
+	 *
+	 * Accepts an associative array as input, containing display preferences
+	 *
+	 * @param	array	config preferences
+	 * @return	CI_Calendar
+	 */
+	public function initialize($config = array())
+	{
+		foreach ($config as $key => $val)
+		{
+			if (isset($this->$key))
+			{
+				$this->$key = $val;
+			}
+		}
+
+		// Set the next_prev_url to the controller if required but not defined
+		if ($this->show_next_prev === TRUE && empty($this->next_prev_url))
+		{
+			$this->next_prev_url = $this->CI->config->site_url($this->CI->router->class.'/'.$this->CI->router->method);
+		}
+
+		return $this;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Generate the calendar
+	 *
+	 * @param	int	the year
+	 * @param	int	the month
+	 * @param	array	the data to be shown in the calendar cells
+	 * @return	string
+	 */
+	public function generate($year = '', $month = '', $data = array())
+	{
+		$local_time = time();
+
+		// Set and validate the supplied month/year
+		if (empty($year))
+		{
+			$year = date('Y', $local_time);
+		}
+		elseif (strlen($year) === 1)
+		{
+			$year = '200'.$year;
+		}
+		elseif (strlen($year) === 2)
+		{
+			$year = '20'.$year;
+		}
+
+		if (empty($month))
+		{
+			$month = date('m', $local_time);
+		}
+		elseif (strlen($month) === 1)
+		{
+			$month = '0'.$month;
+		}
+
+		$adjusted_date = $this->adjust_date($month, $year);
+
+		$month	= $adjusted_date['month'];
+		$year	= $adjusted_date['year'];
+
+		// Determine the total days in the month
+		$total_days = $this->get_total_days($month, $year);
+
+		// Set the starting day of the week
+		$start_days	= array('sunday' => 0, 'monday' => 1, 'tuesday' => 2, 'wednesday' => 3, 'thursday' => 4, 'friday' => 5, 'saturday' => 6);
+		$start_day	= isset($start_days[$this->start_day]) ? $start_days[$this->start_day] : 0;
+
+		// Set the starting day number
+		$local_date = mktime(12, 0, 0, $month, 1, $year);
+		$date = getdate($local_date);
+		$day  = $start_day + 1 - $date['wday'];
+
+		while ($day > 1)
+		{
+			$day -= 7;
+		}
+
+		// Set the current month/year/day
+		// We use this to determine the "today" date
+		$cur_year	= date('Y', $local_time);
+		$cur_month	= date('m', $local_time);
+		$cur_day	= date('j', $local_time);
+
+		$is_current_month = ($cur_year == $year && $cur_month == $month);
+
+		// Generate the template data array
+		$this->parse_template();
+
+		// Begin building the calendar output
+		$out = $this->replacements['table_open']."\n\n".$this->replacements['heading_row_start']."\n";
+
+		// "previous" month link
+		if ($this->show_next_prev === TRUE)
+		{
+			// Add a trailing slash to the URL if needed
+			$this->next_prev_url = preg_replace('/(.+?)\/*$/', '\\1/', $this->next_prev_url);
+
+			$adjusted_date = $this->adjust_date($month - 1, $year);
+			$out .= str_replace('{previous_url}', $this->next_prev_url.$adjusted_date['year'].'/'.$adjusted_date['month'], $this->replacements['heading_previous_cell'])."\n";
+		}
+
+		// Heading containing the month/year
+		$colspan = ($this->show_next_prev === TRUE) ? 5 : 7;
+
+		$this->replacements['heading_title_cell'] = str_replace('{colspan}', $colspan,
+								str_replace('{heading}', $this->get_month_name($month).'&nbsp;'.$year, $this->replacements['heading_title_cell']));
+
+		$out .= $this->replacements['heading_title_cell']."\n";
+
+		// "next" month link
+		if ($this->show_next_prev === TRUE)
+		{
+			$adjusted_date = $this->adjust_date($month + 1, $year);
+			$out .= str_replace('{next_url}', $this->next_prev_url.$adjusted_date['year'].'/'.$adjusted_date['month'], $this->replacements['heading_next_cell']);
+		}
+
+		$out .= "\n".$this->replacements['heading_row_end']."\n\n"
+			// Write the cells containing the days of the week
+			.$this->replacements['week_row_start']."\n";
+
+		$day_names = $this->get_day_names();
+
+		for ($i = 0; $i < 7; $i ++)
+		{
+			$out .= str_replace('{week_day}', $day_names[($start_day + $i) %7], $this->replacements['week_day_cell']);
+		}
+
+		$out .= "\n".$this->replacements['week_row_end']."\n";
+
+		// Build the main body of the calendar
+		while ($day <= $total_days)
+		{
+			$out .= "\n".$this->replacements['cal_row_start']."\n";
+
+			for ($i = 0; $i < 7; $i++)
+			{
+				if ($day > 0 && $day <= $total_days)
+				{
+					$out .= ($is_current_month === TRUE && $day == $cur_day) ? $this->replacements['cal_cell_start_today'] : $this->replacements['cal_cell_start'];
+
+					if (isset($data[$day]))
+					{
+						// Cells with content
+						$temp = ($is_current_month === TRUE && $day == $cur_day) ?
+								$this->replacements['cal_cell_content_today'] : $this->replacements['cal_cell_content'];
+						$out .= str_replace(array('{content}', '{day}'), array($data[$day], $day), $temp);
+					}
+					else
+					{
+						// Cells with no content
+						$temp = ($is_current_month === TRUE && $day == $cur_day) ?
+								$this->replacements['cal_cell_no_content_today'] : $this->replacements['cal_cell_no_content'];
+						$out .= str_replace('{day}', $day, $temp);
+					}
+
+					$out .= ($is_current_month === TRUE && $day == $cur_day) ? $this->replacements['cal_cell_end_today'] : $this->replacements['cal_cell_end'];
+				}
+				elseif ($this->show_other_days === TRUE)
+				{
+					$out .= $this->replacements['cal_cell_start_other'];
+
+					if ($day <= 0)
+					{
+						// Day of previous month
+						$prev_month = $this->adjust_date($month - 1, $year);
+						$prev_month_days = $this->get_total_days($prev_month['month'], $prev_month['year']);
+						$out .= str_replace('{day}', $prev_month_days + $day, $this->replacements['cal_cell_other']);
+					}
+					else
+					{
+						// Day of next month
+						$out .= str_replace('{day}', $day - $total_days, $this->replacements['cal_cell_other']);
+					}
+
+					$out .= $this->replacements['cal_cell_end_other'];
+				}
+				else
+				{
+					// Blank cells
+					$out .= $this->replacements['cal_cell_start'].$this->replacements['cal_cell_blank'].$this->replacements['cal_cell_end'];
+				}
+
+				$day++;
+			}
+
+			$out .= "\n".$this->replacements['cal_row_end']."\n";
+		}
+
+		return $out .= "\n".$this->replacements['table_close'];
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Get Month Name
+	 *
+	 * Generates a textual month name based on the numeric
+	 * month provided.
+	 *
+	 * @param	int	the month
+	 * @return	string
+	 */
+	public function get_month_name($month)
+	{
+		if ($this->month_type === 'short')
+		{
+			$month_names = array('01' => 'cal_jan', '02' => 'cal_feb', '03' => 'cal_mar', '04' => 'cal_apr', '05' => 'cal_may', '06' => 'cal_jun', '07' => 'cal_jul', '08' => 'cal_aug', '09' => 'cal_sep', '10' => 'cal_oct', '11' => 'cal_nov', '12' => 'cal_dec');
+		}
+		else
+		{
+			$month_names = array('01' => 'cal_january', '02' => 'cal_february', '03' => 'cal_march', '04' => 'cal_april', '05' => 'cal_mayl', '06' => 'cal_june', '07' => 'cal_july', '08' => 'cal_august', '09' => 'cal_september', '10' => 'cal_october', '11' => 'cal_november', '12' => 'cal_december');
+		}
+
+		return ($this->CI->lang->line($month_names[$month]) === FALSE)
+			? ucfirst(substr($month_names[$month], 4))
+			: $this->CI->lang->line($month_names[$month]);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Get Day Names
+	 *
+	 * Returns an array of day names (Sunday, Monday, etc.) based
+	 * on the type. Options: long, short, abr
+	 *
+	 * @param	string
+	 * @return	array
+	 */
+	public function get_day_names($day_type = '')
+	{
+		if ($day_type !== '')
+		{
+			$this->day_type = $day_type;
+		}
+
+		if ($this->day_type === 'long')
+		{
+			$day_names = array('sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday');
+		}
+		elseif ($this->day_type === 'short')
+		{
+			$day_names = array('sun', 'mon', 'tue', 'wed', 'thu', 'fri', 'sat');
+		}
+		else
+		{
+			$day_names = array('su', 'mo', 'tu', 'we', 'th', 'fr', 'sa');
+		}
+
+		$days = array();
+		for ($i = 0, $c = count($day_names); $i < $c; $i++)
+		{
+			$days[] = ($this->CI->lang->line('cal_'.$day_names[$i]) === FALSE) ? ucfirst($day_names[$i]) : $this->CI->lang->line('cal_'.$day_names[$i]);
+		}
+
+		return $days;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Adjust Date
+	 *
+	 * This function makes sure that we have a valid month/year.
+	 * For example, if you submit 13 as the month, the year will
+	 * increment and the month will become January.
+	 *
+	 * @param	int	the month
+	 * @param	int	the year
+	 * @return	array
+	 */
+	public function adjust_date($month, $year)
+	{
+		$date = array();
+
+		$date['month']	= $month;
+		$date['year']	= $year;
+
+		while ($date['month'] > 12)
+		{
+			$date['month'] -= 12;
+			$date['year']++;
+		}
+
+		while ($date['month'] <= 0)
+		{
+			$date['month'] += 12;
+			$date['year']--;
+		}
+
+		if (strlen($date['month']) === 1)
+		{
+			$date['month'] = '0'.$date['month'];
+		}
+
+		return $date;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Total days in a given month
+	 *
+	 * @param	int	the month
+	 * @param	int	the year
+	 * @return	int
+	 */
+	public function get_total_days($month, $year)
+	{
+		$this->CI->load->helper('date');
+		return days_in_month($month, $year);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Set Default Template Data
+	 *
+	 * This is used in the event that the user has not created their own template
+	 *
+	 * @return	array
+	 */
+	public function default_template()
+	{
+		return array(
+			'table_open'				=> '<table border="0" cellpadding="4" cellspacing="0">',
+			'heading_row_start'			=> '<tr>',
+			'heading_previous_cell'		=> '<th><a href="{previous_url}">&lt;&lt;</a></th>',
+			'heading_title_cell'		=> '<th colspan="{colspan}">{heading}</th>',
+			'heading_next_cell'			=> '<th><a href="{next_url}">&gt;&gt;</a></th>',
+			'heading_row_end'			=> '</tr>',
+			'week_row_start'			=> '<tr>',
+			'week_day_cell'				=> '<td>{week_day}</td>',
+			'week_row_end'				=> '</tr>',
+			'cal_row_start'				=> '<tr>',
+			'cal_cell_start'			=> '<td>',
+			'cal_cell_start_today'		=> '<td>',
+			'cal_cell_start_other'		=> '<td style="color: #666;">',
+			'cal_cell_content'			=> '<a href="{content}">{day}</a>',
+			'cal_cell_content_today'	=> '<a href="{content}"><strong>{day}</strong></a>',
+			'cal_cell_no_content'		=> '{day}',
+			'cal_cell_no_content_today'	=> '<strong>{day}</strong>',
+			'cal_cell_blank'			=> '&nbsp;',
+			'cal_cell_other'			=> '{day}',
+			'cal_cell_end'				=> '</td>',
+			'cal_cell_end_today'		=> '</td>',
+			'cal_cell_end_other'		=> '</td>',
+			'cal_row_end'				=> '</tr>',
+			'table_close'				=> '</table>'
+		);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Parse Template
+	 *
+	 * Harvests the data within the template {pseudo-variables}
+	 * used to display the calendar
+	 *
+	 * @return	CI_Calendar
+	 */
+	public function parse_template()
+	{
+		$this->replacements = $this->default_template();
+
+		if (empty($this->template))
+		{
+			return $this;
+		}
+
+		if (is_string($this->template))
+		{
+			$today = array('cal_cell_start_today', 'cal_cell_content_today', 'cal_cell_no_content_today', 'cal_cell_end_today');
+
+			foreach (array('table_open', 'table_close', 'heading_row_start', 'heading_previous_cell', 'heading_title_cell', 'heading_next_cell', 'heading_row_end', 'week_row_start', 'week_day_cell', 'week_row_end', 'cal_row_start', 'cal_cell_start', 'cal_cell_content', 'cal_cell_no_content', 'cal_cell_blank', 'cal_cell_end', 'cal_row_end', 'cal_cell_start_today', 'cal_cell_content_today', 'cal_cell_no_content_today', 'cal_cell_end_today', 'cal_cell_start_other', 'cal_cell_other', 'cal_cell_end_other') as $val)
+			{
+				if (preg_match('/\{'.$val.'\}(.*?)\{\/'.$val.'\}/si', $this->template, $match))
+				{
+					$this->replacements[$val] = $match[1];
+				}
+				elseif (in_array($val, $today, TRUE))
+				{
+					$this->replacements[$val] = $this->replacements[substr($val, 0, -6)];
+				}
+			}
+		}
+		elseif (is_array($this->template))
+		{
+			$this->replacements = array_merge($this->replacements, $this->template);
+		}
+
+		return $this;
+	}
+
+}

@@ -1,80 +1,168 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
+/*
+ * This file is part of the Symfony package.
+ *
+ * (c) Fabien Potencier <fabien@symfony.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+namespace Symfony\Component\HttpFoundation\Session\Flash;
+
+/**
+ * FlashBag flash message container.
+ *
+ * \IteratorAggregate implementation is deprecated and will be removed in 3.0.
+ *
+ * @author Drak <drak@zikula.org>
+ */
+class FlashBag implements FlashBagInterface, \IteratorAggregate
+{
+    private $name = 'flashes';
+    private $flashes = array();
+    private $storageKey;
+
+    /**
+     * @param string $storageKey The key used to store flashes in the session
+     */
+    public function __construct($storageKey = '_sf2_flashes')
+    {
+        $this->storageKey = $storageKey;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function getName()
+    {
+        return $this->name;
+    }
+
+    public function setName($name)
+    {
+        $this->name = $name;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function initialize(array &$flashes)
+    {
+        $this->flashes = &$flashes;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function add($type, $message)
+    {
+        $this->flashes[$type][] = $message;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function peek($type, array $default = array())
+    {
+        return $this->has($type) ? $this->flashes[$type] : $default;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function peekAll()
+    {
+        return $this->flashes;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function get($type, array $default = array())
+    {
+        if (!$this->has($type)) {
+            return $default;
+        }
+
+        $return = $this->flashes[$type];
+
+        unset($this->flashes[$type]);
+
+        return $return;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function all()
+    {
+        $return = $this->peekAll();
+        $this->flashes = array();
+
+        return $return;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function set($type, $messages)
+    {
+        $this->flashes[$type] = (array) $messages;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function setAll(array $messages)
+    {
+        $this->flashes = $messages;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function has($type)
+    {
+        return array_key_exists($type, $this->flashes) && $this->flashes[$type];
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function keys()
+    {
+        return array_keys($this->flashes);
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function getStorageKey()
+    {
+        return $this->storageKey;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function clear()
+    {
+        return $this->all();
+    }
+
+    /**
+     * Returns an iterator for flashes.
+     *
+     * @deprecated since version 2.4, to be removed in 3.0.
+     *
+     * @return \ArrayIterator An \ArrayIterator instance
+     */
+    public function getIterator()
+    {
+        @trigger_error('The '.__METHOD__.' method is deprecated since Symfony 2.4 and will be removed in 3.0.', E_USER_DEPRECATED);
+
+        return new \ArrayIterator($this->all());
+    }
+}

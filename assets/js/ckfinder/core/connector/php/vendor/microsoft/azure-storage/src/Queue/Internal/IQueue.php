@@ -1,177 +1,535 @@
-<?php //ICB0 56:0 71:1ca8                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Queue\Internal
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
 
-?>
-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
+namespace MicrosoftAzure\Storage\Queue\Internal;
+
+use MicrosoftAzure\Storage\Queue\Models as QueueModels;
+use MicrosoftAzure\Storage\Common\Models\ServiceProperties;
+use MicrosoftAzure\Storage\Common\Models\ServiceOptions;
+use MicrosoftAzure\Storage\Common\Models\GetServiceStats;
+
+/**
+ * This interface has all REST APIs provided by Windows Azure for queue service
+ *
+ * @ignore
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Queue\Internal
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ * @see       http://msdn.microsoft.com/en-us/library/windowsazure/dd179363.aspx
+ */
+interface IQueue
+{
+    /**
+     * Gets the properties of the service.
+     *
+     * @param ServiceOptions $options The optional parameters.
+     *
+     * @return \MicrosoftAzure\Storage\Common\Models\GetServicePropertiesResult
+     */
+    public function getServiceProperties(
+        ServiceOptions $options = null
+    );
+
+    /**
+     * Creates promise to get the properties of the service.
+     *
+     * @param ServiceOptions $options The optional parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     */
+    public function getServicePropertiesAsync(
+        ServiceOptions $options = null
+    );
+
+    /**
+     * Sets the properties of the service.
+     *
+     * It's recommended to use getServiceProperties, alter the returned object and
+     * then use setServiceProperties with this altered object.
+     *
+     * @param ServiceProperties $serviceProperties The new service properties.
+     * @param ServiceOptions    $options           The optional parameters.
+     *
+     * @return void
+     */
+    public function setServiceProperties(
+        ServiceProperties $serviceProperties,
+        ServiceOptions $options = null
+    );
+
+    /**
+     * Creates promise to set the properties of the service.
+     *
+     * It's recommended to use getServiceProperties, alter the returned object and
+     * then use setServiceProperties with this altered object.
+     *
+     * @param ServiceProperties $serviceProperties The new service properties.
+     * @param ServiceOptions    $options           The optional parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     */
+    public function setServicePropertiesAsync(
+        ServiceProperties $serviceProperties,
+        ServiceOptions $options = null
+    );
+
+    /**
+     * Retieves statistics related to replication for the service. The operation
+     * will only be sent to secondary location endpoint.
+     *
+     * @param  ServiceOptions|null $options The options this operation sends with.
+     *
+     * @return GetServiceStatsResult
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/get-queue-service-stats
+     */
+    public function getServiceStats(ServiceOptions $options = null);
+
+    /**
+     * Creates promise that retrieves statistics related to replication for the
+     * service. The operation will only be sent to secondary location endpoint.
+     *
+     * @param  ServiceOptions|null $options The options this operation sends with.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see  https://docs.microsoft.com/en-us/rest/api/storageservices/get-queue-service-stats
+     */
+    public function getServiceStatsAsync(ServiceOptions $options = null);
+
+    /**
+     * Creates a new queue under the storage account.
+     *
+     * @param string                         $queueName The queue name.
+     * @param QueueModels\CreateQueueOptions $options   The optional queue create options.
+     *
+     * @return void
+     */
+    public function createQueue(
+        $queueName,
+        QueueModels\CreateQueueOptions $options = null
+    );
+
+    /**
+     * Creates promise to create a new queue under the storage account.
+     *
+     * @param string                     $queueName The queue name.
+     * @param QueueModels\CreateQueueOptions  $options   The Optional parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     */
+    public function createQueueAsync(
+        $queueName,
+        QueueModels\CreateQueueOptions $options = null
+    );
+
+    /**
+     * Deletes a queue.
+     *
+     * @param string                          $queueName The queue name.
+     * @param QueueModels\QueueServiceOptions $options   The optional parameters.
+     *
+     * @return void
+     */
+    public function deleteQueue(
+        $queueName,
+        QueueModels\QueueServiceOptions $options
+    );
+
+    /**
+     * Creates promise to delete a queue.
+     *
+     * @param string                          $queueName The queue name.
+     * @param QueueModels\QueueServiceOptions $options   The optional parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     */
+    public function deleteQueueAsync(
+        $queueName,
+        QueueModels\QueueServiceOptions $options = null
+    );
+
+    /**
+     * Lists all queues in the storage account.
+     *
+     * @param QueueModels\ListQueuesOptions $options The optional parameters.
+     *
+     * @return QueueModels\ListQueuesResult
+     */
+    public function listQueues(QueueModels\ListQueuesOptions $options = null);
+
+    /**
+     * Creates promise to list all queues in the storage account.
+     *
+     * @param QueueModels\ListQueuesOptions $options The optional list queue options.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     */
+    public function listQueuesAsync(QueueModels\ListQueuesOptions $options = null);
+
+    /**
+     * Returns queue properties, including user-defined metadata.
+     *
+     * @param string                          $queueName The queue name.
+     * @param QueueModels\QueueServiceOptions $options   The optional parameters.
+     *
+     * @return QueueModels\GetQueueMetadataResult
+     */
+    public function getQueueMetadata(
+        $queueName,
+        QueueModels\QueueServiceOptions $options = null
+    );
+
+    /**
+     * Creates promise to return queue properties, including user-defined metadata.
+     *
+     * @param string                          $queueName The queue name.
+     * @param QueueModels\QueueServiceOptions $options   The optional parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     */
+    public function getQueueMetadataAsync(
+        $queueName,
+        QueueModels\QueueServiceOptions $options = null
+    );
+
+    /**
+     * Sets user-defined metadata on the queue. To delete queue metadata, call
+     * this API without specifying any metadata in $metadata.
+     *
+     * @param string                          $queueName The queue name.
+     * @param array                           $metadata  The metadata array.
+     * @param QueueModels\QueueServiceOptions $options   The optional parameters.
+     *
+     * @return void
+     */
+    public function setQueueMetadata(
+        $queueName,
+        array $metadata = null,
+        QueueModels\QueueServiceOptions $options = null
+    );
+
+    /**
+     * Creates promise to set user-defined metadata on the queue. To delete
+     * queue metadata, call this API without specifying any metadata in $metadata.
+     *
+     * @param string                          $queueName The queue name.
+     * @param array                           $metadata  The metadata array.
+     * @param QueueModels\QueueServiceOptions $options   The optional parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     */
+    public function setQueueMetadataAsync(
+        $queueName,
+        array $metadata = null,
+        QueueModels\QueueServiceOptions $options = null
+    );
+
+    /**
+     * Adds a message to the queue and optionally sets a visibility timeout
+     * for the message.
+     *
+     * @param string                           $queueName   The queue name.
+     * @param string                           $messageText The message contents.
+     * @param QueueModels\CreateMessageOptions $options     The optional parameters.
+     *
+     * @return QueueModels\CreateMessageResult
+     */
+    public function createMessage(
+        $queueName,
+        $messageText,
+        QueueModels\CreateMessageOptions $options = null
+    );
+
+    /**
+     * Creates promise to add a message to the queue and optionally sets a
+     * visibility timeout for the message.
+     *
+     * @param string                           $queueName   The name of the queue.
+     * @param string                           $messageText The message contents.
+     * @param QueueModels\CreateMessageOptions $options     The optional
+     *                                                      parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     */
+    public function createMessageAsync(
+        $queueName,
+        $messageText,
+        QueueModels\CreateMessageOptions $options = null
+    );
+
+    /**
+     * Updates the visibility timeout of a message and/or the message contents.
+     *
+     * @param string              $queueName                  The queue name.
+     * @param string              $messageId                  The id of the message.
+     * @param string              $popReceipt                 The valid pop receipt
+     * value returned from an earlier call to the Get Messages or Update Message
+     * operation.
+     * @param string              $messageText                The message contents.
+     * @param int                 $visibilityTimeoutInSeconds Specifies the new
+     * visibility timeout value, in seconds, relative to server time.
+     * The new value must be larger than or equal to 0, and cannot be larger
+     * than 7 days. The visibility timeout of a message cannot be set to a value
+     * later than the expiry time. A message can be updated until it has been
+     * deleted or has expired.
+     * @param QueueModels\QueueServiceOptions $options The optional parameters.
+     *
+     * @return QueueModels\UpdateMessageResult
+     */
+    public function updateMessage(
+        $queueName,
+        $messageId,
+        $popReceipt,
+        $messageText,
+        $visibilityTimeoutInSeconds,
+        QueueModels\QueueServiceOptions $options = null
+    );
+
+    /**
+     * Creates promise to update the visibility timeout of a message and/or the
+     * message contents.
+     *
+     * @param string              $queueName                  The queue name.
+     * @param string              $messageId                  The id of the message.
+     * @param string              $popReceipt                 The valid pop receipt
+     * value returned from an earlier call to the Get Messages or Update Message
+     * operation.
+     * @param string              $messageText                The message contents.
+     * @param int                 $visibilityTimeoutInSeconds Specifies the new
+     * visibility timeout value, in seconds, relative to server time.
+     * The new value must be larger than or equal to 0, and cannot be larger
+     * than 7 days. The visibility timeout of a message cannot be set to a value
+     * later than the expiry time. A message can be updated until it has been
+     * deleted or has expired.
+     * @param QueueModels\QueueServiceOptions $options        The optional
+     * parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     */
+    public function updateMessageAsync(
+        $queueName,
+        $messageId,
+        $popReceipt,
+        $messageText,
+        $visibilityTimeoutInSeconds,
+        QueueModels\QueueServiceOptions $options = null
+    );
+
+    /**
+     * Deletes a specified message from the queue.
+     *
+     * @param string                          $queueName  The queue name.
+     * @param string                          $messageId  The id of the message.
+     * @param string                          $popReceipt The valid pop receipt
+     *                                                    value returned
+     *                                                    from an earlier call to
+     *                                                    the Get Messages or
+     *                                                    update Message operation.
+     * @param QueueModels\QueueServiceOptions $options    The optional parameters.
+     *
+     * @return void
+     */
+    public function deleteMessage(
+        $queueName,
+        $messageId,
+        $popReceipt,
+        QueueModels\QueueServiceOptions $options = null
+    );
+
+    /**
+     * Creates promise to delete a specified message from the queue.
+     *
+     * @param string                          $queueName  The name of the queue.
+     * @param string                          $messageId  The id of the message.
+     * @param string                          $popReceipt The valid pop receipt
+     *                                                    value returned
+     *                                                    from an earlier call to
+     *                                                    the Get Messages or
+     *                                                    update Message operation.
+     * @param QueueModels\QueueServiceOptions $options    The optional parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     */
+    public function deleteMessageAsync(
+        $queueName,
+        $messageId,
+        $popReceipt,
+        QueueModels\QueueServiceOptions $options = null
+    );
+
+    /**
+     * Lists all messages in the queue.
+     *
+     * @param string                          $queueName The queue name.
+     * @param QueueModels\ListMessagesOptions $options   The optional parameters.
+     *
+     * @return QueueModels\ListMessagesResult
+     */
+    public function listMessages(
+        $queueName,
+        QueueModels\ListMessagesOptions $options = null
+    );
+
+    /**
+     * Creates promise to list all messages in the queue.
+     *
+     * @param string              $queueName The queue name.
+     * @param QueueModels\ListMessagesOptions $options   The optional parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     */
+    public function listMessagesAsync(
+        $queueName,
+        QueueModels\ListMessagesOptions $options = null
+    );
+
+    /**
+     * Retrieves a message from the front of the queue, without changing
+     * the message visibility.
+     *
+     * @param string                          $queueName The queue name.
+     * @param QueueModels\PeekMessagesOptions $options   The optional parameters.
+     *
+     * @return QueueModels\PeekMessagesResult
+     */
+    public function peekMessages(
+        $queueName,
+        QueueModels\PeekMessagesOptions $options = null
+    );
+
+    /**
+     * Creates promise to retrieve a message from the front of the queue,
+     * without changing the message visibility.
+     *
+     * @param string                          $queueName The queue name.
+     * @param QueueModels\PeekMessagesOptions $options   The optional parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     */
+    public function peekMessagesAsync(
+        $queueName,
+        QueueModels\PeekMessagesOptions $options = null
+    );
+
+    /**
+     * Clears all messages from the queue.
+     *
+     * @param string                          $queueName The queue name.
+     * @param QueueModels\QueueServiceOptions $options   The optional parameters.
+     *
+     * @return QueueModels\PeekMessagesResult
+     */
+    public function clearMessages(
+        $queueName,
+        QueueModels\QueueServiceOptions $options = null
+    );
+
+    /**
+     * Creates promise to clear all messages from the queue.
+     *
+     * If a queue contains a large number of messages, Clear Messages may time out
+     * before all messages have been deleted. In this case the Queue service will
+     * return status code 500 (Internal Server Error), with the additional error
+     * code OperationTimedOut. If the operation times out, the client should
+     * continue to retry Clear Messages until it succeeds, to ensure that all
+     * messages have been deleted.
+     *
+     * @param string                          $queueName The name of the queue.
+     * @param QueueModels\QueueServiceOptions $options   The optional parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     */
+    public function clearMessagesAsync(
+        $queueName,
+        QueueModels\QueueServiceOptions $options = null
+    );
+
+    /**
+     * Gets the access control list (ACL)
+     *
+     * @param string                          $queue   The queue name.
+     * @param QueueModels\QueueServiceOptions $options The optional parameters.
+     *
+     * @return QueueModels\QueueACL
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/fileservices/get-queue-acl
+     */
+    public function getQueueAcl(
+        $queue,
+        QueueModels\QueueServiceOptions $options = null
+    );
+
+    /**
+     * Creates the promise to gets the access control list (ACL)
+     *
+     * @param string                          $queue   The queue name.
+     * @param QueueModels\QueueServiceOptions $options The optional parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/fileservices/get-queue-acl
+     */
+    public function getQueueAclAsync(
+        $queue,
+        QueueModels\QueueServiceOptions $options = null
+    );
+
+    /**
+     * Sets the ACL.
+     *
+     * @param string                          $queue   name
+     * @param QueueModels\QueueACL            $acl     access control list
+     * @param QueueModels\QueueServiceOptions $options optional parameters
+     *
+     * @return void
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/fileservices/set-queue-acl
+     */
+    public function setQueueAcl(
+        $queue,
+        QueueModels\QueueACL $acl,
+        QueueModels\QueueServiceOptions $options = null
+    );
+
+    /**
+     * Creates promise to set the ACL
+     *
+     * @param string                     $queue   name
+     * @param QueueModels\QueueACL            $acl     access control list
+     * @param QueueModels\QueueServiceOptions $options optional parameters
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/fileservices/set-queue-acl
+     */
+    public function setQueueAclAsync(
+        $queue,
+        QueueModels\QueueACL $acl,
+        QueueModels\QueueServiceOptions $options = null
+    );
+}

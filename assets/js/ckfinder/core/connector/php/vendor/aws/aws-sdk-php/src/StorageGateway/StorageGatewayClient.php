@@ -1,52 +1,148 @@
-<?php //ICB0 56:0 71:8e3                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\StorageGateway;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cPyPfPq/np5jXZDBoRBlsfbNkOFZO0rYMYQ2upNRmEuUCcpCbyyCaem6eVHf1cfzapgDpVFJJ
-XHesyWXCv7tuyz5bLA01nLpVD59sNyu/kcxeZzJ79o5i991HnB7aQojNb+luxY6LLr3Fb5EQFe0b
-5J0HrPN5tBsMyD0p91wdy3v+cUqQw+/FCenmdZgY7dFsNuDVmg/JrZH8cTVvNJi1XGmaMQLXg2np
-zWs2Bwum0fEidS9Tnrv1BjVcrUsYM9Hc2GZnxf02/8wULxI9snptqslkK4vlxOWruw6AyheGlqRD
-a+Wsk7Wr2vH6XVbL9pf4XV/kNOUBpivWookNxh5LtE4FrQF/srTnpFtB2K5w/b+rzxODtXj8IF9l
-qnr9gDzcn9bdjGHMD+n/OhZrtD1GhyrVUj77/oZBVueOdtCUPWWcZsQ47SwM+5FPCx1JtvYm7l4B
-o2Y48hOJ5gI3Bh5TkbEEAG7BYc2u4HhOe5eK9fm5N1XP5yoNMTgyWTuHryb3DeS1EE/spMu1lx82
-HIPcMuF0sCDN7rnMng7boK2Mimb6B7PlrEIM6x3erdcsRImz/8IZTIfX/WILH0iiCUaf2BTbdxHJ
-a7ck01NqaEHlhSb/Wkc96Y2/1nyov7CkktJYzvCIB2RlvoR/SMmjoy+sgA6EwsqW7wz0PE96NdHj
-xQ67luXG1jzClXpeellweCUSKGL3VIr+B0lwcSkZKtlt+mpLMyYoGFZtmN6SmjuESg2Zgn+vVw6b
-5HIXEEQictaZGEutm5Wo+1hhDhYxlTmp532GwHhFI+MpaQ7SG+DjtKuduO5DqyON2ZwZOVePUvcr
-vOKYDdxwaWKt2BzkICmrGg2trUsQ2epJGL05zDbi+1KWnMo1Z8EEivPs1dvq+BiPxyT4y4bNMP/L
-3Jw7J5V70DOdLlsXP1qzjgfZlQocSMN/0aHwxjf/+474Abzg8ijsKByCoj9uUCujVB6K0vnwxGdH
-EhrcuvlwHpk2/GeBIIp9D75H4u9/vSV/j3FJ1Ksl4MDJIr1H+j+kFyYwqSMJ+JvhVgQTj1/59LhM
-33O548S7qMJUoOU1PQospKggmsd1p5PRGA2JKeWbdzZZPaITrp40pNXFHJ9969q/yqbaKxEvLd+5
-q2jYusmKy+EeEN3zmqebadxCQgXM/u+LuOV4rDFuINRFRc+/dKWx7If8jBh2vfUZoRYEmh5HxI5y
-RL836WW6SyGtrusYC8ZKhCk1GD1U6BZyWxlSxw7lNzxWqq2VS80f7elReSvu9XE7Hiv8hHWk/jaJ
-vSJtrHrDsrNJVyqXDJd1XPXU5YP31DfJSuUfXZ2aKTTZ1Q+Ur3it7t5p4vH1jtqPyXqGePp8ISg5
-wFWQUVcip9VaWW===
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use Aws\AwsClient;
 
-?>
-HR+cPpyom8aV1pckvejLgXWftwSZqV+4by1kwRsuuTfJz+Gie0nToB4a4iaIcpTvbRl41vLABuOf
-uNeTyKlKQerGqnHGJe1KlgkcWti1K3Ljo2+KtFE3SPOwbT8VoRkYMcrvkK3gFt+CcA8XeeqkNxbr
-32Ez4VwX7pJLAKP6HX2SGqTYVKnLCH2e72s7pi31B+rxmQBQjfIasVv1A9DAzAOCJQkD2lh3SuQ6
-34PeJwPs8bKWClcFywputOUdyOoCQ7Y+AZRdbeoo5/SbFQn/C5mQ1EM717HcFOwfpy1MTBW1DuEM
-mNLN/myvhDYeksS/8R82GcyFq+z+sWgaT0Y27WJy1Q2cZ9NoQX3TJtPaZRQaGglOIsReRA/vfX7k
-Hi8xZRNp1i6ju89L3hM8QufqIw4Y5c+720/4QdZ6H2ZEoNx37i30sHuqTdM3t2mSA05CR1B12xF0
-xeiH9fBBGxKoFWJhSCpFk8QlWDVE9RVY6XV6uHtpzrwECaWuf0R5aN9x44K6e5dIH6MPLXbModRw
-Un14OZQ+nU7QM6kLdVWdv1ioSBZwg6YS0TgxEdQRkPosPBr6kVPog21EbjhJ9KjWVCqWP0xy1UdH
-P/bmwIZelUhvFtyPRU25+Nh9kcOmhOywvM1HG2mT5LJ/aZ2LEGRfq+V4bIQnyWsPOlP+V7vbtHP+
-cl1tw2mnGZgzYF6B4CQFymyNBL2Mi2TGCxpB5s0trNPIy4BjU/Jopo8rB1uwtXI4+vxa5B4YhZDs
-DR5AhJkLDUB9EDUrObT2f/ZpWIA2NP6tGjF+7mBsHjJ0LPjBei6cZHjnNxmQcmmx9ZC+EHLFs9Fp
-9J8dEtawS5Gmjh04cS3XFczxljQhHD6W0Lzbi3tHCNmnnI/3IK8WHQgZhtk86wJ+VSE9tLpyNxXG
-DMWJxjdbeVaFSDcEwotl6g1VN6prEoP2Ixa87wupPACVRQpqWq6aCj7JDIDpfei6EHOaZ3iUNi/e
-6h/Q9V+1BP9+MIDb3J87NV3qFhpGDJ8OiAlH4vX7KKqc9w6y/G90JhiGec95H2TWWLrox6E7zW4f
-c7SNp9ARTtr53vhnOQKoTKxvuSyzmF31u4txFibGsQLSNySlXhJ+lb+cwStQedslN9QGmoc+x4FR
-hpwq8+IW+vh2uTv/f27av4DgBOysyk5+6yfKRTd90T2aHxjuxwX03F+bSffMqsWotTHknj8kzkwJ
-CcQZuyniX3tnr8oMZhnzehmu7faWkRb5YXd4PcK+IJO7oAVTaYRV6zZhVnXTtuQb9uQwuegNVGkO
-fgd8II9oagU3yP1C+4Dn7Gyhia5BDtBKx8aPNb/LXeurJwiZx9iBaLpGqgDwKy+WVtKRGijM0b9j
-2K2ZEJdYOtut1tCf6fOJk6UVR2ICVcfOhES9oBuwv+XPaMdAEWc9B9hfDaEamM+Tn63ERGPBoTEZ
-VgVorG==
+/**
+ * AWS Storage Gateway client.
+ *
+ * @method \Aws\Result activateGateway(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise activateGatewayAsync(array $args = [])
+ * @method \Aws\Result addCache(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise addCacheAsync(array $args = [])
+ * @method \Aws\Result addTagsToResource(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise addTagsToResourceAsync(array $args = [])
+ * @method \Aws\Result addUploadBuffer(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise addUploadBufferAsync(array $args = [])
+ * @method \Aws\Result addWorkingStorage(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise addWorkingStorageAsync(array $args = [])
+ * @method \Aws\Result cancelArchival(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise cancelArchivalAsync(array $args = [])
+ * @method \Aws\Result cancelRetrieval(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise cancelRetrievalAsync(array $args = [])
+ * @method \Aws\Result createCachediSCSIVolume(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createCachediSCSIVolumeAsync(array $args = [])
+ * @method \Aws\Result createNFSFileShare(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createNFSFileShareAsync(array $args = [])
+ * @method \Aws\Result createSMBFileShare(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createSMBFileShareAsync(array $args = [])
+ * @method \Aws\Result createSnapshot(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createSnapshotAsync(array $args = [])
+ * @method \Aws\Result createSnapshotFromVolumeRecoveryPoint(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createSnapshotFromVolumeRecoveryPointAsync(array $args = [])
+ * @method \Aws\Result createStorediSCSIVolume(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createStorediSCSIVolumeAsync(array $args = [])
+ * @method \Aws\Result createTapeWithBarcode(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createTapeWithBarcodeAsync(array $args = [])
+ * @method \Aws\Result createTapes(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createTapesAsync(array $args = [])
+ * @method \Aws\Result deleteBandwidthRateLimit(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteBandwidthRateLimitAsync(array $args = [])
+ * @method \Aws\Result deleteChapCredentials(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteChapCredentialsAsync(array $args = [])
+ * @method \Aws\Result deleteFileShare(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteFileShareAsync(array $args = [])
+ * @method \Aws\Result deleteGateway(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteGatewayAsync(array $args = [])
+ * @method \Aws\Result deleteSnapshotSchedule(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteSnapshotScheduleAsync(array $args = [])
+ * @method \Aws\Result deleteTape(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteTapeAsync(array $args = [])
+ * @method \Aws\Result deleteTapeArchive(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteTapeArchiveAsync(array $args = [])
+ * @method \Aws\Result deleteVolume(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteVolumeAsync(array $args = [])
+ * @method \Aws\Result describeBandwidthRateLimit(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeBandwidthRateLimitAsync(array $args = [])
+ * @method \Aws\Result describeCache(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeCacheAsync(array $args = [])
+ * @method \Aws\Result describeCachediSCSIVolumes(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeCachediSCSIVolumesAsync(array $args = [])
+ * @method \Aws\Result describeChapCredentials(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeChapCredentialsAsync(array $args = [])
+ * @method \Aws\Result describeGatewayInformation(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeGatewayInformationAsync(array $args = [])
+ * @method \Aws\Result describeMaintenanceStartTime(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeMaintenanceStartTimeAsync(array $args = [])
+ * @method \Aws\Result describeNFSFileShares(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeNFSFileSharesAsync(array $args = [])
+ * @method \Aws\Result describeSMBFileShares(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeSMBFileSharesAsync(array $args = [])
+ * @method \Aws\Result describeSMBSettings(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeSMBSettingsAsync(array $args = [])
+ * @method \Aws\Result describeSnapshotSchedule(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeSnapshotScheduleAsync(array $args = [])
+ * @method \Aws\Result describeStorediSCSIVolumes(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeStorediSCSIVolumesAsync(array $args = [])
+ * @method \Aws\Result describeTapeArchives(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeTapeArchivesAsync(array $args = [])
+ * @method \Aws\Result describeTapeRecoveryPoints(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeTapeRecoveryPointsAsync(array $args = [])
+ * @method \Aws\Result describeTapes(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeTapesAsync(array $args = [])
+ * @method \Aws\Result describeUploadBuffer(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeUploadBufferAsync(array $args = [])
+ * @method \Aws\Result describeVTLDevices(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeVTLDevicesAsync(array $args = [])
+ * @method \Aws\Result describeWorkingStorage(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise describeWorkingStorageAsync(array $args = [])
+ * @method \Aws\Result disableGateway(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise disableGatewayAsync(array $args = [])
+ * @method \Aws\Result joinDomain(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise joinDomainAsync(array $args = [])
+ * @method \Aws\Result listFileShares(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listFileSharesAsync(array $args = [])
+ * @method \Aws\Result listGateways(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listGatewaysAsync(array $args = [])
+ * @method \Aws\Result listLocalDisks(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listLocalDisksAsync(array $args = [])
+ * @method \Aws\Result listTagsForResource(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listTagsForResourceAsync(array $args = [])
+ * @method \Aws\Result listTapes(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listTapesAsync(array $args = [])
+ * @method \Aws\Result listVolumeInitiators(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listVolumeInitiatorsAsync(array $args = [])
+ * @method \Aws\Result listVolumeRecoveryPoints(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listVolumeRecoveryPointsAsync(array $args = [])
+ * @method \Aws\Result listVolumes(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listVolumesAsync(array $args = [])
+ * @method \Aws\Result notifyWhenUploaded(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise notifyWhenUploadedAsync(array $args = [])
+ * @method \Aws\Result refreshCache(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise refreshCacheAsync(array $args = [])
+ * @method \Aws\Result removeTagsFromResource(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise removeTagsFromResourceAsync(array $args = [])
+ * @method \Aws\Result resetCache(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise resetCacheAsync(array $args = [])
+ * @method \Aws\Result retrieveTapeArchive(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise retrieveTapeArchiveAsync(array $args = [])
+ * @method \Aws\Result retrieveTapeRecoveryPoint(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise retrieveTapeRecoveryPointAsync(array $args = [])
+ * @method \Aws\Result setLocalConsolePassword(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise setLocalConsolePasswordAsync(array $args = [])
+ * @method \Aws\Result setSMBGuestPassword(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise setSMBGuestPasswordAsync(array $args = [])
+ * @method \Aws\Result shutdownGateway(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise shutdownGatewayAsync(array $args = [])
+ * @method \Aws\Result startGateway(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise startGatewayAsync(array $args = [])
+ * @method \Aws\Result updateBandwidthRateLimit(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateBandwidthRateLimitAsync(array $args = [])
+ * @method \Aws\Result updateChapCredentials(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateChapCredentialsAsync(array $args = [])
+ * @method \Aws\Result updateGatewayInformation(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateGatewayInformationAsync(array $args = [])
+ * @method \Aws\Result updateGatewaySoftwareNow(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateGatewaySoftwareNowAsync(array $args = [])
+ * @method \Aws\Result updateMaintenanceStartTime(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateMaintenanceStartTimeAsync(array $args = [])
+ * @method \Aws\Result updateNFSFileShare(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateNFSFileShareAsync(array $args = [])
+ * @method \Aws\Result updateSMBFileShare(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateSMBFileShareAsync(array $args = [])
+ * @method \Aws\Result updateSnapshotSchedule(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateSnapshotScheduleAsync(array $args = [])
+ * @method \Aws\Result updateVTLDeviceType(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateVTLDeviceTypeAsync(array $args = [])
+ */
+class StorageGatewayClient extends AwsClient {}

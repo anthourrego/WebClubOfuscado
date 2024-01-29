@@ -1,111 +1,55 @@
-<?php //ICB0 56:0 71:114b                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cPzN/4pc7E422gCLEhAGxsQRk0EeifjAyAuQuw11B/qa0SsOpieNEb3K1OjwQQUnABcDJf5Et
-9MeFzN+oGXQeekF6k8adRgaziM1j14+nQTfW7wZ+j5JkpsKKv93TaqjHcjw2Os/ofnNt1zwL8BN3
-9wkJHu1gry6FPdpvGDUK84Va8zgBwEIqIq0VESynXgJUiU1q1EAe4SIk4p5BcM5UqsnkKXyXkqsw
-RhUjucGLT/e/ZzLq5v3ytN1F/QfRZM2PPBaTxf02/8wULxI9snptqslkK5fjo5ZKWkPb4M0uIdO2
-xYaNDzF8Ke7O5Lu0g+WVPa44f2FGR9p6vm3flQPz/Myql1hmWkq/gYJr4G7ZMnqW8P/vLlueVvJC
-lnEN6m9hX93f/k/1VYywRViiwRywouBpQ8T6cQ2VLfkBcst2PWyqVX06RIDA0rVxeV1JFYj06869
-X+LkmjSLTWs+RsawdmtVStpcMznb0KFzqNBTMj+AcbXqwV6xsK0UFsvNZ0ZQpAlvSsSg0AHRiQg2
-ybHR1O7TfXjX3nBXVGuBdRp6Ri51G4fMhBy5gDzEDLtJAtS21VzA/M0bFiubJUdZoBzy0R8ZeuLW
-0YVcsTkrqoUPXGquCfgnNGlIfzAay8jWlyQAiwuYGpD/3LE0L0zFyiV1ZGkXM/dbNp62Uj2Y7be4
-onn/fIBdEf+8tUKfEbU3ak0Kp5ha/vkq+9FJViljerv1yFp8xv+midyxwblntMTt+Pw5fXPagq6n
-UBQD2uzb7Q+d15dP4Dhu+6XeP7mnpZJ6kUn/D8+ZZF3ltUaTw2oxRwSBqWwF7ALEqLYbAO6GEZZx
-73HL+HD5mpSvDDI3fulVERU1GEwEcKbgy1Amo4DGQzcO2eO9RupkHUzLgy7N5ZhFiDNS/kPT4VBD
-WhJwQQXnYT7iKZlNXCMIxgBgh8BSCEBiPJAkFOCu+dCRZz1a6RCgmutvDrcj8jmgXqqHIawJVK6r
-41VIrrR8sQdmCwgY6Vyo6wYMUJR8LQ3VMB4Z7jmbgmcFWZVj97yYJrwans5g8skH3sVcdmktfXuk
-6v/s39UmHR8ZnwRz/7rDLqGc9efp6q60qjBlj4j+wPhAeAhdez11mkwcn77CUAoDzbgxJVIbdAPq
-FljJ58oxpti/hMOMrYI1ARIcsPeuwRe9CPWLQJ3hnQuFEcNsJgI+5LcwNpPTdl801dpLehT8hdIt
-YI7gjcSKeup8nmX9Ugqin+U3if1kUky3JuYgNIivm7IJbiExSzzWlOKoT1nxjSCgCnfwnLsoiZIn
-ltKmDPU/wcimvH16IgOpdS9jdqe72XFtXcFDe+FqfcmpXe6cFhriQg80/rGLba/4HoIsEoa3C5JW
-OugSwcvFPcqqeDGFa5ElWvglodJwcxJxD/EP8EEdukp9Ed18ECjilSUZb4+JJxTrvpQOc6n6/WGM
-YlWA6ziX81S19VGuCIajBfZBuJKcwmpmA0YNdS9+No5PmyE5Hi5Hgro5Xn2Bps8D0RLo5EYinrgi
-Qcoj4eWZki0kjlQb6u03oLzbc981tl7dkDgVmw+xQqMHKP3Xg/euFTSgYaqHUe9Cy9mfh9pvMT6k
-fZjxCoAnJ/N5qCNb8S/7wKivk6QDFuGLwSu3IR+HcebM+rBc317I5rhhPQ07sf4lADKUeXxgAb6m
-pI3BipKWHxNHjzBWtH//7jz5Nxo1jdeaqW6VI20Fjh0lhqxjy1jihQi5WZ1QiMVP8NEmTzWhNpvU
-n7MvOFhf1Zcevi+OIkpActN9ej+5EAofYahMAdGZFOl4gVr5JdH6aSdf4bk2VSrB/p8g8izRuoer
-YdQHKqNtOE3YWyuo+fPaFyE4efcvCkijep6AclK8lcyrz5Y37hb35/GcvICPAvjEnNortewfKMUT
-dMhgiLZOEDpEdC/iGUeFSqHp5PhtlY2JdXBuhvhDPLypytMCs3++l7Qg2EwX5LU6snIHBX/0xwYX
-rvJOvM22y44+MX/HGFV45rsdnWE4XGDEdsmz8hLmIdIoFaTN1u4hkkN4F//YGLjyGePX6HylISgK
-wOoWhukeyjSKu8RmVF+H7R4pwkyY5wa5TIW3J32yGRyTO+lVf4RevOyVytRhj+xLYc9QT9QVrDoR
-AOhQG5z7K+LH9hdnUA6cYkNBvp0++vKHm/PD03ILCSYpw5aqPlgXQEyaAXHet9rEBzTVmYiK+aKi
-4XUYnTXTx5p/CgCW4I4eW9lf6khazcmmi1mseuviwDAHdWenEMQpl9PLfaV5vkeNFNDod1kujU5P
-/1mhHyZMEJstFYyfddNOIph2KBPUpUljpi2omZZJrGsHGCEm9MqjpwiaeL7RUv5lvoecAm//dlJ/
-7uGAViZtk/hgu/0fysyU7AAHfpQmcXNkuBnHiRRhUICFVtC8MsDkSZtqRYQUi4pYgB604fuBcl9R
-OYQdvlcFd9bUN2wfNs9ja0evrixWHwX2on1QxE/hYH94yW3TD2W09riEDJgTq+/idPk2fQwDhQPi
-KQgKQJl0R+aIlbwlirY33IbX4WggfbjgJYzsgg7/eK7OVSRCo+z1vXXfXadpCkjnl8tf4A3yvJV+
-TrBFoWrLZiytPw4cTkw+sBYcWKGYcEoGn5OfpGCDiwqM35wuQR2MQEPAd/UqI4JaFSJct3sVUwXu
-juTTpyQG8kfD12cjaiDCtZBesGWg0JNHWpXdgHmEqkhMp4hKf0fhuxbDK1twMK7/giPVGwkWBK8a
-ZGPAUk5KW/BbpHOU+npu56oky34Wn5h4C7D7ri1zAYSVb9mmKjUd3lzqc1LedWLfcp5nxr1W0omR
-lnZSFccMFbONPbz2NpwIpio8g9euBt1GmhkB/lL86SRvzvW7PBcA+GQzjlNJ68UVK8xsa7jJZr/D
-7zwcuzbiaZB/a6lwlPKl+22kw4DuysS53x9Wl7W1aabitewPvKKCSW9UR8JGXprMWyEaLsLF3VME
-ZT44sx0/Xn/LUoOsMyU4hNGgY/cVe33Ep7Ol7/Ao+/yuw9g4Roh7PfOo+zjvfxg+s5bxcwQ8BMMk
-fGjmSVzwIed0Y2W60JzVMkDUDP35WBnIcoCxlWhi+LaeaR8CyGZ62LYajLuIGijRQNwSu3I+tk/x
-5uzNE0x6m0S10DMzOGryoWCW4IEXCYC8YKitFY01aLT97aI6vEZHzmhtAN8InkWhL0ammXL9V+5G
-MO5TZvrw84nv2YvuDkHscN8DZJ/A1aUA80qH6/POp6kIbZsMqdQ7jnQqLmDBrgMk/FELGnPIC6Xo
-Zp8bql/t5uwPS/HeixXHRUBCImUjkky4+C1D/FRe83AHcWK8Ohb0K4jC9uz3Khk3nLOtKq1O/XgK
-X+RF51BvVvFBAG84exBdv8us/iRipfQyT1PQmhuvazJb0lNgyeq1+88INjNEnnv+b7vr16xynBmb
-EpC+G5NKg8sCPAm53jiJHpEds7PiKQcJKcaT9GdrLVydRydM3xm16opvu0h0cajKQIQK6VHgJb1j
-YoJZkeUsV0u==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use Doctrine\Common\Cache\Cache;
 
-?>
-HR+cPmC3RC8ixbJsARJvuNc4My3VHy26LMIO6OouhTCiKoplyFgZHj7c9NRkxvNamEKAZ5a/jNdG
-B/sniNwWZDg6nEVrExOTE5VZqFyHrQh0XYTwFrnUEuSAbdwoy7L9uTJd8eUvcIgfuzY75VJD8JyQ
-I72asEE/N+n8G80dH3zEUbzUd++oSM4hcOOafc+xq2DOHbQEQJJD9hF2o203BW/en2IujoeJs7oG
-Ln4ijvPvhSmp1I890qVxswMlTewAzAqa7gLUbeoo5/SbFQn/C5mQ1EM717ngidXvnNRtrC4KXRCJ
-Dd0zYbA1/RQc1jb/S63gMrR38UGtKfcMVx5z6OVGZSc96V+TYgktkz+zhls4ofc73keuBrxOU8ba
-np24OiqREnTvMYddzDVJK+/EqEIxik0KK80rJCAYJt/40D3ffQKC7WG8BCq1fOc37ClYeFJdU5/O
-yyiwnrj2ZxnThfPjlgVidLcdu/y/uxRpm9HG19sw67GdLYTaHTlKIpR13CsZkVlRZH0jvfordTR/
-T9gTBmJpFuK+wlbCWobk8FyKSLCC84AAOoAvYLF5b4UuCvMDrsCdnLNwojSHiUobTIAMul1EEq/j
-A5LduvE6EiuoTaowyRJzoky67kpLgmzsH5DiepHwMItz5dGhqV5hJv1FMdepOqtpi/AvlgPnRrYm
-RkhVNqYWyPHEJ79g7Xzjdyt8j74LgPHN0YOvlbdCyai2UpBLI/h4H6Oqo3KhThFc6nUmmAGSwGKe
-1Dr4BOzylOBXNAmrGRMygqr3fnw3zrp994UloFtq8O692vTj6kDhryQ56WQEtQX/tVy0DI9z5wql
-jDIDLk9OJFVfJrEUSJ6/cf1eZ3VXzUROHPxBzH27H+eXmyqPsdJMQkgh593D4AfP8XJCORiaSZKs
-XUr/tW0jKAxsrcNV2XR3fnWUTt643oHCX+6uQgkveXoD+7073EHXUsgRO1UuVPCzRwgY9p99Drvw
-MefnhKGBi9UCFeKA7k9Nb9sSBgVKU7Li/I6ydI+YE8cOOVfYSDGcuz9uaNu8U5AFqJ7BlV6znjow
-yhpfx9V2ph3wgO0SqJMbPMU+uvQjo+hikBxDMwp4tirliiKeBK4mDYaCKTMmLt0JsW5mloazOE4k
-sxyLFL4fH5nY0b4tUtRaN89p0Hdrds22eR7e8O+wmNYmp+PNM11gjD+7wBfBXcQE+xc1eF+XYmmW
-/1ETWiYi82Ecq6oN6i47t6XqOD7zmn+BINAzBGHatJbYviKHHiYGo4Hs/R1keqZeXOxr2d/JCi/z
-sBEgJG4vJIOev5tGdYbd7BFRX+g74fJ8pk44OIO8siulMa4mgG9CBra9KE8/rwen6bGQN9FUZ1Ol
-UMNDescb/1x3SbNlJkCpduDBUbNOJAZzKiOuEvwMwNZ0iLntxvzEmE9OuGNk49zJabS/13VtHzuo
-h1PtHBC+1n+hGiMlJ6P+sJJjRahfM5BY+q0/BpB67ki/R1NEnxWBs6BDgyUpO7dRW4gpoThU3TWh
-OS1RPsRBZfqOsneFEqntTbPRD2g21RvarPFWJEjyQ2mtcgaHwwnm+SMi64vC8hOm/gN9pyuQrFrx
-1XKsZnbbyKhQ/sOI2tTHYx3e4Xna9k0gIPjyKspNURkMdwKW9vM3ymLprafXSQDl+67YgzLa2CRj
-Nb9MtXJvDWt7mh4niL4BFh34GsomB28kTxRzfG0iMEuNFaMQ0FmscEVRRkfw3JUOV+CWCGw0kZuD
-lwPEMqvt8CGuFUu+8cDEVSz/x0+Y4/QnOSexaXoQ7FDsUWs43HIWZSDkvn2D6woKlVD1U3zLAeUi
-yBUB5bSmotpPe2VdMq9HKbykSXsip8Sn9mSzhiOP7K8z7pfBKzytuYOKN5YVUnUbRlCBwnN2Impl
-KxwBAvoZM/2gVyWEm9g2gH0TRH4rb4vq2eoCE6zE5lJRLT4//twJYOvFG02oXGRGt9yq5Ns8wuzb
-puaZP7jitz0qmz9FGkJWHJJsTJae2d754UhdfNwFmV+WNAf+obTc1ugfv8Ex3xYznxyHRf0IdHPK
-xA0MxOFyVa7jfmRS/tH4zU+r8ZD1jYe0HS0bA95Y81uFUF+VVXRY1CnN+ldFYuhZXwpKxdMlfd6y
-lcygo7Yt4/xpQQuYL6Zu6lw3MTaFErUwPbGUYzbjLpEgmimgOahxh6l8DVEfw1CgVJbDzkwYvE3w
-Idfd6hgx2nCZ4mDMfgIrIcZFGNfl0psVtnYEN5G1MPG60MmzR7pAwbgWViVkrdLsPtutr4+ZUjZF
-JTRnWnV2eiBZWh0JHrq+i+uq+HytasVrXXbUN7KFX2SfUzWAdK7ekP+jfBwQK+FZKbbQSq6TESHb
-SFM1S3G+ucOdzskrOZBFZpKmCKagVgXQldV7IKrO/+OfBREp+iRb7azPNh8PEKMKwT2wM6qRIo6J
-ge2WZXdk8uThDKtlGa6yR3v44oHRzaLXFvTfKbfBnHobRt0dd5SJTbHlgpg1YKs8gVU3pKlOOLlL
-MAzKgQ+6fYvjedUl6fmo+xYIkAhRTeRT+WGQaW3d8WLs10iYKCa6xI41LoRlrDDrfVGquCdvKndP
-WHrhg1zfN6fY6SNpZZa0TX07xdpBHu1U2TPfhLInA1msygazbu7Rv7hZbUDP24yi2+GQAz6eC48B
-kETDprx7bCSGi39ykENWGrMP14kq2uUNrw/v/IOWllJLp9mgYcwiw3wvMWFPgNZZ4aSPI3X0ZnD8
-+tR/pg+MDsgvgfgCgWgNaSPJHCIQOnOCl1Iswi5EYHGFtVZv4+SMaFTDroyRtkmSx7wJ5SlLy7vo
-Y4NwHBCzDFpNluLgVj2T+3hoi4F8ZIg+/DBqsQeTV3zedQmkTllOLmNwSAZratRwCztTvZ54l+wD
-/RG5bwO2gSDoRTJzOgTRgflY5rKHoo8oqdSxFXGlH9ArbArXlaEdmk5peE2ABiwEoDkItEIBbm35
-GDzb0MGRcg6djgmBFrIG+V5Fiqp7W5M9PZ5AYAvVfROlgInXIfCL11Y5HGqDSOrFWE+VkxJT/gAK
-WQILi3rFI8Y3moL25bSAq4zRVlHaZsIl5UKP9RFFK/+XsF3OadpzoPZ1OGsgJlahhpfSKgJX6VXD
-yqwCMePcwp3NLOzG07iC1wh9u5MnqWEH8DBVIHYD6TBntlcRKeOT2pwLkOBVIZBV1J1czUjbmSkl
-XCrTXaDl+R2qTqKaMS1Tqv+5Vj/jY/Fmuv4BUJ85SsCZyHRWkoxEoxfQU19Sg7dXsBMI7AS8RZJ8
-Zn6KUs2mpvkb9yQkHxsZdo6JOufAlUTNynAliJVlX/AU8Lh5CMnJ2NJu00hj095sl3A/m//WSR/L
-R+o7JgRXE5WnqgZORG5cVbx44sUFCrjdmasPFU55n9/5AYTrcOEkTXqv+BA8qqxnv14iVx4lVP66
-DNO4/ouWl2lPSngMu+VQ+0DEeEMTlATicJ6c4Psz1uf23lKjtmqmYOSWN9sm1hgxSRvdtPxs+lpy
-b7+mrDngrbwwEDdQMM610JACggyHa6PjRGSR5YiT3H+SqwK7H9yJjP63bELXu5BgyZJArlKHZyAO
-hRUoTlZtf8H/VbwQqG+XK2L2VpPi7dTCEgH7lniCzu2Qg+XCReltdqYfg1ZwIH5JGCDrQtPuaukX
-ODCRlMxFPae3bRde9C8HNm1QQxSzGARJd/aMcKm9Hwgq9RvAaNyZSwyFtYPTEZIYRBG1WxtNyMWk
-xA1elzxkedU/JlejqrATAd2z4m4DszZdmUqAmINBwN8TY/Ie/hudYblti+dXsTN2DIv8c5B6xbkv
-+3CILwgt1og5O0==
+class DoctrineCacheAdapter implements CacheInterface, Cache
+{
+    /** @var Cache */
+    private $cache;
+
+    public function __construct(Cache $cache)
+    {
+        $this->cache = $cache;
+    }
+
+    public function get($key)
+    {
+        return $this->cache->fetch($key);
+    }
+
+    public function fetch($key)
+    {
+        return $this->get($key);
+    }
+
+    public function set($key, $value, $ttl = 0)
+    {
+        return $this->cache->save($key, $value, $ttl);
+    }
+
+    public function save($key, $value, $ttl = 0)
+    {
+        return $this->set($key, $value, $ttl);
+    }
+
+    public function remove($key)
+    {
+        return $this->cache->delete($key);
+    }
+
+    public function delete($key)
+    {
+        return $this->remove($key);
+    }
+
+    public function contains($key)
+    {
+        return $this->cache->contains($key);
+    }
+
+    public function getStats()
+    {
+        return $this->cache->getStats();
+    }
+}

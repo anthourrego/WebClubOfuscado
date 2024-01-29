@@ -1,76 +1,43 @@
-<?php //ICB0 56:0 71:c4e                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/*
+ * CKFinder
+ * ========
+ * https://ckeditor.com/ckeditor-4/ckfinder/
+ * Copyright (c) 2007-2018, CKSource - Frederico Knabben. All rights reserved.
+ *
+ * The software, this file and its contents are subject to the CKFinder
+ * License. Please read the license.txt file before using, installing, copying,
+ * modifying or distribute this file or part of its contents. The contents of
+ * this file is part of the Source Code of CKFinder.
+ */
 
-?>
-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
-pOR2kf3gSHLXj6uXnE0=
+namespace CKSource\CKFinder\Exception;
+
+use CKSource\CKFinder\Error;
+use Symfony\Component\HttpFoundation\Response;
+
+/**
+ * The "access denied" exception.
+ *
+ * Thrown when file system permissions do not allow to perform an operation
+ * such as accessing a directory or writing a file.
+ *
+ * @copyright 2016 CKSource - Frederico Knabben
+ */
+class AccessDeniedException extends CKFinderException
+{
+    protected $httpStatusCode = Response::HTTP_FORBIDDEN;
+
+    /**
+     * Constructor.
+     *
+     * @param string     $message    the exception message
+     * @param array      $parameters the parameters passed for translation
+     * @param \Exception $previous   the previous exception
+     */
+    public function __construct($message = 'Access denied', $parameters = array(), \Exception $previous = null)
+    {
+        parent::__construct($message, Error::ACCESS_DENIED, $parameters, $previous);
+    }
+}

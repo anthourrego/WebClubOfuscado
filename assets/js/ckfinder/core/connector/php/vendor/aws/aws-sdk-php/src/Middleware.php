@@ -1,385 +1,372 @@
-<?php //ICB0 56:0 71:389d                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use Aws\Api\Service;
+use Aws\Api\Validator;
+use Aws\Credentials\CredentialsInterface;
+use Aws\Exception\AwsException;
+use GuzzleHttp\Promise;
+use GuzzleHttp\Psr7;
+use GuzzleHttp\Psr7\LazyOpenStream;
+use Psr\Http\Message\RequestInterface;
 
-?>
-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
-Kn8iimQHINYWnXkxqW==
+final class Middleware
+{
+    /**
+     * Middleware used to allow a command parameter (e.g., "SourceFile") to
+     * be used to specify the source of data for an upload operation.
+     *
+     * @param Service $api
+     * @param string  $bodyParameter
+     * @param string  $sourceParameter
+     *
+     * @return callable
+     */
+    public static function sourceFile(
+        Service $api,
+        $bodyParameter = 'Body',
+        $sourceParameter = 'SourceFile'
+    ) {
+        return function (callable $handler) use (
+            $api,
+            $bodyParameter,
+            $sourceParameter
+        ) {
+            return function (
+                CommandInterface $command,
+                RequestInterface $request = null)
+            use (
+                $handler,
+                $api,
+                $bodyParameter,
+                $sourceParameter
+            ) {
+                $operation = $api->getOperation($command->getName());
+                $source = $command[$sourceParameter];
+
+                if ($source !== null
+                    && $operation->getInput()->hasMember($bodyParameter)
+                ) {
+                    $command[$bodyParameter] = new LazyOpenStream($source, 'r');
+                    unset($command[$sourceParameter]);
+                }
+
+                return $handler($command, $request);
+            };
+        };
+    }
+
+    /**
+     * Adds a middleware that uses client-side validation.
+     *
+     * @param Service $api API being accessed.
+     *
+     * @return callable
+     */
+    public static function validation(Service $api, Validator $validator = null)
+    {
+        $validator = $validator ?: new Validator();
+        return function (callable $handler) use ($api, $validator) {
+            return function (
+                CommandInterface $command,
+                RequestInterface $request = null
+            ) use ($api, $validator, $handler) {
+                $operation = $api->getOperation($command->getName());
+                $validator->validate(
+                    $command->getName(),
+                    $operation->getInput(),
+                    $command->toArray()
+                );
+                return $handler($command, $request);
+            };
+        };
+    }
+
+    /**
+     * Builds an HTTP request for a command.
+     *
+     * @param callable $serializer Function used to serialize a request for a
+     *                             command.
+     * @return callable
+     */
+    public static function requestBuilder(callable $serializer)
+    {
+        return function (callable $handler) use ($serializer) {
+            return function (CommandInterface $command) use ($serializer, $handler) {
+                return $handler($command, $serializer($command));
+            };
+        };
+    }
+
+    /**
+     * Creates a middleware that signs requests for a command.
+     *
+     * @param callable $credProvider      Credentials provider function that
+     *                                    returns a promise that is resolved
+     *                                    with a CredentialsInterface object.
+     * @param callable $signatureFunction Function that accepts a Command
+     *                                    object and returns a
+     *                                    SignatureInterface.
+     *
+     * @return callable
+     */
+    public static function signer(callable $credProvider, callable $signatureFunction)
+    {
+        return function (callable $handler) use ($signatureFunction, $credProvider) {
+            return function (
+                CommandInterface $command,
+                RequestInterface $request
+            ) use ($handler, $signatureFunction, $credProvider) {
+                $signer = $signatureFunction($command);
+                return $credProvider()->then(
+                    function (CredentialsInterface $creds)
+                    use ($handler, $command, $signer, $request) {
+                        return $handler(
+                            $command,
+                            $signer->signRequest($request, $creds)
+                        );
+                    }
+                );
+            };
+        };
+    }
+
+    /**
+     * Creates a middleware that invokes a callback at a given step.
+     *
+     * The tap callback accepts a CommandInterface and RequestInterface as
+     * arguments but is not expected to return a new value or proxy to
+     * downstream middleware. It's simply a way to "tap" into the handler chain
+     * to debug or get an intermediate value.
+     *
+     * @param callable $fn Tap function
+     *
+     * @return callable
+     */
+    public static function tap(callable $fn)
+    {
+        return function (callable $handler) use ($fn) {
+            return function (
+                CommandInterface $command,
+                RequestInterface $request = null
+            ) use ($handler, $fn) {
+                $fn($command, $request);
+                return $handler($command, $request);
+            };
+        };
+    }
+
+    /**
+     * Middleware wrapper function that retries requests based on the boolean
+     * result of invoking the provided "decider" function.
+     *
+     * If no delay function is provided, a simple implementation of exponential
+     * backoff will be utilized.
+     *
+     * @param callable $decider Function that accepts the number of retries,
+     *                          a request, [result], and [exception] and
+     *                          returns true if the command is to be retried.
+     * @param callable $delay   Function that accepts the number of retries and
+     *                          returns the number of milliseconds to delay.
+     * @param bool $stats       Whether to collect statistics on retries and the
+     *                          associated delay.
+     *
+     * @return callable
+     */
+    public static function retry(
+        callable $decider = null,
+        callable $delay = null,
+        $stats = false
+    ) {
+        $decider = $decider ?: RetryMiddleware::createDefaultDecider();
+        $delay = $delay ?: [RetryMiddleware::class, 'exponentialDelay'];
+
+        return function (callable $handler) use ($decider, $delay, $stats) {
+            return new RetryMiddleware($decider, $delay, $handler, $stats);
+        };
+    }
+    /**
+     * Middleware wrapper function that adds an invocation id header to
+     * requests, which is only applied after the build step.
+     *
+     * This is a uniquely generated UUID to identify initial and subsequent
+     * retries as part of a complete request lifecycle.
+     *
+     * @return callable
+     */
+    public static function invocationId()
+    {
+        return function (callable $handler) {
+            return function (
+                CommandInterface $command,
+                RequestInterface $request
+            ) use ($handler){
+                return $handler($command, $request->withHeader(
+                    'aws-sdk-invocation-id',
+                    md5(uniqid(gethostname(), true))
+                ));
+            };
+        };
+    }
+    /**
+     * Middleware wrapper function that adds a Content-Type header to requests.
+     * This is only done when the Content-Type has not already been set, and the
+     * request body's URI is available. It then checks the file extension of the
+     * URI to determine the mime-type.
+     *
+     * @param array $operations Operations that Content-Type should be added to.
+     *
+     * @return callable
+     */
+    public static function contentType(array $operations)
+    {
+        return function (callable $handler) use ($operations) {
+            return function (
+                CommandInterface $command,
+                RequestInterface $request = null
+            ) use ($handler, $operations) {
+                if (!$request->hasHeader('Content-Type')
+                    && in_array($command->getName(), $operations, true)
+                    && ($uri = $request->getBody()->getMetadata('uri'))
+                ) {
+                    $request = $request->withHeader(
+                        'Content-Type',
+                        Psr7\mimetype_from_filename($uri) ?: 'application/octet-stream'
+                    );
+                }
+
+                return $handler($command, $request);
+            };
+        };
+    }
+
+    /**
+     * Tracks command and request history using a history container.
+     *
+     * This is useful for testing.
+     *
+     * @param History $history History container to store entries.
+     *
+     * @return callable
+     */
+    public static function history(History $history)
+    {
+        return function (callable $handler) use ($history) {
+            return function (
+                CommandInterface $command,
+                RequestInterface $request = null
+            ) use ($handler, $history) {
+                $ticket = $history->start($command, $request);
+                return $handler($command, $request)
+                    ->then(
+                        function ($result) use ($history, $ticket) {
+                            $history->finish($ticket, $result);
+                            return $result;
+                        },
+                        function ($reason) use ($history, $ticket) {
+                            $history->finish($ticket, $reason);
+                            return Promise\rejection_for($reason);
+                        }
+                    );
+            };
+        };
+    }
+
+    /**
+     * Creates a middleware that applies a map function to requests as they
+     * pass through the middleware.
+     *
+     * @param callable $f Map function that accepts a RequestInterface and
+     *                    returns a RequestInterface.
+     *
+     * @return callable
+     */
+    public static function mapRequest(callable $f)
+    {
+        return function (callable $handler) use ($f) {
+            return function (
+                CommandInterface $command,
+                RequestInterface $request = null
+            ) use ($handler, $f) {
+                return $handler($command, $f($request));
+            };
+        };
+    }
+
+    /**
+     * Creates a middleware that applies a map function to commands as they
+     * pass through the middleware.
+     *
+     * @param callable $f Map function that accepts a command and returns a
+     *                    command.
+     *
+     * @return callable
+     */
+    public static function mapCommand(callable $f)
+    {
+        return function (callable $handler) use ($f) {
+            return function (
+                CommandInterface $command,
+                RequestInterface $request = null
+            ) use ($handler, $f) {
+                return $handler($f($command), $request);
+            };
+        };
+    }
+
+    /**
+     * Creates a middleware that applies a map function to results.
+     *
+     * @param callable $f Map function that accepts an Aws\ResultInterface and
+     *                    returns an Aws\ResultInterface.
+     *
+     * @return callable
+     */
+    public static function mapResult(callable $f)
+    {
+        return function (callable $handler) use ($f) {
+            return function (
+                CommandInterface $command,
+                RequestInterface $request = null
+            ) use ($handler, $f) {
+                return $handler($command, $request)->then($f);
+            };
+        };
+    }
+
+    public static function timer()
+    {
+        return function (callable $handler) {
+            return function (
+                CommandInterface $command,
+                RequestInterface $request = null
+            ) use ($handler) {
+                $start = microtime(true);
+                return $handler($command, $request)
+                    ->then(
+                        function (ResultInterface $res) use ($start) {
+                            if (!isset($res['@metadata'])) {
+                                $res['@metadata'] = [];
+                            }
+                            if (!isset($res['@metadata']['transferStats'])) {
+                                $res['@metadata']['transferStats'] = [];
+                            }
+
+                            $res['@metadata']['transferStats']['total_time']
+                                = microtime(true) - $start;
+
+                            return $res;
+                        },
+                        function ($err) use ($start) {
+                            if ($err instanceof AwsException) {
+                                $err->setTransferInfo([
+                                    'total_time' => microtime(true) - $start,
+                                ] + $err->getTransferInfo());
+                            }
+                            return Promise\rejection_for($err);
+                        }
+                    );
+            };
+        };
+    }
+}

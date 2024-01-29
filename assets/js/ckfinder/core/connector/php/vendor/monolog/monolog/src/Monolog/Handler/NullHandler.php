@@ -1,70 +1,45 @@
-<?php //ICB0 56:0 71:be1                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-xe8bAgU+e6O6=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/*
+ * This file is part of the Monolog package.
+ *
+ * (c) Jordi Boggiano <j.boggiano@seld.be>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
 
-?>
-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
+namespace Monolog\Handler;
+
+use Monolog\Logger;
+
+/**
+ * Blackhole
+ *
+ * Any record it can handle will be thrown away. This can be used
+ * to put on top of an existing stack to override it temporarily.
+ *
+ * @author Jordi Boggiano <j.boggiano@seld.be>
+ */
+class NullHandler extends AbstractHandler
+{
+    /**
+     * @param int $level The minimum logging level at which this handler will be triggered
+     */
+    public function __construct($level = Logger::DEBUG)
+    {
+        parent::__construct($level, false);
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function handle(array $record)
+    {
+        if ($record['level'] < $this->level) {
+            return false;
+        }
+
+        return true;
+    }
+}

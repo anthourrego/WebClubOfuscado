@@ -1,96 +1,62 @@
-<?php //ICB0 56:0 71:e10                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\S3\Exception;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cPq6kWChfTNdjz1aLwOBPgvo2c1pjhQREOSnDoWvTWYjqB6hHIcTQ+zY+kuDdSy0Wrx0LebB2
-vKvGsbnu1sS/D2POy9jmLh7nq407r68QIPu5DKn/6mCDTd2pDBUJNV8ezcuq/BNkPOUbQZTeMslC
-UrQ7dsutuAC2zzbSocvEcq/mlS4cIjEQwAK0pfFOr7bts4cfgZLeN7Sh61qU1lPN8lkBiyWxQL6t
-Ae3qco+CTwKc/P6pRcnW8fgAuEK5+xVJj9t3FkwG0loEdbUqYTiSzzDhxb1YRNF0yoCDr3adz/XM
-uRCwU26VaAilzUpiLds8jJjjC/rU9Q+ruN9Br+t/dMqANZQlLzkOSckjgeDstLc2+HKQJLD2eLiu
-UVsaglIbPQ7BHWclZoPdCBb12FdLor0EpXuN053gU0/SswyrJnZNMre34ueQtkO1ij/LA040EESH
-PN1ToZfH4lKG5eFmXcshXTaYVOMdAJkQ9CpbVh0qGOWh3XivMOB2WMdfvID+OD15KFACiCBCkXaB
-t3BAl2HxGT7d1i2KbA3khbIjhjbSToJ/HFDsRDlYa/IznH7tYzdEd7iPmsgBQqClQ3cvSpjU5tf6
-vnT+k2FynbIRsAEWZqNYDHNIYKLQnNacCvj0WlYpj8TAeAhLY3uf+qp90vo2IRvmngIl53cCXRvC
-KjvjOC+XzWIZ8zZtfTlJk1Ift2ObcfwXuz6cnvoaP5vP9pawfPetCjF35LlcJ6oAU/4rbTRBz1q2
-ZeKZe5LHtjLGxXrN/YYkoZTOPTGkAslusuVTUs665GWxu4YAhBY6oJkb1XMGzxPoXW6QkmL2P/wt
-5rYyq/Q2WHFZ3sm3Hi5E+pPL6JiIvJ8TCQPCa4NVSoONol2b5ySBjAEF3IiLE/JJ1TsSyss55/EC
-iEnmMwM57beu/ApiO98gqlVAzbm0VHuRKmdkQcA4B47MgYAwstPe3muveq+UNZ4lceQov77CpE3T
-gaNaNnZsYLWc0sRKUZF/9XCzrZdNx5ICHnp6mFvMFkQ+aPBEXDrYyPUumYE0WjbU1mjZBIsCAjWP
-ARKt79iNNlWECDREuLraWqWUXTPLIlDrPgu8bON81hNyJlvN8BcoZPboua7jFz2zwEhswO5vnva1
-uJxkMXtVtO3xl2EsrNdP6LaSbe9+4cXYTFd4M3f4ZJTG96LB+jkqvB3zqIprIXaHQGmVq3dhB2TZ
-jpeuC/b1lZ4J4iS4mXd6q0aSzgI/hvLtPC7ISVUI8iy+UHG3n4CVaoQ824goUAhRcPLLgqXMKl3L
-WmK1l7DkTO1m9efmb4NpVT85P5qxlznLkKAfPH+7ZD6KZXr/tgt+1NVeJa9fE2cnIvuuo74SUHgp
-3DXqms3jFQMTvyOgDmrbhagNk6Fg0VyurjDw231kBXjBWYkXh0EMn/QH/e/w8RCawg1fl8wEIK2y
-1oza135ZJ334VPhzQhwXQWQrI4jOPi7524vl4tqMZ11GYRmLKZCAnlltLuwfcrtrxfQD+uQ9sYIM
-Tgg7Rw9INwNDdkwOuG0GonaVPO+fWv7DR/fI2buKlNBaAIah7NRhGsewgrcvn+DTAGOxakBFxnzo
-bkr9ETrSuc18U7DyXhN/MFwh4/eAqrxZCYzGMIxs+p/l6fYozCdpArNRFQtLDxJa8RWQ0muBJMUx
-tcmPssrhV6AFrVoGowAviRWmXfHurJArBkC/gEc1IrUzhSpEqbOIHGRTntc9ay9qSNBeJ56Kt4oH
-xyvisoYC5Ast6Caxd96QvYWciFsE5CEHahESZAsSV4nHTZd/JOMpgeObpc3KxLToa3CI9aksvzSA
-eK7vYAdg5rUi9MFlgX2i/sG64bLf5tBv6ZrPz4QvKi+OeV2jpaG3a309U4oBLNPjNps3lgSJvShz
-RB2iPLyFMQLa6Ftn+R+uDAOMS0ykRFIsr4r+fstAlOX0AxZfJywuk9yYgak3SSyGnikvgOb66DUY
-SQq0zhWPAtIU1YZh57SbqtAdzvLX/mgXdb9TQqVEt838sv7KbTUdjWfUUXwNT0+WatB/lcFPMjFr
-2yFJO2cyWr0rKLWa+R0Pf/KoSQmLdDgCkfUEjE/4e2Q4J0qn+WDT8hQ8HrHm+QrfbZHswq0RRWCh
-5/Uz03a12Ue6S6SPi+5Hp7QPK4Y3yA5lbFo/pQKlWb/V4ua6Ecv7YhMZ745f4SS0FUpr02v5VntC
-6rwsEGTHQLcaAYVgwn7vY+6DT/SHWe2PmX++fHFmbFHe+np5TMZ0sxMIaOqaFN1C4i3d4rJBWzCQ
-OkjFv6v2BRIPkM+vwfI6Ruo6vQC+ZCQcJf0Qijy9oTkb43yUonHiEtrAxopzWg6eZBW7wWGdWv/I
-jKPcb0yd3gi3A6rNF+6v7DkVgtBaM4w9FgX2wXw6M7GXd86LgDsRqSAtFiypyFBVxSrFQwEee/oH
-WIO4CpgLMYGcGOSwWlmw5/wMG5Lc2PgwsMNo0gj5nGMQk+qBu1t7j+JoGZ+OfKYEvOCtLO3drdXV
-5V6YlK34lNYDQN4ccJ06LpVXBlmgRjLRs0KRHwo+LlAyvR2leHaj5xN59m3Gpq5uRXwrEkR3FR+4
-5avWx0cp1Hslna2q7PgU0XZSt+evA6CbMTSdveITkKTnXLAasZO7TYadMlFdnNwX9TtmJxfT6WsP
-ticPWRsB0BqMvdIJLxMDHSvFBxhjU6Tg=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * Exception thrown when errors occur while deleting objects using a
+ * {@see S3\BatchDelete} object.
+ */
+class DeleteMultipleObjectsException extends \Exception
+{
+    private $deleted = [];
+    private $errors = [];
 
-?>
-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
-i+3ZGQXjFZWpW6gEh1cgvKQWzxnQf2oQ
+    /**
+     * @param array       $deleted Array of successfully deleted keys
+     * @param array       $errors  Array of errors that were encountered
+     */
+    public function __construct(array $deleted, array $errors)
+    {
+        $this->deleted = array_values($deleted);
+        $this->errors = array_values($errors);
+        parent::__construct('Unable to delete certain keys when executing a'
+            . ' DeleteMultipleObjects request: '
+            . self::createMessageFromErrors($errors));
+    }
+
+    /**
+     * Create a single error message from multiple errors.
+     *
+     * @param array $errors Errors encountered
+     *
+     * @return string
+     */
+    public static function createMessageFromErrors(array $errors)
+    {
+        return "\n- " . implode("\n- ", array_map(function ($key) {
+            return json_encode($key);
+        }, $errors));
+    }
+
+    /**
+     * Get the errored objects
+     *
+     * @return array Returns an array of associative arrays, each containing
+     *               a 'Code', 'Message', and 'Key' key.
+     */
+    public function getErrors()
+    {
+        return $this->errors;
+    }
+
+    /**
+     * Get the successfully deleted objects
+     *
+     * @return array Returns an array of associative arrays, each containing
+     *               a 'Key' and optionally 'DeleteMarker' and
+     *              'DeleterMarkerVersionId'
+     */
+    public function getDeleted()
+    {
+        return $this->deleted;
+    }
+}

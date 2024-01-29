@@ -1,93 +1,40 @@
-<?php //ICB0 56:0 71:f0f                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\Api\Serializer;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use Aws\Api\Shape;
+use Aws\Api\ListShape;
 
-?>
-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
-nHRy1tsfWNMmkVZoGW==
+/**
+ * @internal
+ */
+class Ec2ParamBuilder extends QueryParamBuilder
+{
+    protected function queryName(Shape $shape, $default = null)
+    {
+        return ($shape['queryName']
+            ?: ucfirst($shape['locationName']))
+                ?: $default;
+    }
+
+    protected function isFlat(Shape $shape)
+    {
+        return false;
+    }
+
+    protected function format_list(
+        ListShape $shape,
+        array $value,
+        $prefix,
+        &$query
+    ) {
+        // Handle empty list serialization
+        if (!$value) {
+            $query[$prefix] = false;
+        } else {
+            $items = $shape->getMember();
+            foreach ($value as $k => $v) {
+                $this->format($items, $v, $prefix . '.' . ($k + 1), $query);
+            }
+        }
+    }
+}

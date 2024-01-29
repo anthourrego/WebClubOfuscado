@@ -1,80 +1,136 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-WYnR5tiKYFaUAlArSNFCV7GOeWk406i=
+/*
+ * This file is part of the Symfony package.
+ *
+ * (c) Fabien Potencier <fabien@symfony.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+namespace Symfony\Component\HttpKernel\DataCollector;
+
+use Symfony\Component\HttpFoundation\Request;
+use Symfony\Component\HttpFoundation\Response;
+use Symfony\Component\HttpKernel\KernelInterface;
+
+/**
+ * TimeDataCollector.
+ *
+ * @author Fabien Potencier <fabien@symfony.com>
+ */
+class TimeDataCollector extends DataCollector implements LateDataCollectorInterface
+{
+    protected $kernel;
+    protected $stopwatch;
+
+    public function __construct(KernelInterface $kernel = null, $stopwatch = null)
+    {
+        $this->kernel = $kernel;
+        $this->stopwatch = $stopwatch;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function collect(Request $request, Response $response, \Exception $exception = null)
+    {
+        if (null !== $this->kernel) {
+            $startTime = $this->kernel->getStartTime();
+        } else {
+            $startTime = $request->server->get('REQUEST_TIME_FLOAT', $request->server->get('REQUEST_TIME'));
+        }
+
+        $this->data = array(
+            'token' => $response->headers->get('X-Debug-Token'),
+            'start_time' => $startTime * 1000,
+            'events' => array(),
+        );
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function lateCollect()
+    {
+        if (null !== $this->stopwatch && isset($this->data['token'])) {
+            $this->setEvents($this->stopwatch->getSectionEvents($this->data['token']));
+        }
+        unset($this->data['token']);
+    }
+
+    /**
+     * Sets the request events.
+     *
+     * @param array $events The request events
+     */
+    public function setEvents(array $events)
+    {
+        foreach ($events as $event) {
+            $event->ensureStopped();
+        }
+
+        $this->data['events'] = $events;
+    }
+
+    /**
+     * Gets the request events.
+     *
+     * @return array The request events
+     */
+    public function getEvents()
+    {
+        return $this->data['events'];
+    }
+
+    /**
+     * Gets the request elapsed time.
+     *
+     * @return float The elapsed time
+     */
+    public function getDuration()
+    {
+        if (!isset($this->data['events']['__section__'])) {
+            return 0;
+        }
+
+        $lastEvent = $this->data['events']['__section__'];
+
+        return $lastEvent->getOrigin() + $lastEvent->getDuration() - $this->getStartTime();
+    }
+
+    /**
+     * Gets the initialization time.
+     *
+     * This is the time spent until the beginning of the request handling.
+     *
+     * @return float The elapsed time
+     */
+    public function getInitTime()
+    {
+        if (!isset($this->data['events']['__section__'])) {
+            return 0;
+        }
+
+        return $this->data['events']['__section__']->getOrigin() - $this->getStartTime();
+    }
+
+    /**
+     * Gets the request time.
+     *
+     * @return int The time
+     */
+    public function getStartTime()
+    {
+        return $this->data['start_time'];
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function getName()
+    {
+        return 'time';
+    }
+}

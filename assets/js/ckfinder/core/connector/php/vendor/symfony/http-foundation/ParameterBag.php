@@ -1,121 +1,287 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-1ggJNE1mISklejfJUaDthuGQ2ey=
+/*
+ * This file is part of the Symfony package.
+ *
+ * (c) Fabien Potencier <fabien@symfony.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+namespace Symfony\Component\HttpFoundation;
+
+/**
+ * ParameterBag is a container for key/value pairs.
+ *
+ * @author Fabien Potencier <fabien@symfony.com>
+ */
+class ParameterBag implements \IteratorAggregate, \Countable
+{
+    /**
+     * Parameter storage.
+     */
+    protected $parameters;
+
+    /**
+     * @param array $parameters An array of parameters
+     */
+    public function __construct(array $parameters = array())
+    {
+        $this->parameters = $parameters;
+    }
+
+    /**
+     * Returns the parameters.
+     *
+     * @return array An array of parameters
+     */
+    public function all()
+    {
+        return $this->parameters;
+    }
+
+    /**
+     * Returns the parameter keys.
+     *
+     * @return array An array of parameter keys
+     */
+    public function keys()
+    {
+        return array_keys($this->parameters);
+    }
+
+    /**
+     * Replaces the current parameters by a new set.
+     *
+     * @param array $parameters An array of parameters
+     */
+    public function replace(array $parameters = array())
+    {
+        $this->parameters = $parameters;
+    }
+
+    /**
+     * Adds parameters.
+     *
+     * @param array $parameters An array of parameters
+     */
+    public function add(array $parameters = array())
+    {
+        $this->parameters = array_replace($this->parameters, $parameters);
+    }
+
+    /**
+     * Returns a parameter by name.
+     *
+     * @param string $path    The key
+     * @param mixed  $default The default value if the parameter key does not exist
+     * @param bool   $deep    If true, a path like foo[bar] will find deeper items
+     *
+     * @return mixed
+     *
+     * @throws \InvalidArgumentException
+     */
+    public function get($path, $default = null, $deep = false)
+    {
+        if (!$deep || false === $pos = strpos($path, '[')) {
+            return array_key_exists($path, $this->parameters) ? $this->parameters[$path] : $default;
+        }
+
+        $root = substr($path, 0, $pos);
+        if (!array_key_exists($root, $this->parameters)) {
+            return $default;
+        }
+
+        $value = $this->parameters[$root];
+        $currentKey = null;
+        for ($i = $pos, $c = strlen($path); $i < $c; ++$i) {
+            $char = $path[$i];
+
+            if ('[' === $char) {
+                if (null !== $currentKey) {
+                    throw new \InvalidArgumentException(sprintf('Malformed path. Unexpected "[" at position %d.', $i));
+                }
+
+                $currentKey = '';
+            } elseif (']' === $char) {
+                if (null === $currentKey) {
+                    throw new \InvalidArgumentException(sprintf('Malformed path. Unexpected "]" at position %d.', $i));
+                }
+
+                if (!is_array($value) || !array_key_exists($currentKey, $value)) {
+                    return $default;
+                }
+
+                $value = $value[$currentKey];
+                $currentKey = null;
+            } else {
+                if (null === $currentKey) {
+                    throw new \InvalidArgumentException(sprintf('Malformed path. Unexpected "%s" at position %d.', $char, $i));
+                }
+
+                $currentKey .= $char;
+            }
+        }
+
+        if (null !== $currentKey) {
+            throw new \InvalidArgumentException('Malformed path. Path must end with "]".');
+        }
+
+        return $value;
+    }
+
+    /**
+     * Sets a parameter by name.
+     *
+     * @param string $key   The key
+     * @param mixed  $value The value
+     */
+    public function set($key, $value)
+    {
+        $this->parameters[$key] = $value;
+    }
+
+    /**
+     * Returns true if the parameter is defined.
+     *
+     * @param string $key The key
+     *
+     * @return bool true if the parameter exists, false otherwise
+     */
+    public function has($key)
+    {
+        return array_key_exists($key, $this->parameters);
+    }
+
+    /**
+     * Removes a parameter.
+     *
+     * @param string $key The key
+     */
+    public function remove($key)
+    {
+        unset($this->parameters[$key]);
+    }
+
+    /**
+     * Returns the alphabetic characters of the parameter value.
+     *
+     * @param string $key     The parameter key
+     * @param string $default The default value if the parameter key does not exist
+     * @param bool   $deep    If true, a path like foo[bar] will find deeper items
+     *
+     * @return string The filtered value
+     */
+    public function getAlpha($key, $default = '', $deep = false)
+    {
+        return preg_replace('/[^[:alpha:]]/', '', $this->get($key, $default, $deep));
+    }
+
+    /**
+     * Returns the alphabetic characters and digits of the parameter value.
+     *
+     * @param string $key     The parameter key
+     * @param string $default The default value if the parameter key does not exist
+     * @param bool   $deep    If true, a path like foo[bar] will find deeper items
+     *
+     * @return string The filtered value
+     */
+    public function getAlnum($key, $default = '', $deep = false)
+    {
+        return preg_replace('/[^[:alnum:]]/', '', $this->get($key, $default, $deep));
+    }
+
+    /**
+     * Returns the digits of the parameter value.
+     *
+     * @param string $key     The parameter key
+     * @param string $default The default value if the parameter key does not exist
+     * @param bool   $deep    If true, a path like foo[bar] will find deeper items
+     *
+     * @return string The filtered value
+     */
+    public function getDigits($key, $default = '', $deep = false)
+    {
+        // we need to remove - and + because they're allowed in the filter
+        return str_replace(array('-', '+'), '', $this->filter($key, $default, $deep, FILTER_SANITIZE_NUMBER_INT));
+    }
+
+    /**
+     * Returns the parameter value converted to integer.
+     *
+     * @param string $key     The parameter key
+     * @param int    $default The default value if the parameter key does not exist
+     * @param bool   $deep    If true, a path like foo[bar] will find deeper items
+     *
+     * @return int The filtered value
+     */
+    public function getInt($key, $default = 0, $deep = false)
+    {
+        return (int) $this->get($key, $default, $deep);
+    }
+
+    /**
+     * Returns the parameter value converted to boolean.
+     *
+     * @param string $key     The parameter key
+     * @param mixed  $default The default value if the parameter key does not exist
+     * @param bool   $deep    If true, a path like foo[bar] will find deeper items
+     *
+     * @return bool The filtered value
+     */
+    public function getBoolean($key, $default = false, $deep = false)
+    {
+        return $this->filter($key, $default, $deep, FILTER_VALIDATE_BOOLEAN);
+    }
+
+    /**
+     * Filter key.
+     *
+     * @param string $key     Key
+     * @param mixed  $default Default = null
+     * @param bool   $deep    Default = false
+     * @param int    $filter  FILTER_* constant
+     * @param mixed  $options Filter options
+     *
+     * @see http://php.net/manual/en/function.filter-var.php
+     *
+     * @return mixed
+     */
+    public function filter($key, $default = null, $deep = false, $filter = FILTER_DEFAULT, $options = array())
+    {
+        $value = $this->get($key, $default, $deep);
+
+        // Always turn $options into an array - this allows filter_var option shortcuts.
+        if (!is_array($options) && $options) {
+            $options = array('flags' => $options);
+        }
+
+        // Add a convenience check for arrays.
+        if (is_array($value) && !isset($options['flags'])) {
+            $options['flags'] = FILTER_REQUIRE_ARRAY;
+        }
+
+        return filter_var($value, $filter, $options);
+    }
+
+    /**
+     * Returns an iterator for parameters.
+     *
+     * @return \ArrayIterator An \ArrayIterator instance
+     */
+    public function getIterator()
+    {
+        return new \ArrayIterator($this->parameters);
+    }
+
+    /**
+     * Returns the number of parameters.
+     *
+     * @return int The number of parameters
+     */
+    public function count()
+    {
+        return count($this->parameters);
+    }
+}

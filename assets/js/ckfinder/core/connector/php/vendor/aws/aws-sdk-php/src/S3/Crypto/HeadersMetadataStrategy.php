@@ -1,82 +1,52 @@
-<?php //ICB0 56:0 71:d35                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\S3\Crypto;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use \Aws\Crypto\MetadataStrategyInterface;
+use \Aws\Crypto\MetadataEnvelope;
 
-?>
-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
-8V+9sYCS5+BoBAeASL0U
+class HeadersMetadataStrategy implements MetadataStrategyInterface
+{
+    /**
+     * Places the information in the MetadataEnvelope in to the Meatadata for
+     * the PutObject request of the encrypted object.
+     *
+     * @param MetadataEnvelope $envelope Encryption data to save according to
+     *                                   the strategy.
+     * @param array $args Arguments for PutObject that can be manipulated to
+     *                    store strategy related information.
+     *
+     * @return array Updated arguments for PutObject.
+     */
+    public function save(MetadataEnvelope $envelope, array $args)
+    {
+        foreach ($envelope as $header=>$value) {
+            $args['Metadata'][$header] = $value;
+        }
+
+        return $args;
+    }
+
+    /**
+     * Generates a MetadataEnvelope according to the Metadata headers from the
+     * GetObject result.
+     *
+     * @param array $args Arguments from Command and Result that contains
+     *                    S3 Object information, relevant headers, and command
+     *                    configuration.
+     *
+     * @return MetadataEnvelope
+     */
+    public function load(array $args)
+    {
+        $envelope = new MetadataEnvelope();
+        $constantValues = MetadataEnvelope::getConstantValues();
+
+        foreach ($constantValues as $constant) {
+            if (!empty($args['Metadata'][$constant])) {
+                $envelope[$constant] = $args['Metadata'][$constant];
+            }
+        }
+
+        return $envelope;
+    }
+}

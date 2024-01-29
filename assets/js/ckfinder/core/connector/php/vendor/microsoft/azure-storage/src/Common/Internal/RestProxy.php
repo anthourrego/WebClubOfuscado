@@ -1,95 +1,131 @@
-<?php //ICB0 56:0 71:e92                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-ggYrjGYn=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @ignore
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Common\Internal
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+ 
+namespace MicrosoftAzure\Storage\Common\Internal;
 
-?>
-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
-K61U47mkVdaAN3N+Az0j2RjfLKee
+use MicrosoftAzure\Storage\Common\Internal\IMiddleware;
+
+/**
+ * Base class for all REST proxies.
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Common\Internal
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+class RestProxy
+{
+    /**
+     * @var array
+     */
+    private $middlewares;
+    
+    /**
+     * @var Serialization\ISerializer
+     */
+    protected $dataSerializer;
+    
+    /**
+     * Initializes new RestProxy object.
+     *
+     * @param Serialization\ISerializer $dataSerializer The data serializer.
+     */
+    public function __construct(Serialization\ISerializer $dataSerializer = null)
+    {
+        $this->middlewares    = array();
+        $this->dataSerializer = $dataSerializer;
+        //For logging the request and responses.
+        // $this->middlewares[] = new HistoryMiddleware('.\\messages.log');
+    }
+    
+    /**
+     * Gets middlewares that will be handling the request and response.
+     *
+     * @return array
+     */
+    public function getMiddlewares()
+    {
+        return $this->middlewares;
+    }
+
+    /**
+     * Push a new middleware into the middlewares array. The newly added
+     * middleware will be the most inner middleware when executed.
+     *
+     * @param  callable|IMiddleware $middleware the middleware to be added.
+     *
+     * @return void
+     */
+    public function pushMiddleware($middleware)
+    {
+        $this->middlewares[] = $middleware;
+    }
+    
+    /**
+     * Adds optional query parameter.
+     *
+     * Doesn't add the value if it satisfies empty().
+     *
+     * @param array  &$queryParameters The query parameters.
+     * @param string $key              The query variable name.
+     * @param string $value            The query variable value.
+     *
+     * @return void
+     */
+    protected function addOptionalQueryParam(array &$queryParameters, $key, $value)
+    {
+        Validate::isArray($queryParameters, 'queryParameters');
+        Validate::canCastAsString($key, 'key');
+        Validate::canCastAsString($value, 'value');
+                
+        if (!is_null($value) && Resources::EMPTY_STRING !== $value) {
+            $queryParameters[$key] = $value;
+        }
+    }
+    
+    /**
+     * Adds optional header.
+     *
+     * Doesn't add the value if it satisfies empty().
+     *
+     * @param array  &$headers The HTTP header parameters.
+     * @param string $key      The HTTP header name.
+     * @param string $value    The HTTP header value.
+     *
+     * @return void
+     */
+    protected function addOptionalHeader(array &$headers, $key, $value)
+    {
+        Validate::isArray($headers, 'headers');
+        Validate::canCastAsString($key, 'key');
+        Validate::canCastAsString($value, 'value');
+                
+        if (!is_null($value) && Resources::EMPTY_STRING !== $value) {
+            $headers[$key] = $value;
+        }
+    }
+}

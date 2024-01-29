@@ -1,235 +1,222 @@
-<?php //ICB0 56:0 71:21da                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-dGRGrwy+hzF2Yri==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Table\Internal
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+ 
+namespace MicrosoftAzure\Storage\Table\Internal;
 
-?>
-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
-PZe=
+use MicrosoftAzure\Storage\Common\Internal\Resources;
+use MicrosoftAzure\Storage\Table\Models\EdmType;
+use MicrosoftAzure\Storage\Table\Models\Entity;
+
+/**
+ * Serializes and unserializes results from table wrapper calls
+ *
+ * @ignore
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Table\Internal
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2017 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+class JsonODataReaderWriter implements IODataReaderWriter
+{
+    /**
+     * Constructs JSON representation for table entry.
+     *
+     * @param string $name The name of the table.
+     *
+     * @return string
+     */
+    public function getTable($name)
+    {
+        return json_encode(array(Resources::JSON_TABLE_NAME => $name));
+    }
+    
+    /**
+     * Parses one table entry.
+     *
+     * @param mixed $body The HTTP response body.
+     *
+     * @return string
+     */
+    public function parseTable($body)
+    {
+        $table = json_decode($body, true);
+        return $table[Resources::JSON_TABLE_NAME];
+    }
+    
+    /**
+     * Constructs array of tables from HTTP response body.
+     *
+     * @param string $body The HTTP response body.
+     *
+     * @return array
+     */
+    public function parseTableEntries($body)
+    {
+        $tables     = array();
+        $result     = json_decode($body, true);
+
+        $rawEntries = $result[Resources::JSON_VALUE];
+        
+        foreach ($rawEntries as $entry) {
+            $tables[] = $entry[Resources::JSON_TABLE_NAME];
+        }
+        
+        return $tables;
+    }
+    
+    /**
+     * Constructs JSON representation for entity.
+     *
+     * @param Entity $entity The entity instance.
+     *
+     * @return string
+     */
+    public function getEntity(Entity $entity)
+    {
+        $entityProperties = $entity->getProperties();
+        $properties       = array();
+        
+        foreach ($entityProperties as $name => $property) {
+            $edmType    = $property->getEdmType();
+            $edmValue   = $property->getValue();
+            
+            if (is_null($edmValue)) {
+                // No @odata.type JSON property needed for null value
+                $properties[$name] = null;
+            } else {
+                if (is_null($edmType)) {
+                    $edmType = EdmType::propertyType($edmValue);
+                }
+                
+                $value             = EdmType::serializeValue($edmType, $edmValue);
+                $properties[$name] = $value;
+
+                if (EdmType::typeRequired($edmType)) {
+                    $properties[$name . Resources::JSON_ODATA_TYPE_SUFFIX] = $edmType;
+                }
+            }
+        }
+        
+        return json_encode($properties);
+    }
+    
+    /**
+     * Constructs entity from HTTP response body.
+     *
+     * @param string $body The HTTP response body.
+     *
+     * @return Entity
+     */
+    public function parseEntity($body)
+    {
+        $rawEntity = json_decode($body, true);
+        return $this->parseOneEntity($rawEntity);
+    }
+    
+    /**
+     * Constructs array of entities from HTTP response body.
+     *
+     * @param string $body The HTTP response body.
+     *
+     * @return array
+     */
+    public function parseEntities($body)
+    {
+        $rawEntities = json_decode($body, true);
+        $entities   = array();
+
+        foreach ($rawEntities[Resources::JSON_VALUE] as $rawEntity) {
+            $entities[] = $this->parseOneEntity($rawEntity);
+        }
+        
+        return $entities;
+    }
+
+    private function parseOneEntity($rawEntity)
+    {
+        $entity = new Entity();
+        $timestamp;
+        $etag;
+
+        if (array_key_exists(Resources::JSON_TIMESTAMP, $rawEntity)) {
+            $rawTimestamp   = $rawEntity[Resources::JSON_TIMESTAMP];
+            $timestamp      = EdmType::unserializeQueryValue(EdmType::DATETIME, $rawTimestamp);
+            
+            $entity->addProperty(
+                Resources::JSON_TIMESTAMP,
+                EdmType::DATETIME,
+                $timestamp
+            );
+        }
+
+        // Make sure etag is set
+        if (array_key_exists(Resources::JSON_ODATA_ETAG, $rawEntity)) {
+            $etag = (string)$rawEntity[Resources::JSON_ODATA_ETAG];
+        } else {
+            $etag = null;
+        }
+        $entity->setETag($etag);
+
+        foreach ($rawEntity as $key => $value) {
+            if ($key === Resources::JSON_TIMESTAMP) {
+                continue;
+            }
+
+            // Ignore keys end with Resources::JSON_ODATA_TYPE_SUFFIX
+            if (strlen($key) > strlen(Resources::JSON_ODATA_TYPE_SUFFIX) &&
+                strpos(
+                    $key,
+                    Resources::JSON_ODATA_TYPE_SUFFIX,
+                    strlen($key) - strlen(Resources::JSON_ODATA_TYPE_SUFFIX)
+                ) !== false) {
+                continue;
+            }
+
+            if (strpos($key, "odata.") === 0) {
+                continue;
+            }
+
+            $edmType;
+            if (array_key_exists($key . Resources::JSON_ODATA_TYPE_SUFFIX, $rawEntity)) {
+                $edmType = $rawEntity[$key . Resources::JSON_ODATA_TYPE_SUFFIX];
+            } else {
+                // Guess the property type
+                $edmType = EdmType::propertyType($value);
+            }
+            //Store the raw value of the string representation.
+            $rawValue = \is_string($value) ? $value : '';
+            $value      = EdmType::unserializeQueryValue((string)$edmType, $value);
+            $entity->addProperty(
+                (string)$key,
+                (string)$edmType,
+                $value,
+                $rawValue
+            );
+        }
+
+        return $entity;
+    }
+}

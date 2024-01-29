@@ -1,76 +1,47 @@
-<?php //ICB0 56:0 71:c21                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace JmesPath;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * Uses an external tree visitor to interpret an AST.
+ */
+class AstRuntime
+{
+    private $parser;
+    private $interpreter;
+    private $cache = [];
+    private $cachedCount = 0;
 
-?>
-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
-6l+pq4DgjW==
+    public function __construct(
+        Parser $parser = null,
+        callable $fnDispatcher = null
+    ) {
+        $fnDispatcher = $fnDispatcher ?: FnDispatcher::getInstance();
+        $this->interpreter = new TreeInterpreter($fnDispatcher);
+        $this->parser = $parser ?: new Parser();
+    }
+
+    /**
+     * Returns data from the provided input that matches a given JMESPath
+     * expression.
+     *
+     * @param string $expression JMESPath expression to evaluate
+     * @param mixed  $data       Data to search. This data should be data that
+     *                           is similar to data returned from json_decode
+     *                           using associative arrays rather than objects.
+     *
+     * @return mixed|null Returns the matching data or null
+     */
+    public function __invoke($expression, $data)
+    {
+        if (!isset($this->cache[$expression])) {
+            // Clear the AST cache when it hits 1024 entries
+            if (++$this->cachedCount > 1024) {
+                $this->cache = [];
+                $this->cachedCount = 0;
+            }
+            $this->cache[$expression] = $this->parser->parse($expression);
+        }
+
+        return $this->interpreter->visit($this->cache[$expression], $data);
+    }
+}

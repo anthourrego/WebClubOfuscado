@@ -1,123 +1,54 @@
-<?php //ICB0 56:0 71:12d8                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-RoZ4pDXXIfvzaZNSYBDNDLIZ=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+session_start();
+
+require_once "../dompdf_config.inc.php";
+require_once "functions.inc.php";
+
+function li_arrow() {
+  return '<li style="list-style-image: url(\'images/arrow_0' . rand(1,6) . '.gif\');">';  
+}
+
+function li_star() {
+  return '<li style="list-style-image: url(\'images/star_0' . rand(1,5) . '.gif\');">';  
+}
+
+auth_check();
 
 ?>
-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
-jwhF+OvugrdyJiPPJC/wEMJWZ7CJrI6tnFzxd/K=
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>dompdf - The PHP 5 HTML to PDF Converter</title>
+  <link rel="stylesheet" href="style.css" type="text/css"/>
+  <link rel="SHORTCUT ICON" href="images/favicon.ico"/>
+  <script type="text/javascript" src="jquery-1.4.2.js"></script>
+  
+  <?php if (isset($_SESSION["auth_message"])) { ?>
+    <script type="text/javascript">
+      alert("<?php echo $_SESSION["auth_message"]; ?>");
+    </script>
+  <?php } ?>
+</head>
+
+<body>
+
+<div id="header" class="bar">
+  <a href="index.php"><img id="logo" src="images/title.gif" alt="dompdf"/></a>
+  <a href="http://dompdf.github.com/" target="_blank">dompdf.github.com</a>
+  &mdash; 
+  Send bug reports to <a href="https://github.com/dompdf/dompdf/issues">the bug tracker</a> 
+  &amp; support questions to <a href="http://groups.google.com/group/dompdf">Google Groups</a>.
+</div>
+
+<div id="left_col">
+  <ul>
+    <li style="list-style-image: url('images/star_02.gif');"><a href="index.php">Overview</a></li>
+    <li style="list-style-image: url('images/star_02.gif');"><a href="examples.php">Examples</a></li>
+    <li style="list-style-image: url('images/star_02.gif');"><a href="demo.php">Demo</a></li>
+    <li style="list-style-image: url('images/star_02.gif');"><a href="setup.php">Setup / Config</a></li>
+    <li style="list-style-image: url('images/star_02.gif');"><a href="fonts.php">Fonts</a></li>
+  </ul>
+</div>
+
+<div id="content">

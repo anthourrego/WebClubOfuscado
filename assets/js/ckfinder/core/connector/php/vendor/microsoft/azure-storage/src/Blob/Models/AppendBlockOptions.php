@@ -1,87 +1,108 @@
-<?php //ICB0 56:0 71:e14                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-PItZBorQeHwhPETj2JfN84Ee7IAsjdUTnG===
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Blob\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2017 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+ 
+namespace MicrosoftAzure\Storage\Blob\Models;
 
-?>
-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
-sQvoQN+y5FvGTmKTAr6nXRP9iXx7oja=
+/**
+ * Optional parameters for appendBlock wrapper
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Blob\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+class AppendBlockOptions extends BlobServiceOptions
+{
+    private $contentMD5;
+    private $maxBlobSize;
+    private $appendPosition;
+    
+    /**
+     * Gets block contentMD5.
+     *
+     * @return string
+     */
+    public function getContentMD5()
+    {
+        return $this->contentMD5;
+    }
+
+    /**
+     * Sets block contentMD5.
+     *
+     * @param string $contentMD5 value.
+     *
+     * @return void
+     */
+    public function setContentMD5($contentMD5)
+    {
+        $this->contentMD5 = $contentMD5;
+    }
+    
+    /**
+     * Gets the max length in bytes allowed for the append blob to grow to.
+     *
+     * @return int
+     */
+    public function getMaxBlobSize()
+    {
+        return $this->maxBlobSize;
+    }
+
+    /**
+     * Sets the max length in bytes allowed for the append blob to grow to.
+     *
+     * @param int $maxBlobSize value.
+     *
+     * @return void
+     */
+    public function setMaxBlobSize($maxBlobSize)
+    {
+        $this->maxBlobSize = $maxBlobSize;
+    }
+    
+    /**
+     * Gets append blob appendPosition.
+     *
+     * @return int
+     */
+    public function getAppendPosition()
+    {
+        return $this->appendPosition;
+    }
+
+    /**
+     * Sets append blob appendPosition.
+     *
+     * @param int $appendPosition value.
+     *
+     * @return void
+     */
+    public function setAppendPosition($appendPosition)
+    {
+        $this->appendPosition = $appendPosition;
+    }
+}

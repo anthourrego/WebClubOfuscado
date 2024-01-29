@@ -1,144 +1,101 @@
-<?php //ICB0 56:0 71:159d                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-7hiMJ/1THnsYxiIT9dyWrUtmgXtOkewYV5nl+m===
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/*
+ * CKFinder
+ * ========
+ * https://ckeditor.com/ckeditor-4/ckfinder/
+ * Copyright (c) 2007-2018, CKSource - Frederico Knabben. All rights reserved.
+ *
+ * The software, this file and its contents are subject to the CKFinder
+ * License. Please read the license.txt file before using, installing, copying,
+ * modifying or distribute this file or part of its contents. The contents of
+ * this file is part of the Source Code of CKFinder.
+ */
 
-?>
-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
+namespace CKSource\CKFinder\Command;
+
+use CKSource\CKFinder\Acl\Acl;
+use CKSource\CKFinder\Acl\Permission;
+use CKSource\CKFinder\Error;
+use CKSource\CKFinder\Event\CKFinderEvent;
+use CKSource\CKFinder\Event\MoveFileEvent;
+use CKSource\CKFinder\Exception\InvalidRequestException;
+use CKSource\CKFinder\Exception\UnauthorizedException;
+use CKSource\CKFinder\Filesystem\File\MovedFile;
+use CKSource\CKFinder\ResourceType\ResourceTypeFactory;
+use Symfony\Component\EventDispatcher\EventDispatcher;
+use Symfony\Component\HttpFoundation\Request;
+
+class MoveFiles extends CommandAbstract
+{
+    protected $requestMethod = Request::METHOD_POST;
+
+    protected $requires = array(
+        Permission::FILE_RENAME,
+        Permission::FILE_CREATE,
+        Permission::FILE_DELETE
+    );
+
+    public function execute(Request $request, ResourceTypeFactory $resourceTypeFactory, Acl $acl, EventDispatcher $dispatcher)
+    {
+        $movedFiles = (array) $request->request->get('files');
+
+        $moved = 0;
+
+        $errors = array();
+
+        // Initial validation
+        foreach ($movedFiles as $arr) {
+            if (!isset($arr['name'], $arr['type'], $arr['folder'])) {
+                throw new InvalidRequestException('Invalid request');
+            }
+
+            if (!$acl->isAllowed($arr['type'], $arr['folder'], Permission::FILE_VIEW | Permission::FILE_DELETE)) {
+                throw new UnauthorizedException('Unauthorized');
+            }
+        }
+
+        foreach ($movedFiles as $arr) {
+            if (empty($arr['name'])) {
+                continue;
+            }
+
+            $name   = $arr['name'];
+            $type   = $arr['type'];
+            $folder = $arr['folder'];
+
+            $resourceType = $resourceTypeFactory->getResourceType($type);
+
+            $movedFile = new MovedFile($name, $folder, $resourceType, $this->app);
+
+            $options = isset($arr['options']) ? $arr['options'] : '';
+
+            $movedFile->setCopyOptions($options);
+
+
+            if ($movedFile->isValid()) {
+                $moveFileEvent = new MoveFileEvent($this->app, $movedFile);
+                $dispatcher->dispatch(CKFinderEvent::MOVE_FILE, $moveFileEvent);
+
+                if (!$moveFileEvent->isPropagationStopped()) {
+                    if ($movedFile->doMove()) {
+                        $moved++;
+                    }
+                }
+            }
+
+            $errors = array_merge($errors, $movedFile->getErrors());
+        }
+
+        $data = array('moved' => $moved);
+
+        if (!empty($errors)) {
+            $data['error'] = array(
+                'number' => Error::MOVE_FAILED,
+                'errors' => $errors
+            );
+        }
+
+        return $data;
+    }
+}

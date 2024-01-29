@@ -1,356 +1,543 @@
-<?php //ICB0 56:0 71:35d4                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Common\Internal
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
 
-?>
-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
-02GuGZ0lRc3++RwioqFK
+namespace MicrosoftAzure\Storage\Common\Internal;
+
+/**
+ * Project resources.
+ *
+ * @ignore
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Common\Internal
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+class Resources
+{
+    // @codingStandardsIgnoreStart
+
+    // Connection strings
+    const USE_DEVELOPMENT_STORAGE_NAME = 'UseDevelopmentStorage';
+    const DEVELOPMENT_STORAGE_PROXY_URI_NAME = 'DevelopmentStorageProxyUri';
+    const DEFAULT_ENDPOINTS_PROTOCOL_NAME = 'DefaultEndpointsProtocol';
+    const ACCOUNT_NAME_NAME = 'AccountName';
+    const ACCOUNT_KEY_NAME = 'AccountKey';
+    const SAS_TOKEN_NAME = 'SharedAccessSignature';
+    const BLOB_ENDPOINT_NAME = 'BlobEndpoint';
+    const QUEUE_ENDPOINT_NAME = 'QueueEndpoint';
+    const TABLE_ENDPOINT_NAME = 'TableEndpoint';
+    const FILE_ENDPOINT_NAME = 'FileEndpoint';
+    const SHARED_ACCESS_SIGNATURE_NAME = 'SharedAccessSignature';
+    const DEV_STORE_NAME = 'devstoreaccount1';
+    const DEV_STORE_KEY = 'Eby8vdM02xNOcqFlqUwJPLlmEtlCDXJ1OUzFT50uSRZ6IFsuFq2UVErCz4I6tq/K1SZFPTOtr/KBHBeksoGMGw==';
+    const BLOB_BASE_DNS_NAME = 'blob.core.windows.net';
+    const QUEUE_BASE_DNS_NAME = 'queue.core.windows.net';
+    const TABLE_BASE_DNS_NAME = 'table.core.windows.net';
+    const FILE_BASE_DNS_NAME = 'file.core.windows.net';
+    const DEV_STORE_CONNECTION_STRING = 'BlobEndpoint=127.0.0.1:10000;QueueEndpoint=127.0.0.1:10001;TableEndpoint=127.0.0.1:10002;AccountName=devstoreaccount1;AccountKey=Eby8vdM02xNOcqFlqUwJPLlmEtlCDXJ1OUzFT50uSRZ6IFsuFq2UVErCz4I6tq/K1SZFPTOtr/KBHBeksoGMGw==';
+    const SUBSCRIPTION_ID_NAME = 'SubscriptionID';
+    const CERTIFICATE_PATH_NAME = 'CertificatePath';
+    const SECONDARY_STRING = '-secondary';
+    const PRIMARY_STRING = '-primary';
+
+    // Messages
+    const INVALID_FUNCTION_NAME = 'The class %s does not have a function named %s.';
+    const INVALID_TYPE_MSG = 'The provided variable should be of type: ';
+    const INVALID_META_MSG = 'Metadata cannot contain newline characters.';
+    const AZURE_ERROR_MSG = "Fail:\nCode: %s\nValue: %s\ndetails (if any): %s.";
+    const NOT_IMPLEMENTED_MSG = 'This method is not implemented.';
+    const NULL_OR_EMPTY_MSG = "'%s' can't be NULL or empty.";
+    const NULL_MSG = "'%s' can't be NULL.";
+    const INVALID_URL_MSG = 'Provided URL is invalid.';
+    const INVALID_HT_MSG = 'The header type provided is invalid.';
+    const INVALID_EDM_MSG = 'The provided EDM type is invalid.';
+    const INVALID_PROP_MSG = 'One of the provided properties is not an instance of class Property';
+    const INVALID_ENTITY_MSG = 'The provided entity object is invalid.';
+    const INVALID_VERSION_MSG = 'Server does not support any known protocol versions.';
+    const INVALID_BO_TYPE_MSG = 'Batch operation name is not supported or invalid.';
+    const INVALID_BO_PN_MSG = 'Batch operation parameter is not supported.';
+    const INVALID_OC_COUNT_MSG = 'Operations and contexts must be of same size.';
+    const INVALID_EXC_OBJ_MSG = 'Exception object type should be ServiceException.';
+    const NULL_TABLE_KEY_MSG = 'Partition and row keys can\'t be NULL.';
+    const BATCH_ENTITY_DEL_MSG = 'The entity was deleted successfully.';
+    const INVALID_PROP_VAL_MSG = "'%s' property value must satisfy %s.";
+    const INVALID_PARAM_MSG = "The provided variable '%s' should be of type '%s'";
+    const INVALID_VALUE_MSG = "The provided variable '%s' has unexpected value. Reason: '%s'";
+    const INVALID_STRING_LENGTH = "The provided variable '%s' should be of %s characters long";
+    const INVALID_BTE_MSG = "The blob block type must exist in %s";
+    const INVALID_BLOB_PAT_MSG = 'The provided access type is invalid.';
+    const INVALID_SVC_PROP_MSG = 'The provided service properties is invalid.';
+    const UNKNOWN_SRILZER_MSG = 'The provided serializer type is unknown';
+    const INVALID_CREATE_SERVICE_OPTIONS_MSG = 'Must provide valid location or affinity group.';
+    const INVALID_UPDATE_SERVICE_OPTIONS_MSG = 'Must provide either description or label.';
+    const INVALID_CONFIG_MSG = 'Config object must be of type Configuration';
+    const INVALID_ACH_MSG = 'The provided access condition header is invalid';
+    const INVALID_RECEIVE_MODE_MSG = 'The receive message option is in neither RECEIVE_AND_DELETE nor PEEK_LOCK mode.';
+    const INVALID_CONFIG_URI = "The provided URI '%s' is invalid. It has to pass the check 'filter_var(<user_uri>, FILTER_VALIDATE_URL)'.";
+    const INVALID_CONFIG_VALUE = "The provided config value '%s' does not belong to the valid values subset:\n%s";
+    const INVALID_ACCOUNT_KEY_FORMAT = "The provided account key '%s' is not a valid base64 string. It has to pass the check 'base64_decode(<user_account_key>, true)'.";
+    const MISSING_CONNECTION_STRING_SETTINGS = "The provided connection string '%s' does not have complete configuration settings.";
+    const INVALID_CONNECTION_STRING_SETTING_KEY = "The setting key '%s' is not found in the expected configuration setting keys:\n%s";
+    const INVALID_CERTIFICATE_PATH = "The provided certificate path '%s' is invalid.";
+    const INSTANCE_TYPE_VALIDATION_MSG = 'The type of %s is %s but is expected to be %s.';
+    const INVALID_MESSAGE_OBJECT_TO_SERIALIZE = 'The given object does not have required methods, so it could not be serialized.';
+    const MISSING_CONNECTION_STRING_CHAR = "Missing %s character";
+    const ERROR_PARSING_STRING = "'%s' at position %d.";
+    const INVALID_CONNECTION_STRING = "Argument '%s' is not a valid connection string: '%s'";
+    const ERROR_CONNECTION_STRING_MISSING_KEY = 'Missing key name';
+    const ERROR_CONNECTION_STRING_EMPTY_KEY = 'Empty key name';
+    const ERROR_CONNECTION_STRING_MISSING_CHARACTER = "Missing %s character";
+    const ERROR_EMPTY_SETTINGS = 'No keys were found in the connection string';
+    const MISSING_LOCK_LOCATION_MSG = 'The lock location of the brokered message is missing.';
+    const INVALID_SLOT = "The provided deployment slot '%s' is not valid. Only 'staging' and 'production' are accepted.";
+    const INVALID_DEPLOYMENT_LOCATOR_MSG = 'A slot or deployment name must be provided.';
+    const INVALID_CHANGE_MODE_MSG = "The change mode must be 'Auto' or 'Manual'. Use Mode class constants for that purpose.";
+    const INVALID_DEPLOYMENT_STATUS_MSG = "The change mode must be 'Running' or 'Suspended'. Use DeploymentStatus class constants for that purpose.";
+    const ERROR_OAUTH_GET_ACCESS_TOKEN = 'Unable to get oauth access token for endpoint \'%s\', account name \'%s\'';
+    const ERROR_OAUTH_SERVICE_MISSING = 'OAuth service missing for account name \'%s\'';
+    const ERROR_METHOD_NOT_FOUND = 'Method \'%s\' not found in object class \'%s\'';
+    const ERROR_INVALID_DATE_STRING = 'Parameter \'%s\' is not a date formatted string \'%s\'';
+    const ERROR_TOO_LARGE_FOR_BLOCK_BLOB = 'Error: Exceeds the uppper limit of the blob.';
+    const ERROR_RANGE_NOT_ALIGN_TO_512 = 'Error: Range of the page blob must be align to 512';
+    const ERROR_FILE_COULD_NOT_BE_OPENED = 'Error: file with given path could not be opened or created.';
+    const ERROR_CONTAINER_NOT_EXIST = 'The specified container does not exist';
+    const ERROR_BLOB_NOT_EXIST = 'The specified blob does not exist';
+    const INVALID_PARAM_GENERAL = 'The provided parameter \'%s\' is invalid';
+    const INVALID_NEGATIVE_PARAM = 'The provided parameter \'%s\' should be positive number.';
+    const SIGNED_SERVICE_INVALID_VALIDATION_MSG = 'The signed service should only be a combination of the letters b(lob) q(ueue) t(able) or f(ile).';
+    const SIGNED_RESOURCE_TYPE_INVALID_VALIDATION_MSG = 'The signed resource type should only be a combination of the letters s(ervice) c(container) or o(bject).';
+    const STRING_NOT_WITH_GIVEN_COMBINATION = 'The string should only be a combination of the letters %s.';
+    const SIGNED_PROTOCOL_INVALID_VALIDATION_MSG = 'The signed protocol is invalid: possible values are https or https,http.';
+    const ERROR_RESOURCE_TYPE_NOT_SUPPORTED = 'The given resource type cannot be recognized or is not supported.';
+    const ERROR_TOO_MANY_SIGNED_IDENTIFIERS = 'There can be at most 5 signed identifiers at the same time.';
+    const INVALID_PERMISSION_PROVIDED = 'Invalid permission provided, the permission of resource type \'%s\' can only be of \'%s\'';
+    const INVALID_RESOURCE_TYPE = 'Provided resource type is invalid.';
+    const ERROR_KEY_NOT_EXIST = "The key '%s' does not exist in the given array.";
+    const FILE_LOCATION_IS_PRIMARY_ONLY = "Can only specify PRIMARY_ONLY for file service's location mode.";
+    const FILE_SHARE_PROPERTIES_OPERATION_INVALID = "The operation is invalid. Can only be 'metadata' or 'properties'.";
+    const RESOURCE_RANGE_LENGTH_MUST_SET = "The start and end/length of the range must be set.";
+    const INVALID_ACCEPT_CONTENT_TYPE = "The given accept content type is not valid.";
+    const ERROR_CANNOT_PARSE_XML = "Cannot parse XML, reasons: %s";
+    const INVALID_SCHEME = 'HTTP scheme can only be string \'http\' or \'https\'.';
+    const CONTENT_SIZE_TOO_LARGE = 'The content is too large for the selected blob type.';
+
+    // HTTP Headers
+    const X_MS_HEADER_PREFIX                 = 'x-ms-';
+    const X_MS_META_HEADER_PREFIX            = 'x-ms-meta-';
+    const X_MS_APPROXIMATE_MESSAGES_COUNT    = 'x-ms-approximate-messages-count';
+    const X_MS_POPRECEIPT                    = 'x-ms-popreceipt';
+    const X_MS_TIME_NEXT_VISIBLE             = 'x-ms-time-next-visible';
+    const X_MS_BLOB_PUBLIC_ACCESS            = 'x-ms-blob-public-access';
+    const X_MS_VERSION                       = 'x-ms-version';
+    const X_MS_DATE                          = 'x-ms-date';
+    const X_MS_BLOB_SEQUENCE_NUMBER          = 'x-ms-blob-sequence-number';
+    const X_MS_BLOB_SEQUENCE_NUMBER_ACTION   = 'x-ms-sequence-number-action';
+    const X_MS_BLOB_TYPE                     = 'x-ms-blob-type';
+    const X_MS_BLOB_CONTENT_TYPE             = 'x-ms-blob-content-type';
+    const X_MS_BLOB_CONTENT_ENCODING         = 'x-ms-blob-content-encoding';
+    const X_MS_BLOB_CONTENT_LANGUAGE         = 'x-ms-blob-content-language';
+    const X_MS_BLOB_CONTENT_MD5              = 'x-ms-blob-content-md5';
+    const X_MS_BLOB_CACHE_CONTROL            = 'x-ms-blob-cache-control';
+    const X_MS_BLOB_CONTENT_DISPOSITION      = 'x-ms-blob-content-disposition';
+    const X_MS_BLOB_CONTENT_LENGTH           = 'x-ms-blob-content-length';
+    const X_MS_BLOB_CONDITION_MAXSIZE        = 'x-ms-blob-condition-maxsize';
+    const X_MS_BLOB_CONDITION_APPENDPOS      = 'x-ms-blob-condition-appendpos';
+    const X_MS_BLOB_APPEND_OFFSET            = 'x-ms-blob-append-offset';
+    const X_MS_BLOB_COMMITTED_BLOCK_COUNT    = 'x-ms-blob-committed-block-count';
+    const X_MS_SHARE_QUOTA                   = 'x-ms-share-quota';
+    const X_MS_COPY_ACTION                   = 'x-ms-copy-action';
+    const X_MS_COPY_ID                       = 'x-ms-copy-id';
+    const X_MS_COPY_COMPLETION_TIME          = 'x-ms-copy-completion-time';
+    const X_MS_COPY_STATUS                   = 'x-ms-copy-status';
+    const X_MS_COPY_STATUS_DESCRIPTION       = 'x-ms-copy-status-description';
+    const X_MS_COPY_SOURCE                   = 'x-ms-copy-source';
+    const X_MS_COPY_PROGRESS                 = 'x-ms-copy-progress';
+    const X_MS_RANGE                         = 'x-ms-range';
+    const X_MS_RANGE_GET_CONTENT_MD5         = 'x-ms-range-get-content-md5';
+    const X_MS_LEASE_DURATION                = 'x-ms-lease-duration';
+    const X_MS_LEASE_ID                      = 'x-ms-lease-id';
+    const X_MS_LEASE_TIME                    = 'x-ms-lease-time';
+    const X_MS_LEASE_STATUS                  = 'x-ms-lease-status';
+    const X_MS_LEASE_STATE                   = 'x-ms-lease-state';
+    const X_MS_LEASE_ACTION                  = 'x-ms-lease-action';
+    const X_MS_PROPOSED_LEASE_ID             = 'x-ms-proposed-lease-id';
+    const X_MS_LEASE_BREAK_PERIOD            = 'x-ms-lease-break-period';
+    const X_MS_DELETE_SNAPSHOTS              = 'x-ms-delete-snapshots';
+    const X_MS_PAGE_WRITE                    = 'x-ms-page-write';
+    const X_MS_REQUEST_SERVER_ENCRYPTED      = 'x-ms-request-server-encrypted';
+    const X_MS_SERVER_ENCRYPTED              = 'x-ms-server-encrypted';
+    const X_MS_INCREMENTAL_COPY              = 'x-ms-incremental-copy';
+    const X_MS_COPY_DESTINATION_SNAPSHOT     = 'x-ms-copy-destination-snapshot';
+    const X_MS_SNAPSHOT                      = 'x-ms-snapshot';
+    const X_MS_SOURCE_IF_MODIFIED_SINCE      = 'x-ms-source-if-modified-since';
+    const X_MS_SOURCE_IF_UNMODIFIED_SINCE    = 'x-ms-source-if-unmodified-since';
+    const X_MS_SOURCE_IF_MATCH               = 'x-ms-source-if-match';
+    const X_MS_SOURCE_IF_NONE_MATCH          = 'x-ms-source-if-none-match';
+    const X_MS_SOURCE_LEASE_ID               = 'x-ms-source-lease-id';
+    const X_MS_CONTINUATION_NEXTTABLENAME    = 'x-ms-continuation-nexttablename';
+    const X_MS_CONTINUATION_NEXTPARTITIONKEY = 'x-ms-continuation-nextpartitionkey';
+    const X_MS_CONTINUATION_NEXTROWKEY       = 'x-ms-continuation-nextrowkey';
+    const X_MS_REQUEST_ID                    = 'x-ms-request-id';
+    const X_MS_CONTINUATION_LOCATION_MODE    = 'x-ms-continuation-location-mode';
+    const X_MS_TYPE                          = 'x-ms-type';
+    const X_MS_CONTENT_LENGTH                = 'x-ms-content-length';
+    const X_MS_CACHE_CONTROL                 = 'x-ms-cache-control';
+    const X_MS_CONTENT_TYPE                  = 'x-ms-content-type';
+    const X_MS_CONTENT_MD5                   = 'x-ms-content-md5';
+    const X_MS_CONTENT_ENCODING              = 'x-ms-content-encoding';
+    const X_MS_CONTENT_LANGUAGE              = 'x-ms-content-language';
+    const X_MS_CONTENT_DISPOSITION           = 'x-ms-content-disposition';
+    const X_MS_WRITE                         = 'x-ms-write';
+    const ETAG                               = 'etag';
+    const LAST_MODIFIED                      = 'last-modified';
+    const DATE                               = 'date';
+    const AUTHENTICATION                     = 'authorization';
+    const WRAP_AUTHORIZATION                 = 'WRAP access_token="%s"';
+    const CONTENT_ENCODING                   = 'content-encoding';
+    const CONTENT_LANGUAGE                   = 'content-language';
+    const CONTENT_LENGTH                     = 'content-length';
+    const CONTENT_LENGTH_NO_SPACE            = 'contentlength';
+    const CONTENT_MD5                        = 'content-md5';
+    const CONTENT_TYPE                       = 'content-type';
+    const CONTENT_ID                         = 'content-id';
+    const CONTENT_RANGE                      = 'content-range';
+    const CACHE_CONTROL                      = 'cache-control';
+    const CONTENT_DISPOSITION                = 'content-disposition';
+    const IF_MODIFIED_SINCE                  = 'if-modified-since';
+    const IF_MATCH                           = 'if-match';
+    const IF_NONE_MATCH                      = 'if-none-match';
+    const IF_UNMODIFIED_SINCE                = 'if-unmodified-since';
+    const MAX_BLOB_SIZE                      = 'x-ms-blob-condition-maxsize';
+    const MAX_APPEND_POSITION                = 'x-ms-blob-condition-appendpos';
+    const SEQUENCE_NUMBER_LESS_THAN_OR_EQUAL = 'x-ms-if-sequence-number-le';
+    const SEQUENCE_NUMBER_LESS_THAN          = 'x-ms-if-sequence-number-lt';
+    const SEQUENCE_NUMBER_EQUAL              = 'x-ms-if-sequence-number-eq';
+    const RANGE                              = 'range';
+    const DATA_SERVICE_VERSION               = 'dataserviceversion';
+    const MAX_DATA_SERVICE_VERSION           = 'maxdataserviceversion';
+    const ACCEPT_HEADER                      = 'accept';
+    const ACCEPT_CHARSET                     = 'accept-charset';
+    const USER_AGENT                         = 'User-Agent';
+    const PREFER                             = 'Prefer';
+    const BLOB_CONTENT_MD5                   = 'x-ms-blob-content-md5';
+    const FILE_CONTENT_MD5                   = 'x-ms-content-md5';
+
+    // Type
+    const QUEUE_TYPE_NAME              = 'IQueue';
+    const BLOB_TYPE_NAME               = 'IBlob';
+    const TABLE_TYPE_NAME              = 'ITable';
+
+    // WRAP
+    const WRAP_ACCESS_TOKEN            = 'wrap_access_token';
+    const WRAP_ACCESS_TOKEN_EXPIRES_IN = 'wrap_access_token_expires_in';
+    const WRAP_NAME                    = 'wrap_name';
+    const WRAP_PASSWORD                = 'wrap_password';
+    const WRAP_SCOPE                   = 'wrap_scope';
+
+    // HTTP Methods
+    const HTTP_GET    = 'GET';
+    const HTTP_PUT    = 'PUT';
+    const HTTP_POST   = 'POST';
+    const HTTP_HEAD   = 'HEAD';
+    const HTTP_DELETE = 'DELETE';
+    const HTTP_MERGE  = 'MERGE';
+
+    // Misc
+    const EMPTY_STRING           = '';
+    const SEPARATOR              = ',';
+    const AZURE_DATE_FORMAT      = 'D, d M Y H:i:s T';
+    const TIMESTAMP_FORMAT       = 'Y-m-d H:i:s';
+    const EMULATED               = 'EMULATED';
+    const EMULATOR_BLOB_URI      = '127.0.0.1:10000';
+    const EMULATOR_QUEUE_URI     = '127.0.0.1:10001';
+    const EMULATOR_TABLE_URI     = '127.0.0.1:10002';
+    const ASTERISK               = '*';
+    const SERVICE_MANAGEMENT_URL = 'https://management.core.windows.net';
+    const HTTP_SCHEME            = 'http';
+    const HTTPS_SCHEME           = 'https';
+    const SETTING_NAME = 'SettingName';
+    const SETTING_CONSTRAINT = 'SettingConstraint';
+    const DEV_STORE_URI = 'http://127.0.0.1';
+    const SERVICE_URI_FORMAT = "%s://%s.%s";
+    const WRAP_ENDPOINT_URI_FORMAT = "https://%s-sb.accesscontrol.windows.net/WRAPv0.9";
+    const MB_IN_BYTES_1       = 1048576;
+    const MB_IN_BYTES_4       = 4194304;
+    const MB_IN_BYTES_32      = 33554432;
+    const MB_IN_BYTES_64      = 67108864;
+    const MB_IN_BYTES_128     = 134217728;
+    const MB_IN_BYTES_256     = 268435456;
+    const MB_IN_BYTES_100     = 104857600;
+    const GB_IN_BYTES         = 1073741824;
+    const GB_IN_BYTES_200     = 214748364800;
+    const MAX_BLOB_BLOCKS     = 50000;
+    const MAX_BLOCK_BLOB_SIZE = 5242880000000;
+    const RETURN_CONTENT      = 'return-content';
+
+    // Xml Namespaces
+    const WA_XML_NAMESPACE   = 'http://schemas.microsoft.com/windowsazure';
+    const ATOM_XML_NAMESPACE = 'http://www.w3.org/2005/Atom';
+    const DS_XML_NAMESPACE   = 'http://schemas.microsoft.com/ado/2007/08/dataservices';
+    const DSM_XML_NAMESPACE  = 'http://schemas.microsoft.com/ado/2007/08/dataservices/metadata';
+    const XSI_XML_NAMESPACE  = 'http://www.w3.org/2001/XMLSchema-instance';
+    const NUMBER_OF_CONCURRENCY = 25;//Guzzle's default value
+    const DEFAULT_NUMBER_OF_RETRIES = 3;
+    const DEAFULT_RETRY_INTERVAL = 1000;//Milliseconds
+
+    // Header values
+    const SDK_VERSION                        = '0.19.1';
+    const STORAGE_API_LATEST_VERSION         = '2016-05-31';
+    const DATA_SERVICE_VERSION_VALUE         = '3.0';
+    const MAX_DATA_SERVICE_VERSION_VALUE     = '3.0;NetFx';
+    const ACCEPT_HEADER_VALUE                = 'application/json';
+    const JSON_FULL_METADATA_CONTENT_TYPE    = 'application/json;odata=fullmetadata';
+    const JSON_MINIMAL_METADATA_CONTENT_TYPE = 'application/json;odata=minimalmetadata';
+    const JSON_NO_METADATA_CONTENT_TYPE      = 'application/json;odata=nometadata';
+    const ACCEPT_CHARSET_VALUE               = 'utf-8';
+    const INT32_MAX                          = 2147483647;
+    const INT32_MIN                          = -2147483648;
+
+    // Query parameter names
+    const QP_PREFIX             = 'Prefix';
+    const QP_MAX_RESULTS        = 'MaxResults';
+    const QP_METADATA           = 'Metadata';
+    const QP_MARKER             = 'Marker';
+    const QP_NEXT_MARKER        = 'NextMarker';
+    const QP_COMP               = 'comp';
+    const QP_VISIBILITY_TIMEOUT = 'visibilitytimeout';
+    const QP_POPRECEIPT         = 'popreceipt';
+    const QP_NUM_OF_MESSAGES    = 'numofmessages';
+    const QP_PEEK_ONLY          = 'peekonly';
+    const QP_MESSAGE_TTL        = 'messagettl';
+    const QP_INCLUDE            = 'include';
+    const QP_TIMEOUT            = 'timeout';
+    const QP_DELIMITER          = 'Delimiter';
+    const QP_REST_TYPE          = 'restype';
+    const QP_SNAPSHOT           = 'snapshot';
+    const QP_PRE_SNAPSHOT       = 'prevsnapshot';
+    const QP_BLOCKID            = 'blockid';
+    const QP_BLOCK_LIST_TYPE    = 'blocklisttype';
+    const QP_SELECT             = '$select';
+    const QP_TOP                = '$top';
+    const QP_SKIP               = '$skip';
+    const QP_FILTER             = '$filter';
+    const QP_NEXT_TABLE_NAME    = 'NextTableName';
+    const QP_NEXT_PK            = 'NextPartitionKey';
+    const QP_NEXT_RK            = 'NextRowKey';
+    const QP_ACTION             = 'action';
+    const QP_EMBED_DETAIL       = 'embed-detail';
+    const QP_QUEUE_MESSAGE      = 'QueueMessage';
+    const QP_COPY_ID            = 'copyid';
+    const QP_SHARES             = 'Shares';
+    const QP_SHARE              = 'Share';
+    const QP_NAME               = 'Name';
+    const QP_PROPERTIES         = 'Properties';
+    const QP_LAST_MODIFIED      = 'Last-Modified';
+    const QP_ETAG               = 'Etag';
+    const QP_QUOTA              = 'Quota';
+    const QP_ENTRIES            = 'Entries';
+    const QP_DIRECTORY          = 'Directory';
+    const QP_FILE               = 'File';
+    const QP_CONTENT_LENGTH     = 'Content-Length';
+
+    // Query parameter values
+    const QPV_REGENERATE = 'regenerate';
+    const QPV_CONFIG     = 'config';
+    const QPV_STATUS     = 'status';
+    const QPV_UPGRADE    = 'upgrade';
+    const QPV_WALK_UPGRADE_DOMAIN = 'walkupgradedomain';
+    const QPV_REBOOT = 'reboot';
+    const QPV_REIMAGE = 'reimage';
+    const QPV_ROLLBACK = 'rollback';
+
+    // Request body content types
+    const URL_ENCODED_CONTENT_TYPE = 'application/x-www-form-urlencoded';
+    const XML_CONTENT_TYPE         = 'application/xml';
+    const JSON_CONTENT_TYPE        = 'application/json';
+    const BINARY_FILE_TYPE         = 'application/octet-stream';
+    const HTTP_TYPE                = 'application/http';
+    const MULTIPART_MIXED_TYPE     = 'multipart/mixed';
+
+    // Common used XML tags
+    const XTAG_ATTRIBUTES                   = '@attributes';
+    const XTAG_NAMESPACE                    = '@namespace';
+    const XTAG_LABEL                        = 'Label';
+    const XTAG_NAME                         = 'Name';
+    const XTAG_DESCRIPTION                  = 'Description';
+    const XTAG_LOCATION                     = 'Location';
+    const XTAG_AFFINITY_GROUP               = 'AffinityGroup';
+    const XTAG_HOSTED_SERVICES              = 'HostedServices';
+    const XTAG_STORAGE_SERVICES             = 'StorageServices';
+    const XTAG_STORAGE_SERVICE              = 'StorageService';
+    const XTAG_DISPLAY_NAME                 = 'DisplayName';
+    const XTAG_SERVICE_NAME                 = 'ServiceName';
+    const XTAG_URL                          = 'Url';
+    const XTAG_ID                           = 'ID';
+    const XTAG_STATUS                       = 'Status';
+    const XTAG_HTTP_STATUS_CODE             = 'HttpStatusCode';
+    const XTAG_CODE                         = 'Code';
+    const XTAG_MESSAGE                      = 'Message';
+    const XTAG_STORAGE_SERVICE_PROPERTIES   = 'StorageServiceProperties';
+    const XTAG_SERVICE_ENDPOINT             = 'ServiceEndpoint';
+    const XTAG_ENDPOINT                     = 'Endpoint';
+    const XTAG_ENDPOINTS                    = 'Endpoints';
+    const XTAG_PRIMARY                      = 'Primary';
+    const XTAG_SECONDARY                    = 'Secondary';
+    const XTAG_KEY_TYPE                     = 'KeyType';
+    const XTAG_STORAGE_SERVICE_KEYS         = 'StorageServiceKeys';
+    const XTAG_ERROR                        = 'Error';
+    const XTAG_HOSTED_SERVICE               = 'HostedService';
+    const XTAG_HOSTED_SERVICE_PROPERTIES    = 'HostedServiceProperties';
+    const XTAG_CREATE_HOSTED_SERVICE        = 'CreateHostedService';
+    const XTAG_CREATE_STORAGE_SERVICE_INPUT = 'CreateStorageServiceInput';
+    const XTAG_UPDATE_STORAGE_SERVICE_INPUT = 'UpdateStorageServiceInput';
+    const XTAG_CREATE_AFFINITY_GROUP        = 'CreateAffinityGroup';
+    const XTAG_UPDATE_AFFINITY_GROUP        = 'UpdateAffinityGroup';
+    const XTAG_UPDATE_HOSTED_SERVICE        = 'UpdateHostedService';
+    const XTAG_PACKAGE_URL                  = 'PackageUrl';
+    const XTAG_CONFIGURATION                = 'Configuration';
+    const XTAG_START_DEPLOYMENT             = 'StartDeployment';
+    const XTAG_TREAT_WARNINGS_AS_ERROR      = 'TreatWarningsAsError';
+    const XTAG_CREATE_DEPLOYMENT            = 'CreateDeployment';
+    const XTAG_DEPLOYMENT_SLOT              = 'DeploymentSlot';
+    const XTAG_PRIVATE_ID                   = 'PrivateID';
+    const XTAG_ROLE_INSTANCE_LIST           = 'RoleInstanceList';
+    const XTAG_UPGRADE_DOMAIN_COUNT         = 'UpgradeDomainCount';
+    const XTAG_ROLE_LIST                    = 'RoleList';
+    const XTAG_SDK_VERSION                  = 'SdkVersion';
+    const XTAG_INPUT_ENDPOINT_LIST          = 'InputEndpointList';
+    const XTAG_LOCKED                       = 'Locked';
+    const XTAG_ROLLBACK_ALLOWED             = 'RollbackAllowed';
+    const XTAG_UPGRADE_STATUS               = 'UpgradeStatus';
+    const XTAG_UPGRADE_TYPE                 = 'UpgradeType';
+    const XTAG_CURRENT_UPGRADE_DOMAIN_STATE = 'CurrentUpgradeDomainState';
+    const XTAG_CURRENT_UPGRADE_DOMAIN       = 'CurrentUpgradeDomain';
+    const XTAG_ROLE_NAME                    = 'RoleName';
+    const XTAG_INSTANCE_NAME                = 'InstanceName';
+    const XTAG_INSTANCE_STATUS              = 'InstanceStatus';
+    const XTAG_INSTANCE_UPGRADE_DOMAIN      = 'InstanceUpgradeDomain';
+    const XTAG_INSTANCE_FAULT_DOMAIN        = 'InstanceFaultDomain';
+    const XTAG_INSTANCE_SIZE                = 'InstanceSize';
+    const XTAG_INSTANCE_STATE_DETAILS       = 'InstanceStateDetails';
+    const XTAG_INSTANCE_ERROR_CODE          = 'InstanceErrorCode';
+    const XTAG_OS_VERSION                   = 'OsVersion';
+    const XTAG_ROLE_INSTANCE                = 'RoleInstance';
+    const XTAG_ROLE                         = 'Role';
+    const XTAG_INPUT_ENDPOINT               = 'InputEndpoint';
+    const XTAG_VIP                          = 'Vip';
+    const XTAG_PORT                         = 'Port';
+    const XTAG_DEPLOYMENT                   = 'Deployment';
+    const XTAG_DEPLOYMENTS                  = 'Deployments';
+    const XTAG_REGENERATE_KEYS              = 'RegenerateKeys';
+    const XTAG_SWAP                         = 'Swap';
+    const XTAG_PRODUCTION                   = 'Production';
+    const XTAG_SOURCE_DEPLOYMENT            = 'SourceDeployment';
+    const XTAG_CHANGE_CONFIGURATION         = 'ChangeConfiguration';
+    const XTAG_MODE                         = 'Mode';
+    const XTAG_UPDATE_DEPLOYMENT_STATUS     = 'UpdateDeploymentStatus';
+    const XTAG_ROLE_TO_UPGRADE              = 'RoleToUpgrade';
+    const XTAG_FORCE                        = 'Force';
+    const XTAG_UPGRADE_DEPLOYMENT           = 'UpgradeDeployment';
+    const XTAG_UPGRADE_DOMAIN               = 'UpgradeDomain';
+    const XTAG_WALK_UPGRADE_DOMAIN          = 'WalkUpgradeDomain';
+    const XTAG_ROLLBACK_UPDATE_OR_UPGRADE   = 'RollbackUpdateOrUpgrade';
+    const XTAG_CONTAINER_NAME               = 'ContainerName';
+    const XTAG_ACCOUNT_NAME                 = 'AccountName';
+    const XTAG_LOGGING                      = 'Logging';
+    const XTAG_HOUR_METRICS                 = 'HourMetrics';
+    const XTAG_MINUTE_METRICS               = 'MinuteMetrics';
+    const XTAG_CORS                         = 'Cors';
+    const XTAG_CORS_RULE                    = 'CorsRule';
+    const XTAG_ALLOWED_ORIGINS              = 'AllowedOrigins';
+    const XTAG_ALLOWED_METHODS              = 'AllowedMethods';
+    const XTAG_ALLOWED_HEADERS              = 'AllowedHeaders';
+    const XTAG_EXPOSED_HEADERS              = 'ExposedHeaders';
+    const XTAG_MAX_AGE_IN_SECONDS           = 'MaxAgeInSeconds';
+    const XTAG_SIGNED_IDENTIFIERS           = 'SignedIdentifiers';
+    const XTAG_SIGNED_IDENTIFIER            = 'SignedIdentifier';
+    const XTAG_ACCESS_POLICY                = 'AccessPolicy';
+    const XTAG_SIGNED_START                 = 'Start';
+    const XTAG_SIGNED_EXPIRY                = 'Expiry';
+    const XTAG_SIGNED_PERMISSION            = 'Permission';
+    const XTAG_SIGNED_ID                    = 'Id';
+    const XTAG_DEFAULT_SERVICE_VERSION      = 'DefaultServiceVersion';
+    const XTAG_GEO_REPLICATION              = 'GeoReplication';
+    const XTAG_LAST_SYNC_TIME               = 'LastSyncTime';
+    const XTAG_SHARE_USAGE                  = 'ShareUsage';
+    const XTAG_PAGE_RANGE                   = 'PageRange';
+    const XTAG_CLEAR_RANGE                  = 'ClearRange';
+    const XTAG_RANGE_START                  = 'Start';
+    const XTAG_RANGE_END                    = 'End';
+
+    //JSON Tags
+    const JSON_TABLE_NAME        = 'TableName';
+    const JSON_VALUE             = 'value';
+    const JSON_ODATA_METADATA    = 'odata.metadata';
+    const JSON_ODATA_TYPE        = 'odata.type';
+    const JSON_ODATA_ID          = 'odata.id';
+    const JSON_ODATA_EDITLINK    = 'odata.editLink';
+    const JSON_ODATA_TYPE_SUFFIX = '@odata.type';
+    const JSON_ODATA_ETAG        = 'odata.etag';
+    const JSON_PARTITION_KEY     = 'PartitionKey';
+    const JSON_ROW_KEY           = 'RowKey';
+    const JSON_TIMESTAMP         = 'Timestamp';
+    const JSON_CUSTOMER_SINCE    = 'CustomerSince';
+
+    // PHP URL Keys
+    const PHP_URL_SCHEME   = 'scheme';
+    const PHP_URL_HOST     = 'host';
+    const PHP_URL_PORT     = 'port';
+    const PHP_URL_USER     = 'user';
+    const PHP_URL_PASS     = 'pass';
+    const PHP_URL_PATH     = 'path';
+    const PHP_URL_QUERY    = 'query';
+    const PHP_URL_FRAGMENT = 'fragment';
+
+    // Status Codes
+    const STATUS_OK                = 200;
+    const STATUS_CREATED           = 201;
+    const STATUS_ACCEPTED          = 202;
+    const STATUS_NO_CONTENT        = 204;
+    const STATUS_PARTIAL_CONTENT   = 206;
+    const STATUS_MOVED_PERMANENTLY = 301;
+
+    // Resource Types
+    const RESOURCE_TYPE_BLOB      = 'b';
+    const RESOURCE_TYPE_CONTAINER = 'c';
+    const RESOURCE_TYPE_QUEUE     = 'q';
+    const RESOURCE_TYPE_TABLE     = 't';
+    const RESOURCE_TYPE_SHARE     = 's';
+    const RESOURCE_TYPE_FILE      = 'f';
+
+    // Request Options String
+    const ROS_LOCATION_MODE  = 'location_mode';
+    const ROS_SECONDARY_URI  = 'secondary_uri';
+    const ROS_PRIMARY_URI    = 'primary_uri';
+    const ROS_DECODE_CONTENT = 'decode_content';
+    const ROS_STREAM         = 'stream';
+    const ROS_HANDLER        = 'requestHandler';
+
+    // @codingStandardsIgnoreEnd
+}

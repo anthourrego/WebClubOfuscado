@@ -1,95 +1,89 @@
-<?php //ICB0 56:0 71:f23                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/*
+ * This file is part of the Monolog package.
+ *
+ * (c) Jordi Boggiano <j.boggiano@seld.be>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
 
-?>
-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
+namespace Monolog\Formatter;
+
+use Elastica\Document;
+
+/**
+ * Format a log message into an Elastica Document
+ *
+ * @author Jelle Vink <jelle.vink@gmail.com>
+ */
+class ElasticaFormatter extends NormalizerFormatter
+{
+    /**
+     * @var string Elastic search index name
+     */
+    protected $index;
+
+    /**
+     * @var string Elastic search document type
+     */
+    protected $type;
+
+    /**
+     * @param string $index Elastic Search index name
+     * @param string $type  Elastic Search document type
+     */
+    public function __construct($index, $type)
+    {
+        // elasticsearch requires a ISO 8601 format date with optional millisecond precision.
+        parent::__construct('Y-m-d\TH:i:s.uP');
+
+        $this->index = $index;
+        $this->type = $type;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function format(array $record)
+    {
+        $record = parent::format($record);
+
+        return $this->getDocument($record);
+    }
+
+    /**
+     * Getter index
+     * @return string
+     */
+    public function getIndex()
+    {
+        return $this->index;
+    }
+
+    /**
+     * Getter type
+     * @return string
+     */
+    public function getType()
+    {
+        return $this->type;
+    }
+
+    /**
+     * Convert a log message into an Elastica Document
+     *
+     * @param  array    $record Log message
+     * @return Document
+     */
+    protected function getDocument($record)
+    {
+        $document = new Document();
+        $document->setData($record);
+        $document->setType($this->type);
+        $document->setIndex($this->index);
+
+        return $document;
+    }
+}

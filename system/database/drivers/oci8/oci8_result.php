@@ -1,74 +1,229 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2017, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2017, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license	http://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 1.4.1
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
+/**
+ * oci8 Result Class
+ *
+ * This class extends the parent result class: CI_DB_result
+ *
+ * @category	Database
+ * @author		EllisLab Dev Team
+ * @link		https://codeigniter.com/user_guide/database/
+ */
+class CI_DB_oci8_result extends CI_DB_result {
+
+	/**
+	 * Statement ID
+	 *
+	 * @var	resource
+	 */
+	public $stmt_id;
+
+	/**
+	 * Cursor ID
+	 *
+	 * @var	resource
+	 */
+	public $curs_id;
+
+	/**
+	 * Limit used flag
+	 *
+	 * @var	bool
+	 */
+	public $limit_used;
+
+	/**
+	 * Commit mode flag
+	 *
+	 * @var	int
+	 */
+	public $commit_mode;
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Class constructor
+	 *
+	 * @param	object	&$driver_object
+	 * @return	void
+	 */
+	public function __construct(&$driver_object)
+	{
+		parent::__construct($driver_object);
+
+		$this->stmt_id = $driver_object->stmt_id;
+		$this->curs_id = $driver_object->curs_id;
+		$this->limit_used = $driver_object->limit_used;
+		$this->commit_mode =& $driver_object->commit_mode;
+		$driver_object->stmt_id = FALSE;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Number of fields in the result set
+	 *
+	 * @return	int
+	 */
+	public function num_fields()
+	{
+		$count = oci_num_fields($this->stmt_id);
+
+		// if we used a limit we subtract it
+		return ($this->limit_used) ? $count - 1 : $count;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Fetch Field Names
+	 *
+	 * Generates an array of column names
+	 *
+	 * @return	array
+	 */
+	public function list_fields()
+	{
+		$field_names = array();
+		for ($c = 1, $fieldCount = $this->num_fields(); $c <= $fieldCount; $c++)
+		{
+			$field_names[] = oci_field_name($this->stmt_id, $c);
+		}
+		return $field_names;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Field data
+	 *
+	 * Generates an array of objects containing field meta-data
+	 *
+	 * @return	array
+	 */
+	public function field_data()
+	{
+		$retval = array();
+		for ($c = 1, $fieldCount = $this->num_fields(); $c <= $fieldCount; $c++)
+		{
+			$F		= new stdClass();
+			$F->name	= oci_field_name($this->stmt_id, $c);
+			$F->type	= oci_field_type($this->stmt_id, $c);
+			$F->max_length	= oci_field_size($this->stmt_id, $c);
+
+			$retval[] = $F;
+		}
+
+		return $retval;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Free the result
+	 *
+	 * @return	void
+	 */
+	public function free_result()
+	{
+		if (is_resource($this->result_id))
+		{
+			oci_free_statement($this->result_id);
+			$this->result_id = FALSE;
+		}
+
+		if (is_resource($this->stmt_id))
+		{
+			oci_free_statement($this->stmt_id);
+		}
+
+		if (is_resource($this->curs_id))
+		{
+			oci_cancel($this->curs_id);
+			$this->curs_id = NULL;
+		}
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Result - associative array
+	 *
+	 * Returns the result set as an array
+	 *
+	 * @return	array
+	 */
+	protected function _fetch_assoc()
+	{
+		$id = ($this->curs_id) ? $this->curs_id : $this->stmt_id;
+		return oci_fetch_assoc($id);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Result - object
+	 *
+	 * Returns the result set as an object
+	 *
+	 * @param	string	$class_name
+	 * @return	object
+	 */
+	protected function _fetch_object($class_name = 'stdClass')
+	{
+		$row = ($this->curs_id)
+			? oci_fetch_object($this->curs_id)
+			: oci_fetch_object($this->stmt_id);
+
+		if ($class_name === 'stdClass' OR ! $row)
+		{
+			return $row;
+		}
+
+		$class_name = new $class_name();
+		foreach ($row as $key => $value)
+		{
+			$class_name->$key = $value;
+		}
+
+		return $class_name;
+	}
+
+}

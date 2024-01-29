@@ -1,89 +1,88 @@
-<?php //ICB0 56:0 71:e24                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Table\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2017 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
 
-?>
-HR+cPwVjiSBfIWhrz5WauImI5dwDKaNXdZIjiuMuUpGoCJfrxPmR/8svRDsbgtJU+ivGPx0TWSgq
-G6umNAL4n+/ZoCjVmWSXmlpz9eBAyPyVT/nh3G9Xx4T9bl76TkaSE/h7alorYXlCxXbowkUkKohI
-xTmU3fmehk76czOuiz2AX8MeTL+UHgupikjMWquW9C4r4A6LxG8O9YcYWVKvcsv4DUfFwOohBXSq
-Znilm0bPibtqM1oqodHIiS3JqpA05f1Vgqk1beoo5/SbFQn/C5mQ1EM718nhf4XI8WFXeyixGaiI
-wB0F1LvrKBWlZrTn+Nq9xZleqvQvLLmnPMQWKqZMjobhaETdmIuxp+WOXrR/YB9LSbIpYDOVPyBk
-iruWtVRx7ICXBgAT13PdQfNZX0KOjgPToiOWr6DIe7XKC4gwPEw99zEAlPAdJ9uZ9vu7u6gCaF0p
-Y/NwHaoammt/5klx4uTTfkpaYiLtWugycV7bQmqhcGCWNiqfwco7qu4rTncHo3HrfTTQEYCu/d4K
-YZjylLuN7UEgTLBmk/BJ3UKiZpbflgW4OiU9BDrj+W9h1CQ3r/QQ/wmbR2t2I+o22LAcxtqzDVIb
-K60F6DKU9RXG3GGEvqrU/aF8zDW/927FzrSeuuDoPJjT6bSptnJdiaGqf4UHfDFK2kZN3S9K5Q59
-bO2Sr5RG0qE0ekx0prIKFTC7KcU5wh9p+67CRGM9btiaVO68eA7Um5gmlswdvfMU2Wc4QoMIWXPF
-Abv3LO2oRZilzz5iYh8RnO2IJC8lJUvAmqzlOAlWvInEV4Meyth2q+ikZ2N2pHMdRX+d8prF4tCO
-n0Z6ydLTBSG4PP4hQyVxW3wV2RA1SC4VD7VpD4G4rrkKo2yeH7g969pKccDyXAmUJGWLej8jL6bA
-bYDRPjdzBCtJnmrxPOl4oOByf0OxJW/D0b0fhjx8zYkCY2sv5bOsIH6QLtK0Y5bQ5Z+23vjEGYtn
-sJt6fx8bTzzNnZy+EWbXvftvwkI2Ub2Q1NyopIpS74eQ8TDniR6j3SuustppMOXIjy+DblKTQ4SG
-D5aXzeVSjfyYoOyjW6QX6O5fVH+VdYB2iYnxFlZD4frmnTOzoPZuCa0lr7Lo7LbUfn7mKzqxRXa+
-22HU1+3ekY3bLzZ/kHQHSCSa9ysGbBaqnvjpd8hWJvbjOR3FqWZEjeuvYDYWQ+WUrrvktxdgLSgN
-zrZTyjBn15l8Vov0yPjXKrn0Du7AXMg4tMl+6j26shZ1RtWjggokrerTmzglB/HX9PG7hzIblFGu
-ZypebycOGv3jx+cB2Dh5O9yKt4acqT2bYhT8J4UjopNv0eW5mNCx81/bqWQ4c4uS/+tLuEi+8UYn
-UBzcz9S4bkdtsJqWjq95v14M5xxbw+LV7WtNqK3RncyDX6BiS0/TnL/qlB+lY5q1S730OwgfPmN3
-CZV75WtqR9D3b9SuXKF6UBmjuAJ7MJ6qDu/sDpDDKdjn3379brmq7H2BbwycPq2K+g+JzuAdfvX8
-n4+vmWSnkxLsOSXJOWFBo+1DWA788NumEG3TztV1zWL3NeMuCmMyKUCHBfRnFz/rxtofo9D93AP/
-yQI60Zko7pki28soUxJzA211TJfRFHmZURYAstjnNewGYVqc/nBjP5QeB5pZs5U7sFN806VOuJd1
-rInTcDgLZLRLLPi3PtOufeI13pU83/tqaruUDBIJBBiIFlflTJs80zrEzL/OXegMhtJx4fga62yz
-pHH2V1wAXOtPLeeELeD3bIVEpSm9bZd5pyfGq2oLUZ6fgpEoUQa9vdBbkk7IkWQZVkLFwELdgODY
-QRkQekbi608NCQqt5UFfXGF4WrFXCCEbdeDOIkTe0lqNAaG4etzfJOB1IfV4M0ZepT611HoyvvWA
-26qrGzgB+UaIdTwo5r9xvhpJqtepvYIGk8feIt3uQB833N6eQUc9tIHrgSEPN3VQ4m8+ZIcHuYeM
-rSWrsqST2i6+pbBYULKr2W3Wf4BQvn2C/qE87R2IFoTWhrMhwOiCE0xGNGwgcVTYjZKqR5r8UF/P
-9907Vhz9Gxs4ty/esuskvek1vDsgMjOmBH26J/CEOfzrCt/1YOAVXqYXbFywDojRghToBNue6Rwh
-NgQqEBi4WG8LMpRZkn2GXIof8+SeH7ifhGkzckep34TVxtxmbleg2feq+rePGdNWXuuX2TbpuHH6
-RE2UT+xIIllgPDtMLOHN7Wl84JbMjs4ObzyXfLIL/RIg8H9NT4ZJWH72s3095CxxW4qD73lazeza
-x8Z7DGzsDMRvFxhkhdXWgsF3sX+YkkR2Hj8xtlXyHk+feqAZPrTnZgpEKlFIxIJImjpQseWmjiWI
-cFNM2eFUNwhaySBHmuSCr5c6RgoIuSeBu0f//qZuMAeUx81pCMV7M/ZerELxrUbdek+KI5cZUOLz
-rZHGJtWoFqF2OocGaqG1I/kEKOzsZ9TVatRBHHHL9TWsFVeDY8MPWrXacJaEJZ7IY+NNDIq7ANf+
-lBzSK+Bda7RtC4ud3X15RxJaW3VAH7Swpv053bO7tF2k7WpYx7p6hjkwucTjqDaRjIVC//wAa1j0
-WXx9RVIuiRkks2A94nbfyC0UD79wOMpj7NUx3KkXr9uFVUgOZImP0kDHMI9AOpLcpSiUA7n1av30
-/LA7aC8R0oWvReeec00sQgFUo+z8mImPiTZppXyxJLN91GPym4c2sacGG1JlTcc1ZQnpi/M9srIw
-Fs3uwExPKchGT8FBAAEhza+WjxS0AhKsXE1wXfc5S48w79FKMrQONGN9g4/Swe7xxnpBZTWluM8l
-a1vK2UdptBUxNX6tjFPkwwpPDiJ0S65jWNKhRzT0vImwbb2HKfBiRbMija8r0znxJHWEtSuhQshW
-+3BvVh6JJEBcFxyWdBDDlT2GJb6KJNUrPc7tNAahi326rEBSYNphyuyPgWxzjckc+SKpoMSBvcla
-m/nXfVQcplkPuxjz3kG2b3+Zm/DpXG==
+namespace MicrosoftAzure\Storage\Table\Models;
+
+use MicrosoftAzure\Storage\Common\Internal\Validate;
+use MicrosoftAzure\Storage\Common\Internal\Resources;
+use MicrosoftAzure\Storage\Common\Internal\ACLBase;
+
+/**
+ * Holds table ACL members.
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Table\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2017 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+class TableACL extends ACLBase
+{
+    /**
+     * Constructor.
+     */
+    public function __construct()
+    {
+        //setting the resource type to a default value.
+        $this->setResourceType(Resources::RESOURCE_TYPE_TABLE);
+    }
+
+    /**
+     * Parses the given array into signed identifiers and create an instance of
+     * TableACL
+     *
+     * @param array $parsed The parsed response into array representation.
+     *
+     * @internal
+     *
+     * @return TableACL
+     */
+    public static function create(array $parsed = null)
+    {
+        $result = new TableACL();
+        $result->fromXmlArray($parsed);
+        
+        return $result;
+    }
+
+    /**
+     * Validate if the resource type is for the class.
+     *
+     * @param  string $resourceType the resource type to be validated.
+     *
+     * @throws \InvalidArgumentException
+     *
+     * @internal
+     *
+     * @return void
+     */
+    protected static function validateResourceType($resourceType)
+    {
+        Validate::isTrue(
+            $resourceType == Resources::RESOURCE_TYPE_TABLE,
+            Resources::INVALID_RESOURCE_TYPE
+        );
+    }
+}

@@ -1,374 +1,422 @@
-<?php //ICB0 56:0 71:36a3                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-gqcdMg3kWDLUmNVG4BerMn3C=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/*
+ * CKFinder
+ * ========
+ * https://ckeditor.com/ckeditor-4/ckfinder/
+ * Copyright (c) 2007-2018, CKSource - Frederico Knabben. All rights reserved.
+ *
+ * The software, this file and its contents are subject to the CKFinder
+ * License. Please read the license.txt file before using, installing, copying,
+ * modifying or distribute this file or part of its contents. The contents of
+ * this file is part of the Source Code of CKFinder.
+ */
 
-?>
-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
-GSWCqwfppx7HMhgl
+namespace CKSource\CKFinder\ResizedImage;
+
+use CKSource\CKFinder\Acl\Acl;
+use CKSource\CKFinder\Acl\Permission;
+use CKSource\CKFinder\CKFinder;
+use CKSource\CKFinder\Config;
+use CKSource\CKFinder\Event\CKFinderEvent;
+use CKSource\CKFinder\Event\ResizeImageEvent;
+use CKSource\CKFinder\Exception\FileNotFoundException;
+use CKSource\CKFinder\Exception\UnauthorizedException;
+use CKSource\CKFinder\Filesystem\Path;
+use CKSource\CKFinder\ResourceType\ResourceType;
+
+/**
+ * The ThumbnailRepository class.
+ *
+ * A class responsible for resized image management that simplifies
+ * operations on resized versions of the image file, like batch renaming/moving
+ * together with the original file.
+ *
+ * @copyright 2016 CKSource - Frederico Knabben
+ */
+class ResizedImageRepository
+{
+    /**
+     * @var CKFinder
+     */
+    protected $app;
+
+    /**
+     * @var Config
+     */
+    protected $config;
+
+    /**
+     * @var Acl
+     */
+    protected $acl;
+
+    /**
+     * Event dispatcher.
+     *
+     * @var $dispatcher
+     */
+    protected $dispatcher;
+
+    /**
+     * @param CKFinder $app
+     */
+    public function __construct(CKFinder $app)
+    {
+        $this->config = $app['config'];
+        $this->acl = $app['acl'];
+        $this->dispatcher = $app['dispatcher'];
+        $this->app = $app;
+    }
+
+    /**
+     * Returns a resized image for the provided source file.
+     *
+     * If an appropriate resized version already exists, it is reused.
+     *
+     * @param ResourceType $sourceFileResourceType
+     * @param string       $sourceFileDir
+     * @param string       $sourceFileName
+     * @param int          $requestedWidth
+     * @param int          $requestedHeight
+     *
+     * @return ResizedImage
+     *
+     * @throws \Exception
+     */
+    public function getResizedImage(ResourceType $sourceFileResourceType, $sourceFileDir, $sourceFileName, $requestedWidth, $requestedHeight)
+    {
+        $resizedImage = new ResizedImage(
+            $this,
+            $sourceFileResourceType,
+            $sourceFileDir,
+            $sourceFileName,
+            $requestedWidth,
+            $requestedHeight
+        );
+
+        if (!$this->acl->isAllowed($sourceFileResourceType->getName(), $sourceFileDir, Permission::IMAGE_RESIZE_CUSTOM) &&
+            !$this->isSizeAllowedInConfig($requestedWidth, $requestedHeight)) {
+            throw new UnauthorizedException('Provided size is not allowed in images.sizes configuration');
+        }
+
+        if (!$resizedImage->exists() && $resizedImage->requestedSizeIsValid()) {
+            $resizedImage->create();
+
+            $resizeImageEvent = new ResizeImageEvent($this->app, $resizedImage);
+            $this->dispatcher->dispatch(CKFinderEvent::CREATE_RESIZED_IMAGE, $resizeImageEvent);
+
+            if (!$resizeImageEvent->isPropagationStopped()) {
+                $resizedImage = $resizeImageEvent->getResizedImage();
+                $resizedImage->save();
+            }
+        }
+
+        return $resizedImage;
+    }
+
+    /**
+     * Returns an existing resized image.
+     *
+     * @param ResourceType $sourceFileResourceType
+     * @param string       $sourceFileDir
+     * @param string       $sourceFileName
+     * @param string       $thumbnailFileName
+     *
+     * @return ResizedImage
+     *
+     * @throws FileNotFoundException
+     */
+    public function getExistingResizedImage(ResourceType $sourceFileResourceType, $sourceFileDir, $sourceFileName, $thumbnailFileName)
+    {
+        $size = ResizedImage::getSizeFromFilename($thumbnailFileName);
+
+        $resizedImage = new ResizedImage(
+            $this,
+            $sourceFileResourceType,
+            $sourceFileDir,
+            $sourceFileName,
+            $size['width'],
+            $size['height'],
+            true
+        );
+
+        if (!$resizedImage->exists()) {
+            throw new FileNotFoundException('Resized image not found');
+        }
+
+        $resizedImage->load();
+
+        return $resizedImage;
+    }
+
+    /**
+     * @return CKFinder
+     */
+    public function getContainer()
+    {
+        return $this->app;
+    }
+
+    /**
+     * Checks if the provided image size is allowed in the configuration.
+     *
+     * This is checked when `Permission::IMAGE_RESIZE_CUSTOM`
+     * is not allowed in the source file folder.
+     *
+     * @param int $width
+     * @param int $height
+     *
+     * @return bool `true` if the provided size is allowed in the configuration.
+     */
+    protected function isSizeAllowedInConfig($width, $height)
+    {
+        $configSizes = $this->config->get('images.sizes');
+
+        foreach ($configSizes as $size) {
+            if ($size['width'] === $width && $size['height'] === $height) {
+                return true;
+            }
+        }
+
+        return false;
+    }
+
+    /**
+     * Returns the size name defined in the configuration, where width
+     * or height are equal to those given in parameters.
+     *
+     * Resized images keep the original image aspect ratio.
+     * When an image is resized using the size from the configuration,
+     * at least one of the borders has the same length.
+     *
+     * @param int $width
+     * @param int $height
+     *
+     * @return bool `true` if the size from the configuration was used.
+     */
+    protected function getSizeNameFromConfig($width, $height)
+    {
+        $configSizes = $this->config->get('images.sizes');
+
+        foreach ($configSizes as $sizeName => $size) {
+            if ($size['width'] === $width || $size['height'] === $height) {
+                return $sizeName;
+            }
+        }
+
+        return null;
+    }
+
+    /**
+     * Deletes all resized images for a given file.
+     *
+     * @param ResourceType $sourceFileResourceType
+     * @param string       $sourceFilePath
+     * @param string       $sourceFileName
+     *
+     * @return bool `true` if deleted
+     */
+    public function deleteResizedImages(ResourceType $sourceFileResourceType, $sourceFilePath, $sourceFileName)
+    {
+        $resizedImagesPath = Path::combine($sourceFileResourceType->getDirectory(), $sourceFilePath, ResizedImage::DIR, $sourceFileName);
+
+        $backend = $sourceFileResourceType->getBackend();
+
+        if ($backend->hasDirectory($resizedImagesPath)) {
+            return $backend->deleteDir($resizedImagesPath);
+        }
+
+        return false;
+    }
+
+    /**
+     * Copies all resized images for a given file.
+     *
+     * @param ResourceType $sourceFileResourceType
+     * @param string       $sourceFilePath
+     * @param string       $sourceFileName
+     * @param ResourceType $targetFileResourceType
+     * @param string       $targetFilePath
+     * @param string       $targetFileName
+     */
+    public function copyResizedImages(ResourceType $sourceFileResourceType, $sourceFilePath, $sourceFileName,
+                                      ResourceType $targetFileResourceType, $targetFilePath, $targetFileName)
+    {
+        $sourceResizedImagesPath = Path::combine($sourceFileResourceType->getDirectory(), $sourceFilePath, ResizedImage::DIR, $sourceFileName);
+        $targetResizedImagesPath = Path::combine($targetFileResourceType->getDirectory(), $targetFilePath, ResizedImage::DIR, $targetFileName);
+
+        $sourceBackend = $sourceFileResourceType->getBackend();
+        $targetBackend = $targetFileResourceType->getBackend();
+
+        if ($sourceBackend->hasDirectory($sourceResizedImagesPath)) {
+            $resizedImages = $sourceBackend->listContents($sourceResizedImagesPath);
+
+            foreach ($resizedImages as $resizedImage) {
+                if (!isset($resizedImage['path'])) {
+                    continue;
+                }
+
+                $resizedImageStream = $sourceBackend->readStream($resizedImage['path']);
+
+                $sourceImageSize = ResizedImage::getSizeFromFilename($resizedImage['basename']);
+                $targetImageFilename = ResizedImage::createFilename($targetFileName, $sourceImageSize['width'], $sourceImageSize['height']);
+
+                $targetBackend->putStream(Path::combine($targetResizedImagesPath, $targetImageFilename), $resizedImageStream);
+            }
+        }
+    }
+
+    /**
+     * Renames all resized images created for a given file.
+     *
+     * @param ResourceType $sourceFileResourceType
+     * @param string       $sourceFilePath
+     * @param string       $originalSourceFileName
+     * @param string       $newSourceFileName
+     */
+    public function renameResizedImages(ResourceType $sourceFileResourceType, $sourceFilePath, $originalSourceFileName, $newSourceFileName)
+    {
+        $resizedImagesDir = Path::combine($sourceFileResourceType->getDirectory(), $sourceFilePath, ResizedImage::DIR);
+        $resizedImagesPath = Path::combine($resizedImagesDir, $originalSourceFileName);
+        $newResizedImagesPath = Path::combine($resizedImagesDir, $newSourceFileName);
+
+        $backend = $sourceFileResourceType->getBackend();
+
+        if ($backend->hasDirectory($resizedImagesPath)) {
+            if ($backend->rename($resizedImagesPath, $newResizedImagesPath)) {
+                $resizedImages = $backend->listContents($newResizedImagesPath);
+
+                foreach ($resizedImages as $resizedImage) {
+                    if (!isset($resizedImage['path'])) {
+                        continue;
+                    }
+
+                    $sourceImageSize = ResizedImage::getSizeFromFilename($resizedImage['basename']);
+                    $newResizedImageFilename = ResizedImage::createFilename($newSourceFileName, $sourceImageSize['width'], $sourceImageSize['height']);
+
+                    $backend->rename($resizedImage['path'], Path::combine($newResizedImagesPath, $newResizedImageFilename));
+                }
+            }
+        }
+    }
+
+    /**
+     * Returns a list of resized images generated for a given file.
+     *
+     * @param ResourceType $sourceFileResourceType source file resource type
+     * @param string       $sourceFilePath         source file backend-relative path
+     * @param string       $sourceFileName         source file name
+     * @param array        $filterSizes            array containing names of sizes defined
+     *                                             in the `images.sizes` configuration
+     *
+     * @return array
+     */
+    public function getResizedImagesList(ResourceType $sourceFileResourceType, $sourceFilePath, $sourceFileName, $filterSizes = array())
+    {
+        $resizedImagesPath = Path::combine($sourceFileResourceType->getDirectory(), $sourceFilePath, ResizedImage::DIR, $sourceFileName);
+
+        $backend = $sourceFileResourceType->getBackend();
+
+        $resizedImages = array();
+
+        if (!$backend->hasDirectory($resizedImagesPath)) {
+            return $resizedImages;
+        }
+
+        $resizedImagesFiles = array_filter(
+            $backend->listContents($resizedImagesPath),
+            function ($v) {
+                return isset($v['type']) && $v['type'] === 'file';
+            }
+        );
+
+        foreach ($resizedImagesFiles as $resizedImage) {
+            $size = ResizedImage::getSizeFromFilename($resizedImage['basename']);
+
+            if ($sizeName = $this->getSizeNameFromConfig($size['width'], $size['height'])) {
+                if (empty($filterSizes) || in_array($sizeName, $filterSizes)) {
+                    $resizedImages[$sizeName] = $this->createNodeValue($resizedImage);
+                }
+                continue;
+            }
+
+            if (empty($filterSizes)) {
+                if (!isset($resizedImages['__custom'])) {
+                    $resizedImages['__custom'] = array();
+                }
+
+                $resizedImages['__custom'][] = $this->createNodeValue($resizedImage);
+            }
+        }
+
+        return $resizedImages;
+    }
+
+    protected function createNodeValue($resizedImage)
+    {
+        if (isset($resizedImage['url'])) {
+            return array(
+                'name' => $resizedImage['basename'],
+                'url'  => $resizedImage['url']
+            );
+        }
+
+        return $resizedImage['basename'];
+    }
+
+    /**
+     * @param ResourceType $sourceFileResourceType
+     * @param string       $sourceFilePath
+     * @param string       $sourceFileName
+     * @param int          $width
+     * @param int          $height
+     *
+     * @return ResizedImage|null
+     */
+    public function getResizedImageBySize(ResourceType $sourceFileResourceType, $sourceFilePath, $sourceFileName, $width, $height)
+    {
+        $resizedImagesPath = Path::combine($sourceFileResourceType->getDirectory(), $sourceFilePath, ResizedImage::DIR, $sourceFileName);
+
+        $backend = $sourceFileResourceType->getBackend();
+
+        if (!$backend->hasDirectory($resizedImagesPath)) {
+            return null;
+        }
+
+        $resizedImagesFiles = array_filter(
+            $backend->listContents($resizedImagesPath),
+            function ($v) {
+                return isset($v['type']) && $v['type'] === 'file';
+            }
+        );
+
+        $thresholdPixels = $this->config->get('images.threshold.pixels');
+        $thresholdPercent = (float) $this->config->get('images.threshold.percent') / 100;
+
+        foreach ($resizedImagesFiles as $resizedImage) {
+            $resizedImageSize = ResizedImage::getSizeFromFilename($resizedImage['basename']);
+            $resizedImageWidth = $resizedImageSize['width'];
+            $resizedImageHeight = $resizedImageSize['height'];
+            if ($resizedImageWidth >= $width && ($resizedImageWidth <= $width + $thresholdPixels || $resizedImageWidth <= $width + $width * $thresholdPercent)
+                && $resizedImageHeight >= $height && ($resizedImageHeight <= $height + $thresholdPixels || $resizedImageHeight <= $height + $height * $thresholdPercent)) {
+                $resizedImage = new ResizedImage(
+                    $this,
+                    $sourceFileResourceType,
+                    $sourceFilePath,
+                    $sourceFileName,
+                    $resizedImageWidth,
+                    $resizedImageHeight
+                );
+
+                if ($resizedImage->exists()) {
+                    $resizedImage->load();
+
+                    return $resizedImage;
+                }
+            }
+        }
+
+        return null;
+    }
+}

@@ -1,153 +1,283 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-KPObTW==
+/*
+ * This file is part of the Symfony package.
+ *
+ * (c) Fabien Potencier <fabien@symfony.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+namespace Symfony\Component\HttpFoundation;
+
+/**
+ * ResponseHeaderBag is a container for Response HTTP headers.
+ *
+ * @author Fabien Potencier <fabien@symfony.com>
+ */
+class ResponseHeaderBag extends HeaderBag
+{
+    const COOKIES_FLAT = 'flat';
+    const COOKIES_ARRAY = 'array';
+
+    const DISPOSITION_ATTACHMENT = 'attachment';
+    const DISPOSITION_INLINE = 'inline';
+
+    protected $computedCacheControl = array();
+    protected $cookies = array();
+    protected $headerNames = array();
+
+    public function __construct(array $headers = array())
+    {
+        parent::__construct($headers);
+
+        if (!isset($this->headers['cache-control'])) {
+            $this->set('Cache-Control', '');
+        }
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function __toString()
+    {
+        $cookies = '';
+        foreach ($this->getCookies() as $cookie) {
+            $cookies .= 'Set-Cookie: '.$cookie."\r\n";
+        }
+
+        ksort($this->headerNames);
+
+        return parent::__toString().$cookies;
+    }
+
+    /**
+     * Returns the headers, with original capitalizations.
+     *
+     * @return array An array of headers
+     */
+    public function allPreserveCase()
+    {
+        return array_combine($this->headerNames, $this->headers);
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function replace(array $headers = array())
+    {
+        $this->headerNames = array();
+
+        parent::replace($headers);
+
+        if (!isset($this->headers['cache-control'])) {
+            $this->set('Cache-Control', '');
+        }
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function set($key, $values, $replace = true)
+    {
+        parent::set($key, $values, $replace);
+
+        $uniqueKey = str_replace('_', '-', strtolower($key));
+        $this->headerNames[$uniqueKey] = $key;
+
+        // ensure the cache-control header has sensible defaults
+        if (in_array($uniqueKey, array('cache-control', 'etag', 'last-modified', 'expires'))) {
+            $computed = $this->computeCacheControlValue();
+            $this->headers['cache-control'] = array($computed);
+            $this->headerNames['cache-control'] = 'Cache-Control';
+            $this->computedCacheControl = $this->parseCacheControl($computed);
+        }
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function remove($key)
+    {
+        parent::remove($key);
+
+        $uniqueKey = str_replace('_', '-', strtolower($key));
+        unset($this->headerNames[$uniqueKey]);
+
+        if ('cache-control' === $uniqueKey) {
+            $this->computedCacheControl = array();
+        }
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function hasCacheControlDirective($key)
+    {
+        return array_key_exists($key, $this->computedCacheControl);
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function getCacheControlDirective($key)
+    {
+        return array_key_exists($key, $this->computedCacheControl) ? $this->computedCacheControl[$key] : null;
+    }
+
+    public function setCookie(Cookie $cookie)
+    {
+        $this->cookies[$cookie->getDomain()][$cookie->getPath()][$cookie->getName()] = $cookie;
+    }
+
+    /**
+     * Removes a cookie from the array, but does not unset it in the browser.
+     *
+     * @param string $name
+     * @param string $path
+     * @param string $domain
+     */
+    public function removeCookie($name, $path = '/', $domain = null)
+    {
+        if (null === $path) {
+            $path = '/';
+        }
+
+        unset($this->cookies[$domain][$path][$name]);
+
+        if (empty($this->cookies[$domain][$path])) {
+            unset($this->cookies[$domain][$path]);
+
+            if (empty($this->cookies[$domain])) {
+                unset($this->cookies[$domain]);
+            }
+        }
+    }
+
+    /**
+     * Returns an array with all cookies.
+     *
+     * @param string $format
+     *
+     * @return array
+     *
+     * @throws \InvalidArgumentException When the $format is invalid
+     */
+    public function getCookies($format = self::COOKIES_FLAT)
+    {
+        if (!in_array($format, array(self::COOKIES_FLAT, self::COOKIES_ARRAY))) {
+            throw new \InvalidArgumentException(sprintf('Format "%s" invalid (%s).', $format, implode(', ', array(self::COOKIES_FLAT, self::COOKIES_ARRAY))));
+        }
+
+        if (self::COOKIES_ARRAY === $format) {
+            return $this->cookies;
+        }
+
+        $flattenedCookies = array();
+        foreach ($this->cookies as $path) {
+            foreach ($path as $cookies) {
+                foreach ($cookies as $cookie) {
+                    $flattenedCookies[] = $cookie;
+                }
+            }
+        }
+
+        return $flattenedCookies;
+    }
+
+    /**
+     * Clears a cookie in the browser.
+     *
+     * @param string $name
+     * @param string $path
+     * @param string $domain
+     * @param bool   $secure
+     * @param bool   $httpOnly
+     */
+    public function clearCookie($name, $path = '/', $domain = null, $secure = false, $httpOnly = true)
+    {
+        $this->setCookie(new Cookie($name, null, 1, $path, $domain, $secure, $httpOnly));
+    }
+
+    /**
+     * Generates a HTTP Content-Disposition field-value.
+     *
+     * @param string $disposition      One of "inline" or "attachment"
+     * @param string $filename         A unicode string
+     * @param string $filenameFallback A string containing only ASCII characters that
+     *                                 is semantically equivalent to $filename. If the filename is already ASCII,
+     *                                 it can be omitted, or just copied from $filename
+     *
+     * @return string A string suitable for use as a Content-Disposition field-value
+     *
+     * @throws \InvalidArgumentException
+     *
+     * @see RFC 6266
+     */
+    public function makeDisposition($disposition, $filename, $filenameFallback = '')
+    {
+        if (!in_array($disposition, array(self::DISPOSITION_ATTACHMENT, self::DISPOSITION_INLINE))) {
+            throw new \InvalidArgumentException(sprintf('The disposition must be either "%s" or "%s".', self::DISPOSITION_ATTACHMENT, self::DISPOSITION_INLINE));
+        }
+
+        if ('' == $filenameFallback) {
+            $filenameFallback = $filename;
+        }
+
+        // filenameFallback is not ASCII.
+        if (!preg_match('/^[\x20-\x7e]*$/', $filenameFallback)) {
+            throw new \InvalidArgumentException('The filename fallback must only contain ASCII characters.');
+        }
+
+        // percent characters aren't safe in fallback.
+        if (false !== strpos($filenameFallback, '%')) {
+            throw new \InvalidArgumentException('The filename fallback cannot contain the "%" character.');
+        }
+
+        // path separators aren't allowed in either.
+        if (false !== strpos($filename, '/') || false !== strpos($filename, '\\') || false !== strpos($filenameFallback, '/') || false !== strpos($filenameFallback, '\\')) {
+            throw new \InvalidArgumentException('The filename and the fallback cannot contain the "/" and "\\" characters.');
+        }
+
+        $output = sprintf('%s; filename="%s"', $disposition, str_replace('"', '\\"', $filenameFallback));
+
+        if ($filename !== $filenameFallback) {
+            $output .= sprintf("; filename*=utf-8''%s", rawurlencode($filename));
+        }
+
+        return $output;
+    }
+
+    /**
+     * Returns the calculated value of the cache-control header.
+     *
+     * This considers several other headers and calculates or modifies the
+     * cache-control header to a sensible, conservative value.
+     *
+     * @return string
+     */
+    protected function computeCacheControlValue()
+    {
+        if (!$this->cacheControl && !$this->has('ETag') && !$this->has('Last-Modified') && !$this->has('Expires')) {
+            return 'no-cache';
+        }
+
+        if (!$this->cacheControl) {
+            // conservative by default
+            return 'private, must-revalidate';
+        }
+
+        $header = $this->getCacheControlHeader();
+        if (isset($this->cacheControl['public']) || isset($this->cacheControl['private'])) {
+            return $header;
+        }
+
+        // public if s-maxage is defined, private otherwise
+        if (!isset($this->cacheControl['s-maxage'])) {
+            return $header.', private';
+        }
+
+        return $header;
+    }
+}

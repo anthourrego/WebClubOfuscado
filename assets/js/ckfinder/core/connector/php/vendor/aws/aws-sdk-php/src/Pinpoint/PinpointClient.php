@@ -1,103 +1,195 @@
-<?php //ICB0 56:0 71:1002                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\Pinpoint;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cPw7t1K3PM/vtf4UGOqyoaOtYrBC9APzG1DDpJiEhmdLJNbE3naJyf7YR/cCkE1Yv96dBQVrt
-/E8QAIrOS3szCPWvBthbEQTABlM4FJZiecBY6Cv/bs1A3Qh4traqsidfJMWKgKlB/P4sYXwI1mBI
-ARukK9UzY+5wHRMbKL/j3YfeR7i8qdhyw6ocuQL3tPn4MzcWjLuJop9HuViLzHT+62zK4BvPNdcD
-f4gsfJkabn483rwV/yPr8jnManxBoozQTUGZ2EwG0loEdbUqYTiSzzDhxb2bQ3GuMv0zQDpP7HH+
-uBCw0Hr3sIJQpmp0a/FSgUTCYxrns4vSsato0VfK42kuSe4WKWxj81JCI+qSaajlaBn8Y98i23uh
-wgTkoAK8wxfWiyH68x31BE0uHAg6n7DgwzcuUsUVQwH1S37EcfefHU12674hR6MzqgqzCKDfyNQs
-8L9MxeXx5vEOY11/N3Vhmot4ISJvIv4vxnWudO/DZNpLwknOPBuH1UIiYXv0iNl7y9+wviphAiGW
-fZ/vbsQE6C3mUv3vVmlA4aFJIP4+Hi80/rSQb1KHacSDsZedxmJEnYmT373wwRm+kPPXo0uMOxOE
-2n6yvMidAcPWWhQF80hkihHfBzTcKMnm7K+e8xpqtOXDGCTwrGms/wbfB1cjPKZNaFw5Nap1O7Tx
-3TX3XLT08d6CT5eecqEaWlGEDDAbinkNGV5FN3TWYTaoqhaB+bGDUYV+fTtp5nP5V1A0yIdnHsfq
-jTgk6V78TZ7h84wSgsqubMuJLtk/UWaKN6lHNZJ3XWca/x2lniBefEs8ItM4NzpOQzAHRHCJ7CbL
-rOUVZQMO8jOCjiGek2ytoS7nq7JziWlDrxgf4QoSAu/DJZd8pWpKXJAc2SEasdip5crb2IXiJVv6
-vGh8szlb1wG3kWjfNP7s75Y45la5+L9d1HmfWc+M9jNqu9HEmaw5XpMw1LDD9rx+eTewnc+qxEd8
-mwVQQri2AoaJOcqcyqD3VK7/zA3+akHzqHzZpaOWJwTnbbwOfOfMNnQhwwsNrYnIekQh4wIHSqYY
-3MPfz20UAgepfQjdoXf005UgVyabULStUhJwFOp0uNFwmgU9ZOQTv4Vsj1aLQWUjKdbGehXUA3c9
-aE84aBkNQAUN7baAo3P14coZIW/Ox+nWn1sGpHtdOFBvLVUdTDWSH2PQtVibcuhRSYkyq4fXu8So
-o8PfrWaF7n7sHAIbARahXJLopF+xtde/RBDsSMVPnRAExhYiC6wa0xEyuFwxZifVN4lz0ZdJo/04
-NE+QpBXZVQd6o3u0zF1WgsQIQmblHO+6kXcntlIhcGBIydjNIwCFZuk9iX1kDlz5/Pa6LuetxsIR
-oe21Vc09Xdp1M1qVxBExDIj7TZJcMqiNCyTefRQWNf9XzI4uTLOoRlJi+Je3Spf7YPei3iDhYdFA
-1/96IjErhsmppb92G15laHTaggVdBF6I9gV8SPEcrMfZFcx+1kQDDGSzgqwuBqSZfVNl78PCMAxZ
-qxieptLpnP/H6r9DBbTS7Uatw2KYy/efAOq59Nevjrlg/RRhR5AtcSYo5226HyqsUtRu3yFIqbO4
-yVChD1tSBVRMdRXXNSXogFh3wy/pb4VAGqdphmTX59EFMKPNXU+1iTdkeBxBLYzeLHsbhqL+6/UI
-fiwQ5Qc50VJ+3ydUJaKgrdbfiJVTxX0Dppt3ZfhUu3KBZZ/xIsyv6YdknmCR5NsPZZQRld9GXm5b
-q0mzkaiGz33U0H9NgfmDS3kHPRwLhJJrJF8X+B+aeq+Rwor87qRRyu5Gey42MpbEVlWePugW4maj
-yQsERBFG4Mx+BxcuToCm6KeE4mS7PmzHmG0cJgkiYRGx46KXJs6oTHuSEnMfPsBm0jgbhtp/cPrg
-pTZe9rcQ/licvt86rQ2xhvkvBOAoxg8+i8doIatnPz/0hYuXR1XQbSjLU2EIEdFHuG4tPQnaCyC3
-7R+ZgWomUI0eozi6t7hWwhXBIUM4r0d9pIOUvaVTwrTbl+hFUxtADBMbBIHyYv7lY7U5bl2z0LQU
-F/t/uUQeG0hRIpeUVE9svlemCg6HXBme+DtUM3xTNRcITYKFMJglS/ak1CRYAsKO7ieaYA+TYZc9
-Gtyd3I/GvQdL5E1tXDFXv2DAW9C0EQqzMbU3YCNLuUa/oiuLuOpUrBTTUIDpfoXj1RVYfjhOspqS
-IJJ+GuILXhz1fpFWDPSIUdckk8P00RAhziBF2nIgLNgFYvOzsdrAT2WtsR2ljc1pEyz3shx41jcB
-nG07RHFjQGkVntuNJk/4QsxBIYPd1YVPWwFxzNSzH/sZ8mOz9pZbf+GIk2mN3G5QjMtUSoBy/TbK
-Z6DV5ICfYT3RQSOFFYeFui0ERoPwWIWsFLcjjQuUa4WnsVx6x522dj2P9kDmhxx/YngTSESDrbWz
-ObVZloH8M2On5q+y1w/BWSqfZf9OFLEXdqpyex7OfPglRTNoAHBW4kMsG7qTXOyOoSMrPHigWZG3
-2vsO8QNZKYh7IvIO/pEujJEuXIdgLreCNq5no251+GmAfp2Mon8SaF66nipcHQlm+l+EyGh1wBk3
-1r5lyEXESsyo2lB+ji6rulpnes4UyBoi1Uq/qxx3Wg4/CV0aedRl3vaEmhqTS+1ci27OUITsdz99
-T4m/SVmaa80vJlwJwNc5wvwx0CemK43/explnFxyQY7MsqkVCdUwGAq0SjU7H/pITlFFgtqUFLHp
-HJajef/7IvhQZRI6oA6EN2XQPdSAZaqepL9Pe0QB5Oh9ngu97RKDNmk1GY+j9hC6esmPME0XvUHg
-nxWDpZzfhqMtMrt8LfDM48aAtNKNpv0NzaFDKvbL5n6QvnMBtlQejdmVKqY27AkBhGi+KeNwbfN+
-Xsx1iJk7gPCIdVaKMr88YehYsO+JfOd6e2W6ynn01CP/WnsB8eY+2GrKA+ZFjKbT6k2z7XiVjm6f
-JqWImNi+xG6rT88g5OkKV0zs6+Sz957jHph63MSvf/NtdTmbvU44kf3VDIzQ4lST6k1vsrLxyCR7
-e6/gscnCm7nfZM5ut03yTlVE7DUAgKQS6w3pyOPXpGdBvLz2iRWuFZJ5S6RExxSw7xImeefLoRMu
-0gyzumCcGXFvqG4qr2ITUrtwAmTUkPMYGrrVMUEEJlCaIjwpa0nkRzFpCXUcepWiPK0==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use Aws\Api\ApiProvider;
+use Aws\Api\DocModel;
+use Aws\Api\Service;
+use Aws\AwsClient;
 
-?>
-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
-K8iPuus5egQfo2u=
+/**
+ * This client is used to interact with the **Amazon Pinpoint** service.
+ * @method \Aws\Result createApp(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createAppAsync(array $args = [])
+ * @method \Aws\Result createCampaign(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createCampaignAsync(array $args = [])
+ * @method \Aws\Result createExportJob(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createExportJobAsync(array $args = [])
+ * @method \Aws\Result createImportJob(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createImportJobAsync(array $args = [])
+ * @method \Aws\Result createSegment(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createSegmentAsync(array $args = [])
+ * @method \Aws\Result deleteAdmChannel(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteAdmChannelAsync(array $args = [])
+ * @method \Aws\Result deleteApnsChannel(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteApnsChannelAsync(array $args = [])
+ * @method \Aws\Result deleteApnsSandboxChannel(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteApnsSandboxChannelAsync(array $args = [])
+ * @method \Aws\Result deleteApnsVoipChannel(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteApnsVoipChannelAsync(array $args = [])
+ * @method \Aws\Result deleteApnsVoipSandboxChannel(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteApnsVoipSandboxChannelAsync(array $args = [])
+ * @method \Aws\Result deleteApp(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteAppAsync(array $args = [])
+ * @method \Aws\Result deleteBaiduChannel(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteBaiduChannelAsync(array $args = [])
+ * @method \Aws\Result deleteCampaign(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteCampaignAsync(array $args = [])
+ * @method \Aws\Result deleteEmailChannel(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteEmailChannelAsync(array $args = [])
+ * @method \Aws\Result deleteEndpoint(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteEndpointAsync(array $args = [])
+ * @method \Aws\Result deleteEventStream(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteEventStreamAsync(array $args = [])
+ * @method \Aws\Result deleteGcmChannel(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteGcmChannelAsync(array $args = [])
+ * @method \Aws\Result deleteSegment(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteSegmentAsync(array $args = [])
+ * @method \Aws\Result deleteSmsChannel(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteSmsChannelAsync(array $args = [])
+ * @method \Aws\Result deleteUserEndpoints(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteUserEndpointsAsync(array $args = [])
+ * @method \Aws\Result getAdmChannel(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getAdmChannelAsync(array $args = [])
+ * @method \Aws\Result getApnsChannel(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getApnsChannelAsync(array $args = [])
+ * @method \Aws\Result getApnsSandboxChannel(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getApnsSandboxChannelAsync(array $args = [])
+ * @method \Aws\Result getApnsVoipChannel(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getApnsVoipChannelAsync(array $args = [])
+ * @method \Aws\Result getApnsVoipSandboxChannel(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getApnsVoipSandboxChannelAsync(array $args = [])
+ * @method \Aws\Result getApp(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getAppAsync(array $args = [])
+ * @method \Aws\Result getApplicationSettings(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getApplicationSettingsAsync(array $args = [])
+ * @method \Aws\Result getApps(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getAppsAsync(array $args = [])
+ * @method \Aws\Result getBaiduChannel(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getBaiduChannelAsync(array $args = [])
+ * @method \Aws\Result getCampaign(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getCampaignAsync(array $args = [])
+ * @method \Aws\Result getCampaignActivities(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getCampaignActivitiesAsync(array $args = [])
+ * @method \Aws\Result getCampaignVersion(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getCampaignVersionAsync(array $args = [])
+ * @method \Aws\Result getCampaignVersions(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getCampaignVersionsAsync(array $args = [])
+ * @method \Aws\Result getCampaigns(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getCampaignsAsync(array $args = [])
+ * @method \Aws\Result getChannels(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getChannelsAsync(array $args = [])
+ * @method \Aws\Result getEmailChannel(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getEmailChannelAsync(array $args = [])
+ * @method \Aws\Result getEndpoint(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getEndpointAsync(array $args = [])
+ * @method \Aws\Result getEventStream(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getEventStreamAsync(array $args = [])
+ * @method \Aws\Result getExportJob(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getExportJobAsync(array $args = [])
+ * @method \Aws\Result getExportJobs(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getExportJobsAsync(array $args = [])
+ * @method \Aws\Result getGcmChannel(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getGcmChannelAsync(array $args = [])
+ * @method \Aws\Result getImportJob(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getImportJobAsync(array $args = [])
+ * @method \Aws\Result getImportJobs(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getImportJobsAsync(array $args = [])
+ * @method \Aws\Result getSegment(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getSegmentAsync(array $args = [])
+ * @method \Aws\Result getSegmentExportJobs(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getSegmentExportJobsAsync(array $args = [])
+ * @method \Aws\Result getSegmentImportJobs(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getSegmentImportJobsAsync(array $args = [])
+ * @method \Aws\Result getSegmentVersion(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getSegmentVersionAsync(array $args = [])
+ * @method \Aws\Result getSegmentVersions(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getSegmentVersionsAsync(array $args = [])
+ * @method \Aws\Result getSegments(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getSegmentsAsync(array $args = [])
+ * @method \Aws\Result getSmsChannel(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getSmsChannelAsync(array $args = [])
+ * @method \Aws\Result getUserEndpoints(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getUserEndpointsAsync(array $args = [])
+ * @method \Aws\Result phoneNumberValidate(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise phoneNumberValidateAsync(array $args = [])
+ * @method \Aws\Result putEventStream(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise putEventStreamAsync(array $args = [])
+ * @method \Aws\Result removeAttributes(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise removeAttributesAsync(array $args = [])
+ * @method \Aws\Result sendMessages(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise sendMessagesAsync(array $args = [])
+ * @method \Aws\Result sendUsersMessages(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise sendUsersMessagesAsync(array $args = [])
+ * @method \Aws\Result updateAdmChannel(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateAdmChannelAsync(array $args = [])
+ * @method \Aws\Result updateApnsChannel(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateApnsChannelAsync(array $args = [])
+ * @method \Aws\Result updateApnsSandboxChannel(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateApnsSandboxChannelAsync(array $args = [])
+ * @method \Aws\Result updateApnsVoipChannel(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateApnsVoipChannelAsync(array $args = [])
+ * @method \Aws\Result updateApnsVoipSandboxChannel(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateApnsVoipSandboxChannelAsync(array $args = [])
+ * @method \Aws\Result updateApplicationSettings(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateApplicationSettingsAsync(array $args = [])
+ * @method \Aws\Result updateBaiduChannel(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateBaiduChannelAsync(array $args = [])
+ * @method \Aws\Result updateCampaign(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateCampaignAsync(array $args = [])
+ * @method \Aws\Result updateEmailChannel(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateEmailChannelAsync(array $args = [])
+ * @method \Aws\Result updateEndpoint(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateEndpointAsync(array $args = [])
+ * @method \Aws\Result updateEndpointsBatch(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateEndpointsBatchAsync(array $args = [])
+ * @method \Aws\Result updateGcmChannel(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateGcmChannelAsync(array $args = [])
+ * @method \Aws\Result updateSegment(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateSegmentAsync(array $args = [])
+ * @method \Aws\Result updateSmsChannel(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateSmsChannelAsync(array $args = [])
+ */
+class PinpointClient extends AwsClient
+{
+    private static $nameCollisionOverrides = [
+        'GetUserEndpoint' => 'GetEndpoint',
+        'GetUserEndpointAsync' => 'GetEndpointAsync',
+        'UpdateUserEndpoint' => 'UpdateEndpoint',
+        'UpdateUserEndpointAsync' => 'UpdateEndpointAsync',
+        'UpdateUserEndpointsBatch' => 'UpdateEndpointsBatch',
+        'UpdateUserEndpointsBatchAsync' => 'UpdateEndpointsBatchAsync',
+    ];
+
+    public function __call($name, array $args)
+    {
+        // Overcomes a naming collision with `AwsClient::getEndpoint`.
+        if (isset(self::$nameCollisionOverrides[ucfirst($name)])) {
+            $name = self::$nameCollisionOverrides[ucfirst($name)];
+        }
+
+        return parent::__call($name, $args);
+    }
+
+    /**
+     * @internal
+     * @codeCoverageIgnore
+     */
+    public static function applyDocFilters(array $api, array $docs)
+    {
+        foreach (self::$nameCollisionOverrides as $overrideName => $operationName) {
+            if (substr($overrideName, -5) === 'Async') {
+                continue;
+            }
+            // Overcomes a naming collision with `AwsClient::getEndpoint`.
+            $api['operations'][$overrideName] = $api['operations'][$operationName];
+            $docs['operations'][$overrideName] = $docs['operations'][$operationName];
+            unset($api['operations'][$operationName], $docs['operations'][$operationName]);
+        }
+        ksort($api['operations']);
+
+        return [
+            new Service($api, ApiProvider::defaultProvider()),
+            new DocModel($docs)
+        ];
+    }
+}

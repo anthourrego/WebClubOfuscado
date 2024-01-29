@@ -1,301 +1,448 @@
-<?php //ICB0 56:0 71:2c20                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\Api;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-NGTmSKjCFntdpJ3/IfI7ibgUf4K==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use Aws\Api\Serializer\QuerySerializer;
+use Aws\Api\Serializer\Ec2ParamBuilder;
+use Aws\Api\Parser\QueryParser;
 
-?>
-HR+cPwOO8SVhs9deyiQqv33yivatY4n6whuh+zyDQXyuHUd9Z/57KGKqcis0sn3aJq4oy+xJvP9X
-KoQarh3S9s+dyJ75EfzdRYNUlq1IITT7M5x6GbI6h/8Uu/pSui2d69+1qowE1KWR0/R+2O3fE/hD
-nbUB7ks/+4f0cIFW+M9bXXODfaq5zCutY9sl3JfFb9VtNICDXTQTjn7zwfSJuRvFtOKb2tKMe4VU
-3tNL5fyeI793FTFmdCf9X8DWFngHiGcMDLED4YoNbeoo5/SbFQn/C5mQ1EM71FPgRcQNXIM9RnEe
-lziIwQXgqFu7oAoWzdU7Et+8iKuTRyBxux/FuFV6AG5NAKUd6shsUff8mh0bDTTqMGy0iDP191J/
-U4K1+wtT47NwzsJCjbNFHgxMLJ0gvMFPoPKjGHGziiAZDF8L4soUq6Eoo1ci60hlQcJQ7D5qRurV
-QtTTBpZrThTgU/Km/PEk7s+5asgqWbP13i0t6v1lkt1Cuyz7eFvzxf2fXWpH3nY07mjQYSAtJyYd
-R3vRgBfpO4uHC/OIxIv0+05pHtMVngBe95q0QYJHs3I3bWn6vNbw/0tTg2IAIrikyPVunbJdyXkJ
-HhyHxHLHVze/vTvU65jWreyqY/AbOII5OTQ2I3bBjifP388NTITdw+aSKn76T27C/jyL/QH5K2cG
-vxaUrOEwBhbEcts7IxYj9P+sBb4BmNcftFul6vjaIeIHmxKnLp/u7q0E2qYHDVIU/vAoEHC0FKpX
-E68bJJhqwqgwYnK0aWMyA7S3/9mGgXWUphSQ3OUpJs3rQMDV8+nbJJFdS9wadeUac1z9GBaIkiOF
-Ce6/MqIeaVIO45O/PBT7VWSekE4Ecpbj0u/xKejP0RJ6xzWbn9AC0J9Cgw0cBZjE2q/JXLa5bi0c
-ttFe2XKYttZYwWLfyvUFNpKsXbgOsXQ2/vDfaknbl/FV0pQnBOr8YfpHIt2DX4PHSEPTKhQ8fbtE
-NOcNIof1ylhiGZiVleSH6Fz3GQ7DgLXeSxYBOaxHhQ+dhRPqHpreIQKAgf+2RJVtpUJ6oJOkPSjS
-j3ue0uZEmCuotTA2XOvTAEdsArAFdWetXAqlPp5nHC0Ov3ZUaWNUBRH6q9eJbN3PY1+PWqFVRaTz
-onQTeKeRtu5kQij7KSIhZsNDzt7gPhw0zwK/cvLQn7FZHW1aM8IOK2D0Rrok40xGGa/e8geCpPxT
-QhvokmMjdENXVs/oXMzUT6FzrAY2j+5upzdyOC9oSpK+nbjhECNqvtNkdz3+5oKhh2H5CcdDXrm/
-UM+vPTHVshMCqcNGVEhPcpLmBKzJqgJYPAMTe4Xff9Xkdv549XILiTt0JCPQTJGM4uPthYa+FRpM
-YjWEjTqdlWNBZYnZCJA1TndTAwCbriw3JUilsrX39fwtxQwtDTcuO1pP0FBniHToOqmkC7gd+9ps
-XBV/q6428LNA8fcXY0ITWNQcH09fMEA5OIX0twqVBGHyfQJvw5z0I4lWIPsJ7X3Re9gt9uctTgwy
-D385hnHvEIo+k19rr65xMkB45Mq8+ChTs/e/bWanGlX9ZiR8kM5M4ovKrm3vD59fcliM/HjQqBmN
-ye9whPf1iA+QJyH9pWwkPw5dHJQ0kdTBIpyOCV3xNMgHnM06qXln8ybuwnmHQcjdy4KHGqOlfDV+
-yGGusBKua5iaP9alKiwSPG5d5KRgI/AIiS5ExP+MyBUxcjpzEuuVvCuRt4bCNbDNfQI7EPthIerw
-wUOx7Ivn2Tcvf5HTLIw95dTVi+/CBIlJZu5lnizqHBppuuJkbQU188pzCkMNk6oAgnhb53ytd2Hd
-ozhgB+nASj947zTe3FESjZ7ccoL8hgsSVHdORQW034FoRONapnuX2zEDrWzeHDv/w5dbeP9dp4Gt
-LzS2f67tGVcIxjIxupJtim1qwdeget/7dKKKNecXIssiETJPNwFnhcffp0A4FgInP250hqwrTZ1b
-T/5vXzJQ+GjPZ/3v4sV2KMkprKSTNDNEbMt4XW935132HQsu2lOMt0jXGIvIA/3EqihLJly3f2yr
-/+cmWjWCDYMP3MjzQC82/i7cf0DB30nk9klfoXWEKGmE1uysws6tH39fQqvpTX+uV59q1kqcz+R1
-GS5fuiKFzmsW7zGSf5Wow/96XX2+8dQOS4hg420H2HwUjyqXsM/D4K9pMoj6EfPfq90d2OBSO7V3
-3kXg3jGBvlZf0aFfDWDMp+w/xOhyZ27fCmtDMIng4529AOEs9RG6SdsktE0hhXs68x24+h4CJo6w
-uqQxXwHNNDT/JwaYR06pOdve9BXvuJt4DCUhLFs0zzoBCXeatmVbZBd7+/+TipkfpqfrlV6u4/fu
-NFF49pe0SIJQ+SbL5sAMEHapg7S2z4f+y1Bj1okEBncWHZxuazk8KDGad+93MrkmXs78MSeOaDTg
-nBFZDbtO1OnPiBlWHEscpi/5MFb4LnNlwuNkxtWmUo+4q7wAYjEfvEHUkqVyUIuAy9rvxnGtHHuW
-kpGmdQkw3sG+G0rYt1iUhjuO98ZlO/10aFzzKToVUfGT7trJRo5MNMKlQmMr8lAFhpsVRC15cEXg
-1g7Sd0/TObHjg9wo1BNWApJqO2VO/VZQAG0GtnjY2Yz45hiK1Ll10pKk6+7ktF/SkssrPmPWUa3q
-DDK8uuchCHKztm28gs3E/BSwhZetlZYz0C7C9+9UuUbACi2sGfw1PGw6h23RFKFqz42TQ6PvoHmW
-xi2PHewkahFKVK2UMbR47CFtf3GwcBrgmZx9IneU7ocSeXW1jvXMPzmJpCP/h9sSCGQ0I3VL5Khq
-zVI2cXhBkshpoMSXr7t8oiZEXw9vvPub2B+wngJOcJIUpo/LoMarA7K3rGgegQg5Ni9VdihH5S1o
-fWZ1MKB6ouJraL50D64Z2XiwByLHSVC4M/ovmXtR6X010ybRbMKlx3/Zd3aeltKnx4iIA2LHlyHN
-vbwQWBifzPRAT6AtQ97jNdS/NQikiQEDWztxjUriUEriFat0miL8JsvK5DXxTY2bKsy6sNVXuPUE
-YFY3PEuhKf6iAt876KLBvAyPOTz4N3MQ8y9vO1tfRbOFJ+0nRADksVCxKe3aJ4PMQIsVFzoKHbo9
-btZBtLJzZ3MLQMmmWs5Dlduaa+LllGVVEsY0y7v5119tLtvFIcMEYSfsVOFp0rpHJ0qFSQiLQeBH
-dxeBQ/mbDdl+BYgPA15k5he1GWMoyMcUT4aAnuFynVQi0VWEgF2wq3ehw/CV6YG1812HX4yxcxx6
-hQtb09rWhvZuULGJ5WBXW6+wD9YjNC7nkBtRVaKriKTemwxHipUush1HqUl3vPEEkC3Iu8NH1ja3
-vyScVEw5sTopBsQHzCtWEo/ujXaw2S1yRo2xihqFf8yYC1xLN2WYnntgPonnd7aY/QL8LgusiQAR
-DlQz7yWWP+GvPBQKpS17t7y7y04TSCep4g1+FkdukqsWYHrQVtnSKes5BHC/dWcEpDvnXD9p11bi
-l8pzgS6Ar+Pr27nCKXfOj2GEscGePMXenIrBAEoY/3kBEjaDEFRv+EfSmVPZh94vOH+n3RwPv2MQ
-f1jYyXhCaCR3HbrLCsSEphwrXilyvwX+VwdlJwE4HfuNIv/RJtI7ru+BwsbtZof6XuIFvDGtcySl
-ryY23VIHo0IwwGZv4knxQ1FHrj7GefpQrs5tB58372uuf1sGiy6l/vpA0V/DPUBBJQqqnFDYlFkG
-CHJ2qrTGkTtkqN3sGznlpYPFbgsW+ovvwUeIIwEf/8DpP8GfnQR9aPQzBjyVr3IctiYE8YpVWSUt
-xfIpQqboV0by8jVCAf8YPosLKdG9dAph86I0z3HkBXQMAIm2HC/beZHniob+QdGlqGG5vbh4gDQE
-36tZO91hKN5kyuA+9JxBKJFvFMCD8YqNZiEfvoMeKiVvDYvCrJU6KhusssQ/laszVPoEoQInZqb2
-jHCGbkHwPmwJIYElb0WhM66gqFTV0uS7vHutwM3uvpup/in/BfLWhR7uas+5Rw+vd+BTMvwJ/pRK
-bisHUnx7LNxu9GyH/jANo/Lbo+losjK0H8N4v1w3KKMvo5luXypGZfC07Wki3uSzmQX53SW7t9UJ
-R+j4C7rio2pXUik4Soceh0ITH0tZH25ESVT6FR0fJnF6Ob6N78ICmxrDj+AadBWRFmukr/lb+nut
-qMZsmNz/MQJlfbUupEQlAis9ZK/WWWZeKN1+fi/wZk3/U3DDASAaskhcOxNEI0ioR0BPHp/+VUdv
-ru++vH/kqxFg3mQQRbNRPw2/lHj8PKeVNt4IUiuzWYoJqSa4HBbH/CSdoujB345xD9MNLfWifvEn
-8cWsdeHeH3RentGCk0kSmeNnl9nN0C8cTYxEaPIPh3DVkvXBTlwTzryYBS2nrUsuFzpF3lpyFfzP
-LIUB5ZM4r1GXgS5oG3jiYueeJP6OhcQrZIAljKtJs1KCvquKY/ZYCN5sbDSD2EYh1FBCqs+z0/yC
-dKOE5rUhwavVuG0JsrOXipuJ6uYybstziYbLyGiJkDaupF62JCFnB2kPVsqclPHBQExVv02viVPZ
-iWWQp3Rz5+xaxCIGRrxRNjNgOV4FXmHR8hopX+Jv40JMUbInFz9LMJCuHM3YgHDaahY6Lu8fTuHI
-DTwwCfgrkE8WgGbWMPR5Om1bgWEqglBduBL06YvFbirQhkKf8BgnHpd9b0cmdWmDiAOX0kaj/lZ0
-yTIBBjvRC0pEZVWG2mds6M0UMm75dYIiZaaMX1DYJ4heXCKPXDvgd9slUyGs3T10+XJJxnFyVdbv
-1q6gRg47nMWcogkjiQNeTv8YlEpLjez+n8fvWbkIhwakZMufOU2dbmiOni1zWcgHTt9Lrj7jPm6E
-fYh8q5vfO67fXOAOc+HUbj+nhmwZQHkjEtGFhNKzTAeLxThHSQSV3PMx6IGMKVc9JSyuA+FEnxWz
-+b3IVdt7JYTn1GmmNEBlhFgbzStRnn5QA9bpLj+pwL/jlCo5QnjozHruH4+PWK4cPVVYYHQIJA2L
-cvCIVr5NYTQxwCo523FI2G5Zy58vbROc/IwET2M1McrLONi2muT0crvOBcrJyRVG3gjEt9njeJIV
-i89ClQmrv99/i2BvYr+CVrlWjhkl6+vu7xPOhkU9NKG10JIux7Sf0R3QOlnklIqlISxvuLVlSktb
-Oca0zpsEogn1rrqukqkZfQa3N7bgJ5xPjHoEBV/BcJkBCHc2KK7911KLHBplUy7JzdkhdiPNIczq
-V7iZH6TfddLMvt+2NPYXkYA7W1jrpoHW5/KUQPtbyv5S6tw2Ovz31OsRBJlrFujIcl+njsjrhZLG
-LAG9bwsI068CM9EJeQAt18OIGp6SRm99YE7cQqpHv9M+GfsWLJBqbdU/nw9+ArZtsBRzy34AEwc9
-+CenaDywkFtsvMTo6ZejuwM3h/Bwm4hZu6LKdGM1iPMQ83qa03a/XcPSWFb1Q//5g38A0WfiwgDa
-kTfMyI/0A8cUZfcHwPH+7R6GoL3zSUjQqn2dOpwPpqj3GPjUW9jEHbLS6qM+C+V1JS/4ionrwrmT
-xQyAEGLnvEr3oXTupcbMWIiPlMdCwrXg6uFHWVDXLUt3dOqwDS2u1tjFPurbgco2IXiUIlu12cWd
-Y/UOfze0SkDybzmIXlChevmnnwKYC4orUQzRRKPREIVAoNHDqN5JZlAwIiQhfox8/IYKmtUezjhr
-FeYDpb6tlfjNC9AhRxd4aw9zD26nzijAhY8RtNFDHtHa8/qTYsLChX1TxrIsA8Sm6YIIS7Txd1Ln
-MFc+Az/c1VG4RqjI2TlTma52G42kswHH/TW1ZAZQjZ4Gpc1jkkusf4qFXLf/Bxllpm/WtMbvoQLw
-whGslyZxyU6BEbK5B5XHpYqY4y7EeC8DYcDf0QNaa6XNpTAzib+2t2NYx5FayDJ+jI4XDbQbgNVi
-XbBWKCEIAGfFtpVNyDJwb3xGtQx9NSYRr/sDUUhC6nC3HdBiC/7thRRx3ackDqKq6Z/3e6GlrQmO
-mDgBT2+A7BgjyRpSM1h+y56hDx7+kkhw4YT+32OlUyE6PYW+TGFeXMC+SVGf6TrJNiXP8/U69JPo
-orj5Lfp466xQr0W1NzMiWxst3Q2yeKNNOjtsNBqOp0J8kNMd56777WYxoPODzYj22jgxyBmsmG6G
-HGEYBFmZTYBXU5rTbH1trdbt0HNmj+jHJDlXAHyQeGIl8osnZzoAfeMMSWWYsPyzeab/R4Z/OOtr
-cSEs2kJQY/rTYrP6WmfjEwBT390k0rV5RArXyYm/EzwDDYhw4at6Z+U6eciwwlr4IOSFtUmhgsFb
-o+WXJzO+Y7AvK1ifE/iMyPohVIOaaXkgMRTvmM65Ktur4lr0/V9eMOOa7FJYuMOOevljXsFUcrHR
-OtMSB62+zIc1AaNSdDhi5k/3SpNkycJHglESjF7VmE8FEnKsE5JzpBNVoMHWdN1eIDJF3psDZlFW
-eryURvYhK/YA5Y4c2/SlHncFhSV7T5NDQ3TO+1J4D6aNbuXySz/UrKE4MRE1Jm4KxzKz3T6axa+R
-6pApa1RR67hOS/dOtohxSc49Jtsc2NNSAgRhA3TlYhOiWaDznTlZiRLSreHTZhOJnxhf9kzhJ8Md
-221J8SoH0UX5tSjiUlS5FanJoMlW3qVqXGlYxkgGAs0AudrPIRIiiEnIVwvRoo0ckpTs43y8fryq
-4G/Nhv9uejojUzZ85KqS4m87tYa2es31oyDtU2/9yiqADr0jJwxLaRU4YzHQXlXS4ewG8OH2lqlx
-WYR5/AcVgFyu6Ily3GnpMNeXqNQqYh9wMFIB3obdRB4wtEdHZYaXNDotEqwPGGl1LaK1Rf0SW4HL
-0FPaATFn4R7NtQEBxN2X20VS0OUF51IV1lQA8u8KVtvFTx37Ox2k+z1uoaiUnDn23+Mcw/+tu7Xi
-/rouG3ePuBYmyZR/3QCnUvv55HXyr8DgEX611xknLiFvUic6N1gedbobOQSTuvRlj5zGJ8B6EaXv
-XAf5o2cv9pPQDGD+xxb6+E5scFPSaet+60dDjrZZHeaisKJBCFc3JdblnxG5MDJaQl4sfeQA/Szm
-/7NSu9dTwJBch+rh9QfvQWLUb6sag2t32YdCM5Fr7TZ8XPHSn+2S9sCCNSvm69Goccm9Cl/qMhDR
-yR4L7Ym28kEEtZ7R/9hi3lgy5FVjIdbw6wimAzqcFZH3odsAcQGk4xTgGjN2cxYotVr7uZqstLqd
-4+zKIwl9I9BzEfJkdYfEwDANl8agVf+WzSWhVn91Gt4o0HlAWq5y5HG/UaJGxBrgQuVh8wG60mrT
-Bmh6ZvSoUIY0uwLVsv2x38o1nS719W8c9mhT6CXOTsRJ7Y5KDcUI/KIIa/DPpPTXnvUZRlcXbjgM
-LPiouBawlkuXkIYTjdI3QZLsESXZESV/iITMwTqvo1cUQwLs7ivghjeL5vQ7JhbU6kH6ReWUzagh
-aEnWHV8THarwgWBv+SdnwBwuQYQ5RAVds/ysjQ6cUbPZudI+xg9XOfevJ8L5ruyev2FxQ+8i+9w/
-p4fXZ9VUyvZQ4wzLlhWjkP24Sdegt2+qOhxgBtbglTLZmonfsaA60SAwcbSuWfx/HLfgjjCCgeee
-owyH2RFnFXzTie17wR4jl41Vc9sci7IhymEY2/sGtz0PLctaY2WNdlfBtm2t1Vrp7sjdeZXL62UI
-84iPgXCkvme1zybamsjsx0TZIer1eKOg0ZaD2vPPJWt5GPO7kK09OAae9LgA4PsKupEN7bNt3fGR
-7V3QOvIPp/jf7RYX5YdgJmEiUjLpJe+FYE6x2P5Af4XKV7vtPUr0ZeH2ay/ZtLUNua+Uq6vcXxSH
-oIuikchelDvccR6nr+P0IaNJjCod9H0x9LiXUq3gs8KDKlmsi9vA2TaqYe6cbUC5c61zukVGzXf7
-C8XvI+p6zst3Z70E2BT+E8dWdSI6ClzDqiIH5y91WrvKfjf3y8HFtjbgurMwJSd9GO5lQDh7kYlw
-7qqQOU5Bl1W5qcGX2DIaAZBsomE8c7j5EzTUNuDhmkVbs+/4YtPyLSD6JwFCcGztGdza6kJ2TuPp
-JzU2VNH5Z2slPjZbTBofCoeFLRYyxqiT76tEOWpdwBsof6KOwi++FduhTKRp8g85ZtmrK7Owkj/X
-Hp3LTynajMKmDh5eZa+yi8MAnWm9gV1hgx611Dv34F9n4vF23Rhi3fCoh8VsMMI2rZTtX9UJOzXE
-UPCiGHeaTke1R9GscD3dpu6RAab0jv6vUDm9CatzMS2o58zEBo1LSn2ohD2s4g/7styDfQ539Kl8
-RHyX0jzrrqR54KZdZpZ/9RBddrCaonAXJy/VnyRvhQ2a/65Ku5p2kIL146XAOnpsHFgAcS1uyWAm
-HrG2MQj3EJ2YKJ81ml38Y4qqxllt3KAuQDnH9ggl+Ptq9mA3988BdQkEjugx7QyAFo4l2e+vernn
-TS7aVEL2td2Nx5rw1awUIi3XPjZB/IBZP0w0JT4uURoKE/CLzLAhY/2Usv9XWMEIqPP0CaSk3mpV
-5Yoq6mr0eomQAuWFNfSPAVsAp0antjjPILUtqsxdEI8R76hN3Q6Rb2KnCdOHMGeKHXbPbWIFv9Lb
-xbSgwLFbC6i12vBJ6OwNSRdHCCGoU1QzoxEQMIiBqh7fs9K9S+DGxz3i7Hy/JPpAXJ7SeP2i9PFN
-3kHMnH8KlRkEvLmZML64ZjXgdTTQtptJZL/OJmVkibwEzmXmjrWIbYcc6ZPmcNs/yNCCLqyskDkb
-lDl8po49Rl5WFa4J3TSh16ucdfjman4sByin/LrnUD11ujjOwLdXqJcK7azsJhpm3U4qv2ipJcGP
-m4XYuWB0Cl/Yk1/C6GoKZhaghSfilvzj7vikJtzEjkxnDFyanMct/i93Q90lCsCimQal476gWzBG
-yXjhzCLzbfz5AROSzs10PX3EcHFc3TkDxY9tf/lPVWs6+4EWQhJkYl8SdXI5ZPWmEa7gAGlODMOZ
-fARReSMh/kNlsfbL+aBzpEGz8XC3beaquFXm2UnwqyeWBqyR7ncAL5lMt1RG899JS21JgEMTgmZS
-OQaxzg+Clkk2CHKMK0/MjpSlnVe8pmzb1J90bUnKCFpBFl7eBksN8p9abIbejmZo4Q8k6N7j0D0R
-E4V3KaOV1bKmLj/4ahQZsK6NoRzxb/D9007PwiEYb/jy4Q+WH/XNCFGtOQC2IEZxRcOEVrkf1Ciu
-xT7DsDwoIZZ8HcG3oC1/eSvj8TtvDJfUywYsRRjpRruab4ldkucX3AUz0HbNi5yecLrpkgTflwmJ
-Ma79GQgqM8cX3FrEo/C4S7eAV44s0Hskr0TTq/Zx4foBM2w+evUL2h7jlIr+kRM6u7AWj+NdHWxv
-GXjl+xerigKMJHfkDffSOHG4akbd0tqmw3JNdqKPTaxLaiv/5OjR1nmSdKL9zgCUlpZ2sDuFNgm8
-mwOq3I3VlGrNWiqJcwaXcQCfb3zwfAUjXMzSshfbmVd+pYwcpnC4UHppTgxvZcCMP1Y3lNK1sIR5
-BpIeQrNZZiQ39GoBqxe064yepbZV3v1nrcpv0hoPm02YFNlAcQShR9A+45wj9TpQiSfzdVMHoMpI
-GHDudh5ggtoilPb63a8F3HE6JBOWkobxNBL/DUpIuwHfVRHYutVyd0nyXHbHB5IwuLnF0lXbSgem
-WjwfIYFQD1rERfOIM6SxUqhbxkRngDWvQq+70UKT3MkAP/7hOZXhbh//Sfkn77NBzVOLu9y12P5y
-CNwKr+WvlSWlzLWMp01I0ZTJaQJjbzqAtBCeyS/rGkjTmirTGz3CEueMse4bYSlGYpWAh+bQOu6h
-8Nbz/hmngQti+/yPd5euC2KGxFrrkh8cnDLBVJtKtfmYBZtQCiXNzGO9OS3qRNWrkoW3U5Q2T7EG
-lFdAyKP2EIOObAkQG3liigsY+cd+CJ/QuRL0imt4yl2IRgPx8OyrTACP7PGUkxiqcYS8nBLHGx6q
-hwx6Vyb8WfcBMJgTae6pgY1zxLVqAtViY1nxYzRnr6uoP7gDGEI7qlPA4crVEGX2/q6Lvtzwwqe2
-PO4EqwLY7xhXSvzKk0Nzon173vBUPBbxgl+vap5c+SXR6M0RZZbmmoybD0fmQ1i43rrMZNCVMVeo
-dRwpc/qDBUdqzuCXsjV8EiEMYcxXJfJcBK33o2XTm3WF9JdQtISPMQyJB65rWZr54aJCoFYgIY5J
-o94t/FGDiYjNtONF48PiC1qxKTeouOrd4kf0bvWmxfCRrSKPvH4gHl4FbDGm4438WlTd0c3Uaan2
-+IFJ8XBMD1G8hxCR0n5AN7+nQADXUOF8w3kZfRuQ20io+hAJLsILtIp/CeBC3G2Jk+d8kIrtLOiP
-eHr5c605nP6iX0+yc4+Ki7r4RUlGAAhZbdop9qU1LDJ5QasBgo88u0kC2P07zyHeKQrBAssioKAh
-hZt4zrgxL/OUOJfF2qH+Z87tjOK9QMCK75sjIrexuOCKXgAyLmzq5QRspgeNG3VOcEpYwYbtFTPT
-95EBrScb0UkWWb8MLgnRzWmw2rgcoTcq4Np0DYmt9aWRzvpgo8OVOCGvGkQ60k9rI5qJtUaMbEZ2
-ZtOspesA6KChiwbMcBukhVNsV64OFSduTX0w5vUvu4bAHQes3avzAXtU0cKYPajXkSwMmWdU9aVD
-wdaIG1odKi4o8dZCbF2HUCFGcVfcBxvzn+osoGWHM7E6l0z6TWXLSFW7V8vSsCsd0Scs42yUuZWs
-zt7m5ZiNyvGRQLdWPl0XGXIf3bLL9dSYDiEXYABAGRZrNScOwmed0fCX1/WGGTp0WEKLRZHyQo5z
-eyTmAZ24dBpb9F3ByY3ZnGU1pI7FRcDVgnd5ej0KQVIeaBauEHFlAhu1RNYC/j30Ypb/pd+TXiA1
-Db/jKTI9vOTSEBqLKFCBqEj1yqVVrI2FkJ+BscH2UOg1m1t+RlVK9MgIlg6cu6ed+SBQsby8cEYf
-DKfoN0PJyVVKZRJvEXFwNvaMRg9HgwH8lcyoy2V7Rh1FHh5eCjpgR6i2L+Z23mN95hxSav/6JsLJ
-Xk1WhuBHLyEu+mFtH+OhrrpKGq7BkKa0UkU69M46FNDmyGrKWLW/1sBEC5OVFe+s2hNx6H7LDH1P
-KZhaBh1rhVxYsZx9EqxhKK5g/CGh3BOFAbHEustwQ45BrM5N3uPPMgArzq0EFZ8WLkR+uRlfADtz
-+2i8v3aeC3M7vfa6ntYLb1gu6FRbugGW1NxRWoYw2RROGXqxBxhvt16AmvcPEY9hx0OG/hZUa4D+
-O7An2db79t1ESA2SZY6FmdMUnCrxOed/KRYnBmMhTLrrZ3e28meW8WysSysfdmsKOe0OUFUS2U0R
-lDNmtsoSuVCLM0AblP5FAmFiizixGawWYNGZlP0Mf3eBrJ77sbrOaS4U7s2SKRMmUN6qKI6t67e/
-52umkQYumzI+2QUpsnmG6KgUgcO9PwdZCCw/nEbUApTYEg9jRrgLiJBXn0w1d+t7dqYD904Vve2I
-YEUowQySFc75zqgGvITerz5FVW+0+xBeEh804MQ5i2DFj7m=
+/**
+ * Represents a web service API model.
+ */
+class Service extends AbstractModel
+{
+    /** @var callable */
+    private $apiProvider;
+
+    /** @var string */
+    private $serviceName;
+
+    /** @var string */
+    private $apiVersion;
+
+    /** @var Operation[] */
+    private $operations = [];
+
+    /** @var array */
+    private $paginators = null;
+
+    /** @var array */
+    private $waiters = null;
+
+    /**
+     * @param array    $definition
+     * @param callable $provider
+     *
+     * @internal param array $definition Service description
+     */
+    public function __construct(array $definition, callable $provider)
+    {
+        static $defaults = [
+            'operations' => [],
+            'shapes'     => [],
+            'metadata'   => []
+        ], $defaultMeta = [
+            'apiVersion'       => null,
+            'serviceFullName'  => null,
+            'serviceId'        => null,
+            'endpointPrefix'   => null,
+            'signingName'      => null,
+            'signatureVersion' => null,
+            'protocol'         => null,
+            'uid'              => null
+        ];
+
+        $definition += $defaults;
+        $definition['metadata'] += $defaultMeta;
+        $this->definition = $definition;
+        $this->apiProvider = $provider;
+        parent::__construct($definition, new ShapeMap($definition['shapes']));
+
+        if (isset($definition['metadata']['serviceIdentifier'])) {
+            $this->serviceName = $this->getServiceName();
+        } else {
+            $this->serviceName = $this->getEndpointPrefix();
+        }
+
+        $this->apiVersion = $this->getApiVersion();
+    }
+
+    /**
+     * Creates a request serializer for the provided API object.
+     *
+     * @param Service $api      API that contains a protocol.
+     * @param string  $endpoint Endpoint to send requests to.
+     *
+     * @return callable
+     * @throws \UnexpectedValueException
+     */
+    public static function createSerializer(Service $api, $endpoint)
+    {
+        static $mapping = [
+            'json'      => 'Aws\Api\Serializer\JsonRpcSerializer',
+            'query'     => 'Aws\Api\Serializer\QuerySerializer',
+            'rest-json' => 'Aws\Api\Serializer\RestJsonSerializer',
+            'rest-xml'  => 'Aws\Api\Serializer\RestXmlSerializer'
+        ];
+
+        $proto = $api->getProtocol();
+
+        if (isset($mapping[$proto])) {
+            return new $mapping[$proto]($api, $endpoint);
+        }
+
+        if ($proto == 'ec2') {
+            return new QuerySerializer($api, $endpoint, new Ec2ParamBuilder());
+        }
+
+        throw new \UnexpectedValueException(
+            'Unknown protocol: ' . $api->getProtocol()
+        );
+    }
+
+    /**
+     * Creates an error parser for the given protocol.
+     *
+     * @param string $protocol Protocol to parse (e.g., query, json, etc.)
+     *
+     * @return callable
+     * @throws \UnexpectedValueException
+     */
+    public static function createErrorParser($protocol)
+    {
+        static $mapping = [
+            'json'      => 'Aws\Api\ErrorParser\JsonRpcErrorParser',
+            'query'     => 'Aws\Api\ErrorParser\XmlErrorParser',
+            'rest-json' => 'Aws\Api\ErrorParser\RestJsonErrorParser',
+            'rest-xml'  => 'Aws\Api\ErrorParser\XmlErrorParser',
+            'ec2'       => 'Aws\Api\ErrorParser\XmlErrorParser'
+        ];
+
+        if (isset($mapping[$protocol])) {
+            return new $mapping[$protocol]();
+        }
+
+        throw new \UnexpectedValueException("Unknown protocol: $protocol");
+    }
+
+    /**
+     * Applies the listeners needed to parse client models.
+     *
+     * @param Service $api API to create a parser for
+     * @return callable
+     * @throws \UnexpectedValueException
+     */
+    public static function createParser(Service $api)
+    {
+        static $mapping = [
+            'json'      => 'Aws\Api\Parser\JsonRpcParser',
+            'query'     => 'Aws\Api\Parser\QueryParser',
+            'rest-json' => 'Aws\Api\Parser\RestJsonParser',
+            'rest-xml'  => 'Aws\Api\Parser\RestXmlParser'
+        ];
+
+        $proto = $api->getProtocol();
+        if (isset($mapping[$proto])) {
+            return new $mapping[$proto]($api);
+        }
+
+        if ($proto == 'ec2') {
+            return new QueryParser($api, null, false);
+        }
+
+        throw new \UnexpectedValueException(
+            'Unknown protocol: ' . $api->getProtocol()
+        );
+    }
+
+    /**
+     * Get the full name of the service
+     *
+     * @return string
+     */
+    public function getServiceFullName()
+    {
+        return $this->definition['metadata']['serviceFullName'];
+    }
+
+    /**
+     * Get the service id
+     *
+     * @return string
+     */
+    public function getServiceId()
+    {
+        return $this->definition['metadata']['serviceId'];
+    }
+
+    /**
+     * Get the API version of the service
+     *
+     * @return string
+     */
+    public function getApiVersion()
+    {
+        return $this->definition['metadata']['apiVersion'];
+    }
+
+    /**
+     * Get the API version of the service
+     *
+     * @return string
+     */
+    public function getEndpointPrefix()
+    {
+        return $this->definition['metadata']['endpointPrefix'];
+    }
+
+    /**
+     * Get the signing name used by the service.
+     *
+     * @return string
+     */
+    public function getSigningName()
+    {
+        return $this->definition['metadata']['signingName']
+            ?: $this->definition['metadata']['endpointPrefix'];
+    }
+
+    /**
+     * Get the service name.
+     *
+     * @return string
+     */
+    public function getServiceName()
+    {
+        return $this->definition['metadata']['serviceIdentifier'];
+    }
+
+    /**
+     * Get the default signature version of the service.
+     *
+     * Note: this method assumes "v4" when not specified in the model.
+     *
+     * @return string
+     */
+    public function getSignatureVersion()
+    {
+        return $this->definition['metadata']['signatureVersion'] ?: 'v4';
+    }
+
+    /**
+     * Get the protocol used by the service.
+     *
+     * @return string
+     */
+    public function getProtocol()
+    {
+        return $this->definition['metadata']['protocol'];
+    }
+
+    /**
+     * Get the uid string used by the service
+     *
+     * @return string
+     */
+    public function getUid()
+    {
+        return $this->definition['metadata']['uid'];
+    }
+
+    /**
+     * Check if the description has a specific operation by name.
+     *
+     * @param string $name Operation to check by name
+     *
+     * @return bool
+     */
+    public function hasOperation($name)
+    {
+        return isset($this['operations'][$name]);
+    }
+
+    /**
+     * Get an operation by name.
+     *
+     * @param string $name Operation to retrieve by name
+     *
+     * @return Operation
+     * @throws \InvalidArgumentException If the operation is not found
+     */
+    public function getOperation($name)
+    {
+        if (!isset($this->operations[$name])) {
+            if (!isset($this->definition['operations'][$name])) {
+                throw new \InvalidArgumentException("Unknown operation: $name");
+            }
+            $this->operations[$name] = new Operation(
+                $this->definition['operations'][$name],
+                $this->shapeMap
+            );
+        }
+
+        return $this->operations[$name];
+    }
+
+    /**
+     * Get all of the operations of the description.
+     *
+     * @return Operation[]
+     */
+    public function getOperations()
+    {
+        $result = [];
+        foreach ($this->definition['operations'] as $name => $definition) {
+            $result[$name] = $this->getOperation($name);
+        }
+
+        return $result;
+    }
+
+    /**
+     * Get all of the service metadata or a specific metadata key value.
+     *
+     * @param string|null $key Key to retrieve or null to retrieve all metadata
+     *
+     * @return mixed Returns the result or null if the key is not found
+     */
+    public function getMetadata($key = null)
+    {
+        if (!$key) {
+            return $this['metadata'];
+        }
+
+        if (isset($this->definition['metadata'][$key])) {
+            return $this->definition['metadata'][$key];
+        }
+
+        return null;
+    }
+
+    /**
+     * Gets an associative array of available paginator configurations where
+     * the key is the name of the paginator, and the value is the paginator
+     * configuration.
+     *
+     * @return array
+     * @unstable The configuration format of paginators may change in the future
+     */
+    public function getPaginators()
+    {
+        if (!isset($this->paginators)) {
+            $res = call_user_func(
+                $this->apiProvider,
+                'paginator',
+                $this->serviceName,
+                $this->apiVersion
+            );
+            $this->paginators = isset($res['pagination'])
+                ? $res['pagination']
+                : [];
+        }
+
+        return $this->paginators;
+    }
+
+    /**
+     * Determines if the service has a paginator by name.
+     *
+     * @param string $name Name of the paginator.
+     *
+     * @return bool
+     */
+    public function hasPaginator($name)
+    {
+        return isset($this->getPaginators()[$name]);
+    }
+
+    /**
+     * Retrieve a paginator by name.
+     *
+     * @param string $name Paginator to retrieve by name. This argument is
+     *                     typically the operation name.
+     * @return array
+     * @throws \UnexpectedValueException if the paginator does not exist.
+     * @unstable The configuration format of paginators may change in the future
+     */
+    public function getPaginatorConfig($name)
+    {
+        static $defaults = [
+            'input_token'  => null,
+            'output_token' => null,
+            'limit_key'    => null,
+            'result_key'   => null,
+            'more_results' => null,
+        ];
+
+        if ($this->hasPaginator($name)) {
+            return $this->paginators[$name] + $defaults;
+        }
+
+        throw new \UnexpectedValueException("There is no {$name} "
+            . "paginator defined for the {$this->serviceName} service.");
+    }
+
+    /**
+     * Gets an associative array of available waiter configurations where the
+     * key is the name of the waiter, and the value is the waiter
+     * configuration.
+     *
+     * @return array
+     */
+    public function getWaiters()
+    {
+        if (!isset($this->waiters)) {
+            $res = call_user_func(
+                $this->apiProvider,
+                'waiter',
+                $this->serviceName,
+                $this->apiVersion
+            );
+            $this->waiters = isset($res['waiters'])
+                ? $res['waiters']
+                : [];
+        }
+
+        return $this->waiters;
+    }
+
+    /**
+     * Determines if the service has a waiter by name.
+     *
+     * @param string $name Name of the waiter.
+     *
+     * @return bool
+     */
+    public function hasWaiter($name)
+    {
+        return isset($this->getWaiters()[$name]);
+    }
+
+    /**
+     * Get a waiter configuration by name.
+     *
+     * @param string $name Name of the waiter by name.
+     *
+     * @return array
+     * @throws \UnexpectedValueException if the waiter does not exist.
+     */
+    public function getWaiterConfig($name)
+    {
+        // Error if the waiter is not defined
+        if ($this->hasWaiter($name)) {
+            return $this->waiters[$name];
+        }
+
+        throw new \UnexpectedValueException("There is no {$name} waiter "
+            . "defined for the {$this->serviceName} service.");
+    }
+
+    /**
+     * Get the shape map used by the API.
+     *
+     * @return ShapeMap
+     */
+    public function getShapeMap()
+    {
+        return $this->shapeMap;
+    }
+}

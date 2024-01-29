@@ -1,67 +1,18 @@
-<?php //ICB0 56:0 71:b06                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cPpGBW1mrq7XJmBuLFpOp2APJUb/hZGR/VTemxeAY7d/9wA/xzmo7JBl6oZUjLrxI0iGR0I5P
-ooraTnJo2KFERN0bKOwndYM7jEUhxIdPGHe2xZAEtdbulhHYQ1XsXHczX5qB/Uzwt6o10FFs5ggf
-jcL+wz9M9kWQxNAqACkVxx1UrXvF+rBZfiWoaa4GQ3wR7F6lGeJMkahh8+XBGrSeSMFW+WlrSUaG
-hH8TqVMTM8FSQ9eMTgLxYgLhYVEQNBorRwU5lVhYxf02/8wULxI9snptqslkK5Pk+Tjz6QUkpvh2
-YTw3GpiJel8bqCy2vkwgrmqshA6KpVBpc0jk+LQM5bqTfkU3A0lEwuYYAXHGiFStJ9SY0Ge9otS1
-DMRk2FlaVvyvHQXGU+WfDnraApW7XZTCVUb+RI2yyIRen2MPBzwX3nY4ksZwWXl1Lx8NrauGQUs/
-oIM3u7df9p+Dt9S+6nHatBu0p4vD3hcc/LuTWD9OlcK6qsFkVetYBSP36FJs+JX4+gbMIO6w+fFI
-H5nLnUC3RKTznqc3QzLW3vdD61dxJz0B5ihqpsl/oL5o4+F+6n1DytlTuATS3yefH1X1OeKAOqqa
-y2b+U58EDEb8ZFhn23eOZ2yreU828y9vnwErhtS+QI4L1tTJ7Kl/qPcCp2b82Te//dEufKsw0dPH
-ImXtlaqmoJLaRUfUzntLDXhk31oV1S88JD7wy0r8gviwJUZf5IA6PEaxb9tr5ABk1/Y49+mWNTdA
-RxM6pwB2VzNam5V8VSWprDFg/PHERto40Ml4RWXG5iY5s6bhMiK+am3LbKQNswZvMt2kJFLKDs3M
-mKGrv/bULtV0ZYG2PM6DHw0LE+eRFsnQPEw3STSsVaIMT4DIxBGhmZPqTmsCve9D1I/RtsyqCxxP
-+/Rws0intXn053gLeZQO0ZGMMAhDjU6xqpExV2mB8A9dRzo8a4kixKQ0RNJF0w5AIW7dn2Pmkl7O
-iA+XJZ4b6LL49huvRJYjE2cQaRaioqhQ1v/0BPDmSxQpSdG6fUGegPoPewI0lSTvmDOTdND446/S
-/KXndmfdE0MoAnjetDfWGC1gshBj9NpOrsCCBkryzhSrECo5tEuOgd684AG6N/ex5XKb8QBSVoE9
-i0j3P6Wr1eDX73XTkZTUGPHmkSKVWomL7cswTNEaLka9uXKXm54snCJrhzH3tELIimDUdJDck7YR
-El2Z5RRi2ylDIpCQPMiLJFNIBS+pbRaTxZdEL+T/XhH0BBoUzp1jurCWUsVZVcpWOR2C6ko5tWWW
-xrTUyeoie73IQUwYQdJ5ikNy4wHhW9DK4ysw2Nlc5906cRF7hPnwuftIJzj26BvHEo4tQhqMGYWA
-7LsFeiCF4FPqdqlpXuA91AJKMzMT63ifAr1AHWGgJmvxdb07NfWsGSLg3X3LV+jluDqZq7rPU4/U
-1jQqc3LYYTJIOU4q1Nn8gfOhl2kcVT7cem6W5nHf2Xf3dc9KR2pwMJkYmBGkNMEAAnT0X1A3J0aj
-CUhdkgSj0SWrAi4tZUjKMlnIN8VH/sdW/Wnh5cS+cvPhGAMF7t3npVDYVXJ4dVrDW6aTE5kIGg4F
-UY8qP5ZHnrYvXOI0Rq4sgmjBVmzfrLxKm9f0J7Na8F1sQk/l5T+WA+FbuMh944Osk2lVJQ2oD4fO
-+k7AOVxHoI+2Hg/VBFIDdw9EpnGW53sVRA4O+lUA73a1Imj9VyR7MfzX+mRyLC2BZr8Mj2ngDyed
-hby9p8mXW+TudLepuSWnHcurzAMsj+WIRCGZo1R8Os/MM7NAnYPnbnZvGJFZO1L8gSRdP6hesY0j
-II/5wiWTpWIRmtgXCUdPBy8Y0Fz28FbDEJg4/KqY/Iufz3vWNlZ9bxjZogNpNHhFIHqMD3v0x/He
-/Hmow7+uiIjoBskYepr6P1i==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+namespace League\Flysystem;
 
-?>
-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
+use SplFileInfo;
+
+class UnreadableFileException extends Exception
+{
+    public static function forFileInfo(SplFileInfo $fileInfo)
+    {
+        return new static(
+            sprintf(
+                'Unreadable file encountered: %s',
+                $fileInfo->getRealPath()
+            )
+        );
+    }
+}

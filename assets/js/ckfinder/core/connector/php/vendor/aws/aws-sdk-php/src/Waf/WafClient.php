@@ -1,48 +1,148 @@
-<?php //ICB0 56:0 71:869                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\Waf;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cPwQXquUwToYeGnf6f6xsT/hciZB/f48XKj1tFfmWizjW75rfO5itsA9NmVyvMs+RneQT6OV4
-2UWBO5z26zzy8Yx3UNEf5ol++5D+zHs9/xNFQH3kBC2co9ooykwksMcPDa8w0TVSx0OMZTn+MlYm
-Sz1NgavIeBATPDke/LRK9D7L32EQiQICmZlzRH7c9pWiPyIWG3IqCPnGtCmDN0gFUvR32lgpL3Ro
-UQ/Bleg1UNL8C+TLeAKgqoCk2+GJfns8QMOVgEwG0loEdbUqYTiSzzDhxb3+R38xV0CpTcXf1GnM
-YStEIE9ImMXgz1cKut4lWxSPB1swDAiuVBsxm+Q+3EOKf0DyY/AAmzkmkaw4p0L+4wrGB/kII9sc
-E+284V3XJO0H9fg0LcylpKPcoYEdNzq74ZXCEJD0/OzJzxIZSDajJ5gANfw3qhdgkG9xW9lQlAvr
-bnX1ZYUxxyPhYrHdLOV3lxUt7KLhw8++OLJtoZiP9ILr+FqJwPYF4pKrrX/xzsi99orH+Yxrzntt
-fHOLiZgquK2FsA9WFg57QqoZuK2e2oq2Euy88JlNrvmWV9iWvoKNEB6ugkAyVJhHHAAsJQMZtmwr
-jzjNYB9975Y9XzR2wAEh7FuO8ENhzwNJ8zf5Fe8elCiGF+CV/zy/Bbx2eKCsFr8A4peJmm92+mlB
-4u9kMsWos4ZV0O80kpr9T/ye2jg0kY8ZYnKFjwgU8kHRAzLtsVi2+rAx2AaZKEi4zSqfr6pSWn+7
-1IrGay0iruf67j93Q9qofnX4J+fgxsZtxQHKW/uXSnJTCPnKJjYJtxWpEEQoO9UTDa8C2abTRBN9
-vwtx2OrhCHN7Y6UMoM6xsfgt8dB0zCoEtFsW3+xJScVuckZ1thq3Y8dYTLV5+m9e9ps5tc0cRRQX
-SEEYYvr0SlUEsOjUNQpNUmIi59LKNeDlJ+NefKOmGdHivC7gscAE+Ao+V3u+mAuLDqhoc4oEZLvo
-g124PJhAj3QGoJSnGAfu6Vd/ZhJQRoeTu3VZcmUsIrReL94B3r2WsuQJHKyRZrAueal6bk7xxjeN
-ObCZ63vXSt01o655nrJ+DcmnwM7VzAWhfMqY1OeKMAW7AHzcDkpnoO2qH1gZYzk9IM/kix0do78C
-IANVj1RPsB5cfDIzB3qjabmhdfOrYaYqEj3AI6feg2uUkpuPIrFnbd9KB0VBd8zBb/1+BhUTehhy
-/W66UNpcOWzUfjf0pVPXmAv3DPR0JfkYUsTdM5WPjXbXj2a==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use Aws\AwsClient;
 
-?>
-HR+cPm2XLlYGTAl/MMqPmziwXq46y/zkTCcv2i9MwD1Z7/4a+ZUc+cdJVEWMzzhtuKX5E9tiw0/B
-vH3pnwWx2STHFhajiLIj00vNrg5pq+VyIKHyMS7iQjg4HEyVX1Cn/ajMimwAMzPy5cgEL7K3ppAy
-p4g0OLFr0comfd2vpCDeYzTo8fmmS1cK6pfYACQ/HNP7RLd7yOfwf57NLQjg/ZTUOmyTfwsVnOsY
-PqqnbUzA6g80FTYucpkvKcskBiFZjpwTZyiMMfQCiXVt9JsiVp1S6WJbXmG1QgopGA4tMzAQ1x2R
-aAHtGgLRSSUSb4+RTYg1rVg26CXwvuWc4KoOyxW/pzrukQOkX+MXh7SFQ6zJ/54q/c1NhcYwxkEC
-6htmUjJyemFEQFys75IzZernjBf4dwnhBddzFgipQfQECw1qNpeeaKguim88rzT+fs2xN8VulLxP
-dom+iXQvkDDwetkUCpjzKbJx9kpbQCwc1CbyiS1dSvcdCPgAK0gezL4s36P3/Lu2NLh/gicm3aI2
-+5XPCNjANQcdvsPnUyyvQJZ4ncewvMQgj2Re7n6sIogRsY00teye49MfgJh2YQs4h28tg6q3i5gd
-WUyTau8c0vJYriUKDOBokhMoMBOA0MCT+6aH7SV/6F1mqCe//wF0j9F5r/XW6McTZn2TDsg9eW13
-ui0l54QIorks2D6lMgtRZETBSamA7QhO5ZYjyf61lPgTHT/hMZh7tofNewepIW7fT6lxIkT7bozf
-lEcAVw0P8nHka3N2JrZWVtHvq4++W0gIZd4apYLYURqb8tW9WhoHRIj86lIUk/ebZkkaYW+rEj7U
-eRMb2W0uWS2FwUr4Rj7LnSn91aYsN/9UW3zd6++QElXP9C9hEHOv2VCL7kw6d3LG78B2KVHnFzhU
-nZ9ewxN239A2gpTN7REcULMQhzXQcqxJo3Mx07I2pEeqZ4Ls7pqIM6GbUTye2/kGXr7csdJH9wfp
-TCmtjgge/aFu+vlrCbYibbWJSkKkd5FOOslLizzmAURqNAp0WcNVKn+wg4Tay5yJVALI3RVSklQz
-QFOwyErWikUjbz2lEDzevuP/u8al46d2NiZuBmZE+7eKYo6ftSwPi+zJAHMvLeWvqq0PCq0VtXX0
-ZVD5mv5bQjdRmq0YhnNOMlM6t3OuscbbwT+U7f/FXGcCnGBok5DgZ2eTXLTeksF5o+Ze7d7PnV7H
-Kt40RPsKh2pPna1zwsnyExFcHiYgnf16VZDLHi5rJMh8qZ/vXCXGnjCr5K8o/b5Aw6VKCMZ60Tw9
-EzDmM0xJx6eDJp/uVlVrdZPfdPaZDhInp03RWKEmfOctGG==
+/**
+ * This client is used to interact with the **AWS WAF** service.
+ *
+ * @method \Aws\Result createByteMatchSet(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createByteMatchSetAsync(array $args = [])
+ * @method \Aws\Result createGeoMatchSet(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createGeoMatchSetAsync(array $args = [])
+ * @method \Aws\Result createIPSet(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createIPSetAsync(array $args = [])
+ * @method \Aws\Result createRateBasedRule(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createRateBasedRuleAsync(array $args = [])
+ * @method \Aws\Result createRegexMatchSet(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createRegexMatchSetAsync(array $args = [])
+ * @method \Aws\Result createRegexPatternSet(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createRegexPatternSetAsync(array $args = [])
+ * @method \Aws\Result createRule(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createRuleAsync(array $args = [])
+ * @method \Aws\Result createRuleGroup(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createRuleGroupAsync(array $args = [])
+ * @method \Aws\Result createSizeConstraintSet(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createSizeConstraintSetAsync(array $args = [])
+ * @method \Aws\Result createSqlInjectionMatchSet(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createSqlInjectionMatchSetAsync(array $args = [])
+ * @method \Aws\Result createWebACL(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createWebACLAsync(array $args = [])
+ * @method \Aws\Result createXssMatchSet(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createXssMatchSetAsync(array $args = [])
+ * @method \Aws\Result deleteByteMatchSet(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteByteMatchSetAsync(array $args = [])
+ * @method \Aws\Result deleteGeoMatchSet(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteGeoMatchSetAsync(array $args = [])
+ * @method \Aws\Result deleteIPSet(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteIPSetAsync(array $args = [])
+ * @method \Aws\Result deletePermissionPolicy(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deletePermissionPolicyAsync(array $args = [])
+ * @method \Aws\Result deleteRateBasedRule(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteRateBasedRuleAsync(array $args = [])
+ * @method \Aws\Result deleteRegexMatchSet(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteRegexMatchSetAsync(array $args = [])
+ * @method \Aws\Result deleteRegexPatternSet(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteRegexPatternSetAsync(array $args = [])
+ * @method \Aws\Result deleteRule(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteRuleAsync(array $args = [])
+ * @method \Aws\Result deleteRuleGroup(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteRuleGroupAsync(array $args = [])
+ * @method \Aws\Result deleteSizeConstraintSet(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteSizeConstraintSetAsync(array $args = [])
+ * @method \Aws\Result deleteSqlInjectionMatchSet(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteSqlInjectionMatchSetAsync(array $args = [])
+ * @method \Aws\Result deleteWebACL(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteWebACLAsync(array $args = [])
+ * @method \Aws\Result deleteXssMatchSet(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteXssMatchSetAsync(array $args = [])
+ * @method \Aws\Result getByteMatchSet(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getByteMatchSetAsync(array $args = [])
+ * @method \Aws\Result getChangeToken(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getChangeTokenAsync(array $args = [])
+ * @method \Aws\Result getChangeTokenStatus(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getChangeTokenStatusAsync(array $args = [])
+ * @method \Aws\Result getGeoMatchSet(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getGeoMatchSetAsync(array $args = [])
+ * @method \Aws\Result getIPSet(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getIPSetAsync(array $args = [])
+ * @method \Aws\Result getPermissionPolicy(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getPermissionPolicyAsync(array $args = [])
+ * @method \Aws\Result getRateBasedRule(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getRateBasedRuleAsync(array $args = [])
+ * @method \Aws\Result getRateBasedRuleManagedKeys(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getRateBasedRuleManagedKeysAsync(array $args = [])
+ * @method \Aws\Result getRegexMatchSet(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getRegexMatchSetAsync(array $args = [])
+ * @method \Aws\Result getRegexPatternSet(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getRegexPatternSetAsync(array $args = [])
+ * @method \Aws\Result getRule(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getRuleAsync(array $args = [])
+ * @method \Aws\Result getRuleGroup(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getRuleGroupAsync(array $args = [])
+ * @method \Aws\Result getSampledRequests(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getSampledRequestsAsync(array $args = [])
+ * @method \Aws\Result getSizeConstraintSet(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getSizeConstraintSetAsync(array $args = [])
+ * @method \Aws\Result getSqlInjectionMatchSet(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getSqlInjectionMatchSetAsync(array $args = [])
+ * @method \Aws\Result getWebACL(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getWebACLAsync(array $args = [])
+ * @method \Aws\Result getXssMatchSet(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getXssMatchSetAsync(array $args = [])
+ * @method \Aws\Result listActivatedRulesInRuleGroup(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listActivatedRulesInRuleGroupAsync(array $args = [])
+ * @method \Aws\Result listByteMatchSets(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listByteMatchSetsAsync(array $args = [])
+ * @method \Aws\Result listGeoMatchSets(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listGeoMatchSetsAsync(array $args = [])
+ * @method \Aws\Result listIPSets(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listIPSetsAsync(array $args = [])
+ * @method \Aws\Result listRateBasedRules(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listRateBasedRulesAsync(array $args = [])
+ * @method \Aws\Result listRegexMatchSets(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listRegexMatchSetsAsync(array $args = [])
+ * @method \Aws\Result listRegexPatternSets(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listRegexPatternSetsAsync(array $args = [])
+ * @method \Aws\Result listRuleGroups(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listRuleGroupsAsync(array $args = [])
+ * @method \Aws\Result listRules(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listRulesAsync(array $args = [])
+ * @method \Aws\Result listSizeConstraintSets(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listSizeConstraintSetsAsync(array $args = [])
+ * @method \Aws\Result listSqlInjectionMatchSets(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listSqlInjectionMatchSetsAsync(array $args = [])
+ * @method \Aws\Result listSubscribedRuleGroups(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listSubscribedRuleGroupsAsync(array $args = [])
+ * @method \Aws\Result listWebACLs(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listWebACLsAsync(array $args = [])
+ * @method \Aws\Result listXssMatchSets(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listXssMatchSetsAsync(array $args = [])
+ * @method \Aws\Result putPermissionPolicy(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise putPermissionPolicyAsync(array $args = [])
+ * @method \Aws\Result updateByteMatchSet(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateByteMatchSetAsync(array $args = [])
+ * @method \Aws\Result updateGeoMatchSet(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateGeoMatchSetAsync(array $args = [])
+ * @method \Aws\Result updateIPSet(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateIPSetAsync(array $args = [])
+ * @method \Aws\Result updateRateBasedRule(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateRateBasedRuleAsync(array $args = [])
+ * @method \Aws\Result updateRegexMatchSet(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateRegexMatchSetAsync(array $args = [])
+ * @method \Aws\Result updateRegexPatternSet(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateRegexPatternSetAsync(array $args = [])
+ * @method \Aws\Result updateRule(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateRuleAsync(array $args = [])
+ * @method \Aws\Result updateRuleGroup(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateRuleGroupAsync(array $args = [])
+ * @method \Aws\Result updateSizeConstraintSet(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateSizeConstraintSetAsync(array $args = [])
+ * @method \Aws\Result updateSqlInjectionMatchSet(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateSqlInjectionMatchSetAsync(array $args = [])
+ * @method \Aws\Result updateWebACL(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateWebACLAsync(array $args = [])
+ * @method \Aws\Result updateXssMatchSet(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateXssMatchSetAsync(array $args = [])
+ */
+class WafClient extends AwsClient {}

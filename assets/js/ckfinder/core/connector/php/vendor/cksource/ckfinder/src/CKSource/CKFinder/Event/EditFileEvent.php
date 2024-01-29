@@ -1,86 +1,89 @@
-<?php //ICB0 56:0 71:ddb                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/*
+ * CKFinder
+ * ========
+ * https://ckeditor.com/ckeditor-4/ckfinder/
+ * Copyright (c) 2007-2018, CKSource - Frederico Knabben. All rights reserved.
+ *
+ * The software, this file and its contents are subject to the CKFinder
+ * License. Please read the license.txt file before using, installing, copying,
+ * modifying or distribute this file or part of its contents. The contents of
+ * this file is part of the Source Code of CKFinder.
+ */
 
-?>
-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
+namespace CKSource\CKFinder\Event;
+
+use CKSource\CKFinder\CKFinder;
+use CKSource\CKFinder\Filesystem\File\EditedFile;
+
+/**
+ * The EditFileEvent event class.
+ */
+class EditFileEvent extends CKFinderEvent
+{
+    /**
+     * @var EditedFile $uploadedFile
+     */
+    protected $editedFile;
+
+    /**
+     * @var string $newContents
+     */
+    protected $newContents;
+
+    /**
+     * Constructor.
+     *
+     * @param CKFinder   $app
+     * @param EditedFile $editedFile
+     */
+    public function __construct(CKFinder $app, EditedFile $editedFile)
+    {
+        $this->editedFile = $editedFile;
+
+        parent::__construct($app);
+    }
+
+    /**
+     * Returns the edited file object.
+     *
+     * @return EditedFile
+     *
+     * @deprecated Please use getFile() instead.
+     */
+    public function getEditedFile()
+    {
+        return $this->editedFile;
+    }
+
+    /**
+     * Returns the edited file object.
+     *
+     * @return EditedFile
+     */
+    public function getFile()
+    {
+        return $this->editedFile;
+    }
+
+    /**
+     * Returns new contents of the edited file.
+     *
+     * @return string
+     */
+    public function getNewContents()
+    {
+        return $this->editedFile->getNewContents();
+    }
+
+    /**
+     * Sets new contents for the edited file.
+     *
+     * @param string $newContents
+     */
+    public function setNewContents($newContents)
+    {
+        $this->editedFile->setNewContents($newContents);
+    }
+}

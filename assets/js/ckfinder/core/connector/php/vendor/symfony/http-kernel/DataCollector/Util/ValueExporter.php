@@ -1,59 +1,89 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
+/*
+ * This file is part of the Symfony package.
+ *
+ * (c) Fabien Potencier <fabien@symfony.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+namespace Symfony\Component\HttpKernel\DataCollector\Util;
+
+/**
+ * @author Bernhard Schussek <bschussek@gmail.com>
+ */
+class ValueExporter
+{
+    /**
+     * Converts a PHP value to a string.
+     *
+     * @param mixed $value The PHP value
+     * @param int   $depth Only for internal usage
+     * @param bool  $deep  Only for internal usage
+     *
+     * @return string The string representation of the given value
+     */
+    public function exportValue($value, $depth = 1, $deep = false)
+    {
+        if ($value instanceof \__PHP_Incomplete_Class) {
+            return sprintf('__PHP_Incomplete_Class(%s)', $this->getClassNameFromIncomplete($value));
+        }
+
+        if (is_object($value)) {
+            if ($value instanceof \DateTime || $value instanceof \DateTimeInterface) {
+                return sprintf('Object(%s) - %s', get_class($value), $value->format(\DateTime::ATOM));
+            }
+
+            return sprintf('Object(%s)', get_class($value));
+        }
+
+        if (is_array($value)) {
+            if (empty($value)) {
+                return '[]';
+            }
+
+            $indent = str_repeat('  ', $depth);
+
+            $a = array();
+            foreach ($value as $k => $v) {
+                if (is_array($v)) {
+                    $deep = true;
+                }
+                $a[] = sprintf('%s => %s', $k, $this->exportValue($v, $depth + 1, $deep));
+            }
+
+            if ($deep) {
+                return sprintf("[\n%s%s\n%s]", $indent, implode(sprintf(", \n%s", $indent), $a), str_repeat('  ', $depth - 1));
+            }
+
+            return sprintf('[%s]', implode(', ', $a));
+        }
+
+        if (is_resource($value)) {
+            return sprintf('Resource(%s#%d)', get_resource_type($value), $value);
+        }
+
+        if (null === $value) {
+            return 'null';
+        }
+
+        if (false === $value) {
+            return 'false';
+        }
+
+        if (true === $value) {
+            return 'true';
+        }
+
+        return (string) $value;
+    }
+
+    private function getClassNameFromIncomplete(\__PHP_Incomplete_Class $value)
+    {
+        $array = new \ArrayObject($value);
+
+        return $array['__PHP_Incomplete_Class_Name'];
+    }
+}

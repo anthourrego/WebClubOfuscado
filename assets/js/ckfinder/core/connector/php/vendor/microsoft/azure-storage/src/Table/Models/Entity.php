@@ -1,210 +1,289 @@
-<?php //ICB0 56:0 71:1f55                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Table\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+ 
+namespace MicrosoftAzure\Storage\Table\Models;
 
-?>
-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
+use MicrosoftAzure\Storage\Common\Internal\Utilities;
+use MicrosoftAzure\Storage\Common\Internal\Resources;
+use MicrosoftAzure\Storage\Common\Internal\Validate;
+
+/**
+ * Represents entity object used in tables
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Table\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+class Entity
+{
+    private $_etag;
+    private $_properties;
+    
+    /**
+     * Validates if properties is valid or not.
+     *
+     * @param mixed $properties The properties array.
+     *
+     * @return void
+     */
+    private function _validateProperties($properties)
+    {
+        Validate::isArray($properties, 'entity properties');
+        
+        foreach ($properties as $key => $value) {
+            Validate::canCastAsString($key, 'key');
+            Validate::isTrue(
+                $value instanceof Property,
+                Resources::INVALID_PROP_MSG
+            );
+            Validate::isTrue(
+                EdmType::validateEdmValue(
+                    $value->getEdmType(),
+                    $value->getValue(),
+                    $condition
+                ),
+                sprintf(Resources::INVALID_PROP_VAL_MSG, $key, $condition)
+            );
+        }
+    }
+    
+    /**
+     * Gets property value and if the property name is not found return null.
+     *
+     * @param string $name The property name.
+     *
+     * @return mixed
+     */
+    public function getPropertyValue($name)
+    {
+        $p = Utilities::tryGetValue($this->_properties, $name);
+        return is_null($p) ? null : $p->getValue();
+    }
+    
+    /**
+     * Sets property value.
+     *
+     * Note that if the property doesn't exist, it doesn't add it. Use addProperty
+     * to add new properties.
+     *
+     * @param string $name  The property name.
+     * @param mixed  $value The property value.
+     *
+     * @return mixed
+     */
+    public function setPropertyValue($name, $value)
+    {
+        $p = Utilities::tryGetValue($this->_properties, $name);
+        if (!is_null($p)) {
+            $p->setValue($value);
+        }
+    }
+    
+    /**
+     * Gets entity etag.
+     *
+     * @return string
+     */
+    public function getETag()
+    {
+        return $this->_etag;
+    }
+
+    /**
+     * Sets entity etag.
+     *
+     * @param string $etag The entity ETag value.
+     *
+     * @return void
+     */
+    public function setETag($etag)
+    {
+        $this->_etag = $etag;
+    }
+    
+    /**
+     * Gets entity PartitionKey.
+     *
+     * @return string
+     */
+    public function getPartitionKey()
+    {
+        return $this->getPropertyValue('PartitionKey');
+    }
+
+    /**
+     * Sets entity PartitionKey.
+     *
+     * @param string $partitionKey The entity PartitionKey value.
+     *
+     * @return void
+     */
+    public function setPartitionKey($partitionKey)
+    {
+        $this->addProperty('PartitionKey', EdmType::STRING, $partitionKey);
+    }
+    
+    /**
+     * Gets entity RowKey.
+     *
+     * @return string
+     */
+    public function getRowKey()
+    {
+        return $this->getPropertyValue('RowKey');
+    }
+
+    /**
+     * Sets entity RowKey.
+     *
+     * @param string $rowKey The entity RowKey value.
+     *
+     * @return void
+     */
+    public function setRowKey($rowKey)
+    {
+        $this->addProperty('RowKey', EdmType::STRING, $rowKey);
+    }
+    
+    /**
+     * Gets entity Timestamp.
+     *
+     * @return \DateTime
+     */
+    public function getTimestamp()
+    {
+        return $this->getPropertyValue('Timestamp');
+    }
+
+    /**
+     * Sets entity Timestamp.
+     *
+     * @param \DateTime $timestamp The entity Timestamp value.
+     *
+     * @return void
+     */
+    public function setTimestamp(\DateTime $timestamp)
+    {
+        $this->addProperty('Timestamp', EdmType::DATETIME, $timestamp);
+    }
+    
+    /**
+     * Gets the entity properties array.
+     *
+     * @return array
+     */
+    public function getProperties()
+    {
+        return $this->_properties;
+    }
+    
+    /**
+     * Sets the entity properties array.
+     *
+     * @param array $properties The entity properties.
+     *
+     * @return void
+     */
+    public function setProperties(array $properties)
+    {
+        $this->_validateProperties($properties);
+        $this->_properties = $properties;
+    }
+    
+    /**
+     * Gets property object from the entity properties.
+     *
+     * @param string $name The property name.
+     *
+     * @return Property
+     */
+    public function getProperty($name)
+    {
+        return Utilities::tryGetValue($this->_properties, $name);
+    }
+    
+    /**
+     * Sets entity property.
+     *
+     * @param string   $name     The property name.
+     * @param Property $property The property object.
+     *
+     * @return void
+     */
+    public function setProperty($name, $property)
+    {
+        Validate::isTrue($property instanceof Property, Resources::INVALID_PROP_MSG);
+        $this->_properties[$name] = $property;
+    }
+    
+    /**
+     * Creates new entity property.
+     *
+     * @param string $name     The property name.
+     * @param string $edmType  The property edm type.
+     * @param mixed  $value    The property value.
+     * @param string $rawValue The raw value of the property.
+     */
+    public function addProperty($name, $edmType, $value, $rawValue = '')
+    {
+        $p = new Property();
+        $p->setEdmType($edmType);
+        $p->setValue($value);
+        $p->setRawValue($rawValue);
+        $this->setProperty($name, $p);
+    }
+    
+    /**
+     * Checks if the entity object is valid or not.
+     * Valid means the partition and row key exists for this entity along with the
+     * timestamp.
+     *
+     * @param string &$msg The error message.
+     *
+     * @internal
+     *
+     * @return boolean
+     */
+    public function isValid(&$msg = null)
+    {
+        try {
+            $this->_validateProperties($this->_properties);
+        } catch (\Exception $exc) {
+            $msg = $exc->getMessage();
+            return false;
+        }
+
+        if (is_null($this->getPartitionKey())
+            || is_null($this->getRowKey())
+        ) {
+            $msg = Resources::NULL_TABLE_KEY_MSG;
+            return false;
+        } else {
+            return true;
+        }
+    }
+}

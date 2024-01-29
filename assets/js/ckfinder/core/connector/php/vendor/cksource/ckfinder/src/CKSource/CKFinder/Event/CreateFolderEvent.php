@@ -1,82 +1,83 @@
-<?php //ICB0 56:0 71:d51                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/*
+ * CKFinder
+ * ========
+ * https://ckeditor.com/ckeditor-4/ckfinder/
+ * Copyright (c) 2007-2018, CKSource - Frederico Knabben. All rights reserved.
+ *
+ * The software, this file and its contents are subject to the CKFinder
+ * License. Please read the license.txt file before using, installing, copying,
+ * modifying or distribute this file or part of its contents. The contents of
+ * this file is part of the Source Code of CKFinder.
+ */
 
-?>
-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
+namespace CKSource\CKFinder\Event;
+
+use CKSource\CKFinder\CKFinder;
+use CKSource\CKFinder\Filesystem\Folder\WorkingFolder;
+
+/**
+ * The CreateFolderEvent event class.
+ */
+class CreateFolderEvent extends CKFinderEvent
+{
+    /**
+     * The working folder where the new folder is going to be created.
+     *
+     * @var WorkingFolder $workingFolder
+     */
+    protected $workingFolder;
+
+    /**
+     * The new folder name.
+     *
+     * @var string
+     */
+    protected $newFolderName;
+
+    /**
+     * Constructor.
+     *
+     * @param CKFinder      $app
+     * @param WorkingFolder $workingFolder
+     * @param string        $newFolderName
+     */
+    public function __construct(CKFinder $app, WorkingFolder $workingFolder, $newFolderName)
+    {
+        $this->workingFolder = $workingFolder;
+        $this->newFolderName = $newFolderName;
+
+        parent::__construct($app);
+    }
+
+    /**
+     * Returns the working folder where the new folder is going to be created.
+     *
+     * @return WorkingFolder
+     */
+    public function getWorkingFolder()
+    {
+        return $this->workingFolder;
+    }
+
+    /**
+     * Returns the name of the new folder.
+     *
+     * @return string
+     */
+    public function getNewFolderName()
+    {
+        return $this->newFolderName;
+    }
+
+    /**
+     * Sets the name for the new folder.
+     *
+     * @param string $newFolderName
+     */
+    public function setNewFolderName($newFolderName)
+    {
+        $this->newFolderName = $newFolderName;
+    }
+}

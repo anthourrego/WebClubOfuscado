@@ -1,112 +1,75 @@
-<?php //ICB0 56:0 71:116f                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\S3;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use Aws\CommandInterface;
+use Psr\Http\Message\RequestInterface;
 
-?>
-HR+cPz3EbeGi46khANu3frEAtXMekq52EOaQxfEupfER+UmZgPqKDp1n9PxGVQz2m+Rum5b8dazQ
-p8xDULQTJZPyH3DFbcvBxr8lbcJIMtZK2YjGWuiiMfDSHX5GZlTwYWkyrDSNhq0RsPKClDnOdtcY
-gvqc3oIQQd3KhEuH0lTmPUiqd05hsbtRPfMTHRmSGhMQzGHEWv7YvBpEb6xENJjNXpBBUtc+hgL/
-mvc+ps00sDOjdYoYCwAWkVWeh4v1WJdVcWs6beoo5/SbFQn/C5mQ1EM71EncSd2rteMjSnAbbTEK
-Dd014ykQ0XaNJfyiLxPz6IETG5KMUs2147jIagbaHjh6Y9VowOmJJp/vQUWt7KezuDqI1U6CDmlE
-0AVUezm4kfRAIzpgGXxi5dBcZjocrRvoDdCL3MP2vIiqWnJVXsrbOoNObJia+TWjrb+fovlg3Jbv
-YHT4zUAJqdm9vpjE4umVDgkh38xj8gcAREoALJQJU7ubpDtcyp2PBtZ28ADLpLcof0QA5RoNW1sD
-zL9Uez5pu9zo6Zbdy5g/MLvSVAW1gJ5CtXbn9CiXZw1dVmMM1NU0dSKA7i5nAK7mZCIaeDDoN6XJ
-eM0Z1V+1RIWPFY+huzekB4wju2lhOZ5ryY4nr+pep251HbKfxulm8X39/MGAcGaP3CMBdHnpVNnT
-+giKXEQMAP1xOF2bRIQEqYLNVu4U4gcZws1FQZuoH1axIOeftl1DUGxz03ZDLftr3C2p4hFuqgZj
-vljQezeCvGmKhHgqfdleLGp6n6NTtNGSXobM8xZf2qWMno4rS8rdNYnYwNqUH0yX2ROJlzXaWdyj
-PZgJQlZVVEIW0w0dmjb5iGfTzmgq7t4Uv+IGcIDpSy3EgLmu+t3oJR1MjPhmunKrtZbONUKHSclA
-FGTN5BEk7GyeJa7M2Gd3aArRDJLe2jf99cZvDKwpalKx2n+Wb9yFFPnrdEqL1nDRN3V0pd9gCU7e
-wyJACK39ml0athlXVv32NF/+l2eLGA0nQ6fq3cmZduOBpJ/iUC5+aSFHJA21A+rfQIREZY63Y9g6
-OtoYhnvP1PujV9z/OwwInitQxzykrE5YEurfDiVNAx109+qD/Epd1VwJ3J+0JL/qr1Fe9oNLXa1k
-LyJ5okeERdrqHDsKKIucb5sXkpHJCy413HmD9kWaqSEdfKgAJ1xGVpJJ9xk/XbB1nGrxM5y0rYM7
-1MUgSCsafmLO+ILl2HTZzPjdkxiY9l4G9icaOZEXdASCwlkGmbhBOsHQui/TvvRhv2A1eKU23tUX
-9vG8yurqiLOYeO7kLcZIRju7Pk+jHCHNud0/FgXKSxKPjxIigzUISbJIySX6/tLvlBpbg8sZJBeE
-6A9MptzjxUz18xaN26hXQQKbP02M/0qWBil55FWibDgtCjFZR3PseY3xpAztTWH0D44j+oEzvT8C
-CGkfgAdhVOLTsC2HKaMdOkWu6aLv1qHTWflRie5HF/b8XZKlscD+rfUkOk7iVQvrOIWKGXgeZJMn
-w6tiz3ARrUCgQpfqmb82nXwSShv3CPq8lRbbEAcZ/eMPpIRSW+73mgK3pHcJ9ps1Ap7vLfxjGm2a
-KtqOpgQC6yiGN7cNkl2ag6AmcRj+7pXRioRq/4zlEMd2mJDg5vkmc9nRK2pb8aAmkc52QFjv26uv
-0j4Y6uppe39bqZ8iVE1n5YeeHCYq4J1+Kic/O8xr66hRSZcXEwZFmujTJJOQRi1cXFeRRucfQQV/
-lehqNtZsiKCLPtPJ2AInCQsMKTt/aa9LCxzsm5m5AxCmLxw1SNCTLQXL6tCBR970M8k4BjNFnFuS
-cvaRdLzSaMFnIUongbQSIFmBPXTcjNZu46lAYWjSZ4709QLtJfzuHUMVfMxrmJztWYX92zPrO4Wz
-gd+TJ16EHNPENEUVgnKE1A0js9/J8AKpx5HiEwsLU09EQD0Fy4iusKvJAFCOuOTT9PNjIpqThiwz
-TsbsP8wpqc7s8VEnq/qJjj7KGwEq6JtILk+e9T6T5gTz+NwkfZsMm+adPERkJOEoVcvaQ2etMl+l
-eAGVzMwY14WBRUtEJV8NcvqPAp3T1F5SEWczTHRRO9laTmNJiCFvvjNtd3f0xDSiSP7SxVoCwkLu
-bY/Od/eNHtCxsqxFaa1yQb3dlt3gGIWgvfkInC3ZOPqVu+Lo9eVzn3BDCpr4oDuIRpyeaX85/oji
-DWAFDmRDpPtl3iWZ03hlSRZvoVdqTff/n63s3RyiREJZrpstClozusPjtqZcDzsKOrMGyWlcahuo
-SIty1qHh/AXEYrDWbeSOmzoJs42kZWP6mbY8a1KsmuqvyVBHxMLV9zfu4MSrT+TJ1YatN8Ehysa4
-cjZ1hDcYJq7ngTwAw1txeU5O1oSkhBYkVYXl/q/A9OC6dadE+X6kV1NCJ4D0snXBztNx+QJF6lWD
-5VtyDKQQVSBqPYaDje9400tHplJnnrBzIaGD7Q9A1YEJmwvU4W9STfktpoXS7vJ/WhQkHlMFrTuN
-MLWqlx4xfSo7ZMxmye4kQz/f4ejeVVBXOha1+WYpbIFbdE4Da2dIHxJf2I54KohKwQlj+2hZROGp
-xq2kgKAFslNMHVC+487gQdMZ4/kbaANcFhc9vU3hyAfhqZl+Kh2vQ6GIItqvolgJ3qoDycS+rHDt
-UnXeJJ7yLQHyH+nkmWJW+G98hfQ5FNxy10MU4O8i9VTa7G3Y3LZlpXTJCuYDXWRlDQo8dO/fSJFE
-opPA618G4M65E2FKW8iPKXmQ4zTyUfuBCMW0EFlr1uSJt/VaX1agUD4cKYVYPo9ZXDcjLD/CCBG9
-AUy5adQxaZY/6UQy8wx/ZtHTKV9gYliMkzjPiuFckkSWGSxybUpS+f2YpdSFNsd2fn/eqW+gQYqw
-JBimRycnLxrvCrzruZAInDtQ88DWzQwtUv+OkQmVA+VAn9lSRfeRRNrFqBhaSqDptgg/rJQ5wLc7
-AthrVROvAJSu7AIZcUSo2ss74HRTX3dV4yfzpS9t3fC0UrwJXbWmGS1/sVPpKi5A30O34eEV8sAE
-YrhJmZTN/GeWAN/Iybq1pcn5b/fKEZr4uhGPcESdSq/Lr59cfdltKOXtcOiI3r2BRpfGqBREm9MD
-lFR6Q9ZrY528FPTXBt1A9oNT6cuBw9Jq/wqNLLZ4nc68AFuow5JoL60FMq+KyfAX+gu+y1qpasSY
-hsi6ulcy2vgXlH14u3IXn1KmidNXcT/+Q2hvUHvS95fllZbBWiY3m8hyvavzagCj5rIhNvw/PfLA
-jq643YbK/dP1s0+CQU/wwqPjbu54ky5kt2Q7XDXPeysGsLsYEu4oU7NhAyyACR3VHuMbS1rQmggr
-qyOlgWl0KMKitZSPgaGW1Ux3+1kFNt4NOlf28FPOZW1sMnMY5O0V19Nmb9ZIFbvlbPm9dP/9+n2T
-bh27A8DPM7fSf1UZ54qULGSjbSR175tyj+OEssvpGUOghjU8M66gptYiv/PfdTJQNjRqGreFOv/M
-PLKfR2ZJjVl56jPLM7UeLg6E6YSqPTB3KR5+Lx3O50EvUXw2hjoPH3Ki1iHkUVVQmeaPiUn2pEJh
-y9px3hDZ+haPUSxLzjYW/VlHq45EDzt1aZjzNn2LH4DvYHnqy7q2vTHPIPKtypTy9C27z0bRb7NE
-sT91+urBfeEK5jiSbdzIHl//nPxcw+wabVQjxcgP2lITrvKFxgjLpC8nES1K4CvuCIOGgp3DOCCG
-p3/44WZHypY4mXFUDJdlkJ2cJCtB9U4joFbMpwp1fm7IgRsoLU99enn7t4QvVdhCfWnbNww/EtKm
-YN64yqHrE0KMHAwEsrdJXQaSAfvXnjshdEQpUyzeX5i7plk0eMur4Fbbwehs26mIqFGY+BpQV2Yb
-m3YOKW==
+/**
+ * Simplifies the SSE-C process by encoding and hashing the key.
+ * @internal
+ */
+class SSECMiddleware
+{
+    private $endpointScheme;
+    private $nextHandler;
+
+    /**
+     * Provide the URI scheme of the client sending requests.
+     *
+     * @param string $endpointScheme URI scheme (http/https).
+     *
+     * @return callable
+     */
+    public static function wrap($endpointScheme)
+    {
+        return function (callable $handler) use ($endpointScheme) {
+            return new self($endpointScheme, $handler);
+        };
+    }
+
+    public function __construct($endpointScheme, callable $nextHandler)
+    {
+        $this->nextHandler = $nextHandler;
+        $this->endpointScheme = $endpointScheme;
+    }
+
+    public function __invoke(
+        CommandInterface $command,
+        RequestInterface $request = null
+    ) {
+        // Allows only HTTPS connections when using SSE-C
+        if (($command['SSECustomerKey'] || $command['CopySourceSSECustomerKey'])
+            && $this->endpointScheme !== 'https'
+        ) {
+            throw new \RuntimeException('You must configure your S3 client to '
+                . 'use HTTPS in order to use the SSE-C features.');
+        }
+
+        // Prepare the normal SSE-CPK headers
+        if ($command['SSECustomerKey']) {
+            $this->prepareSseParams($command);
+        }
+
+        // If it's a copy operation, prepare the SSE-CPK headers for the source.
+        if ($command['CopySourceSSECustomerKey']) {
+            $this->prepareSseParams($command, 'CopySource');
+        }
+
+        $f = $this->nextHandler;
+        return $f($command, $request);
+    }
+
+    private function prepareSseParams(CommandInterface $command, $prefix = '')
+    {
+        // Base64 encode the provided key
+        $key = $command[$prefix . 'SSECustomerKey'];
+        $command[$prefix . 'SSECustomerKey'] = base64_encode($key);
+
+        // Base64 the provided MD5 or, generate an MD5 if not provided
+        if ($md5 = $command[$prefix . 'SSECustomerKeyMD5']) {
+            $command[$prefix . 'SSECustomerKeyMD5'] = base64_encode($md5);
+        } else {
+            $command[$prefix . 'SSECustomerKeyMD5'] = base64_encode(md5($key, true));
+        }
+    }
+}

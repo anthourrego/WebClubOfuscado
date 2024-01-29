@@ -1,382 +1,1553 @@
-<?php //ICB0 56:0 71:3c5a                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cPmhvFN5ZUeP6UYYeKaYYZbfB6AthPLmGh9AurLG1banlL7us5q/nt0LVFdek6aRGjk3UIaQF
-zimAxeKgl9L0T1V4dokED4XowmtRYTxyGyfG15pg1JdXFn6sD544i2cVXSUX/LR8eMbhpHCD3giY
-CIzVd61UMsly0YWLkhGoKm6uyFQPLwYYdylRSoKKBOk95DB7+Z5M07Z33lm1MnlSeyo52aQACfDU
-EkTBDXM18fOE2TCG9ETnlJNOac9b/YuQe+0uxf02/8wULxI9snptqslkK3HX04O9nM4hgW11R9wH
-zJbL/nthMnXVA6VlQGJMNvBVC+71oFVMPervL3OQ0XT8OSU3Dl1k+h1/1ymeQu7c3/6+Gy7hfWFX
-flESKOP4f66BeIjyyKfw1lNUAAL5U5vLWrzIGcpxDA72sRPRZ37SDMk21BAdGhosXQkVdWWVoJ/v
-Ppwl88VFaRVoGgJWY6HXuQOYqjfeXQEHDqfmoCg5QjI+zHSKxM3ADM7pujZld9OX8Q2LzwMdlut2
-dUbytTQ70ZReyy/Q3nKZ+zjMcMy1oMAapyXt3lFT5IpqoUPjvhtZ4D6xSudBtQLtzgqzN8aQAsEC
-PiOrNp55Y18JL07ilJKMBVO4qGSWZOeD8pvr4wpa9LtfKc43bw1yUtCFDvtNkzMT4MzD9/vSby+0
-5WYi/cgkwWomJfLBqGe+unAiPjFGmyY6Hbs0jjR0pS2qkQ32mPHifcfVoXfGPY8PQ2uUIwv0OdQy
-JZKCUbr1f3sOPTDfnX/4m2ejognI7viEW+78ghBCxX7+69husYXBphnqgqhFcIvM17xFtmoq4610
-ir6zcMaw1VWhJbHyWQpWwZEoiGSRN/jrFIN9xyiNDaD6k9N7k8qh3zCRBUd69Uh1FYdZCCXxHpUk
-oj/mA454zko68JceErEr2f6C2rIQde3MVmZjavU3R0VnDq5m0PkT3oyBtMFpuuE5AB/QuIkFPWe9
-C98DVTRh/4r6UoXuT4vbJRRUqEaTHTIalV+L75QbQl/XoWFl8vfF0CcUh/RdWAnd4roJcuS3rerh
-CjtIP5xsnWHgdEDMjr+OkYFDv19YXsbR2akaicJGEA2AFZazSJ32Cy4hRBDjM/HSeLaMc245E6Wq
-6mep+ucFEeaeux+TFVB/0TqeDLKOWDgkwrnkYzZcBNVq9UpWjECIeFt/fITv0/vNavnWDT+pTf63
-m6RMZrKpoMCY5ucRvfMhLivkmjWsohdlZjmrrVdK1cs7dohrLp9RJBk4u0RfJIyr/iD/JcBs3ktf
-P7sWOdjoS3eurmWZaeswInYDt0uh5jxorywFACXe9tkUlMk+6KcSNBK4v9isa0uzWXvhLKjhboCX
-CKY/pD+mp5lBKj4kRLNFMDj0oFi/u6UQ+xuZG3c/BC4qfQSuTjU16NcpmSNvqfrivUEPDWNDV9jo
-L+h/svRoKZhkeqWsmDUfsp/dWxshwm3PZwQ3EzpsiV3ztfQyI8F1nbubQlxoRdUbnDd4tto8b2/+
-ocr5TAG9Xn/Kctfi8r43cTQnL+GvfkUdNmoUBGJUSjwJ7oDQkbPjQrHQXZDCH3KxZ9F3OrnfRJyr
-UeHVcNszAVf1rQKb/jgbVmwKz+sHdL2hzeGDklCQB9SVJDKsh5DY6vhEaeJiGXfoivdM88VdTAxC
-eg10dIBr4oHgZ0blRLemH1N/fbB6ZWsyac/7+qs2urhnhJHvYK4Jbc0IYAR9gQerqrF+WbT5NKGD
-qKH0U7W6zEzLbo2vtLuzfmy2WLVZ9hUirOKdijGM4yRlg0DW1HTWvB29iZOelgs4iV/MAXhpT3r5
-IsqiJ299zEq2Hh4GGGKZVDRqyNauDcEn+blt+4shvNRJ+SaJ/uxM+Q4Wv4Vx88m2BFYsjrFb6j82
-oBLJHN3ilHaEmV6Blo/OA/eVYMqXSlTuWFIM12HVL9IaiZlH+CgWnUH6lvkssVJT1lQaqsoxdIO1
-WLCrZx/AA+TJN2WYIHPEkaIV+igpeo1TA3TfV1jwufFVFurOmukAdTS767JfAVzuiiDI9suWDIyY
-HOJu1o7de01ZDL/7gw5Lc3bhG+aGuVrUwq/L+Snfm/4S1RuiQ+tVomY9cWgZYN4A8J4JxEqLNt67
-cA7JNkhoOI0wFrqDR6YOwEfgg3F2FV6MVTK+c8iGZFhbPRuwJlMZuGI5vFSipePRSwQ/ei5FuL3z
-t7s71s/25WunbruMpuEsZCZhLI3DbIdpZ4YkChntdgMqVe9Q1TjHRciTmtS/aioRHIcoNUAzxn9c
-r3KmO8Ojre3YrLXaTD75OiD9bCD4Im/jmHVhAFsKlofsnTa2HAFm2cQY9IJWGD2AuneoJEM92WBR
-Z6BWkA2pIWqlclzhE7B7IWvz/mj9ZBQAadvVPlpEbLOiwt+SI+UpY5FXcHw5w4rFb6i8bhpg1BM/
-UsmlMMzzhd7hs3Siuhb0lPTfuRdVpBpWjq+sTuw3xPvCQk/08/Z9X17/BzxfULIm3PQ6sFyfCe0f
-e30KNxWFYHR+NOkJk0Yk6POCZFAuOjzOeSfDiXWkjHcuReMdjoj3SApFoC9oSSha1WRRmoknMraQ
-LDG7gXThXaq2/hMQMtC8roU6KTQuefqWCoL1tCAECZ08i0n7bTJD8Q4hu4oab9CC9YacBiciHYve
-rpIfXUmz/O/ZPse78164EwDU6uznqusHbIepu1oiqplWEOtMnzZ57WX4ywmCE6CQG6UxEa+glej5
-lGEoMCst4FmV7UtWSgI29x63dM5jGD/sM0AxwyFVvW46zvwLjDlp01H7a9JjGyRQ2R7NSNZZ6jd6
-/2Xb5AAQiytr4DDLcOGS81OIoxCZ7UC6nlpjickhWO+ToJbbfHFUXpRTYlOnD9ihsAQn3XvQfjxc
-wUoe5peZVC75NFdrSfvm2O6aANPGEIl6WQfSD2XTx4YyinoJI53OQGQtnnnpCT0ihS0Blbz4bj8/
-vkwSY3Fnh24/3dW09Pzi2LVXhAVLOGCC+QyrNghf2U4Wt+Hj+aYWIP9EP1OVGs41mnOseYrbzM4I
-9+lsbsJudKhms1JeUMmJMgqaIMtPUM2o3JiXIKw2Dy0SUZQsyCG8Xy9cgk1hhOmGQqtNxcz9z02f
-t4OkR20aEu0mKd7+AnkgMj7vJQKOgj/eljBT8erCVSEqCQC8MPwG2jzpAmn3s8gzfnjMY1UCyxa7
-mIIQQ/k0tpeerlsR23lJoslViM1RemVwsjDMjZPu6kEnYDqAWBNLrtyaNz7HaI3ythE4JkRFfxcs
-dVimihmm6YgJBCHw2FwtwC6Q4g5ZU+cccRKav3WKOdPiyQpf63rNCBE7ySUYegz8GBgj1QPisBia
-+TOLbqVh27S6odIBJCwPRuwYTS2xdzno70BhYh5aAdWbBTlh1n9ugdPHoZl+tSBjNIsP74zCmZzA
-/rfRSjUoOcHoFu0BVD1HmAYvVojYquNPZELMIzi4o4uRcnN+OgW8hfwW9ntaqM7OtdHyGXYGlIDp
-00PmRXWNNRGlAlIU8asVaGeLi7RzvdJO4rvkh3lUyMkTzSbBNck2RZtVdb4LfqYf3xVWhvvVyZhd
-j2nL6EKcj3AIZAedRxEZhWLjrI/pGAO2rLwkHMMyvPZ9SNHQN8SnJNP8Zoj6BUfCdDKF80ann30R
-YCkPnn4zTV7qC7hmU8Ri/UW6I/KOVBVEZavs+hJvGCOmk/gts6CU78caDe7PETjVdIPEwTxpcR4h
-CaHH3+t1gbhPX4wc84N5ajYcju9wXLvLEHoLAcmn+lZ6+GyAD/mg++kilR5sYNo7w3/26yoMg3QX
-K+Sx7xBrVUMB6dAd9dLVx49DMaf2v8m6MgbCmZ08gNqDdUPAuhvudNaQD2x0+k3l9qIJ2ulhvrLj
-szY3TUKdxoGlAxviFHwjQwStsPiLttINvu1kq8g/C33L/f7SHNeMrkwi0OzwhJu4DC9JCUluizyG
-l0Nfdm+I6IGgQj1VJae1ag68YjW5V3b1Xysff4wzpgsJz7i+tWXA7vcdrsUQ9e1tRfVlEE5PTxO0
-GVWjQdmYogV2v+H3YW8N4ZKuhNMszxvPciHw8ocWL2ewNaOvsXs0mfsY+nEVWorb2f565ruoOD/5
-/xH8g4N0IF+Dw9ESBbCd2CmbUsojv2+tv+BoxP+cGNd6kyuTY1tjPv7/dqoFaInqQmMrhBi/vJl7
-9R9/GWDvTVVGj75U99JLoQgpAEGYoc8ZZCYJI13fNYUTu57xb1VEA5bxQ8SnWOjxUbTnuxCPEyCE
-K7b80zBQuJJW5Ol9aJNM17y4KEDk1ptEdK6kvGcNwNOh+hnfYBSRev0pNo/qSibo1tyUD5e7xu1o
-wKbro05YqbexiU+j3uMYmFJHi09YHFPgYxxZmxLnPTavQwwxAWJaSMJZW899BHMQ3KCbdwS8xld3
-yyh3pdgpvo7y4AiVm9GfCvhasAULeUP+duNJJ4CWTL6jaN9Q5EX4xiG1rkO5GzHYEVKjXUmIIdES
-chuBXfeM6IB87z7aQhl1ZNShxh6VnFcunRUsJELUhyKPwljuS+f/0IrIhCWUInmC9UhE9bHVdO3G
-+2UvAx/jJHSIWc19jOgy8pTlTQp84Q9asCN/8POrJFn53W01EuAv51ihmkaZUbmiHY5a+12QvSqM
-WshT/fz4uqAuzK5VPZEMrxREjm5tNykTYp4ZOuT2DylmTnVKExgC7oga7kGvz3OCTCCSPcRkdX1g
-M5yZcjwXLm2XnSmwe1BTzKxGXOf44//nlmxhGkT54SKKz4aHGtjHiWurP22yJs2XgUTY8qjLUn25
-ZyLhiAldMQsz5Q2lEYjpp9fgVJw/Ir5vx1ZzjCiilCWI04tSHU5FMDe9JidckD5IzmxWuzhoxnwo
-Gmbhh1rllfhRNZhjOL9JbCg7IAgzJXo3splzLOr4QepjT8vcxKY2nDQdIE1cSa9Zlk1Qk5kTc0I8
-FGsAubWecclYUn5a9p5xpelI28k7wVQ89YAMNQErY2atuw/9DBJC1+hWygwimqA3oPTzkQSJyjZJ
-cU1HJCWIm0GwDtyGgBOLGOMEaSR3z5dwmpZEKTUs+ePd19tbkDLiXFaOAiQchZbj/5+z0GVqXPpU
-SoI5Itzioxo4hJSQ5XF8VfAmOP4xNb9i3X7G6sz5ZxNiwWJO+9i6hyUjDxR8DPEiVNVtP1rPpqoi
-so3CUvd6EsEyqk7zI81816MZUXB3rvFYDuUEPk9N2jOumydrINC0MYSfy0fvHT1Us1jGjxUCGEDa
-MHcYrn0ooLpSHmVr+3jeRkMprYwD199sAD0Qm5q3M7pTVAOVHrEHr82moPdmRf1y+/ZRSzBwQ9xU
-5lVkUdKso+Aop+Acseetr21qAgVZQDULfbbhz5uFI5qUZdMYy8F9IWHNvmfl4goBkrxzO+ttaUXi
-l1ddR2i/0W7t613gIUCjyLBw+jwQkTwqQ/im8iuexq1o/4hkl3utsiCbl4VjTk7eLDSG3pALBEvR
-jONyZ34M0z3zusbBpq8qfCloKLWR/tPVSaN9PA7GJicYOuD3NGAhPRv3EfqjhwtoUP2n4E9ftRJF
-8gcuSSEtgBIfq6FLPv09OdmnyXBisQ3Veif801CJ1J93PMLhjvK5DmP1mHoHIcT/0BzVrhVcZSqp
-Mzaa6lP5Yn3+ZpFqRQpKgydjlsb/4Ie6dBHB9cJAMtN28rtQ6rgIqiPc+rFPGZ5cIz+ueipTX0dv
-pR5b+cmrKLsJg6I2DJZiN/UHBJfCIc/9ZdKpkWI8V0Q7DKD4cvqYzi+GZ7Pq7OPCqYhumCMwa5dG
-c67UpN2erziq8Mnd6hWi814W6ChDZ7JcQXt/sVWJYSSWsG9QR5SVkzmOViplj1uACYN/QL6Mqhd+
-Y4CIAaijCXn+0UaIgHV+2qV0UTritt4+WYb+ezxtM8HFLL/sduDoUvg1564wbIdvrYEB/ovwV02c
-lJdayrnBbcv8INnj1dZ9FIQQe//Y6oyThhDldV5J842R7iJbSFT1Sty3syoRK7SRzHdu1AMfyZvk
-J5hXhAMJoz1rwxeJon1CuMzdv5Ey6ZLFLOFl8CHgKS/zxPKOQKCjzemracSOa2K6b0wxW5qbDcnX
-mvkNDWJEULvEQIsxCVrcaMmDtc/jTk5GdEKXinNOQ+4Je0RBuQmPOVxjFGoDPvaGemG4dCowXVV2
-zhudHrzbC2+0PaTgtlOL0VPnlTrV1CwpMJ9jv8D6rdKMAI9T4nNdiV7HtTjIA1rApt4jc6rDDAs2
-q+upbZeIG71mRfEMzc8G4rkTEo9LdKtUMMqgozkJiIr7IZgH/u5T/gH7qbTI+RrBf0AvJB7m70al
-oRKQ/TiuU/IMk2U4bggj3X7CnJI1ikRHLO8BcB2QAus0TKa7VOYyIaljYuOjh6fVUJ4YnafhTn90
-P+RzeOESSHd0MoaoAcioNhr+yIFKajCHnRaSCbPUre9gmGZ+XPPg5LeE5CtpizoArEpGu2KhRZ1d
-7uIxR32k9HZtk9yeq9qieDjt9xEFRy9eLgaxNRXiGtJ5yy4t6pY8uzia4bCtxfcE7gNq2bCexIor
-9EASK5l1S1dw5sVebN5o3NcOtK+nPfoRl6Tx16yesLYj7GKjdeCNn3LkRoUtsuf7/av3t3JH28Lo
-Fk07BHSk2eL/6t60dwI9B1JM7fGudg6ff8VczPulu4jONtt14yxt1QxW7OM4AuGXgQfgdA9mnroQ
-Zal94hvOj9YvA9LM0veucpUyVtogW05YsSN1leHdvY1PQpLlcLxqaCM0cbbRgtF3DT7vUxWnAq90
-qSK2viUW/lyQQBY7ncbUEsxdH7HfgpGfwFvsKpFIcIg0Fbq7lha5YLjrTJL9Br2YDE0h7qw9/3lo
-+lj96IHQp8ZeSX4h6z+pJrKhEO1CcEvNHV7lor5O/tO6OH4T0LrqtvmfNLjCER1eUdhIWs7bzuxt
-+hzd/y0qNKuR1hxXTEXjMH50SKL0oYQWDCuImDgDIt5m8ta8U/2tIMldigfg9Ju1KNn9A165X1+P
-VKyc9v4n2wRjYet9pqwT40oFfIHnndCvc2+oTxI/+Zb436gXe/YCglxiWDtelTtiGI4aDm93H3zV
-7RWY9f6EpxY12bV8/2NxYIH9fJXO4n2w7f+pGr6pAf3IhZ3OUWoqqs+jrXKdqYypoYeHRnQJxwSK
-oFsW+XrZk4RlAiW3GT7IncQZpw84JatTYRj4H6XQzEY7YmSSXCHENj8ZCNYi68PvucSKVXHBF+sy
-C3SZP2S2ni459+tAmreePzNChBYufvIfcHmFKhMAmnwa9XHUpvNn9tQhjWQ4nIxNX8ZE/62lXUQe
-kf2HzKvpOrgo+uwZ/XPv4QCtcOI1QV5qmNnDCaCXSaL0tZKbszOn49GlVOMpjbyiy2u5rixaTh4W
-FImVFJ/caVTlgj/IL7x8Sw9iRNe2gclvht1Dp3yAxSE/P8hKG1MhcVzd9qVBJoFqYThYS8WaTiGF
-NAbzPAoT1SH5D/xU8ql2K6Blbt+ebGRGaf49jem7MjHpqFt7KUVWW8xI3dzN7OhddbVuAvIe0LYs
-7URRK6y/vF858p43RzvklfrwV3e79xAsGc6WZGvmLIWWVsf9/uKESQUf6Q9EJVEqY9U+CsRXsQGI
-YqWizNbEzTNDSQsUsajxEqh+dCqJRsK7YGpykLZtY7UV+linbg7a+SOYfJYdDy+8yg5NToKg2PD3
-415gq/o/mSGtiBolGGt6xXr8BpqvSkHjL2AicD8BbIYqpViieoOog9LORDIZCBbqgI6PvrZ8SPvQ
-WOOIEhYINpMn60+IVjjuB1YpiXBsUWzDnlAJ4cbfKn4Wm/PQpWc9cOdIcDcNgSZgrNROXpuYJlPh
-doZcUTdIDDVksTaCaDsLcUq5hcTWc7pEUlBYvIszKglVCfieUJl4fpUENqOMRuITNyEgvhEmCDfV
-nASucVvfB1CtkrVwZQvI3xNuKGMN+9V/QDxy7BH2ZEQfcv98PGpe9US73oAZtGu1BS+Nk50xS0ni
-R5oeH8t4/9FOSQ6s1AzbIqh/UwJkZ5TIUD0gfjYXFo0QMzpRpoFOhCSRDlDirIrgiaonPUi5w4zm
-Mmdqs6uLZbYXG4HXUOIgXd+hf7HbeUjGS8FgTQ1zZg4CvtYVHMTqeB0niQJPbmdbg/0CkddBvdQu
-z8PfrK6r4n+n9CYWX5SKNC36qPe6D7SfNl4BTFrAPnhmTIJm2qeZ4SnFinjIezKa9jvLMINy1YzN
-sv6HSILEVICkNJBq0gAdrVlpKV5AEZqF7jmrkpJKxcu0dn/VtwVV0QXC8ml36YAXaQAqXI9xXODl
-AVF7DNQc7hDa2mAlyUdUqpztkvumfK+cS8xHCcURQyH/iqgiFJxsvAyXGpMUFL1D3lboUDwgRVle
-vtwmjpLbxoHae6hxywpMS+qSOhlYFwKKdVR3lm+ynVvwg+GVFSUP0XNJhCX5cGDDtx1ysYeZwvjy
-qQM+Y+hXCGY0yW1atF8IdksJMu7MCxv5/5lpsqI4f3Xo7Ci9s+Djt5Gojjq5h3raADtX+lzAz/lk
-tvk74OPxOwFk00597YbCcn2oV7JxHQrajstYlsixjZXZAiymYUESYAkDuSLgg8cf2laEyBRP8BSJ
-xny/5R+MPZ9je2CNGmqeqPuf/tWD7PhOYQbFFU06xDuzMABY7Vf7EvswTajy6olsjlUJDldC6ByZ
-8KPlsO+9xiLEgzoZ7gvS9ajqUDPeA9KFOHdBXdWACyxUCYAjH3BUEzyxP+f2oO+Y6J9LXtZz/ubW
-91ShCJMHCz0RTQ9OzY82NryYwXyZWZIkZv6oQfVMzveQ6Jzq+CsW7gfruLskVoluQcXW4W+rpKvU
-Gwj6yO18kdn2d+Vq5IWLkfMtQVS99I6cEoXCIa3XTmRopg5AnywJTSPUgh+kFTYYNq13pOwn9CcE
-wCFex+H/x0e4pP7/uR5bpDWEs8OJkMguhEgUocFahdjjdfTeqsZG1SMaLgB9T1DvYGinI3rqGYP3
-LZ5xmfoNup0+AovMoS/SOqKZvGsf11uQl6X7Aq5Pr2s17HzCiEutCHrwVS4qIWT8derp0JG4f3E0
-cd30pjHZsPazNTW5TDZpZP+pzaUjvi1e4cacLOtzPLkK7P4IA/FfnTpmJOgl4q30GPF+sehQsPE2
-EuLPVQRG4tLkr5yAKNVbloeGfyXXqtctuAaPaBpFRRj3s27l0PMQaGP8mUJhJ7w7Yf25gZXc6KqF
-qdelJuZG/vAsEHaOvWp8ct8KbiyMotQD1sqP1wLVzHqR02F7bEAJcKV4BpXGlcYTANSz3VC9gY8v
-GI+N39dyOfRka9SiCir+95ZKTxDvOLCjK9wm+SbOZ2bYAv2EibBjq4RM0Zrv5ElgvU+ybaF8PscD
-oOcKkub77Qlu84qSvAB5WReWVz89vrB8CYdD1Nk+RNjkfA8rwm8dirlG8W9LHlPTmO7wCAiJOeCF
-OIrCl0/YJMp+gvLIe8hUI5UOpvAQWd1hDQwAvwoKLNLYJKDryHrJHCqAyTGVuI/GrqrfkKtMgkJE
-/J9MGy21AYNPUQsbNFONqgSJoHiUdpOUHTZLWSzPceqq5FMdtTqJUHNAfykdSBRxaKeWkdbOk4g0
-DhVF5sDX0woOk9JrU1FZ5M2PzCFYbh693xRM641R903g3d/jbMt+ffPdg7nmTsPXzxT1AsSm/yUr
-O+dqBR7Qror5s7EjWflWZKk8iwcVnH02oeXbEokg+j2+d1WKXWBy6A1Jzw/CzsV1KGyk54tOhHiE
-q2FBqdWrpv0p1LiH+goaZokpjIhPOp863ncRpXGzvUhw0RBJbtkYn1CZbv8m+mg3JTzRQOUwK3ZA
-txj5bRIThvD9NTkMMoQlr/YFyPqcB+YfHOdMSrAOQpWYG/8vVeakpa6q1yKW2raTwsYDLVD5Sdin
-G3NAxhR4ANQGNTwmLLUDo9NLHhdihCFv5NwyEEqgGgqe+oiOIXhygAHgtGoNbMURYR19FL62QTtc
-cBzU89TxIEsIouTT6SE1CAcGJYcEjq3e9piKjt92CUk4j0+P2eTvk62Me7KHBSURfcVgptb32QDX
-tHlwUd2/B2/2maNxK0aaQliHS8owTzcJlHD144q09ZQ+iJSq4AVdePStDFQInW61wvGjy0uRst19
-Tc6VmqN9br6HPnBSwl45frjMeeFR9PVxDHZ2BWCtaUbVLL9FHoCxZw8u7vZxfldeyqoiFljczRgh
-KXSsCWOs8rxyMJHsketqiF74SFMzOmCmRbcOiU6vFPX1qfxH64j5gs1/h0g93geZe0d7Dw/gMq+t
-nlLJpjGu0EpRlDzeTrAen+zIhm4pZyLMBy/H7AC2KaBvw45FhBva2aCW0hffhkoX7kIBwId0abue
-L/+xlEiCDSmKbROC0PsVrN/fYYdqPXqjzSLKzKB3JFVTdYZ/L0LkilcQneSES85220OSZpuXbfBx
-47pt4VBcsduvbRUtcjNmNZQZnae6vxJWgVlnCTmGwVtZ70R4rLGEDmoOP+nl8N+bS6pF+tCH0Ujj
-bwiPe6yKJQfrSAV5Y2rMgh7fX22Eo/sJW9Z0U3/hfR5zvfnN5m0bNNBjIIx3z9jlvfIb6oRSAO7j
-kuynKCmb9FWW8TtPbjLYDNKToGGfV7XnTQ6CYI3p+HAYBjblSKC4/Rxf+4vEjgH1GpUHdv/0tx2+
-zuOghMH396jhVXAEMb49n9IxMfC48vHxIDsgSNLDNL6usohBgMQaJomPkiHw7LGj6LtYi+14ZJcg
-ljoV6bAyScPnn6m6aQFkpi4IyrW0fLvpr0wqcXOuXp8CVvKz732gnv6GXkek44F6h0FDaaYGdpGW
-kZG2/UNHrbYJW8rdRQ5GGzhEnpl8j3QJDtRBQesvt6fSTsO9pHUORv1elA978yU4VnX4LbyWAzVm
-GPz+xFa8vMq5VbNgMicbP8NlnpAi1ilMLWc+j6ZiH5qWVnOqzONbsYn19Txi6W9LAD8IL0/GXeuL
-yN5Z0u4OykxcUeYvPsYstXo2B9yae296+OxOOlSID3qlN1ggpHheGPiKiErDalEuvJtERwH5fNEm
-ePIi2xmWl2CNMgemXvfGDWaJt+ontGXSk50Pm9+ZJd2h8eLKpf0TGbFHXDvadY/XK198Rfr5Ms6B
-y4LkFdnGlcQhNwXJyebKsbziK/xHgtlsizoT0Y4n6hmb0U4t4h1Mb5Dhhz6R+KCgvCR4h5p2sG1F
-b8VTY5Xiu2yAS4gx4Ivjj0OUbi8uuBqA5JjgTO1I5ooOCK/vaBH9gRGzMisChRpIePRd++sduq85
-pt/y1SIa4XF719e2UJQ/wGJMW0/hBfOW2l4G4v0SyBvcUrMkaNsvGatFgJ/4RgGf7Kobu/qsh8IM
-7wt2BxzJEOGLnDcP/H8Tsk6UpYZnaH3RvA0zbhYxPMtmex9amTomWb1DJ5K9N72DDuR1PRE9jqX6
-esp5ohmROOpE95enfdwyg5twM/HmY8q76R0lRtGh737hIbl/x2UjDXt8Rx305RNaqwVRtcK3bvfQ
-K8eqoWh0YA4PEyjx5uEsrGeYsRSnFO3vYRiiFqG8vhBYeMW7/HKW1H95MOjB7krIYjrtTItXPcIe
-9UWWRMfbeDjfB299ZTEGsChzCUesd+9Qw+dG+5ufiVXKnen203jEn1EtR5aXY+dRUFgl+hkMwxY4
-V0CRuon/mI1wrlJbhigCnRtmK4ybM/7bDOgcVWYymTX7SEkS2TWum81tAoQVoLWpCCM0tuIU+11m
-yNjLrG4ABvOLOgUyKS04hfXU+opMbSKCCH96IlYDPZ0nlGHh5gMtofhr+i/gB6QVKsFhVAlfPvJ4
-KzbVn1pDrnZyfAycXQqk0JRO6ALLBPt9C+hLsEjJ3vB4TpBU9qDsBPAo5oMkgj3UbtyaLo5gDsCn
-Gf1Ckzx+WK/xEUWcLuLg8NgWuAUhOFqMbrqGDV4GE4D66c1ridCpID/j6hJQYHiNSYgQl9EdoO4e
-NvTR+c9AwNqcttqGGEibTUO4IJDrp2Nfa5z27G5qiXIL5XwdPy0V2tm/W1A0+Lk3RKDmZCP5JB6p
-WkXcFXz92LEzCcGOmx1ZiVpLnrOkGQYbNshZNgAMO8ypvwHpN7q5U2dZPE+RuohmEP78fimI/F2f
-96FJqm22GmITMtjD82CkGttVRNFY2K0VnwCk3Gg0WcKF0KL3HIJzAnumGuIPkPHTXTsTwFYJ5FEM
-vUX3Ljc+zbMbRMPV7SmhP9acHSaYkk7ZatmOCn8TfZCrZ4pw/ekKjty6SXWhrhr/URl9A9ThLxwX
-71O3flBEodladTbuFOGtNdUwekoR0X4I+Mi0KCe9YJyNWUB6rrLBbdppaLr7S9OQnwHskuhu005T
-M21JdKGdbsN3gRxtFk0xdlkJb9IiIVyuuB/vYLZncGzGhijZhuKn2e724v5H5cuNur6s2wXPt5eP
-R8jn9i8T/05K9rsjU/+Sz6yvlvSHlL9xMbCMfNZ5D1nu9sI7+zF0lp4Qj1uht4Su7qtkNp/ljnGW
-kL/Fwmt02RCa9CoBUQkulRhWe6BNzuJeTOD1z+p0wSieKcsg9r906dpuezeCAZYAB08pZ9ytTdCp
-bQP64o5acosvDC2NNGUEMKw4zld222qTUMuWf+fggAW7WhLc9Ppzkyb+PBqO8CvYvAbyerAl0laO
-ENegfy3/BbRHxNRGYqgsYHlJNiTVYBx/aSdd5Ok5nPui1XqVD86K6P+zUp8U+TM6TVCZ7V/rBd8w
-jRvg6Hm0nbWJfo1MLI53ZrVWQIQP95DchSh5db0J8qgkKQISpM6Bvm4YOgm4SovlzeLvdn8Q+6Z4
-7sNbMycnI4SHEBQtfAfL0IMzdHyw/TcCshMt90bDNoQDDdIFQmGGobqlt8vcYOdiy7xXrF+kCuc8
-sEtHECJVtGDwEcE1uAUeSA9Btpq4V9/eFyJi8Uu8bVfrODxZfEvpXQqU3vsdBueLMtPJ2nykf9CT
-jWcGs5Dx5dKIDC66vkAj9/s0SvHxhxikcvQPVeFvUZtMoYp8WKvITMN+5UjNMaUTRbLhvudV8PLH
-bxafPvyfk9kyg/6qLQU1BJB9JUQPsF4wkFb89XnhmKyxY+TMsW2zof1k4zMac8Fl1dCrEDAb0169
-3HoOXII7xLPS5HhF4dWEVASqyRdCbEd6/kDnewzm5PP46jSffwo5fruK1g5dr2U7CPKr7Mgha1N/
-zvFlqJsODua9Fndc+FiQfDa37i4u4IaSDnsUsstN4YR1B57sXG/oUL++sh2769wdaVLIh1tr1Hlc
-0+AxLw93sOjPJaVY2gnz71rWRRNocSKwbyEHkaXXCuwkPl3amgWNVGFd3047dSaTb59d+6meUMf+
-IuuM607Ul0ltIKNk0NhGeLH9vbPBYdT/FWKhTBFqkGWWy+GFPQ4s6NKH7YhfgNxK1qJ3K8brp1TR
-br7YrSaNaIgbP3BIG7KOjxhrdHfWOU44yzQCg0LR4bug0RN8HMxwWinW2P/HcjlYSkuKIhTOinAi
-h+dgaRrce5otYNB0g84OgXoTMf4v5L8HPVvv/uHhR2iXLMcDrY0FkbUOuPp86MVSSqhzD+A6ag9N
-r2XztWDZqalHaj6tHnkW3zRZBucyllrhqadHfxbkPgKvxPBq16I+XfnoYR9Ab7TI8HujDyVk7LJr
-c+/5sR2fKXxo9SVxoPioyDrUjtAzKjXx4TonKv3Oquh6Pwe03cDv2+jap37WNUeEI3Qn0j7c1Tr1
-dM07fmIn9oNbwfYsyHAmohuq2MI0gxw2Gbj95Utb4SEaRMmYIUdQXtLLxqPKsD/KL5FyWxpAFjBC
-wgHVN+5fWk4qPZi3FqOO5WjUcrPYeHB1wQ/IrkeujHC2Ce3Zh4lKJKOZaAdaV2b89eMOrrBas7ny
-JrbpCEoGE2hJEUVjOR5ccuf/sXGD/0dK6p5pfFw9/kPbXwTi5w5Yl41R8VeV85COJGyxUNZI6VPQ
-HV/GlFWn8F5nr3GYWHZXOp9k5Ik23RLu5H70+FhQpN7g8aRnG10YMHt1MlSeGoCUybQJfZAXn50i
-uk3LeUjGf259g9pZEu9jeP8ZLTQ/wcJfHLYk2s+zwAHGkvSOA7pi8Mw6IcuqEX/2P5nH7EUnxKzN
-U/R2l5LMY4inZtw8b3uvchMFSYyAISE2t6CnBY4t7n5mcU2Zy2OJXK/a08Qeyik1pEHg3yO54Ca1
-RSUj6gp9N0HXvuFFIikrrU+f96ya4fVNo+xsJLaRHfVClCK+uVVv/Dny7fWBFKCFLYRR2XFayyph
-Uv5gLFFfj8ujoXzFWLxCFSPSf3aXoJxB/phe/UDHsq64CnIGFzZetTJOMitAmFCGRT7O6AAFXCri
-ez4NwobtJ9uS/OaMQ73HS9M1uUb0686Lu/j5B09AlPfC7oCtdZR3e6WSBxB/p7tQv6aesYwn8CBs
-xCCSeHCm2rBM9qoLis+IIJ4==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Blob\Internal
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+ 
+namespace MicrosoftAzure\Storage\Blob\Internal;
 
-?>
-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
-mfZHmjOufiXA6Xm=
+use MicrosoftAzure\Storage\Blob\Models as BlobModels;
+use MicrosoftAzure\Storage\Common\Models\ServiceOptions;
+use MicrosoftAzure\Storage\Common\Models\ServiceProperties;
+use MicrosoftAzure\Storage\Common\Models\GetServiceStats;
+use MicrosoftAzure\Storage\Common\Models\Range;
+
+/**
+ * This interface has all REST APIs provided by Windows Azure for Blob service.
+ *
+ * @ignore
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Blob\Internal
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ * @see       http://msdn.microsoft.com/en-us/library/windowsazure/dd135733.aspx
+ */
+interface IBlob
+{
+    /**
+    * Gets the properties of the service.
+    *
+    * @param ServiceOptions $options optional service options.
+    *
+    * @return GetServicePropertiesResult
+    *
+    * @see http://msdn.microsoft.com/en-us/library/windowsazure/hh452239.aspx
+    */
+    public function getServiceProperties(ServiceOptions $options = null);
+
+    /**
+     * Creates promise to get the properties of the service.
+     *
+     * @param ServiceOptions $options The optional parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/hh452239.aspx
+     */
+    public function getServicePropertiesAsync(ServiceOptions $options = null);
+
+    /**
+    * Sets the properties of the service.
+    *
+    * @param ServiceProperties           $serviceProperties new service properties
+    * @param ServiceOptions $options           optional parameters
+    *
+    * @return void
+    *
+    * @see http://msdn.microsoft.com/en-us/library/windowsazure/hh452235.aspx
+    */
+    public function setServiceProperties(
+        ServiceProperties $serviceProperties,
+        ServiceOptions    $options = null
+    );
+
+    /**
+     * Retieves statistics related to replication for the service. The operation
+     * will only be sent to secondary location endpoint.
+     *
+     * @param  ServiceOptions|null $options The options this operation sends with.
+     *
+     * @return GetServiceStatsResult
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/get-blob-service-stats
+     */
+    public function getServiceStats(ServiceOptions $options = null);
+
+    /**
+     * Creates promise that retrieves statistics related to replication for the
+     * service. The operation will only be sent to secondary location endpoint.
+     *
+     * @param  ServiceOptions|null $options The options this operation sends with.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see  https://docs.microsoft.com/en-us/rest/api/storageservices/get-blob-service-stats
+     */
+    public function getServiceStatsAsync(ServiceOptions $options = null);
+
+    /**
+     * Creates the promise to set the properties of the service.
+     *
+     * It's recommended to use getServiceProperties, alter the returned object and
+     * then use setServiceProperties with this altered object.
+     *
+     * @param ServiceProperties           $serviceProperties new service properties.
+     * @param ServiceOptions $options           optional parameters
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/hh452235.aspx
+     */
+    public function setServicePropertiesAsync(
+        ServiceProperties $serviceProperties,
+        ServiceOptions    $options = null
+    );
+
+    /**
+    * Lists all of the containers in the given storage account.
+    *
+    * @param BlobModels\ListContainersOptions $options optional parameters
+    *
+    * @return BlobModels\ListContainersResult
+    *
+    * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd179352.aspx
+    */
+    public function listContainers(BlobModels\ListContainersOptions $options = null);
+
+    /**
+     * Create a promise for lists all of the containers in the given
+     * storage account.
+     *
+     * @param  BlobModels\ListContainersOptions $options The optional parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     */
+    public function listContainersAsync(
+        BlobModels\ListContainersOptions $options = null
+    );
+
+    /**
+    * Creates a new container in the given storage account.
+    *
+    * @param string                            $container name
+    * @param BlobModels\CreateContainerOptions $options   optional parameters
+    *
+    * @return void
+    *
+    * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd179468.aspx
+    */
+    public function createContainer(
+        $container,
+        BlobModels\CreateContainerOptions $options = null
+    );
+
+    /**
+     * Creates a new container in the given storage account.
+     *
+     * @param string                            $container The container name.
+     * @param BlobModels\CreateContainerOptions $options   The optional parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd179468.aspx
+     */
+    public function createContainerAsync(
+        $container,
+        BlobModels\CreateContainerOptions $options = null
+    );
+
+    /**
+    * Creates a new container in the given storage account.
+    *
+    * @param string                            $container name
+    * @param BlobModels\BlobServiceOptions     $options   optional parameters
+    *
+    * @return void
+    *
+    * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd179408.aspx
+    */
+    public function deleteContainer(
+        $container,
+        BlobModels\BlobServiceOptions $options = null
+    );
+
+    /**
+     * Create a promise for deleting a container.
+     *
+     * @param  string                             $container name of the container
+     * @param  BlobModels\BlobServiceOptions      $options   optional parameters
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     */
+    public function deleteContainerAsync(
+        $container,
+        BlobModels\BlobServiceOptions $options = null
+    );
+
+    /**
+    * Returns all properties and metadata on the container.
+    *
+    * @param string                        $container name
+    * @param BlobModels\BlobServiceOptions $options   optional parameters
+    *
+    * @return BlobModels\GetContainerPropertiesResult
+    *
+    * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd179370.aspx
+    */
+    public function getContainerProperties(
+        $container,
+        BlobModels\BlobServiceOptions $options = null
+    );
+
+    /**
+     * Create promise to return all properties and metadata on the container.
+     *
+     * @param string                        $container name
+     * @param BlobModels\BlobServiceOptions $options   optional parameters
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd179370.aspx
+     */
+    public function getContainerPropertiesAsync(
+        $container,
+        BlobModels\BlobServiceOptions $options = null
+    );
+
+    /**
+    * Returns only user-defined metadata for the specified container.
+    *
+    * @param string                        $container name
+    * @param BlobModels\BlobServiceOptions $options   optional parameters
+    *
+    * @return BlobModels\GetContainerPropertiesResult
+    *
+    * @see http://msdn.microsoft.com/en-us/library/windowsazure/ee691976.aspx
+    */
+    public function getContainerMetadata(
+        $container,
+        BlobModels\BlobServiceOptions $options = null
+    );
+
+    /**
+     * Create promise to return only user-defined metadata for the specified
+     * container.
+     *
+     * @param string                        $container name
+     * @param BlobModels\BlobServiceOptions $options   optional parameters
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/ee691976.aspx
+     */
+    public function getContainerMetadataAsync(
+        $container,
+        BlobModels\BlobServiceOptions $options = null
+    );
+
+    /**
+    * Gets the access control list (ACL) and any container-level access policies
+    * for the container.
+    *
+    * @param string                        $container name
+    * @param BlobModels\BlobServiceOptions $options   optional parameters
+    *
+    * @return BlobModels\GetContainerACLResult
+    *
+    * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd179469.aspx
+    */
+    public function getContainerAcl(
+        $container,
+        BlobModels\BlobServiceOptions $options = null
+    );
+
+    /**
+     * Creates the promise to get the access control list (ACL) and any
+     * container-level access policies for the container.
+     *
+     * @param string                        $container The container name.
+     * @param BlobModels\BlobServiceOptions $options   The optional parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd179469.aspx
+     */
+    public function getContainerAclAsync(
+        $container,
+        BlobModels\BlobServiceOptions $options = null
+    );
+
+    /**
+    * Sets the ACL and any container-level access policies for the container.
+    *
+    * @param string                        $container name
+    * @param BlobModels\ContainerACL       $acl       access control list for container
+    * @param BlobModels\BlobServiceOptions $options   optional parameters
+    *
+    * @return void
+    *
+    * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd179391.aspx
+    */
+    public function setContainerAcl(
+        $container,
+        BlobModels\ContainerACL $acl,
+        BlobModels\BlobServiceOptions $options = null
+    );
+
+    /**
+     * Creates promise to set the ACL and any container-level access policies
+     * for the container.
+     *
+     * @param string                        $container name
+     * @param BlobModels\ContainerACL       $acl       access control list for container
+     * @param BlobModels\BlobServiceOptions $options   optional parameters
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd179391.aspx
+     */
+    public function setContainerAclAsync(
+        $container,
+        BlobModels\ContainerACL $acl,
+        BlobModels\BlobServiceOptions $options = null
+    );
+
+    /**
+    * Sets metadata headers on the container.
+    *
+    * @param string                        $container name
+    * @param array                         $metadata  metadata key/value pair.
+    * @param BlobModels\BlobServiceOptions $options   optional parameters
+    *
+    * @return void
+    *
+    * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd179362.aspx
+    */
+    public function setContainerMetadata(
+        $container,
+        array $metadata,
+        BlobModels\BlobServiceOptions $options = null
+    );
+
+    /**
+     * Sets metadata headers on the container.
+     *
+     * @param string                        $container name
+     * @param array                         $metadata  metadata key/value pair.
+     * @param BlobModels\BlobServiceOptions $options   optional parameters
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd179362.aspx
+     */
+    public function setContainerMetadataAsync(
+        $container,
+        array $metadata,
+        BlobModels\BlobServiceOptions $options = null
+    );
+
+    /**
+    * Lists all of the blobs in the given container.
+    *
+    * @param string                      $container name
+    * @param BlobModels\ListBlobsOptions $options   optional parameters
+    *
+    * @return BlobModels\ListBlobsResult
+    *
+    * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd135734.aspx
+    */
+    public function listBlobs(
+        $container,
+        BlobModels\ListBlobsOptions $options = null
+    );
+
+    /**
+     * Creates promise to list all of the blobs in the given container.
+     *
+     * @param string                      $container The container name.
+     * @param BlobModels\ListBlobsOptions $options   The optional parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd135734.aspx
+     */
+    public function listBlobsAsync(
+        $container,
+        BlobModels\ListBlobsOptions $options = null
+    );
+
+    /**
+    * Creates a new page blob. Note that calling createPageBlob to create a page
+    * blob only initializes the blob.
+    * To add content to a page blob, call createBlobPages method.
+    *
+    * @param string                       $container name of the container
+    * @param string                       $blob      name of the blob
+    * @param int                          $length    specifies the maximum size
+    * for the page blob, up to 1 TB. The page blob size must be aligned to
+    * a 512-byte boundary.
+    * @param BlobModels\CreateBlobOptions $options   optional parameters
+    *
+    * @return BlobModels\CopyBlobResult
+    *
+    * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd179451.aspx
+    */
+    public function createPageBlob(
+        $container,
+        $blob,
+        $length,
+        BlobModels\CreateBlobOptions $options = null
+    );
+
+    /**
+     * Creates promise to create a new page blob. Note that calling
+     * createPageBlob to create a page blob only initializes the blob.
+     * To add content to a page blob, call createBlobPages method.
+     *
+     * @param string                       $container The container name.
+     * @param string                       $blob      The blob name.
+     * @param integer                      $length    Specifies the maximum size
+     *                                                for the page blob, up to
+     *                                                1 TB. The page blob size
+     *                                                must be aligned to a
+     *                                                512-byte boundary.
+     * @param BlobModels\CreateBlobOptions $options   The optional parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd179451.aspx
+     */
+    public function createPageBlobAsync(
+        $container,
+        $blob,
+        $length,
+        BlobModels\CreateBlobOptions $options = null
+    );
+
+    /**
+     * Create a new append blob.
+     * If the blob already exists on the service, it will be overwritten.
+     *
+     * @param string                   $container The container name.
+     * @param string                   $blob      The blob name.
+     * @param Models\CreateBlobOptions $options   The optional parameters.
+     *
+     * @return Models\PutBlobResult
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd179451.aspx
+     */
+    public function createAppendBlob(
+        $container,
+        $blob,
+        BlobModels\CreateBlobOptions $options = null
+    );
+
+
+    /**
+     * Creates promise to create a new append blob.
+     * If the blob already exists on the service, it will be overwritten.
+     *
+     * @param string                   $container The container name.
+     * @param string                   $blob      The blob name.
+     * @param Models\CreateBlobOptions $options   The optional parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd179451.aspx
+     */
+    public function createAppendBlobAsync(
+        $container,
+        $blob,
+        BlobModels\CreateBlobOptions $options = null
+    );
+
+    /**
+    * Creates a new block blob or updates the content of an existing block blob.
+    * Updating an existing block blob overwrites any existing metadata on the blob.
+    * Partial updates are not supported with createBlockBlob; the content of the
+    * existing blob is overwritten with the content of the new blob. To perform a
+    * partial update of the content of a block blob, use the createBlockList method.
+    *
+    * @param string                       $container name of the container
+    * @param string                       $blob      name of the blob
+    * @param string                       $content   content of the blob
+    * @param BlobModels\CreateBlobOptions $options   optional parameters
+    *
+    * @return BlobModels\CopyBlobResult
+    *
+    * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd179451.aspx
+    */
+    public function createBlockBlob(
+        $container,
+        $blob,
+        $content,
+        BlobModels\CreateBlobOptions $options = null
+    );
+
+    /**
+     * Creates a promise to create a new block blob or updates the content of
+     * an existing block blob.
+     *
+     * Updating an existing block blob overwrites any existing metadata on the blob.
+     * Partial updates are not supported with createBlockBlob the content of the
+     * existing blob is overwritten with the content of the new blob. To perform a
+     * partial update of the content of a block blob, use the createBlockList
+     * method.
+     *
+     * @param string                          $container The name of the container.
+     * @param string                          $blob      The name of the blob.
+     * @param string|resource|StreamInterface $content   The content of the blob.
+     * @param BlobModels\CreateBlobOptions    $options   The optional parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd179451.aspx
+     */
+    public function createBlockBlobAsync(
+        $container,
+        $blob,
+        $content,
+        BlobModels\CreateBlobOptions $options = null
+    );
+
+    /**
+     * Create a new page blob and upload the content to the page blob.
+     *
+     * @param string                          $container The name of the container.
+     * @param string                          $blob      The name of the blob.
+     * @param int                             $length    The length of the blob.
+     * @param string|resource|StreamInterface $content   The content of the blob.
+     * @param BlobModels\CreateBlobOptions    $options   The optional parameters.
+     *
+     * @return BlobModels\GetBlobPropertiesResult
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/fileservices/get-blob-properties
+     */
+    public function createPageBlobFromContent(
+        $container,
+        $blob,
+        $length,
+        $content,
+        BlobModels\CreateBlobOptions $options = null
+    );
+
+    /**
+     * Creates a promise to create a new page blob and upload the content
+     * to the page blob.
+     *
+     * @param string                          $container The name of the container.
+     * @param string                          $blob      The name of the blob.
+     * @param int                             $length    The length of the blob.
+     * @param string|resource|StreamInterface $content   The content of the blob.
+     * @param BlobModels\CreateBlobOptions    $options   The optional parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/fileservices/get-blob-properties
+     */
+    public function createPageBlobFromContentAsync(
+        $container,
+        $blob,
+        $length,
+        $content,
+        BlobModels\CreateBlobOptions $options = null
+    );
+
+    /**
+    * Clears a range of pages from the blob.
+    *
+    * @param string                            $container name of the container
+    * @param string                            $blob      name of the blob
+    * @param Range                             $range     Can be up to the value
+    * of the blob's full size.
+    * @param BlobModels\CreateBlobPagesOptions $options   optional parameters
+    *
+    * @return BlobModels\CreateBlobPagesResult.
+    *
+    * @see http://msdn.microsoft.com/en-us/library/windowsazure/ee691975.aspx
+    */
+    public function clearBlobPages(
+        $container,
+        $blob,
+        Range $range,
+        BlobModels\CreateBlobPagesOptions $options = null
+    );
+
+    /**
+     * Creates promise to clear a range of pages from the blob.
+     *
+     * @param string                            $container name of the container
+     * @param string                            $blob      name of the blob
+     * @param Range                             $range     Can be up to the value
+     *                                                     of the blob's full size.
+     *                                                     Note that ranges must be
+     *                                                     aligned to 512 (0-511,
+     *                                                     512-1023)
+     * @param BlobModels\CreateBlobPagesOptions $options   optional parameters
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/ee691975.aspx
+     */
+    public function clearBlobPagesAsync(
+        $container,
+        $blob,
+        Range $range,
+        BlobModels\CreateBlobPagesOptions $options = null
+    );
+
+    /**
+    * Creates a range of pages to a page blob.
+    *
+    * @param string                            $container name of the container
+    * @param string                            $blob      name of the blob
+    * @param Range                             $range     Can be up to 4 MB in size
+    * @param string                            $content   the blob contents
+    * @param BlobModels\CreateBlobPagesOptions $options   optional parameters
+    *
+    * @return BlobModels\CreateBlobPagesResult
+    *
+    * @see http://msdn.microsoft.com/en-us/library/windowsazure/ee691975.aspx
+    */
+    public function createBlobPages(
+        $container,
+        $blob,
+        Range $range,
+        $content,
+        BlobModels\CreateBlobPagesOptions $options = null
+    );
+
+    /**
+     * Creates promise to create a range of pages to a page blob.
+     *
+     * @param string                            $container name of the container
+     * @param string                            $blob      name of the blob
+     * @param Range                             $range     Can be up to 4 MB in
+     *                                                     size. Note that ranges
+     *                                                     must be aligned to 512
+     *                                                     (0-511, 512-1023)
+     * @param string|resource|StreamInterface   $content   the blob contents.
+     * @param BlobModels\CreateBlobPagesOptions $options   optional parameters
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/ee691975.aspx
+     */
+    public function createBlobPagesAsync(
+        $container,
+        $blob,
+        Range $range,
+        $content,
+        BlobModels\CreateBlobPagesOptions $options = null
+    );
+
+    /**
+    * Creates a new block to be committed as part of a block blob.
+    *
+    * @param string                            $container name of the container
+    * @param string                            $blob      name of the blob
+    * @param string                            $blockId   must be less than or equal to
+    * 64 bytes in size. For a given blob, the length of the value specified for the
+    * blockid parameter must be the same size for each block.
+    * @param string                            $content   the blob block contents
+    * @param BlobModels\CreateBlobBlockOptions $options   optional parameters
+    *
+    * @return void
+    *
+    * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd135726.aspx
+    */
+    public function createBlobBlock(
+        $container,
+        $blob,
+        $blockId,
+        $content,
+        BlobModels\CreateBlobBlockOptions $options = null
+    );
+
+    /**
+     * Creates a new block to be committed as part of a block blob.
+     *
+     * @param string                              $container name of the container
+     * @param string                              $blob      name of the blob
+     * @param string                              $blockId   must be less than or
+     *                                                       equal to 64 bytes in
+     *                                                       size. For a given
+     *                                                       blob, the length of
+     *                                                       the value specified
+     *                                                       for the blockid
+     *                                                       parameter must
+     *                                                       be the same size for
+     *                                                       each block.
+     * @param resource|string|StreamInterface     $content   the blob block contents
+     * @param BlobModels\CreateBlobBlockOptions   $options   optional parameters
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd135726.aspx
+     */
+    public function createBlobBlockAsync(
+        $container,
+        $blob,
+        $blockId,
+        $content,
+        BlobModels\CreateBlobBlockOptions $options = null
+    );
+    
+    /**
+     * Commits a new block of data to the end of an existing append blob.
+     *
+     * @param string                          $container name of the container
+     * @param string                          $blob      name of the blob
+     * @param resource|string|StreamInterface $content   the blob block contents
+     * @param Models\AppendBlockOptions       $options   optional parameters
+     *
+     * @return Models\AppendBlockResult
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/fileservices/append-block
+     */
+    public function appendBlock(
+        $container,
+        $blob,
+        $content,
+        BlobModels\AppendBlockOptions $options = null
+    );
+
+    /**
+     * Creates promise to commit a new block of data to the end of an existing append blob.
+     *
+     * @param string                          $container name of the container
+     * @param string                          $blob      name of the blob
+     * @param resource|string|StreamInterface $content   the blob block contents
+     * @param Models\AppendBlockOptions       $options   optional parameters
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/fileservices/append-block
+     */
+    public function appendBlockAsync(
+        $container,
+        $blob,
+        $content,
+        BlobModels\AppendBlockOptions $options = null
+    );
+
+    /**
+    * This method writes a blob by specifying the list of block IDs that make up the
+    * blob. In order to be written as part of a blob, a block must have been
+    * successfully written to the server in a prior createBlobBlock method.
+    *
+    * You can call Put Block List to update a blob by uploading only those blocks
+    * that have changed, then committing the new and existing blocks together.
+    * You can do this by specifying whether to commit a block from the committed
+    * block list or from the uncommitted block list, or to commit the most recently
+    * uploaded version of the block, whichever list it may belong to.
+    *
+    * @param string                                  $container name of the container
+    * @param string                                  $blob      name of the blob
+    * @param BlobModels\BlockList|BlobModels\Block[] $blockList the block list entries
+    * @param BlobModels\CommitBlobBlocksOptions      $options   optional parameters
+    *
+    * @return BlobModels\PutBlobResult
+    *
+    * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd179467.aspx
+    */
+    public function commitBlobBlocks(
+        $container,
+        $blob,
+        $blockList,
+        BlobModels\CommitBlobBlocksOptions $options = null
+    );
+
+    /**
+     * This method writes a blob by specifying the list of block IDs that make up the
+     * blob. In order to be written as part of a blob, a block must have been
+     * successfully written to the server in a prior createBlobBlock method.
+     *
+     * You can call Put Block List to update a blob by uploading only those blocks
+     * that have changed, then committing the new and existing blocks together.
+     * You can do this by specifying whether to commit a block from the committed
+     * block list or from the uncommitted block list, or to commit the most recently
+     * uploaded version of the block, whichever list it may belong to.
+     *
+     * @param string                                  $container name of the container
+     * @param string                                  $blob      name of the blob
+     * @param BlobModels\BlockList|BlobModels\Block[] $blockList the block list
+     *                                                           entries
+     * @param BlobModels\CommitBlobBlocksOptions      $options   optional parameters
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd179467.aspx
+     */
+    public function commitBlobBlocksAsync(
+        $container,
+        $blob,
+        $blockList,
+        BlobModels\CommitBlobBlocksOptions $options = null
+    );
+
+    /**
+    * Retrieves the list of blocks that have been uploaded as part of a block blob.
+    *
+    * There are two block lists maintained for a blob:
+    * 1) Committed Block List: The list of blocks that have been successfully
+    *    committed to a given blob with commitBlobBlocks.
+    * 2) Uncommitted Block List: The list of blocks that have been uploaded for a
+    *    blob using Put Block (REST API), but that have not yet been committed.
+    *    These blocks are stored in Windows Azure in association with a blob, but do
+    *    not yet form part of the blob.
+    *
+    * @param string                           $container name of the container
+    * @param string                           $blob      name of the blob
+    * @param BlobModels\ListBlobBlocksOptions $options   optional parameters
+    *
+    * @return BlobModels\ListBlobBlocksResult
+    *
+    * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd179400.aspx
+    */
+    public function listBlobBlocks(
+        $container,
+        $blob,
+        BlobModels\ListBlobBlocksOptions $options = null
+    );
+
+    /**
+     * Creates promise to retrieve the list of blocks that have been uploaded as
+     * part of a block blob.
+     *
+     * There are two block lists maintained for a blob:
+     * 1) Committed Block List: The list of blocks that have been successfully
+     *    committed to a given blob with commitBlobBlocks.
+     * 2) Uncommitted Block List: The list of blocks that have been uploaded for a
+     *    blob using Put Block (REST API), but that have not yet been committed.
+     *    These blocks are stored in Windows Azure in association with a blob, but do
+     *    not yet form part of the blob.
+     *
+     * @param string                           $container name of the container
+     * @param string                           $blob      name of the blob
+     * @param BlobModels\ListBlobBlocksOptions $options   optional parameters
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd179400.aspx
+     */
+    public function listBlobBlocksAsync(
+        $container,
+        $blob,
+        BlobModels\ListBlobBlocksOptions $options = null
+    );
+
+    /**
+    * Returns all properties and metadata on the blob.
+    *
+    * @param string                              $container name of the container
+    * @param string                              $blob      name of the blob
+    * @param BlobModels\GetBlobPropertiesOptions $options   optional parameters
+    *
+    * @return BlobModels\GetBlobPropertiesResult
+    *
+    * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd179394.aspx
+    */
+    public function getBlobProperties(
+        $container,
+        $blob,
+        BlobModels\GetBlobPropertiesOptions $options = null
+    );
+
+    /**
+     * Creates promise to return all properties and metadata on the blob.
+     *
+     * @param string                              $container name of the container
+     * @param string                              $blob      name of the blob
+     * @param BlobModels\GetBlobPropertiesOptions $options   optional parameters
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd179394.aspx
+     */
+    public function getBlobPropertiesAsync(
+        $container,
+        $blob,
+        BlobModels\GetBlobPropertiesOptions $options = null
+    );
+
+    /**
+    * Returns all properties and metadata on the blob.
+    *
+    * @param string                            $container name of the container
+    * @param string                            $blob      name of the blob
+    * @param BlobModels\GetBlobMetadataOptions $options   optional parameters
+    *
+    * @return BlobModels\GetBlobMetadataResult
+    *
+    * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd179350.aspx
+    */
+    public function getBlobMetadata(
+        $container,
+        $blob,
+        BlobModels\GetBlobMetadataOptions $options = null
+    );
+
+    /**
+     * Creates promise to return all properties and metadata on the blob.
+     *
+     * @param string                            $container name of the container
+     * @param string                            $blob      name of the blob
+     * @param BlobModels\GetBlobMetadataOptions $options   optional parameters
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd179350.aspx
+     */
+    public function getBlobMetadataAsync(
+        $container,
+        $blob,
+        BlobModels\GetBlobMetadataOptions $options = null
+    );
+
+    /**
+    * Returns a list of active page ranges for a page blob. Active page ranges are
+    * those that have been populated with data.
+    *
+    * @param string                               $container name of the container
+    * @param string                               $blob      name of the blob
+    * @param BlobModels\ListPageBlobRangesOptions $options   optional parameters
+    *
+    * @return BlobModels\ListPageBlobRangesResult
+    *
+    * @see http://msdn.microsoft.com/en-us/library/windowsazure/ee691973.aspx
+    */
+    public function listPageBlobRanges(
+        $container,
+        $blob,
+        BlobModels\ListPageBlobRangesOptions $options = null
+    );
+
+    /**
+     * Creates promise to return a list of active page ranges for a page blob.
+     * Active page ranges are those that have been populated with data.
+     *
+     * @param string                               $container name of the
+     *                                                        container
+     * @param string                               $blob      name of the blob
+     * @param BlobModels\ListPageBlobRangesOptions $options   optional parameters
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/ee691973.aspx
+     */
+    public function listPageBlobRangesAsync(
+        $container,
+        $blob,
+        BlobModels\ListPageBlobRangesOptions $options = null
+    );
+
+    /**
+     * Returns a list of page ranges that have been updated or cleared. 
+     *
+     * Returns a list of page ranges that have been updated or cleared since 
+     * the snapshot specified by `previousSnapshotTime`. Gets all of the page 
+     * ranges by default, or only the page ranges over a specific range of 
+     * bytes if `rangeStart` and `rangeEnd` in the `options` are specified.
+     *
+     * @param string                               $container             name of the container
+     * @param string                               $blob                  name of the blob
+     * @param string                               $previousSnapshotTime  previous snapshot time 
+     *                                                                    for comparison which
+     *                                                                    should be prior to the 
+     *                                                                    snapshot time defined
+     *                                                                    in `options`
+     * @param BlobModels\ListPageBlobRangesOptions $options               optional parameters
+     *
+     * @return BlobModels\ListPageBlobRangesDiffResult
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/version-2015-07-08
+     */
+    public function listPageBlobRangesDiff(
+        $container,
+        $blob,
+        $previousSnapshotTime,
+        BlobModels\ListPageBlobRangesOptions $options = null
+    );
+
+    /**
+     * Creates promise to return a list of page ranges that have been updated
+     * or cleared. 
+     *
+     * Creates promise to return a list of page ranges that have been updated
+     * or cleared since the snapshot specified by `previousSnapshotTime`. Gets
+     * all of the page ranges by default, or only the page ranges over a specific
+     * range of bytes if `rangeStart` and `rangeEnd` in the `options` are specified.
+     *
+     * @param string                               $container               name of the container
+     * @param string                               $blob                    name of the blob
+     * @param string                               $previousSnapshotTime    previous snapshot time
+     *                                                                      for comparison which
+     *                                                                      should be prior to the
+     *                                                                      snapshot time defined
+     *                                                                      in `options`
+     * @param BlobModels\ListPageBlobRangesOptions $options                 optional parameters
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/ee691973.aspx
+     */
+    public function listPageBlobRangesDiffAsync(
+        $container,
+        $blob,
+        $previousSnapshotTime,
+        BlobModels\ListPageBlobRangesOptions $options = null
+    );
+
+    /**
+    * Sets system properties defined for a blob.
+    *
+    * @param string                              $container name of the container
+    * @param string                              $blob      name of the blob
+    * @param BlobModels\SetBlobPropertiesOptions $options   optional parameters
+    *
+    * @return BlobModels\SetBlobPropertiesResult
+    *
+    * @see http://msdn.microsoft.com/en-us/library/windowsazure/ee691966.aspx
+    */
+    public function setBlobProperties(
+        $container,
+        $blob,
+        BlobModels\SetBlobPropertiesOptions $options = null
+    );
+
+    /**
+     * Creates promise to set system properties defined for a blob.
+     *
+     * @param string                              $container name of the container
+     * @param string                              $blob      name of the blob
+     * @param BlobModels\SetBlobPropertiesOptions $options   optional parameters
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/ee691966.aspx
+     */
+    public function setBlobPropertiesAsync(
+        $container,
+        $blob,
+        BlobModels\SetBlobPropertiesOptions $options = null
+    );
+
+    /**
+    * Sets metadata headers on the blob.
+    *
+    * @param string                         $container name of the container
+    * @param string                         $blob      name of the blob
+    * @param array                          $metadata  key/value pair representation
+    * @param BlobModels\BlobServiceOptions  $options   optional parameters
+    *
+    * @return BlobModels\SetBlobMetadataResult
+    *
+    * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd179414.aspx
+    */
+    public function setBlobMetadata(
+        $container,
+        $blob,
+        array $metadata,
+        BlobModels\BlobServiceOptions $options = null
+    );
+
+    /**
+     * Creates promise to set metadata headers on the blob.
+     *
+     * @param string                            $container name of the container
+     * @param string                            $blob      name of the blob
+     * @param array                             $metadata  key/value pair representation
+     * @param BlobModels\BlobServiceOptions     $options   optional parameters
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd179414.aspx
+     */
+    public function setBlobMetadataAsync(
+        $container,
+        $blob,
+        array $metadata,
+        BlobModels\BlobServiceOptions $options = null
+    );
+
+    /**
+    * Reads or downloads a blob from the system, including its metadata and
+    * properties.
+    *
+    * @param string                    $container name of the container
+    * @param string                    $blob      name of the blob
+    * @param BlobModels\GetBlobOptions $options   optional parameters
+    *
+    * @return BlobModels\GetBlobResult
+    *
+    * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd179440.aspx
+    */
+    public function getBlob(
+        $container,
+        $blob,
+        BlobModels\GetBlobOptions $options = null
+    );
+
+    /**
+     * Creates promise to read or download a blob from the system, including its
+     * metadata and properties.
+     *
+     * @param string                    $container name of the container
+     * @param string                    $blob      name of the blob
+     * @param BlobModels\GetBlobOptions $options   optional parameters
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd179440.aspx
+     */
+    public function getBlobAsync(
+        $container,
+        $blob,
+        BlobModels\GetBlobOptions $options = null
+    );
+
+    /**
+     * Deletes a blob or blob snapshot.
+     *
+     * Note that if the snapshot entry is specified in the $options then only this
+     * blob snapshot is deleted. To delete all blob snapshots, do not set Snapshot
+     * and just set getDeleteSnaphotsOnly to true.
+     *
+     * @param string                       $container name of the container
+     * @param string                       $blob      name of the blob
+     * @param BlobModels\DeleteBlobOptions $options   optional parameters
+     *
+     * @return void
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd179413.aspx
+     */
+    public function deleteBlob(
+        $container,
+        $blob,
+        BlobModels\DeleteBlobOptions $options = null
+    );
+
+    /**
+     * Creates promise to delete a blob or blob snapshot.
+     *
+     * Note that if the snapshot entry is specified in the $options then only this
+     * blob snapshot is deleted. To delete all blob snapshots, do not set Snapshot
+     * and just set getDeleteSnaphotsOnly to true.
+     *
+     * @param string                       $container name of the container
+     * @param string                       $blob      name of the blob
+     * @param BlobModels\DeleteBlobOptions $options   optional parameters
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd179413.aspx
+     */
+    public function deleteBlobAsync(
+        $container,
+        $blob,
+        BlobModels\DeleteBlobOptions $options = null
+    );
+
+    /**
+    * Creates a snapshot of a blob.
+    *
+    * @param string                               $container name of the container
+    * @param string                               $blob      name of the blob
+    * @param BlobModels\CreateBlobSnapshotOptions $options   optional parameters
+    *
+    * @return BlobModels\CreateBlobSnapshotResult
+    *
+    * @see http://msdn.microsoft.com/en-us/library/windowsazure/ee691971.aspx
+    */
+    public function createBlobSnapshot(
+        $container,
+        $blob,
+        BlobModels\CreateBlobSnapshotOptions $options = null
+    );
+
+    /**
+     * Creates promise to create a snapshot of a blob.
+     *
+     * @param string                               $container The name of the
+     *                                                        container.
+     * @param string                               $blob      The name of the
+     *                                                        blob.
+     * @param BlobModels\CreateBlobSnapshotOptions $options   The optional
+     *                                                        parameters.
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/ee691971.aspx
+     */
+    public function createBlobSnapshotAsync(
+        $container,
+        $blob,
+        BlobModels\CreateBlobSnapshotOptions $options = null
+    );
+
+    /**
+    * Copies a source blob to a destination blob within the same storage account.
+    *
+    * @param string                     $destinationContainer name of container
+    * @param string                     $destinationBlob      name of blob
+    * @param string                     $sourceContainer      name of container
+    * @param string                     $sourceBlob           name of blob
+    * @param BlobModels\CopyBlobOptions $options              optional parameters
+    *
+    * @return BlobModels\CopyBlobResult
+    *
+    * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd894037.aspx
+    */
+    public function copyBlob(
+        $destinationContainer,
+        $destinationBlob,
+        $sourceContainer,
+        $sourceBlob,
+        BlobModels\CopyBlobOptions $options = null
+    );
+
+    /**
+     * Creates promise to copy a source blob to a destination blob within the
+     * same storage account.
+     *
+     * @param string                     $destinationContainer name of the
+     *                                                         destination
+     *                                                         container
+     * @param string                     $destinationBlob      name of the
+     *                                                         destination blob
+     * @param string                     $sourceContainer      name of the source
+     *                                                         container
+     * @param string                     $sourceBlob           name of the source
+     *                                                         blob
+     * @param BlobModels\CopyBlobOptions $options              optional parameters
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd894037.aspx
+     */
+    public function copyBlobAsync(
+        $destinationContainer,
+        $destinationBlob,
+        $sourceContainer,
+        $sourceBlob,
+        BlobModels\CopyBlobOptions $options = null
+    );
+
+    /**
+     * Copies from a source URL to a destination blob.
+     *
+     * @param string                            $destinationContainer name of the
+     *                                                                destination
+     *                                                                container
+     * @param string                            $destinationBlob      name of the
+     *                                                                destination
+     *                                                                blob
+     * @param string                            $sourceURL            URL of the
+     *                                                                source
+     *                                                                resource
+     * @param BlobModels\CopyBlobFromURLOptions $options              optional
+     *                                                                parameters
+     *
+     * @return BlobModels\CopyBlobResult
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd894037.aspx
+     */
+    public function copyBlobFromURL(
+        $destinationContainer,
+        $destinationBlob,
+        $sourceURL,
+        BlobModels\CopyBlobFromURLOptions $options = null
+    );
+
+    /**
+     * Creates promise to copy from source URL to a destination blob.
+     *
+     * @param string                            $destinationContainer name of the
+     *                                                                destination
+     *                                                                container
+     * @param string                            $destinationBlob      name of the
+     *                                                                destination
+     *                                                                blob
+     * @param string                            $sourceURL            URL of the
+     *                                                                source
+     *                                                                resource
+     * @param BlobModels\CopyBlobFromURLOptions $options              optional
+     *                                                                parameters
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/dd894037.aspx
+     */
+    public function copyBlobFromURLAsync(
+        $destinationContainer,
+        $destinationBlob,
+        $sourceURL,
+        BlobModels\CopyBlobFromURLOptions $options = null
+    );
+
+    /**
+     * Abort a blob copy operation
+     *
+     * @param string                        $container            name of the container
+     * @param string                        $blob                 name of the blob
+     * @param string                        $copyId               copy operation identifier.
+     * @param BlobModels\BlobServiceOptions $options              optional parameters
+     *
+     * @return void
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/fileservices/abort-copy-blob
+     */
+    public function abortCopy(
+        $container,
+        $blob,
+        $copyId,
+        BlobModels\BlobServiceOptions $options = null
+    );
+
+    /**
+     * Creates promise to abort a blob copy operation
+     *
+     * @param string                        $container            name of the container
+     * @param string                        $blob                 name of the blob
+     * @param string                        $copyId               copy operation identifier.
+     * @param BlobModels\BlobServiceOptions $options              optional parameters
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/fileservices/abort-copy-blob
+     */
+    public function abortCopyAsync(
+        $container,
+        $blob,
+        $copyId,
+        BlobModels\BlobServiceOptions $options = null
+    );
+
+    /**
+     * Establishes an exclusive write lock on a blob. To write to a locked
+     * blob, a client must provide a lease ID.
+     *
+     * @param string                     $container         name of the container
+     * @param string                     $blob              name of the blob
+     * @param string                     $proposedLeaseId   lease id when acquiring
+     * @param int                        $leaseDuration     the lease duration. A non-infinite
+     *                                                      lease can be between 15 and 60 seconds.
+     *                                                      Default is never to expire.
+     * @param Models\BlobServiceOptions  $options           optional parameters
+     *
+     * @return Models\LeaseResult
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/ee691972.aspx
+     */
+    public function acquireLease(
+        $container,
+        $blob,
+        $proposedLeaseId = null,
+        $leaseDuration = null,
+        BlobModels\BlobServiceOptions $options = null
+    );
+
+    /**
+     * Creates promise to establish an exclusive one-minute write lock on a blob.
+     * To write to a locked blob, a client must provide a lease ID.
+     *
+     * @param string                     $container         name of the container
+     * @param string                     $blob              name of the blob
+     * @param string                     $proposedLeaseId   lease id when acquiring
+     * @param int                        $leaseDuration     the lease duration. A non-infinite
+     *                                                      lease can be between 15 and 60 seconds.
+     *                                                      Default is never to expire.
+     * @param Models\BlobServiceOptions  $options           optional parameters
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/ee691972.aspx
+     */
+    public function acquireLeaseAsync(
+        $container,
+        $blob,
+        $proposedLeaseId = null,
+        $leaseDuration = null,
+        BlobModels\BlobServiceOptions $options = null
+    );
+    
+    /**
+     * change an existing lease
+     *
+     * @param string                        $container         name of the container
+     * @param string                        $blob              name of the blob
+     * @param string                        $leaseId           lease id when acquiring
+     * @param string                        $proposedLeaseId   lease id when acquiring
+     * @param BlobModels\BlobServiceOptions $options           optional parameters
+     *
+     * @return BlobModels\LeaseResult
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/fileservices/lease-blob
+     */
+    public function changeLease(
+        $container,
+        $blob,
+        $leaseId,
+        $proposedLeaseId,
+        BlobModels\BlobServiceOptions $options = null
+    );
+
+    /**
+     * Creates promise to change an existing lease
+     *
+     * @param string                        $container         name of the container
+     * @param string                        $blob              name of the blob
+     * @param string                        $leaseId           lease id when acquiring
+     * @param string                        $proposedLeaseId   the proposed lease id
+     * @param BlobModels\BlobServiceOptions $options           optional parameters
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see https://docs.microsoft.com/en-us/rest/api/storageservices/fileservices/lease-blob
+     */
+    public function changeLeaseAsync(
+        $container,
+        $blob,
+        $leaseId,
+        $proposedLeaseId,
+        BlobModels\BlobServiceOptions $options = null
+    );
+
+    /**
+    * Renews an existing lease
+    *
+    * @param string                        $container name of the container
+    * @param string                        $blob      name of the blob
+    * @param string                        $leaseId   lease id when acquiring
+    * @param BlobModels\BlobServiceOptions $options   optional parameters
+    *
+    * @return BlobModels\AcquireLeaseResult
+    *
+    * @see http://msdn.microsoft.com/en-us/library/windowsazure/ee691972.aspx
+    */
+    public function renewLease(
+        $container,
+        $blob,
+        $leaseId,
+        BlobModels\BlobServiceOptions $options = null
+    );
+
+    /**
+     * Creates promise to renew an existing lease
+     *
+     * @param string                        $container name of the container
+     * @param string                        $blob      name of the blob
+     * @param string                        $leaseId   lease id when acquiring
+     * @param BlobModels\BlobServiceOptions $options   optional parameters
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/ee691972.aspx
+     */
+    public function renewLeaseAsync(
+        $container,
+        $blob,
+        $leaseId,
+        BlobModels\BlobServiceOptions $options = null
+    );
+
+
+    /**
+    * Frees the lease if it is no longer needed so that another client may
+    * immediately acquire a lease against the blob.
+    *
+    * @param string                        $container name of the container
+    * @param string                        $blob      name of the blob
+    * @param string                        $leaseId   lease id when acquiring
+    * @param BlobModels\BlobServiceOptions $options   optional parameters
+    *
+    * @return void
+    *
+    * @see http://msdn.microsoft.com/en-us/library/windowsazure/ee691972.aspx
+    */
+    public function releaseLease(
+        $container,
+        $blob,
+        $leaseId,
+        BlobModels\BlobServiceOptions $options = null
+    );
+
+    /**
+     * Creates promise to free the lease if it is no longer needed so that
+     * another client may immediately acquire a lease against the blob.
+     *
+     * @param string                        $container name of the container
+     * @param string                        $blob      name of the blob
+     * @param string                        $leaseId   lease id when acquiring
+     * @param BlobModels\BlobServiceOptions $options   optional parameters
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/ee691972.aspx
+     */
+    public function releaseLeaseAsync(
+        $container,
+        $blob,
+        $leaseId,
+        BlobModels\BlobServiceOptions $options = null
+    );
+
+    /**
+    * Ends the lease but ensure that another client cannot acquire a new lease until
+    * the current lease period has expired.
+    *
+    * @param string                        $container name of the container
+    * @param string                        $blob      name of the blob
+    * @param BlobModels\BlobServiceOptions $options   optional parameters
+    *
+    * @return void
+    *
+    * @see http://msdn.microsoft.com/en-us/library/windowsazure/ee691972.aspx
+    */
+    public function breakLease(
+        $container,
+        $blob,
+        $breakPeriod = null,
+        BlobModels\BlobServiceOptions $options = null
+    );
+
+    /**
+     * Creates promise to end the lease but ensure that another client cannot
+     * acquire a new lease until the current lease period has expired.
+     *
+     * @param string                        $container name of the container
+     * @param string                        $blob      name of the blob
+     * @param BlobModels\BlobServiceOptions $options   optional parameters
+     *
+     * @return \GuzzleHttp\Promise\PromiseInterface
+     *
+     * @see http://msdn.microsoft.com/en-us/library/windowsazure/ee691972.aspx
+     */
+    public function breakLeaseAsync(
+        $container,
+        $blob,
+        $breakPeriod = null,
+        BlobModels\BlobServiceOptions $options = null
+    );
+}

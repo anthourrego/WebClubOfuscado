@@ -1,91 +1,112 @@
-<?php //ICB0 56:0 71:e89                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Blob\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+ 
+namespace MicrosoftAzure\Storage\Blob\Models;
 
-?>
-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
-+TyEHnF0qZ9vh3Vzci0=
+use MicrosoftAzure\Storage\Common\Internal\Validate;
+use MicrosoftAzure\Storage\Common\Models\Range;
+
+/**
+ * Optional parameters for getBlob wrapper
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Blob\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+class GetBlobOptions extends BlobServiceOptions
+{
+    private $snapshot;
+    private $range;
+    private $rangeGetContentMD5;
+    
+    /**
+     * Gets blob snapshot.
+     *
+     * @return string
+     */
+    public function getSnapshot()
+    {
+        return $this->snapshot;
+    }
+
+    /**
+     * Sets blob snapshot.
+     *
+     * @param string $snapshot value.
+     *
+     * @return void
+     */
+    public function setSnapshot($snapshot)
+    {
+        $this->snapshot = $snapshot;
+    }
+
+    /**
+     * Gets Blob range.
+     *
+     * @return Range
+     */
+    public function getRange()
+    {
+        return $this->range;
+    }
+
+    /**
+     * Sets Blob range.
+     *
+     * @param Range $range value.
+     *
+     * @return void
+     */
+    public function setRange(Range $range)
+    {
+        $this->range = $range;
+    }
+
+    /**
+     * Gets rangeGetContentMD5
+     *
+     * @return boolean
+     */
+    public function getRangeGetContentMD5()
+    {
+        return $this->rangeGetContentMD5;
+    }
+
+    /**
+     * Sets rangeGetContentMD5
+     *
+     * @param boolean $rangeGetContentMD5 value
+     *
+     * @return void
+     */
+    public function setRangeGetContentMD5($rangeGetContentMD5)
+    {
+        Validate::isBoolean($rangeGetContentMD5);
+        $this->rangeGetContentMD5 = $rangeGetContentMD5;
+    }
+}

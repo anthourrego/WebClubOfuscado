@@ -1,332 +1,280 @@
-<?php //ICB0 56:0 71:3149                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace GuzzleHttp\Promise;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-z9xgBgutHoG9FKaCOgP0g+sd0TD09AEnJL9fJW===
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * Promises/A+ implementation that avoids recursion when possible.
+ *
+ * @link https://promisesaplus.com/
+ */
+class Promise implements PromiseInterface
+{
+    private $state = self::PENDING;
+    private $result;
+    private $cancelFn;
+    private $waitFn;
+    private $waitList;
+    private $handlers = [];
 
-?>
-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
+    /**
+     * @param callable $waitFn   Fn that when invoked resolves the promise.
+     * @param callable $cancelFn Fn that when invoked cancels the promise.
+     */
+    public function __construct(
+        callable $waitFn = null,
+        callable $cancelFn = null
+    ) {
+        $this->waitFn = $waitFn;
+        $this->cancelFn = $cancelFn;
+    }
+
+    public function then(
+        callable $onFulfilled = null,
+        callable $onRejected = null
+    ) {
+        if ($this->state === self::PENDING) {
+            $p = new Promise(null, [$this, 'cancel']);
+            $this->handlers[] = [$p, $onFulfilled, $onRejected];
+            $p->waitList = $this->waitList;
+            $p->waitList[] = $this;
+            return $p;
+        }
+
+        // Return a fulfilled promise and immediately invoke any callbacks.
+        if ($this->state === self::FULFILLED) {
+            return $onFulfilled
+                ? promise_for($this->result)->then($onFulfilled)
+                : promise_for($this->result);
+        }
+
+        // It's either cancelled or rejected, so return a rejected promise
+        // and immediately invoke any callbacks.
+        $rejection = rejection_for($this->result);
+        return $onRejected ? $rejection->then(null, $onRejected) : $rejection;
+    }
+
+    public function otherwise(callable $onRejected)
+    {
+        return $this->then(null, $onRejected);
+    }
+
+    public function wait($unwrap = true)
+    {
+        $this->waitIfPending();
+
+        $inner = $this->result instanceof PromiseInterface
+            ? $this->result->wait($unwrap)
+            : $this->result;
+
+        if ($unwrap) {
+            if ($this->result instanceof PromiseInterface
+                || $this->state === self::FULFILLED
+            ) {
+                return $inner;
+            } else {
+                // It's rejected so "unwrap" and throw an exception.
+                throw exception_for($inner);
+            }
+        }
+    }
+
+    public function getState()
+    {
+        return $this->state;
+    }
+
+    public function cancel()
+    {
+        if ($this->state !== self::PENDING) {
+            return;
+        }
+
+        $this->waitFn = $this->waitList = null;
+
+        if ($this->cancelFn) {
+            $fn = $this->cancelFn;
+            $this->cancelFn = null;
+            try {
+                $fn();
+            } catch (\Throwable $e) {
+                $this->reject($e);
+            } catch (\Exception $e) {
+                $this->reject($e);
+            }
+        }
+
+        // Reject the promise only if it wasn't rejected in a then callback.
+        if ($this->state === self::PENDING) {
+            $this->reject(new CancellationException('Promise has been cancelled'));
+        }
+    }
+
+    public function resolve($value)
+    {
+        $this->settle(self::FULFILLED, $value);
+    }
+
+    public function reject($reason)
+    {
+        $this->settle(self::REJECTED, $reason);
+    }
+
+    private function settle($state, $value)
+    {
+        if ($this->state !== self::PENDING) {
+            // Ignore calls with the same resolution.
+            if ($state === $this->state && $value === $this->result) {
+                return;
+            }
+            throw $this->state === $state
+                ? new \LogicException("The promise is already {$state}.")
+                : new \LogicException("Cannot change a {$this->state} promise to {$state}");
+        }
+
+        if ($value === $this) {
+            throw new \LogicException('Cannot fulfill or reject a promise with itself');
+        }
+
+        // Clear out the state of the promise but stash the handlers.
+        $this->state = $state;
+        $this->result = $value;
+        $handlers = $this->handlers;
+        $this->handlers = null;
+        $this->waitList = $this->waitFn = null;
+        $this->cancelFn = null;
+
+        if (!$handlers) {
+            return;
+        }
+
+        // If the value was not a settled promise or a thenable, then resolve
+        // it in the task queue using the correct ID.
+        if (!method_exists($value, 'then')) {
+            $id = $state === self::FULFILLED ? 1 : 2;
+            // It's a success, so resolve the handlers in the queue.
+            queue()->add(static function () use ($id, $value, $handlers) {
+                foreach ($handlers as $handler) {
+                    self::callHandler($id, $value, $handler);
+                }
+            });
+        } elseif ($value instanceof Promise
+            && $value->getState() === self::PENDING
+        ) {
+            // We can just merge our handlers onto the next promise.
+            $value->handlers = array_merge($value->handlers, $handlers);
+        } else {
+            // Resolve the handlers when the forwarded promise is resolved.
+            $value->then(
+                static function ($value) use ($handlers) {
+                    foreach ($handlers as $handler) {
+                        self::callHandler(1, $value, $handler);
+                    }
+                },
+                static function ($reason) use ($handlers) {
+                    foreach ($handlers as $handler) {
+                        self::callHandler(2, $reason, $handler);
+                    }
+                }
+            );
+        }
+    }
+
+    /**
+     * Call a stack of handlers using a specific callback index and value.
+     *
+     * @param int   $index   1 (resolve) or 2 (reject).
+     * @param mixed $value   Value to pass to the callback.
+     * @param array $handler Array of handler data (promise and callbacks).
+     *
+     * @return array Returns the next group to resolve.
+     */
+    private static function callHandler($index, $value, array $handler)
+    {
+        /** @var PromiseInterface $promise */
+        $promise = $handler[0];
+
+        // The promise may have been cancelled or resolved before placing
+        // this thunk in the queue.
+        if ($promise->getState() !== self::PENDING) {
+            return;
+        }
+
+        try {
+            if (isset($handler[$index])) {
+                $promise->resolve($handler[$index]($value));
+            } elseif ($index === 1) {
+                // Forward resolution values as-is.
+                $promise->resolve($value);
+            } else {
+                // Forward rejections down the chain.
+                $promise->reject($value);
+            }
+        } catch (\Throwable $reason) {
+            $promise->reject($reason);
+        } catch (\Exception $reason) {
+            $promise->reject($reason);
+        }
+    }
+
+    private function waitIfPending()
+    {
+        if ($this->state !== self::PENDING) {
+            return;
+        } elseif ($this->waitFn) {
+            $this->invokeWaitFn();
+        } elseif ($this->waitList) {
+            $this->invokeWaitList();
+        } else {
+            // If there's no wait function, then reject the promise.
+            $this->reject('Cannot wait on a promise that has '
+                . 'no internal wait function. You must provide a wait '
+                . 'function when constructing the promise to be able to '
+                . 'wait on a promise.');
+        }
+
+        queue()->run();
+
+        if ($this->state === self::PENDING) {
+            $this->reject('Invoking the wait callback did not resolve the promise');
+        }
+    }
+
+    private function invokeWaitFn()
+    {
+        try {
+            $wfn = $this->waitFn;
+            $this->waitFn = null;
+            $wfn(true);
+        } catch (\Exception $reason) {
+            if ($this->state === self::PENDING) {
+                // The promise has not been resolved yet, so reject the promise
+                // with the exception.
+                $this->reject($reason);
+            } else {
+                // The promise was already resolved, so there's a problem in
+                // the application.
+                throw $reason;
+            }
+        }
+    }
+
+    private function invokeWaitList()
+    {
+        $waitList = $this->waitList;
+        $this->waitList = null;
+
+        foreach ($waitList as $result) {
+            while (true) {
+                $result->waitIfPending();
+
+                if ($result->result instanceof Promise) {
+                    $result = $result->result;
+                } else {
+                    if ($result->result instanceof PromiseInterface) {
+                        $result->result->wait(false);
+                    }
+                    break;
+                }
+            }
+        }
+    }
+}

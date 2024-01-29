@@ -1,50 +1,134 @@
-<?php //ICB0 56:0 71:8ba                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\DeviceFarm;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cPsMFXrOmRdoPpJGITKXf5EYxna0pCGteFlyI1VRXjuik0hjJcR7vmhd+x5taeQNhlrPZYcQ4
-beAtUekPo6zy/Vb0IgtY3SrZEyWoPQ6sG6GMaaoMW5kdKbf8Q4ZkybxKO8+kZ4wmtAXdTY7RD+Va
-XL4liIDxiJSTe3ORtY91AErmincxM6P822Q8bfbS8sXP1QVQBs53SJyz7itvuD1yChwd+zHKqaYJ
-gndU+fqIld3v+i8fJeN8aAYLLLszdEy58WlnVkwG0loEdbUqYTiSzzDhxb1TR6a/LOc6odSSpsGc
-/CGvVUPuAVigDTPDaFIkB+BtlQJQHz+ZNKXkXEJLwoeNcYFBBRVQYK7u+dsn0rdRBCzFmCT0I+1G
-TPCGUsELjX13hNeuWo4gDt0R9KtdCG0QRPFL37AcZUP3OBpqiX5n1IHNdPIp7+GiAOwaZMnBPfAj
-sXWQZmyXBB6ikW28Yz2kROhKibLLn/xqVpQifk+ee7VZkHBwIRmryvzR6PkIwmXgTSy65QKcL2zV
-oMuclxfXbT5Eqqr+I63vm1KnOXW8Qz0LIUllGu1ESlWO8F559bwu3/q3Sfr1NtULwD/7y+e9oEew
-zpb8CSbAdPr94nZAGeCWUPi4fgm7VT6j/UVS9V9dukpdgwCKHC2OnWENcPGzrompkqpUa/evD1m5
-9gBBbT0x8kWzUlzd/MbV8BzDMYy9XV4gPUGsugAF1uj+nWBeu+XUHt7p9anWKSzEb288ka6V1nFf
-wgoCv45BO3yerOnqN+bbakTtCA3/Yo3hPsX4fzIQ8FY5oCqBQDJIDj37v2HZSIw+MkIRFiDvTbT4
-JVq4U0JSyoaexI5W2Xv3c4+P/xej1GtvQmRpBJBiyaPSq+Nco4SamNfj1ZCH9i9qyOdFRN2QgWfD
-+P/L3ig3VXYPug3SsJ/o8jyEqIVC1KZyS5LmVUtMvF/mKindjLnxVf8q4SVIT4tCJQHhSVoY3Nc6
-fQvnKeIy/7snjqj00Ry66xWcVm4SzxCO+T4IiCJ7x3z3w26Sbhsfi9RwWMQDwOs0gcIpgYKu7PUF
-nGbOcqAc+92XG6Lvcr5MKz/7Q8l+LRJTthUGznt6T/0oXuCS2rqYwe62s9vSk+6jP63NuFqWC9LO
-/9OXB7T9ucnZOhQgrOx0Qx5UeO8kO2KW2VF5c+hvtxdTGcAn8Rez9vTCNOb5UArpi0MlUt82vaHE
-b+JGaSn+WkTUS9c+lgxEN6gw5T/YVVnxqt3xzxVmQ/VGgbMGO6HmQL3YaVCnK3Sm4w6YwKlXgQe2
-Xv0j7xbQQPlh/NzNz2u+s6nmsozfYNP2rhVFdlOD4WkYoegmUW===
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use Aws\AwsClient;
 
-?>
-HR+cPyzdZbmVitAJvjyRVygoNJL7J2SE3HsdiSkQ0v9ITgPjxp7jWy+/w2Eq2It3OO6YygJO8GU1
-BX/nf2rNeREVsXXW2dIdjJ/wh+cw3lmM1TpnXPoUYrmtwSNudBkv0WkxbCE5CJFg3OxrTyWW3Jw+
-oB5s39e2WzrYsHZOtaOF64HeTQlNJgs98e+L3ZSR/vrT2fjP5F4s4yV+ywClm77/ovCH56prCRhb
-z9NZ5c4F5Ym3kiTTqAmTgTLpMlXnDO2U35Ri2PQCiXVt9JsiVp1S6WJbXmG6P/bhmnhkvRcqdtER
-aE+eGijOeXZk2M36hjxBue5bgqR6CIuUAjppNnr4HnfYQDaEoVBqgO73XDUpdJH6RtbhUE2x8a4D
-S/kX/OQ9B70eiTr8CCYVBkQEq4gEnhf52mowOpMmt7qMk7QOU9e6PhDIIGLvPPpHQzbokRlvjFTw
-bOfA2EyK5it8vrRWy40syzxgmAZYORI8Tt+0ds8Lya44ipXfIXWHH3zqx9JfB/tb7WXCBQdC/tib
-ImqY8pJ0CfZPHXgtJbd3XHnKYmjRoIjuyZESmfpr+yhcklw6OO9VFoqKyZJnGgt2c5DWRloqGZjz
-vWgLRNF+ZOJ5qTDCS1TastLa6gpRHH83DqudhT2VtYS55bZvvLeU/qx6MA0OYrziPmtxJ9R/T9cR
-uT1F8HtpL+ZDl2j57q0Olpq20oIHlTENPXkdgHC3HeywQIP98r5y7oS9De3qfaEEncK49+nv3zJS
-CC0ldobwb654d9kfCmotktbvhkjJvZdw1YoAinWwbgzbhQs46VB2nm4qdt+dWf9eGBRymUns+fXz
-4wkERwL8CQQdUS3aJ/WjbNm+ILm7Jx5rYw+0nkFyevg/WplDkXrx6V5E8yzKHEpzCHXF9Z2bfA9Y
-FTKcmfTjz4bffYzzIckc9UBtNpBR2jUXbKC/nPKiaaVDK8+vbVF1CQWfu4GmlJBnfHlW9p7Lq1qg
-CxNhJ/YUMgIky4bDavAyE+ezqDvh+w0R5XkIYBSDw31L36wHhAY+cWEqoMyY7+TxsVsYj3V5HoiY
-81t5NhapUnCLmSG6puNKxcgxvuBrcAA9+NsHhnzb52I9d52nK+Gk6L69KrkoA4kmvtdAGNSRLNoe
-CKDGJ6J4/J+aQeVdwFoIhBN3ibsC32lTto2CjhgjshfBMYHJfNOvOShvw6EQwlJxeI72Kw2cPSQz
-vFoBKtu++bGrhhBiRROJadxPwbWOYK3mSmlMxTGphIag123ekLXpHTqLnnCN0wa7D19E69GHvVRS
-jps0i5VLmA1ioK0GUOgcIs1Vm0dsX8Wa3eYTtPWWV5jA8pvWwYrq66jqM1fzL/Jqn6CRIVzn+REs
-FL/r79OeAvlfFf+tKvXrEnS8rRe1EUKgaQ4Ftoqsof2HYWl9wVLgVB4qduv1
+/**
+ * This client is used to interact with the **Amazon DeviceFarm** service.
+ *
+ * @method \Aws\Result createDevicePool(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createDevicePoolAsync(array $args = [])
+ * @method \Aws\Result createInstanceProfile(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createInstanceProfileAsync(array $args = [])
+ * @method \Aws\Result createNetworkProfile(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createNetworkProfileAsync(array $args = [])
+ * @method \Aws\Result createProject(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createProjectAsync(array $args = [])
+ * @method \Aws\Result createRemoteAccessSession(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createRemoteAccessSessionAsync(array $args = [])
+ * @method \Aws\Result createUpload(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createUploadAsync(array $args = [])
+ * @method \Aws\Result createVPCEConfiguration(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createVPCEConfigurationAsync(array $args = [])
+ * @method \Aws\Result deleteDevicePool(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteDevicePoolAsync(array $args = [])
+ * @method \Aws\Result deleteInstanceProfile(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteInstanceProfileAsync(array $args = [])
+ * @method \Aws\Result deleteNetworkProfile(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteNetworkProfileAsync(array $args = [])
+ * @method \Aws\Result deleteProject(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteProjectAsync(array $args = [])
+ * @method \Aws\Result deleteRemoteAccessSession(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteRemoteAccessSessionAsync(array $args = [])
+ * @method \Aws\Result deleteRun(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteRunAsync(array $args = [])
+ * @method \Aws\Result deleteUpload(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteUploadAsync(array $args = [])
+ * @method \Aws\Result deleteVPCEConfiguration(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteVPCEConfigurationAsync(array $args = [])
+ * @method \Aws\Result getAccountSettings(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getAccountSettingsAsync(array $args = [])
+ * @method \Aws\Result getDevice(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getDeviceAsync(array $args = [])
+ * @method \Aws\Result getDeviceInstance(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getDeviceInstanceAsync(array $args = [])
+ * @method \Aws\Result getDevicePool(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getDevicePoolAsync(array $args = [])
+ * @method \Aws\Result getDevicePoolCompatibility(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getDevicePoolCompatibilityAsync(array $args = [])
+ * @method \Aws\Result getInstanceProfile(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getInstanceProfileAsync(array $args = [])
+ * @method \Aws\Result getJob(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getJobAsync(array $args = [])
+ * @method \Aws\Result getNetworkProfile(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getNetworkProfileAsync(array $args = [])
+ * @method \Aws\Result getOfferingStatus(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getOfferingStatusAsync(array $args = [])
+ * @method \Aws\Result getProject(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getProjectAsync(array $args = [])
+ * @method \Aws\Result getRemoteAccessSession(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getRemoteAccessSessionAsync(array $args = [])
+ * @method \Aws\Result getRun(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getRunAsync(array $args = [])
+ * @method \Aws\Result getSuite(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getSuiteAsync(array $args = [])
+ * @method \Aws\Result getTest(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getTestAsync(array $args = [])
+ * @method \Aws\Result getUpload(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getUploadAsync(array $args = [])
+ * @method \Aws\Result getVPCEConfiguration(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getVPCEConfigurationAsync(array $args = [])
+ * @method \Aws\Result installToRemoteAccessSession(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise installToRemoteAccessSessionAsync(array $args = [])
+ * @method \Aws\Result listArtifacts(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listArtifactsAsync(array $args = [])
+ * @method \Aws\Result listDeviceInstances(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listDeviceInstancesAsync(array $args = [])
+ * @method \Aws\Result listDevicePools(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listDevicePoolsAsync(array $args = [])
+ * @method \Aws\Result listDevices(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listDevicesAsync(array $args = [])
+ * @method \Aws\Result listInstanceProfiles(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listInstanceProfilesAsync(array $args = [])
+ * @method \Aws\Result listJobs(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listJobsAsync(array $args = [])
+ * @method \Aws\Result listNetworkProfiles(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listNetworkProfilesAsync(array $args = [])
+ * @method \Aws\Result listOfferingPromotions(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listOfferingPromotionsAsync(array $args = [])
+ * @method \Aws\Result listOfferingTransactions(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listOfferingTransactionsAsync(array $args = [])
+ * @method \Aws\Result listOfferings(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listOfferingsAsync(array $args = [])
+ * @method \Aws\Result listProjects(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listProjectsAsync(array $args = [])
+ * @method \Aws\Result listRemoteAccessSessions(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listRemoteAccessSessionsAsync(array $args = [])
+ * @method \Aws\Result listRuns(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listRunsAsync(array $args = [])
+ * @method \Aws\Result listSamples(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listSamplesAsync(array $args = [])
+ * @method \Aws\Result listSuites(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listSuitesAsync(array $args = [])
+ * @method \Aws\Result listTests(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listTestsAsync(array $args = [])
+ * @method \Aws\Result listUniqueProblems(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listUniqueProblemsAsync(array $args = [])
+ * @method \Aws\Result listUploads(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listUploadsAsync(array $args = [])
+ * @method \Aws\Result listVPCEConfigurations(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise listVPCEConfigurationsAsync(array $args = [])
+ * @method \Aws\Result purchaseOffering(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise purchaseOfferingAsync(array $args = [])
+ * @method \Aws\Result renewOffering(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise renewOfferingAsync(array $args = [])
+ * @method \Aws\Result scheduleRun(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise scheduleRunAsync(array $args = [])
+ * @method \Aws\Result stopRemoteAccessSession(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise stopRemoteAccessSessionAsync(array $args = [])
+ * @method \Aws\Result stopRun(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise stopRunAsync(array $args = [])
+ * @method \Aws\Result updateDeviceInstance(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateDeviceInstanceAsync(array $args = [])
+ * @method \Aws\Result updateDevicePool(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateDevicePoolAsync(array $args = [])
+ * @method \Aws\Result updateInstanceProfile(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateInstanceProfileAsync(array $args = [])
+ * @method \Aws\Result updateNetworkProfile(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateNetworkProfileAsync(array $args = [])
+ * @method \Aws\Result updateProject(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateProjectAsync(array $args = [])
+ * @method \Aws\Result updateVPCEConfiguration(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateVPCEConfigurationAsync(array $args = [])
+ */
+class DeviceFarmClient extends AwsClient {}

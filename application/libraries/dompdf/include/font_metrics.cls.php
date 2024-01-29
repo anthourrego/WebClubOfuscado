@@ -1,352 +1,364 @@
-<?php //ICB0 56:0 71:30f0                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+/**
+ * @package dompdf
+ * @link    http://dompdf.github.com/
+ * @author  Benj Carson <benjcarson@digitaljunkies.ca>
+ * @author  Helmut Tischer <htischer@weihenstephan.org>
+ * @author  Fabien Ménager <fabien.menager@gmail.com>
+ * @license http://www.gnu.org/copyleft/lesser.html GNU Lesser General Public License
+ */
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-lJixvq4luKaWtT0Q+tw+sdpxe0===
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+require_once DOMPDF_LIB_DIR . "/class.pdf.php";
+require_once DOMPDF_LIB_DIR."/php-font-lib/classes/Autoloader.php"; 
+use FontLib\Font;
+/**
+ * Name of the font cache file
+ *
+ * This file must be writable by the webserver process only to update it
+ * with save_font_families() after adding the .afm file references of a new font family
+ * with Font_Metrics::save_font_families().
+ * This is typically done only from command line with load_font.php on converting
+ * ttf fonts to ufm with php-font-lib.
+ *
+ * Declared here because PHP5 prevents constants from being declared with expressions
+ */
+define('__DOMPDF_FONT_CACHE_FILE', DOMPDF_FONT_DIR . "dompdf_font_family_cache.php");
 
-?>
-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
-lrLcdtDV7uaHhGyN3iG=
+/**
+ * The font metrics class
+ *
+ * This class provides information about fonts and text.  It can resolve
+ * font names into actual installed font files, as well as determine the
+ * size of text in a particular font and size.
+ *
+ * @static
+ * @package dompdf
+ */
+class Font_Metrics {
+
+  /**
+   * @see __DOMPDF_FONT_CACHE_FILE
+   */
+  const CACHE_FILE = __DOMPDF_FONT_CACHE_FILE;
+  
+  /**
+   * Underlying {@link Canvas} object to perform text size calculations
+   *
+   * @var Canvas
+   */
+  static protected $_pdf = null;
+
+  /**
+   * Array of font family names to font files
+   *
+   * Usually cached by the {@link load_font.php} script
+   *
+   * @var array
+   */
+  static protected $_font_lookup = array();
+  
+  
+  /**
+   * Class initialization
+   *
+   */
+  static function init(Canvas $canvas = null) {
+    if (!self::$_pdf) {
+      if (!$canvas) {
+        $canvas = Canvas_Factory::get_instance(new DOMPDF());
+      }
+      
+      self::$_pdf = $canvas;
+    }
+  }
+
+  /**
+   * Calculates text size, in points
+   *
+   * @param string $text the text to be sized
+   * @param string $font the desired font
+   * @param float  $size the desired font size
+   * @param float  $word_spacing
+   * @param float  $char_spacing
+   *
+   * @internal param float $spacing word spacing, if any
+   * @return float
+   */
+  static function get_text_width($text, $font, $size, $word_spacing = 0.0, $char_spacing = 0.0) {
+    //return self::$_pdf->get_text_width($text, $font, $size, $word_spacing, $char_spacing);
+    
+    // @todo Make sure this cache is efficient before enabling it
+    static $cache = array();
+    
+    if ( $text === "" ) {
+      return 0;
+    }
+    
+    // Don't cache long strings
+    $use_cache = !isset($text[50]); // Faster than strlen
+    
+    $key = "$font/$size/$word_spacing/$char_spacing";
+    
+    if ( $use_cache && isset($cache[$key][$text]) ) {
+      return $cache[$key]["$text"];
+    }
+    
+    $width = self::$_pdf->get_text_width($text, $font, $size, $word_spacing, $char_spacing);
+    
+    if ( $use_cache ) {
+      $cache[$key][$text] = $width;
+    }
+    
+    return $width;
+  }
+
+  /**
+   * Calculates font height
+   *
+   * @param string $font
+   * @param float $size
+   * @return float
+   */
+  static function get_font_height($font, $size) {
+    return self::$_pdf->get_font_height($font, $size);
+  }
+
+  /**
+   * Resolves a font family & subtype into an actual font file
+   * Subtype can be one of 'normal', 'bold', 'italic' or 'bold_italic'.  If
+   * the particular font family has no suitable font file, the default font
+   * ({@link DOMPDF_DEFAULT_FONT}) is used.  The font file returned
+   * is the absolute pathname to the font file on the system.
+   *
+   * @param string $family_raw
+   * @param string $subtype_raw
+   *
+   * @return string
+   */
+  static function get_font($family_raw, $subtype_raw = "normal") {
+    static $cache = array();
+    
+    if ( isset($cache[$family_raw][$subtype_raw]) ) {
+      return $cache[$family_raw][$subtype_raw];
+    }
+    
+    /* Allow calling for various fonts in search path. Therefore not immediately
+     * return replacement on non match.
+     * Only when called with NULL try replacement.
+     * When this is also missing there is really trouble.
+     * If only the subtype fails, nevertheless return failure.
+     * Only on checking the fallback font, check various subtypes on same font.
+     */
+    
+    $subtype = strtolower($subtype_raw);
+    
+    if ( $family_raw ) {
+      $family = str_replace( array("'", '"'), "", strtolower($family_raw));
+      
+      if ( isset(self::$_font_lookup[$family][$subtype]) ) {
+        return $cache[$family_raw][$subtype_raw] = self::$_font_lookup[$family][$subtype];
+      }
+      
+      return null;
+    }
+
+    $family = "serif";
+
+    if ( isset(self::$_font_lookup[$family][$subtype]) ) {
+      return $cache[$family_raw][$subtype_raw] = self::$_font_lookup[$family][$subtype];
+    }
+    
+    if ( !isset(self::$_font_lookup[$family]) ) {
+      return null;
+    }
+    
+    $family = self::$_font_lookup[$family];
+
+    foreach ( $family as $sub => $font ) {
+      if (strpos($subtype, $sub) !== false) {
+        return $cache[$family_raw][$subtype_raw] = $font;
+      }
+    }
+
+    if ($subtype !== "normal") {
+      foreach ( $family as $sub => $font ) {
+        if ($sub !== "normal") {
+          return $cache[$family_raw][$subtype_raw] = $font;
+        }
+      }
+    }
+
+    $subtype = "normal";
+
+    if ( isset($family[$subtype]) ) {
+      return $cache[$family_raw][$subtype_raw] = $family[$subtype];
+    }
+    
+    return null;
+  }
+  
+  static function get_family($family) {
+    $family = str_replace( array("'", '"'), "", mb_strtolower($family));
+    
+    if ( isset(self::$_font_lookup[$family]) ) {
+      return self::$_font_lookup[$family];
+    }
+    
+    return null;
+  }
+
+  /**
+   * Saves the stored font family cache
+   *
+   * The name and location of the cache file are determined by {@link
+   * Font_Metrics::CACHE_FILE}.  This file should be writable by the
+   * webserver process.
+   *
+   * @see Font_Metrics::load_font_families()
+   */
+  static function save_font_families() {
+    // replace the path to the DOMPDF font directories with the corresponding constants (allows for more portability)
+    $cache_data = var_export(self::$_font_lookup, true);
+    $cache_data = str_replace('\''.DOMPDF_FONT_DIR , 'DOMPDF_FONT_DIR . \'' , $cache_data);
+    $cache_data = str_replace('\''.DOMPDF_DIR , 'DOMPDF_DIR . \'' , $cache_data);
+    $cache_data = "<"."?php return $cache_data ?".">";
+    file_put_contents(self::CACHE_FILE, $cache_data);
+  }
+
+  /**
+   * Loads the stored font family cache
+   *
+   * @see save_font_families()
+   */
+  static function load_font_families() {
+    $dist_fonts = require_once DOMPDF_DIR . "/lib/fonts/dompdf_font_family_cache.dist.php";
+    
+    // FIXME: temporary step for font cache created before the font cache fix
+    if ( is_readable( DOMPDF_FONT_DIR . "dompdf_font_family_cache" ) ) {
+      $old_fonts = require_once DOMPDF_FONT_DIR . "dompdf_font_family_cache";
+      // If the font family cache is still in the old format
+      if ( $old_fonts === 1 ) {
+        $cache_data = file_get_contents(DOMPDF_FONT_DIR . "dompdf_font_family_cache");
+        file_put_contents(DOMPDF_FONT_DIR . "dompdf_font_family_cache", "<"."?php return $cache_data ?".">");
+        $old_fonts = require_once DOMPDF_FONT_DIR . "dompdf_font_family_cache";
+      }
+      $dist_fonts += $old_fonts;
+    }
+    
+    if ( !is_readable(self::CACHE_FILE) ) {
+      self::$_font_lookup = $dist_fonts;
+      return;
+    }
+    
+    self::$_font_lookup = require_once self::CACHE_FILE;
+    
+    // If the font family cache is still in the old format
+    if ( self::$_font_lookup === 1 ) {
+      $cache_data = file_get_contents(self::CACHE_FILE);
+      file_put_contents(self::CACHE_FILE, "<"."?php return $cache_data ?".">");
+      self::$_font_lookup = require_once self::CACHE_FILE;
+    }
+    
+    // Merge provided fonts
+    self::$_font_lookup += $dist_fonts;
+  }
+  
+  static function get_type($type) {
+    if (preg_match("/bold/i", $type)) {
+      if (preg_match("/italic|oblique/i", $type)) {
+        $type = "bold_italic";
+      }
+      else {
+        $type = "bold";
+      }
+    }
+    elseif (preg_match("/italic|oblique/i", $type)) {
+      $type = "italic";
+    }
+    else {
+      $type = "normal";
+    }
+      
+    return $type;
+  }
+  
+  static function install_fonts($files) {
+    $names = array();
+    
+    foreach($files as $file) {
+      $font = Font::load($file);
+      $records = $font->getData("name", "records");
+      $type = self::get_type($records[2]);
+      $names[mb_strtolower($records[1])][$type] = $file;
+    }
+    
+    return $names;
+  }
+  
+  static function get_system_fonts() {
+    $files = glob("/usr/share/fonts/truetype/*.ttf") +
+             glob("/usr/share/fonts/truetype/*/*.ttf") +
+             glob("/usr/share/fonts/truetype/*/*/*.ttf") +
+             glob("C:\\Windows\\fonts\\*.ttf") + 
+             glob("C:\\WinNT\\fonts\\*.ttf") + 
+             glob("/mnt/c_drive/WINDOWS/Fonts/");
+    
+    return self::install_fonts($files);
+  }
+
+  /**
+   * Returns the current font lookup table
+   *
+   * @return array
+   */
+  static function get_font_families() {
+    return self::$_font_lookup;
+  }
+
+  static function set_font_family($fontname, $entry) {
+    self::$_font_lookup[mb_strtolower($fontname)] = $entry;
+  }
+  
+  static function register_font($style, $remote_file) {
+    $fontname = mb_strtolower($style["family"]);
+    $families = Font_Metrics::get_font_families();
+    
+    $entry = array();
+    if ( isset($families[$fontname]) ) {
+      $entry = $families[$fontname];
+    }
+    
+    $local_file = DOMPDF_FONT_DIR . md5($remote_file);
+    $cache_entry = $local_file;
+    $local_file .= ".ttf";
+    
+    $style_string = Font_Metrics::get_type("{$style['weight']} {$style['style']}");
+    
+    if ( !isset($entry[$style_string]) ) {
+      $entry[$style_string] = $cache_entry;
+      
+      Font_Metrics::set_font_family($fontname, $entry);
+      
+      // Download the remote file
+      if ( !is_file($local_file) ) {
+        file_put_contents($local_file, file_get_contents($remote_file));
+      }
+      
+      $font = Font::load($local_file);
+      
+      if (!$font) {
+        return false;
+      }
+      
+      $font->parse();
+      $font->saveAdobeFontMetrics("$cache_entry.ufm");
+      
+      // Save the changes
+      Font_Metrics::save_font_families();
+    }
+    
+    return true;
+  }
+}
+
+Font_Metrics::load_font_families();

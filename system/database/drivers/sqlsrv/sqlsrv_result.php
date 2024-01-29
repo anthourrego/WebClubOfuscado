@@ -1,67 +1,193 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2017, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2017, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license	http://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 2.0.3
+ * @filesource
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
+/**
+ * SQLSRV Result Class
+ *
+ * This class extends the parent result class: CI_DB_result
+ *
+ * @category	Database
+ * @author		EllisLab Dev Team
+ * @link		https://codeigniter.com/user_guide/database/
+ */
+class CI_DB_sqlsrv_result extends CI_DB_result {
+
+	/**
+	 * Scrollable flag
+	 *
+	 * @var	mixed
+	 */
+	public $scrollable;
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Constructor
+	 *
+	 * @param	object	$driver_object
+	 * @return	void
+	 */
+	public function __construct(&$driver_object)
+	{
+		parent::__construct($driver_object);
+
+		$this->scrollable = $driver_object->scrollable;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Number of rows in the result set
+	 *
+	 * @return	int
+	 */
+	public function num_rows()
+	{
+		// sqlsrv_num_rows() doesn't work with the FORWARD and DYNAMIC cursors (FALSE is the same as FORWARD)
+		if ( ! in_array($this->scrollable, array(FALSE, SQLSRV_CURSOR_FORWARD, SQLSRV_CURSOR_DYNAMIC), TRUE))
+		{
+			return parent::num_rows();
+		}
+
+		return is_int($this->num_rows)
+			? $this->num_rows
+			: $this->num_rows = sqlsrv_num_rows($this->result_id);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Number of fields in the result set
+	 *
+	 * @return	int
+	 */
+	public function num_fields()
+	{
+		return @sqlsrv_num_fields($this->result_id);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Fetch Field Names
+	 *
+	 * Generates an array of column names
+	 *
+	 * @return	array
+	 */
+	public function list_fields()
+	{
+		$field_names = array();
+		foreach (sqlsrv_field_metadata($this->result_id) as $offset => $field)
+		{
+			$field_names[] = $field['Name'];
+		}
+
+		return $field_names;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Field data
+	 *
+	 * Generates an array of objects containing field meta-data
+	 *
+	 * @return	array
+	 */
+	public function field_data()
+	{
+		$retval = array();
+		foreach (sqlsrv_field_metadata($this->result_id) as $i => $field)
+		{
+			$retval[$i]		= new stdClass();
+			$retval[$i]->name	= $field['Name'];
+			$retval[$i]->type	= $field['Type'];
+			$retval[$i]->max_length	= $field['Size'];
+		}
+
+		return $retval;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Free the result
+	 *
+	 * @return	void
+	 */
+	public function free_result()
+	{
+		if (is_resource($this->result_id))
+		{
+			sqlsrv_free_stmt($this->result_id);
+			$this->result_id = FALSE;
+		}
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Result - associative array
+	 *
+	 * Returns the result set as an array
+	 *
+	 * @return	array
+	 */
+	protected function _fetch_assoc()
+	{
+		return sqlsrv_fetch_array($this->result_id, SQLSRV_FETCH_ASSOC);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Result - object
+	 *
+	 * Returns the result set as an object
+	 *
+	 * @param	string	$class_name
+	 * @return	object
+	 */
+	protected function _fetch_object($class_name = 'stdClass')
+	{
+		return sqlsrv_fetch_object($this->result_id, $class_name);
+	}
+
+}

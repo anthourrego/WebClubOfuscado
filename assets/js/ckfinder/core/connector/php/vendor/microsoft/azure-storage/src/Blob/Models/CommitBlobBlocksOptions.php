@@ -1,151 +1,223 @@
-<?php //ICB0 56:0 71:1767                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-sjhmcHYFNWXxNPiO9WS6iaBSjMGmjSJFpeO==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Blob\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+ 
+namespace MicrosoftAzure\Storage\Blob\Models;
 
-?>
-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
+/**
+ * Optional parameters for commitBlobBlocks
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Blob\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+class CommitBlobBlocksOptions extends BlobServiceOptions
+{
+    private $_contentType;
+    private $_contentEncoding;
+    private $_contentLanguage;
+    private $_contentMD5;
+    private $_cacheControl;
+    private $_contentDisposition;
+    private $_metadata;
+
+    /**
+     * Gets ContentType.
+     *
+     * @return string
+     */
+    public function getContentType()
+    {
+        return $this->_contentType;
+    }
+
+    /**
+     * Sets ContentType.
+     *
+     * @param string $contentType value.
+     *
+     * @return void
+     */
+    public function setContentType($contentType)
+    {
+        $this->_contentType = $contentType;
+    }
+    
+    /**
+     * Gets ContentEncoding.
+     *
+     * @return string
+     */
+    public function getContentEncoding()
+    {
+        return $this->_contentEncoding;
+    }
+
+    /**
+     * Sets ContentEncoding.
+     *
+     * @param string $contentEncoding value.
+     *
+     * @return void
+     */
+    public function setContentEncoding($contentEncoding)
+    {
+        $this->_contentEncoding = $contentEncoding;
+    }
+    
+    /**
+     * Gets ContentLanguage.
+     *
+     * @return string
+     */
+    public function getContentLanguage()
+    {
+        return $this->_contentLanguage;
+    }
+
+    /**
+     * Sets ContentLanguage.
+     *
+     * @param string $contentLanguage value.
+     *
+     * @return void
+     */
+    public function setContentLanguage($contentLanguage)
+    {
+        $this->_contentLanguage = $contentLanguage;
+    }
+    
+    /**
+     * Gets ContentMD5.
+     *
+     * @return string
+     */
+    public function getContentMD5()
+    {
+        return $this->_contentMD5;
+    }
+
+    /**
+     * Sets ContentMD5.
+     *
+     * @param string $contentMD5 value.
+     *
+     * @return void
+     */
+    public function setContentMD5($contentMD5)
+    {
+        $this->_contentMD5 = $contentMD5;
+    }
+    
+    /**
+     * Gets cache control.
+     *
+     * @return string
+     */
+    public function getCacheControl()
+    {
+        return $this->_cacheControl;
+    }
+    
+    /**
+     * Sets cacheControl.
+     *
+     * @param string $cacheControl value to use.
+     *
+     * @return void
+     */
+    public function setCacheControl($cacheControl)
+    {
+        $this->_cacheControl = $cacheControl;
+    }
+    
+    /**
+     * Gets content disposition.
+     *
+     * @return string
+     */
+    public function getContentDisposition()
+    {
+        return $this->_contentDisposition;
+    }
+    
+    /**
+     * Sets contentDisposition.
+     *
+     * @param string $contentDisposition value to use.
+     *
+     * @return void
+     */
+    public function setContentDisposition($contentDisposition)
+    {
+        $this->_contentDisposition = $contentDisposition;
+    }
+    
+    /**
+     * Gets blob metadata.
+     *
+     * @return array
+     */
+    public function getMetadata()
+    {
+        return $this->_metadata;
+    }
+
+    /**
+     * Sets blob metadata.
+     *
+     * @param array $metadata value.
+     *
+     * @return void
+     */
+    public function setMetadata(array $metadata = null)
+    {
+        $this->_metadata = $metadata;
+    }
+
+    /**
+     * Create a instance using the given options
+     * @param  mixed $options Input options
+     *
+     * @internal
+     *
+     * @return self
+     */
+    public static function create($options)
+    {
+        $result = new CommitBlobBlocksOptions();
+        $result->setContentType($options->getContentType());
+        $result->setContentEncoding($options->getContentEncoding());
+        $result->setContentLanguage($options->getContentLanguage());
+        $result->setContentMD5($options->getContentMD5());
+        $result->setCacheControl($options->getCacheControl());
+        $result->setContentDisposition($options->getContentDisposition());
+        $result->setMetadata($options->getMetadata());
+        $result->setLeaseId($options->getLeaseId());
+
+        return $result;
+    }
+}

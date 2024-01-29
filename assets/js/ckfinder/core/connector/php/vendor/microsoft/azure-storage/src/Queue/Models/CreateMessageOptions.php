@@ -1,81 +1,85 @@
-<?php //ICB0 56:0 71:d0d                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-/y8==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Queue\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+ 
+namespace MicrosoftAzure\Storage\Queue\Models;
 
-?>
-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
-v4pSclRhSn1GNVcq3gyALO/P
+/**
+ * Holds optional parameters for createMessage wrapper.
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\Queue\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2016 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+class CreateMessageOptions extends QueueServiceOptions
+{
+    private $_visibilityTimeoutInSeconds;
+    private $_timeToLiveInSeconds;
+    
+    /**
+     * Gets visibilityTimeoutInSeconds field.
+     *
+     * @return integer
+     */
+    public function getVisibilityTimeoutInSeconds()
+    {
+        return $this->_visibilityTimeoutInSeconds;
+    }
+    
+    /**
+     * Sets visibilityTimeoutInSeconds field.
+     *
+     * @param integer $visibilityTimeoutInSeconds value to use.
+     *
+     * @return void
+     */
+    public function setVisibilityTimeoutInSeconds($visibilityTimeoutInSeconds)
+    {
+        $this->_visibilityTimeoutInSeconds = $visibilityTimeoutInSeconds;
+    }
+    
+    /**
+     * Gets timeToLiveInSeconds field.
+     *
+     * @return integer
+     */
+    public function getTimeToLiveInSeconds()
+    {
+        return $this->_timeToLiveInSeconds;
+    }
+    
+    /**
+     * Sets timeToLiveInSeconds field.
+     *
+     * @param integer $timeToLiveInSeconds value to use.
+     *
+     * @return void
+     */
+    public function setTimeToLiveInSeconds($timeToLiveInSeconds)
+    {
+        $this->_timeToLiveInSeconds = $timeToLiveInSeconds;
+    }
+}

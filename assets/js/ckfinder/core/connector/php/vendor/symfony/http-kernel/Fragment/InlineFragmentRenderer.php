@@ -1,96 +1,148 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
+/*
+ * This file is part of the Symfony package.
+ *
+ * (c) Fabien Potencier <fabien@symfony.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+namespace Symfony\Component\HttpKernel\Fragment;
+
+use Symfony\Component\HttpFoundation\Request;
+use Symfony\Component\HttpFoundation\Response;
+use Symfony\Component\HttpKernel\HttpKernelInterface;
+use Symfony\Component\HttpKernel\Controller\ControllerReference;
+use Symfony\Component\HttpKernel\KernelEvents;
+use Symfony\Component\HttpKernel\Event\GetResponseForExceptionEvent;
+use Symfony\Component\EventDispatcher\EventDispatcherInterface;
+
+/**
+ * Implements the inline rendering strategy where the Request is rendered by the current HTTP kernel.
+ *
+ * @author Fabien Potencier <fabien@symfony.com>
+ */
+class InlineFragmentRenderer extends RoutableFragmentRenderer
+{
+    private $kernel;
+    private $dispatcher;
+
+    public function __construct(HttpKernelInterface $kernel, EventDispatcherInterface $dispatcher = null)
+    {
+        $this->kernel = $kernel;
+        $this->dispatcher = $dispatcher;
+    }
+
+    /**
+     * {@inheritdoc}
+     *
+     * Additional available options:
+     *
+     *  * alt: an alternative URI to render in case of an error
+     */
+    public function render($uri, Request $request, array $options = array())
+    {
+        $reference = null;
+        if ($uri instanceof ControllerReference) {
+            $reference = $uri;
+
+            // Remove attributes from the generated URI because if not, the Symfony
+            // routing system will use them to populate the Request attributes. We don't
+            // want that as we want to preserve objects (so we manually set Request attributes
+            // below instead)
+            $attributes = $reference->attributes;
+            $reference->attributes = array();
+
+            // The request format and locale might have been overridden by the user
+            foreach (array('_format', '_locale') as $key) {
+                if (isset($attributes[$key])) {
+                    $reference->attributes[$key] = $attributes[$key];
+                }
+            }
+
+            $uri = $this->generateFragmentUri($uri, $request, false, false);
+
+            $reference->attributes = array_merge($attributes, $reference->attributes);
+        }
+
+        $subRequest = $this->createSubRequest($uri, $request);
+
+        // override Request attributes as they can be objects (which are not supported by the generated URI)
+        if (null !== $reference) {
+            $subRequest->attributes->add($reference->attributes);
+        }
+
+        $level = ob_get_level();
+        try {
+            return $this->kernel->handle($subRequest, HttpKernelInterface::SUB_REQUEST, false);
+        } catch (\Exception $e) {
+            // we dispatch the exception event to trigger the logging
+            // the response that comes back is simply ignored
+            if (isset($options['ignore_errors']) && $options['ignore_errors'] && $this->dispatcher) {
+                $event = new GetResponseForExceptionEvent($this->kernel, $request, HttpKernelInterface::SUB_REQUEST, $e);
+
+                $this->dispatcher->dispatch(KernelEvents::EXCEPTION, $event);
+            }
+
+            // let's clean up the output buffers that were created by the sub-request
+            Response::closeOutputBuffers($level, false);
+
+            if (isset($options['alt'])) {
+                $alt = $options['alt'];
+                unset($options['alt']);
+
+                return $this->render($alt, $request, $options);
+            }
+
+            if (!isset($options['ignore_errors']) || !$options['ignore_errors']) {
+                throw $e;
+            }
+
+            return new Response();
+        }
+    }
+
+    protected function createSubRequest($uri, Request $request)
+    {
+        $cookies = $request->cookies->all();
+        $server = $request->server->all();
+
+        // Override the arguments to emulate a sub-request.
+        // Sub-request object will point to localhost as client ip and real client ip
+        // will be included into trusted header for client ip
+        try {
+            if ($trustedHeaderName = Request::getTrustedHeaderName(Request::HEADER_CLIENT_IP)) {
+                $currentXForwardedFor = $request->headers->get($trustedHeaderName, '');
+
+                $server['HTTP_'.$trustedHeaderName] = ($currentXForwardedFor ? $currentXForwardedFor.', ' : '').$request->getClientIp();
+            }
+        } catch (\InvalidArgumentException $e) {
+            // Do nothing
+        }
+
+        $server['REMOTE_ADDR'] = '127.0.0.1';
+        unset($server['HTTP_IF_MODIFIED_SINCE']);
+        unset($server['HTTP_IF_NONE_MATCH']);
+
+        $subRequest = Request::create($uri, 'get', array(), $cookies, array(), $server);
+        if ($request->headers->has('Surrogate-Capability')) {
+            $subRequest->headers->set('Surrogate-Capability', $request->headers->get('Surrogate-Capability'));
+        }
+
+        if ($session = $request->getSession()) {
+            $subRequest->setSession($session);
+        }
+
+        return $subRequest;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function getName()
+    {
+        return 'inline';
+    }
+}

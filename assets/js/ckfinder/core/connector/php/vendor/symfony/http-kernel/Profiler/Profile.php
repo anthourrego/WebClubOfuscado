@@ -1,85 +1,287 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-7Fs/fGPtPG==
+/*
+ * This file is part of the Symfony package.
+ *
+ * (c) Fabien Potencier <fabien@symfony.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+namespace Symfony\Component\HttpKernel\Profiler;
+
+use Symfony\Component\HttpKernel\DataCollector\DataCollectorInterface;
+
+/**
+ * Profile.
+ *
+ * @author Fabien Potencier <fabien@symfony.com>
+ */
+class Profile
+{
+    private $token;
+
+    /**
+     * @var DataCollectorInterface[]
+     */
+    private $collectors = array();
+
+    private $ip;
+    private $method;
+    private $url;
+    private $time;
+    private $statusCode;
+
+    /**
+     * @var Profile
+     */
+    private $parent;
+
+    /**
+     * @var Profile[]
+     */
+    private $children = array();
+
+    /**
+     * @param string $token The token
+     */
+    public function __construct($token)
+    {
+        $this->token = $token;
+    }
+
+    /**
+     * Sets the token.
+     *
+     * @param string $token The token
+     */
+    public function setToken($token)
+    {
+        $this->token = $token;
+    }
+
+    /**
+     * Gets the token.
+     *
+     * @return string The token
+     */
+    public function getToken()
+    {
+        return $this->token;
+    }
+
+    /**
+     * Sets the parent token.
+     */
+    public function setParent(Profile $parent)
+    {
+        $this->parent = $parent;
+    }
+
+    /**
+     * Returns the parent profile.
+     *
+     * @return self
+     */
+    public function getParent()
+    {
+        return $this->parent;
+    }
+
+    /**
+     * Returns the parent token.
+     *
+     * @return null|string The parent token
+     */
+    public function getParentToken()
+    {
+        return $this->parent ? $this->parent->getToken() : null;
+    }
+
+    /**
+     * Returns the IP.
+     *
+     * @return string The IP
+     */
+    public function getIp()
+    {
+        return $this->ip;
+    }
+
+    /**
+     * Sets the IP.
+     *
+     * @param string $ip
+     */
+    public function setIp($ip)
+    {
+        $this->ip = $ip;
+    }
+
+    /**
+     * Returns the request method.
+     *
+     * @return string The request method
+     */
+    public function getMethod()
+    {
+        return $this->method;
+    }
+
+    public function setMethod($method)
+    {
+        $this->method = $method;
+    }
+
+    /**
+     * Returns the URL.
+     *
+     * @return string The URL
+     */
+    public function getUrl()
+    {
+        return $this->url;
+    }
+
+    public function setUrl($url)
+    {
+        $this->url = $url;
+    }
+
+    /**
+     * Returns the time.
+     *
+     * @return int The time
+     */
+    public function getTime()
+    {
+        if (null === $this->time) {
+            return 0;
+        }
+
+        return $this->time;
+    }
+
+    /**
+     * @param int $time The time
+     */
+    public function setTime($time)
+    {
+        $this->time = $time;
+    }
+
+    /**
+     * @param int $statusCode
+     */
+    public function setStatusCode($statusCode)
+    {
+        $this->statusCode = $statusCode;
+    }
+
+    /**
+     * @return int
+     */
+    public function getStatusCode()
+    {
+        return $this->statusCode;
+    }
+
+    /**
+     * Finds children profilers.
+     *
+     * @return self[]
+     */
+    public function getChildren()
+    {
+        return $this->children;
+    }
+
+    /**
+     * Sets children profiler.
+     *
+     * @param Profile[] $children
+     */
+    public function setChildren(array $children)
+    {
+        $this->children = array();
+        foreach ($children as $child) {
+            $this->addChild($child);
+        }
+    }
+
+    /**
+     * Adds the child token.
+     */
+    public function addChild(Profile $child)
+    {
+        $this->children[] = $child;
+        $child->setParent($this);
+    }
+
+    /**
+     * Gets a Collector by name.
+     *
+     * @param string $name A collector name
+     *
+     * @return DataCollectorInterface A DataCollectorInterface instance
+     *
+     * @throws \InvalidArgumentException if the collector does not exist
+     */
+    public function getCollector($name)
+    {
+        if (!isset($this->collectors[$name])) {
+            throw new \InvalidArgumentException(sprintf('Collector "%s" does not exist.', $name));
+        }
+
+        return $this->collectors[$name];
+    }
+
+    /**
+     * Gets the Collectors associated with this profile.
+     *
+     * @return DataCollectorInterface[]
+     */
+    public function getCollectors()
+    {
+        return $this->collectors;
+    }
+
+    /**
+     * Sets the Collectors associated with this profile.
+     *
+     * @param DataCollectorInterface[] $collectors
+     */
+    public function setCollectors(array $collectors)
+    {
+        $this->collectors = array();
+        foreach ($collectors as $collector) {
+            $this->addCollector($collector);
+        }
+    }
+
+    /**
+     * Adds a Collector.
+     */
+    public function addCollector(DataCollectorInterface $collector)
+    {
+        $this->collectors[$collector->getName()] = $collector;
+    }
+
+    /**
+     * Returns true if a Collector for the given name exists.
+     *
+     * @param string $name A collector name
+     *
+     * @return bool
+     */
+    public function hasCollector($name)
+    {
+        return isset($this->collectors[$name]);
+    }
+
+    public function __sleep()
+    {
+        return array('token', 'parent', 'children', 'collectors', 'ip', 'method', 'url', 'time');
+    }
+}

@@ -1,111 +1,56 @@
-<?php //ICB0 56:0 71:1126                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use JmesPath\Env as JmesPath;
 
-?>
-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
+/**
+ * AWS result.
+ */
+class Result implements ResultInterface
+{
+    use HasDataTrait;
+
+    public function __construct(array $data = [])
+    {
+        $this->data = $data;
+    }
+
+    public function hasKey($name)
+    {
+        return isset($this->data[$name]);
+    }
+
+    public function get($key)
+    {
+        return $this[$key];
+    }
+
+    public function search($expression)
+    {
+        return JmesPath::search($expression, $this->toArray());
+    }
+
+    public function __toString()
+    {
+        $jsonData = json_encode($this->toArray(), JSON_PRETTY_PRINT);
+        return <<<EOT
+Model Data
+----------
+Data can be retrieved from the model object using the get() method of the
+model (e.g., `\$result->get(\$key)`) or "accessing the result like an
+associative array (e.g. `\$result['key']`). You can also execute JMESPath
+expressions on the result data using the search() method.
+
+{$jsonData}
+
+EOT;
+    }
+
+    /**
+     * @deprecated
+     */
+    public function getPath($path)
+    {
+        return $this->search(str_replace('/', '.', $path));
+    }
+}

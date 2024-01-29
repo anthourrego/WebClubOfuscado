@@ -1,103 +1,159 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
+/*
+ * This file is part of the Symfony package.
+ *
+ * (c) Fabien Potencier <fabien@symfony.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+namespace Symfony\Component\HttpKernel\EventListener;
+
+use Symfony\Component\HttpKernel\Event\GetResponseEvent;
+use Symfony\Component\HttpKernel\Event\GetResponseForExceptionEvent;
+use Symfony\Component\HttpKernel\Event\FilterResponseEvent;
+use Symfony\Component\HttpKernel\Event\PostResponseEvent;
+use Symfony\Component\HttpKernel\KernelEvents;
+use Symfony\Component\HttpKernel\Profiler\Profiler;
+use Symfony\Component\HttpFoundation\RequestMatcherInterface;
+use Symfony\Component\HttpFoundation\RequestStack;
+use Symfony\Component\EventDispatcher\EventSubscriberInterface;
+
+/**
+ * ProfilerListener collects data for the current request by listening to the kernel events.
+ *
+ * @author Fabien Potencier <fabien@symfony.com>
+ */
+class ProfilerListener implements EventSubscriberInterface
+{
+    protected $profiler;
+    protected $matcher;
+    protected $onlyException;
+    protected $onlyMasterRequests;
+    protected $exception;
+    protected $requests = array();
+    protected $profiles;
+    protected $requestStack;
+    protected $parents;
+
+    /**
+     * @param Profiler                     $profiler           A Profiler instance
+     * @param RequestMatcherInterface|null $matcher            A RequestMatcher instance
+     * @param bool                         $onlyException      True if the profiler only collects data when an exception occurs, false otherwise
+     * @param bool                         $onlyMasterRequests True if the profiler only collects data when the request is a master request, false otherwise
+     * @param RequestStack|null            $requestStack       A RequestStack instance
+     */
+    public function __construct(Profiler $profiler, RequestMatcherInterface $matcher = null, $onlyException = false, $onlyMasterRequests = false, RequestStack $requestStack = null)
+    {
+        if (null === $requestStack) {
+            // Prevent the deprecation notice to be triggered all the time.
+            // The onKernelRequest() method fires some logic only when the
+            // RequestStack instance is not provided as a dependency.
+            @trigger_error('Since version 2.4, the '.__METHOD__.' method must accept a RequestStack instance to get the request instead of using the '.__CLASS__.'::onKernelRequest method that will be removed in 3.0.', E_USER_DEPRECATED);
+        }
+
+        $this->profiler = $profiler;
+        $this->matcher = $matcher;
+        $this->onlyException = (bool) $onlyException;
+        $this->onlyMasterRequests = (bool) $onlyMasterRequests;
+        $this->profiles = new \SplObjectStorage();
+        $this->parents = new \SplObjectStorage();
+        $this->requestStack = $requestStack;
+    }
+
+    /**
+     * Handles the onKernelException event.
+     */
+    public function onKernelException(GetResponseForExceptionEvent $event)
+    {
+        if ($this->onlyMasterRequests && !$event->isMasterRequest()) {
+            return;
+        }
+
+        $this->exception = $event->getException();
+    }
+
+    /**
+     * @deprecated since version 2.4, to be removed in 3.0.
+     */
+    public function onKernelRequest(GetResponseEvent $event)
+    {
+        if (null === $this->requestStack) {
+            $this->requests[] = $event->getRequest();
+        }
+    }
+
+    /**
+     * Handles the onKernelResponse event.
+     */
+    public function onKernelResponse(FilterResponseEvent $event)
+    {
+        $master = $event->isMasterRequest();
+        if ($this->onlyMasterRequests && !$master) {
+            return;
+        }
+
+        if ($this->onlyException && null === $this->exception) {
+            return;
+        }
+
+        $request = $event->getRequest();
+        $exception = $this->exception;
+        $this->exception = null;
+
+        if (null !== $this->matcher && !$this->matcher->matches($request)) {
+            return;
+        }
+
+        if (!$profile = $this->profiler->collect($request, $event->getResponse(), $exception)) {
+            return;
+        }
+
+        $this->profiles[$request] = $profile;
+
+        if (null !== $this->requestStack) {
+            $this->parents[$request] = $this->requestStack->getParentRequest();
+        } elseif (!$master) {
+            // to be removed when requestStack is required
+            array_pop($this->requests);
+
+            $this->parents[$request] = end($this->requests);
+        }
+    }
+
+    public function onKernelTerminate(PostResponseEvent $event)
+    {
+        // attach children to parents
+        foreach ($this->profiles as $request) {
+            // isset call should be removed when requestStack is required
+            if (isset($this->parents[$request]) && null !== $parentRequest = $this->parents[$request]) {
+                if (isset($this->profiles[$parentRequest])) {
+                    $this->profiles[$parentRequest]->addChild($this->profiles[$request]);
+                }
+            }
+        }
+
+        // save profiles
+        foreach ($this->profiles as $request) {
+            $this->profiler->saveProfile($this->profiles[$request]);
+        }
+
+        $this->profiles = new \SplObjectStorage();
+        $this->parents = new \SplObjectStorage();
+        $this->requests = array();
+    }
+
+    public static function getSubscribedEvents()
+    {
+        return array(
+            // kernel.request must be registered as early as possible to not break
+            // when an exception is thrown in any other kernel.request listener
+            KernelEvents::REQUEST => array('onKernelRequest', 1024),
+            KernelEvents::RESPONSE => array('onKernelResponse', -100),
+            KernelEvents::EXCEPTION => 'onKernelException',
+            KernelEvents::TERMINATE => array('onKernelTerminate', -1024),
+        );
+    }
+}

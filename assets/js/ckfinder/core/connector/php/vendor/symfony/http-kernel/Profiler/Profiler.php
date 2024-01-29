@@ -1,122 +1,277 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
+/*
+ * This file is part of the Symfony package.
+ *
+ * (c) Fabien Potencier <fabien@symfony.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+namespace Symfony\Component\HttpKernel\Profiler;
+
+use Symfony\Component\HttpFoundation\Exception\ConflictingHeadersException;
+use Symfony\Component\HttpFoundation\Request;
+use Symfony\Component\HttpFoundation\Response;
+use Symfony\Component\HttpKernel\DataCollector\DataCollectorInterface;
+use Symfony\Component\HttpKernel\DataCollector\LateDataCollectorInterface;
+use Psr\Log\LoggerInterface;
+
+/**
+ * Profiler.
+ *
+ * @author Fabien Potencier <fabien@symfony.com>
+ */
+class Profiler
+{
+    private $storage;
+
+    /**
+     * @var DataCollectorInterface[]
+     */
+    private $collectors = array();
+
+    private $logger;
+
+    /**
+     * @var bool
+     */
+    private $enabled = true;
+
+    public function __construct(ProfilerStorageInterface $storage, LoggerInterface $logger = null)
+    {
+        $this->storage = $storage;
+        $this->logger = $logger;
+    }
+
+    /**
+     * Disables the profiler.
+     */
+    public function disable()
+    {
+        $this->enabled = false;
+    }
+
+    /**
+     * Enables the profiler.
+     */
+    public function enable()
+    {
+        $this->enabled = true;
+    }
+
+    /**
+     * Loads the Profile for the given Response.
+     *
+     * @return Profile|false A Profile instance
+     */
+    public function loadProfileFromResponse(Response $response)
+    {
+        if (!$token = $response->headers->get('X-Debug-Token')) {
+            return false;
+        }
+
+        return $this->loadProfile($token);
+    }
+
+    /**
+     * Loads the Profile for the given token.
+     *
+     * @param string $token A token
+     *
+     * @return Profile A Profile instance
+     */
+    public function loadProfile($token)
+    {
+        return $this->storage->read($token);
+    }
+
+    /**
+     * Saves a Profile.
+     *
+     * @return bool
+     */
+    public function saveProfile(Profile $profile)
+    {
+        // late collect
+        foreach ($profile->getCollectors() as $collector) {
+            if ($collector instanceof LateDataCollectorInterface) {
+                $collector->lateCollect();
+            }
+        }
+
+        if (!($ret = $this->storage->write($profile)) && null !== $this->logger) {
+            $this->logger->warning('Unable to store the profiler information.', array('configured_storage' => get_class($this->storage)));
+        }
+
+        return $ret;
+    }
+
+    /**
+     * Purges all data from the storage.
+     */
+    public function purge()
+    {
+        $this->storage->purge();
+    }
+
+    /**
+     * Exports the current profiler data.
+     *
+     * @return string The exported data
+     */
+    public function export(Profile $profile)
+    {
+        return base64_encode(serialize($profile));
+    }
+
+    /**
+     * Imports data into the profiler storage.
+     *
+     * @param string $data A data string as exported by the export() method
+     *
+     * @return Profile|false A Profile instance
+     */
+    public function import($data)
+    {
+        $profile = unserialize(base64_decode($data));
+
+        if ($this->storage->read($profile->getToken())) {
+            return false;
+        }
+
+        $this->saveProfile($profile);
+
+        return $profile;
+    }
+
+    /**
+     * Finds profiler tokens for the given criteria.
+     *
+     * @param string $ip     The IP
+     * @param string $url    The URL
+     * @param string $limit  The maximum number of tokens to return
+     * @param string $method The request method
+     * @param string $start  The start date to search from
+     * @param string $end    The end date to search to
+     *
+     * @return array An array of tokens
+     *
+     * @see http://php.net/manual/en/datetime.formats.php for the supported date/time formats
+     */
+    public function find($ip, $url, $limit, $method, $start, $end)
+    {
+        return $this->storage->find($ip, $url, $limit, $method, $this->getTimestamp($start), $this->getTimestamp($end));
+    }
+
+    /**
+     * Collects data for the given Response.
+     *
+     * @return Profile|null A Profile instance or null if the profiler is disabled
+     */
+    public function collect(Request $request, Response $response, \Exception $exception = null)
+    {
+        if (false === $this->enabled) {
+            return;
+        }
+
+        $profile = new Profile(substr(hash('sha256', uniqid(mt_rand(), true)), 0, 6));
+        $profile->setTime(time());
+        $profile->setUrl($request->getUri());
+        $profile->setMethod($request->getMethod());
+        $profile->setStatusCode($response->getStatusCode());
+        try {
+            $profile->setIp($request->getClientIp());
+        } catch (ConflictingHeadersException $e) {
+            $profile->setIp('Unknown');
+        }
+
+        $response->headers->set('X-Debug-Token', $profile->getToken());
+
+        foreach ($this->collectors as $collector) {
+            $collector->collect($request, $response, $exception);
+
+            // we need to clone for sub-requests
+            $profile->addCollector(clone $collector);
+        }
+
+        return $profile;
+    }
+
+    /**
+     * Gets the Collectors associated with this profiler.
+     *
+     * @return array An array of collectors
+     */
+    public function all()
+    {
+        return $this->collectors;
+    }
+
+    /**
+     * Sets the Collectors associated with this profiler.
+     *
+     * @param DataCollectorInterface[] $collectors An array of collectors
+     */
+    public function set(array $collectors = array())
+    {
+        $this->collectors = array();
+        foreach ($collectors as $collector) {
+            $this->add($collector);
+        }
+    }
+
+    /**
+     * Adds a Collector.
+     */
+    public function add(DataCollectorInterface $collector)
+    {
+        $this->collectors[$collector->getName()] = $collector;
+    }
+
+    /**
+     * Returns true if a Collector for the given name exists.
+     *
+     * @param string $name A collector name
+     *
+     * @return bool
+     */
+    public function has($name)
+    {
+        return isset($this->collectors[$name]);
+    }
+
+    /**
+     * Gets a Collector by name.
+     *
+     * @param string $name A collector name
+     *
+     * @return DataCollectorInterface A DataCollectorInterface instance
+     *
+     * @throws \InvalidArgumentException if the collector does not exist
+     */
+    public function get($name)
+    {
+        if (!isset($this->collectors[$name])) {
+            throw new \InvalidArgumentException(sprintf('Collector "%s" does not exist.', $name));
+        }
+
+        return $this->collectors[$name];
+    }
+
+    private function getTimestamp($value)
+    {
+        if (null === $value || '' == $value) {
+            return;
+        }
+
+        try {
+            $value = new \DateTime(is_numeric($value) ? '@'.$value : $value);
+        } catch (\Exception $e) {
+            return;
+        }
+
+        return $value->getTimestamp();
+    }
+}

@@ -1,108 +1,233 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-KIcCpWgvPEPzOBIOjpXm
+/*
+ * This file is part of the Symfony package.
+ *
+ * (c) Fabien Potencier <fabien@symfony.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+namespace Symfony\Component\HttpFoundation\Session;
+
+use Symfony\Component\HttpFoundation\Session\Storage\SessionStorageInterface;
+use Symfony\Component\HttpFoundation\Session\Attribute\AttributeBag;
+use Symfony\Component\HttpFoundation\Session\Attribute\AttributeBagInterface;
+use Symfony\Component\HttpFoundation\Session\Flash\FlashBag;
+use Symfony\Component\HttpFoundation\Session\Flash\FlashBagInterface;
+use Symfony\Component\HttpFoundation\Session\Storage\NativeSessionStorage;
+
+/**
+ * @author Fabien Potencier <fabien@symfony.com>
+ * @author Drak <drak@zikula.org>
+ */
+class Session implements SessionInterface, \IteratorAggregate, \Countable
+{
+    protected $storage;
+
+    private $flashName;
+    private $attributeName;
+
+    /**
+     * @param SessionStorageInterface $storage    A SessionStorageInterface instance
+     * @param AttributeBagInterface   $attributes An AttributeBagInterface instance, (defaults null for default AttributeBag)
+     * @param FlashBagInterface       $flashes    A FlashBagInterface instance (defaults null for default FlashBag)
+     */
+    public function __construct(SessionStorageInterface $storage = null, AttributeBagInterface $attributes = null, FlashBagInterface $flashes = null)
+    {
+        $this->storage = $storage ?: new NativeSessionStorage();
+
+        $attributes = $attributes ?: new AttributeBag();
+        $this->attributeName = $attributes->getName();
+        $this->registerBag($attributes);
+
+        $flashes = $flashes ?: new FlashBag();
+        $this->flashName = $flashes->getName();
+        $this->registerBag($flashes);
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function start()
+    {
+        return $this->storage->start();
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function has($name)
+    {
+        return $this->storage->getBag($this->attributeName)->has($name);
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function get($name, $default = null)
+    {
+        return $this->storage->getBag($this->attributeName)->get($name, $default);
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function set($name, $value)
+    {
+        $this->storage->getBag($this->attributeName)->set($name, $value);
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function all()
+    {
+        return $this->storage->getBag($this->attributeName)->all();
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function replace(array $attributes)
+    {
+        $this->storage->getBag($this->attributeName)->replace($attributes);
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function remove($name)
+    {
+        return $this->storage->getBag($this->attributeName)->remove($name);
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function clear()
+    {
+        $this->storage->getBag($this->attributeName)->clear();
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function isStarted()
+    {
+        return $this->storage->isStarted();
+    }
+
+    /**
+     * Returns an iterator for attributes.
+     *
+     * @return \ArrayIterator An \ArrayIterator instance
+     */
+    public function getIterator()
+    {
+        return new \ArrayIterator($this->storage->getBag($this->attributeName)->all());
+    }
+
+    /**
+     * Returns the number of attributes.
+     *
+     * @return int The number of attributes
+     */
+    public function count()
+    {
+        return count($this->storage->getBag($this->attributeName)->all());
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function invalidate($lifetime = null)
+    {
+        $this->storage->clear();
+
+        return $this->migrate(true, $lifetime);
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function migrate($destroy = false, $lifetime = null)
+    {
+        return $this->storage->regenerate($destroy, $lifetime);
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function save()
+    {
+        $this->storage->save();
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function getId()
+    {
+        return $this->storage->getId();
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function setId($id)
+    {
+        $this->storage->setId($id);
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function getName()
+    {
+        return $this->storage->getName();
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function setName($name)
+    {
+        $this->storage->setName($name);
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function getMetadataBag()
+    {
+        return $this->storage->getMetadataBag();
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function registerBag(SessionBagInterface $bag)
+    {
+        $this->storage->registerBag($bag);
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function getBag($name)
+    {
+        return $this->storage->getBag($name);
+    }
+
+    /**
+     * Gets the flashbag interface.
+     *
+     * @return FlashBagInterface
+     */
+    public function getFlashBag()
+    {
+        return $this->getBag($this->flashName);
+    }
+}

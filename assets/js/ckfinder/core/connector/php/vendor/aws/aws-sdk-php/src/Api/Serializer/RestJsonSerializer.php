@@ -1,89 +1,39 @@
-<?php //ICB0 56:0 71:e34                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\Api\Serializer;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use Aws\Api\Service;
+use Aws\Api\StructureShape;
 
-?>
-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
+/**
+ * Serializes requests for the REST-JSON protocol.
+ * @internal
+ */
+class RestJsonSerializer extends RestSerializer
+{
+    /** @var JsonBody */
+    private $jsonFormatter;
+
+    /** @var string */
+    private $contentType;
+
+    /**
+     * @param Service  $api           Service API description
+     * @param string   $endpoint      Endpoint to connect to
+     * @param JsonBody $jsonFormatter Optional JSON formatter to use
+     */
+    public function __construct(
+        Service $api,
+        $endpoint,
+        JsonBody $jsonFormatter = null
+    ) {
+        parent::__construct($api, $endpoint);
+        $this->contentType = JsonBody::getContentType($api);
+        $this->jsonFormatter = $jsonFormatter ?: new JsonBody($api);
+    }
+
+    protected function payload(StructureShape $member, array $value, array &$opts)
+    {
+        $opts['headers']['Content-Type'] = $this->contentType;
+        $opts['body'] = (string) $this->jsonFormatter->build($member, $value);
+    }
+}

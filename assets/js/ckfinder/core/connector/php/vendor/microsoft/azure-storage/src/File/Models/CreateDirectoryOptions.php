@@ -1,77 +1,77 @@
-<?php //ICB0 56:0 71:c73                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-TZS==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * LICENSE: The MIT License (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * https://github.com/azure/azure-storage-php/LICENSE
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * PHP version 5
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\File\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2017 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+ 
+namespace MicrosoftAzure\Storage\File\Models;
 
-?>
-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
-MXsgECsYg+KR5tu=
+/**
+ * Optional parameters for createDirectory API
+ *
+ * @category  Microsoft
+ * @package   MicrosoftAzure\Storage\File\Models
+ * @author    Azure Storage PHP SDK <dmsh@microsoft.com>
+ * @copyright 2017 Microsoft Corporation
+ * @license   https://github.com/azure/azure-storage-php/LICENSE
+ * @link      https://github.com/azure/azure-storage-php
+ */
+class CreateDirectoryOptions extends FileServiceOptions
+{
+    private $metadata;
+    
+    /**
+     * Gets user defined metadata.
+     *
+     * @return array
+     */
+    public function getMetadata()
+    {
+        return $this->metadata;
+    }
+    
+    /**
+     * Sets user defined metadata. This metadata should be added without the header
+     * prefix (x-ms-meta-*).
+     *
+     * @param array $metadata user defined metadata object in array form.
+     *
+     * @return void
+     */
+    public function setMetadata(array $metadata)
+    {
+        $this->metadata = $metadata;
+    }
+    
+    /**
+     * Adds new metadata element. This element should be added without the header
+     * prefix (x-ms-meta-*).
+     *
+     * @param string $key   metadata key element.
+     * @param string $value metadata value element.
+     *
+     * @return void
+     */
+    public function addMetadata($key, $value)
+    {
+        $this->metadata[$key] = $value;
+    }
+}

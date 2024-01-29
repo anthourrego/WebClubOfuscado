@@ -1,48 +1,165 @@
-<?php //ICB0 56:0 71:87d                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace Aws\Glue;
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cPzbq+8Etmi2qJizje55keRCg8HALMcfgK9uxfxwtCCqQyuytH7/kUdYBRCj5rnfKI5Z5InSq
-ASB3gnkOyL3DC94+KpSc8IYsaPyirKL+HT+2aCSsKW320OUBUsE9mNVu0fncekY2GD8n/chQGzLs
-aUL6/hreVMY0QHTldvXif1hUG+1+RXG6KY6rvL/vdiFzZd1+cbc7Sf1dMh9CfqYEaaSG2rFoXxe0
-lxAqNjlyv91+7Y98p5jyaqx2+cTOuOcdtkxhxgKlxf02/8wULxI9snptqslkK05k26wAB5jzggM6
-fQOtflW2PXx7t70nd6KWz4mEbwOiVvXKkPaFd4H/TCXmbP9oXN9MXp7j9qa8ehW1skoXXJU7nUj1
-/dE45AqwHgicfGxgsjws4LMIdTj8lnH8NovdjbFxvu9EULrtb2b+EOZjS6hSUDvBaKmKY88vK2we
-jtJLDNMIrJrUDFohfV9xezIqWYAupcaXOcHpx60OIjbt3ENqGdxxuTWovkqgaA0SQNLKTuZcLyF5
-2mZOcJblWf9O6YUCMGSNXmaKKoTfn6tgXzyWhHp6w8xyEYOuj79RxRKHeqBab6cXUob9yttoCKcN
-nX+5R8NbTG8lBbC7yuMoynVnfYmaeE4Qrp7H67N1lnAERpqoge5zxtExhNvPstfgj+HlKqfQl4UP
-MO2/PHP4wkiRTLTDVFwVUE4AcICpHY6DeHPmFXvZccwZsQ9BoaWFzIdASkxeL8y1tHYu8GqK/ZKH
-AtH3d9sab401Ha+EEbB9rG5KRxh2hlHZjYGsA3/DSXEDW/mGJOBR6RSbviJZyVOgD+ivXCw2YCPd
-56qV3TRnkRcE1mwFzsNnLDAqOh03WLW+1LVIumVdabvFuPiIVPhkd26WyX1WQtKq7tWmagFEU1Sj
-1vE/SaDnAUjfyJQ4zf7AYUEoyKSg7uyc8AocuOtrNKXDkFTuC700j0GtCZiAHLL9wl6iodAJQrfB
-7IXEiRjY+EVjMNdA1J9lPS2IvcHLe4sBS3kpxYGpOhGAVmuEMrUAxtHYf9mCR+E0ckeo5F5vKMaK
-uBeunlnyV36yOjXL8N8GiLhkJog8IyEolrTWMky6l+C3fzQ1EhNjefpPadzRvQBS/zvYt4wZE4M5
-Jii6uFDOWaB2J0rOp/Sa9n0T2W79Qayvc4FXSUAg+StSVTRP/Fcu9piSeMuk+SAW+OQoGpXM47mM
-ILFVN+Q8e04YN1tDz1J1q/yKdk4Z99suQDku6DNFp7NUHov8BPI5+Ga2nOku5cBl30===
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+use Aws\AwsClient;
 
-?>
-HR+cPybRNre8lwETrUFAUIdhL3a6nFu7ueygnErGMiHYTbenBbSu0ee2z89cfQorYy9ZRxj1UPRC
-cEqY78zJTLLdOAuYIr9mZmPNl2p8fuyt/nDptyZ1lhXJzEaZCfYkJn/I3TQqR6W56VjtPLtD5RbP
-30W45t6D+YuxybfJcQg6ocw0BAfHTwnmEArNxOCJ4mDj864zJdEUhiNSPW/HgHwF29xYdvGWrkgq
-tL7jIy6uGkpBR8852j0iZHnl8unWodDPrfCotnUMZB8NzoKzh7ymN1e4vOS4XcHdYRhzducGygy7
-EvOvS1TKK8zmttTRt8pUe6BAbeSSCh9KNAJlgm9jrKZrsT1q8ADTO4Aj7grfRhl0JKMoLzu0d6Ip
-3DarEtU6sllFTYQIvH/GLBBzB+eLtqNXNllJRvPw3+ASbxjfMZi9FqG7TN5A5Fmc+4sAAflh6xQ/
-qO9h98Qw9/roCxu8DAimopbJwd/i8sqTjy4tCLNMqFsSgOMgrUhpeP+Q6YOrjtNO+72PijXi6x62
-9ObQ6bl/5gqPkQt8bSbxHq/rN7oED1CSbFRneNW2hS0NMKAmIDg8WFk4vNsoua9R7IcOMSBj0PZ5
-kftmuTgwjs2+dEAC5cFhwp94zYm0gBxwKtgGJJ7vpmGaQlpOa/0nBlyLbMuPXsHdsyDIqAz9s9DM
-qjLHK8gv0Ga2ednJe/nSAwzeq7z6Q9n5Z0Qy+tesJtZwZAtrtx+p+p7++YXlMnsqPdp6itqMXXdo
-ldx9XDdv/DzUkIC8hlpAmO/s2fIFyoyUZEnLVCLNgQi5ewBly5wadswdSfENsNbDhs/wDTpctZSU
-PX4zyXFCdhLaadz9J6P2CtJDqG7W8a/H5MnEhQbTkGAv7qxJrv/S9y+fOii2M9DaRAFjLR3Xmanp
-C+onB9MaXsTWSwGLnyPPJVhmCrg9NY+qKwFa0anaS1vf6LptVVECBPbz8/o7Q2dJsxX+OmPSngpO
-ItaXL6eLThf9YP86oIv88uES7Bcm7sZFH2DqW5xUGyCiolA8wpbQhFjUVyzMuWiOlhPzf5AJWpOb
-/0QqKH1kgvlmN5PU5egLFYs3EHzZ517ZuFpwCfLIE4PYH5lQQXXObpvlvxNw0lNNQp3sPGEkcbzR
-795R9Euox1cIStSYcl8CN/lOtFwStX2ncEYpbnoFbz3sz+xlkL2SGSd8kaSKRuckPu6KqbVBmv8A
-PNOejxlMc7LSXUAn/oqFC7Rur1j2IPOWliBFKAOspT3ZlBJ6i0KFsTak4eOv8IgwxeVisd0b2wHM
-/xJ/O7bvEqlJb8WVwRbZWVb6974vlbzJ33a5JYni1RQ1atq51C4oExMTANK4cxSlw0==
+/**
+ * This client is used to interact with the **AWS Glue** service.
+ * @method \Aws\Result batchCreatePartition(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise batchCreatePartitionAsync(array $args = [])
+ * @method \Aws\Result batchDeleteConnection(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise batchDeleteConnectionAsync(array $args = [])
+ * @method \Aws\Result batchDeletePartition(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise batchDeletePartitionAsync(array $args = [])
+ * @method \Aws\Result batchDeleteTable(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise batchDeleteTableAsync(array $args = [])
+ * @method \Aws\Result batchDeleteTableVersion(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise batchDeleteTableVersionAsync(array $args = [])
+ * @method \Aws\Result batchGetPartition(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise batchGetPartitionAsync(array $args = [])
+ * @method \Aws\Result batchStopJobRun(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise batchStopJobRunAsync(array $args = [])
+ * @method \Aws\Result createClassifier(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createClassifierAsync(array $args = [])
+ * @method \Aws\Result createConnection(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createConnectionAsync(array $args = [])
+ * @method \Aws\Result createCrawler(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createCrawlerAsync(array $args = [])
+ * @method \Aws\Result createDatabase(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createDatabaseAsync(array $args = [])
+ * @method \Aws\Result createDevEndpoint(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createDevEndpointAsync(array $args = [])
+ * @method \Aws\Result createJob(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createJobAsync(array $args = [])
+ * @method \Aws\Result createPartition(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createPartitionAsync(array $args = [])
+ * @method \Aws\Result createScript(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createScriptAsync(array $args = [])
+ * @method \Aws\Result createTable(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createTableAsync(array $args = [])
+ * @method \Aws\Result createTrigger(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createTriggerAsync(array $args = [])
+ * @method \Aws\Result createUserDefinedFunction(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise createUserDefinedFunctionAsync(array $args = [])
+ * @method \Aws\Result deleteClassifier(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteClassifierAsync(array $args = [])
+ * @method \Aws\Result deleteConnection(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteConnectionAsync(array $args = [])
+ * @method \Aws\Result deleteCrawler(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteCrawlerAsync(array $args = [])
+ * @method \Aws\Result deleteDatabase(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteDatabaseAsync(array $args = [])
+ * @method \Aws\Result deleteDevEndpoint(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteDevEndpointAsync(array $args = [])
+ * @method \Aws\Result deleteJob(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteJobAsync(array $args = [])
+ * @method \Aws\Result deletePartition(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deletePartitionAsync(array $args = [])
+ * @method \Aws\Result deleteTable(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteTableAsync(array $args = [])
+ * @method \Aws\Result deleteTableVersion(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteTableVersionAsync(array $args = [])
+ * @method \Aws\Result deleteTrigger(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteTriggerAsync(array $args = [])
+ * @method \Aws\Result deleteUserDefinedFunction(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise deleteUserDefinedFunctionAsync(array $args = [])
+ * @method \Aws\Result getCatalogImportStatus(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getCatalogImportStatusAsync(array $args = [])
+ * @method \Aws\Result getClassifier(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getClassifierAsync(array $args = [])
+ * @method \Aws\Result getClassifiers(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getClassifiersAsync(array $args = [])
+ * @method \Aws\Result getConnection(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getConnectionAsync(array $args = [])
+ * @method \Aws\Result getConnections(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getConnectionsAsync(array $args = [])
+ * @method \Aws\Result getCrawler(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getCrawlerAsync(array $args = [])
+ * @method \Aws\Result getCrawlerMetrics(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getCrawlerMetricsAsync(array $args = [])
+ * @method \Aws\Result getCrawlers(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getCrawlersAsync(array $args = [])
+ * @method \Aws\Result getDatabase(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getDatabaseAsync(array $args = [])
+ * @method \Aws\Result getDatabases(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getDatabasesAsync(array $args = [])
+ * @method \Aws\Result getDataflowGraph(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getDataflowGraphAsync(array $args = [])
+ * @method \Aws\Result getDevEndpoint(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getDevEndpointAsync(array $args = [])
+ * @method \Aws\Result getDevEndpoints(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getDevEndpointsAsync(array $args = [])
+ * @method \Aws\Result getJob(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getJobAsync(array $args = [])
+ * @method \Aws\Result getJobRun(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getJobRunAsync(array $args = [])
+ * @method \Aws\Result getJobRuns(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getJobRunsAsync(array $args = [])
+ * @method \Aws\Result getJobs(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getJobsAsync(array $args = [])
+ * @method \Aws\Result getMapping(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getMappingAsync(array $args = [])
+ * @method \Aws\Result getPartition(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getPartitionAsync(array $args = [])
+ * @method \Aws\Result getPartitions(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getPartitionsAsync(array $args = [])
+ * @method \Aws\Result getPlan(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getPlanAsync(array $args = [])
+ * @method \Aws\Result getTable(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getTableAsync(array $args = [])
+ * @method \Aws\Result getTableVersion(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getTableVersionAsync(array $args = [])
+ * @method \Aws\Result getTableVersions(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getTableVersionsAsync(array $args = [])
+ * @method \Aws\Result getTables(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getTablesAsync(array $args = [])
+ * @method \Aws\Result getTrigger(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getTriggerAsync(array $args = [])
+ * @method \Aws\Result getTriggers(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getTriggersAsync(array $args = [])
+ * @method \Aws\Result getUserDefinedFunction(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getUserDefinedFunctionAsync(array $args = [])
+ * @method \Aws\Result getUserDefinedFunctions(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise getUserDefinedFunctionsAsync(array $args = [])
+ * @method \Aws\Result importCatalogToGlue(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise importCatalogToGlueAsync(array $args = [])
+ * @method \Aws\Result resetJobBookmark(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise resetJobBookmarkAsync(array $args = [])
+ * @method \Aws\Result startCrawler(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise startCrawlerAsync(array $args = [])
+ * @method \Aws\Result startCrawlerSchedule(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise startCrawlerScheduleAsync(array $args = [])
+ * @method \Aws\Result startJobRun(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise startJobRunAsync(array $args = [])
+ * @method \Aws\Result startTrigger(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise startTriggerAsync(array $args = [])
+ * @method \Aws\Result stopCrawler(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise stopCrawlerAsync(array $args = [])
+ * @method \Aws\Result stopCrawlerSchedule(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise stopCrawlerScheduleAsync(array $args = [])
+ * @method \Aws\Result stopTrigger(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise stopTriggerAsync(array $args = [])
+ * @method \Aws\Result updateClassifier(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateClassifierAsync(array $args = [])
+ * @method \Aws\Result updateConnection(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateConnectionAsync(array $args = [])
+ * @method \Aws\Result updateCrawler(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateCrawlerAsync(array $args = [])
+ * @method \Aws\Result updateCrawlerSchedule(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateCrawlerScheduleAsync(array $args = [])
+ * @method \Aws\Result updateDatabase(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateDatabaseAsync(array $args = [])
+ * @method \Aws\Result updateDevEndpoint(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateDevEndpointAsync(array $args = [])
+ * @method \Aws\Result updateJob(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateJobAsync(array $args = [])
+ * @method \Aws\Result updatePartition(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updatePartitionAsync(array $args = [])
+ * @method \Aws\Result updateTable(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateTableAsync(array $args = [])
+ * @method \Aws\Result updateTrigger(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateTriggerAsync(array $args = [])
+ * @method \Aws\Result updateUserDefinedFunction(array $args = [])
+ * @method \GuzzleHttp\Promise\Promise updateUserDefinedFunctionAsync(array $args = [])
+ */
+class GlueClient extends AwsClient {}

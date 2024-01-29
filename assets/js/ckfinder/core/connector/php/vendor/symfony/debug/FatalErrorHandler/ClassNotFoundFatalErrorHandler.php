@@ -1,140 +1,212 @@
-<?php //ICB0 56:0                                                             ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
+/*
+ * This file is part of the Symfony package.
+ *
+ * (c) Fabien Potencier <fabien@symfony.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+namespace Symfony\Component\Debug\FatalErrorHandler;
+
+use Symfony\Component\Debug\Exception\ClassNotFoundException;
+use Symfony\Component\Debug\Exception\FatalErrorException;
+use Symfony\Component\Debug\DebugClassLoader;
+use Composer\Autoload\ClassLoader as ComposerClassLoader;
+use Symfony\Component\ClassLoader\ClassLoader as SymfonyClassLoader;
+use Symfony\Component\ClassLoader\UniversalClassLoader as SymfonyUniversalClassLoader;
+
+/**
+ * ErrorHandler for classes that do not exist.
+ *
+ * @author Fabien Potencier <fabien@symfony.com>
+ */
+class ClassNotFoundFatalErrorHandler implements FatalErrorHandlerInterface
+{
+    /**
+     * {@inheritdoc}
+     */
+    public function handleError(array $error, FatalErrorException $exception)
+    {
+        $messageLen = strlen($error['message']);
+        $notFoundSuffix = '\' not found';
+        $notFoundSuffixLen = strlen($notFoundSuffix);
+        if ($notFoundSuffixLen > $messageLen) {
+            return;
+        }
+
+        if (0 !== substr_compare($error['message'], $notFoundSuffix, -$notFoundSuffixLen)) {
+            return;
+        }
+
+        foreach (array('class', 'interface', 'trait') as $typeName) {
+            $prefix = ucfirst($typeName).' \'';
+            $prefixLen = strlen($prefix);
+            if (0 !== strpos($error['message'], $prefix)) {
+                continue;
+            }
+
+            $fullyQualifiedClassName = substr($error['message'], $prefixLen, -$notFoundSuffixLen);
+            if (false !== $namespaceSeparatorIndex = strrpos($fullyQualifiedClassName, '\\')) {
+                $className = substr($fullyQualifiedClassName, $namespaceSeparatorIndex + 1);
+                $namespacePrefix = substr($fullyQualifiedClassName, 0, $namespaceSeparatorIndex);
+                $message = sprintf('Attempted to load %s "%s" from namespace "%s".', $typeName, $className, $namespacePrefix);
+                $tail = ' for another namespace?';
+            } else {
+                $className = $fullyQualifiedClassName;
+                $message = sprintf('Attempted to load %s "%s" from the global namespace.', $typeName, $className);
+                $tail = '?';
+            }
+
+            if ($candidates = $this->getClassCandidates($className)) {
+                $tail = array_pop($candidates).'"?';
+                if ($candidates) {
+                    $tail = ' for e.g. "'.implode('", "', $candidates).'" or "'.$tail;
+                } else {
+                    $tail = ' for "'.$tail;
+                }
+            }
+            $message .= "\nDid you forget a \"use\" statement".$tail;
+
+            return new ClassNotFoundException($message, $exception);
+        }
+    }
+
+    /**
+     * Tries to guess the full namespace for a given class name.
+     *
+     * By default, it looks for PSR-0 and PSR-4 classes registered via a Symfony or a Composer
+     * autoloader (that should cover all common cases).
+     *
+     * @param string $class A class name (without its namespace)
+     *
+     * @return array An array of possible fully qualified class names
+     */
+    private function getClassCandidates($class)
+    {
+        if (!is_array($functions = spl_autoload_functions())) {
+            return array();
+        }
+
+        // find Symfony and Composer autoloaders
+        $classes = array();
+
+        foreach ($functions as $function) {
+            if (!is_array($function)) {
+                continue;
+            }
+            // get class loaders wrapped by DebugClassLoader
+            if ($function[0] instanceof DebugClassLoader) {
+                $function = $function[0]->getClassLoader();
+
+                // @deprecated since version 2.5. Returning an object from DebugClassLoader::getClassLoader() is deprecated.
+                if (is_object($function)) {
+                    $function = array($function);
+                }
+
+                if (!is_array($function)) {
+                    continue;
+                }
+            }
+
+            if ($function[0] instanceof ComposerClassLoader || $function[0] instanceof SymfonyClassLoader || $function[0] instanceof SymfonyUniversalClassLoader) {
+                foreach ($function[0]->getPrefixes() as $prefix => $paths) {
+                    foreach ($paths as $path) {
+                        $classes = array_merge($classes, $this->findClassInPath($path, $class, $prefix));
+                    }
+                }
+            }
+            if ($function[0] instanceof ComposerClassLoader) {
+                foreach ($function[0]->getPrefixesPsr4() as $prefix => $paths) {
+                    foreach ($paths as $path) {
+                        $classes = array_merge($classes, $this->findClassInPath($path, $class, $prefix));
+                    }
+                }
+            }
+        }
+
+        return array_unique($classes);
+    }
+
+    /**
+     * @param string $path
+     * @param string $class
+     * @param string $prefix
+     *
+     * @return array
+     */
+    private function findClassInPath($path, $class, $prefix)
+    {
+        if (!$path = realpath($path.'/'.strtr($prefix, '\\_', '//')) ?: realpath($path.'/'.dirname(strtr($prefix, '\\_', '//'))) ?: realpath($path)) {
+            return array();
+        }
+
+        $classes = array();
+        $filename = $class.'.php';
+        foreach (new \RecursiveIteratorIterator(new \RecursiveDirectoryIterator($path, \RecursiveDirectoryIterator::SKIP_DOTS), \RecursiveIteratorIterator::LEAVES_ONLY) as $file) {
+            if ($filename == $file->getFileName() && $class = $this->convertFileToClass($path, $file->getPathName(), $prefix)) {
+                $classes[] = $class;
+            }
+        }
+
+        return $classes;
+    }
+
+    /**
+     * @param string $path
+     * @param string $file
+     * @param string $prefix
+     *
+     * @return string|null
+     */
+    private function convertFileToClass($path, $file, $prefix)
+    {
+        $candidates = array(
+            // namespaced class
+            $namespacedClass = str_replace(array($path.DIRECTORY_SEPARATOR, '.php', '/'), array('', '', '\\'), $file),
+            // namespaced class (with target dir)
+            $prefix.$namespacedClass,
+            // namespaced class (with target dir and separator)
+            $prefix.'\\'.$namespacedClass,
+            // PEAR class
+            str_replace('\\', '_', $namespacedClass),
+            // PEAR class (with target dir)
+            str_replace('\\', '_', $prefix.$namespacedClass),
+            // PEAR class (with target dir and separator)
+            str_replace('\\', '_', $prefix.'\\'.$namespacedClass),
+        );
+
+        if ($prefix) {
+            $candidates = array_filter($candidates, function ($candidate) use ($prefix) { return 0 === strpos($candidate, $prefix); });
+        }
+
+        // We cannot use the autoloader here as most of them use require; but if the class
+        // is not found, the new autoloader call will require the file again leading to a
+        // "cannot redeclare class" error.
+        foreach ($candidates as $candidate) {
+            if ($this->classExists($candidate)) {
+                return $candidate;
+            }
+        }
+
+        require_once $file;
+
+        foreach ($candidates as $candidate) {
+            if ($this->classExists($candidate)) {
+                return $candidate;
+            }
+        }
+    }
+
+    /**
+     * @param string $class
+     *
+     * @return bool
+     */
+    private function classExists($class)
+    {
+        return class_exists($class, false) || interface_exists($class, false) || (function_exists('trait_exists') && trait_exists($class, false));
+    }
+}
