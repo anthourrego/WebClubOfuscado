@@ -1,220 +1,222 @@
-<?php //ICB0 56:0 71:208d                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+require_once PHPEXCEL_ROOT . 'PHPExcel/Shared/trend/bestFitClass.php';
+require_once PHPEXCEL_ROOT . 'PHPExcel/Shared/JAMA/Matrix.php';
 
-?>
-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
-DBT8gW==
+/**
+ * PHPExcel_Polynomial_Best_Fit
+ *
+ * Copyright (c) 2006 - 2015 PHPExcel
+ *
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ *
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public
+ * License along with this library; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+ *
+ * @category   PHPExcel
+ * @package    PHPExcel_Shared_Trend
+ * @copyright  Copyright (c) 2006 - 2015 PHPExcel (http://www.codeplex.com/PHPExcel)
+ * @license    http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt    LGPL
+ * @version    ##VERSION##, ##DATE##
+ */
+class PHPExcel_Polynomial_Best_Fit extends PHPExcel_Best_Fit
+{
+    /**
+     * Algorithm type to use for best-fit
+     * (Name of this trend class)
+     *
+     * @var    string
+     **/
+    protected $bestFitType = 'polynomial';
+
+    /**
+     * Polynomial order
+     *
+     * @protected
+     * @var    int
+     **/
+    protected $order = 0;
+
+
+    /**
+     * Return the order of this polynomial
+     *
+     * @return     int
+     **/
+    public function getOrder()
+    {
+        return $this->order;
+    }
+
+
+    /**
+     * Return the Y-Value for a specified value of X
+     *
+     * @param     float        $xValue            X-Value
+     * @return     float                        Y-Value
+     **/
+    public function getValueOfYForX($xValue)
+    {
+        $retVal = $this->getIntersect();
+        $slope = $this->getSlope();
+        foreach ($slope as $key => $value) {
+            if ($value != 0.0) {
+                $retVal += $value * pow($xValue, $key + 1);
+            }
+        }
+        return $retVal;
+    }
+
+
+    /**
+     * Return the X-Value for a specified value of Y
+     *
+     * @param     float        $yValue            Y-Value
+     * @return     float                        X-Value
+     **/
+    public function getValueOfXForY($yValue)
+    {
+        return ($yValue - $this->getIntersect()) / $this->getSlope();
+    }
+
+
+    /**
+     * Return the Equation of the best-fit line
+     *
+     * @param     int        $dp        Number of places of decimal precision to display
+     * @return     string
+     **/
+    public function getEquation($dp = 0)
+    {
+        $slope = $this->getSlope($dp);
+        $intersect = $this->getIntersect($dp);
+
+        $equation = 'Y = ' . $intersect;
+        foreach ($slope as $key => $value) {
+            if ($value != 0.0) {
+                $equation .= ' + ' . $value . ' * X';
+                if ($key > 0) {
+                    $equation .= '^' . ($key + 1);
+                }
+            }
+        }
+        return $equation;
+    }
+
+
+    /**
+     * Return the Slope of the line
+     *
+     * @param     int        $dp        Number of places of decimal precision to display
+     * @return     string
+     **/
+    public function getSlope($dp = 0)
+    {
+        if ($dp != 0) {
+            $coefficients = array();
+            foreach ($this->_slope as $coefficient) {
+                $coefficients[] = round($coefficient, $dp);
+            }
+            return $coefficients;
+        }
+        return $this->_slope;
+    }
+
+
+    public function getCoefficients($dp = 0)
+    {
+        return array_merge(array($this->getIntersect($dp)), $this->getSlope($dp));
+    }
+
+
+    /**
+     * Execute the regression and calculate the goodness of fit for a set of X and Y data values
+     *
+     * @param    int            $order        Order of Polynomial for this regression
+     * @param    float[]        $yValues    The set of Y-values for this regression
+     * @param    float[]        $xValues    The set of X-values for this regression
+     * @param    boolean        $const
+     */
+    private function polynomialRegression($order, $yValues, $xValues, $const)
+    {
+        // calculate sums
+        $x_sum = array_sum($xValues);
+        $y_sum = array_sum($yValues);
+        $xx_sum = $xy_sum = 0;
+        for ($i = 0; $i < $this->valueCount; ++$i) {
+            $xy_sum += $xValues[$i] * $yValues[$i];
+            $xx_sum += $xValues[$i] * $xValues[$i];
+            $yy_sum += $yValues[$i] * $yValues[$i];
+        }
+        /*
+         *    This routine uses logic from the PHP port of polyfit version 0.1
+         *    written by Michael Bommarito and Paul Meagher
+         *
+         *    The function fits a polynomial function of order $order through
+         *    a series of x-y data points using least squares.
+         *
+         */
+        for ($i = 0; $i < $this->valueCount; ++$i) {
+            for ($j = 0; $j <= $order; ++$j) {
+                $A[$i][$j] = pow($xValues[$i], $j);
+            }
+        }
+        for ($i=0; $i < $this->valueCount; ++$i) {
+            $B[$i] = array($yValues[$i]);
+        }
+        $matrixA = new Matrix($A);
+        $matrixB = new Matrix($B);
+        $C = $matrixA->solve($matrixB);
+
+        $coefficients = array();
+        for ($i = 0; $i < $C->m; ++$i) {
+            $r = $C->get($i, 0);
+            if (abs($r) <= pow(10, -9)) {
+                $r = 0;
+            }
+            $coefficients[] = $r;
+        }
+
+        $this->intersect = array_shift($coefficients);
+        $this->_slope = $coefficients;
+
+        $this->calculateGoodnessOfFit($x_sum, $y_sum, $xx_sum, $yy_sum, $xy_sum);
+        foreach ($this->xValues as $xKey => $xValue) {
+            $this->yBestFitValues[$xKey] = $this->getValueOfYForX($xValue);
+        }
+    }
+
+
+    /**
+     * Define the regression and calculate the goodness of fit for a set of X and Y data values
+     *
+     * @param    int            $order        Order of Polynomial for this regression
+     * @param    float[]        $yValues    The set of Y-values for this regression
+     * @param    float[]        $xValues    The set of X-values for this regression
+     * @param    boolean        $const
+     */
+    public function __construct($order, $yValues, $xValues = array(), $const = true)
+    {
+        if (parent::__construct($yValues, $xValues) !== false) {
+            if ($order < $this->valueCount) {
+                $this->bestFitType .= '_'.$order;
+                $this->order = $order;
+                $this->polynomialRegression($order, $yValues, $xValues, $const);
+                if (($this->getGoodnessOfFit() < 0.0) || ($this->getGoodnessOfFit() > 1.0)) {
+                    $this->_error = true;
+                }
+            } else {
+                $this->_error = true;
+            }
+        }
+    }
+}

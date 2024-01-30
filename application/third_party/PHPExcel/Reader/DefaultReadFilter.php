@@ -1,87 +1,51 @@
-<?php //ICB0 56:0 71:d7a                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-FleAis2ND9EBO6WA6ZW1EhhHavGRWQOQBHHe=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/** PHPExcel root directory */
+if (!defined('PHPEXCEL_ROOT')) {
+    /**
+     * @ignore
+     */
+    define('PHPEXCEL_ROOT', dirname(__FILE__) . '/../../');
+    require(PHPEXCEL_ROOT . 'PHPExcel/Autoloader.php');
+}
 
-?>
-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
+/**
+ * PHPExcel_Reader_DefaultReadFilter
+ *
+ * Copyright (c) 2006 - 2015 PHPExcel
+ *
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ *
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public
+ * License along with this library; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+ *
+ * @category   PHPExcel
+ * @package    PHPExcel_Reader
+ * @copyright  Copyright (c) 2006 - 2015 PHPExcel (http://www.codeplex.com/PHPExcel)
+ * @license    http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt    LGPL
+ * @version    ##VERSION##, ##DATE##
+ */
+class PHPExcel_Reader_DefaultReadFilter implements PHPExcel_Reader_IReadFilter
+{
+    /**
+     * Should this cell be read?
+     *
+     * @param    $column           Column address (as a string value like "A", or "IV")
+     * @param    $row              Row number
+     * @param    $worksheetName    Optional worksheet name
+     * @return   boolean
+     */
+    public function readCell($column, $row, $worksheetName = '')
+    {
+        return true;
+    }
+}

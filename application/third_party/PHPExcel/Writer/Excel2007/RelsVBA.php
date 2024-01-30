@@ -1,101 +1,63 @@
-<?php //ICB0 56:0 71:fa1                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cPzs9Q1h4LL5UaJdzEIOmHLnIEwvnjbN1kPYuItcTtgxvsNIyOp5lb1UUFMHaDL2bS81mtunC
-X4JQDXsCDXF/qiUQD9X8JkzEmiS3LGIrzvKvC9wr3RQ1/0Y2XNOXuDSEEcD8D2tArwbPeWs4LcQd
-cvMJcqfs4cCajsqWmON5wa+7wwDS/bApah95t184M4YcGl2y4tbAesWiZgT6V6rqUlRNKIwC8E7Q
-VfT3wk3yq0zzGYWu8MdpnIDSdtEEnmSBDeG3HT/zGiLVv7HNaOcUHI6iZ7Hb0xf9d5rRPj0N7G7S
-pIj4J39LvGhDEIRZEAHO06TfMDbKyEVAXukXOFK3IuSCNougODlROACAAVGHlfXtydtQnk4DgcM9
-A9sb6HXdK3sP8ATxNuartvPRTAt3ZOo4DI+g1FPqKAJpBTbI5blVXRro5gxqVoD6pgwxOCTKzkUG
-7IVJ7a1HZ4assZSXepEqAHWAnhafBf8GurvGHsqXvC5it1Ju1MAY4dzZatNA/OBMjEqcFvxMFQaB
-rpuweQx7yhW7nwJVN1XyqN2p2grj9M6Re5nCQuZ0HzkUXN6LrJa56CdZkTiTtHbVeUT6xS+bCXTy
-l30AuNEdra550Z3rk+Qcml4KbdqkeiNOoD+Fxqy71R9TuvNr0G//hpT4dTnYuTe5AFNt4aJqslxV
-NO48PvOa2hXJxJ2AgzZB9ObgMW/uIU7kdcvDN13Jn78GscItX1xEi4ZFZMw3saEG4AucjC0RP6BV
-HsprS2Keqm/43BRuNdKrTZCg49FkzGYaZldv5iG7fENlWkURmldMHsRix7LOpTgIv6q/tPuBKQlM
-mCSRhEeZPX5KSdt7WDBRGfcJmUFuB3e6r/CnqupjWDT+JBH1rPlpduElSsgl41r3u+7YbmWgjLZz
-mMApufM+uxzPGrAR9TFGAi28npJLcnj1TN0jzOWN1zvj2SF0m00LteQqTIf2Ipk6W2NYCCWDrjO2
-jcTCdEewcme66/yJz4cyk321AY/R2LqmsiOV/9ouJWnGaJwoRZhKPQfiI5dbPeyJqqi511x2BXvv
-EoKWo761kcEvBpIi5R7kTZxYCxdCH9w5HMJfIxnZEEiZ96xeYFgJfA4bnYvaYykqo/ymK8UShvg+
-/K7ZhlQmoKIuRLbLpyvuVQdNvCe7B4hxFs8J8iYq/U59U8XTh/z65Tp7cW+mPjUARmOOIt+GWOSr
-4/oWznpNKCEvUJxZBp2mEb/Ja3bzW/gbL36tH1HpAXpQW0/4fdv3WZlJT0lPe1wLf63NEpeZf8vH
-MZaMIYR5lVC029t5IJ3pZneVleobs11nI7UzCPlEENjblfFqwq5g9tRm+dqXwpss/U5PeVACyvDF
-tVHNGLtjdf3iZW9VXNo1PAFeFYt7hOgvERO8fEg/ZRaUnWr7y8pYTUaM5zpBHXY0VTz4y0p1u5d2
-s//IsqXNOleF7aM3Hg2g6uawPtWm12r6ACHvVdpicmx19VqliBctS7NCw6V3YL5UMpum0Yy6qvXL
-gJxOdYfFKG/MuZf3Zhgg/KOXunpM08DDxdPfjDcjHbops5eWLcsQG23KAIigsKCFKO6X/tvNfj/x
-8UIk/hohRc/FecjQLTHlUgCiSimvZkYeXVyoAxrN3ZFtoQ7XV9d4Co2BQdkc3X8+37GlTjlnKuZf
-M56cd9jFfhRpU+yWMoumSpFb/5Zh7OA/l+TYplHNmnDz55tQ76PmDttwylF8zLWo2YJjVIocFyK7
-qOQ0KRNb9zIB0Br/ATy99CbqcSuTfW6ABEh6cAWGlANcm657zxjegYfUY3SscuV9WAWJ2f5g7/LH
-mQpTNlqc1CVYKA7DfS3/d4jzpjzA1NhFgiPd2WB7qMaXljmsI12/5RfpGo1v5PsK21D2Fz/w3+BH
-dqP++HbSXatph8VDLq3AIGmYTTRpH6PMN8wRYdqtD5eTE568cntVopZCsx3GApUPhnWsFeJxSBpj
-ZbiaHDVk9+ivoZIbMRL61H847fFwN1bldiHEJvXPqUd61cG+kuU6sOrURCF/KMoCB0fADdUeKvBa
-8B1PZAXZJFtXKaB4TLTcNuboU6WzhErZQy8UHVEQfCOsFHzaOBE5nkpHAiIedqMeCsUuxcirHGN9
-goLKTF+Zp2gkjJZ3G2j2qftw89eEQWqY3xk3S1rF8rq9pDSU+D19KGuTrmbX2nAcpbgV+MDPOx9m
-ffDIme1L77a3WYTklIm0ls0ZdAn89OaEchh9Bp3xRhH/gneMwNUTpjdQDq7xaYC9MQ6AE9tC0qwg
-rSL1uCsemwrLnc2RMCqhg/lxGiNrxKIRNcPtffVbta+q+aT9EXzJTv0d9hFJ7HzeQUm3bmcx1Id9
-9H81+NOsu/lGxHF/sFkIZR04Q2Y38cO8r2aPcgduxwi1eE+qyAUaVOeRoyCPlMptQ4pHY+KuzjRe
-dGe526ZLNS+kjfOjqKoe36oHQgyvfLH7hfIXoHON49PQQo2sol+diPJFtu2GB9UV0sDEMx8EiQLu
-sRKMUErJGzAnJO8CKQ9pNumsI641ExpmUoqSTfIhxcvH6cDV11jRRYwoDzOCN2YU+ilXegfvFv/J
-IINNGUp/69IJoxVGBavvdf5CcLpNDm+1L2XU2Q3jyR5GnLHxQGz2U1wREn6Xo1nF3Vh6QYVbrAsK
-XBzno7kwTfS957dn9w0/opXrmVKWLl7J3sTnRQuXshQ/VWoFB1VXfd9FGOi4SIM2McgqFn4labvD
-yHkSAKRDupBuTlqmnN3H1yaatHqh0nt4G4NItThQ0LnBtO7Xyl4wu/jPADHzc7PcOesTPnNFneGC
-XN7c92oijMrZbumPL5YHJxo3KQ5vrZzNcsEXLqkyW5mtx9Cl9WTZtphUGJMXtsq08x+4QS6FDgto
-7Rg7x5UF/bP+aDqsDKpkAG0GCF8azTSBdss6tULRSD8n5H7iB2gtv1rcWKAGugMjl3PwaCfbGwlx
-iwtn3cfdBeXeLgEplM2dhjrV5ZFBREMxcABCPc2lA9q/caBwXyYod25+6fBAd1OGiYKoWpf8rFCO
-Gr5p7d/ojMwfjNEHd46MWNttDzoIypgrqQ62SYcvmGl6A0===
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * PHPExcel_Writer_Excel2007_RelsVBA
+ *
+ * Copyright (c) 2006 - 2015 PHPExcel
+ *
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ *
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public
+ * License along with this library; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+ *
+ * @category   PHPExcel
+ * @package    PHPExcel_Writer_Excel2007
+ * @copyright  Copyright (c) 2006 - 2015 PHPExcel (http://www.codeplex.com/PHPExcel)
+ * @license    http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt    LGPL
+ * @version     ##VERSION##, ##DATE##
+ */
+class PHPExcel_Writer_Excel2007_RelsVBA extends PHPExcel_Writer_Excel2007_WriterPart
+{
+    /**
+     * Write relationships for a signed VBA Project
+     *
+     * @param     PHPExcel    $pPHPExcel
+     * @return     string         XML Output
+     * @throws     PHPExcel_Writer_Exception
+     */
+    public function writeVBARelationships(PHPExcel $pPHPExcel = null)
+    {
+        // Create XML writer
+        $objWriter = null;
+        if ($this->getParentWriter()->getUseDiskCaching()) {
+            $objWriter = new PHPExcel_Shared_XMLWriter(PHPExcel_Shared_XMLWriter::STORAGE_DISK, $this->getParentWriter()->getDiskCachingDirectory());
+        } else {
+            $objWriter = new PHPExcel_Shared_XMLWriter(PHPExcel_Shared_XMLWriter::STORAGE_MEMORY);
+        }
 
-?>
-HR+cPrgF3JtFQlOobZYO7Wz35ncSL/lrraDTJin8UIiKYmRvejXRcdM81JXkJXrBHK2qnvGC/SR3
-YM9ejUtHOLngv15YoI9QWL9fCAuYKjkhAUQLqH55g4JcB+OJdhex9rCXn+S7is+yfLZ7Wr6Izkxb
-eCdrjLPZ6PwOrRHCcNGLlH4hOV6O8HwZDeksNYpNHtIs8e435t8osI48BbnsghRZg3QSQu3xOSQB
-RavLXEcasaRa1TdpvTT0fx8f0C6I9zDUN1t1yrGJ2Ep7ze+UZQ3bost0IjL4Q5PePyahR0MxF6mS
-zOpTKF+ZDT0B0LdKkqkZE0XymEkJdj3kfwSUamWvJxMwqBZq1+t81wE5jWm546JfaX2cdfnrY817
-pxWzV+q8G7BE8cB80djPRa8ZPvpUN5c/w40Lw0ERFxwwNFRwDvrgeIZ+P+NopOtjFboHyv0CPbJu
-1x4xWEU331ykZIvWYPDO/AdogL3w+98nBa/YB/SmHTIEYcrh07PMbvY02Oj7cs6gIAB019K1Fyhz
-rX7Y896rGaGGByE5nSffUQmZtv2nE7nhKHTpwcEuiiMSlSVaYTjVZa9DgjjhvnvEjleaAFdIbwZh
-1N7Gk8N4Mtx2QtRl+fmKtWCFQE8M0QZgSidjvxcx3Z5TMYkeRyUr7do3gOTPAz8KXCKwwNDpZ01m
-hdqdwvLYTBVKgRTNYmL49lJxMHM9C1lJVmpLNhnRC4ZhJCD/YorwmZGdEzwCVakdj00aYE/+XlhA
-U5+TiMfuXOTq6Pty51GZEpAdOMW4pB8wRLkttwAKshOezfHF1G/sMspdJKcGAmtPqXfXnho5RY1/
-4zI8I8YUcDJ0qODTUeFFqw6iNLPd45hqTJlEDqgmpb0EmcFzciyTaKAVyQE661PryZAaRThX8GiH
-ORxgJrkn/JOg3igislXvHaTI9hYsBuWmYCbEkjsX43HBVzyeOF5m6NS2c3cnw0CmwcAGoXcSMJ1i
-hINIaSazJrWdHD7QPKd/V2pLaxDIBV4/CQJZIMzd1VScr02oppILtLHc/owFoajGMRqah8t2Gi6w
-+qkDnPrBpWsWXf1k14XMyaCsdt8LeHbMQbQoZtVelL1s8L8t7NvJ0oWf6ZgV8mN66L2mdWSslG6c
-XbRTOiDe61dVQ3eRAs4XeaQqLuAxiHxWATpiRVWBsfpPxkD/mxbV7XuSE1TRi0kfbkn6LYJM0eSo
-KQz0QX3XFJ34ZEul9BEfK7A1n4+YxzRYOzn0id+l3+7PnqFaD9c6A1uR2MOip/Egcu4ZDkjlWZr+
-yvbLVDyEUa5NrZkzYPEQ5uhLFhjQ3JH5n5yVKC29/NhDsGpsOHyMIiFR67h8vDaC51sHaHmD8SO9
-S48MYZ68mPhA6YK22mLM8XDgkSEOLahTpbEfb2BzZl2vSu1RYGhwIoFKKLGew7n2KCq/6HFcB3Kl
-vcLnHBBsGr2ZW9VqgYrCCQN67hiJurIbla0mWcb50Irmg+o6MNkPWEm85NuH3kFgmSCpuPWx48Ho
-Lz3wTNmF9+T/svIeQP/Bqe7VGebBZOgktcrCfAC6dZx0iCmLkIttX16gG4AOi3f00ivqZlMDSbpz
-X/sOU3Cs70F15wssrdwWpfeMyg+e2d59YQCUaT3V4xB6fwZg4zPXjRELCQCfESdQ4j9mDnUlb250
-Cn9viwVgh4o1YMF6+mSPGkDzEhv/5orhe4lRJKOUSKKpM3NHLvetu7RE1nJeXV2LTqYHZoUrQTT7
-q1AIhFOKTVVS+7hzI6UMMdfMoeUT1dB4d3AepJXH0cS6Mq9+rLDA1tiDxnLCxxmWASXS7jT2SGmx
-9bNHnBvlwKe4U606n6k2qVSOL9BspOIYXiCZk4ShQTUXLRSsWpNR/VVmxCNS/vevkuvh5YZsaNe9
-gQsV3nXaAY5VSLRRj9or1ZjjhMV1pU6o/wdF9fSvzQWncIhrvpB8SzznCwJhnkHN5YbJnWj4/ujn
-v+yqZhJFmFy3ZYTkm9ELj9XzkNBi4Q2gOEOqahgNe3gfbkhhbthSK1OlYUZjSJZR9boCxigPhPSN
-fgu4RDP068VUIeclu9jXzaGayKjVhhPUXWav/E2TDkHu1D9vkuVH47p+eyEdyK55yqMTCw4S6lzi
-9sBENzAh4UXRI/E/WrO0OV9g9tZamiD3Z3HpKO6ehO4E/cK+6kt2JQBcWbp7WCGGgMMmSk48HoCH
-KRFXjbQ3BsRQdZNtcuHa9LxZNlgSKIno73XgLKKCijTYbwBNfHWEMrpMAXspbtUrTWCOiSea8qFm
-2T0ZhYxdabJXaedzEWxAYuwye+vn6wpRa6fGat70cx0/HTg/diItuumcJenxo8hO2kw/GjT9ATH3
-4kQX/C1mwE3vHivwxIjVaT2kr9b6U6+RRX01XHl4oLop6CuPZuoHKpzqZj8OOWdfnfIztwuWsTcK
-lquz1fRhVSvuXM5lOv2skIPsdrrYlB+fmDMpuPK0vjI36/sJ1kTrD6pAxMqQhwEMH3aWKLDkGmX5
-QWDRFQgQEcVBnShpvPFDjsUQnWm/RKfGxC9i5zYZcAKVYuCksSU6p4WRCodBW0atyoZYlfz+9K/a
-d43HE4DSwHspSOfVjLZ0jpHN4i8cfLQXZ+NZ7iEh2yr87BsNNPcyOUvKKKPTHGCswu83pGo/Xp5l
-UvQl95QBXWAN4nL+j9n/KwfrUFRbAoTIjwZOD8fDqrwiKXmgBoBIPqbufbOIxTXD8RnJ5GZ4yvAC
-UPCC0yQr2uprDmWuGPqV10TlPfVqPK7O5pdOu9FDFtIKyiBozYi6t1PlH4rm9y94zsXTDGm1hyEo
-2VIAvHa9PEiLidcSLOYu0GTIL4aw/Hvrnj1SI/k+EOL/6R3SmD5/+RnMFi+Dhi+w6cFy71Az7NN0
-r8cAfyvhzaw/rIrvpyiiVHcW2GcoUC6H9OO90JFLCwtQs5gV51zdKbynAmx3xHH9k5fd4XuXjMOk
-2r7m/p4JZQA+OFfSBrHXpNbevyONS5MUCuoqw1HVLz3A4AfP8Z4W2TxNXr6mTinIhu/XqKcm7AwU
-RPiYwXFDvYozNR8+hnNQB52mgBkkEuRuTqZ6iydKzBd687GbMblq+1t/RRNPY9b8Bpir05gKaVX2
-7a60xpPv77A8PhEN394thr2QE6wYAHUBCuLqmAG0u3t/Utg6gFfCEHMeqrw1IXn5ldS2ivyw6Tyt
-LjaD00TyEZ94LHwaDZGYPcHOXKku29h9kV27PmXDyDGb5PsigfVJzNc5I81OsRf8rb9Hywe7xSK/
-RJSuw94wjXRKfuMDtwJqsxJ4Odr1bGWESp56tni28zugssvnmecnqJLYVtwcNRdrs7Du1qrARxrX
-153PkNu5HXeu1O7ZIFvH8KvlFSPppBUGROXvrAlq97DIoxZUKsVXorS0X9I8vDwTYg2AAuryZpiL
-WAdYvGtoLKj6Uv7ET3ARHBqYuxRtkKmfA0Er9zvZqmjUyUdMKO6i79iidGWtsf8GDgSOQlhrtegm
-zWsvxrNIehzLdCxJ
+        // XML header
+        $objWriter->startDocument('1.0', 'UTF-8', 'yes');
+
+        // Relationships
+        $objWriter->startElement('Relationships');
+        $objWriter->writeAttribute('xmlns', 'http://schemas.openxmlformats.org/package/2006/relationships');
+        $objWriter->startElement('Relationship');
+        $objWriter->writeAttribute('Id', 'rId1');
+        $objWriter->writeAttribute('Type', 'http://schemas.microsoft.com/office/2006/relationships/vbaProjectSignature');
+        $objWriter->writeAttribute('Target', 'vbaProjectSignature.bin');
+        $objWriter->endElement();
+        $objWriter->endElement();
+
+        return $objWriter->getData();
+
+    }
+}

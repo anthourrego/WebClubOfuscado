@@ -1,90 +1,132 @@
-<?php //ICB0 56:0 71:e75                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * PHPExcel_Worksheet_ColumnDimension
+ *
+ * Copyright (c) 2006 - 2015 PHPExcel
+ *
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ *
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public
+ * License along with this library; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+ *
+ * @category   PHPExcel
+ * @package    PHPExcel_Worksheet
+ * @copyright  Copyright (c) 2006 - 2015 PHPExcel (http://www.codeplex.com/PHPExcel)
+ * @license    http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt    LGPL
+ * @version    ##VERSION##, ##DATE##
+ */
+class PHPExcel_Worksheet_ColumnDimension extends PHPExcel_Worksheet_Dimension
+{
+    /**
+     * Column index
+     *
+     * @var int
+     */
+    private $columnIndex;
 
-?>
-HR+cPnhYTGEMIaurRrVW89J2X87PpafAq+BttxMukmEryexQgvlDQahh7CzNvMN+79GpXLNwuzba
-C5FC0WSTA2da4rh2P3JR7xwi6ZtVIkIvHartWXblYdnQ0tGYdhh+QannrmwIEI1iQhuc3FuBTbcC
-h7D7NdFrHarewnoU0W1iYTasd8ls37S/Xibi1bpqzKR7ZhYJooyibUL0Z27+XlFKqwuuZjBAcRx3
-QTNFnWlX7Q6M3EJJfOj/eWkyWVHlheNENC9kL1C8xCVsZvwDeENBRS1ArT5ij9FDB5CfEiGCSZns
-qGf3GmmpDv/EYbhUvC9Kh8TgaDTr4K9FVpIvjcFcmaNcB3HHDDLveC5uwLfEkNIUDNzrRwo75Hv/
-eoE6BZwbjzc8gZLPBHE3LJLdnPFjnfo3O6mGKtb6u01amFcesfLrWjvmWajz17KLO2hDIEbhNBUQ
-B5baNhrOUJ09dcZ2TvligCjmIhr5v/CW4uH6gHFAt0fl52roCfaaseKBxFzH4PjpsTzGrDijEC8q
-tpUkcGlmz9MPIKOYHTGusep/NOOnAigHkommWbpM2J9f0rK3C1dsQ4mk99FAOqVeh4R1NffG3tFU
-hSjfULGQi9yNXY8w2ZuBlktU91lcv/+VYU4v30HV8X66iKyM4Cjw37//7Oi14ABadTTCCMq7I/Bz
-0td5tTOtJcDiEWYtAubiejaZRknVlNH2qxBOZwASVJddouaSsWdp9gp+WfmlQ2VxvY2NwbHSfX/U
-HQOdnKwQlUKVDeHwpqovuFYkSId7CAKR7JJ5ztOk9vFgXO4OVojMfbhxJ7jAW9jWdwNcaiZyOeI8
-ILPlbkQNzUgA6Z1DEv2kC6Edtlw4IuyH7pvTcKgScBjsJtrKqz8zNWhkOsfSxpBOURE14/KsAsXi
-YvMcs/HSe0DJ7OYpBfHEUiCukIFcSCyfVzvlS77eo9DCpI3VVqNa5qakvxorL9tOFtREMTG/NWiU
-pqy+b/pwnPupje2/WNTCvISJbTf+iN2bu9lB3KcT3304elt7BZapRhcnrjj7SLIrRx1QE+2f46nJ
-uwYFN/qq4FG05TjfMm0Yk2RjWNejApU6Q/qxQbnErzaw26eXJQmcKi+CAgmq1XpLbV1tj7WTV5i4
-WQZeL3Hr1ruiPKIyUMW9+w63NZiIFnBGqMKlYqlpzsCa6u3TS+qqIBIdHGkYVKJvJTvz1bgA0rfq
-Gm68/Ef2EWJmYjBto/T8Tw0S47u8Cg1rkfotd4Olegx6x4s3Uf6dGqLHQ/QCSAUnj7RssXbP/iXA
-4WOeaeDQao7vjdrmwHsLL+sC2pSOB4iv18K33HG4/1Cbirz5+9KQx36m8QTkVngYOYbiuHpyGisk
-oj+Bwr+ABHzqlmn+B/bhT9zCIWH6MFrAYZjxAG92hyYYkkJ9HMML5JEdsijK4KArDPxFJ3LZx2F4
-AhNMqf0ogBHSWiOgcyj/dqIRWNVT9iegypkPxM4xsonB4H+7uXh+HaBwo4np4WKk6vkS4R/MwQZp
-/wjOi0lEkcpe87x+XubzffjbUDzPtJiEPk3eb6QXHP+iqQJkPRUBPybHHMqWkKqWnzeBCs+B6O1t
-6SHOFtPNhVl5QoanjFtVk/Ij0htFvIqfRqHavb8QzXAB/gx4NIAtmntfR0GApmiCrlvroJ7VrBgb
-xESx/v/x3HL3qaLWBwEJiYvNtoeUgs/ODZIYox8b/yEPHM95M5jWt/pG+yvrDT8aZOG1mAZGiUvh
-KPUkK9ciL6dfJB8dK31KMQzWTOEsXsbDfN51ryGH2XEzSlkl1ehg0Lhc8r8/PGQDSrFKAdyC6utz
-W5SwwWwETgQUQdY5RdiV3ZZOicsROqIGYeM9hGmbpD8G1sDeD15vIVTGmXahiEz+PoXfO7wu0R4M
-kTMRfGuKzWBAKJuVvx06iA7kmXKthWbJHG2qrltBUyOZ9vricQPQ/3TL3lmjc66JkZiQiBawjEqa
-u+WqzMdB4axCips+7qW8+ZjyRpImLZ7HzX0RToityDXHWTWHfUG6Vavq4mQ3XFX4WQziQuE9wFgK
-Vn3/eoGclLESYg6iiSFQuYNpKjzru8bzKRQVzxXrOVjoDidk3WySsnD3krD5j8hU2yYMn43AFhO5
-s1TM8tV0NIijpv8CKbqDne9ecF4kfbMorBQo504YTQOaZwTkryd2WNPk3crz0oLoWVYsCZAnkSdT
-DF36a5b7BZz6j6ta2v2yt+06sjLdcMGNwNtqObNgGmq7NMx2hsexH5qUC1CROoQVl1OKnZrwTDFV
-UDFz+dRwBGuah9x1nQzE8Fen81CJx9LzwFvTrlIDmzZrr85c6IUv3aQrdVFd245LUlBVZzAEPsGw
-s4hzgsSVA/gtIYGBKnpS2b6FesuTv0cOcYgvP4jBIMUrYOOzhCSaVMQ10ssXbqAiVHiScvbeEsWF
-oFpxS5RspIEaT6CR0YQvppbZ5fsXZ3ihjfHsPupB+OU6+daXQeYsTJezOaJNGVWeNJi41wQ6dN7k
-j0fw63HAJmSH+5clNrgGd8QTND+qYPKUHBaRcuJtBpxtKZa4n/oOl/lrq9sQqIs0qrboxx1dDlsp
-dWPPJp/VXHF6zG6ts9ycdKxGCrEu35j8rDEOBiGiK41lB7vhdd1/KcBzPOkh+IfOt9QCWVPt18ju
-zrKtEkPlf11ktw0+CPH95g2GypRz249cQ966sS4bf2hnhu3XpkFs/R76V5p6AHSOewQ/E7QFwFv4
-YdrUH9hXFK9O2Cunf6ScenlZc1juKvOVtNcqeNN4coUlgYouQm78lFamnlzyFPwcXmrcnK8X1iQ0
-zQj+orjtw08ih6A++lVeXFq4OLk6IJxkyA0Vq2JBd/OH7Obt96cEzEtJv/DZPX5lcFXXRSECyuf4
-Y4ZYDWMWLfzZhzLHNRzdJSf3McpqZ6gxufNW65+A4LDDRJjvyO50l3LbgtyZ1Ilc8P+iUVn4k36z
-DVff1BRBzIKwqSru4cEVVh20t0yN+0bkHSWnhHMaiqKGw56B8g4oRdlnkH7CoFkikUKidm==
+    /**
+     * Column width
+     *
+     * When this is set to a negative value, the column width should be ignored by IWriter
+     *
+     * @var double
+     */
+    private $width = -1;
+
+    /**
+     * Auto size?
+     *
+     * @var bool
+     */
+    private $autoSize = false;
+
+    /**
+     * Create a new PHPExcel_Worksheet_ColumnDimension
+     *
+     * @param string $pIndex Character column index
+     */
+    public function __construct($pIndex = 'A')
+    {
+        // Initialise values
+        $this->columnIndex = $pIndex;
+
+        // set dimension as unformatted by default
+        parent::__construct(0);
+    }
+
+    /**
+     * Get ColumnIndex
+     *
+     * @return string
+     */
+    public function getColumnIndex()
+    {
+        return $this->columnIndex;
+    }
+
+    /**
+     * Set ColumnIndex
+     *
+     * @param string $pValue
+     * @return PHPExcel_Worksheet_ColumnDimension
+     */
+    public function setColumnIndex($pValue)
+    {
+        $this->columnIndex = $pValue;
+        return $this;
+    }
+
+    /**
+     * Get Width
+     *
+     * @return double
+     */
+    public function getWidth()
+    {
+        return $this->width;
+    }
+
+    /**
+     * Set Width
+     *
+     * @param double $pValue
+     * @return PHPExcel_Worksheet_ColumnDimension
+     */
+    public function setWidth($pValue = -1)
+    {
+        $this->width = $pValue;
+        return $this;
+    }
+
+    /**
+     * Get Auto Size
+     *
+     * @return bool
+     */
+    public function getAutoSize()
+    {
+        return $this->autoSize;
+    }
+
+    /**
+     * Set Auto Size
+     *
+     * @param bool $pValue
+     * @return PHPExcel_Worksheet_ColumnDimension
+     */
+    public function setAutoSize($pValue = false)
+    {
+        $this->autoSize = $pValue;
+        return $this;
+    }
+}

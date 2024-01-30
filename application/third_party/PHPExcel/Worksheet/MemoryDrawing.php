@@ -1,156 +1,201 @@
-<?php //ICB0 56:0 71:1722                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * PHPExcel_Worksheet_MemoryDrawing
+ *
+ * Copyright (c) 2006 - 2015 PHPExcel
+ *
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ *
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public
+ * License along with this library; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+ *
+ * @category   PHPExcel
+ * @package    PHPExcel_Worksheet
+ * @copyright  Copyright (c) 2006 - 2015 PHPExcel (http://www.codeplex.com/PHPExcel)
+ * @license    http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt    LGPL
+ * @version    ##VERSION##, ##DATE##
+ */
+class PHPExcel_Worksheet_MemoryDrawing extends PHPExcel_Worksheet_BaseDrawing implements PHPExcel_IComparable
+{
+    /* Rendering functions */
+    const RENDERING_DEFAULT = 'imagepng';
+    const RENDERING_PNG     = 'imagepng';
+    const RENDERING_GIF     = 'imagegif';
+    const RENDERING_JPEG    = 'imagejpeg';
 
-?>
-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
-nhohfwSYrKQd
+    /* MIME types */
+    const MIMETYPE_DEFAULT  = 'image/png';
+    const MIMETYPE_PNG      = 'image/png';
+    const MIMETYPE_GIF      = 'image/gif';
+    const MIMETYPE_JPEG     = 'image/jpeg';
+
+    /**
+     * Image resource
+     *
+     * @var resource
+     */
+    private $imageResource;
+
+    /**
+     * Rendering function
+     *
+     * @var string
+     */
+    private $renderingFunction;
+
+    /**
+     * Mime type
+     *
+     * @var string
+     */
+    private $mimeType;
+
+    /**
+     * Unique name
+     *
+     * @var string
+     */
+    private $uniqueName;
+
+    /**
+     * Create a new PHPExcel_Worksheet_MemoryDrawing
+     */
+    public function __construct()
+    {
+        // Initialise values
+        $this->imageResource     = null;
+        $this->renderingFunction = self::RENDERING_DEFAULT;
+        $this->mimeType          = self::MIMETYPE_DEFAULT;
+        $this->uniqueName        = md5(rand(0, 9999). time() . rand(0, 9999));
+
+        // Initialize parent
+        parent::__construct();
+    }
+
+    /**
+     * Get image resource
+     *
+     * @return resource
+     */
+    public function getImageResource()
+    {
+        return $this->imageResource;
+    }
+
+    /**
+     * Set image resource
+     *
+     * @param    $value resource
+     * @return PHPExcel_Worksheet_MemoryDrawing
+     */
+    public function setImageResource($value = null)
+    {
+        $this->imageResource = $value;
+
+        if (!is_null($this->imageResource)) {
+            // Get width/height
+            $this->width  = imagesx($this->imageResource);
+            $this->height = imagesy($this->imageResource);
+        }
+        return $this;
+    }
+
+    /**
+     * Get rendering function
+     *
+     * @return string
+     */
+    public function getRenderingFunction()
+    {
+        return $this->renderingFunction;
+    }
+
+    /**
+     * Set rendering function
+     *
+     * @param string $value
+     * @return PHPExcel_Worksheet_MemoryDrawing
+     */
+    public function setRenderingFunction($value = PHPExcel_Worksheet_MemoryDrawing::RENDERING_DEFAULT)
+    {
+        $this->renderingFunction = $value;
+        return $this;
+    }
+
+    /**
+     * Get mime type
+     *
+     * @return string
+     */
+    public function getMimeType()
+    {
+        return $this->mimeType;
+    }
+
+    /**
+     * Set mime type
+     *
+     * @param string $value
+     * @return PHPExcel_Worksheet_MemoryDrawing
+     */
+    public function setMimeType($value = PHPExcel_Worksheet_MemoryDrawing::MIMETYPE_DEFAULT)
+    {
+        $this->mimeType = $value;
+        return $this;
+    }
+
+    /**
+     * Get indexed filename (using image index)
+     *
+     * @return string
+     */
+    public function getIndexedFilename()
+    {
+        $extension = strtolower($this->getMimeType());
+        $extension = explode('/', $extension);
+        $extension = $extension[1];
+
+        return $this->uniqueName . $this->getImageIndex() . '.' . $extension;
+    }
+
+    /**
+     * Get hash code
+     *
+     * @return string    Hash code
+     */
+    public function getHashCode()
+    {
+        return md5(
+            $this->renderingFunction .
+            $this->mimeType .
+            $this->uniqueName .
+            parent::getHashCode() .
+            __CLASS__
+        );
+    }
+
+    /**
+     * Implement PHP __clone to create a deep clone, not just a shallow copy.
+     */
+    public function __clone()
+    {
+        $vars = get_object_vars($this);
+        foreach ($vars as $key => $value) {
+            if (is_object($value)) {
+                $this->$key = clone $value;
+            } else {
+                $this->$key = $value;
+            }
+        }
+    }
+}

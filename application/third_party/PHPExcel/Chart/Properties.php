@@ -1,199 +1,363 @@
-<?php //ICB0 56:0 71:252d                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+/**
+ * Created by PhpStorm.
+ * User: nhw2h8s
+ * Date: 7/2/14
+ * Time: 5:45 PM
+ */
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-UVNudYk60ksit0twB0===
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+abstract class PHPExcel_Chart_Properties
+{
+    const
+        EXCEL_COLOR_TYPE_STANDARD = 'prstClr',
+        EXCEL_COLOR_TYPE_SCHEME = 'schemeClr',
+        EXCEL_COLOR_TYPE_ARGB = 'srgbClr';
 
-?>
-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
+    const
+        AXIS_LABELS_LOW = 'low',
+        AXIS_LABELS_HIGH = 'high',
+        AXIS_LABELS_NEXT_TO = 'nextTo',
+        AXIS_LABELS_NONE = 'none';
+
+    const
+        TICK_MARK_NONE = 'none',
+        TICK_MARK_INSIDE = 'in',
+        TICK_MARK_OUTSIDE = 'out',
+        TICK_MARK_CROSS = 'cross';
+
+    const
+        HORIZONTAL_CROSSES_AUTOZERO = 'autoZero',
+        HORIZONTAL_CROSSES_MAXIMUM = 'max';
+
+    const
+        FORMAT_CODE_GENERAL = 'General',
+        FORMAT_CODE_NUMBER = '#,##0.00',
+        FORMAT_CODE_CURRENCY = '$#,##0.00',
+        FORMAT_CODE_ACCOUNTING = '_($* #,##0.00_);_($* (#,##0.00);_($* "-"??_);_(@_)',
+        FORMAT_CODE_DATE = 'm/d/yyyy',
+        FORMAT_CODE_TIME = '[$-F400]h:mm:ss AM/PM',
+        FORMAT_CODE_PERCENTAGE = '0.00%',
+        FORMAT_CODE_FRACTION = '# ?/?',
+        FORMAT_CODE_SCIENTIFIC = '0.00E+00',
+        FORMAT_CODE_TEXT = '@',
+        FORMAT_CODE_SPECIAL = '00000';
+
+    const
+        ORIENTATION_NORMAL = 'minMax',
+        ORIENTATION_REVERSED = 'maxMin';
+
+    const
+        LINE_STYLE_COMPOUND_SIMPLE = 'sng',
+        LINE_STYLE_COMPOUND_DOUBLE = 'dbl',
+        LINE_STYLE_COMPOUND_THICKTHIN = 'thickThin',
+        LINE_STYLE_COMPOUND_THINTHICK = 'thinThick',
+        LINE_STYLE_COMPOUND_TRIPLE = 'tri',
+
+        LINE_STYLE_DASH_SOLID = 'solid',
+        LINE_STYLE_DASH_ROUND_DOT = 'sysDot',
+        LINE_STYLE_DASH_SQUERE_DOT = 'sysDash',
+        LINE_STYPE_DASH_DASH = 'dash',
+        LINE_STYLE_DASH_DASH_DOT = 'dashDot',
+        LINE_STYLE_DASH_LONG_DASH = 'lgDash',
+        LINE_STYLE_DASH_LONG_DASH_DOT = 'lgDashDot',
+        LINE_STYLE_DASH_LONG_DASH_DOT_DOT = 'lgDashDotDot',
+
+        LINE_STYLE_CAP_SQUARE = 'sq',
+        LINE_STYLE_CAP_ROUND = 'rnd',
+        LINE_STYLE_CAP_FLAT = 'flat',
+
+        LINE_STYLE_JOIN_ROUND = 'bevel',
+        LINE_STYLE_JOIN_MITER = 'miter',
+        LINE_STYLE_JOIN_BEVEL = 'bevel',
+
+        LINE_STYLE_ARROW_TYPE_NOARROW = null,
+        LINE_STYLE_ARROW_TYPE_ARROW = 'triangle',
+        LINE_STYLE_ARROW_TYPE_OPEN = 'arrow',
+        LINE_STYLE_ARROW_TYPE_STEALTH = 'stealth',
+        LINE_STYLE_ARROW_TYPE_DIAMOND = 'diamond',
+        LINE_STYLE_ARROW_TYPE_OVAL = 'oval',
+
+        LINE_STYLE_ARROW_SIZE_1 = 1,
+        LINE_STYLE_ARROW_SIZE_2 = 2,
+        LINE_STYLE_ARROW_SIZE_3 = 3,
+        LINE_STYLE_ARROW_SIZE_4 = 4,
+        LINE_STYLE_ARROW_SIZE_5 = 5,
+        LINE_STYLE_ARROW_SIZE_6 = 6,
+        LINE_STYLE_ARROW_SIZE_7 = 7,
+        LINE_STYLE_ARROW_SIZE_8 = 8,
+        LINE_STYLE_ARROW_SIZE_9 = 9;
+
+    const
+        SHADOW_PRESETS_NOSHADOW = null,
+        SHADOW_PRESETS_OUTER_BOTTTOM_RIGHT = 1,
+        SHADOW_PRESETS_OUTER_BOTTOM = 2,
+        SHADOW_PRESETS_OUTER_BOTTOM_LEFT = 3,
+        SHADOW_PRESETS_OUTER_RIGHT = 4,
+        SHADOW_PRESETS_OUTER_CENTER = 5,
+        SHADOW_PRESETS_OUTER_LEFT = 6,
+        SHADOW_PRESETS_OUTER_TOP_RIGHT = 7,
+        SHADOW_PRESETS_OUTER_TOP = 8,
+        SHADOW_PRESETS_OUTER_TOP_LEFT = 9,
+        SHADOW_PRESETS_INNER_BOTTTOM_RIGHT = 10,
+        SHADOW_PRESETS_INNER_BOTTOM = 11,
+        SHADOW_PRESETS_INNER_BOTTOM_LEFT = 12,
+        SHADOW_PRESETS_INNER_RIGHT = 13,
+        SHADOW_PRESETS_INNER_CENTER = 14,
+        SHADOW_PRESETS_INNER_LEFT = 15,
+        SHADOW_PRESETS_INNER_TOP_RIGHT = 16,
+        SHADOW_PRESETS_INNER_TOP = 17,
+        SHADOW_PRESETS_INNER_TOP_LEFT = 18,
+        SHADOW_PRESETS_PERSPECTIVE_BELOW = 19,
+        SHADOW_PRESETS_PERSPECTIVE_UPPER_RIGHT = 20,
+        SHADOW_PRESETS_PERSPECTIVE_UPPER_LEFT = 21,
+        SHADOW_PRESETS_PERSPECTIVE_LOWER_RIGHT = 22,
+        SHADOW_PRESETS_PERSPECTIVE_LOWER_LEFT = 23;
+
+    protected function getExcelPointsWidth($width)
+    {
+        return $width * 12700;
+    }
+
+    protected function getExcelPointsAngle($angle)
+    {
+        return $angle * 60000;
+    }
+
+    protected function getTrueAlpha($alpha)
+    {
+        return (string) 100 - $alpha . '000';
+    }
+
+    protected function setColorProperties($color, $alpha, $type)
+    {
+        return array(
+            'type' => (string) $type,
+            'value' => (string) $color,
+            'alpha' => (string) $this->getTrueAlpha($alpha)
+        );
+    }
+
+    protected function getLineStyleArrowSize($array_selector, $array_kay_selector)
+    {
+        $sizes = array(
+            1 => array('w' => 'sm', 'len' => 'sm'),
+            2 => array('w' => 'sm', 'len' => 'med'),
+            3 => array('w' => 'sm', 'len' => 'lg'),
+            4 => array('w' => 'med', 'len' => 'sm'),
+            5 => array('w' => 'med', 'len' => 'med'),
+            6 => array('w' => 'med', 'len' => 'lg'),
+            7 => array('w' => 'lg', 'len' => 'sm'),
+            8 => array('w' => 'lg', 'len' => 'med'),
+            9 => array('w' => 'lg', 'len' => 'lg')
+        );
+
+        return $sizes[$array_selector][$array_kay_selector];
+    }
+
+    protected function getShadowPresetsMap($shadow_presets_option)
+    {
+        $presets_options = array(
+            //OUTER
+            1 => array(
+                'effect' => 'outerShdw',
+                'blur' => '50800',
+                'distance' => '38100',
+                'direction' => '2700000',
+                'algn' => 'tl',
+                'rotWithShape' => '0'
+            ),
+            2 => array(
+                'effect' => 'outerShdw',
+                'blur' => '50800',
+                'distance' => '38100',
+                'direction' => '5400000',
+                'algn' => 't',
+                'rotWithShape' => '0'
+            ),
+            3 => array(
+                'effect' => 'outerShdw',
+                'blur' => '50800',
+                'distance' => '38100',
+                'direction' => '8100000',
+                'algn' => 'tr',
+                'rotWithShape' => '0'
+            ),
+            4 => array(
+                'effect' => 'outerShdw',
+                'blur' => '50800',
+                'distance' => '38100',
+                'algn' => 'l',
+                'rotWithShape' => '0'
+            ),
+            5 => array(
+                'effect' => 'outerShdw',
+                'size' => array(
+                    'sx' => '102000',
+                    'sy' => '102000'
+                )
+                ,
+                'blur' => '63500',
+                'distance' => '38100',
+                'algn' => 'ctr',
+                'rotWithShape' => '0'
+            ),
+            6 => array(
+                'effect' => 'outerShdw',
+                'blur' => '50800',
+                'distance' => '38100',
+                'direction' => '10800000',
+                'algn' => 'r',
+                'rotWithShape' => '0'
+            ),
+            7 => array(
+                'effect' => 'outerShdw',
+                'blur' => '50800',
+                'distance' => '38100',
+                'direction' => '18900000',
+                'algn' => 'bl',
+                'rotWithShape' => '0'
+            ),
+            8 => array(
+                'effect' => 'outerShdw',
+                'blur' => '50800',
+                'distance' => '38100',
+                'direction' => '16200000',
+                'rotWithShape' => '0'
+            ),
+            9 => array(
+                'effect' => 'outerShdw',
+                'blur' => '50800',
+                'distance' => '38100',
+                'direction' => '13500000',
+                'algn' => 'br',
+                'rotWithShape' => '0'
+            ),
+            //INNER
+            10 => array(
+                'effect' => 'innerShdw',
+                'blur' => '63500',
+                'distance' => '50800',
+                'direction' => '2700000',
+            ),
+            11 => array(
+                'effect' => 'innerShdw',
+                'blur' => '63500',
+                'distance' => '50800',
+                'direction' => '5400000',
+            ),
+            12 => array(
+                'effect' => 'innerShdw',
+                'blur' => '63500',
+                'distance' => '50800',
+                'direction' => '8100000',
+            ),
+            13 => array(
+                'effect' => 'innerShdw',
+                'blur' => '63500',
+                'distance' => '50800',
+            ),
+            14 => array(
+                'effect' => 'innerShdw',
+                'blur' => '114300',
+            ),
+            15 => array(
+                'effect' => 'innerShdw',
+                'blur' => '63500',
+                'distance' => '50800',
+                'direction' => '10800000',
+            ),
+            16 => array(
+                'effect' => 'innerShdw',
+                'blur' => '63500',
+                'distance' => '50800',
+                'direction' => '18900000',
+            ),
+            17 => array(
+                'effect' => 'innerShdw',
+                'blur' => '63500',
+                'distance' => '50800',
+                'direction' => '16200000',
+            ),
+            18 => array(
+                'effect' => 'innerShdw',
+                'blur' => '63500',
+                'distance' => '50800',
+                'direction' => '13500000',
+            ),
+            //perspective
+            19 => array(
+                'effect' => 'outerShdw',
+                'blur' => '152400',
+                'distance' => '317500',
+                'size' => array(
+                    'sx' => '90000',
+                    'sy' => '-19000',
+                ),
+                'direction' => '5400000',
+                'rotWithShape' => '0',
+            ),
+            20 => array(
+                'effect' => 'outerShdw',
+                'blur' => '76200',
+                'direction' => '18900000',
+                'size' => array(
+                    'sy' => '23000',
+                    'kx' => '-1200000',
+                ),
+                'algn' => 'bl',
+                'rotWithShape' => '0',
+            ),
+            21 => array(
+                'effect' => 'outerShdw',
+                'blur' => '76200',
+                'direction' => '13500000',
+                'size' => array(
+                    'sy' => '23000',
+                    'kx' => '1200000',
+                ),
+                'algn' => 'br',
+                'rotWithShape' => '0',
+            ),
+            22 => array(
+                'effect' => 'outerShdw',
+                'blur' => '76200',
+                'distance' => '12700',
+                'direction' => '2700000',
+                'size' => array(
+                    'sy' => '-23000',
+                    'kx' => '-800400',
+                ),
+                'algn' => 'bl',
+                'rotWithShape' => '0',
+            ),
+            23 => array(
+                'effect' => 'outerShdw',
+                'blur' => '76200',
+                'distance' => '12700',
+                'direction' => '8100000',
+                'size' => array(
+                    'sy' => '-23000',
+                    'kx' => '800400',
+                ),
+                'algn' => 'br',
+                'rotWithShape' => '0',
+            ),
+        );
+
+        return $presets_options[$shadow_presets_option];
+    }
+
+    protected function getArrayElementsValue($properties, $elements)
+    {
+        $reference = & $properties;
+        if (!is_array($elements)) {
+            return $reference[$elements];
+        } else {
+            foreach ($elements as $keys) {
+                $reference = & $reference[$keys];
+            }
+            return $reference;
+        }
+        return $this;
+    }
+}

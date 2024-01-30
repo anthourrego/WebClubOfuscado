@@ -1,136 +1,231 @@
-<?php //ICB0 56:0 71:1527                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * PHPExcel_CachedObjectStorageFactory
+ *
+ * Copyright (c) 2006 - 2015 PHPExcel
+ *
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ *
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public
+ * License along with this library; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+ *
+ * @category   PHPExcel
+ * @package    PHPExcel_CachedObjectStorage
+ * @copyright  Copyright (c) 2006 - 2015 PHPExcel (http://www.codeplex.com/PHPExcel)
+ * @license    http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt    LGPL
+ * @version    ##VERSION##, ##DATE##
+ */
+class PHPExcel_CachedObjectStorageFactory
+{
+    const cache_in_memory               = 'Memory';
+    const cache_in_memory_gzip          = 'MemoryGZip';
+    const cache_in_memory_serialized    = 'MemorySerialized';
+    const cache_igbinary                = 'Igbinary';
+    const cache_to_discISAM             = 'DiscISAM';
+    const cache_to_apc                  = 'APC';
+    const cache_to_memcache             = 'Memcache';
+    const cache_to_phpTemp              = 'PHPTemp';
+    const cache_to_wincache             = 'Wincache';
+    const cache_to_sqlite               = 'SQLite';
+    const cache_to_sqlite3              = 'SQLite3';
 
-?>
-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
+    /**
+     * Name of the method used for cell cacheing
+     *
+     * @var string
+     */
+    private static $cacheStorageMethod = null;
+
+    /**
+     * Name of the class used for cell cacheing
+     *
+     * @var string
+     */
+    private static $cacheStorageClass = null;
+
+    /**
+     * List of all possible cache storage methods
+     *
+     * @var string[]
+     */
+    private static $storageMethods = array(
+        self::cache_in_memory,
+        self::cache_in_memory_gzip,
+        self::cache_in_memory_serialized,
+        self::cache_igbinary,
+        self::cache_to_phpTemp,
+        self::cache_to_discISAM,
+        self::cache_to_apc,
+        self::cache_to_memcache,
+        self::cache_to_wincache,
+        self::cache_to_sqlite,
+        self::cache_to_sqlite3,
+    );
+
+    /**
+     * Default arguments for each cache storage method
+     *
+     * @var array of mixed array
+     */
+    private static $storageMethodDefaultParameters = array(
+        self::cache_in_memory               => array(
+                                                    ),
+        self::cache_in_memory_gzip          => array(
+                                                    ),
+        self::cache_in_memory_serialized    => array(
+                                                    ),
+        self::cache_igbinary                => array(
+                                                    ),
+        self::cache_to_phpTemp              => array( 'memoryCacheSize' => '1MB'
+                                                    ),
+        self::cache_to_discISAM             => array( 'dir'             => null
+                                                    ),
+        self::cache_to_apc                  => array( 'cacheTime'       => 600
+                                                    ),
+        self::cache_to_memcache             => array( 'memcacheServer'  => 'localhost',
+                                                      'memcachePort'    => 11211,
+                                                      'cacheTime'       => 600
+                                                    ),
+        self::cache_to_wincache             => array( 'cacheTime'       => 600
+                                                    ),
+        self::cache_to_sqlite               => array(
+                                                    ),
+        self::cache_to_sqlite3              => array(
+                                                    ),
+    );
+
+    /**
+     * Arguments for the active cache storage method
+     *
+     * @var array of mixed array
+     */
+    private static $storageMethodParameters = array();
+
+    /**
+     * Return the current cache storage method
+     *
+     * @return string|null
+     **/
+    public static function getCacheStorageMethod()
+    {
+        return self::$cacheStorageMethod;
+    }
+
+    /**
+     * Return the current cache storage class
+     *
+     * @return PHPExcel_CachedObjectStorage_ICache|null
+     **/
+    public static function getCacheStorageClass()
+    {
+        return self::$cacheStorageClass;
+    }
+
+    /**
+     * Return the list of all possible cache storage methods
+     *
+     * @return string[]
+     **/
+    public static function getAllCacheStorageMethods()
+    {
+        return self::$storageMethods;
+    }
+
+    /**
+     * Return the list of all available cache storage methods
+     *
+     * @return string[]
+     **/
+    public static function getCacheStorageMethods()
+    {
+        $activeMethods = array();
+        foreach (self::$storageMethods as $storageMethod) {
+            $cacheStorageClass = 'PHPExcel_CachedObjectStorage_' . $storageMethod;
+            if (call_user_func(array($cacheStorageClass, 'cacheMethodIsAvailable'))) {
+                $activeMethods[] = $storageMethod;
+            }
+        }
+        return $activeMethods;
+    }
+
+    /**
+     * Identify the cache storage method to use
+     *
+     * @param    string            $method        Name of the method to use for cell cacheing
+     * @param    array of mixed    $arguments    Additional arguments to pass to the cell caching class
+     *                                        when instantiating
+     * @return boolean
+     **/
+    public static function initialize($method = self::cache_in_memory, $arguments = array())
+    {
+        if (!in_array($method, self::$storageMethods)) {
+            return false;
+        }
+
+        $cacheStorageClass = 'PHPExcel_CachedObjectStorage_'.$method;
+        if (!call_user_func(array( $cacheStorageClass,
+                                   'cacheMethodIsAvailable'))) {
+            return false;
+        }
+
+        self::$storageMethodParameters[$method] = self::$storageMethodDefaultParameters[$method];
+        foreach ($arguments as $k => $v) {
+            if (array_key_exists($k, self::$storageMethodParameters[$method])) {
+                self::$storageMethodParameters[$method][$k] = $v;
+            }
+        }
+
+        if (self::$cacheStorageMethod === null) {
+            self::$cacheStorageClass = 'PHPExcel_CachedObjectStorage_' . $method;
+            self::$cacheStorageMethod = $method;
+        }
+        return true;
+    }
+
+    /**
+     * Initialise the cache storage
+     *
+     * @param    PHPExcel_Worksheet     $parent        Enable cell caching for this worksheet
+     * @return    PHPExcel_CachedObjectStorage_ICache
+     **/
+    public static function getInstance(PHPExcel_Worksheet $parent)
+    {
+        $cacheMethodIsAvailable = true;
+        if (self::$cacheStorageMethod === null) {
+            $cacheMethodIsAvailable = self::initialize();
+        }
+
+        if ($cacheMethodIsAvailable) {
+            $instance = new self::$cacheStorageClass(
+                $parent,
+                self::$storageMethodParameters[self::$cacheStorageMethod]
+            );
+            if ($instance !== null) {
+                return $instance;
+            }
+        }
+
+        return false;
+    }
+
+    /**
+     * Clear the cache storage
+     *
+     **/
+    public static function finalize()
+    {
+        self::$cacheStorageMethod = null;
+        self::$cacheStorageClass = null;
+        self::$storageMethodParameters = array();
+    }
+}

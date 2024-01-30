@@ -1,85 +1,125 @@
-<?php //ICB0 56:0 71:ddf                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * PHPExcel_Style_Supervisor
+ *
+ * Copyright (c) 2006 - 2015 PHPExcel
+ *
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ *
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public
+ * License along with this library; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+ *
+ * @category   PHPExcel
+ * @package    PHPExcel_Style
+ * @copyright  Copyright (c) 2006 - 2015 PHPExcel (http://www.codeplex.com/PHPExcel)
+ * @license    http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt    LGPL
+ * @version    ##VERSION##, ##DATE##
+ */
+abstract class PHPExcel_Style_Supervisor
+{
+    /**
+     * Supervisor?
+     *
+     * @var boolean
+     */
+    protected $isSupervisor;
 
-?>
-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
+    /**
+     * Parent. Only used for supervisor
+     *
+     * @var PHPExcel_Style
+     */
+    protected $parent;
+
+    /**
+     * Create a new PHPExcel_Style_Alignment
+     *
+     * @param    boolean    $isSupervisor    Flag indicating if this is a supervisor or not
+     *                                    Leave this value at default unless you understand exactly what
+     *                                        its ramifications are
+     */
+    public function __construct($isSupervisor = false)
+    {
+        // Supervisor?
+        $this->isSupervisor = $isSupervisor;
+    }
+
+    /**
+     * Bind parent. Only used for supervisor
+     *
+     * @param PHPExcel $parent
+     * @return PHPExcel_Style_Supervisor
+     */
+    public function bindParent($parent, $parentPropertyName = null)
+    {
+        $this->parent = $parent;
+        return $this;
+    }
+
+    /**
+     * Is this a supervisor or a cell style component?
+     *
+     * @return boolean
+     */
+    public function getIsSupervisor()
+    {
+        return $this->isSupervisor;
+    }
+
+    /**
+     * Get the currently active sheet. Only used for supervisor
+     *
+     * @return PHPExcel_Worksheet
+     */
+    public function getActiveSheet()
+    {
+        return $this->parent->getActiveSheet();
+    }
+
+    /**
+     * Get the currently active cell coordinate in currently active sheet.
+     * Only used for supervisor
+     *
+     * @return string E.g. 'A1'
+     */
+    public function getSelectedCells()
+    {
+        return $this->getActiveSheet()->getSelectedCells();
+    }
+
+    /**
+     * Get the currently active cell coordinate in currently active sheet.
+     * Only used for supervisor
+     *
+     * @return string E.g. 'A1'
+     */
+    public function getActiveCell()
+    {
+        return $this->getActiveSheet()->getActiveCell();
+    }
+
+    /**
+     * Implement PHP __clone to create a deep clone, not just a shallow copy.
+     */
+    public function __clone()
+    {
+        $vars = get_object_vars($this);
+        foreach ($vars as $key => $value) {
+            if ((is_object($value)) && ($key != 'parent')) {
+                $this->$key = clone $value;
+            } else {
+                $this->$key = $value;
+            }
+        }
+    }
+}

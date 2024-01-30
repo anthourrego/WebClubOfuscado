@@ -1,174 +1,201 @@
-<?php //ICB0 56:0 71:1976                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-652lcIwMCUsLKwIRlYgiUr0==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * PHPExcel_Worksheet_ColumnIterator
+ *
+ * Copyright (c) 2006 - 2015 PHPExcel
+ *
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ *
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public
+ * License along with this library; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+ *
+ * @category   PHPExcel
+ * @package    PHPExcel_Worksheet
+ * @copyright  Copyright (c) 2006 - 2015 PHPExcel (http://www.codeplex.com/PHPExcel)
+ * @license    http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt    LGPL
+ * @version    ##VERSION##, ##DATE##
+ */
+class PHPExcel_Worksheet_ColumnIterator implements Iterator
+{
+    /**
+     * PHPExcel_Worksheet to iterate
+     *
+     * @var PHPExcel_Worksheet
+     */
+    private $subject;
 
-?>
-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
+    /**
+     * Current iterator position
+     *
+     * @var int
+     */
+    private $position = 0;
+
+    /**
+     * Start position
+     *
+     * @var int
+     */
+    private $startColumn = 0;
+
+
+    /**
+     * End position
+     *
+     * @var int
+     */
+    private $endColumn = 0;
+
+
+    /**
+     * Create a new column iterator
+     *
+     * @param    PHPExcel_Worksheet    $subject    The worksheet to iterate over
+     * @param    string                $startColumn    The column address at which to start iterating
+     * @param    string                $endColumn        Optionally, the column address at which to stop iterating
+     */
+    public function __construct(PHPExcel_Worksheet $subject = null, $startColumn = 'A', $endColumn = null)
+    {
+        // Set subject
+        $this->subject = $subject;
+        $this->resetEnd($endColumn);
+        $this->resetStart($startColumn);
+    }
+
+    /**
+     * Destructor
+     */
+    public function __destruct()
+    {
+        unset($this->subject);
+    }
+
+    /**
+     * (Re)Set the start column and the current column pointer
+     *
+     * @param integer    $startColumn    The column address at which to start iterating
+     * @return PHPExcel_Worksheet_ColumnIterator
+     * @throws PHPExcel_Exception
+     */
+    public function resetStart($startColumn = 'A')
+    {
+        $startColumnIndex = PHPExcel_Cell::columnIndexFromString($startColumn) - 1;
+        if ($startColumnIndex > PHPExcel_Cell::columnIndexFromString($this->subject->getHighestColumn()) - 1) {
+            throw new PHPExcel_Exception("Start column ({$startColumn}) is beyond highest column ({$this->subject->getHighestColumn()})");
+        }
+
+        $this->startColumn = $startColumnIndex;
+        if ($this->endColumn < $this->startColumn) {
+            $this->endColumn = $this->startColumn;
+        }
+        $this->seek($startColumn);
+
+        return $this;
+    }
+
+    /**
+     * (Re)Set the end column
+     *
+     * @param string    $endColumn    The column address at which to stop iterating
+     * @return PHPExcel_Worksheet_ColumnIterator
+     */
+    public function resetEnd($endColumn = null)
+    {
+        $endColumn = ($endColumn) ? $endColumn : $this->subject->getHighestColumn();
+        $this->endColumn = PHPExcel_Cell::columnIndexFromString($endColumn) - 1;
+
+        return $this;
+    }
+
+    /**
+     * Set the column pointer to the selected column
+     *
+     * @param string    $column    The column address to set the current pointer at
+     * @return PHPExcel_Worksheet_ColumnIterator
+     * @throws PHPExcel_Exception
+     */
+    public function seek($column = 'A')
+    {
+        $column = PHPExcel_Cell::columnIndexFromString($column) - 1;
+        if (($column < $this->startColumn) || ($column > $this->endColumn)) {
+            throw new PHPExcel_Exception("Column $column is out of range ({$this->startColumn} - {$this->endColumn})");
+        }
+        $this->position = $column;
+
+        return $this;
+    }
+
+    /**
+     * Rewind the iterator to the starting column
+     */
+    public function rewind()
+    {
+        $this->position = $this->startColumn;
+    }
+
+    /**
+     * Return the current column in this worksheet
+     *
+     * @return PHPExcel_Worksheet_Column
+     */
+    public function current()
+    {
+        return new PHPExcel_Worksheet_Column($this->subject, PHPExcel_Cell::stringFromColumnIndex($this->position));
+    }
+
+    /**
+     * Return the current iterator key
+     *
+     * @return string
+     */
+    public function key()
+    {
+        return PHPExcel_Cell::stringFromColumnIndex($this->position);
+    }
+
+    /**
+     * Set the iterator to its next value
+     */
+    public function next()
+    {
+        ++$this->position;
+    }
+
+    /**
+     * Set the iterator to its previous value
+     *
+     * @throws PHPExcel_Exception
+     */
+    public function prev()
+    {
+        if ($this->position <= $this->startColumn) {
+            throw new PHPExcel_Exception(
+                "Column is already at the beginning of range (" .
+                PHPExcel_Cell::stringFromColumnIndex($this->endColumn) . " - " .
+                PHPExcel_Cell::stringFromColumnIndex($this->endColumn) . ")"
+            );
+        }
+
+        --$this->position;
+    }
+
+    /**
+     * Indicate if more columns exist in the worksheet range of columns that we're iterating
+     *
+     * @return boolean
+     */
+    public function valid()
+    {
+        return $this->position <= $this->endColumn;
+    }
+}

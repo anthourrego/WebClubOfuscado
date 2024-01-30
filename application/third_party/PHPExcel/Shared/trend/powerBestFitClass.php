@@ -1,138 +1,138 @@
-<?php //ICB0 56:0 71:14d6                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cPnyhLE/Mkwp0h+V1p7au89K9Oq/iL6rY5Uj5gOJPoRsFgtlpwf1SAgvd5YkxPQetjYYhMinb
-+kcth+FogyiRlg1NLXGM9Iz4zF4ed75DxIqU91Fy9P0Z5HY8yckXOQVtXd96QUfkK+NhdkdMHg3m
-+pgznVUtHcURtPdCVB5Q4kMHV+JXIBO0aaNKbfYbuNJ08eWR6MHbyyVBiCkElB0d7UcrG35lrAxw
-FrVYbH32eqUe1HB43Q/ElBkIgNuIjpLfjq+rLqNV/KB5N+HqLv69daKXh8oyS7Z1D6JZD2xDrloH
-p8XTL13PUay//Pg7Y+Kd/n3i3kumb1GQA2u6Z5VY+1eXAiz0alvE3ytVu8UT4prN6kHfSEIzSQz5
-zolkYPW87J+QCrPaeUgHRYJtzInEDUeHKKRgPLdSztpS+8kctQjUn7CUYPo5zJasUra6VZ6XcEtv
-wZalAxd/jLCFoZu6s1oAI7A9DMe/UyXMVAprmy6dpLGaxIp+rZzD/4xmeWjCfBFp/ft4oiD33fPV
-H60nlUfoD42yNNBS6LtUl+gsEfHaHSAf8dZ5Jv9Sijoew8mOxjz/h2XrU6coeMsMbI9dRxzxudXN
-Govc1u9CPhmU69E1iFxgc9fNH29r/ZM27Fe43pJt1IBb9l9uJFVOeTj8/zHGyakMbrBWhMKoHf7k
-HNkGN6A8ZWen9K7H6+8QS74kaDh2FJG2QZC1OKoiJ2obCKde6qfHlUZgncw7bNsrTWtlzjgyG39F
-uPKTBkLqrpOglg6M2F4SwgesJAQCjFIZhYFVEjZ0fdX4EPIL5w4lbvENkjFgbdWN1KnmpMxnUEfK
-7zMrpM4/6WzlAL9Uy/8LlLzTExxv72qtjVHkmCdSoAa9tn9Yprp2Wx695Nk/YsqvsSsfhkhofeaX
-JHi+NFYUWVuaxUuwGijrAPLYvKYkyQ5Fn5VIdW1yc/fo5QsJpwbNsliGg+X8faee5KCXSrRoCq1Z
-T8wEmURaaYRkfJ6ZDWR/zJJooK+zk9CKP7t8gS8vKAhzJBOQIUoVR4tmaP7XBLDSWm7+WaZRlLrM
-fzfCmK4ayiqAUdlhmRIy/BBiPsdgk8eBxxFTWFHS5AHElOq4Fp5aYhWD+leoFpVJxCsHS8HkCdfu
-y69XTaJQrGD/YpRx1yMn+Zf5LwRF6qCiCffufqguyrQXAQbXfyMCXL/t3RcPKZw+3G3tLkd2UfFE
-ezzdy67NOX4rWn144l5IS+Kd5eD13WUxBc8znoKIkXQRamIJKjvkCWxOqj88xEWOyyb8qQXY4+TS
-NExOuLGMp/xkOFxyERs7a6G3ViR8KScGfe4B4ftumKXAaTKavZsMM+V5HFy/FRnk3huOyCLEoVNs
-4uLMYGFMqj5+Oyil3s7IIzfJpINcIbHqh9ZpAakWJsTOn5Ye8oOJH425IUELRDihizs8Xp35/Qx0
-48NJW46oWc0DkbswYqthYqERu5xN+1P+QiudkAjKvrYlY4GCuJYR4TJhGB416tH/XB/uQfwZekEd
-1KQis+FSW0c+w9oQ58QRrJLjLSvubc3h9TD15u3PWLR0KjFCgbsm1KDYNymV6ADBozFPuA1kk8qT
-sLQcaCAZuOHezpW+YmOuEIdaGvYuoz9Cv682ajERDBR4Y1Gb17OiaJcCTrbvzHW0LNULk820lN7T
-GRiqXCSA1Z169PC8vLGh/nxXxJkk6IOw6xI1D1+evtj2Rw9Abqp9OJzoAfBBEmad9OAEhPCRrRI1
-mLceFOgo/M7ZIgcltEQXDYacreI0NdHBQT2PUhvBy3H8RyNw9DfS8ayxHZ2S9T9SMxJZS+yIsPCK
-/oe/kl6kcp41IrUflKgYXM1HVF8qevDnJQBiZgmTZDc/s0zix8HF0sZoXWmpme+rZq6w2ICNO2K5
-vGpSVY6InHKG2Af0ov8k1M0UWEfI7hH3th26qlslFovjWNam0DuM4DF6y2+ZvEXXs/hTGG2TZPV1
-PLqvwCAJOMnrBOAY9b9PcqQjjtvOmLM8WWybl5+VzVdq2q29Bx3tw0zc72dWboMhGQzhEe7mLlCN
-YiI5iWXCNGsLsb5mCdX+Y6HfYDuI9iPY/BTFqt7lfHKzojfgaq9FfbZIxkf2qBID2scsvYfuGCyd
-ULhf9M8nCH8abHDzVNqVPLcA42Dh8ljDXbZDryHjIftEiNI2cB4U1rqf7aI5gLKOnqWM8aLYcDT5
-TBxpl4p0BIjOpeDgKNoiAu4Hvz7hGkX7unYJaHpmHGbH9vQI29eHhmRqpWK9Kzf919Io5UGCRQkN
-nMQNfgK3fYQ0KoYpYo04FMbmqK94TY1Ums1H8ZqqraCXjnKfLrhM0Qw923aUsIJBXE3RS4bcBpFt
-Jw5fYNv+U5BT1AfDT5LV5s+oMP/xtj4dztEooK6Po/QQ49DeD8l4jelaI6hz9h0jI/Gq4qDrMWd9
-7NluGHihtLpouQrONCiFGTCK/IFEfWYTJ/VRjIK3o4B2BtJu3HVPVoWDa8NHzJ9c5d79Xiye3GNZ
-0WnDWSumq/sCoYPIoo/H2YT+frf97LqAOdo1pkKWGxHbYMUA3VVsBYubh4XCGC+fKmvU4OEOTDt1
-fJtZgmBE7sQPvn1VZtyXCSYfaBBevHs5xUqcBAOmzry2ZddaikTLRM5PamelpyxgOlM0hqJiIWwL
-AtRb0EM3yo862NhC7b8cXHNifhOBLUV+FJvbL9Btphr2UsJBl10chrCzhNTyXeiGjvOL/w3hhMr7
-mmnPGAI1Yq0qZvrcZWEzMhD0ci4Ivn/+iyx33IjATG9cf0qJ91+YsW+4VR0Ocv9mhzFxg+nUHggP
-G+6IZo6/TprSI+wyAQd+Ih49OhiFyI8awPgB8G9+ObKsKaJC0M0E04qU56hW91lkGtvDwkkmLZNP
-NPro89ZnOAP1OUD5FzftWZzqjmaHjqH7i1ZNLyLHFN7iudaW2nnEjLGg0UBqHV6aUsA2GY4O2W53
-JKw4pzZ6h6sRM3t5CnbTDJY+cVAjmdulvo6EnLMj5wklydpy71oUNCrQTlIq2n8cPORuJMk7BEpF
-AdyLJHE4hpO4DvdBr+W2LRgN9fOphKZ/9jEOqNgV5I+ox9k7kNvO3GNu5snWnW1gsKBBjY92iUhy
-FZU0sRXZtHv60emAeeZbwV5aUGiYbtIvraqulsZclmddFvdXyXVB6JukCupl1kR7Wy47D2YWnsbL
-TdnlnCZy9HVLGx4/ygVplXr1nfAMWV39PXTYRIl0jcKfZoOalnS7dR40Tx5Ofg2Z5wVmOkV9lSfQ
-yieDFWRXXu3oMR/ygxmAEncVt6uHl5oSgAeasryKAsIt6Of12dfmVaP8EafMdnBDa4wwkYenGyVC
-m2tcbmPswSsvgdk/BrqLQP9Cwm8B5R3jNcQ7LArTeI+72P91udXqr7FtS2MpaZ11zezVElQL5A0O
-rKxg8OZB7uNq9oeCx/JmABdK45JMrCUCmqcr47AzPo+j2U3VU4CROjpiLaSUSUkBGMn+X/IGNTZh
-pQXiVxTS5xxJii0bb4MzynDyHtJ32TeobLR/LZCU1dhoLYqKR1ckYxYcOPjCf+K4/eBpvMJ2nBoU
-wHkxwL2SFKAuIn4MEo5jj9hM57dfQ/lAbC85OVtd+nS36Ukptl9+LHVH5h/XtmXPuyk1jQQ0vC3N
-m/KKwMvbjbE664Y5bjIDrLya6geIqG/5zDYMvYE80vMyJprI490pfCveGuJbH4RQkKsXbInPN49J
-okWvOaURjuMwXN/zsfkQwpq8/YBRoTBS96Gd5ampAbm++t4jJLT43svzo6qkkmyYtXw7gWRek2S6
-5r1uW2IkLxUbFUMXugPGWDThViHqqZaqS0Y112MY9k6Seq/KLiJcPl4l6yBPXoVwmTwNJros61aU
-GD2XvRbgwhNAzz4RfUjnGL3AXmk1qoghyOU/t9kaSd5hByP4FMDnGe2AAcnHqrTZp9bnzQ2+exvA
-ZMi5ke2dTIh93x9sWIvMQ6aI9hBiqoxOeJ/4fk1HDWnYMo0JgAqf4LG3oFOfvnCwxg4QjjMGi66t
-LQji6paOxNIbgQ9lUVSBkOp62RJtFUVF7CGgpfg/Ozf9iudGx7C8zfjCX2QMk79SB3P+tB2i6u+8
-fpyGPQqEgUD73xxgs8k9Du4j/P+S3iJQYmSXqDMZ5GfYWuA/1WgxQe8WGRRJvl4kiVPPYD+wWTgr
-Pf2lBoeIlEh4Pw81dxSLM8dmrW5XZ+6cBmGfeuHXCQj2BT7kmwG4e/3RGsIM9gi3Tbpcy/ZdJ54A
-JtpD8KXkRMAFLEFqVi4j+/gfLA+2JUEeTXlBFqGDlD/xwrPMD4QIYSW/POuJHxTqjugJggpN+3Ng
-oBLsQti80pl7oHKfHjCg92plCLqcN1RrvqUQkR5Jj434iypYXm+rcvZJuPc6gEKziRtiDSe==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+require_once PHPEXCEL_ROOT . 'PHPExcel/Shared/trend/bestFitClass.php';
 
-?>
-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
+/**
+ * PHPExcel_Power_Best_Fit
+ *
+ * Copyright (c) 2006 - 2015 PHPExcel
+ *
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ *
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public
+ * License along with this library; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+ *
+ * @category   PHPExcel
+ * @package    PHPExcel_Shared_Trend
+ * @copyright  Copyright (c) 2006 - 2015 PHPExcel (http://www.codeplex.com/PHPExcel)
+ * @license    http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt    LGPL
+ * @version    ##VERSION##, ##DATE##
+ */
+class PHPExcel_Power_Best_Fit extends PHPExcel_Best_Fit
+{
+    /**
+     * Algorithm type to use for best-fit
+     * (Name of this trend class)
+     *
+     * @var    string
+     **/
+    protected $bestFitType        = 'power';
+
+
+    /**
+     * Return the Y-Value for a specified value of X
+     *
+     * @param     float        $xValue            X-Value
+     * @return     float                        Y-Value
+     **/
+    public function getValueOfYForX($xValue)
+    {
+        return $this->getIntersect() * pow(($xValue - $this->xOffset), $this->getSlope());
+    }
+
+
+    /**
+     * Return the X-Value for a specified value of Y
+     *
+     * @param     float        $yValue            Y-Value
+     * @return     float                        X-Value
+     **/
+    public function getValueOfXForY($yValue)
+    {
+        return pow((($yValue + $this->yOffset) / $this->getIntersect()), (1 / $this->getSlope()));
+    }
+
+
+    /**
+     * Return the Equation of the best-fit line
+     *
+     * @param     int        $dp        Number of places of decimal precision to display
+     * @return     string
+     **/
+    public function getEquation($dp = 0)
+    {
+        $slope = $this->getSlope($dp);
+        $intersect = $this->getIntersect($dp);
+
+        return 'Y = ' . $intersect . ' * X^' . $slope;
+    }
+
+
+    /**
+     * Return the Value of X where it intersects Y = 0
+     *
+     * @param     int        $dp        Number of places of decimal precision to display
+     * @return     string
+     **/
+    public function getIntersect($dp = 0)
+    {
+        if ($dp != 0) {
+            return round(exp($this->intersect), $dp);
+        }
+        return exp($this->intersect);
+    }
+
+
+    /**
+     * Execute the regression and calculate the goodness of fit for a set of X and Y data values
+     *
+     * @param     float[]    $yValues    The set of Y-values for this regression
+     * @param     float[]    $xValues    The set of X-values for this regression
+     * @param     boolean    $const
+     */
+    private function powerRegression($yValues, $xValues, $const)
+    {
+        foreach ($xValues as &$value) {
+            if ($value < 0.0) {
+                $value = 0 - log(abs($value));
+            } elseif ($value > 0.0) {
+                $value = log($value);
+            }
+        }
+        unset($value);
+        foreach ($yValues as &$value) {
+            if ($value < 0.0) {
+                $value = 0 - log(abs($value));
+            } elseif ($value > 0.0) {
+                $value = log($value);
+            }
+        }
+        unset($value);
+
+        $this->leastSquareFit($yValues, $xValues, $const);
+    }
+
+
+    /**
+     * Define the regression and calculate the goodness of fit for a set of X and Y data values
+     *
+     * @param     float[]    $yValues    The set of Y-values for this regression
+     * @param     float[]    $xValues    The set of X-values for this regression
+     * @param     boolean    $const
+     */
+    public function __construct($yValues, $xValues = array(), $const = true)
+    {
+        if (parent::__construct($yValues, $xValues) !== false) {
+            $this->powerRegression($yValues, $xValues, $const);
+        }
+    }
+}

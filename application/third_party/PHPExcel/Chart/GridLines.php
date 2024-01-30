@@ -1,356 +1,472 @@
-<?php //ICB0 56:0 71:325d                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-+zLHgW===
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * Created by PhpStorm.
+ * User: Wiktor Trzonkowski
+ * Date: 7/2/14
+ * Time: 2:36 PM
+ */
 
-?>
-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
-tJYda51XL8X7MVpISEcrm1CRAG==
+class PHPExcel_Chart_GridLines extends PHPExcel_Chart_Properties
+{
+
+  /**
+   * Properties of Class:
+   * Object State (State for Minor Tick Mark) @var bool
+   * Line Properties @var  array of mixed
+   * Shadow Properties @var  array of mixed
+   * Glow Properties @var  array of mixed
+   * Soft Properties @var  array of mixed
+   *
+   */
+
+    private $objectState = false;
+
+    private $lineProperties = array(
+        'color' => array(
+            'type' => self::EXCEL_COLOR_TYPE_STANDARD,
+            'value' => null,
+            'alpha' => 0
+        ),
+        'style' => array(
+            'width' => '9525',
+            'compound' => self::LINE_STYLE_COMPOUND_SIMPLE,
+            'dash' => self::LINE_STYLE_DASH_SOLID,
+            'cap' => self::LINE_STYLE_CAP_FLAT,
+            'join' => self::LINE_STYLE_JOIN_BEVEL,
+            'arrow' => array(
+                'head' => array(
+                    'type' => self::LINE_STYLE_ARROW_TYPE_NOARROW,
+                    'size' => self::LINE_STYLE_ARROW_SIZE_5
+                ),
+                'end' => array(
+                    'type' => self::LINE_STYLE_ARROW_TYPE_NOARROW,
+                    'size' => self::LINE_STYLE_ARROW_SIZE_8
+                ),
+            )
+        )
+    );
+
+    private $shadowProperties = array(
+        'presets' => self::SHADOW_PRESETS_NOSHADOW,
+        'effect' => null,
+        'color' => array(
+            'type' => self::EXCEL_COLOR_TYPE_STANDARD,
+            'value' => 'black',
+            'alpha' => 85,
+        ),
+        'size' => array(
+            'sx' => null,
+            'sy' => null,
+            'kx' => null
+        ),
+        'blur' => null,
+        'direction' => null,
+        'distance' => null,
+        'algn' => null,
+        'rotWithShape' => null
+    );
+
+    private $glowProperties = array(
+        'size' => null,
+        'color' => array(
+            'type' => self::EXCEL_COLOR_TYPE_STANDARD,
+            'value' => 'black',
+            'alpha' => 40
+        )
+    );
+
+    private $softEdges = array(
+        'size' => null
+     );
+
+    /**
+     * Get Object State
+     *
+     * @return bool
+     */
+
+    public function getObjectState()
+    {
+        return $this->objectState;
+    }
+
+    /**
+     * Change Object State to True
+     *
+     * @return PHPExcel_Chart_GridLines
+     */
+
+    private function activateObject()
+    {
+        $this->objectState = true;
+
+        return $this;
+    }
+
+    /**
+     * Set Line Color Properties
+     *
+     * @param string $value
+     * @param int $alpha
+     * @param string $type
+     */
+
+    public function setLineColorProperties($value, $alpha = 0, $type = self::EXCEL_COLOR_TYPE_STANDARD)
+    {
+        $this->activateObject()
+            ->lineProperties['color'] = $this->setColorProperties(
+                $value,
+                $alpha,
+                $type
+            );
+    }
+
+    /**
+     * Set Line Color Properties
+     *
+     * @param float $line_width
+     * @param string $compound_type
+     * @param string $dash_type
+     * @param string $cap_type
+     * @param string $join_type
+     * @param string $head_arrow_type
+     * @param string $head_arrow_size
+     * @param string $end_arrow_type
+     * @param string $end_arrow_size
+     */
+
+    public function setLineStyleProperties($line_width = null, $compound_type = null, $dash_type = null, $cap_type = null, $join_type = null, $head_arrow_type = null, $head_arrow_size = null, $end_arrow_type = null, $end_arrow_size = null)
+    {
+        $this->activateObject();
+        (!is_null($line_width))
+                ? $this->lineProperties['style']['width'] = $this->getExcelPointsWidth((float) $line_width)
+                : null;
+        (!is_null($compound_type))
+                ? $this->lineProperties['style']['compound'] = (string) $compound_type
+                : null;
+        (!is_null($dash_type))
+                ? $this->lineProperties['style']['dash'] = (string) $dash_type
+                : null;
+        (!is_null($cap_type))
+                ? $this->lineProperties['style']['cap'] = (string) $cap_type
+                : null;
+        (!is_null($join_type))
+                ? $this->lineProperties['style']['join'] = (string) $join_type
+                : null;
+        (!is_null($head_arrow_type))
+                ? $this->lineProperties['style']['arrow']['head']['type'] = (string) $head_arrow_type
+                : null;
+        (!is_null($head_arrow_size))
+                ? $this->lineProperties['style']['arrow']['head']['size'] = (string) $head_arrow_size
+                : null;
+        (!is_null($end_arrow_type))
+                ? $this->lineProperties['style']['arrow']['end']['type'] = (string) $end_arrow_type
+                : null;
+        (!is_null($end_arrow_size))
+                ? $this->lineProperties['style']['arrow']['end']['size'] = (string) $end_arrow_size
+                : null;
+    }
+
+    /**
+     * Get Line Color Property
+     *
+     * @param string $parameter
+     *
+     * @return string
+     */
+
+    public function getLineColorProperty($parameter)
+    {
+        return $this->lineProperties['color'][$parameter];
+    }
+
+    /**
+     * Get Line Style Property
+     *
+     * @param    array|string $elements
+     *
+     * @return string
+     */
+
+    public function getLineStyleProperty($elements)
+    {
+        return $this->getArrayElementsValue($this->lineProperties['style'], $elements);
+    }
+
+    /**
+     * Set Glow Properties
+     *
+     * @param    float $size
+     * @param    string $color_value
+     * @param    int $color_alpha
+     * @param    string $color_type
+     *
+     */
+
+    public function setGlowProperties($size, $color_value = null, $color_alpha = null, $color_type = null)
+    {
+        $this
+                ->activateObject()
+                ->setGlowSize($size)
+                ->setGlowColor($color_value, $color_alpha, $color_type);
+    }
+
+    /**
+     * Get Glow Color Property
+     *
+     * @param string $property
+     *
+     * @return string
+     */
+
+    public function getGlowColor($property)
+    {
+        return $this->glowProperties['color'][$property];
+    }
+
+    /**
+     * Get Glow Size
+     *
+     * @return string
+     */
+
+    public function getGlowSize()
+    {
+        return $this->glowProperties['size'];
+    }
+
+    /**
+     * Set Glow Size
+     *
+     * @param float $size
+     *
+     * @return PHPExcel_Chart_GridLines
+     */
+
+    private function setGlowSize($size)
+    {
+        $this->glowProperties['size'] = $this->getExcelPointsWidth((float) $size);
+
+        return $this;
+    }
+
+    /**
+     * Set Glow Color
+     *
+     * @param string $color
+     * @param int $alpha
+     * @param string $type
+     *
+     * @return PHPExcel_Chart_GridLines
+     */
+
+    private function setGlowColor($color, $alpha, $type)
+    {
+        if (!is_null($color)) {
+            $this->glowProperties['color']['value'] = (string) $color;
+        }
+        if (!is_null($alpha)) {
+            $this->glowProperties['color']['alpha'] = $this->getTrueAlpha((int) $alpha);
+        }
+        if (!is_null($type)) {
+            $this->glowProperties['color']['type'] = (string) $type;
+        }
+
+        return $this;
+    }
+
+    /**
+     * Get Line Style Arrow Parameters
+     *
+     * @param string $arrow_selector
+     * @param string $property_selector
+     *
+     * @return string
+     */
+
+    public function getLineStyleArrowParameters($arrow_selector, $property_selector)
+    {
+        return $this->getLineStyleArrowSize($this->lineProperties['style']['arrow'][$arrow_selector]['size'], $property_selector);
+    }
+
+    /**
+     * Set Shadow Properties
+     *
+     * @param int $sh_presets
+     * @param string $sh_color_value
+     * @param string $sh_color_type
+     * @param int $sh_color_alpha
+     * @param string $sh_blur
+     * @param int $sh_angle
+     * @param float $sh_distance
+     *
+     */
+
+    public function setShadowProperties($sh_presets, $sh_color_value = null, $sh_color_type = null, $sh_color_alpha = null, $sh_blur = null, $sh_angle = null, $sh_distance = null)
+    {
+        $this->activateObject()
+            ->setShadowPresetsProperties((int) $sh_presets)
+            ->setShadowColor(
+                is_null($sh_color_value) ? $this->shadowProperties['color']['value'] : $sh_color_value,
+                is_null($sh_color_alpha) ? (int) $this->shadowProperties['color']['alpha'] : $this->getTrueAlpha($sh_color_alpha),
+                is_null($sh_color_type) ? $this->shadowProperties['color']['type'] : $sh_color_type
+            )
+            ->setShadowBlur($sh_blur)
+            ->setShadowAngle($sh_angle)
+            ->setShadowDistance($sh_distance);
+    }
+
+    /**
+     * Set Shadow Presets Properties
+     *
+     * @param int $shadow_presets
+     *
+     * @return PHPExcel_Chart_GridLines
+     */
+
+    private function setShadowPresetsProperties($shadow_presets)
+    {
+        $this->shadowProperties['presets'] = $shadow_presets;
+        $this->setShadowProperiesMapValues($this->getShadowPresetsMap($shadow_presets));
+
+        return $this;
+    }
+
+    /**
+     * Set Shadow Properties Values
+     *
+     * @param array $properties_map
+     * @param * $reference
+     *
+     * @return PHPExcel_Chart_GridLines
+     */
+
+    private function setShadowProperiesMapValues(array $properties_map, &$reference = null)
+    {
+        $base_reference = $reference;
+        foreach ($properties_map as $property_key => $property_val) {
+            if (is_array($property_val)) {
+                if ($reference === null) {
+                    $reference = & $this->shadowProperties[$property_key];
+                } else {
+                    $reference = & $reference[$property_key];
+                }
+                $this->setShadowProperiesMapValues($property_val, $reference);
+            } else {
+                if ($base_reference === null) {
+                    $this->shadowProperties[$property_key] = $property_val;
+                } else {
+                    $reference[$property_key] = $property_val;
+                }
+            }
+        }
+
+        return $this;
+    }
+
+    /**
+     * Set Shadow Color
+     *
+     * @param string $color
+     * @param int $alpha
+     * @param string $type
+     * @return PHPExcel_Chart_GridLines
+     */
+    private function setShadowColor($color, $alpha, $type)
+    {
+        if (!is_null($color)) {
+            $this->shadowProperties['color']['value'] = (string) $color;
+        }
+        if (!is_null($alpha)) {
+            $this->shadowProperties['color']['alpha'] = $this->getTrueAlpha((int) $alpha);
+        }
+        if (!is_null($type)) {
+            $this->shadowProperties['color']['type'] = (string) $type;
+        }
+
+        return $this;
+    }
+
+    /**
+     * Set Shadow Blur
+     *
+     * @param float $blur
+     *
+     * @return PHPExcel_Chart_GridLines
+     */
+    private function setShadowBlur($blur)
+    {
+        if ($blur !== null) {
+            $this->shadowProperties['blur'] = (string) $this->getExcelPointsWidth($blur);
+        }
+
+        return $this;
+    }
+
+    /**
+     * Set Shadow Angle
+     *
+     * @param int $angle
+     * @return PHPExcel_Chart_GridLines
+     */
+
+    private function setShadowAngle($angle)
+    {
+        if ($angle !== null) {
+            $this->shadowProperties['direction'] = (string) $this->getExcelPointsAngle($angle);
+        }
+
+        return $this;
+    }
+
+    /**
+     * Set Shadow Distance
+     *
+     * @param float $distance
+     * @return PHPExcel_Chart_GridLines
+     */
+    private function setShadowDistance($distance)
+    {
+        if ($distance !== null) {
+            $this->shadowProperties['distance'] = (string) $this->getExcelPointsWidth($distance);
+        }
+
+        return $this;
+    }
+
+    /**
+     * Get Shadow Property
+     *
+     * @param string $elements
+     * @param array $elements
+     * @return string
+     */
+    public function getShadowProperty($elements)
+    {
+        return $this->getArrayElementsValue($this->shadowProperties, $elements);
+    }
+
+    /**
+     * Set Soft Edges Size
+     *
+     * @param float $size
+     */
+    public function setSoftEdgesSize($size)
+    {
+        if (!is_null($size)) {
+            $this->activateObject();
+            $softEdges['size'] = (string) $this->getExcelPointsWidth($size);
+        }
+    }
+
+    /**
+     * Get Soft Edges Size
+     *
+     * @return string
+     */
+    public function getSoftEdgesSize()
+    {
+        return $this->softEdges['size'];
+    }
+}

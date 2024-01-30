@@ -1,103 +1,156 @@
-<?php //ICB0 56:0 71:102f                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-hn2j1RWScP41B9zOVLV+jhiahZEde3SoZ0===
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
-
-?>
-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
-Tf10LA27557UjdEeAKe=
+/**
+ * PHPExcel_Shared_CodePage
+ *
+ * Copyright (c) 2006 - 2015 PHPExcel
+ *
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ *
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public
+ * License along with this library; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+ *
+ * @category   PHPExcel
+ * @package    PHPExcel_Shared
+ * @copyright  Copyright (c) 2006 - 2015 PHPExcel (http://www.codeplex.com/PHPExcel)
+ * @license    http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt    LGPL
+ * @version    ##VERSION##, ##DATE##
+ */
+class PHPExcel_Shared_CodePage
+{
+    /**
+     * Convert Microsoft Code Page Identifier to Code Page Name which iconv
+     * and mbstring understands
+     *
+     * @param integer $codePage Microsoft Code Page Indentifier
+     * @return string Code Page Name
+     * @throws PHPExcel_Exception
+     */
+    public static function NumberToName($codePage = 1252)
+    {
+        switch ($codePage) {
+            case 367:
+                return 'ASCII';    //    ASCII
+            case 437:
+                return 'CP437';    //    OEM US
+            case 720:
+                throw new PHPExcel_Exception('Code page 720 not supported.');    //    OEM Arabic
+            case 737:
+                return 'CP737';    //    OEM Greek
+            case 775:
+                return 'CP775';    //    OEM Baltic
+            case 850:
+                return 'CP850';    //    OEM Latin I
+            case 852:
+                return 'CP852';    //    OEM Latin II (Central European)
+            case 855:
+                return 'CP855';    //    OEM Cyrillic
+            case 857:
+                return 'CP857';    //    OEM Turkish
+            case 858:
+                return 'CP858';    //    OEM Multilingual Latin I with Euro
+            case 860:
+                return 'CP860';    //    OEM Portugese
+            case 861:
+                return 'CP861';    //    OEM Icelandic
+            case 862:
+                return 'CP862';    //    OEM Hebrew
+            case 863:
+                return 'CP863';    //    OEM Canadian (French)
+            case 864:
+                return 'CP864';    //    OEM Arabic
+            case 865:
+                return 'CP865';    //    OEM Nordic
+            case 866:
+                return 'CP866';    //    OEM Cyrillic (Russian)
+            case 869:
+                return 'CP869';    //    OEM Greek (Modern)
+            case 874:
+                return 'CP874';    //    ANSI Thai
+            case 932:
+                return 'CP932';    //    ANSI Japanese Shift-JIS
+            case 936:
+                return 'CP936';    //    ANSI Chinese Simplified GBK
+            case 949:
+                return 'CP949';    //    ANSI Korean (Wansung)
+            case 950:
+                return 'CP950';    //    ANSI Chinese Traditional BIG5
+            case 1200:
+                return 'UTF-16LE'; //    UTF-16 (BIFF8)
+            case 1250:
+                return 'CP1250';   //    ANSI Latin II (Central European)
+            case 1251:
+                return 'CP1251';   //    ANSI Cyrillic
+            case 0:
+                //    CodePage is not always correctly set when the xls file was saved by Apple's Numbers program
+            case 1252:
+                return 'CP1252';   //    ANSI Latin I (BIFF4-BIFF7)
+            case 1253:
+                return 'CP1253';   //    ANSI Greek
+            case 1254:
+                return 'CP1254';   //    ANSI Turkish
+            case 1255:
+                return 'CP1255';   //    ANSI Hebrew
+            case 1256:
+                return 'CP1256';   //    ANSI Arabic
+            case 1257:
+                return 'CP1257';   //    ANSI Baltic
+            case 1258:
+                return 'CP1258';   //    ANSI Vietnamese
+            case 1361:
+                return 'CP1361';   //    ANSI Korean (Johab)
+            case 10000:
+                return 'MAC';      //    Apple Roman
+            case 10001:
+                return 'CP932';    //    Macintosh Japanese
+            case 10002:
+                return 'CP950';    //    Macintosh Chinese Traditional
+            case 10003:
+                return 'CP1361';   //    Macintosh Korean
+            case 10004:	
+                return 'MACARABIC';  //	Apple Arabic
+            case 10005:
+                return 'MACHEBREW';		//	Apple Hebrew
+            case 10006:
+                return 'MACGREEK';  //    Macintosh Greek
+            case 10007:
+                return 'MACCYRILLIC';  //    Macintosh Cyrillic
+            case 10008:
+                return 'CP936';  //    Macintosh - Simplified Chinese (GB 2312)
+            case 10010:
+                return 'MACROMANIA';	//	Macintosh Romania
+            case 10017:
+                return 'MACUKRAINE';	//	Macintosh Ukraine
+            case 10021:
+                return 'MACTHAI';	//	Macintosh Thai
+            case 10029:
+                return 'MACCENTRALEUROPE';  //    Macintosh Central Europe
+            case 10079:
+                return 'MACICELAND';  //    Macintosh Icelandic
+            case 10081:
+                return 'MACTURKISH';  //    Macintosh Turkish
+            case 10082:
+                return 'MACCROATIAN';	//	Macintosh Croatian
+            case 21010:
+                return 'UTF-16LE';  //    UTF-16 (BIFF8) This isn't correct, but some Excel writer libraries erroneously use Codepage 21010 for UTF-16LE
+            case 32768:
+                return 'MAC';      //    Apple Roman
+            case 32769:
+                throw new PHPExcel_Exception('Code page 32769 not supported.');  //    ANSI Latin I (BIFF2-BIFF3)
+            case 65000:
+                return 'UTF-7';    //    Unicode (UTF-7)
+            case 65001:
+                return 'UTF-8';    //    Unicode (UTF-8)
+        }
+        throw new PHPExcel_Exception('Unknown codepage: ' . $codePage);
+    }
+}

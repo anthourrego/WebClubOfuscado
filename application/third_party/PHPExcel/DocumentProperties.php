@@ -1,284 +1,611 @@
-<?php //ICB0 56:0 71:2b1d                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * PHPExcel_DocumentProperties
+ *
+ * Copyright (c) 2006 - 2015 PHPExcel
+ *
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ *
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public
+ * License along with this library; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+ *
+ * @category    PHPExcel
+ * @package    PHPExcel
+ * @copyright    Copyright (c) 2006 - 2015 PHPExcel (http://www.codeplex.com/PHPExcel)
+ * @license    http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt    LGPL
+ * @version    ##VERSION##, ##DATE##
+ */
+class PHPExcel_DocumentProperties
+{
+    /** constants */
+    const PROPERTY_TYPE_BOOLEAN = 'b';
+    const PROPERTY_TYPE_INTEGER = 'i';
+    const PROPERTY_TYPE_FLOAT   = 'f';
+    const PROPERTY_TYPE_DATE    = 'd';
+    const PROPERTY_TYPE_STRING  = 's';
+    const PROPERTY_TYPE_UNKNOWN = 'u';
 
-?>
-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
-hqNPWAqdDqQ/mSDxo/EKEQ22sMQY
+    /**
+     * Creator
+     *
+     * @var string
+     */
+    private $creator = 'Unknown Creator';
+
+    /**
+     * LastModifiedBy
+     *
+     * @var string
+     */
+    private $lastModifiedBy;
+
+    /**
+     * Created
+     *
+     * @var datetime
+     */
+    private $created;
+
+    /**
+     * Modified
+     *
+     * @var datetime
+     */
+    private $modified;
+
+    /**
+     * Title
+     *
+     * @var string
+     */
+    private $title = 'Untitled Spreadsheet';
+
+    /**
+     * Description
+     *
+     * @var string
+     */
+    private $description = '';
+
+    /**
+     * Subject
+     *
+     * @var string
+     */
+    private $subject = '';
+
+    /**
+     * Keywords
+     *
+     * @var string
+     */
+    private $keywords = '';
+
+    /**
+     * Category
+     *
+     * @var string
+     */
+    private $category = '';
+
+    /**
+     * Manager
+     *
+     * @var string
+     */
+    private $manager = '';
+
+    /**
+     * Company
+     *
+     * @var string
+     */
+    private $company = 'Microsoft Corporation';
+
+    /**
+     * Custom Properties
+     *
+     * @var string
+     */
+    private $customProperties = array();
+
+
+    /**
+     * Create a new PHPExcel_DocumentProperties
+     */
+    public function __construct()
+    {
+        // Initialise values
+        $this->lastModifiedBy = $this->creator;
+        $this->created  = time();
+        $this->modified = time();
+    }
+
+    /**
+     * Get Creator
+     *
+     * @return string
+     */
+    public function getCreator()
+    {
+        return $this->creator;
+    }
+
+    /**
+     * Set Creator
+     *
+     * @param string $pValue
+     * @return PHPExcel_DocumentProperties
+     */
+    public function setCreator($pValue = '')
+    {
+        $this->creator = $pValue;
+        return $this;
+    }
+
+    /**
+     * Get Last Modified By
+     *
+     * @return string
+     */
+    public function getLastModifiedBy()
+    {
+        return $this->lastModifiedBy;
+    }
+
+    /**
+     * Set Last Modified By
+     *
+     * @param string $pValue
+     * @return PHPExcel_DocumentProperties
+     */
+    public function setLastModifiedBy($pValue = '')
+    {
+        $this->lastModifiedBy = $pValue;
+        return $this;
+    }
+
+    /**
+     * Get Created
+     *
+     * @return datetime
+     */
+    public function getCreated()
+    {
+        return $this->created;
+    }
+
+    /**
+     * Set Created
+     *
+     * @param datetime $pValue
+     * @return PHPExcel_DocumentProperties
+     */
+    public function setCreated($pValue = null)
+    {
+        if ($pValue === null) {
+            $pValue = time();
+        } elseif (is_string($pValue)) {
+            if (is_numeric($pValue)) {
+                $pValue = intval($pValue);
+            } else {
+                $pValue = strtotime($pValue);
+            }
+        }
+
+        $this->created = $pValue;
+        return $this;
+    }
+
+    /**
+     * Get Modified
+     *
+     * @return datetime
+     */
+    public function getModified()
+    {
+        return $this->modified;
+    }
+
+    /**
+     * Set Modified
+     *
+     * @param datetime $pValue
+     * @return PHPExcel_DocumentProperties
+     */
+    public function setModified($pValue = null)
+    {
+        if ($pValue === null) {
+            $pValue = time();
+        } elseif (is_string($pValue)) {
+            if (is_numeric($pValue)) {
+                $pValue = intval($pValue);
+            } else {
+                $pValue = strtotime($pValue);
+            }
+        }
+
+        $this->modified = $pValue;
+        return $this;
+    }
+
+    /**
+     * Get Title
+     *
+     * @return string
+     */
+    public function getTitle()
+    {
+        return $this->title;
+    }
+
+    /**
+     * Set Title
+     *
+     * @param string $pValue
+     * @return PHPExcel_DocumentProperties
+     */
+    public function setTitle($pValue = '')
+    {
+        $this->title = $pValue;
+        return $this;
+    }
+
+    /**
+     * Get Description
+     *
+     * @return string
+     */
+    public function getDescription()
+    {
+        return $this->description;
+    }
+
+    /**
+     * Set Description
+     *
+     * @param string $pValue
+     * @return PHPExcel_DocumentProperties
+     */
+    public function setDescription($pValue = '')
+    {
+        $this->description = $pValue;
+        return $this;
+    }
+
+    /**
+     * Get Subject
+     *
+     * @return string
+     */
+    public function getSubject()
+    {
+        return $this->subject;
+    }
+
+    /**
+     * Set Subject
+     *
+     * @param string $pValue
+     * @return PHPExcel_DocumentProperties
+     */
+    public function setSubject($pValue = '')
+    {
+        $this->subject = $pValue;
+        return $this;
+    }
+
+    /**
+     * Get Keywords
+     *
+     * @return string
+     */
+    public function getKeywords()
+    {
+        return $this->keywords;
+    }
+
+    /**
+     * Set Keywords
+     *
+     * @param string $pValue
+     * @return PHPExcel_DocumentProperties
+     */
+    public function setKeywords($pValue = '')
+    {
+        $this->keywords = $pValue;
+        return $this;
+    }
+
+    /**
+     * Get Category
+     *
+     * @return string
+     */
+    public function getCategory()
+    {
+        return $this->category;
+    }
+
+    /**
+     * Set Category
+     *
+     * @param string $pValue
+     * @return PHPExcel_DocumentProperties
+     */
+    public function setCategory($pValue = '')
+    {
+        $this->category = $pValue;
+        return $this;
+    }
+
+    /**
+     * Get Company
+     *
+     * @return string
+     */
+    public function getCompany()
+    {
+        return $this->company;
+    }
+
+    /**
+     * Set Company
+     *
+     * @param string $pValue
+     * @return PHPExcel_DocumentProperties
+     */
+    public function setCompany($pValue = '')
+    {
+        $this->company = $pValue;
+        return $this;
+    }
+
+    /**
+     * Get Manager
+     *
+     * @return string
+     */
+    public function getManager()
+    {
+        return $this->manager;
+    }
+
+    /**
+     * Set Manager
+     *
+     * @param string $pValue
+     * @return PHPExcel_DocumentProperties
+     */
+    public function setManager($pValue = '')
+    {
+        $this->manager = $pValue;
+        return $this;
+    }
+
+    /**
+     * Get a List of Custom Property Names
+     *
+     * @return array of string
+     */
+    public function getCustomProperties()
+    {
+        return array_keys($this->customProperties);
+    }
+
+    /**
+     * Check if a Custom Property is defined
+     *
+     * @param string $propertyName
+     * @return boolean
+     */
+    public function isCustomPropertySet($propertyName)
+    {
+        return isset($this->customProperties[$propertyName]);
+    }
+
+    /**
+     * Get a Custom Property Value
+     *
+     * @param string $propertyName
+     * @return string
+     */
+    public function getCustomPropertyValue($propertyName)
+    {
+        if (isset($this->customProperties[$propertyName])) {
+            return $this->customProperties[$propertyName]['value'];
+        }
+
+    }
+
+    /**
+     * Get a Custom Property Type
+     *
+     * @param string $propertyName
+     * @return string
+     */
+    public function getCustomPropertyType($propertyName)
+    {
+        if (isset($this->customProperties[$propertyName])) {
+            return $this->customProperties[$propertyName]['type'];
+        }
+
+    }
+
+    /**
+     * Set a Custom Property
+     *
+     * @param string $propertyName
+     * @param mixed $propertyValue
+     * @param string $propertyType
+     *      'i'    : Integer
+     *   'f' : Floating Point
+     *   's' : String
+     *   'd' : Date/Time
+     *   'b' : Boolean
+     * @return PHPExcel_DocumentProperties
+     */
+    public function setCustomProperty($propertyName, $propertyValue = '', $propertyType = null)
+    {
+        if (($propertyType === null) || (!in_array($propertyType, array(self::PROPERTY_TYPE_INTEGER,
+                                                                        self::PROPERTY_TYPE_FLOAT,
+                                                                        self::PROPERTY_TYPE_STRING,
+                                                                        self::PROPERTY_TYPE_DATE,
+                                                                        self::PROPERTY_TYPE_BOOLEAN)))) {
+            if ($propertyValue === null) {
+                $propertyType = self::PROPERTY_TYPE_STRING;
+            } elseif (is_float($propertyValue)) {
+                $propertyType = self::PROPERTY_TYPE_FLOAT;
+            } elseif (is_int($propertyValue)) {
+                $propertyType = self::PROPERTY_TYPE_INTEGER;
+            } elseif (is_bool($propertyValue)) {
+                $propertyType = self::PROPERTY_TYPE_BOOLEAN;
+            } else {
+                $propertyType = self::PROPERTY_TYPE_STRING;
+            }
+        }
+
+        $this->customProperties[$propertyName] = array(
+            'value' => $propertyValue,
+            'type' => $propertyType
+        );
+        return $this;
+    }
+
+    /**
+     * Implement PHP __clone to create a deep clone, not just a shallow copy.
+     */
+    public function __clone()
+    {
+        $vars = get_object_vars($this);
+        foreach ($vars as $key => $value) {
+            if (is_object($value)) {
+                $this->$key = clone $value;
+            } else {
+                $this->$key = $value;
+            }
+        }
+    }
+
+    public static function convertProperty($propertyValue, $propertyType)
+    {
+        switch ($propertyType) {
+            case 'empty':     //    Empty
+                return '';
+                break;
+            case 'null':      //    Null
+                return null;
+                break;
+            case 'i1':        //    1-Byte Signed Integer
+            case 'i2':        //    2-Byte Signed Integer
+            case 'i4':        //    4-Byte Signed Integer
+            case 'i8':        //    8-Byte Signed Integer
+            case 'int':       //    Integer
+                return (int) $propertyValue;
+                break;
+            case 'ui1':       //    1-Byte Unsigned Integer
+            case 'ui2':       //    2-Byte Unsigned Integer
+            case 'ui4':       //    4-Byte Unsigned Integer
+            case 'ui8':       //    8-Byte Unsigned Integer
+            case 'uint':      //    Unsigned Integer
+                return abs((int) $propertyValue);
+                break;
+            case 'r4':        //    4-Byte Real Number
+            case 'r8':        //    8-Byte Real Number
+            case 'decimal':   //    Decimal
+                return (float) $propertyValue;
+                break;
+            case 'lpstr':     //    LPSTR
+            case 'lpwstr':    //    LPWSTR
+            case 'bstr':      //    Basic String
+                return $propertyValue;
+                break;
+            case 'date':      //    Date and Time
+            case 'filetime':  //    File Time
+                return strtotime($propertyValue);
+                break;
+            case 'bool':     //    Boolean
+                return ($propertyValue == 'true') ? true : false;
+                break;
+            case 'cy':       //    Currency
+            case 'error':    //    Error Status Code
+            case 'vector':   //    Vector
+            case 'array':    //    Array
+            case 'blob':     //    Binary Blob
+            case 'oblob':    //    Binary Blob Object
+            case 'stream':   //    Binary Stream
+            case 'ostream':  //    Binary Stream Object
+            case 'storage':  //    Binary Storage
+            case 'ostorage': //    Binary Storage Object
+            case 'vstream':  //    Binary Versioned Stream
+            case 'clsid':    //    Class ID
+            case 'cf':       //    Clipboard Data
+                return $propertyValue;
+                break;
+        }
+        return $propertyValue;
+    }
+
+    public static function convertPropertyType($propertyType)
+    {
+        switch ($propertyType) {
+            case 'i1':       //    1-Byte Signed Integer
+            case 'i2':       //    2-Byte Signed Integer
+            case 'i4':       //    4-Byte Signed Integer
+            case 'i8':       //    8-Byte Signed Integer
+            case 'int':      //    Integer
+            case 'ui1':      //    1-Byte Unsigned Integer
+            case 'ui2':      //    2-Byte Unsigned Integer
+            case 'ui4':      //    4-Byte Unsigned Integer
+            case 'ui8':      //    8-Byte Unsigned Integer
+            case 'uint':     //    Unsigned Integer
+                return self::PROPERTY_TYPE_INTEGER;
+                break;
+            case 'r4':       //    4-Byte Real Number
+            case 'r8':       //    8-Byte Real Number
+            case 'decimal':  //    Decimal
+                return self::PROPERTY_TYPE_FLOAT;
+                break;
+            case 'empty':    //    Empty
+            case 'null':     //    Null
+            case 'lpstr':    //    LPSTR
+            case 'lpwstr':   //    LPWSTR
+            case 'bstr':     //    Basic String
+                return self::PROPERTY_TYPE_STRING;
+                break;
+            case 'date':     //    Date and Time
+            case 'filetime': //    File Time
+                return self::PROPERTY_TYPE_DATE;
+                break;
+            case 'bool':     //    Boolean
+                return self::PROPERTY_TYPE_BOOLEAN;
+                break;
+            case 'cy':       //    Currency
+            case 'error':    //    Error Status Code
+            case 'vector':   //    Vector
+            case 'array':    //    Array
+            case 'blob':     //    Binary Blob
+            case 'oblob':    //    Binary Blob Object
+            case 'stream':   //    Binary Stream
+            case 'ostream':  //    Binary Stream Object
+            case 'storage':  //    Binary Storage
+            case 'ostorage': //    Binary Storage Object
+            case 'vstream':  //    Binary Versioned Stream
+            case 'clsid':    //    Class ID
+            case 'cf':       //    Clipboard Data
+                return self::PROPERTY_TYPE_UNKNOWN;
+                break;
+        }
+        return self::PROPERTY_TYPE_UNKNOWN;
+    }
+}

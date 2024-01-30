@@ -1,79 +1,127 @@
-<?php //ICB0 56:0 71:ce0                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+/**
+ * PHPExcel
+ *
+ * Copyright (c) 2006 - 2015 PHPExcel
+ *
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ *
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public
+ * License along with this library; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+ *
+ * @category   PHPExcel
+ * @package    PHPExcel_Reader_Excel2007
+ * @copyright  Copyright (c) 2006 - 2015 PHPExcel (http://www.codeplex.com/PHPExcel)
+ * @license    http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt    LGPL
+ * @version    ##VERSION##, ##DATE##
+ */
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-rKFFyV/jC1o/Yrv9bxM1OJ841uGSNwRP0Ewn=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
 
-?>
-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
-bf4REWy3TUP8//D07Vsqt42pXG==
+/**
+ * PHPExcel_Reader_Excel2007_Theme
+ *
+ * @category   PHPExcel
+ * @package    PHPExcel_Reader_Excel2007
+ * @copyright  Copyright (c) 2006 - 2015 PHPExcel (http://www.codeplex.com/PHPExcel)
+ */
+class PHPExcel_Reader_Excel2007_Theme
+{
+    /**
+     * Theme Name
+     *
+     * @var string
+     */
+    private $themeName;
+
+    /**
+     * Colour Scheme Name
+     *
+     * @var string
+     */
+    private $colourSchemeName;
+
+    /**
+     * Colour Map indexed by position
+     *
+     * @var array of string
+     */
+    private $colourMapValues;
+
+
+    /**
+     * Colour Map
+     *
+     * @var array of string
+     */
+    private $colourMap;
+
+
+    /**
+     * Create a new PHPExcel_Theme
+     *
+     */
+    public function __construct($themeName, $colourSchemeName, $colourMap)
+    {
+        // Initialise values
+        $this->themeName        = $themeName;
+        $this->colourSchemeName = $colourSchemeName;
+        $this->colourMap        = $colourMap;
+    }
+
+    /**
+     * Get Theme Name
+     *
+     * @return string
+     */
+    public function getThemeName()
+    {
+        return $this->themeName;
+    }
+
+    /**
+     * Get colour Scheme Name
+     *
+     * @return string
+     */
+    public function getColourSchemeName()
+    {
+        return $this->colourSchemeName;
+    }
+
+    /**
+     * Get colour Map Value by Position
+     *
+     * @return string
+     */
+    public function getColourByIndex($index = 0)
+    {
+        if (isset($this->colourMap[$index])) {
+            return $this->colourMap[$index];
+        }
+        return null;
+    }
+
+    /**
+     * Implement PHP __clone to create a deep clone, not just a shallow copy.
+     */
+    public function __clone()
+    {
+        $vars = get_object_vars($this);
+        foreach ($vars as $key => $value) {
+            if ((is_object($value)) && ($key != '_parent')) {
+                $this->$key = clone $value;
+            } else {
+                $this->$key = $value;
+            }
+        }
+    }
+}

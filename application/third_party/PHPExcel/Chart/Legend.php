@@ -1,106 +1,170 @@
-<?php //ICB0 56:0 71:10b9                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-ayWkVtJpUPEmu7FtxW===
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * PHPExcel_Chart_Legend
+ *
+ * Copyright (c) 2006 - 2015 PHPExcel
+ *
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ *
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public
+ * License along with this library; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+ *
+ * @category    PHPExcel
+ * @package        PHPExcel_Chart
+ * @copyright    Copyright (c) 2006 - 2015 PHPExcel (http://www.codeplex.com/PHPExcel)
+ * @license        http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt    LGPL
+ * @version        ##VERSION##, ##DATE##
+ */
+class PHPExcel_Chart_Legend
+{
+    /** Legend positions */
+    const xlLegendPositionBottom = -4107;    //    Below the chart.
+    const xlLegendPositionCorner = 2;        //    In the upper right-hand corner of the chart border.
+    const xlLegendPositionCustom = -4161;    //    A custom position.
+    const xlLegendPositionLeft   = -4131;    //    Left of the chart.
+    const xlLegendPositionRight  = -4152;    //    Right of the chart.
+    const xlLegendPositionTop    = -4160;    //    Above the chart.
 
-?>
-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
-AG8V6oszbqFjAnhmjQt1I3K=
+    const POSITION_RIGHT    = 'r';
+    const POSITION_LEFT     = 'l';
+    const POSITION_BOTTOM   = 'b';
+    const POSITION_TOP      = 't';
+    const POSITION_TOPRIGHT = 'tr';
+
+    private static $positionXLref = array(
+        self::xlLegendPositionBottom => self::POSITION_BOTTOM,
+        self::xlLegendPositionCorner => self::POSITION_TOPRIGHT,
+        self::xlLegendPositionCustom => '??',
+        self::xlLegendPositionLeft   => self::POSITION_LEFT,
+        self::xlLegendPositionRight  => self::POSITION_RIGHT,
+        self::xlLegendPositionTop    => self::POSITION_TOP
+    );
+
+    /**
+     * Legend position
+     *
+     * @var    string
+     */
+    private $position = self::POSITION_RIGHT;
+
+    /**
+     * Allow overlay of other elements?
+     *
+     * @var    boolean
+     */
+    private $overlay = true;
+
+    /**
+     * Legend Layout
+     *
+     * @var    PHPExcel_Chart_Layout
+     */
+    private $layout = null;
+
+
+    /**
+     *    Create a new PHPExcel_Chart_Legend
+     */
+    public function __construct($position = self::POSITION_RIGHT, PHPExcel_Chart_Layout $layout = null, $overlay = false)
+    {
+        $this->setPosition($position);
+        $this->layout = $layout;
+        $this->setOverlay($overlay);
+    }
+
+    /**
+     * Get legend position as an excel string value
+     *
+     * @return    string
+     */
+    public function getPosition()
+    {
+        return $this->position;
+    }
+
+    /**
+     * Get legend position using an excel string value
+     *
+     * @param    string    $position
+     */
+    public function setPosition($position = self::POSITION_RIGHT)
+    {
+        if (!in_array($position, self::$positionXLref)) {
+            return false;
+        }
+
+        $this->position = $position;
+        return true;
+    }
+
+    /**
+     * Get legend position as an Excel internal numeric value
+     *
+     * @return    number
+     */
+    public function getPositionXL()
+    {
+        return array_search($this->position, self::$positionXLref);
+    }
+
+    /**
+     * Set legend position using an Excel internal numeric value
+     *
+     * @param    number    $positionXL
+     */
+    public function setPositionXL($positionXL = self::xlLegendPositionRight)
+    {
+        if (!array_key_exists($positionXL, self::$positionXLref)) {
+            return false;
+        }
+
+        $this->position = self::$positionXLref[$positionXL];
+        return true;
+    }
+
+    /**
+     * Get allow overlay of other elements?
+     *
+     * @return    boolean
+     */
+    public function getOverlay()
+    {
+        return $this->overlay;
+    }
+
+    /**
+     * Set allow overlay of other elements?
+     *
+     * @param    boolean    $overlay
+     * @return    boolean
+     */
+    public function setOverlay($overlay = false)
+    {
+        if (!is_bool($overlay)) {
+            return false;
+        }
+
+        $this->overlay = $overlay;
+        return true;
+    }
+
+    /**
+     * Get Layout
+     *
+     * @return PHPExcel_Chart_Layout
+     */
+    public function getLayout()
+    {
+        return $this->layout;
+    }
+}

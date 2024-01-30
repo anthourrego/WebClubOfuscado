@@ -1,280 +1,507 @@
-<?php //ICB0 56:0 71:28d5                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-ZoKnMWzj783wnF8sTeTBPkgb7pR7Am===
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * PHPExcel_Worksheet_BaseDrawing
+ *
+ * Copyright (c) 2006 - 2015 PHPExcel
+ *
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ *
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public
+ * License along with this library; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+ *
+ * @category   PHPExcel
+ * @package    PHPExcel_Worksheet
+ * @copyright  Copyright (c) 2006 - 2015 PHPExcel (http://www.codeplex.com/PHPExcel)
+ * @license    http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt    LGPL
+ * @version    ##VERSION##, ##DATE##
+ */
+class PHPExcel_Worksheet_BaseDrawing implements PHPExcel_IComparable
+{
+    /**
+     * Image counter
+     *
+     * @var int
+     */
+    private static $imageCounter = 0;
 
-?>
-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
-ClLSHcU28JMALd2Yd2/B6W==
+    /**
+     * Image index
+     *
+     * @var int
+     */
+    private $imageIndex = 0;
+
+    /**
+     * Name
+     *
+     * @var string
+     */
+    protected $name;
+
+    /**
+     * Description
+     *
+     * @var string
+     */
+    protected $description;
+
+    /**
+     * Worksheet
+     *
+     * @var PHPExcel_Worksheet
+     */
+    protected $worksheet;
+
+    /**
+     * Coordinates
+     *
+     * @var string
+     */
+    protected $coordinates;
+
+    /**
+     * Offset X
+     *
+     * @var int
+     */
+    protected $offsetX;
+
+    /**
+     * Offset Y
+     *
+     * @var int
+     */
+    protected $offsetY;
+
+    /**
+     * Width
+     *
+     * @var int
+     */
+    protected $width;
+
+    /**
+     * Height
+     *
+     * @var int
+     */
+    protected $height;
+
+    /**
+     * Proportional resize
+     *
+     * @var boolean
+     */
+    protected $resizeProportional;
+
+    /**
+     * Rotation
+     *
+     * @var int
+     */
+    protected $rotation;
+
+    /**
+     * Shadow
+     *
+     * @var PHPExcel_Worksheet_Drawing_Shadow
+     */
+    protected $shadow;
+
+    /**
+     * Create a new PHPExcel_Worksheet_BaseDrawing
+     */
+    public function __construct()
+    {
+        // Initialise values
+        $this->name                = '';
+        $this->description        = '';
+        $this->worksheet          = null;
+        $this->coordinates        = 'A1';
+        $this->offsetX            = 0;
+        $this->offsetY            = 0;
+        $this->width              = 0;
+        $this->height             = 0;
+        $this->resizeProportional = true;
+        $this->rotation           = 0;
+        $this->shadow             = new PHPExcel_Worksheet_Drawing_Shadow();
+
+        // Set image index
+        self::$imageCounter++;
+        $this->imageIndex             = self::$imageCounter;
+    }
+
+    /**
+     * Get image index
+     *
+     * @return int
+     */
+    public function getImageIndex()
+    {
+        return $this->imageIndex;
+    }
+
+    /**
+     * Get Name
+     *
+     * @return string
+     */
+    public function getName()
+    {
+        return $this->name;
+    }
+
+    /**
+     * Set Name
+     *
+     * @param string $pValue
+     * @return PHPExcel_Worksheet_BaseDrawing
+     */
+    public function setName($pValue = '')
+    {
+        $this->name = $pValue;
+        return $this;
+    }
+
+    /**
+     * Get Description
+     *
+     * @return string
+     */
+    public function getDescription()
+    {
+        return $this->description;
+    }
+
+    /**
+     * Set Description
+     *
+     * @param string $pValue
+     * @return PHPExcel_Worksheet_BaseDrawing
+     */
+    public function setDescription($pValue = '')
+    {
+        $this->description = $pValue;
+        return $this;
+    }
+
+    /**
+     * Get Worksheet
+     *
+     * @return PHPExcel_Worksheet
+     */
+    public function getWorksheet()
+    {
+        return $this->worksheet;
+    }
+
+    /**
+     * Set Worksheet
+     *
+     * @param     PHPExcel_Worksheet     $pValue
+     * @param     bool                $pOverrideOld    If a Worksheet has already been assigned, overwrite it and remove image from old Worksheet?
+     * @throws     PHPExcel_Exception
+     * @return PHPExcel_Worksheet_BaseDrawing
+     */
+    public function setWorksheet(PHPExcel_Worksheet $pValue = null, $pOverrideOld = false)
+    {
+        if (is_null($this->worksheet)) {
+            // Add drawing to PHPExcel_Worksheet
+            $this->worksheet = $pValue;
+            $this->worksheet->getCell($this->coordinates);
+            $this->worksheet->getDrawingCollection()->append($this);
+        } else {
+            if ($pOverrideOld) {
+                // Remove drawing from old PHPExcel_Worksheet
+                $iterator = $this->worksheet->getDrawingCollection()->getIterator();
+
+                while ($iterator->valid()) {
+                    if ($iterator->current()->getHashCode() == $this->getHashCode()) {
+                        $this->worksheet->getDrawingCollection()->offsetUnset($iterator->key());
+                        $this->worksheet = null;
+                        break;
+                    }
+                }
+
+                // Set new PHPExcel_Worksheet
+                $this->setWorksheet($pValue);
+            } else {
+                throw new PHPExcel_Exception("A PHPExcel_Worksheet has already been assigned. Drawings can only exist on one PHPExcel_Worksheet.");
+            }
+        }
+        return $this;
+    }
+
+    /**
+     * Get Coordinates
+     *
+     * @return string
+     */
+    public function getCoordinates()
+    {
+        return $this->coordinates;
+    }
+
+    /**
+     * Set Coordinates
+     *
+     * @param string $pValue
+     * @return PHPExcel_Worksheet_BaseDrawing
+     */
+    public function setCoordinates($pValue = 'A1')
+    {
+        $this->coordinates = $pValue;
+        return $this;
+    }
+
+    /**
+     * Get OffsetX
+     *
+     * @return int
+     */
+    public function getOffsetX()
+    {
+        return $this->offsetX;
+    }
+
+    /**
+     * Set OffsetX
+     *
+     * @param int $pValue
+     * @return PHPExcel_Worksheet_BaseDrawing
+     */
+    public function setOffsetX($pValue = 0)
+    {
+        $this->offsetX = $pValue;
+        return $this;
+    }
+
+    /**
+     * Get OffsetY
+     *
+     * @return int
+     */
+    public function getOffsetY()
+    {
+        return $this->offsetY;
+    }
+
+    /**
+     * Set OffsetY
+     *
+     * @param int $pValue
+     * @return PHPExcel_Worksheet_BaseDrawing
+     */
+    public function setOffsetY($pValue = 0)
+    {
+        $this->offsetY = $pValue;
+        return $this;
+    }
+
+    /**
+     * Get Width
+     *
+     * @return int
+     */
+    public function getWidth()
+    {
+        return $this->width;
+    }
+
+    /**
+     * Set Width
+     *
+     * @param int $pValue
+     * @return PHPExcel_Worksheet_BaseDrawing
+     */
+    public function setWidth($pValue = 0)
+    {
+        // Resize proportional?
+        if ($this->resizeProportional && $pValue != 0) {
+            $ratio = $this->height / ($this->width != 0 ? $this->width : 1);
+            $this->height = round($ratio * $pValue);
+        }
+
+        // Set width
+        $this->width = $pValue;
+
+        return $this;
+    }
+
+    /**
+     * Get Height
+     *
+     * @return int
+     */
+    public function getHeight()
+    {
+        return $this->height;
+    }
+
+    /**
+     * Set Height
+     *
+     * @param int $pValue
+     * @return PHPExcel_Worksheet_BaseDrawing
+     */
+    public function setHeight($pValue = 0)
+    {
+        // Resize proportional?
+        if ($this->resizeProportional && $pValue != 0) {
+            $ratio = $this->width / ($this->height != 0 ? $this->height : 1);
+            $this->width = round($ratio * $pValue);
+        }
+
+        // Set height
+        $this->height = $pValue;
+
+        return $this;
+    }
+
+    /**
+     * Set width and height with proportional resize
+     * Example:
+     * <code>
+     * $objDrawing->setResizeProportional(true);
+     * $objDrawing->setWidthAndHeight(160,120);
+     * </code>
+     *
+     * @author Vincent@luo MSN:kele_100@hotmail.com
+     * @param int $width
+     * @param int $height
+     * @return PHPExcel_Worksheet_BaseDrawing
+     */
+    public function setWidthAndHeight($width = 0, $height = 0)
+    {
+        $xratio = $width / ($this->width != 0 ? $this->width : 1);
+        $yratio = $height / ($this->height != 0 ? $this->height : 1);
+        if ($this->resizeProportional && !($width == 0 || $height == 0)) {
+            if (($xratio * $this->height) < $height) {
+                $this->height = ceil($xratio * $this->height);
+                $this->width  = $width;
+            } else {
+                $this->width    = ceil($yratio * $this->width);
+                $this->height    = $height;
+            }
+        } else {
+            $this->width = $width;
+            $this->height = $height;
+        }
+
+        return $this;
+    }
+
+    /**
+     * Get ResizeProportional
+     *
+     * @return boolean
+     */
+    public function getResizeProportional()
+    {
+        return $this->resizeProportional;
+    }
+
+    /**
+     * Set ResizeProportional
+     *
+     * @param boolean $pValue
+     * @return PHPExcel_Worksheet_BaseDrawing
+     */
+    public function setResizeProportional($pValue = true)
+    {
+        $this->resizeProportional = $pValue;
+        return $this;
+    }
+
+    /**
+     * Get Rotation
+     *
+     * @return int
+     */
+    public function getRotation()
+    {
+        return $this->rotation;
+    }
+
+    /**
+     * Set Rotation
+     *
+     * @param int $pValue
+     * @return PHPExcel_Worksheet_BaseDrawing
+     */
+    public function setRotation($pValue = 0)
+    {
+        $this->rotation = $pValue;
+        return $this;
+    }
+
+    /**
+     * Get Shadow
+     *
+     * @return PHPExcel_Worksheet_Drawing_Shadow
+     */
+    public function getShadow()
+    {
+        return $this->shadow;
+    }
+
+    /**
+     * Set Shadow
+     *
+     * @param     PHPExcel_Worksheet_Drawing_Shadow $pValue
+     * @throws     PHPExcel_Exception
+     * @return PHPExcel_Worksheet_BaseDrawing
+     */
+    public function setShadow(PHPExcel_Worksheet_Drawing_Shadow $pValue = null)
+    {
+           $this->shadow = $pValue;
+           return $this;
+    }
+
+    /**
+     * Get hash code
+     *
+     * @return string    Hash code
+     */
+    public function getHashCode()
+    {
+        return md5(
+            $this->name .
+            $this->description .
+            $this->worksheet->getHashCode() .
+            $this->coordinates .
+            $this->offsetX .
+            $this->offsetY .
+            $this->width .
+            $this->height .
+            $this->rotation .
+            $this->shadow->getHashCode() .
+            __CLASS__
+        );
+    }
+
+    /**
+     * Implement PHP __clone to create a deep clone, not just a shallow copy.
+     */
+    public function __clone()
+    {
+        $vars = get_object_vars($this);
+        foreach ($vars as $key => $value) {
+            if (is_object($value)) {
+                $this->$key = clone $value;
+            } else {
+                $this->$key = $value;
+            }
+        }
+    }
+}

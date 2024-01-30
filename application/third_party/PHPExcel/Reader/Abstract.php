@@ -1,171 +1,289 @@
-<?php //ICB0 56:0 71:19e3                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * PHPExcel_Reader_Abstract
+ *
+ * Copyright (c) 2006 - 2015 PHPExcel
+ *
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ *
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public
+ * License along with this library; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+ *
+ * @category   PHPExcel
+ * @package    PHPExcel_Reader
+ * @copyright  Copyright (c) 2006 - 2015 PHPExcel (http://www.codeplex.com/PHPExcel)
+ * @license    http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt    LGPL
+ * @version    ##VERSION##, ##DATE##
+ */
+abstract class PHPExcel_Reader_Abstract implements PHPExcel_Reader_IReader
+{
+    /**
+     * Read data only?
+     * Identifies whether the Reader should only read data values for cells, and ignore any formatting information;
+     *        or whether it should read both data and formatting
+     *
+     * @var    boolean
+     */
+    protected $readDataOnly = false;
 
-?>
-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
-aYlZGbSibZ7/UjbF6ueVvF/GFvIN7q+W3B1Q70==
+    /**
+     * Read empty cells?
+     * Identifies whether the Reader should read data values for cells all cells, or should ignore cells containing
+     *         null value or empty string
+     *
+     * @var    boolean
+     */
+    protected $readEmptyCells = true;
+
+    /**
+     * Read charts that are defined in the workbook?
+     * Identifies whether the Reader should read the definitions for any charts that exist in the workbook;
+     *
+     * @var    boolean
+     */
+    protected $includeCharts = false;
+
+    /**
+     * Restrict which sheets should be loaded?
+     * This property holds an array of worksheet names to be loaded. If null, then all worksheets will be loaded.
+     *
+     * @var array of string
+     */
+    protected $loadSheetsOnly;
+
+    /**
+     * PHPExcel_Reader_IReadFilter instance
+     *
+     * @var PHPExcel_Reader_IReadFilter
+     */
+    protected $readFilter;
+
+    protected $fileHandle = null;
+
+
+    /**
+     * Read data only?
+     *        If this is true, then the Reader will only read data values for cells, it will not read any formatting information.
+     *        If false (the default) it will read data and formatting.
+     *
+     * @return    boolean
+     */
+    public function getReadDataOnly()
+    {
+        return $this->readDataOnly;
+    }
+
+    /**
+     * Set read data only
+     *        Set to true, to advise the Reader only to read data values for cells, and to ignore any formatting information.
+     *        Set to false (the default) to advise the Reader to read both data and formatting for cells.
+     *
+     * @param    boolean    $pValue
+     *
+     * @return    PHPExcel_Reader_IReader
+     */
+    public function setReadDataOnly($pValue = false)
+    {
+        $this->readDataOnly = $pValue;
+        return $this;
+    }
+
+    /**
+     * Read empty cells?
+     *        If this is true (the default), then the Reader will read data values for all cells, irrespective of value.
+     *        If false it will not read data for cells containing a null value or an empty string.
+     *
+     * @return    boolean
+     */
+    public function getReadEmptyCells()
+    {
+        return $this->readEmptyCells;
+    }
+
+    /**
+     * Set read empty cells
+     *        Set to true (the default) to advise the Reader read data values for all cells, irrespective of value.
+     *        Set to false to advise the Reader to ignore cells containing a null value or an empty string.
+     *
+     * @param    boolean    $pValue
+     *
+     * @return    PHPExcel_Reader_IReader
+     */
+    public function setReadEmptyCells($pValue = true)
+    {
+        $this->readEmptyCells = $pValue;
+        return $this;
+    }
+
+    /**
+     * Read charts in workbook?
+     *        If this is true, then the Reader will include any charts that exist in the workbook.
+     *      Note that a ReadDataOnly value of false overrides, and charts won't be read regardless of the IncludeCharts value.
+     *        If false (the default) it will ignore any charts defined in the workbook file.
+     *
+     * @return    boolean
+     */
+    public function getIncludeCharts()
+    {
+        return $this->includeCharts;
+    }
+
+    /**
+     * Set read charts in workbook
+     *        Set to true, to advise the Reader to include any charts that exist in the workbook.
+     *      Note that a ReadDataOnly value of false overrides, and charts won't be read regardless of the IncludeCharts value.
+     *        Set to false (the default) to discard charts.
+     *
+     * @param    boolean    $pValue
+     *
+     * @return    PHPExcel_Reader_IReader
+     */
+    public function setIncludeCharts($pValue = false)
+    {
+        $this->includeCharts = (boolean) $pValue;
+        return $this;
+    }
+
+    /**
+     * Get which sheets to load
+     * Returns either an array of worksheet names (the list of worksheets that should be loaded), or a null
+     *        indicating that all worksheets in the workbook should be loaded.
+     *
+     * @return mixed
+     */
+    public function getLoadSheetsOnly()
+    {
+        return $this->loadSheetsOnly;
+    }
+
+    /**
+     * Set which sheets to load
+     *
+     * @param mixed $value
+     *        This should be either an array of worksheet names to be loaded, or a string containing a single worksheet name.
+     *        If NULL, then it tells the Reader to read all worksheets in the workbook
+     *
+     * @return PHPExcel_Reader_IReader
+     */
+    public function setLoadSheetsOnly($value = null)
+    {
+        if ($value === null) {
+            return $this->setLoadAllSheets();
+        }
+
+        $this->loadSheetsOnly = is_array($value) ? $value : array($value);
+        return $this;
+    }
+
+    /**
+     * Set all sheets to load
+     *        Tells the Reader to load all worksheets from the workbook.
+     *
+     * @return PHPExcel_Reader_IReader
+     */
+    public function setLoadAllSheets()
+    {
+        $this->loadSheetsOnly = null;
+        return $this;
+    }
+
+    /**
+     * Read filter
+     *
+     * @return PHPExcel_Reader_IReadFilter
+     */
+    public function getReadFilter()
+    {
+        return $this->readFilter;
+    }
+
+    /**
+     * Set read filter
+     *
+     * @param PHPExcel_Reader_IReadFilter $pValue
+     * @return PHPExcel_Reader_IReader
+     */
+    public function setReadFilter(PHPExcel_Reader_IReadFilter $pValue)
+    {
+        $this->readFilter = $pValue;
+        return $this;
+    }
+
+    /**
+     * Open file for reading
+     *
+     * @param string $pFilename
+     * @throws    PHPExcel_Reader_Exception
+     * @return resource
+     */
+    protected function openFile($pFilename)
+    {
+        // Check if file exists
+        if (!file_exists($pFilename) || !is_readable($pFilename)) {
+            throw new PHPExcel_Reader_Exception("Could not open " . $pFilename . " for reading! File does not exist.");
+        }
+
+        // Open file
+        $this->fileHandle = fopen($pFilename, 'r');
+        if ($this->fileHandle === false) {
+            throw new PHPExcel_Reader_Exception("Could not open file " . $pFilename . " for reading.");
+        }
+    }
+
+    /**
+     * Can the current PHPExcel_Reader_IReader read the file?
+     *
+     * @param     string         $pFilename
+     * @return boolean
+     * @throws PHPExcel_Reader_Exception
+     */
+    public function canRead($pFilename)
+    {
+        // Check if file exists
+        try {
+            $this->openFile($pFilename);
+        } catch (Exception $e) {
+            return false;
+        }
+
+        $readable = $this->isValidFormat();
+        fclose($this->fileHandle);
+        return $readable;
+    }
+
+    /**
+     * Scan theXML for use of <!ENTITY to prevent XXE/XEE attacks
+     *
+     * @param     string         $xml
+     * @throws PHPExcel_Reader_Exception
+     */
+    public function securityScan($xml)
+    {
+        $pattern = '/\\0?' . implode('\\0?', str_split('<!DOCTYPE')) . '\\0?/';
+        if (preg_match($pattern, $xml)) {
+            throw new PHPExcel_Reader_Exception('Detected use of ENTITY in XML, spreadsheet file load() aborted to prevent XXE/XEE attacks');
+        }
+        return $xml;
+    }
+
+    /**
+     * Scan theXML for use of <!ENTITY to prevent XXE/XEE attacks
+     *
+     * @param     string         $filestream
+     * @throws PHPExcel_Reader_Exception
+     */
+    public function securityScanFile($filestream)
+    {
+        return $this->securityScan(file_get_contents($filestream));
+    }
+}

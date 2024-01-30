@@ -1,105 +1,187 @@
-<?php //ICB0 56:0 71:1078                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-Gg9kGVvEH1djKbYuCYaeTxvakQz9JlRe=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * PHPExcel_Worksheet_SheetView
+ *
+ * Copyright (c) 2006 - 2015 PHPExcel
+ *
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ *
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public
+ * License along with this library; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+ *
+ * @category   PHPExcel
+ * @package    PHPExcel_Worksheet
+ * @copyright  Copyright (c) 2006 - 2015 PHPExcel (http://www.codeplex.com/PHPExcel)
+ * @license    http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt    LGPL
+ * @version    ##VERSION##, ##DATE##
+ */
+class PHPExcel_Worksheet_SheetView
+{
 
-?>
-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
-FgFeEXRqEAMq2g+sLm==
+    /* Sheet View types */
+    const SHEETVIEW_NORMAL             = 'normal';
+    const SHEETVIEW_PAGE_LAYOUT        = 'pageLayout';
+    const SHEETVIEW_PAGE_BREAK_PREVIEW = 'pageBreakPreview';
+
+    private static $sheetViewTypes = array(
+        self::SHEETVIEW_NORMAL,
+        self::SHEETVIEW_PAGE_LAYOUT,
+        self::SHEETVIEW_PAGE_BREAK_PREVIEW,
+    );
+
+    /**
+     * ZoomScale
+     *
+     * Valid values range from 10 to 400.
+     *
+     * @var int
+     */
+    private $zoomScale = 100;
+
+    /**
+     * ZoomScaleNormal
+     *
+     * Valid values range from 10 to 400.
+     *
+     * @var int
+     */
+    private $zoomScaleNormal = 100;
+
+    /**
+     * View
+     *
+     * Valid values range from 10 to 400.
+     *
+     * @var string
+     */
+    private $sheetviewType = self::SHEETVIEW_NORMAL;
+
+    /**
+     * Create a new PHPExcel_Worksheet_SheetView
+     */
+    public function __construct()
+    {
+    }
+
+    /**
+     * Get ZoomScale
+     *
+     * @return int
+     */
+    public function getZoomScale()
+    {
+        return $this->zoomScale;
+    }
+
+    /**
+     * Set ZoomScale
+     *
+     * Valid values range from 10 to 400.
+     *
+     * @param     int     $pValue
+     * @throws     PHPExcel_Exception
+     * @return PHPExcel_Worksheet_SheetView
+     */
+    public function setZoomScale($pValue = 100)
+    {
+        // Microsoft Office Excel 2007 only allows setting a scale between 10 and 400 via the user interface,
+        // but it is apparently still able to handle any scale >= 1
+        if (($pValue >= 1) || is_null($pValue)) {
+            $this->zoomScale = $pValue;
+        } else {
+            throw new PHPExcel_Exception("Scale must be greater than or equal to 1.");
+        }
+        return $this;
+    }
+
+    /**
+     * Get ZoomScaleNormal
+     *
+     * @return int
+     */
+    public function getZoomScaleNormal()
+    {
+        return $this->zoomScaleNormal;
+    }
+
+    /**
+     * Set ZoomScale
+     *
+     * Valid values range from 10 to 400.
+     *
+     * @param     int     $pValue
+     * @throws     PHPExcel_Exception
+     * @return PHPExcel_Worksheet_SheetView
+     */
+    public function setZoomScaleNormal($pValue = 100)
+    {
+        if (($pValue >= 1) || is_null($pValue)) {
+            $this->zoomScaleNormal = $pValue;
+        } else {
+            throw new PHPExcel_Exception("Scale must be greater than or equal to 1.");
+        }
+        return $this;
+    }
+
+    /**
+     * Get View
+     *
+     * @return string
+     */
+    public function getView()
+    {
+        return $this->sheetviewType;
+    }
+
+    /**
+     * Set View
+     *
+     * Valid values are
+     *        'normal'            self::SHEETVIEW_NORMAL
+     *        'pageLayout'        self::SHEETVIEW_PAGE_LAYOUT
+     *        'pageBreakPreview'  self::SHEETVIEW_PAGE_BREAK_PREVIEW
+     *
+     * @param     string     $pValue
+     * @throws     PHPExcel_Exception
+     * @return PHPExcel_Worksheet_SheetView
+     */
+    public function setView($pValue = null)
+    {
+        // MS Excel 2007 allows setting the view to 'normal', 'pageLayout' or 'pageBreakPreview' via the user interface
+        if ($pValue === null) {
+            $pValue = self::SHEETVIEW_NORMAL;
+        }
+        if (in_array($pValue, self::$sheetViewTypes)) {
+            $this->sheetviewType = $pValue;
+        } else {
+            throw new PHPExcel_Exception("Invalid sheetview layout type.");
+        }
+
+        return $this;
+    }
+
+    /**
+     * Implement PHP __clone to create a deep clone, not just a shallow copy.
+     */
+    public function __clone()
+    {
+        $vars = get_object_vars($this);
+        foreach ($vars as $key => $value) {
+            if (is_object($value)) {
+                $this->$key = clone $value;
+            } else {
+                $this->$key = $value;
+            }
+        }
+    }
+}

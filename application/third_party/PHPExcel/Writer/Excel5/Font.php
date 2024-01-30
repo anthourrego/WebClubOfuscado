@@ -1,129 +1,166 @@
-<?php //ICB0 56:0 71:13a6                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * PHPExcel_Writer_Excel5_Font
+ *
+ * Copyright (c) 2006 - 2015 PHPExcel
+ *
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ *
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public
+ * License along with this library; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+ *
+ * @category   PHPExcel
+ * @package    PHPExcel_Writer_Excel5
+ * @copyright  Copyright (c) 2006 - 2015 PHPExcel (http://www.codeplex.com/PHPExcel)
+ * @license    http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt    LGPL
+ * @version    ##VERSION##, ##DATE##
+ */
+class PHPExcel_Writer_Excel5_Font
+{
+    /**
+     * Color index
+     *
+     * @var int
+     */
+    private $colorIndex;
 
-?>
-HR+cPot+MxVsHg2uZqpEb0gKkEE25r3qRVUPwTuLJkrhjy+QKUjT18tdXAmKidJ3aEUNeQBzaF12
-eiN9fBm1lftv7EJQE36yw7vL06abIr0jHJRJ2Gj7je8aSK+uiSyoOQ37EvuFPKVWvS8KptvVQfmI
-qzp7RpuAIVzaZEWithaW72nQ4Hs9CTuJbcaTeaiCqprL558tu3KK/pY0N58ap6c3dfJ6r4XGyZbG
-xH/CUYfBW8Nx4qzG3HV93idYb32sMArsaZUtTrGJ2Ep7ze+UZQ3bost0IjM5QRepqqEmzHut5sUS
-+V3AGoI7msH4XMIHzcRqbCU1PbnMKRmmqIps5c5CQqJaPqpUYi3pwps3IL/QNysDLkZfKUow2DB/
-d20krcyA9YshE8WHbl9A5xNHbyV79Hhm4cy3NTtqBkRFP/lkmXscSeB7riT30V/m6/SI/HvdhPL+
-PsTk//WlJkRH6shA4panTJ4tX/oO6XQ7o5uVxS2M2Xg3tKQa9VXpcQuWRQKxDgcpQK78le0RKXVy
-WeLnjAEo1qCkvTcGSx13myeQBKR5zFaYiIRcem/jo8MKUWwRyX2rcZ1eyythRFnebiS52hBmVZMg
-AOcJ/BWjil4z0cvWU5BafcfLIqAeV5liwmHsVFwRvekLu20C/m6XXvUC/yDMWgUTj7PMwix78Dqj
-rUGX4trh9B8l1EVpTefhL3VepT6NSOUR9uSbPUPoP8aL5ylRhDJ2UXSpq3aqm1g1EFskoHlliPZQ
-Jo7jX80Vf/PUtWCuDx/dt6mdEKj6MiEN18hSZN92FG14ulIXaEr+fiLYFRac5PTZuFIQyV2wXlRa
-/25J/il6837kqcSiQenZYdCiAInZtmYmOKdWIZFEDBRKpwCTDCFN6NEsIVvcZ2lKzhyjM56M09in
-Hk07oeCTkc9OKEY/Tfui4cK+BUoFUE9kYfnHp03FiLAfGrz6s6rzr46vjUeloEVIQ9akXYIFuOB2
-ZOtBvy2weti169k3U+i/8XaYH8PKO6Cn5UQJVrr3WcnleHeSTSnCVynoJLXjRe55n+NL3yCKqht+
-JKmZrlNVVo+jXaN5CprTe3j8NO0lrWT6ZZPku+qDoA2dxNBdgObFZtDh4ByzDKMk4O7S6XrUPiZq
-TubQiD8DErRTkwEDcvJJV1DolGOaSkFroZzcfUpHp08EmJVIeRPHJonbiXh6Ku/AuQV2MmABlMgN
-yA32FNQWerZzGtuHbljaJ8vUpHbN6jCpXogY/aGxi9VnLYpFVjoAXd8UvXz6q1e8anZGXSTwSGxL
-dBReQlwmqQsBFWm1EPzpd2EwzLgAcyXa4JVAQ2NjzY8/ex6zfVqP6vCq0/yWykStZSmK6Cxk9ns4
-dvvgSSHQ3gTXrGpZH8rUCSFJc2rBY+lE3kNJwgTN7TV0Nd2jcC9K2cAGZJC7im9a7f71v5QTCIcv
-NdXq9xFsO4zivY5jmR7mKOESR6d1HkhFsXdi3rnj7S+4s1oQPBxf3uVedeYe95TUCytXfxiO+t7J
-nb+fPZ0Y40u3Y/f3eegECWrVP7kljE6/h33dvCOvLGCAzupO/Hiw7YettL7WNemZsf6mZJdVf807
-Z0t/fYXl7pSNQLODKWUQX+0IMQ5Vk+zsE0/tUQjFgywjQ2+7CkrDU1MqJtHXXJ2LicKgqv93tVFE
-DlxxU3RHu0PDN5XK6UK5EobtzUC4WUbfqoCeTo6+MlckCD2H6iprTB38Z50B86MuyCzBnDAvsOJn
-8uwWKg1RHzuOhkGr606F4aBnXNHDmtMJAiAClZqPkH3j/8MttREq5SA0+SdArTfVdX9l1HFHuEGW
-yRbpYitRsEydkyza5sqUu0n9iZMTrF2Yb/9+RwYOmWuQRzc/2t29pXT2mfTh4wUp4IEqeYgH5H1b
-tJu3Z2X1cT4NrhAHpKUkqKZrRPEp/AUYgqanH5Jlexk7rd7O8M6n3Xh/YeY7OD/AsI3PxpyR7uvi
-0Oez9WWQleNunUxRhQ560WHHzX1d6rIr300EACrh/V6uqgB5Uh3qCWX183fYpqLhbdbV4IIVxVRA
-P2upJ/hRTIIyTcvCw/JXgX3YE0AZkfAhur69zs5NXF7SNlBRQ/cQlnpP20dQBWrH5FGP+UrWNNZ7
-OOd3vPFrdrDXA9ki1qkpjl5bP8phqUSnSB1ZEwN2DjQ+xpjYDx4wQWQ5WG6J9GhiGnazZGqYXe5e
-EHOdr8EwGqNYmSs221fMpgtzv/nfYE27vLUhYY5cUoNKinoVCWmohmuwbv8JTomYophd8lsNOS5Z
-TaGBz6TRnm+LEeW21IVtSGW+8cNRVbtPwGLYSCNFmP6W3dzxZzhherxGQ1pQGLOfnHGEvixEJoZN
-9nq/7wbGPxaR05U57Ec1M3FImC/EFoxHDz186B6CwaZBoaCIcPOSwJlvmDolS14tQzpEJKL0pZGI
-1+sAI1ppAnKcCyECdySXMzExGt057N/PGkkSUno7l2gRlncqGvjJ5q4sey6Th/UQ4zRVhy4OSBUU
-dAP3yDUcTlhsX64v/09A6gHGoocemWsIurdLqS70oPIS5CgeR2R0iNlJ/WGuTZj+Vqg1Stak/9oU
-umNsI7XwIJbxTyNQmXMJlvs7YkduZbsyj7bvM8BxMUBfij/Ii/h1vCOn+vaZRaMkdHaXdb9h7U+W
-vUvA1zzgJ8ArhyOB2a/XZYDoZ4DihCRxEmu8iwOA4MMKmim0YucZ3EcC33SscGX93DlCudw4VHVs
-5sfX/nM85RCK+00PLY5h+fXFOP+z7ngBGBI6slsYJ2GoDf64yhcZOBkuqJvX4+FSefcUwKBKkDvx
-JzQO0FyBY3DkyRoSJ4W32Xj2J8AMu5sf4Nga7Gcj4jsqdg4PJpcIpLkdntAoBCTZy3Yv+VpO3sa8
-lsMCe8H4AkrVXtovWCsgyrZuCZjEVGbhPb3dWPPONZijd+cDSPLRuWK/G5oJGm3O2R3i1QVDJpDk
-iYbZGmcPN1cQguzbiVb75TlzD0NUvxpXukB1pQTkFz+RiSDTCPcNOVhA7XoqFxQt1bk6dnRkZsj0
-LBZ/95LSLJvfVLVf6o+p+1lU5xA6IxTtP62Qc5tvpHkLsopyCsAN/bV8cJrrp8HEs0WU1GzW+pJp
-cEPiTOShwhwmRx3qFHjHE44ntcNBLMlYzqyQnx3yBzvRNuVfKxaEJ/U6ld+Nj2Dvz0RpI+9VjHx7
-A+6XTR0I62ygQ5CfpzyGEWE8d/Hv9UJ0aPzsPqQWjLIKmvZCTfzinhMhwZEB4qTelp2ssVqjCGJx
-oaX+n7a1r7AJW22RKq5fafFHdvrNWRqlxayBEYKTu+ryNbFn4O3nCM5f6fY0cwcBtBExhDZP/GWw
-vBCwH9ZeQ1tCIfJcqvWzO1A1GE+Ndgzgpv0uAOxT/eZOE3q8eMlmoefGrJAlldhu3upl+JRiRBcs
-oAvycqAzH/+aKVRS+ZTij6idShOaSP9AxbYht2yKTCfRQvP3q9rPntMqAHzE71N3E2m9k6iB8wPz
-clT0nJEKiKVx6uMWPYa0i8sg4V8OfttbLQ5v6ckhDpIZI9IqMMN0Wg4g5Z16srDneUcIZ02j0/fZ
-OkUSjRLe4FP8e6tu2V6PWtiRyP66HDPNyM7ZqRU0WQXCHMJNGIeSK6pRg83RgKVDMjjd4ecKp5qO
-9LEqnGVS2oak1UtTtcFchSFZpON22eTN3AiLKjwiXIGQr77/suBRs6Hg6P/kVQrhFQiVteVChyXd
-zmg9Ps/EV8DeUcKp87pHyLJO++cfMu8VLBLBzyc9Er6qiZ5c/pbYD7BrmzXxp41fw0yRr5qPP9I1
-E+PuF/kTBA8/N2e5EtgpqFFfgwPulxhxTQ1A4nwm7xoP9iUtrFyNWzpcUw4tB6qKQj6H3aP0OWx8
-e/tNUm/ywAKbIxykEg8EzPFrhS5vlVDE2aaVboUSE3FqLkwnmYOvi3tZhYoxHUt48ymDHrWv7idt
-juonWuYhSt6kvOjA3GA3AkPRl/+dx4SctbtDxw0kVyplHmZfwEQFVbdD9wmVWg+8are5KpWdyYvr
-wP+Uwltz6TrwM+UvG4VF2/WXltrD+uIx0OP+YGV+Difb1jvZ3JWwC+6nG3y9g89olGC2OQs0Wdtx
-Y4zM46hK9Lfo+TXzWW98b6S+B9dQPf4+7/i3KWKQx/NGXMGFHJz/xV8v0Z1VdWoeI7CZ7rxP8wHZ
-luBGTx6f9v16rVV2e2iIFvtxhb78myBeXjQSi55PAr+g/skrILu3vyhMlMOv6B4ibGh2IjolDfWc
-tM90OLwZtKsycl0l5rV5YFq10jNWVqxIhQhTEkFVdaTUfITfZuPD1wv/jeE06jQD5dublQfRNPa/
-WPiNxMVnd5vo/pPJSMxKDEPz3KzqPxE2H4PN3drWTvxZT4OVnRwsbWHiAl9OIT+Fn/l/GkHdxmMM
-ajwO6WBkcR01NHgr4ukCzDKS7kx2z9csSU2K+AnufNq+s9HS54bETp7PvhtBeH3VV9F+BB10Ev+t
-whxU0iGDYLKfrNVsBNxyt/Iyi3gGhyaDS+njGAFaBS96Y2BmqCQUmYeuNK4h8onVgFAUSXTGJjTY
-BpaxCDLrnoIDSyFx8Lxg7QRF+pAgjuX4PdhWTikZhLtVk302DQtHWFcJx6bGCwpnl5iE/y4S7kXE
-aBzcG5WDJ3X8b6Ik6QvKY8sOqTy4v3NtBQYl37R6HW==
+    /**
+     * Font
+     *
+     * @var PHPExcel_Style_Font
+     */
+    private $font;
+
+    /**
+     * Constructor
+     *
+     * @param PHPExcel_Style_Font $font
+     */
+    public function __construct(PHPExcel_Style_Font $font = null)
+    {
+        $this->colorIndex = 0x7FFF;
+        $this->font = $font;
+    }
+
+    /**
+     * Set the color index
+     *
+     * @param int $colorIndex
+     */
+    public function setColorIndex($colorIndex)
+    {
+        $this->colorIndex = $colorIndex;
+    }
+
+    /**
+     * Get font record data
+     *
+     * @return string
+     */
+    public function writeFont()
+    {
+        $font_outline = 0;
+        $font_shadow = 0;
+
+        $icv = $this->colorIndex; // Index to color palette
+        if ($this->font->getSuperScript()) {
+            $sss = 1;
+        } elseif ($this->font->getSubScript()) {
+            $sss = 2;
+        } else {
+            $sss = 0;
+        }
+        $bFamily = 0; // Font family
+        $bCharSet = PHPExcel_Shared_Font::getCharsetFromFontName($this->font->getName()); // Character set
+
+        $record = 0x31;        // Record identifier
+        $reserved = 0x00;    // Reserved
+        $grbit = 0x00;        // Font attributes
+        if ($this->font->getItalic()) {
+            $grbit |= 0x02;
+        }
+        if ($this->font->getStrikethrough()) {
+            $grbit |= 0x08;
+        }
+        if ($font_outline) {
+            $grbit |= 0x10;
+        }
+        if ($font_shadow) {
+            $grbit |= 0x20;
+        }
+
+        $data = pack(
+            "vvvvvCCCC",
+            // Fontsize (in twips)
+            $this->font->getSize() * 20,
+            $grbit,
+            // Colour
+            $icv,
+            // Font weight
+            self::mapBold($this->font->getBold()),
+            // Superscript/Subscript
+            $sss,
+            self::mapUnderline($this->font->getUnderline()),
+            $bFamily,
+            $bCharSet,
+            $reserved
+        );
+        $data .= PHPExcel_Shared_String::UTF8toBIFF8UnicodeShort($this->font->getName());
+
+        $length = strlen($data);
+        $header = pack("vv", $record, $length);
+
+        return($header . $data);
+    }
+
+    /**
+     * Map to BIFF5-BIFF8 codes for bold
+     *
+     * @param boolean $bold
+     * @return int
+     */
+    private static function mapBold($bold)
+    {
+        if ($bold) {
+            return 0x2BC;  //  700 = Bold font weight
+        }
+        return 0x190;      //  400 = Normal font weight
+    }
+
+    /**
+     * Map of BIFF2-BIFF8 codes for underline styles
+     * @static    array of int
+     *
+     */
+    private static $mapUnderline = array(
+        PHPExcel_Style_Font::UNDERLINE_NONE              => 0x00,
+        PHPExcel_Style_Font::UNDERLINE_SINGLE            => 0x01,
+        PHPExcel_Style_Font::UNDERLINE_DOUBLE            => 0x02,
+        PHPExcel_Style_Font::UNDERLINE_SINGLEACCOUNTING  => 0x21,
+        PHPExcel_Style_Font::UNDERLINE_DOUBLEACCOUNTING  => 0x22,
+    );
+
+    /**
+     * Map underline
+     *
+     * @param string
+     * @return int
+     */
+    private static function mapUnderline($underline)
+    {
+        if (isset(self::$mapUnderline[$underline])) {
+            return self::$mapUnderline[$underline];
+        }
+        return 0x00;
+    }
+}

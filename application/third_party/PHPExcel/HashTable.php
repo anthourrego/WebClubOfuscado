@@ -1,139 +1,204 @@
-<?php //ICB0 56:0 71:1503                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cP+OIEd+li9vmjjwlN3vWQArgY63riJNEvEus9vEVsDzcgrRg/Vtv+jNFsq56G1cKyuU3AluO
-nCQrDocn2qpf3irW5v83wP3049heExgaWeDmfu78Ag10Y0dRzs1edQvfbZLajWmV0ZVkrh5YkChV
-+Rz+YmRMneOMSmk9wDB6XVLEy58r4BrgthGj+ZR5+nVKBB96wI7E40f9i2KYa3ipFIf+JPaaSp2/
-K3AndnjaNemmy03duroA4kqxl0ebsAiBidIeAaNV/KB5N+HqLv69daKXh8mfRCE/fStTuD/eBD7n
-t+054kJkD6LmhGY2z7DK2bKK+D4BYqQED0l8CwM3qBkSMcUztSO/ZxwBOBkBmV2Jz+YUyOlopoZH
-BaNm/viatcjn2w3Gl7nsoHnaXoUk3rByWCQmebE6H9fj0CN0Rf0Z159TSCUoFoAM1JtZrYDd8WHd
-YEOHlIJ/MOUqYtXNw0XRR9mJYrSNt/xZFrYNytaTQVNQvr1I6MIyrBPa3RlZLi2iFp9rO7AAhhAM
-ysJhykvRnCtNOVCTUQV8RH63eWeOSllNCRaK266q0rLqHNWVfUkvx3USV4Uz/HO/cn82+LP2oZvx
-M779PUYIQZGQFPIaAe2pqWG3up4rqpHe5zfhY4lFVArLqg1w0mvvcvhtUm8DZ9kT5WyYEyES3+co
-idV01FGvFxcMxdNeuKBe0u9ki+M4zNUOQq5iOEyrePwN6lNR8pBKK5D8oj3IcQjCJIADQhbFydYG
-zRpCEUo0sE86Avya7pMDIM44W0C1uTSL7mvXdwonvX/IFms7fudZFdAgfacTzdHMBS3g6tcZpmmB
-QhBasBQOGkAY7CXlqAH9AHnh2ax3E26VPKhVA4ft5mvHrLgD93Tlk82DggSmzLanSA561nxLyMk2
-XufA8g+PAH5BK4tmIrvW0YtG/snyBrfr5U8dzYMfyZhTGg8Hi/V4YD6+yjyXft/kU7ebcCoqTgGm
-xEd7NskI1Iuqc1M8/ozl0KJM5Y+MQM0BrGPM8H3rZj/of1D97+/N/YIBgW08pM7/WNVb2wv/nWk6
-eT6ygqtUMzspv1SKaFs7AhKhQ0U2lHziodt1r7yBtUyXLnCMLqdfDSJeyAT0+qhl1WCMCe5LBT28
-UTMB1XCDKk4kcwUMQIdldNzSUGPoHjEIH9FNOG+9BDM9I7BrvdZceSQ+2i+MrKZIJtiSWTBboTKg
-6fYhjaIlEGJ+Pz+RZKVkVsZxmatald0YS3CHXIbC0TfkY5sfsGI+a6qql9zFlGP8YViOo32PH34u
-Z6flaeJfM2XP8EQz1tViH+9NMDlLcYVtSnnzYrzqYyEF9qWthJhJB9LrP4be+YcWLpDFphixKyVR
-XD8ZXxwVLUGM9zgCxt2BBd8+UbJaYBWofuS+f1xMfM1mlFjjBvbZ0jiO0EgNANj6h+Qx5c8L6TSn
-rSXgV4m8zR5lgeT9XcqIN/pQ15km6lYAbdrBm9b3CEMjBMx0p9N0EPWG1cilRe4Rdf2h03BiTSG9
-m4YhHfjzMOGjYFwWFU1ndk3bhEuZCg9p4P/G0pkp72pQKTmHIIzWya5MXrELRk/MWPzQZCruEkRp
-XtUkaW5XYXOFKcndMraqn3aBmhPXJLmAY5+wubRKKNodTH6pDw6+UDu0QgFR6KepSfqdVez4TnM1
-/zK4SyeG1qHigowj6CDsOSSc3GWijW6vwC4F6qenf4E/tTku9iaUaw998Vcgz5cpIZ4DI4WEtuyx
-0ECRGYndvOrCzWC4lZ1M7O2uQODfQ+bCys0Tqv0c/Pn8Dm/8IwrrTfJxBuyAvk1I0vF9g6wXNyOw
-881uDA/XAQr4vDAzGTkytgdIn86ADlFxmuImZatPTpk2aURgCA4k+Oj2r5lTlX2qd73IfelF9nIf
-XtxFvAjRXsLcZARbCaiV3+BsYzx6qTjpsPiluJ4P+K631OvzFguwys0r9qo4ZnCOrncfS3ii/4/Q
-E/XUjO+az1QYjPsJyJypckqDm0zPghEsJiPB/0a0tve01WKwjZ8rhmZe6GsR4gXnXd2I/kCHGIcx
-qN7/M/AWjJTPkEi8IDyOI6JoZRxm6kLxTy9Uc5lAGMiw1JyQNTk7QqahwFK5sOQ8+24qR2gk10vJ
-OVpJbJgxrXxdhoJOzOF91LD73gWg41+1IbRylWx9RaO6exuuTNMe1ASnvjZVIUPCq1ZCHbmJDW9Z
-eB7WcW15O/sjC12iZa/t2Vu2UhivCM9CEKQb7mUD7WEKdTl2rlrc7BAZArXnO+1tOCAxWxrSUpMo
-6tTNZbbwsRla7U77jaTFRuid/m5pAKQpVmQtYjdtYSY77t0Fq3kxbcWpKcH849VeCimWOeghoVMf
-aRcSxpbSHWeqDnewXD/iOorFN1LlYU9ka8ml6bkTA+OqLR5wjW9tTZriU8b+2pY2CrvVm7EJyYTq
-KB52I02OOlEvqe0PXkOt0AT7AGGbubhtbkzwwaand9DEy8OVn3DVPpgWd2AMupiuAZ18vcu1FX3L
-Q1xKWWkdcQ18NfcXDiFXVcA9k4NC6RxHzEfFBnS3qgOqcYSgE2zufhtOFKARmaThVcPsiqBb/Be0
-vasKDDAq1/V+bKBsGnHriLXE6C6txAR/J/zrEn0nraI3B1iQ9iNWzq9OlEcmc56GeDY/xfrVPwxs
-IEx2SX0UWtIO67Y4AkQGX8zL43EFzT0CT4ZJxQnt2exNDOlqD1YJs4m7YaidImt0NBl3NpBzy/fm
-d6ysaaDR2pJ0cSlqvdXzjPbacsTPTe9wCo1kusnb9BVROiNpfFA7m/K6xce0kTy1uMkOaInJq9KT
-HqRXpnv0fHJzE36vAsKodpgY3K+Stcjd/on+WMk36MeeYoUsM6CIsumHyOeABMijQ7aERhFc/wle
-bpaDi7GcWZRW0ik8uM0kx6iMJKdjz78uo9cPpdOKbKxsfiYwHtNn3Cz2miqXhYTO+1AMPcDdvphH
-xLs0FZVTcSBZegODcJQKJ9NJ9WvSHZbxt4Hl5mLuC3Ql5OGV45pSceGHdq/5QT8b7qHAzNhNd1tc
-JW11A4yueUX5a/MRR8hA0aI9gEJ1R7vDDqXYUVDVj30Be9piBntHz391A0L76biYFwCNL7c40Gc7
-a3iXGD+hvegl0t9k7AdOSWdQ7A6JoeDaBUPDhJIxJ5Yd8DKfqvP59aCROxzvRa4uX0WMQe7dLm+q
-4GI5lZstErr++QNwRyOVauFobczwv11ED83orSRNej1vNx91zSFcXIUPBcnEI292o+bN7iuDutyB
-DvSMZlBrxla2UwxPMT4jXn/xEjVEvCwEpAbQ5rVhQ5fmzRySL83HSsSLK5a7h8ZpSp8oh7xeIU9R
-Uar346K7L4XHMyeJuglYfQqOyxoyOT2S5wqgnKSxvKRzS/YOUywpmozjupTcltSaHgqQOBTDDDx6
-X8oRdndGZBRGDBrqOnw0BzE9O8M8/cuGxxg+zzDRbciTaiP9Y8FtBg+FraTvNNy45Vf6mYXRDnoE
-Ou+rbNuCB6Ny15D1qs2eH4htNaGmgeBESO3MREmJ2l5UqWnoIfcmD2DvU4aM+V2OSn2yg4eFQR5+
-oEUxZjOP4zc/QvKphh5n0FMUNp3oNpUAp5pax8krGm/MAb1XW3XgW2zcULR2HVY4OqjkxbAPRam6
-hplIx65WOp4nOnpv5iQRxFEbZHJsnvLrz6tmtvynjsHlMkfpbHE2LAPOwxi+ByN3jm66gQH5bg3x
-y4bY/t4ww9GUcPAjKOg+2ovIfgxNKmglh6Jv5xK4xsc0gx6GqS93LffFV6MORJEk9cXIEpZs8Ovt
-yF9h4EK9SEawLZqcdhfXj+m8D0MU6dq6HUVZK232aooXh+V6gJu1dk7eoTrdEoD/Muup5FSUaZGl
-msrcfGclMnDRPbdF61YEECYjwSSj7Prx3IX3LpJjNdtJ/oaYgi0jfP2ODmReEEU6HPt73nR2DSRt
-1KeDoHwpk8TMFZFcOVBE6f+z+FxdxoysTbNSbeXFOyRVXbfpPxbw1HOGDrBo9eNSeTRc8WS3mClw
-HiHyp86dGuo4teQixQsRpcJRT7KlFOWRWS+uci61wpR5Gz852Z4dDlwZ4fDVsxe7afxRAvF8xfSA
-IXoCrW9OHYffsg3hKS0q6/+6DF2WSq/Eh3NWjFbE8FgpEX6g+FRGJhrmYH78+zTxdC7eMgyznI0O
-mSXlU350bMI7BR6ZhJ6ibNoza04H0QAgrsUG6qEZL28n1o9q6fd0nmI4ogZj+GJZwf3NiE5ArSnr
-yv4aDCLsCAdrPr6wXHH1T6S3xaT3KFNsPbmP+N4uchfcQkvBspFEniiGyjY5W6BLO3y+b6kpVPnS
-Qmu/oBb6wY5O04LylgENTXnKwQbFVk02LbbCEHlzd2mXlZQ1mkcKlJ/0CIRHC/yCue2tUeQBm7RG
-vckUtwa3XF3/lxI3k7t6AMTrzw0fbkg/F+tIpW===
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * PHPExcel_HashTable
+ *
+ * Copyright (c) 2006 - 2015 PHPExcel
+ *
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ *
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public
+ * License along with this library; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+ *
+ * @category   PHPExcel
+ * @package    PHPExcel
+ * @copyright  Copyright (c) 2006 - 2015 PHPExcel (http://www.codeplex.com/PHPExcel)
+ * @license    http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt    LGPL
+ * @version    ##VERSION##, ##DATE##
+ */
+class PHPExcel_HashTable
+{
+    /**
+     * HashTable elements
+     *
+     * @var array
+     */
+    protected $items = array();
 
-?>
-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
+    /**
+     * HashTable key map
+     *
+     * @var array
+     */
+    protected $keyMap = array();
+
+    /**
+     * Create a new PHPExcel_HashTable
+     *
+     * @param    PHPExcel_IComparable[] $pSource    Optional source array to create HashTable from
+     * @throws    PHPExcel_Exception
+     */
+    public function __construct($pSource = null)
+    {
+        if ($pSource !== null) {
+            // Create HashTable
+            $this->addFromSource($pSource);
+        }
+    }
+
+    /**
+     * Add HashTable items from source
+     *
+     * @param    PHPExcel_IComparable[] $pSource    Source array to create HashTable from
+     * @throws    PHPExcel_Exception
+     */
+    public function addFromSource($pSource = null)
+    {
+        // Check if an array was passed
+        if ($pSource == null) {
+            return;
+        } elseif (!is_array($pSource)) {
+            throw new PHPExcel_Exception('Invalid array parameter passed.');
+        }
+
+        foreach ($pSource as $item) {
+            $this->add($item);
+        }
+    }
+
+    /**
+     * Add HashTable item
+     *
+     * @param    PHPExcel_IComparable $pSource    Item to add
+     * @throws    PHPExcel_Exception
+     */
+    public function add(PHPExcel_IComparable $pSource = null)
+    {
+        $hash = $pSource->getHashCode();
+        if (!isset($this->items[$hash])) {
+            $this->items[$hash] = $pSource;
+            $this->keyMap[count($this->items) - 1] = $hash;
+        }
+    }
+
+    /**
+     * Remove HashTable item
+     *
+     * @param    PHPExcel_IComparable $pSource    Item to remove
+     * @throws    PHPExcel_Exception
+     */
+    public function remove(PHPExcel_IComparable $pSource = null)
+    {
+        $hash = $pSource->getHashCode();
+        if (isset($this->items[$hash])) {
+            unset($this->items[$hash]);
+
+            $deleteKey = -1;
+            foreach ($this->keyMap as $key => $value) {
+                if ($deleteKey >= 0) {
+                    $this->keyMap[$key - 1] = $value;
+                }
+
+                if ($value == $hash) {
+                    $deleteKey = $key;
+                }
+            }
+            unset($this->keyMap[count($this->keyMap) - 1]);
+        }
+    }
+
+    /**
+     * Clear HashTable
+     *
+     */
+    public function clear()
+    {
+        $this->items = array();
+        $this->keyMap = array();
+    }
+
+    /**
+     * Count
+     *
+     * @return int
+     */
+    public function count()
+    {
+        return count($this->items);
+    }
+
+    /**
+     * Get index for hash code
+     *
+     * @param    string    $pHashCode
+     * @return    int    Index
+     */
+    public function getIndexForHashCode($pHashCode = '')
+    {
+        return array_search($pHashCode, $this->keyMap);
+    }
+
+    /**
+     * Get by index
+     *
+     * @param    int    $pIndex
+     * @return    PHPExcel_IComparable
+     *
+     */
+    public function getByIndex($pIndex = 0)
+    {
+        if (isset($this->keyMap[$pIndex])) {
+            return $this->getByHashCode($this->keyMap[$pIndex]);
+        }
+
+        return null;
+    }
+
+    /**
+     * Get by hashcode
+     *
+     * @param    string    $pHashCode
+     * @return    PHPExcel_IComparable
+     *
+     */
+    public function getByHashCode($pHashCode = '')
+    {
+        if (isset($this->items[$pHashCode])) {
+            return $this->items[$pHashCode];
+        }
+
+        return null;
+    }
+
+    /**
+     * HashTable to array
+     *
+     * @return PHPExcel_IComparable[]
+     */
+    public function toArray()
+    {
+        return $this->items;
+    }
+
+    /**
+     * Implement PHP __clone to create a deep clone, not just a shallow copy.
+     */
+    public function __clone()
+    {
+        $vars = get_object_vars($this);
+        foreach ($vars as $key => $value) {
+            if (is_object($value)) {
+                $this->$key = clone $value;
+            }
+        }
+    }
+}

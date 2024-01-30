@@ -1,97 +1,157 @@
-<?php //ICB0 56:0 71:fb5                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * PHPExcel_Writer_Abstract
+ *
+ * Copyright (c) 2006 - 2015 PHPExcel
+ *
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ *
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public
+ * License along with this library; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+ *
+ * @category   PHPExcel
+ * @package    PHPExcel_Writer
+ * @copyright  Copyright (c) 2006 - 2015 PHPExcel (http://www.codeplex.com/PHPExcel)
+ * @license    http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt    LGPL
+ * @version    ##VERSION##, ##DATE##
+ */
+abstract class PHPExcel_Writer_Abstract implements PHPExcel_Writer_IWriter
+{
+    /**
+     * Write charts that are defined in the workbook?
+     * Identifies whether the Writer should write definitions for any charts that exist in the PHPExcel object;
+     *
+     * @var    boolean
+     */
+    protected $includeCharts = false;
 
-?>
-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
+    /**
+     * Pre-calculate formulas
+     * Forces PHPExcel to recalculate all formulae in a workbook when saving, so that the pre-calculated values are
+     *    immediately available to MS Excel or other office spreadsheet viewer when opening the file
+     *
+     * @var boolean
+     */
+    protected $preCalculateFormulas = true;
+
+    /**
+     * Use disk caching where possible?
+     *
+     * @var boolean
+     */
+    protected $_useDiskCaching = false;
+
+    /**
+     * Disk caching directory
+     *
+     * @var string
+     */
+    protected $_diskCachingDirectory    = './';
+
+    /**
+     * Write charts in workbook?
+     *        If this is true, then the Writer will write definitions for any charts that exist in the PHPExcel object.
+     *        If false (the default) it will ignore any charts defined in the PHPExcel object.
+     *
+     * @return    boolean
+     */
+    public function getIncludeCharts()
+    {
+        return $this->includeCharts;
+    }
+
+    /**
+     * Set write charts in workbook
+     *        Set to true, to advise the Writer to include any charts that exist in the PHPExcel object.
+     *        Set to false (the default) to ignore charts.
+     *
+     * @param    boolean    $pValue
+     * @return    PHPExcel_Writer_IWriter
+     */
+    public function setIncludeCharts($pValue = false)
+    {
+        $this->includeCharts = (boolean) $pValue;
+        return $this;
+    }
+
+    /**
+     * Get Pre-Calculate Formulas flag
+     *     If this is true (the default), then the writer will recalculate all formulae in a workbook when saving,
+     *        so that the pre-calculated values are immediately available to MS Excel or other office spreadsheet
+     *        viewer when opening the file
+     *     If false, then formulae are not calculated on save. This is faster for saving in PHPExcel, but slower
+     *        when opening the resulting file in MS Excel, because Excel has to recalculate the formulae itself
+     *
+     * @return boolean
+     */
+    public function getPreCalculateFormulas()
+    {
+        return $this->preCalculateFormulas;
+    }
+
+    /**
+     * Set Pre-Calculate Formulas
+     *        Set to true (the default) to advise the Writer to calculate all formulae on save
+     *        Set to false to prevent precalculation of formulae on save.
+     *
+     * @param boolean $pValue    Pre-Calculate Formulas?
+     * @return    PHPExcel_Writer_IWriter
+     */
+    public function setPreCalculateFormulas($pValue = true)
+    {
+        $this->preCalculateFormulas = (boolean) $pValue;
+        return $this;
+    }
+
+    /**
+     * Get use disk caching where possible?
+     *
+     * @return boolean
+     */
+    public function getUseDiskCaching()
+    {
+        return $this->_useDiskCaching;
+    }
+
+    /**
+     * Set use disk caching where possible?
+     *
+     * @param     boolean     $pValue
+     * @param    string        $pDirectory        Disk caching directory
+     * @throws    PHPExcel_Writer_Exception    when directory does not exist
+     * @return PHPExcel_Writer_Excel2007
+     */
+    public function setUseDiskCaching($pValue = false, $pDirectory = null)
+    {
+        $this->_useDiskCaching = $pValue;
+
+        if ($pDirectory !== null) {
+            if (is_dir($pDirectory)) {
+                $this->_diskCachingDirectory = $pDirectory;
+            } else {
+                throw new PHPExcel_Writer_Exception("Directory does not exist: $pDirectory");
+            }
+        }
+        return $this;
+    }
+
+    /**
+     * Get disk caching directory
+     *
+     * @return string
+     */
+    public function getDiskCachingDirectory()
+    {
+        return $this->_diskCachingDirectory;
+    }
+}

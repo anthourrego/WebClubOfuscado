@@ -1,82 +1,115 @@
-<?php //ICB0 56:0 71:d0d                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-d44==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * PHPExcel_Cell_DataType
+ *
+ * Copyright (c) 2006 - 2015 PHPExcel
+ *
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ *
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public
+ * License along with this library; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+ *
+ * @category   PHPExcel
+ * @package    PHPExcel_Cell
+ * @copyright  Copyright (c) 2006 - 2015 PHPExcel (http://www.codeplex.com/PHPExcel)
+ * @license    http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt    LGPL
+ * @version    ##VERSION##, ##DATE##
+ */
+class PHPExcel_Cell_DataType
+{
+    /* Data types */
+    const TYPE_STRING2  = 'str';
+    const TYPE_STRING   = 's';
+    const TYPE_FORMULA  = 'f';
+    const TYPE_NUMERIC  = 'n';
+    const TYPE_BOOL     = 'b';
+    const TYPE_NULL     = 'null';
+    const TYPE_INLINE   = 'inlineStr';
+    const TYPE_ERROR    = 'e';
 
-?>
-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
-XRxJK7f56cklbADIgdAUjOTgRPa=
+    /**
+     * List of error codes
+     *
+     * @var array
+     */
+    private static $errorCodes = array(
+        '#NULL!'  => 0,
+        '#DIV/0!' => 1,
+        '#VALUE!' => 2,
+        '#REF!'   => 3,
+        '#NAME?'  => 4,
+        '#NUM!'   => 5,
+        '#N/A'    => 6
+    );
+
+    /**
+     * Get list of error codes
+     *
+     * @return array
+     */
+    public static function getErrorCodes()
+    {
+        return self::$errorCodes;
+    }
+
+    /**
+     * DataType for value
+     *
+     * @deprecated  Replaced by PHPExcel_Cell_IValueBinder infrastructure, will be removed in version 1.8.0
+     * @param       mixed  $pValue
+     * @return      string
+     */
+    public static function dataTypeForValue($pValue = null)
+    {
+        return PHPExcel_Cell_DefaultValueBinder::dataTypeForValue($pValue);
+    }
+
+    /**
+     * Check a string that it satisfies Excel requirements
+     *
+     * @param  mixed  Value to sanitize to an Excel string
+     * @return mixed  Sanitized value
+     */
+    public static function checkString($pValue = null)
+    {
+        if ($pValue instanceof PHPExcel_RichText) {
+            // TODO: Sanitize Rich-Text string (max. character count is 32,767)
+            return $pValue;
+        }
+
+        // string must never be longer than 32,767 characters, truncate if necessary
+        $pValue = PHPExcel_Shared_String::Substring($pValue, 0, 32767);
+
+        // we require that newline is represented as "\n" in core, not as "\r\n" or "\r"
+        $pValue = str_replace(array("\r\n", "\r"), "\n", $pValue);
+
+        return $pValue;
+    }
+
+    /**
+     * Check a value that it is a valid error code
+     *
+     * @param  mixed   Value to sanitize to an Excel error code
+     * @return string  Sanitized value
+     */
+    public static function checkErrorCode($pValue = null)
+    {
+        $pValue = (string) $pValue;
+
+        if (!array_key_exists($pValue, self::$errorCodes)) {
+            $pValue = '#NULL!';
+        }
+
+        return $pValue;
+    }
+}

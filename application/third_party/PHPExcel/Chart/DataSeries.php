@@ -1,211 +1,390 @@
-<?php //ICB0 56:0 71:1f6a                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+/**
+ * PHPExcel
+ *
+ * Copyright (c) 2006 - 2015 PHPExcel
+ *
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ *
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public
+ * License along with this library; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+ *
+ * @category    PHPExcel
+ * @package        PHPExcel_Chart
+ * @copyright    Copyright (c) 2006 - 2015 PHPExcel (http://www.codeplex.com/PHPExcel)
+ * @license        http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt    LGPL
+ * @version    ##VERSION##, ##DATE##
+ */
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-eAxTiby==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
 
-?>
-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
-AW==
+/**
+ * PHPExcel_Chart_DataSeries
+ *
+ * @category    PHPExcel
+ * @package        PHPExcel_Chart
+ * @copyright    Copyright (c) 2006 - 2015 PHPExcel (http://www.codeplex.com/PHPExcel)
+ */
+class PHPExcel_Chart_DataSeries
+{
+    const TYPE_BARCHART        = 'barChart';
+    const TYPE_BARCHART_3D     = 'bar3DChart';
+    const TYPE_LINECHART       = 'lineChart';
+    const TYPE_LINECHART_3D    = 'line3DChart';
+    const TYPE_AREACHART       = 'areaChart';
+    const TYPE_AREACHART_3D    = 'area3DChart';
+    const TYPE_PIECHART        = 'pieChart';
+    const TYPE_PIECHART_3D     = 'pie3DChart';
+    const TYPE_DOUGHTNUTCHART  = 'doughnutChart';
+    const TYPE_DONUTCHART      = self::TYPE_DOUGHTNUTCHART;    //    Synonym
+    const TYPE_SCATTERCHART    = 'scatterChart';
+    const TYPE_SURFACECHART    = 'surfaceChart';
+    const TYPE_SURFACECHART_3D = 'surface3DChart';
+    const TYPE_RADARCHART      = 'radarChart';
+    const TYPE_BUBBLECHART     = 'bubbleChart';
+    const TYPE_STOCKCHART      = 'stockChart';
+    const TYPE_CANDLECHART     = self::TYPE_STOCKCHART;       //    Synonym
+
+    const GROUPING_CLUSTERED       = 'clustered';
+    const GROUPING_STACKED         = 'stacked';
+    const GROUPING_PERCENT_STACKED = 'percentStacked';
+    const GROUPING_STANDARD        = 'standard';
+
+    const DIRECTION_BAR        = 'bar';
+    const DIRECTION_HORIZONTAL = self::DIRECTION_BAR;
+    const DIRECTION_COL        = 'col';
+    const DIRECTION_COLUMN     = self::DIRECTION_COL;
+    const DIRECTION_VERTICAL   = self::DIRECTION_COL;
+
+    const STYLE_LINEMARKER   = 'lineMarker';
+    const STYLE_SMOOTHMARKER = 'smoothMarker';
+    const STYLE_MARKER       = 'marker';
+    const STYLE_FILLED       = 'filled';
+
+
+    /**
+     * Series Plot Type
+     *
+     * @var string
+     */
+    private $plotType;
+
+    /**
+     * Plot Grouping Type
+     *
+     * @var boolean
+     */
+    private $plotGrouping;
+
+    /**
+     * Plot Direction
+     *
+     * @var boolean
+     */
+    private $plotDirection;
+
+    /**
+     * Plot Style
+     *
+     * @var string
+     */
+    private $plotStyle;
+
+    /**
+     * Order of plots in Series
+     *
+     * @var array of integer
+     */
+    private $plotOrder = array();
+
+    /**
+     * Plot Label
+     *
+     * @var array of PHPExcel_Chart_DataSeriesValues
+     */
+    private $plotLabel = array();
+
+    /**
+     * Plot Category
+     *
+     * @var array of PHPExcel_Chart_DataSeriesValues
+     */
+    private $plotCategory = array();
+
+    /**
+     * Smooth Line
+     *
+     * @var string
+     */
+    private $smoothLine;
+
+    /**
+     * Plot Values
+     *
+     * @var array of PHPExcel_Chart_DataSeriesValues
+     */
+    private $plotValues = array();
+
+    /**
+     * Create a new PHPExcel_Chart_DataSeries
+     */
+    public function __construct($plotType = null, $plotGrouping = null, $plotOrder = array(), $plotLabel = array(), $plotCategory = array(), $plotValues = array(), $plotDirection = null, $smoothLine = null, $plotStyle = null)
+    {
+        $this->plotType = $plotType;
+        $this->plotGrouping = $plotGrouping;
+        $this->plotOrder = $plotOrder;
+        $keys = array_keys($plotValues);
+        $this->plotValues = $plotValues;
+        if ((count($plotLabel) == 0) || (is_null($plotLabel[$keys[0]]))) {
+            $plotLabel[$keys[0]] = new PHPExcel_Chart_DataSeriesValues();
+        }
+
+        $this->plotLabel = $plotLabel;
+        if ((count($plotCategory) == 0) || (is_null($plotCategory[$keys[0]]))) {
+            $plotCategory[$keys[0]] = new PHPExcel_Chart_DataSeriesValues();
+        }
+        $this->plotCategory = $plotCategory;
+        $this->smoothLine = $smoothLine;
+        $this->plotStyle = $plotStyle;
+        
+        if (is_null($plotDirection)) {
+            $plotDirection = self::DIRECTION_COL;
+        }
+        $this->plotDirection = $plotDirection;
+    }
+
+    /**
+     * Get Plot Type
+     *
+     * @return string
+     */
+    public function getPlotType()
+    {
+        return $this->plotType;
+    }
+
+    /**
+     * Set Plot Type
+     *
+     * @param string $plotType
+     * @return PHPExcel_Chart_DataSeries
+     */
+    public function setPlotType($plotType = '')
+    {
+        $this->plotType = $plotType;
+        return $this;
+    }
+
+    /**
+     * Get Plot Grouping Type
+     *
+     * @return string
+     */
+    public function getPlotGrouping()
+    {
+        return $this->plotGrouping;
+    }
+
+    /**
+     * Set Plot Grouping Type
+     *
+     * @param string $groupingType
+     * @return PHPExcel_Chart_DataSeries
+     */
+    public function setPlotGrouping($groupingType = null)
+    {
+        $this->plotGrouping = $groupingType;
+        return $this;
+    }
+
+    /**
+     * Get Plot Direction
+     *
+     * @return string
+     */
+    public function getPlotDirection()
+    {
+        return $this->plotDirection;
+    }
+
+    /**
+     * Set Plot Direction
+     *
+     * @param string $plotDirection
+     * @return PHPExcel_Chart_DataSeries
+     */
+    public function setPlotDirection($plotDirection = null)
+    {
+        $this->plotDirection = $plotDirection;
+        return $this;
+    }
+
+    /**
+     * Get Plot Order
+     *
+     * @return string
+     */
+    public function getPlotOrder()
+    {
+        return $this->plotOrder;
+    }
+
+    /**
+     * Get Plot Labels
+     *
+     * @return array of PHPExcel_Chart_DataSeriesValues
+     */
+    public function getPlotLabels()
+    {
+        return $this->plotLabel;
+    }
+
+    /**
+     * Get Plot Label by Index
+     *
+     * @return PHPExcel_Chart_DataSeriesValues
+     */
+    public function getPlotLabelByIndex($index)
+    {
+        $keys = array_keys($this->plotLabel);
+        if (in_array($index, $keys)) {
+            return $this->plotLabel[$index];
+        } elseif (isset($keys[$index])) {
+            return $this->plotLabel[$keys[$index]];
+        }
+        return false;
+    }
+
+    /**
+     * Get Plot Categories
+     *
+     * @return array of PHPExcel_Chart_DataSeriesValues
+     */
+    public function getPlotCategories()
+    {
+        return $this->plotCategory;
+    }
+
+    /**
+     * Get Plot Category by Index
+     *
+     * @return PHPExcel_Chart_DataSeriesValues
+     */
+    public function getPlotCategoryByIndex($index)
+    {
+        $keys = array_keys($this->plotCategory);
+        if (in_array($index, $keys)) {
+            return $this->plotCategory[$index];
+        } elseif (isset($keys[$index])) {
+            return $this->plotCategory[$keys[$index]];
+        }
+        return false;
+    }
+
+    /**
+     * Get Plot Style
+     *
+     * @return string
+     */
+    public function getPlotStyle()
+    {
+        return $this->plotStyle;
+    }
+
+    /**
+     * Set Plot Style
+     *
+     * @param string $plotStyle
+     * @return PHPExcel_Chart_DataSeries
+     */
+    public function setPlotStyle($plotStyle = null)
+    {
+        $this->plotStyle = $plotStyle;
+        return $this;
+    }
+
+    /**
+     * Get Plot Values
+     *
+     * @return array of PHPExcel_Chart_DataSeriesValues
+     */
+    public function getPlotValues()
+    {
+        return $this->plotValues;
+    }
+
+    /**
+     * Get Plot Values by Index
+     *
+     * @return PHPExcel_Chart_DataSeriesValues
+     */
+    public function getPlotValuesByIndex($index)
+    {
+        $keys = array_keys($this->plotValues);
+        if (in_array($index, $keys)) {
+            return $this->plotValues[$index];
+        } elseif (isset($keys[$index])) {
+            return $this->plotValues[$keys[$index]];
+        }
+        return false;
+    }
+
+    /**
+     * Get Number of Plot Series
+     *
+     * @return integer
+     */
+    public function getPlotSeriesCount()
+    {
+        return count($this->plotValues);
+    }
+
+    /**
+     * Get Smooth Line
+     *
+     * @return boolean
+     */
+    public function getSmoothLine()
+    {
+        return $this->smoothLine;
+    }
+
+    /**
+     * Set Smooth Line
+     *
+     * @param boolean $smoothLine
+     * @return PHPExcel_Chart_DataSeries
+     */
+    public function setSmoothLine($smoothLine = true)
+    {
+        $this->smoothLine = $smoothLine;
+        return $this;
+    }
+
+    public function refresh(PHPExcel_Worksheet $worksheet)
+    {
+        foreach ($this->plotValues as $plotValues) {
+            if ($plotValues !== null) {
+                $plotValues->refresh($worksheet, true);
+            }
+        }
+        foreach ($this->plotLabel as $plotValues) {
+            if ($plotValues !== null) {
+                $plotValues->refresh($worksheet, true);
+            }
+        }
+        foreach ($this->plotCategory as $plotValues) {
+            if ($plotValues !== null) {
+                $plotValues->refresh($worksheet, false);
+            }
+        }
+    }
+}

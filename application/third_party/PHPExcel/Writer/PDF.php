@@ -1,111 +1,89 @@
-<?php //ICB0 56:0 71:10c1                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-ilqaNwpG73ewQ0YTO2wuhuPfWBy==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ *  PHPExcel_Writer_PDF
+ *
+ *  Copyright (c) 2006 - 2015 PHPExcel
+ *
+ *  This library is free software; you can redistribute it and/or
+ *  modify it under the terms of the GNU Lesser General Public
+ *  License as published by the Free Software Foundation; either
+ *  version 2.1 of the License, or (at your option) any later version.
+ *
+ *  This library is distributed in the hope that it will be useful,
+ *  but WITHOUT ANY WARRANTY; without even the implied warranty of
+ *  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ *  Lesser General Public License for more details.
+ *
+ *  You should have received a copy of the GNU Lesser General Public
+ *  License along with this library; if not, write to the Free Software
+ *  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+ *
+ *  @category    PHPExcel
+ *  @package     PHPExcel_Writer_PDF
+ *  @copyright   Copyright (c) 2006 - 2015 PHPExcel (http://www.codeplex.com/PHPExcel)
+ *  @license     http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt    LGPL
+ *  @version     ##VERSION##, ##DATE##
+ */
+class PHPExcel_Writer_PDF implements PHPExcel_Writer_IWriter
+{
 
-?>
-HR+cPyFqh7l3NXLycaGvM8UnB9+UTRiXhs0WhBguRSAmJfLaSA/gc8ERYT/wfi8nnVsH88/ESOEF
-7C4CnUGqZa03jwqW19uf5AParIbVrLtAtyRyYFhriKE4sAePZICU//adV0QCJ4xBBshm6d7vXg1G
-OrpqDBFDbJqFr+aX56kb/uwpyFDQCd0u8m5HMPkJwC1AWsqAj1jKzVPCzj0ZZ+kDI3e3QRFCeGMN
-HZ2HBwubjinLOGSWBK8fBgj3lfeituEgEE93L1C8xCVsZvwDeENBRS1ArUHgnksxTDFFP1oyCepq
-JnKs/nQQjKjgO5F3X9KHudEt4ELEVdBmkEjiRqYLn18qj1UUPSA47GJFwwtutMZ61rWsblu6+6u8
-x65ZakWauZqkzlnGarhdwpd7HN8TrTwHs0iRQa6sOn0x4DKaxUd7f0j35RF1u+eWtIOXjf2Gw4zK
-lQPYmKjGnKvuf/uYGrniKKFKU1CFJIVWSdVMH+dDb8n4Tgk5EZ5KKEBPA7bAyRX+MSq3tsF5J3wk
-+49jYMH0uujkBvI49Tq1iOksHILgXmgd6dP9nsMecQR4Iz3U7WngZr+23oZMX404zk/XQIaQPKJD
-Fgp+I4tNOY+NUw6MM8i95mtQpfK31oyuU4sd7ldxJoqzMzY0NPZHY4a1/3EAsOD6v63SrITsNGWE
-lVLDxeEDmvNr78UUZQX/oPS9+Nnige2R1Jhcf/54rEf/z6ruousFRy6lNVRSNast17k6PVwoSC/L
-sieHJUnf6wOlbHzRtR/igPS5OgAj0ipN49v+oQsoh7MAhJLyWhMO2z89JIjOZ8Xot53GD7avssFg
-Cx8eGMgF4hOpzk9sWArZ2SsQzuTRBfeKBSJKivMJkF+EK53JPVqx1FzdRRmps7/OgK3SGWyqlRvX
-SuqSXjcsNeOOyzOPByZ8WhwV9DwgGaMlFQA7FsQvg6zFFu2NP5QsnwcQb19JTDoAEpCsy4sIV3aK
-4+Kv5kef3FzwZIEibs9jj9t2FTdbWqebH5kfqFdK0IpPuG7FIIR6SHyrKiOIhPkKH4+tm1lcAGSf
-hcb4yGTEkaycH7gbqTyK40jt/c3ErW4s9/n8KrdIxiGAqNWczreWrcpg59EkVohqlVfTpya+ikkI
-p6IMaEL7AFGdp7Nx7JOx6r808V+cWIxmoktT860/T+y/U6lJWuQLVKyF2lnO7i7+8EqR5Ynnwg3g
-o2QWiVvVaE0tjzXxMI2HSMkNbG0hlSNM9GIcUjBwH42/q0VW2q1HJB77a9urdMoUfJqsU9Rlzlb7
-gYLRMkcxk29F9Nc+xp6ysqAZSAbDVmZvIRGXqdHtt8q1MyyjVim6gqp6JLZFekBmBv35vIdrTxFg
-N3UieZ5tNVUoxw6WDo726ntQKFufh+sbWYjjrc20ddOon8BHQC6yVp+IMCDvNMUdTJiMlr9LiceR
-k7whIihU8T0PiiJ/ljn1tX/qSJrqztRZQ1VMit6Uc0HjbWXJGmIICHilASx6Z5y+48qmDbsC2fbn
-fwVMfwgOx6J6dmuFWeRw//j5GIXZ7oRFTj6CU1Sdcc2wKnTTHsnTvD+T6QvvkvN8MyG+VF2xT7qm
-hj93njWuCdd70T6h5usTnDlUezpqZuqFX4+kZGKYqawMpJ4Ys35RAKdRjc4l60KRI7ieAmHR8KUb
-3u85z8zS4xNiVg8kv7h/y6twJPWUfsvrJyloM0025SwCaCb41z1CSzdcGpqFvE24rEWjIP3qKtqp
-dMEXAXymrwIVWBeO3WWsCnBhBaCpXLuAPjhIl+bOLymqdIc5e3+krEaEzmCS9sumBsiGMXgXV7zb
-l9nyDnWoDRyUH3hq8FnSwgkvhQvSIeL9Poh659Ob2d5jrRLRajjWHkiYhXEsPl6Lyyx1o6gKitEM
-La/VjhwjiHAS/M8sGcHL748wBXHbQjDWTE8b73WVyqwwLo4pw9MWevOGoAySWr5XBfgRM+jCk2Vi
-GWH8qH1ugv6VSrVBx2UfAjzHTV+CTeub7IW4KfPruPIDsptg9KfNLCPFFlyCccG0xwcdlUoOao2n
-/EhrkcLlu8I1X3kYlzr1mAzBMHieA9l5PDUJHOUhqXZu5Ctt0UxyTgEJBnQYMW/dEkJPtBaAAd3S
-QftOaIGsfzbRXfn3V7cTSLwqOsERLGxfZhM9IOrZg4eNjvuYT544YAFh10MmLC8/MVWozCFrSxRL
-94o4zVA4BjlKgIAbuiIXZVgzHsxH0Ed8weNaa8FS9SmPkum/N0G1z9Sl3abu6DrFQXzCA+1upVmZ
-VW/d5Fp7mNKkp38I1e5and67KgmXMyNd1eiaM0Y5L272qntUSvqK6Ewu9j1OlydpnmJrsxSTg5+7
-pDUG+vIUS4cWHSiC9T14IYMe1L1lTgcctcWXEJHNPC6KRpr8ewItYV4np5QK4V+Q5dfec36b+mI0
-5PfT5yH+MQZruWao4chqjpzRLxI8YORY52a53H4RYQN7X3azjAFPNjmszuQBy+APbmPk3UXi/MlE
-XgdiQQwOOqt9CMfmL+G5nhUXAAIQC1drFvDPzOo5GT0k4PlqE4mDbJ4XdzWdBni3wZQmEiyjfBd3
-2zzSD6awqyhq3jcgBKNaV9VrfMIj+QpQEyLbJNkC07ku8zc9rptwCBwh3tqdwPPW5WaP0M5z+9er
-LLDdWhe5Azi02Iuw0ukQ0WkXbfmq0dk3+XJG2lNZ06Xfv7Qq6LZKDHkUzU/4Z0d/rcJzYkxcjBNb
-GFFXP+rP7SZeRFNzcknLK2G4gS/ye11RzwvLK2tY7wD7rvQc3NqZ67VQ8CUS2N6kx/W4d15uGv9f
-TvcPOZ51g6/yPyKSnIifEeLexfIfCveIuUGxdOzt/m/yPNFtDuxgfA3YmoschC6s70lzxlOFWRKt
-7ycw7R4lp+2+Y0aZEqXt8esoiNgZ2uf37xMck4l4jiABOY8bqfz37/deqgwWU4p8Wdq+tQtI/RqA
-xDEY6gkVxTF8GOeZJD0XdVPSbvKaLoZgjbiMwUnNJrfMkI4QxWtK+KrhpelouhTGJzxzjG/dqkRv
-v1j+ZX0CUHcm7L/GbylhfcuOAurf+XDU7t+gSCHMH3rOQdfr+JqHsi7lOx9JvfhomNFLMO6gagXe
-fqGUrjNBvwhz2Rcw2rIurgvS4jsnQBBkHEubAr3PEcs+3Y+CyJjawwwydrwll6aNUTIZn7WIAljp
-cVlR59YApyHmkIusR9KARHXq5HiNzb6JMZBIdV05EHBPoXMBzV9zbzZk2oDt3eIBgoznPMbXAymD
-nGYHB7Jux9ddOJkrsFfmxJ2/VkAKqZOzBLrOGCKzQgGssQvtmaA5A5Ye2L78DfP6QlTZjdRDhxrl
-Zq1TfWuDDHq8ZUafn4nuK+frms1teHuS5/3UUh2/INsTJYlA+1Kso7N1nX9p2rakDSqsjDjXcdIz
-B8jyM2TkwwageEESN76PPE07xx76u3ug/966tRH3/gRc63NJBytx8/GrPnJef1i+A1V54g++AExR
-ONVokqydMXGpo3DEhID2VLVfjTFpX/qnLlzpd2kb4dlgv3fguDFXOMNxrSdqp59wXid60jItdT5y
-MMWhm+j0i4JBFhr2ixxmq0R1WFOs2LJSuMvaTHgFBTPiBUmr91gHzNm/Mc9AnVryL3bD71DonVwy
-7VbJY9PcGqekA4tw3Rfl3M0/VZQMCscetDotGEjsq+YinVMJhlbRMHCvoP6Tiv7RWk6Kl6SKQ4sU
-hEMmjqsrumTvu2kFqvnrTMMIIiwrPv4aapDydq2CQQ/+tUJ5aRTgij0wzYSInyDSQo3UJs5Ntxfa
-XiQ8nUQ1mdYzL1N4DNNpYghMFM2N3W1sY9xfffgan/eGw+DAReMhlQc6lAjE3pInhRYZUltRMM5q
-ST6IComGNqEgSKIpl9s1VflobSDtUPI6sxTPxIANUIRjaG7CqPCvR3OiRoiWdgerDgwHaU8kfr1a
-WoqaPtV/ktAPMkNWSA5PdiGm5AjWFeNht10t6iIq06Q1PGxgq72YotC2vm==
+    /**
+     * The wrapper for the requested PDF rendering engine
+     *
+     * @var PHPExcel_Writer_PDF_Core
+     */
+    private $renderer = null;
+
+    /**
+     *  Instantiate a new renderer of the configured type within this container class
+     *
+     *  @param  PHPExcel   $phpExcel         PHPExcel object
+     *  @throws PHPExcel_Writer_Exception    when PDF library is not configured
+     */
+    public function __construct(PHPExcel $phpExcel)
+    {
+        $pdfLibraryName = PHPExcel_Settings::getPdfRendererName();
+        if (is_null($pdfLibraryName)) {
+            throw new PHPExcel_Writer_Exception("PDF Rendering library has not been defined.");
+        }
+
+        $pdfLibraryPath = PHPExcel_Settings::getPdfRendererPath();
+        if (is_null($pdfLibraryName)) {
+            throw new PHPExcel_Writer_Exception("PDF Rendering library path has not been defined.");
+        }
+        $includePath = str_replace('\\', '/', get_include_path());
+        $rendererPath = str_replace('\\', '/', $pdfLibraryPath);
+        if (strpos($rendererPath, $includePath) === false) {
+            set_include_path(get_include_path() . PATH_SEPARATOR . $pdfLibraryPath);
+        }
+
+        $rendererName = 'PHPExcel_Writer_PDF_' . $pdfLibraryName;
+        $this->renderer = new $rendererName($phpExcel);
+    }
+
+
+    /**
+     *  Magic method to handle direct calls to the configured PDF renderer wrapper class.
+     *
+     *  @param   string   $name        Renderer library method name
+     *  @param   mixed[]  $arguments   Array of arguments to pass to the renderer method
+     *  @return  mixed    Returned data from the PDF renderer wrapper method
+     */
+    public function __call($name, $arguments)
+    {
+        if ($this->renderer === null) {
+            throw new PHPExcel_Writer_Exception("PDF Rendering library has not been defined.");
+        }
+
+        return call_user_func_array(array($this->renderer, $name), $arguments);
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function save($pFilename = null)
+    {
+        $this->renderer->save($pFilename);
+    }
+}

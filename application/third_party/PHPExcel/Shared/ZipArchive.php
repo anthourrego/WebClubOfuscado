@@ -1,187 +1,163 @@
-<?php //ICB0 56:0 71:1ad2                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+if (!defined('PCLZIP_TEMPORARY_DIR')) {
+    define('PCLZIP_TEMPORARY_DIR', PHPExcel_Shared_File::sys_get_temp_dir() . DIRECTORY_SEPARATOR);
+}
+require_once PHPEXCEL_ROOT . 'PHPExcel/Shared/PCLZip/pclzip.lib.php';
 
-?>
-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
-asECHu+chIOz17OGHeYO7ggZBSvn
+/**
+ * PHPExcel_Shared_ZipArchive
+ *
+ * Copyright (c) 2006 - 2015 PHPExcel
+ *
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ *
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public
+ * License along with this library; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+ *
+ * @category   PHPExcel
+ * @package    PHPExcel_Shared_ZipArchive
+ * @copyright  Copyright (c) 2006 - 2015 PHPExcel (http://www.codeplex.com/PHPExcel)
+ * @license    http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt    LGPL
+ * @version    ##VERSION##, ##DATE##
+ */
+class PHPExcel_Shared_ZipArchive
+{
+
+    /**    constants */
+    const OVERWRITE = 'OVERWRITE';
+    const CREATE    = 'CREATE';
+
+
+    /**
+     * Temporary storage directory
+     *
+     * @var string
+     */
+    private $tempDir;
+
+    /**
+     * Zip Archive Stream Handle
+     *
+     * @var string
+     */
+    private $zip;
+
+
+    /**
+     * Open a new zip archive
+     *
+     * @param    string    $fileName    Filename for the zip archive
+     * @return    boolean
+     */
+    public function open($fileName)
+    {
+        $this->tempDir = PHPExcel_Shared_File::sys_get_temp_dir();
+        $this->zip = new PclZip($fileName);
+
+        return true;
+    }
+
+
+    /**
+     * Close this zip archive
+     *
+     */
+    public function close()
+    {
+    }
+
+
+    /**
+     * Add a new file to the zip archive from a string of raw data.
+     *
+     * @param    string    $localname        Directory/Name of the file to add to the zip archive
+     * @param    string    $contents        String of data to add to the zip archive
+     */
+    public function addFromString($localname, $contents)
+    {
+        $filenameParts = pathinfo($localname);
+
+        $handle = fopen($this->tempDir.'/'.$filenameParts["basename"], "wb");
+        fwrite($handle, $contents);
+        fclose($handle);
+
+        $res = $this->zip->add($this->tempDir.'/'.$filenameParts["basename"], PCLZIP_OPT_REMOVE_PATH, $this->tempDir, PCLZIP_OPT_ADD_PATH, $filenameParts["dirname"]);
+        if ($res == 0) {
+            throw new PHPExcel_Writer_Exception("Error zipping files : " . $this->zip->errorInfo(true));
+        }
+
+        unlink($this->tempDir.'/'.$filenameParts["basename"]);
+    }
+
+    /**
+     * Find if given fileName exist in archive (Emulate ZipArchive locateName())
+     *
+     * @param        string        $fileName        Filename for the file in zip archive
+     * @return        boolean
+     */
+    public function locateName($fileName)
+    {
+        $fileName = strtolower($fileName);
+
+        $list = $this->zip->listContent();
+        $listCount = count($list);
+        $index = -1;
+        for ($i = 0; $i < $listCount; ++$i) {
+            if (strtolower($list[$i]["filename"]) == $fileName ||
+                strtolower($list[$i]["stored_filename"]) == $fileName) {
+                $index = $i;
+                break;
+            }
+        }
+        return ($index > -1) ? $index : false;
+    }
+
+    /**
+     * Extract file from archive by given fileName (Emulate ZipArchive getFromName())
+     *
+     * @param        string        $fileName        Filename for the file in zip archive
+     * @return        string  $contents        File string contents
+     */
+    public function getFromName($fileName)
+    {
+        $index = $this->locateName($fileName);
+
+        if ($index !== false) {
+            $extracted = $this->getFromIndex($index);
+        } else {
+            $fileName = substr($fileName, 1);
+            $index = $this->locateName($fileName);
+            if ($index === false) {
+                return false;
+            }
+            $extracted = $this->zip->getFromIndex($index);
+        }
+
+        $contents = $extracted;
+        if ((is_array($extracted)) && ($extracted != 0)) {
+            $contents = $extracted[0]["content"];
+        }
+
+        return $contents;
+    }
+    
+    public function getFromIndex($index) {
+        $extracted = $this->zip->extractByIndex($index, PCLZIP_OPT_EXTRACT_AS_STRING);
+        $contents = '';
+        if ((is_array($extracted)) && ($extracted != 0)) {
+            $contents = $extracted[0]["content"];
+        }
+
+        return $contents;
+    }
+}

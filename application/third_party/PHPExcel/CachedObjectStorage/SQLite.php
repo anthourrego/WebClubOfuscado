@@ -1,316 +1,307 @@
-<?php //ICB0 56:0 71:2c65                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-JfMM9dKA0jtFuRZwpgZv=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * PHPExcel_CachedObjectStorage_SQLite
+ *
+ * Copyright (c) 2006 - 2015 PHPExcel
+ *
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ *
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public
+ * License along with this library; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+ *
+ * @category   PHPExcel
+ * @package    PHPExcel_CachedObjectStorage
+ * @copyright  Copyright (c) 2006 - 2015 PHPExcel (http://www.codeplex.com/PHPExcel)
+ * @license    http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt    LGPL
+ * @version    ##VERSION##, ##DATE##
+ */
+class PHPExcel_CachedObjectStorage_SQLite extends PHPExcel_CachedObjectStorage_CacheBase implements PHPExcel_CachedObjectStorage_ICache
+{
+    /**
+     * Database table name
+     *
+     * @var string
+     */
+    private $TableName = null;
 
-?>
-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
-x06/ezxPPm==
+    /**
+     * Database handle
+     *
+     * @var resource
+     */
+    private $DBHandle = null;
+
+    /**
+     * Store cell data in cache for the current cell object if it's "dirty",
+     *     and the 'nullify' the current cell object
+     *
+     * @return    void
+     * @throws    PHPExcel_Exception
+     */
+    protected function storeData()
+    {
+        if ($this->currentCellIsDirty && !empty($this->currentObjectID)) {
+            $this->currentObject->detach();
+
+            if (!$this->DBHandle->queryExec("INSERT OR REPLACE INTO kvp_".$this->TableName." VALUES('".$this->currentObjectID."','".sqlite_escape_string(serialize($this->currentObject))."')")) {
+                throw new PHPExcel_Exception(sqlite_error_string($this->DBHandle->lastError()));
+            }
+            $this->currentCellIsDirty = false;
+        }
+        $this->currentObjectID = $this->currentObject = null;
+    }
+
+    /**
+     * Add or Update a cell in cache identified by coordinate address
+     *
+     * @param    string            $pCoord        Coordinate address of the cell to update
+     * @param    PHPExcel_Cell    $cell        Cell to update
+     * @return    PHPExcel_Cell
+     * @throws    PHPExcel_Exception
+     */
+    public function addCacheData($pCoord, PHPExcel_Cell $cell)
+    {
+        if (($pCoord !== $this->currentObjectID) && ($this->currentObjectID !== null)) {
+            $this->storeData();
+        }
+
+        $this->currentObjectID = $pCoord;
+        $this->currentObject = $cell;
+        $this->currentCellIsDirty = true;
+
+        return $cell;
+    }
+
+    /**
+     * Get cell at a specific coordinate
+     *
+     * @param     string             $pCoord        Coordinate of the cell
+     * @throws     PHPExcel_Exception
+     * @return     PHPExcel_Cell     Cell that was found, or null if not found
+     */
+    public function getCacheData($pCoord)
+    {
+        if ($pCoord === $this->currentObjectID) {
+            return $this->currentObject;
+        }
+        $this->storeData();
+
+        $query = "SELECT value FROM kvp_".$this->TableName." WHERE id='".$pCoord."'";
+        $cellResultSet = $this->DBHandle->query($query, SQLITE_ASSOC);
+        if ($cellResultSet === false) {
+            throw new PHPExcel_Exception(sqlite_error_string($this->DBHandle->lastError()));
+        } elseif ($cellResultSet->numRows() == 0) {
+            //    Return null if requested entry doesn't exist in cache
+            return null;
+        }
+
+        //    Set current entry to the requested entry
+        $this->currentObjectID = $pCoord;
+
+        $cellResult = $cellResultSet->fetchSingle();
+        $this->currentObject = unserialize($cellResult);
+        //    Re-attach this as the cell's parent
+        $this->currentObject->attach($this);
+
+        //    Return requested entry
+        return $this->currentObject;
+    }
+
+    /**
+     * Is a value set for an indexed cell?
+     *
+     * @param    string        $pCoord        Coordinate address of the cell to check
+     * @return    boolean
+     */
+    public function isDataSet($pCoord)
+    {
+        if ($pCoord === $this->currentObjectID) {
+            return true;
+        }
+
+        //    Check if the requested entry exists in the cache
+        $query = "SELECT id FROM kvp_".$this->TableName." WHERE id='".$pCoord."'";
+        $cellResultSet = $this->DBHandle->query($query, SQLITE_ASSOC);
+        if ($cellResultSet === false) {
+            throw new PHPExcel_Exception(sqlite_error_string($this->DBHandle->lastError()));
+        } elseif ($cellResultSet->numRows() == 0) {
+            //    Return null if requested entry doesn't exist in cache
+            return false;
+        }
+        return true;
+    }
+
+    /**
+     * Delete a cell in cache identified by coordinate address
+     *
+     * @param    string            $pCoord        Coordinate address of the cell to delete
+     * @throws    PHPExcel_Exception
+     */
+    public function deleteCacheData($pCoord)
+    {
+        if ($pCoord === $this->currentObjectID) {
+            $this->currentObject->detach();
+            $this->currentObjectID = $this->currentObject = null;
+        }
+
+        //    Check if the requested entry exists in the cache
+        $query = "DELETE FROM kvp_".$this->TableName." WHERE id='".$pCoord."'";
+        if (!$this->DBHandle->queryExec($query)) {
+            throw new PHPExcel_Exception(sqlite_error_string($this->DBHandle->lastError()));
+        }
+
+        $this->currentCellIsDirty = false;
+    }
+
+    /**
+     * Move a cell object from one address to another
+     *
+     * @param    string        $fromAddress    Current address of the cell to move
+     * @param    string        $toAddress        Destination address of the cell to move
+     * @return    boolean
+     */
+    public function moveCell($fromAddress, $toAddress)
+    {
+        if ($fromAddress === $this->currentObjectID) {
+            $this->currentObjectID = $toAddress;
+        }
+
+        $query = "DELETE FROM kvp_".$this->TableName." WHERE id='".$toAddress."'";
+        $result = $this->DBHandle->exec($query);
+        if ($result === false) {
+            throw new PHPExcel_Exception($this->DBHandle->lastErrorMsg());
+        }
+
+        $query = "UPDATE kvp_".$this->TableName." SET id='".$toAddress."' WHERE id='".$fromAddress."'";
+        $result = $this->DBHandle->exec($query);
+        if ($result === false) {
+            throw new PHPExcel_Exception($this->DBHandle->lastErrorMsg());
+        }
+
+        return true;
+    }
+
+    /**
+     * Get a list of all cell addresses currently held in cache
+     *
+     * @return    string[]
+     */
+    public function getCellList()
+    {
+        if ($this->currentObjectID !== null) {
+            $this->storeData();
+        }
+
+        $query = "SELECT id FROM kvp_".$this->TableName;
+        $cellIdsResult = $this->DBHandle->unbufferedQuery($query, SQLITE_ASSOC);
+        if ($cellIdsResult === false) {
+            throw new PHPExcel_Exception(sqlite_error_string($this->DBHandle->lastError()));
+        }
+
+        $cellKeys = array();
+        foreach ($cellIdsResult as $row) {
+            $cellKeys[] = $row['id'];
+        }
+
+        return $cellKeys;
+    }
+
+    /**
+     * Clone the cell collection
+     *
+     * @param    PHPExcel_Worksheet    $parent        The new worksheet
+     * @return    void
+     */
+    public function copyCellCollection(PHPExcel_Worksheet $parent)
+    {
+        $this->currentCellIsDirty;
+        $this->storeData();
+
+        //    Get a new id for the new table name
+        $tableName = str_replace('.', '_', $this->getUniqueID());
+        if (!$this->DBHandle->queryExec('CREATE TABLE kvp_'.$tableName.' (id VARCHAR(12) PRIMARY KEY, value BLOB)
+            AS SELECT * FROM kvp_'.$this->TableName)
+        ) {
+            throw new PHPExcel_Exception(sqlite_error_string($this->DBHandle->lastError()));
+        }
+
+        //    Copy the existing cell cache file
+        $this->TableName = $tableName;
+    }
+
+    /**
+     * Clear the cell collection and disconnect from our parent
+     *
+     * @return    void
+     */
+    public function unsetWorksheetCells()
+    {
+        if (!is_null($this->currentObject)) {
+            $this->currentObject->detach();
+            $this->currentObject = $this->currentObjectID = null;
+        }
+        //    detach ourself from the worksheet, so that it can then delete this object successfully
+        $this->parent = null;
+
+        //    Close down the temporary cache file
+        $this->__destruct();
+    }
+
+    /**
+     * Initialise this new cell collection
+     *
+     * @param    PHPExcel_Worksheet    $parent        The worksheet for this cell collection
+     */
+    public function __construct(PHPExcel_Worksheet $parent)
+    {
+        parent::__construct($parent);
+        if (is_null($this->DBHandle)) {
+            $this->TableName = str_replace('.', '_', $this->getUniqueID());
+            $_DBName = ':memory:';
+
+            $this->DBHandle = new SQLiteDatabase($_DBName);
+            if ($this->DBHandle === false) {
+                throw new PHPExcel_Exception(sqlite_error_string($this->DBHandle->lastError()));
+            }
+            if (!$this->DBHandle->queryExec('CREATE TABLE kvp_'.$this->TableName.' (id VARCHAR(12) PRIMARY KEY, value BLOB)')) {
+                throw new PHPExcel_Exception(sqlite_error_string($this->DBHandle->lastError()));
+            }
+        }
+    }
+
+    /**
+     * Destroy this cell collection
+     */
+    public function __destruct()
+    {
+        if (!is_null($this->DBHandle)) {
+            $this->DBHandle->queryExec('DROP TABLE kvp_'.$this->TableName);
+        }
+        $this->DBHandle = null;
+    }
+
+    /**
+     * Identify whether the caching method is currently available
+     * Some methods are dependent on the availability of certain extensions being enabled in the PHP build
+     *
+     * @return    boolean
+     */
+    public static function cacheMethodIsAvailable()
+    {
+        if (!function_exists('sqlite_open')) {
+            return false;
+        }
+
+        return true;
+    }
+}

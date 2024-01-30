@@ -1,90 +1,20 @@
-<?php //ICB0 56:0 71:dfc                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+/**
+ * System messages translation for CodeIgniter(tm)
+ *
+ * @author	CodeIgniter community
+ * @author	Iban Eguia
+ * @copyright	Copyright (c) 2014-2019, British Columbia Institute of Technology (https://bcit.ca/)
+ * @license	http://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ */
+defined('BASEPATH') OR exit('No direct script access allowed');
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-vNaxlPHO1+O==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
-
-?>
-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
+$lang['migration_none_found']		= 'No se ha encontrado ninguna migración.';
+$lang['migration_not_found']		= 'No se ha encontrado ninguna migración con el número de versión: %s.';
+$lang['migration_sequence_gap']		= 'Hay un vacío en la migración, cerca del número de versión: %s.';
+$lang['migration_multiple_version']	= 'Hay múltiples migraciones con el mismo número de versión: %s.';
+$lang['migration_class_doesnt_exist']	= 'La clase de migración "%s" no ha podido ser encontrada.';
+$lang['migration_missing_up_method']	= 'A la clase de migración "%s" le falta el método "up".';
+$lang['migration_missing_down_method']	= 'A la clase de migración "%s" le falta el método "down".';
+$lang['migration_invalid_filename']	= 'La migración "%s" tiene un nombre de archivo no válido.';

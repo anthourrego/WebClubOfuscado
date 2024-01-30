@@ -1,92 +1,105 @@
-<?php //ICB0 56:0 71:e9a                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-5FXHhytIk16XM4e==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * PHPExcel_RichText_TextElement
+ *
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ *
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public
+ * License along with this library; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+ *
+ * @category   PHPExcel
+ * @package    PHPExcel_RichText
+ * @copyright  Copyright (c) 2006 - 2015 PHPExcel (http://www.codeplex.com/PHPExcel)
+ * @license    http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt    LGPL
+ * @version    ##VERSION##, ##DATE##
+ */
+class PHPExcel_RichText_TextElement implements PHPExcel_RichText_ITextElement
+{
+    /**
+     * Text
+     *
+     * @var string
+     */
+    private $text;
 
-?>
-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
-w5aSzMxE569TjGdmHqW=
+    /**
+     * Create a new PHPExcel_RichText_TextElement instance
+     *
+     * @param     string        $pText        Text
+     */
+    public function __construct($pText = '')
+    {
+        // Initialise variables
+        $this->text = $pText;
+    }
+
+    /**
+     * Get text
+     *
+     * @return string    Text
+     */
+    public function getText()
+    {
+        return $this->text;
+    }
+
+    /**
+     * Set text
+     *
+     * @param     $pText string    Text
+     * @return PHPExcel_RichText_ITextElement
+     */
+    public function setText($pText = '')
+    {
+        $this->text = $pText;
+        return $this;
+    }
+
+    /**
+     * Get font
+     *
+     * @return PHPExcel_Style_Font
+     */
+    public function getFont()
+    {
+        return null;
+    }
+
+    /**
+     * Get hash code
+     *
+     * @return string    Hash code
+     */
+    public function getHashCode()
+    {
+        return md5(
+            $this->text .
+            __CLASS__
+        );
+    }
+
+    /**
+     * Implement PHP __clone to create a deep clone, not just a shallow copy.
+     */
+    public function __clone()
+    {
+        $vars = get_object_vars($this);
+        foreach ($vars as $key => $value) {
+            if (is_object($value)) {
+                $this->$key = clone $value;
+            } else {
+                $this->$key = $value;
+            }
+        }
+    }
+}

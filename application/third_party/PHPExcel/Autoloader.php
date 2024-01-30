@@ -1,110 +1,81 @@
-<?php //ICB0 56:0 71:102f                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-5UOaM1yjHtFHmjrg9ynDoLS8po6nwpYwTW===
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+PHPExcel_Autoloader::register();
+//    As we always try to run the autoloader before anything else, we can use it to do a few
+//        simple checks and initialisations
+//PHPExcel_Shared_ZipStreamWrapper::register();
+// check mbstring.func_overload
+if (ini_get('mbstring.func_overload') & 2) {
+    throw new PHPExcel_Exception('Multibyte function overloading in PHP must be disabled for string functions (2).');
+}
+PHPExcel_Shared_String::buildCharacterSets();
 
-?>
-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
-ayN+Zeo5XAzGg0vzPBK=
+/**
+ * PHPExcel
+ *
+ * Copyright (c) 2006 - 2015 PHPExcel
+ *
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ *
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public
+ * License along with this library; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+ *
+ * @category   PHPExcel
+ * @package    PHPExcel
+ * @copyright  Copyright (c) 2006 - 2015 PHPExcel (http://www.codeplex.com/PHPExcel)
+ * @license    http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt    LGPL
+ * @version    ##VERSION##, ##DATE##
+ */
+class PHPExcel_Autoloader
+{
+    /**
+     * Register the Autoloader with SPL
+     *
+     */
+    public static function register()
+    {
+        if (function_exists('__autoload')) {
+            // Register any existing autoloader function with SPL, so we don't get any clashes
+            spl_autoload_register('__autoload');
+        }
+        // Register ourselves with SPL
+        if (version_compare(PHP_VERSION, '5.3.0') >= 0) {
+            return spl_autoload_register(array('PHPExcel_Autoloader', 'load'), true, true);
+        } else {
+            return spl_autoload_register(array('PHPExcel_Autoloader', 'load'));
+        }
+    }
+
+    /**
+     * Autoload a class identified by name
+     *
+     * @param    string    $pClassName        Name of the object to load
+     */
+    public static function load($pClassName)
+    {
+        if ((class_exists($pClassName, false)) || (strpos($pClassName, 'PHPExcel') !== 0)) {
+            // Either already loaded, or not a PHPExcel class request
+            return false;
+        }
+
+        $pClassFilePath = PHPEXCEL_ROOT .
+            str_replace('_', DIRECTORY_SEPARATOR, $pClassName) .
+            '.php';
+
+        if ((file_exists($pClassFilePath) === false) || (is_readable($pClassFilePath) === false)) {
+            // Can't load
+            return false;
+        }
+
+        require($pClassFilePath);
+    }
+}

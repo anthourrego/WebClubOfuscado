@@ -1,397 +1,523 @@
-<?php //ICB0 56:0 71:36fc                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+/**
+ * PHPExcel
+ *
+ * Copyright (c) 2006 - 2015 PHPExcel
+ *
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ *
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public
+ * License along with this library; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+ *
+ * @category   PHPExcel
+ * @package    PHPExcel_Writer_Excel5
+ * @copyright  Copyright (c) 2006 - 2015 PHPExcel (http://www.codeplex.com/PHPExcel)
+ * @license    http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt    LGPL
+ * @version    ##VERSION##, ##DATE##
+ */
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cP/o+J6pF9xL3bclPJrLnZj8POZ2OJaDm7E0COhwgPlSxsICzKhZm+mc1EtQyCa/P833b3kGC
-H2KTSziaf9bFw57nZP9pnwr+IANJ6E5NeyyNpqBdOoE+/hVPwUrb31LIoUJwWNX3UWRzqbPZn92J
-/37UeGQGe7zKqveGY8gBnvtTNa70cyKZztgNTi+GGhjvW2vKFOZ0GFZHf7QgVg/O8t5DabqJJmXP
-JXczV+iwQfSCaNugOqljC9NF681okvdgygmHEf83HT/zGiLVv7HNaOcUHI6iZFLh3Hv6b035OpRu
-B3cml2X4/tfOdOx54hrqXgfkAwV0Bri/WxyQ0SOnwCc1W+lldmeDWNogKqZf0yomZaJI03jux0fn
-tcA0as9bcRFWi28xEl9ku4SEB5tMjF26fxesr5o+D04XhCXTpEDvpdhMQZhl9MMZx1I3JnyuJFin
-9J7udMweq7qWbadQAWYoz2djh0URN025KOnSICKRLjfJjA8hjHiNkS10W4Ok85R2EIuEnDzGR71o
-e5wmPEVwA+kAP1zXgBEl1rVbXRJLoZQK67w70ECPr2mMR1fOlS7CbIzMtt4rRiNTIlH8bfwcco+p
-Ydw+X1Kn14U8ZzAlQHHaXsCGJLRyHmX5fAfwOTLegA51xt3/Z6xGbpqLS2LV6D6ERGawdcDC5tZI
-Ajw8Q3YcPYU3Da7h/5bcFiIygcvS5RbSYufX0eFou5rp8SN27vq3bsvh4O7HvEPDMAZrNZ9e5dfe
-TIfFwGzmuS/C6s3BJn1Xhoy0+c/XLvNLYuzfOLlWjCa8pE/MbG8GZPyhSANXtlxmZFNfGXRrE3Bc
-EGNv0ZU3QeGzflOGCe9xU5b1YvAUnOXuI8u+bP2/Vjfuq5BReiDnI+nv329AKdsGZx5QobEiy/hU
-CuQreJTyAv9Um+5iAeM4zmGKXjojXk78oXjnzp3qU2enoKEGac1FUf3j2xC/MCKlqS+VT0q+DDxs
-IeBVpJX9OF+dg0W7l5X53SWQHPQhCTJoL6LJqez0FUFOWGCRalR4qDwJiwMFt3O4UwLKLquqtKCN
-t3ySBRJsD0ozDrdADSnam5tEbNxhojh3nbGr4iezlTwIASZ6c/OGFbzpoeG5SN0bBjUAh2VtXuQ4
-cqWJwxOPm3F69TVgWTr+9FdidzimyVTHfK5TYogczKHEj7QGAHI6VQiqZsu9ut+eDdPuUuOXjCHC
-9bsuYlljkyOFPlOrtJXmRoHkI/oOYAUj9ScAGp/KY+0leqSrZxguP49thzlpteIfwA8eRrL5FX6r
-MONk6iOJ2s8dSVxMSjvAf/QzPAgFzPi49jo9/An0IQpIYXSxt8qVeIwcq9PhMITbeJ/REmGr8uPP
-OphtwvIwqWlqRXqm+YQ+UTG1qCZyv+ZNUpy0yQM2e7zlYOE2nIRR0WcJBkx1mJScIcy8fLIbmOIy
-X0hRFlD8A/ttDkfUSRNgWNDIGW2gR7BUQq2hl3DbaC1GucYBtQT0uzrjbAKtSTCILqDtYh+FNNxC
-l9ukIMiGbZt0J9NjJxNpDWT5v220PO3ndtkA405BvjwS2SSEwS0T15KupahNXpxTK6Nngb8T6eOg
-7GUFlplU0TErn8NtxgOY1zuhx0/m/l2zH29wmg2RcciYXilEJZEMqRmSwTir7yLTZ4cNvV6GBPeI
-5k4UMrH3QYVvu57/mgOmPVo4qoXMoYGhalQcqCoqiUgrprJJ437OEOGfEDLh3BDSU0a+HPGMhmfe
-wWRRlNzKsqp3GF2H+9+iL3rYh1sLw2jRh9DoXrN0+OxTrTZczhs0210frIBq36L3ldoGMtmqw0sd
-/eaep17PuKZ6v0mORbZSxjZwv8QMLrATCmSxeTCxQs1Up6qDEJHVfxaflvQygPm81UbWuEu7fALl
-uxUs0TLg+WJOszNTXMtO0RHFQG3BmVOCKX+vmc5qopIP0RlZ6HfT2JTHQOYxp7WTH/9vbD1s3SpC
-1gJFBXiFyEMzu1MaVweb0fe83Hba1ZMyioYdDUAdp63SlwJg5FDFKFz6hw1laIsUh0evD4EJ7m3P
-XmYw1vgvQMKkQ0HGeHYaOAi0WqOK4RKfzUSv8Oq5i15Uox9Y14fmrPGQz00NZHBGExt4VSvSlBen
-dXsFmM55Yg09uIQfBu4PYaleXVvsH4p5lpl28CRCudLCLrom0dUHj1WsReD7X05/y09q7uy3tRol
-k4fXLBlSi16O4RnBhq+F0pWf1XqHqThwP9V/EcOSLiS6/M4cA65iQoycxVjYUYKEIjV+mbB9xTWj
-rBKD2WD4b1NX0olOPWQcOvJBAoLMS/y0pljspO34feutlKwEMWCSy1WDHucyDk4qXuJBArAuSKa3
-LJ1Ho96rPIZrFVn3/oYUWQ4vveQrx+7dG+l6ELPWMTbEbEpdWUKbZ3x331B83mTrloAIBjE3V8in
-d5fM9Z+Y9K5i6CrP4Z/0cDQJJcTPVEso4Vqqpzlaj+JtphN0OglbldqPfuFKs/pCUW32z6T/LzEH
-lcEFpN5A5pJrervkZG5jCEOOk3vnyjlqPr38BIuQrexFq5LBNc/YXseP/xsFMzpX/D9lSIoUHmku
-6jaJcjhdGDFZa37NxGpIIeiDYV87UDSYCz1iRDy/eiy2RRh2UnZD0fZkPk5RJBrfMtCv7FKnH0zx
-4Ebl1G3iycdugL9S8qbOoON7aXSCdkV5V+jAeKLAXpVVRrOYtferv14R8FkTNCDrC4SD/srPbz6L
-yiKVsOad04nYvnDaaHS27pZxgjSVFeC5Cfe51da2nKLRplXyKzBSWPVMUz86BtY2yLrnTl7ZYmsO
-rA730Y3h45cusL0onYK5H00S5vbGjYnPlCMn1rlZx1iMTaV5KAjN7ytCf3cotgHBtFxmqlXFsByi
-DNMRKxfBB/bHVToOUTc1e8sjEuYdSlOMv0JZZWwGEsQCqzKpjm7BPCYo6/r6rZllB9ATeNXHjd5K
-TunDrBIT2NNA3sIuVY0/KIIuIZqx4mag2dR1o/Y/wV3BMQcjSUtjNo5TJCc/GIxfe7mjaoHHv5tF
-uBqdTDHHjYwycOwYR+8TXoIymVJbEF/8467zYNi+OECTo0Szvignk0oh1vJ+wJEqeIRnxS/QOXlo
-K/gJnlYGIli+dXvZAH2ZSt5UmwKB07sCNx+uS+aRLq4J3IK88j2YzTV1DsOjbegDPIjWbdQbd3ad
-ZcFzozXnetdoekjxqhghWGkt1F5+Gnq0WW5Xmf9bgwoMZIYteI8zwdDOyD/8uo6d8DRLcmqbRj/l
-Hv/gh7gtUepbtWxGsncpFJ89RyUQ5X2QUbJPI7FnWwApCCo9MHRwY06KMlF8i8OVP6cDAVkZ424C
-Abd/41C6fCmfSSUV3bkRARwgxkQRGONQt4LNkRkbcLZE5cERO43OHimbArGsT+N6jqP7/tsMWUI9
-VCEyNRn3zczkx76bIFXhTwktebsy1WpYvnndkzlokepxqHSuO1b6OYHQDLbMKgvuVICiTl60pUA3
-N4mtztHMuvkPQEDV23NNzsbv1tkouVSNSSnUKXs3avlQFNeW0IedCYrxZpbdkp+7hYwOTUKEROmn
-/fQUdXDUKY08WttjlB+PVExDfVLAPWKRgpRPbKNKeTqo06XzVI7U+b5xR9/zYXJPrlqZEi9JMCQ8
-hlz+H7vGWiuHmHAkDEvBPuEFfh0ZiIEFPTdxvzpSi3OKnXOO5bIiUMMEd4SE2vkWxp2CyHyUMprS
-wV5v3JeMe5Gp5E3vMs69YDSnNF5jftBfGDmgi/o/NPcDdyKDkMVGsvPXI1hYpvQsgaLnKxv3W2ET
-RVFWWX897KYotdwBvQPEcmbV7x2SEu6jH7DtPE/e/TzclRATCpTnPUZpVoJiNydEzJYVCJ/8dtvP
-VEwFKvF2XPLcDRQB3PVT2hXBoFIxXQsnSg2tBQcnC38rOwnSqjD0TZHJEC1VtKtcy5ST9rqq1Bsg
-Jscw/1XnotnMNVZaE19rs9zvSsID21SGPQmRhTGPaRxYGiGT978UBUFbZl6Z3KtGccPBuYf+dYZk
-OHsSOwTJ1/Lc+/zVm9c60GBgWmBL3wy4fpvczYwIyHCLfvSo9UtjO4Z/FdD3MVQe8yiHVvrh7/ze
-df9NUfi/j3r+cRVOmfXznV1XLtACkWxycXpx/SyKT8J+6H1euYg+tlyEVRBpsOH6eAX/7ogpBpqm
-ZhFckJyKZzne8mBdTRkqKHjHQ27JueYSopDRkHlNQr/VYHfWbuJA3Cr7s2Mco1tP2TogjxQj0qUt
-XP0F2BgPwQu/4S6nfhz7P7dxRVfcl8knOCyliPSRIFp1zYbCo6fXKicIn3OxCpYmRGPJyB0lOB3f
-GPyw/wSOcEXDC5tiVM9HW8EvkWo5LQpdGHxbwXtohyuLxBE/3L71OplIJI+dE8+Z+Wj5+do7LkZX
-TGXr6Ry3Jo6HAfoLZVsEqwtccduqqCuhxtHY/yiSVUU2eiTSjHtdfJj2gbqQfObQf5RgM1yglYRY
-IBYCIuT6srWVgH78JcT1xoKmozURTexKPs2r4jvK0TWllYmjlYNGb/TCAgUPMzcyxtYd44v+mRGq
-sZ4rh481OJe5iynS3aiCjNe2b5VnuZ0oBC1+7PgP8uUn0VUzdeuErpQB/MDW8BNWa6DWr1Fq+a6F
-wWmIS2IH8e5ZpLd1g1OriAA1pjFp7x/xBbM+7vSv3CZUHjSYOdSkavY6/AzE7i7Vjf4Yx6hODCv8
-/9eIGecjsvtMx4NEhWIaqTuNQFWExSExMM4QaydMol+CWb590jvOwJeoS83JNsQD40S0IToYm0O9
-G5zxqaCzHS+uXh03zP1iblzobAn4HlOPrq8r+3dXjM3qSMADyd5FsRKAzxNTIWPnqJkV5Vqnvt36
-qbH5HRymCcCRd85erqkIaCI1FmtmnERtJ6yUpc+BVq0Li5aiDWPX7D17UGXJ9ZGGo7pz3njntQr7
-j9Al11AAAc0Ft7zaeL7G0ShiBsO9YIt0E8435AVqIAZC6Ls8H1r4QQXQn+V42RTLsJIV+dVVCt81
-eG+izYk8eEO7wyKspHzKAzZaNxZAfIR4gP9B4xHWWCDrhPJyWKIClsbzoJdFjr3W2ZCh6M5T9qj9
-NiKAyr5LqgqmC8wQAguSBv2BG8arkmmWMJIN5WY/VV/5B3sMJ4b90rHIOiaanib3mrfZkqSrZ6uN
-rUvNejJLnuABtpBpuhXL//PBizB1O9bpOb47v4uRag8EB91INPxtjtLNFtft1UG+AqzNrWHN7e2F
-sZ2gB24J6a0QZH0Mn+95TGlCH8nPzrv3Pz5gxBkAg3DpJWaw7NEpECBCDNmGkg4EAHXUJHgARDok
-YJ/J1LAHZ2aoH1YF1Lhsp0zL6P2OBS0LSguawRQY+5dlQ2jJjWL0SgpA6WtjM2ePPobPe3S6ciLt
-zS3Fwxu0j3aGDlvbuk5Ik9z2eS74ACKzdwPLCeIO0BXRirthY/yEwlTdR2GhheRXD7HVjTaIeKbv
-lw4zJhHYHB3IiHWYV5ivjG57jEqWqJjGOfw0YLt60N7YMWmv4WLtP8476aq7+AE9qDZKoqJAUhf5
-ivcxd5hSX9QWJBr3PCOEkFydHKOl+o5thPrD2x0vSjYbBwbXAKzly2qqgtz0nzuJoWwQY0sf7kEj
-aMV/z7IqkVBysMDec5GvDEPGavSUKbUAjlKJtYk+8puJ8R+KAoUjy06f5tfvsO5jZ0HEPlB1MeZV
-9s7Pog7fVX5u/sS4snUHMLa9SLJ2YmbPDhtG9dpVgq7FSqPY42Cum1tZK/weB4sBKdxMt0+MYFSX
-Y7P6up52eOC7vj2Bbyf3UzxHDKdGlPSlhX20o2jQyXSYv286PeMU8WAUWWqe7eczDTrRNzb0Un/p
-ghSEj0+efCB6lkE5XdDLWGgynOZIGTcWxV7parPS4BHZEHOQ3+S+bfKUE/vXHGJiJgaeE7xvz2tT
-ekj0whH5qZNooQanUoy0SFGVP2GHSEBHZv9sDXZ+UewMhvaCjykbOFSw3iLOzUHW1iCaJmS7kVZl
-elEM3fcNIJl5GOXQRv41wb9/ksN+WLHmvdZVeyuTcPmU8jzhu7uP7izO14w2kxCqcwom+K2OXPeL
-ZYg9KzDdFx+AzVPNMFczvWz7kZwAFOUNpoMShI4ACLvQa4F/TjQDGqKUedlqAnboypBhhjkCJ900
-2LY/jRbB9EszgpAh8LB/LLrWELO9LN6DDEfu5Zz2LMmVd6xYNuyNnQHoXTjmICJqmaGgK3uoImL0
-mXdxfCndECmS3TObMiUihlTwh1Rw0wOVWBo9noSQMIsvBRKLjqVwWJej1dhHL+wM38t4LOJQSo9g
-iWJfbIie7Z6Vg0Veu/EV3AlmBeAECISeFV8cmH6ML334/bsyl1PcNqBlqX/NUWTECm5b04FOV7ZP
-hUMspbbUgNqYarH90yw+Asoe/seTQwWY50VsP2vnChvQCw/fsmmqSDrjBe/LNpzxo0W9wINSYXKq
-fJjx7AcqQ5KMjvK+WWELkraWD+/n4GgDeDUFZNkCenzRN8jAi3WmkVBJC1cMIbsChjT5QbJ70Ina
-DllFEwvJHdyak/2lwBtn2FqqDKhRpRUkpm5YzzxQI/bf5SaFh5GZfq15GR5wkci/LS12960cpK2Q
-3LhARW41OHDzuipT2Cs6cuI7cf0la8gMG8A+ZghcLDUeeqRuleewIHK7k2g5C48u54+/rgwcgq7A
-Q2IMMYaOVCwmLhCSox5BMpAWJisHnkzHrQcwcGR93j9N2xmDEnti6rjZMuWxC4s2531R3m+hp2P1
-9M1G5oglp96kHDGgPo0BjkwNZqoADlaSlSdTJhk29i24LTry07mzfEaEOPq2EX01A1FQi6BJIU3e
-0d2t3f0qwvch8sDjk8YqjDYtJ7Yzr//VWedXksV/dIRNngoyxofAElXKvKxXB+XlcVpSyMA2u0Pq
-e1frPUM+iQ2G30XdjesjI333ZLQGPT9Yv6qu4mp8ZODlHy6cQevFIG46Euq5B+IMwr+U41WDxhlX
-W8JAeY3yzqgZHns+Eo3RswxucWJA3ZVEOyxtv2YnT1SW0Krq70gpZXDSMk1gsPXkzdENtl69GQcE
-CkC3+6AcVyYvsFhokbwF2WTxVvKEWdBT1sF0KPzwGplbBXb87DS/aHMNjPj4xWz8ldEpe0LfhNQ7
-CItLCSSYVqs3DubYMIsekDDOFjr6omdpy3rP7dWfRQV6IbR90aw1Q3Q3286B0gQkKTAp/vvVkkyl
-2FyU1bop12vqM5JuPgDHlnnCeIBtQxQMu+GK1T8q1SREYjUXOQFkPF8Ky7xGsVTLQXirC8JgLCMo
-nLf+MzvNIW7u00rs9cqFbpNB3lggIGijH502FnvZ7+aha9LuDvYzJv1cbjb17QCs50dyJOiH0Qz3
-sY3y0aJpI/Ywr3FDisYp5ONyH0y+y9mAkurzk1w/1RW5H8mbEJgvyL0nrH0IFiUAgEivJaN0YkuL
-lulQwombm9OQgvwEycyBeuI86iywNFGwcXhXaM2yHTjPvj62oL1U0/Yn9xDeq0fxavSSQR2edOwO
-d07q3uoqOodL52JZh2A36n0gOcu9O9nB3nnTTIy8vngAk3q5zGxGRa5XfTRorxs6l3ez5Pq6iPO1
-NHfBCSjV00xXMGw4PxGD7jODYHHH3/CkpTj4e0b7LcUwRmAc8fpUEgGCJipC5aJqWxyW4bEtJHFc
-xRhANnuH9NgAVNWNYCvRGoS99rrIDys8RKMjY0a5XD3UOxdUU/RuwXRtRPxv+26Pj/orEcZkn3i7
-Wi/wdrIyU/2TUSgYOfld9YcE+qg5kGQ9BlT3X6NQRgLY7yjfcgdN3vQkC1ISerjlgBwa1wtn0vBU
-9A2F1zU7ME3GVxxP7Xr83OwjBXdEtO0/o9uCKJyqVDCHa8XjQHS61UTqMMWBnrGJUfeYWlh/s1yf
-ToiAIICOaljl7X+lfNi+O9NQS8RTvxmoLf04sSudWm1RvcQtKRIphN1KKXISALaAq7RqAiuKESRj
-S8/99f3JqAxzm9EwbRP7/HcJ5q/cN3R8dPiJC2V4kUV1zC0gmwJ0ZBg8d1uD+B8guysJn97wWDFW
-M6rtylK/FX8+kVSYL1LKRc8x97aCMC/ocvEVLQsx7LCdr07giWRa/7yEMYMspA3ugvRmfWgMh8Mi
-TtNp1w4gC9RJ9Uvf5lfGDzE6zDNwgEhOEU6vEoKLMy+pOr37tAxnfzjGQJgo4G2i5K33CbJZ/O7n
-dwu/V++G6BXlDnJqZH0RPWl8BDifiBfENVG4ytT0E6I3xIgRDfqjV8G1lWwncThrmR0ooyxkVRnE
-+Plt8ysC6+xDERQl7/o7mNyePkTsjPeWBoUI7iRl3d3XLXG74qAXI1/FXu72elTeaKyV/f36foiv
-W1XTZ1XeQFUhbIYhijwQuxLF62h8hkWzzYlBTpTTnXNOnCB7E9xdo6AYPVaLTIiDvzyibC8K3NIX
-gOA1G2qZoI2TIMX0lrW1HTA9yZXAwquTbciSIfLPVhh+iFHAy9Nkk0n7sw1eH41NFcLx/Rg5g3D3
-siKRaDK6tAG7hXH/qWnTbQLc5u3OvMT7dmw7yBtZDVT7HsNTu9UyLf+56phJdFTQ5Yq+vVmzKPuQ
-wS/8qEhSOTAlTHRy06vb/u1QCwH5aLUVmg7kbp73mWq4zd4Ypu/4KXZRoE+IhRgbpOfmkFl+C/jQ
-x02CiwCGEgf9L9gWMbXuq43IEg+vyIEURMBabTly0mcaDCh/uEfzj4a1pszlkusHLqh1qvSjc8Rl
-+eGOD5G/PwZvgUFCdCOGYbhmnfRMLh21yn04qxAbqZEKuDSq7rBIbMK7/64i0inPRFvU6sBJS6Jo
-8OQZeyhMFKAYj5FECzzzELLCw5bjVSNi7VI/g7uO8GKmngXRz1040aoRh+XQOCw5FWafHnKhuE17
-Y1zyWgSaxWB9HTu0/t55b7R4HogSBuGNLY1PtQHn+0MELOHhuhUR/0OW0Z9W4YAmLKOOUkiA8gHy
-9bY708PIKRR4NLcfnJkKZWTyvBB0TPgw5NkCNzi7mTskkLhXj4+upCd6zP49erRP64SWL9c8U00p
-taHj9n+Kby/7M7QjAAFROPB2RRE6yisG9qnyagLGWmCFOM+jfKJqy5qX2Nl79y3ZacTUcueqAHkl
-rITj6w4LUxC7yHOQJlqXie3PYsP1tjnci88KEaPC3IkSbIWPZqpmjKVzrUsOvnLnRNhRt3vpx8b7
-x68ocFkGHTtbdFHJYmmCEKPLq3wFF/baL/m+AKuWZRvqbvp4qXc8gSm+gDFejJ+qaDr760GV3ArC
-SdMzV5d37CkeHqjU01OxETYD+uT5Gm4oDBzEgFahvBZgw8GbuIN1rgKceuvFg+d5ylysMU3D/zKW
-QEjsRdKGcyKaN0iu+9fqyyBTnp5r1Sar0h3bdLngwudcceDfTmhTFNDC1U/BMiREzRarA02nohK0
-mSZhMk5aiZDwEGE3LBGWZ5v1S50HEHlgv2Et+jZXM9IQEWOCpK7K7hl46N0mDdDQ1hx4gtHy9sHz
-2VW0WbrBYNKpI1BDAaXe8y/qDY0Iw+Z0fl3bWKElDO95HbS6Xm4EUeKnzdyZC9JM5JztEo2yOjcL
-3kGFUobm7hPdncKLFY/0PMlHsmDkJ/SfTSmAdELunpjlF/IJbnfL64Ppittx0NGS+E2M4yWFwVem
-/nxT6Rf7XrvhrzY0N84+WDbkl2yITQmk3V4ab34tucB54YrmP++79MX7DsNUjRwuyLHbggkN4tYI
-4O83EgpEK2C61RCVBDdNKu71Am7GhaBQW0LFqgrSJ5tCj+as8hjpoQZT7rH+Y+pkYpdTECvkjQJx
-hb9czTVp8XiYrlrYXJlpTL3PNfFomMckLeyaFwh2cM71zCigPIpw+AIY5DjIq8WhFx6iHBVM95YM
-2c0PUlFuXivAX1cCbAH4ZkDDg8LIZ2IzcUCI0KDfCEpbvYizcBt5g+IKTvhEGn/mb6807IYrL6J8
-kqkpFbB44Y5hP0X0Mc6M89VGLXX1EooET8uja0J/P4VT4gDX4Slkv/RpVkaBQP2JMi4MUB3OPD1p
-67naSf2nyhu2GXYiI2pAKH7go3Xo56xueZxh48EewRLWkBeaL6BSfAJlTJfVo6lzglgFzi4mZDHz
-hgGAYcLb2Tfe+aJrdwcbS/1AC0/jM2RmrT1fX+MSbXdXMkLaWXgUXG4zQUx5MaPUc8mQLM+QB1RI
-FK5ri4VNBymUaqRNR3cLTgto+5wCqe8YQ12RX9S8RM7NcWUCg4vtfm+QDZlo2kETRdMDX52RUqLq
-VRm4gTHIwruvSovyvb5zjy3EsCSV3YP+CMo4BqcWIPZzvzd+KcYG5o8FkPLPIWAWOB/NI/FsXx0v
-3lzCpld3e275ruJaY+juaIt8P860hPqbe0Mb00YSJJhBgZySJ6uG1k22A8gGShF5ihZatBsQMlPl
-BHa33Fk6ltttJyLtkKsqNWt9Aj4rUq/9ZpuIKPbFY0S7Jnw9HFDv519R+DhlhnISqsOdHWuwwuoi
-Y4wdUnCgZ1HLHM0mx9y1TpBl3gq/Kc+ZCRQ4Hs1EyffrOdaI/AJc4dN/h9bUHWoVDwkh3CieYPij
-rEDM09FJb9XP8NlP//madqLiLHq1txBENp5/e/kuhPOkvDGZjSi5zLGXiz7E5Wvj4KBR/VUFeGwS
-mE8e0M79Sm8X8OnSZPRz3oSDYmR8jiwIhqIzk9e2/tFX68/4vf2Y/NrmZI19Djvb+SdVXOseiRff
-Okx5PLMbja+nU/VURFyb9l9/cI93S22LcRisI7G4RVCmxBgvwI8om+pxuiPFXZNX8LU+GgJvvH2f
-iK99hAdWQFwEU2QQyLCAMa4bbZKNizWf1JziRWZKAqAF43kvLYpYZDvbVyHNPTuF8PXQkTYkW4nO
-rQjDOSLGYHdW8ACfVbcPN7n67JSvZwyDvk5f5KrQHHQO6YwoN4EVAgFGXunPHzFYf9KcIZSLolIv
-HjzCgmml07+YRtLURPcCy3koibibQESbcOeKI4HYxPFr9TNuag5cZyTC2jOHGTae9Rvjq6uNcPqn
-+oLsMMwwdX3tsljoxHz2nCE1WjYZMzBNMiTbVvbEaPHv/EdtRuJ1SwS4/lkqyvf59yCHtTUkoSZ+
-WtzGeMATGJPEpvrdl67vADMH/w5mkqTXMuBUdExyrGAyttXjBz6mIkRFq7UY0fW86pixIuvZqZh0
-QECetcxVmeL/lN+qPnf/Y3R/RRwwarja6RbBgrpf9W9zrLu/EksplbgutZ0uSq7NSFnPpT6S3s1+
-GWkoxE2V5EtSWI5xQk+pjwGUaTprEyAit00sEgZiJXbGXQHy2OGV1z2g20SmZigt4N1WNQ3fq6GG
-EK3If7q8m97U1n7a3VnBn3BBT36mEa6oGYX7OnQarBEf7i83AyPF9bDSGK5naP88CeavgZTgxsnL
-l0U4abKA9K7GbGuSZQUc97mFBFZ9ZsTkQuAfFWUX85GM5pAHioJ1Nc0MIpXsbqui9XLwQpPsNj3T
-Kg6tahL2DEnVTrsP9bcMIRBKL1thb089gJFJnUd9k586Dia7PuQqcgtZEaY+tNB2GxHqylLB7u6v
-WNlTWpDMvNm+LRnEv4q7lUokZdb70njfo8Ta5sZ6XdU+kiVCQcdbc5jP2McVmDdvRDKjQRPIN3ql
-gx/SSoD1lslyMcTWC5AY37Ndsq+D+OBAs9qXTs1E/EcbExcoaVAb8/sBe2qEKyb5MFD5nil5knb/
-7ot5QWDsJCs4BO3bQaAqSfmDEo9KJEVf3zkhFIBvt4ybP1HWgyktHYDbaomwvfmmTMzFLaZRflEU
-QKPTxLYOCCNLs26Ww0/qzePOnwpsDJv5bxDexG3NzLyQ/TiGRFC8RSHOnjYXguBCWgbjb3dmO4FS
-1Sq3u/WDSpzQA//QzmlKYawnu365ZFUtjquOSSPnQ8KNyabr65CJuvW9VBeN4jNKrKl52/mRbrvQ
-MMIUQ1m3I/wZ8/Azf1+QsRcckW/A/0a3Tc9iHZsEQqbI0IuehjsHVjDLfo2Bq/3V7UyswKGsLN3P
-3NZ+MGrE5QFwFP7HvZydbMj/ROLJpx/Amjc0OEQDhqyLxBQjkdYz1l/ZM3C+UVoYOAVYSAwjRF+k
-LhzwO9Zcex1fDJubS/VzPzApakXOtXjBXTyShcN2ZEJkhBuGDHZoqbsfOoPscIgET+7Yk+LtIkx6
-Myj5JcUxyaV6oLODgypHqSfxOAvmu7srcThsgH4DXtY1YvnKA4Sb+NJXpBm5pYkNnhb8ygeo57Gs
-lFOVNIMQ7vLEr+kWuHHJRfb516NIqOn8YecqU4TrHwFgw6F/1QYdMytQdlOWGr+/WxO+WctetU00
-vISaoCL+NJV6vR7QZKS2piPtDD23SNyhkB60kEWXxd+dWRoBoTMMcLnu0h93KuNYB98nS56cVAQl
-BFXjeHXd7Ffvx1kGtAzUb5H+s14k34Jy2jjy/mpaeuyFdl4KIK6JTwmSMwhR8IBvnXe3LReKhCmr
-cyCGCKONVZRDDCd3h0uRnfeijwAspoa0C/klQBadV4ok8FAJ4cRSFjyxlE4v+cdrjK6EU6nyIaWl
-mFuho14aLwZyzY3Tr7cXHz7OD3q5z8DDWvti6n8dArV/RlW76msyqCqZmsLWA8i/Lym0XTQfZwSt
-mzzOXS1WZC9eBYUL/+nvRCEDBrACDOzfhvpDMwFTelNYXroIep5K5E9E5CozyPVgXJ6RQUMlQ5lg
-esognhi6S18tnPDQdoELFwtXYmuxhkuRydcZNZS3PAnoxGlztZMEPUaNPw01Qjfhc4sSSpUIzaQ/
-hkg4hPuMIo1xGn1YmZ8XUcKwCDMYutZ0JTNoYW4kgDMkgEsoHDWiKAKSzKH+MH1Kf5slKf/POmJI
-fqoVJrIW5It5tizyParVSWO1llSWrntaGPL89u52LyYs1xlVov5cDFVWU4zMvvknwTf+Ets4VDW5
-QjSVv1WZvuCXBU6td8f+QUKE3v3oPFGPEXbrTJbksRjcQj20vALPFcdZoN54mEFArWjmjwNzzcFi
-mi8SbKTXp7HJZ8/vCIUpBskVN6wt0MaMhG===
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
 
-?>
-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
-3MnhVnfc7B87+gukZZX4w5R3aCLiTQple6hxUK8=
+/**
+ * PHPExcel_Shared_Escher_DggContainer_BstoreContainer
+ *
+ * @category   PHPExcel
+ * @package    PHPExcel_Writer_Excel5
+ * @copyright  Copyright (c) 2006 - 2015 PHPExcel (http://www.codeplex.com/PHPExcel)
+ */
+class PHPExcel_Writer_Excel5_Escher
+{
+    /**
+     * The object we are writing
+     */
+    private $object;
+
+    /**
+     * The written binary data
+     */
+    private $data;
+
+    /**
+     * Shape offsets. Positions in binary stream where a new shape record begins
+     *
+     * @var array
+     */
+    private $spOffsets;
+
+    /**
+     * Shape types.
+     *
+     * @var array
+     */
+    private $spTypes;
+    
+    /**
+     * Constructor
+     *
+     * @param mixed
+     */
+    public function __construct($object)
+    {
+        $this->object = $object;
+    }
+
+    /**
+     * Process the object to be written
+     */
+    public function close()
+    {
+        // initialize
+        $this->data = '';
+
+        switch (get_class($this->object)) {
+            case 'PHPExcel_Shared_Escher':
+                if ($dggContainer = $this->object->getDggContainer()) {
+                    $writer = new PHPExcel_Writer_Excel5_Escher($dggContainer);
+                    $this->data = $writer->close();
+                } elseif ($dgContainer = $this->object->getDgContainer()) {
+                    $writer = new PHPExcel_Writer_Excel5_Escher($dgContainer);
+                    $this->data = $writer->close();
+                    $this->spOffsets = $writer->getSpOffsets();
+                    $this->spTypes = $writer->getSpTypes();
+                }
+                break;
+            case 'PHPExcel_Shared_Escher_DggContainer':
+                // this is a container record
+
+                // initialize
+                $innerData = '';
+
+                // write the dgg
+                $recVer            = 0x0;
+                $recInstance    = 0x0000;
+                $recType        = 0xF006;
+
+                $recVerInstance  = $recVer;
+                $recVerInstance |= $recInstance << 4;
+
+                // dgg data
+                $dggData =
+                    pack(
+                        'VVVV',
+                        $this->object->getSpIdMax(), // maximum shape identifier increased by one
+                        $this->object->getCDgSaved() + 1, // number of file identifier clusters increased by one
+                        $this->object->getCSpSaved(),
+                        $this->object->getCDgSaved() // count total number of drawings saved
+                    );
+
+                // add file identifier clusters (one per drawing)
+                $IDCLs = $this->object->getIDCLs();
+
+                foreach ($IDCLs as $dgId => $maxReducedSpId) {
+                    $dggData .= pack('VV', $dgId, $maxReducedSpId + 1);
+                }
+
+                $header = pack('vvV', $recVerInstance, $recType, strlen($dggData));
+                $innerData .= $header . $dggData;
+
+                // write the bstoreContainer
+                if ($bstoreContainer = $this->object->getBstoreContainer()) {
+                    $writer = new PHPExcel_Writer_Excel5_Escher($bstoreContainer);
+                    $innerData .= $writer->close();
+                }
+
+                // write the record
+                $recVer            = 0xF;
+                $recInstance    = 0x0000;
+                $recType        = 0xF000;
+                $length            = strlen($innerData);
+
+                $recVerInstance  = $recVer;
+                $recVerInstance |= $recInstance << 4;
+
+                $header = pack('vvV', $recVerInstance, $recType, $length);
+
+                $this->data = $header . $innerData;
+                break;
+            case 'PHPExcel_Shared_Escher_DggContainer_BstoreContainer':
+                // this is a container record
+
+                // initialize
+                $innerData = '';
+
+                // treat the inner data
+                if ($BSECollection = $this->object->getBSECollection()) {
+                    foreach ($BSECollection as $BSE) {
+                        $writer = new PHPExcel_Writer_Excel5_Escher($BSE);
+                        $innerData .= $writer->close();
+                    }
+                }
+
+                // write the record
+                $recVer            = 0xF;
+                $recInstance    = count($this->object->getBSECollection());
+                $recType        = 0xF001;
+                $length            = strlen($innerData);
+
+                $recVerInstance  = $recVer;
+                $recVerInstance |= $recInstance << 4;
+
+                $header = pack('vvV', $recVerInstance, $recType, $length);
+
+                $this->data = $header . $innerData;
+                break;
+            case 'PHPExcel_Shared_Escher_DggContainer_BstoreContainer_BSE':
+                // this is a semi-container record
+
+                // initialize
+                $innerData = '';
+
+                // here we treat the inner data
+                if ($blip = $this->object->getBlip()) {
+                    $writer = new PHPExcel_Writer_Excel5_Escher($blip);
+                    $innerData .= $writer->close();
+                }
+
+                // initialize
+                $data = '';
+
+                $btWin32 = $this->object->getBlipType();
+                $btMacOS = $this->object->getBlipType();
+                $data .= pack('CC', $btWin32, $btMacOS);
+
+                $rgbUid = pack('VVVV', 0, 0, 0, 0); // todo
+                $data .= $rgbUid;
+
+                $tag = 0;
+                $size = strlen($innerData);
+                $cRef = 1;
+                $foDelay = 0; //todo
+                $unused1 = 0x0;
+                $cbName = 0x0;
+                $unused2 = 0x0;
+                $unused3 = 0x0;
+                $data .= pack('vVVVCCCC', $tag, $size, $cRef, $foDelay, $unused1, $cbName, $unused2, $unused3);
+
+                $data .= $innerData;
+
+                // write the record
+                $recVer            = 0x2;
+                $recInstance    = $this->object->getBlipType();
+                $recType        = 0xF007;
+                $length            = strlen($data);
+
+                $recVerInstance  = $recVer;
+                $recVerInstance |=    $recInstance << 4;
+
+                $header = pack('vvV', $recVerInstance, $recType, $length);
+
+                $this->data = $header;
+
+                $this->data .= $data;
+                break;
+            case 'PHPExcel_Shared_Escher_DggContainer_BstoreContainer_BSE_Blip':
+                // this is an atom record
+
+                // write the record
+                switch ($this->object->getParent()->getBlipType()) {
+                    case PHPExcel_Shared_Escher_DggContainer_BstoreContainer_BSE::BLIPTYPE_JPEG:
+                        // initialize
+                        $innerData = '';
+
+                        $rgbUid1 = pack('VVVV', 0, 0, 0, 0); // todo
+                        $innerData .= $rgbUid1;
+
+                        $tag = 0xFF; // todo
+                        $innerData .= pack('C', $tag);
+
+                        $innerData .= $this->object->getData();
+
+                        $recVer            = 0x0;
+                        $recInstance    = 0x46A;
+                        $recType        = 0xF01D;
+                        $length            = strlen($innerData);
+
+                        $recVerInstance  = $recVer;
+                        $recVerInstance |=    $recInstance << 4;
+
+                        $header = pack('vvV', $recVerInstance, $recType, $length);
+
+                        $this->data = $header;
+
+                        $this->data .= $innerData;
+                        break;
+
+                    case PHPExcel_Shared_Escher_DggContainer_BstoreContainer_BSE::BLIPTYPE_PNG:
+                        // initialize
+                        $innerData = '';
+
+                        $rgbUid1 = pack('VVVV', 0, 0, 0, 0); // todo
+                        $innerData .= $rgbUid1;
+
+                        $tag = 0xFF; // todo
+                        $innerData .= pack('C', $tag);
+
+                        $innerData .= $this->object->getData();
+
+                        $recVer            = 0x0;
+                        $recInstance    = 0x6E0;
+                        $recType        = 0xF01E;
+                        $length            = strlen($innerData);
+
+                        $recVerInstance  = $recVer;
+                        $recVerInstance |=    $recInstance << 4;
+
+                        $header = pack('vvV', $recVerInstance, $recType, $length);
+
+                        $this->data = $header;
+
+                        $this->data .= $innerData;
+                        break;
+                }
+                break;
+            case 'PHPExcel_Shared_Escher_DgContainer':
+                // this is a container record
+
+                // initialize
+                $innerData = '';
+
+                // write the dg
+                $recVer            = 0x0;
+                $recInstance    = $this->object->getDgId();
+                $recType        = 0xF008;
+                $length            = 8;
+
+                $recVerInstance  = $recVer;
+                $recVerInstance |= $recInstance << 4;
+
+                $header = pack('vvV', $recVerInstance, $recType, $length);
+
+                // number of shapes in this drawing (including group shape)
+                $countShapes = count($this->object->getSpgrContainer()->getChildren());
+                $innerData .= $header . pack('VV', $countShapes, $this->object->getLastSpId());
+                //$innerData .= $header . pack('VV', 0, 0);
+
+                // write the spgrContainer
+                if ($spgrContainer = $this->object->getSpgrContainer()) {
+                    $writer = new PHPExcel_Writer_Excel5_Escher($spgrContainer);
+                    $innerData .= $writer->close();
+
+                    // get the shape offsets relative to the spgrContainer record
+                    $spOffsets = $writer->getSpOffsets();
+                    $spTypes   = $writer->getSpTypes();
+                    
+                    // save the shape offsets relative to dgContainer
+                    foreach ($spOffsets as & $spOffset) {
+                        $spOffset += 24; // add length of dgContainer header data (8 bytes) plus dg data (16 bytes)
+                    }
+
+                    $this->spOffsets = $spOffsets;
+                    $this->spTypes = $spTypes;
+                }
+
+                // write the record
+                $recVer            = 0xF;
+                $recInstance    = 0x0000;
+                $recType        = 0xF002;
+                $length            = strlen($innerData);
+
+                $recVerInstance  = $recVer;
+                $recVerInstance |= $recInstance << 4;
+
+                $header = pack('vvV', $recVerInstance, $recType, $length);
+
+                $this->data = $header . $innerData;
+                break;
+            case 'PHPExcel_Shared_Escher_DgContainer_SpgrContainer':
+                // this is a container record
+
+                // initialize
+                $innerData = '';
+
+                // initialize spape offsets
+                $totalSize = 8;
+                $spOffsets = array();
+                $spTypes   = array();
+
+                // treat the inner data
+                foreach ($this->object->getChildren() as $spContainer) {
+                    $writer = new PHPExcel_Writer_Excel5_Escher($spContainer);
+                    $spData = $writer->close();
+                    $innerData .= $spData;
+
+                    // save the shape offsets (where new shape records begin)
+                    $totalSize += strlen($spData);
+                    $spOffsets[] = $totalSize;
+                    
+                    $spTypes = array_merge($spTypes, $writer->getSpTypes());
+                }
+
+                // write the record
+                $recVer            = 0xF;
+                $recInstance    = 0x0000;
+                $recType        = 0xF003;
+                $length            = strlen($innerData);
+
+                $recVerInstance  = $recVer;
+                $recVerInstance |= $recInstance << 4;
+
+                $header = pack('vvV', $recVerInstance, $recType, $length);
+
+                $this->data = $header . $innerData;
+                $this->spOffsets = $spOffsets;
+                $this->spTypes = $spTypes;
+                break;
+            case 'PHPExcel_Shared_Escher_DgContainer_SpgrContainer_SpContainer':
+                // initialize
+                $data = '';
+
+                // build the data
+
+                // write group shape record, if necessary?
+                if ($this->object->getSpgr()) {
+                    $recVer            = 0x1;
+                    $recInstance    = 0x0000;
+                    $recType        = 0xF009;
+                    $length            = 0x00000010;
+
+                    $recVerInstance  = $recVer;
+                    $recVerInstance |= $recInstance << 4;
+
+                    $header = pack('vvV', $recVerInstance, $recType, $length);
+
+                    $data .= $header . pack('VVVV', 0, 0, 0, 0);
+                }
+                $this->spTypes[] = ($this->object->getSpType());
+
+                // write the shape record
+                $recVer            = 0x2;
+                $recInstance    = $this->object->getSpType(); // shape type
+                $recType        = 0xF00A;
+                $length            = 0x00000008;
+
+                $recVerInstance  = $recVer;
+                $recVerInstance |= $recInstance << 4;
+
+                $header = pack('vvV', $recVerInstance, $recType, $length);
+
+                $data .= $header . pack('VV', $this->object->getSpId(), $this->object->getSpgr() ? 0x0005 : 0x0A00);
+
+
+                // the options
+                if ($this->object->getOPTCollection()) {
+                    $optData = '';
+
+                    $recVer            = 0x3;
+                    $recInstance    = count($this->object->getOPTCollection());
+                    $recType        = 0xF00B;
+                    foreach ($this->object->getOPTCollection() as $property => $value) {
+                        $optData .= pack('vV', $property, $value);
+                    }
+                    $length            = strlen($optData);
+
+                    $recVerInstance  = $recVer;
+                    $recVerInstance |= $recInstance << 4;
+
+                    $header = pack('vvV', $recVerInstance, $recType, $length);
+                    $data .= $header . $optData;
+                }
+
+                // the client anchor
+                if ($this->object->getStartCoordinates()) {
+                    $clientAnchorData = '';
+
+                    $recVer            = 0x0;
+                    $recInstance    = 0x0;
+                    $recType        = 0xF010;
+
+                    // start coordinates
+                    list($column, $row) = PHPExcel_Cell::coordinateFromString($this->object->getStartCoordinates());
+                    $c1 = PHPExcel_Cell::columnIndexFromString($column) - 1;
+                    $r1 = $row - 1;
+
+                    // start offsetX
+                    $startOffsetX = $this->object->getStartOffsetX();
+
+                    // start offsetY
+                    $startOffsetY = $this->object->getStartOffsetY();
+
+                    // end coordinates
+                    list($column, $row) = PHPExcel_Cell::coordinateFromString($this->object->getEndCoordinates());
+                    $c2 = PHPExcel_Cell::columnIndexFromString($column) - 1;
+                    $r2 = $row - 1;
+
+                    // end offsetX
+                    $endOffsetX = $this->object->getEndOffsetX();
+
+                    // end offsetY
+                    $endOffsetY = $this->object->getEndOffsetY();
+
+                    $clientAnchorData = pack('vvvvvvvvv', $this->object->getSpFlag(), $c1, $startOffsetX, $r1, $startOffsetY, $c2, $endOffsetX, $r2, $endOffsetY);
+                    
+                    $length            = strlen($clientAnchorData);
+
+                    $recVerInstance  = $recVer;
+                    $recVerInstance |= $recInstance << 4;
+
+                    $header = pack('vvV', $recVerInstance, $recType, $length);
+                    $data .= $header . $clientAnchorData;
+                }
+
+                // the client data, just empty for now
+                if (!$this->object->getSpgr()) {
+                    $clientDataData = '';
+
+                    $recVer            = 0x0;
+                    $recInstance    = 0x0;
+                    $recType        = 0xF011;
+
+                    $length = strlen($clientDataData);
+
+                    $recVerInstance  = $recVer;
+                    $recVerInstance |= $recInstance << 4;
+
+                    $header = pack('vvV', $recVerInstance, $recType, $length);
+                    $data .= $header . $clientDataData;
+                }
+
+                // write the record
+                $recVer            = 0xF;
+                $recInstance    = 0x0000;
+                $recType        = 0xF004;
+                $length            = strlen($data);
+
+                $recVerInstance  = $recVer;
+                $recVerInstance |= $recInstance << 4;
+
+                $header = pack('vvV', $recVerInstance, $recType, $length);
+
+                $this->data = $header . $data;
+                break;
+        }
+
+        return $this->data;
+    }
+
+    /**
+     * Gets the shape offsets
+     *
+     * @return array
+     */
+    public function getSpOffsets()
+    {
+        return $this->spOffsets;
+    }
+
+    /**
+     * Gets the shape types
+     *
+     * @return array
+     */
+    public function getSpTypes()
+    {
+        return $this->spTypes;
+    }
+}

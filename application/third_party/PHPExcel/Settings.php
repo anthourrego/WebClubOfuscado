@@ -1,227 +1,389 @@
-<?php //ICB0 56:0 71:2148                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-iZcJvvoAOcyer93Jhfk16mK==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/** PHPExcel root directory */
+if (!defined('PHPEXCEL_ROOT')) {
+    /**
+     * @ignore
+     */
+    define('PHPEXCEL_ROOT', dirname(__FILE__) . '/../');
+    require(PHPEXCEL_ROOT . 'PHPExcel/Autoloader.php');
+}
 
-?>
-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
+/**
+ * PHPExcel_Settings
+ *
+ * Copyright (c) 2006 - 2015 PHPExcel
+ *
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ *
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public
+ * License along with this library; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+ *
+ * @category   PHPExcel
+ * @package    PHPExcel_Settings
+ * @copyright  Copyright (c) 2006 - 2015 PHPExcel (http://www.codeplex.com/PHPExcel)
+ * @license    http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt    LGPL
+ * @version    ##VERSION##, ##DATE##
+ */
+class PHPExcel_Settings
+{
+    /**    constants */
+    /**    Available Zip library classes */
+    const PCLZIP     = 'PHPExcel_Shared_ZipArchive';
+    const ZIPARCHIVE = 'ZipArchive';
+
+    /**    Optional Chart Rendering libraries */
+    const CHART_RENDERER_JPGRAPH = 'jpgraph';
+
+    /**    Optional PDF Rendering libraries */
+    const PDF_RENDERER_TCPDF  = 'tcPDF';
+    const PDF_RENDERER_DOMPDF = 'DomPDF';
+    const PDF_RENDERER_MPDF   = 'mPDF';
+
+
+    private static $chartRenderers = array(
+        self::CHART_RENDERER_JPGRAPH,
+    );
+
+    private static $pdfRenderers = array(
+        self::PDF_RENDERER_TCPDF,
+        self::PDF_RENDERER_DOMPDF,
+        self::PDF_RENDERER_MPDF,
+    );
+
+
+    /**
+     * Name of the class used for Zip file management
+     *    e.g.
+     *        ZipArchive
+     *
+     * @var string
+     */
+    private static $zipClass = self::ZIPARCHIVE;
+
+
+    /**
+     * Name of the external Library used for rendering charts
+     *    e.g.
+     *        jpgraph
+     *
+     * @var string
+     */
+    private static $chartRendererName;
+
+    /**
+     * Directory Path to the external Library used for rendering charts
+     *
+     * @var string
+     */
+    private static $chartRendererPath;
+
+
+    /**
+     * Name of the external Library used for rendering PDF files
+     *    e.g.
+     *         mPDF
+     *
+     * @var string
+     */
+    private static $pdfRendererName;
+
+    /**
+     * Directory Path to the external Library used for rendering PDF files
+     *
+     * @var string
+     */
+    private static $pdfRendererPath;
+
+    /**
+     * Default options for libxml loader
+     *
+     * @var int
+     */
+    private static $libXmlLoaderOptions = null;
+
+    /**
+     * Set the Zip handler Class that PHPExcel should use for Zip file management (PCLZip or ZipArchive)
+     *
+     * @param string $zipClass    The Zip handler class that PHPExcel should use for Zip file management
+     *      e.g. PHPExcel_Settings::PCLZip or PHPExcel_Settings::ZipArchive
+     * @return    boolean    Success or failure
+     */
+    public static function setZipClass($zipClass)
+    {
+        if (($zipClass === self::PCLZIP) ||
+            ($zipClass === self::ZIPARCHIVE)) {
+            self::$zipClass = $zipClass;
+            return true;
+        }
+        return false;
+    }
+
+
+    /**
+     * Return the name of the Zip handler Class that PHPExcel is configured to use (PCLZip or ZipArchive)
+     *    or Zip file management
+     *
+     * @return string Name of the Zip handler Class that PHPExcel is configured to use
+     *    for Zip file management
+     *    e.g. PHPExcel_Settings::PCLZip or PHPExcel_Settings::ZipArchive
+     */
+    public static function getZipClass()
+    {
+        return self::$zipClass;
+    }
+
+
+    /**
+     * Return the name of the method that is currently configured for cell cacheing
+     *
+     * @return string Name of the cacheing method
+     */
+    public static function getCacheStorageMethod()
+    {
+        return PHPExcel_CachedObjectStorageFactory::getCacheStorageMethod();
+    }
+
+
+    /**
+     * Return the name of the class that is currently being used for cell cacheing
+     *
+     * @return string Name of the class currently being used for cacheing
+     */
+    public static function getCacheStorageClass()
+    {
+        return PHPExcel_CachedObjectStorageFactory::getCacheStorageClass();
+    }
+
+
+    /**
+     * Set the method that should be used for cell cacheing
+     *
+     * @param string $method Name of the cacheing method
+     * @param array $arguments Optional configuration arguments for the cacheing method
+     * @return boolean Success or failure
+     */
+    public static function setCacheStorageMethod($method = PHPExcel_CachedObjectStorageFactory::cache_in_memory, $arguments = array())
+    {
+        return PHPExcel_CachedObjectStorageFactory::initialize($method, $arguments);
+    }
+
+
+    /**
+     * Set the locale code to use for formula translations and any special formatting
+     *
+     * @param string $locale The locale code to use (e.g. "fr" or "pt_br" or "en_uk")
+     * @return boolean Success or failure
+     */
+    public static function setLocale($locale = 'en_us')
+    {
+        return PHPExcel_Calculation::getInstance()->setLocale($locale);
+    }
+
+
+    /**
+     * Set details of the external library that PHPExcel should use for rendering charts
+     *
+     * @param string $libraryName    Internal reference name of the library
+     *    e.g. PHPExcel_Settings::CHART_RENDERER_JPGRAPH
+     * @param string $libraryBaseDir Directory path to the library's base folder
+     *
+     * @return    boolean    Success or failure
+     */
+    public static function setChartRenderer($libraryName, $libraryBaseDir)
+    {
+        if (!self::setChartRendererName($libraryName)) {
+            return false;
+        }
+        return self::setChartRendererPath($libraryBaseDir);
+    }
+
+
+    /**
+     * Identify to PHPExcel the external library to use for rendering charts
+     *
+     * @param string $libraryName    Internal reference name of the library
+     *    e.g. PHPExcel_Settings::CHART_RENDERER_JPGRAPH
+     *
+     * @return    boolean    Success or failure
+     */
+    public static function setChartRendererName($libraryName)
+    {
+        if (!in_array($libraryName, self::$chartRenderers)) {
+            return false;
+        }
+        self::$chartRendererName = $libraryName;
+
+        return true;
+    }
+
+
+    /**
+     * Tell PHPExcel where to find the external library to use for rendering charts
+     *
+     * @param string $libraryBaseDir    Directory path to the library's base folder
+     * @return    boolean    Success or failure
+     */
+    public static function setChartRendererPath($libraryBaseDir)
+    {
+        if ((file_exists($libraryBaseDir) === false) || (is_readable($libraryBaseDir) === false)) {
+            return false;
+        }
+        self::$chartRendererPath = $libraryBaseDir;
+
+        return true;
+    }
+
+
+    /**
+     * Return the Chart Rendering Library that PHPExcel is currently configured to use (e.g. jpgraph)
+     *
+     * @return string|NULL Internal reference name of the Chart Rendering Library that PHPExcel is
+     *    currently configured to use
+     *    e.g. PHPExcel_Settings::CHART_RENDERER_JPGRAPH
+     */
+    public static function getChartRendererName()
+    {
+        return self::$chartRendererName;
+    }
+
+
+    /**
+     * Return the directory path to the Chart Rendering Library that PHPExcel is currently configured to use
+     *
+     * @return string|NULL Directory Path to the Chart Rendering Library that PHPExcel is
+     *     currently configured to use
+     */
+    public static function getChartRendererPath()
+    {
+        return self::$chartRendererPath;
+    }
+
+
+    /**
+     * Set details of the external library that PHPExcel should use for rendering PDF files
+     *
+     * @param string $libraryName Internal reference name of the library
+     *     e.g. PHPExcel_Settings::PDF_RENDERER_TCPDF,
+     *     PHPExcel_Settings::PDF_RENDERER_DOMPDF
+     *  or PHPExcel_Settings::PDF_RENDERER_MPDF
+     * @param string $libraryBaseDir Directory path to the library's base folder
+     *
+     * @return boolean Success or failure
+     */
+    public static function setPdfRenderer($libraryName, $libraryBaseDir)
+    {
+        if (!self::setPdfRendererName($libraryName)) {
+            return false;
+        }
+        return self::setPdfRendererPath($libraryBaseDir);
+    }
+
+
+    /**
+     * Identify to PHPExcel the external library to use for rendering PDF files
+     *
+     * @param string $libraryName Internal reference name of the library
+     *     e.g. PHPExcel_Settings::PDF_RENDERER_TCPDF,
+     *    PHPExcel_Settings::PDF_RENDERER_DOMPDF
+     *     or PHPExcel_Settings::PDF_RENDERER_MPDF
+     *
+     * @return boolean Success or failure
+     */
+    public static function setPdfRendererName($libraryName)
+    {
+        if (!in_array($libraryName, self::$pdfRenderers)) {
+            return false;
+        }
+        self::$pdfRendererName = $libraryName;
+
+        return true;
+    }
+
+
+    /**
+     * Tell PHPExcel where to find the external library to use for rendering PDF files
+     *
+     * @param string $libraryBaseDir Directory path to the library's base folder
+     * @return boolean Success or failure
+     */
+    public static function setPdfRendererPath($libraryBaseDir)
+    {
+        if ((file_exists($libraryBaseDir) === false) || (is_readable($libraryBaseDir) === false)) {
+            return false;
+        }
+        self::$pdfRendererPath = $libraryBaseDir;
+
+        return true;
+    }
+
+
+    /**
+     * Return the PDF Rendering Library that PHPExcel is currently configured to use (e.g. dompdf)
+     *
+     * @return string|NULL Internal reference name of the PDF Rendering Library that PHPExcel is
+     *     currently configured to use
+     *  e.g. PHPExcel_Settings::PDF_RENDERER_TCPDF,
+     *  PHPExcel_Settings::PDF_RENDERER_DOMPDF
+     *  or PHPExcel_Settings::PDF_RENDERER_MPDF
+     */
+    public static function getPdfRendererName()
+    {
+        return self::$pdfRendererName;
+    }
+
+    /**
+     * Return the directory path to the PDF Rendering Library that PHPExcel is currently configured to use
+     *
+     * @return string|NULL Directory Path to the PDF Rendering Library that PHPExcel is
+     *        currently configured to use
+     */
+    public static function getPdfRendererPath()
+    {
+        return self::$pdfRendererPath;
+    }
+
+    /**
+     * Set options for libxml loader
+     *
+     * @param   int   $options   Options for libxml loader
+     */
+    public static function setLibXmlLoaderOptions($options = null)
+    {
+        if (is_null($options) && defined('LIBXML_DTDLOAD')) {
+            $options = LIBXML_DTDLOAD | LIBXML_DTDATTR;
+        }
+        if (version_compare(PHP_VERSION, '5.2.11') >= 0) {
+            @libxml_disable_entity_loader((bool) $options);
+        }
+        self::$libXmlLoaderOptions = $options;
+    }
+
+    /**
+     * Get defined options for libxml loader.
+     * Defaults to LIBXML_DTDLOAD | LIBXML_DTDATTR when not set explicitly.
+     *
+     * @return int Default options for libxml loader
+     */
+    public static function getLibXmlLoaderOptions()
+    {
+        if (is_null(self::$libXmlLoaderOptions) && defined('LIBXML_DTDLOAD')) {
+            self::setLibXmlLoaderOptions(LIBXML_DTDLOAD | LIBXML_DTDATTR);
+        } elseif (is_null(self::$libXmlLoaderOptions)) {
+            self::$libXmlLoaderOptions = true;
+        }
+        if (version_compare(PHP_VERSION, '5.2.11') >= 0) {
+            @libxml_disable_entity_loader((bool) self::$libXmlLoaderOptions);
+        }
+        return self::$libXmlLoaderOptions;
+    }
+}

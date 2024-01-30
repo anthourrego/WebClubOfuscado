@@ -1,180 +1,338 @@
-<?php //ICB0 56:0 71:1b0f                                                     ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * PHPExcel_Comment
+ *
+ * Copyright (c) 2006 - 2015 PHPExcel
+ *
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ *
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public
+ * License along with this library; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+ *
+ * @category   PHPExcel
+ * @package    PHPExcel
+ * @copyright  Copyright (c) 2006 - 2015 PHPExcel (http://www.codeplex.com/PHPExcel)
+ * @license    http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt    LGPL
+ * @version    ##VERSION##, ##DATE##
+ */
+class PHPExcel_Comment implements PHPExcel_IComparable
+{
+    /**
+     * Author
+     *
+     * @var string
+     */
+    private $author;
 
-?>
-HR+cPrSOAESAmf38qz2znFd0YeOWZXYLk0ARME55ygwEZonyUknYYO7tbGWEyLMiM9spk9eKl+on
-RIRpgHtR+2GwH4ZrNkD4BZR4eC7ztBHbyxW09Pkk7pYi2ODruVbm6rRojNAGdSs6o61aadshtslr
-xhReTbLzfVeMilf3SnvrKxWeO7mHCxcllUdX5USHtukMhM6SISVtVc8e029drbPIEVSACw6j1fXx
-+yH/m2sXMyG7T0h+gXlni7ruT+iBGohpabFUWLGJ2Ep7ze+UZQ3bost0IjMWS3hcvyy99XxHUYFy
-Sv80JrVstNaBlgee/Y+nIGaIXRv11jopO/hTG5cikoqrInXssem5aF9G548+7GWISYk4nfhsNyUc
-bxuA2R8qD6R4C5dRkwkGcBzlyJiPlNBYq8e1jlu4fXblsAAFUsEdsC0i3JQfgSt3GgYUD8RLOArL
-R4HuoVyLFxGMD5VMuaqVFYDt8UfbJQm9qUSYqhggziv6vsKRLJalSs4TuPQX4YFJS+YkYF4g5U92
-J4GqtlyeiSVZXAR8Dca1EAfQqX3/c/5FAu1+S0xjbEhWbOkLgSpHI1d0EgKJiH14/ypAmcdOoczx
-v7fmHqBAiBZR6OzZfSdWqaLDsCauu9ueUTo61UYR1/lmKyXoW4kDHLzLlD1jyucuCmjJH9R2p0xs
-egyvkDZWgbO0RCTt35vc9mQ/+/G+ASALrPUYvbxVTQNH/rC9lXeViA/iyitVErT64mRxVCTLcY9u
-tVQEOC5rJ2qdux4HPeQ1U93TxsmqIwX+lYCwauFhtfMTothjQ0s4cORoQtthh6iDZvqJalTi0RIC
-D6qvbBspx9txbt9Nug1M1UrWJ6iPkrZ7+joQziYGIS9rU6eadtMTRclSvyvJbfyqAymNcItPIK8H
-fdQWZJDTD2itGYHvBw1ySyHpZQDqhV18JTNjOGgSobip/sWb4RZzlBNg+k/8YiDGuK8/7Fj1YIUV
-GyMTl3eD5iTohN9uWwtZKMD+g4Wz1+ahKj2+ULoGOPasW52ooIb59fP2EOK3bdfTnywk93ZbYUU2
-VvzsFbzplWk37Z7+h8ujgKVWyGAgg4flYOYq9rmjrtxE/ZCmd7mtQV5DQmu/OrWk+nXnv4Iy3cVh
-l4peLLnGaQc6KdGjbJAaAO9yhRjxqNovpZSjuiD0XsvHPBH05fFPO7ad7bvBfFu9Td/SUtfKu5qQ
-XYYetbpR9eUyBcHuoeda4lqT+TCUomxoGh++0PrhknSxMUNCuFK5wub5KxrZki9e0MsdMsNqVwKb
-iiyMqAaf/GSHEpb5BgAwjrAttdM/LwXPxjmu/6glGtfCxjcIu7mpDWhjuts82T9zH8V8GJwl89Dq
-0pP1Wu5tlRplkdNpfcl8dt3JLIbDlxr/OL4EiHck3UMQgdtgtmV/LtX1QzEx88IXJAzNGAvEVhZf
-do/AL4S+ysBN++PGuIyEGlUnsnGPdG40qINrQ3rnHqsPvsmc+cIb3iCwg4XwfsByMAqRwdguQamu
-x//asdT79yoD55Fc4Vxt6lmgtrQQvR84hasB1BE4BV20PZ1hG39cbUTm/u1gChzoAfevjTNXuLP+
-jvHV2AAd0haMKK0O/jGISYAVaTV3ImW5Gk6rQMoNI2oEax85+yygid+vYI8WYUf8v4ZJ9rRn/rPn
-RVy4nGRIGNutfDSaLh1eRMIqGFJhNfTGdJPxiy43/n3URTizOKUCBUyNetcJW8LdDDgBNbKkSVIJ
-OY//EqaCDjghxMzq8XuOp+NbX9VMxnqhJrYUUXxKCOTnBmbQNyMc70vl704VtaI34lBAig7ApNHc
-qCsjBS+3v/fZTGB7Xlv5mjaq47dl2ij0IGGgUzXcpjp+rKZG9dlaw2xr3Tfd2W+DVDdujkYR2kMe
-9re8SG5zFmw6VPUPKXhB+F5HuhMka+f5/H6COcMwG181fvKMgnt6Wfuh2seGJXLslkitQpKpd5Hc
-zmdeW4OvRhrPKU4+iqTYCViF5p777RSb1AF0M40njuzNzl37akpFOYDOdC9Yti45x7IHvHz8Ajbo
-SshUPEMbHE1nZoLODpQQ4hpQv3QJ/XtveD5laFOco54u8RgHnsOwc+2yqJMWuaC/qRBesI8jFU9L
-recBDkrDhzXeIoJLFiELB4AsCzQmzGvS+XLBSyN14co/0xFdM8rkpWbBBsq7ZoMkTpqrXN5yxs64
-6lv9wYeN6wtmrrn/ggQFot6v8MYPvXgfqKaqv7R8gM2S186By/hzxY3/x2cJaz3vtApHkZRX0YiU
-PWnnmmgsqWVNLkvKD8xtlmcKMPWN/jwKWG6cBYkNo1T3LjnotXtI8gYUn0uEGEYw01jbvFyrYaLg
-87B2A9fh2hPkxFc/fb6aZBKX+KjpLuvhu/1aWi/Ql2L/El5ejjWsentr32PPCTN61B+di2kEkmG7
-uI+T1yWuzw1MKix1i+Z7IGO/NgqN9PbsIntYmBQ5AEgN9HpI2IKoddw1AegIKPbFDkbJ9zLCFb/b
-n9NktWSvc9yYyun1mlRJ1QnygA6ufKHX/27rqg5IXSf1z7OCI7UxKCxBfk1ziim/5J9ABwpzWoTv
-oNWYR3TsMXNcocRM10ofg88XvH0D6SggNSm2vATSxpOZ113qNOgjLYZopuVx3OQaQaAVi7y9dpb3
-V/m3K+puFxAoR609q8pKr6YY5ONppdqq2R+MFn7qGSHqKW9Y847IN+AD+tSN42HKcXbP3NQRl6ye
-ZORo40pJ7V50/wxWQjIOlt8q+iJW8tk/op1wln36Xur6xrtrkJ3iSBS8WxE/GA/WudRdOPibSkN+
-m7EOXdMZG0sVwhu97bCrD1LeEfgqDtYDkpYPp1yGMxrJJzXEc7yTRMHsXYUqKEXBHG4c3gSP31MD
-6oyXXuPs1MvY7Or1zQZ5MAv9qXU4ZEDFCPKavEL4M0jjUDjAT3iLTacrDa4p1HM8XvvkITXYzyPW
-m2ljzMeCWUm19EnhcoS5lq+3nt6dFi0Kdtj22JMT3VJg3OfrFGo9S0rfXC28o00iYvcYiX/jeqDN
-6rG180QK+Ila6NehQytC/wdv9Mok3Pk8/iptEUiMk9ZoMjH6DXXrUkFqAEbF/dGWyEAg+idODIK3
-kzWEUNVQmrPbiJjzYV045HMQtboUI02409xNfwydcpY3PuSXEYd2mh/r+hxLs6JX1GRyTwr9q69I
-t5pPPy1HbkPnkvJoGWyK78Xs3bTaLoJ/1GQL6wwASyFnURBtrgbJOfeccCiCYLXkU+FhsvC4lNRv
-JDAXQ03C+KaAhtcjo3ln8HkF6qVtE6pVl4dNwqA/wFlK2AQy9CQIoAicdxHLYkMWLWNMTEBr1wj0
-1l8+ed0+WhA1QUkO6633gT5t0WgX2cIxwNGBLPkUNJ0eGalB8BdkEXVxllIUtd0P+6/pc/9mRrh/
-4+8hFssneO4Zzn91OeHlHPm241F5ZrbTr4zfRHRkfxcljdQh8HZALYte4OztEOLODo0do2Xfo1nf
-yvPZ6bS94OjIPZTDtxGKrQU1+SpGtCEnnDfqIEDcqnlyqkmtbczjVQE8dmy5ZA3sAESiDseDusEW
-4l5L9orJYtGS2bgcucdki5ucnzO3KaCnp5wg2WaPIFQ2k0fXW2rpAhTBG7+SQkKcG8uiOq/DbJbW
-DP5z98VaFtFvYtH8Lj/XWBwedRrP4Qu7oVN/k/Lk93CEEOTkIvWIWDzTICRZETDVWmLN6VY0ynRO
-HB7KApfq1zy9faCdFVoHVpD4GefqInZdX/+hq++lw/Eul3Cb6HPS/otDH8nnUvLaDkeCXcr3HxP1
-DHEweAv8sqSfgDIKZhxvg/WnIE8wWvmpWFOwY7rbJ10dil7pEToIwbQxPcuHeuIdQ2lWRF8heHwB
-KQWGsWn3b6+B8ZN7ECki7+VbNies/T+GghDeqP49picAtwzZYFrydBdnOOSZ9DcBt3f3oKeaw0m8
-KTYz1lDjTTvFu16CRQoxUEBOEvSzj1CBuULwa576XIU12Pqo8d+jTmPddyuJ25UFBv73U44u9Sjz
-gC8KIeOYuxBaV/8EqV17r5nyJqqajTcPHEE0yCiEPa9vovPIh5Q4jwFkGSGEhm3Jxn3g0e0sBxeY
-H/KP4l2LlS+eJFXvm3P/trjtfIThQc3dtc8X2LUwdk7dlCdiiDE3hy3g2ZiQrNQ4vQD8NNJVc0A5
-/3TxWdK7rIyYEFxKuPZgKhGOXhcI/hgWZNR55H78jtIM3Aink1hdtM/b1YXkk6CGljgPlQMaD9id
-+sJ6KRyiG2vcHkucXFQh2E67Jp/oeU4/YCyufsis6AUja21wVjX0eR6yJ3CmcvwE5snLX8fPckqu
-nfmkxn4Nm4EalXcjRTndFHbSgC9rpvWvLajm4g+ynk/lNm3R6uzG3p5QO6l4trmqmKwqEQkj5zTS
-m6Ot2CmGI6FDKQdBxp+KjiQfhl/IxG6qPX1aBFiMs0WghDETOjzZ8bT2Dtz6vd0mUeTuAGKVFVSv
-YOd+6m72EV+cZitBkpJBWJ6z+gN706yN2m6XdE1ngO+pBvusEOY6Yv7ka8BMj1QJJgLKNufmtteE
-c8fO0b/HuXG4+tUGZEMQISUNfoeuDsUnzVfWPpVZPfMEY/5tALQF1nnL4MxgXS3Y/UFIn1TNtXu0
-2wLatTsGH5XGuXQJBaOzvQEArfpxuPeuzU4W+UcjN/BeSBqSZt4WzPxshhU3wjZ8ldaPe66LM9nV
-Qe6fETBmaQxOaF9A8B9c/P+HloU36uBRlsmpdVXpjvSlVGKHTZLIy5R+8mxIorEepDTnlzgfMrqc
-zbPXUfsqeGel+N4kU2DXS45lwJBL76HtttoBpAMOZi8Pddag/tPnbLdwh8JwUcNL21lamDDsmA+i
-5npKAc3t8k6sKfx70flGfTbUt2tk0uELz1XS1uEiPNT8KBeqas/Za+/Bz3sfQekF1trKYCQ9bUs8
-v0H7IVB6lubiNo+d+p08zc+9c5aV+ZcZCadxWZStqJL2+Dgxho8qYidlWUYmWt5YuKb8U/M8IpAW
-ESkSvbFH2/iO5ogx1KuOE5/SxN7u/37zBvV90ymI0VKfbR5xCLX9K4YveUpwKPw3MYzbyfxyydDw
-KnYhgoIhM+DylYQhJ7PBB+KBK9Ehi4+EvVVF09Zu/T07nY9eEtXfOChMd0fs6iyEGER+MJhzrayO
-xBk7XtqdUcnId+7bPsMxTCr10awx3/DcB48tU93o8wAvchX+SOMA/H1ROMJvjxESVGszQMz1BNYS
-FxrFTEPh18IQTz9HZRyzY8V//DkxKS8L3CNKJ3fJjlGN0umH1goEE47drJSZY5V3ZTTea0Lhpc9O
-oJGiWiFDxvU5rCeP7eEtaLyzv9CdwTsDLbXCYVzc0BnwkB2SeUWV7ZuPTNJAgGClGLjOMILN5DzK
-8LnUdv9PrfSvxJs59uwwCFsJiP5y/elIwTLKoFhmMNqu/DL1aU/RxGglncDjHMwRmlaKTNRD7Fws
-+MU/au3yBkl/HuowXlrIbaaak39G51Zxe2gn+KSkMnyDO33rZQo6CXyWWewXczQom8Tu9Wr5SCoc
-EukJIxewnuye3omiu1dVaYP5Quyg9H2yJDtxp9vVzBuwKfM2tehywnPp1u9uD8jhStzihiWGA0DF
-pop7xNL5LsTu8MdtWZfmw2sMOyL5GlwjLOwhPS8cHUv4BgB1VOwfsoAvXGcRimfLc8HeWnbvkoVE
-eeCRvXhU+hQnflgbXK8zSwpygSdU4ML/qMT5W7mCr/iITYb9cxXxidn/CqDEPNIN+w6oAtNuTbfe
-u49+u3MbUNcTqQJaX6tCYwCI6ZUgyxUNI+h5hqT38wImAHURWTedTg9lMh1iIHZdhuZbbUaHmGrG
-13JlIqQMDplkCdVfKO173Z83JbWAQQnw4UodSnNBsRDz0giH2NS0d3eLyrb5/Ad7hWvz07fESjsu
-0uNmSFw2zLqs7Ly1OdRwu9lWAvXojMjZZi111PBr/mZi2kQxpPI6+8ETANgaBpSZn/gtPRnKbM3/
-heLNK9HHL3zjlQZsohH8ygUZntuDne2NvhBVPU/N6ZbSsjCrh8jtUlg8MQ6mRUUYqu5HtQwD2miQ
-ykp4uxf5qd2AwzevEg2oRVTVWuzvLjXxtXDoDZk51+htLXXJbfV2yIFcOFqol/5xRMfA4eamJY5I
-RNFSo5sc1ojMDkHTxJ3JmgopUVJQviu6reT4XSEqWQIEGI4Jv4kJmTiG/hr35nfohJ1lantqmHQB
-yfQI8ouvlVsR4W5FY2q4hyFNk8Z3iFsh4J49+Z+inwnXv/MPGLuFJRrSrGxwliZktdNpqvMFkEck
-V+8Ih5n5cmISwMRux72ikHTTVp97jwYK6dMnbEqVY/sNXTlzxL2Z68Q57C9bOYKKenaopzsqOkmf
-8U/9GjsMioZDHfO91mMGHx2vLfVatlKZZPPLC7DU3oHmlQ/YCeFhukRne6HFcCDErNCSds+tAR9f
-mbZZcJV9+s8bwBZr022ADn/HuY0Zu8TaiE1/TSLE1v0gM8GppiFZxyj6rH072Mav1Gb1vq86RRKH
-sVAnX7FgtpvdmmpO9Tv69+YtIyi52AJQ/W2MJU/KGKSCFs7UatR5Eit53LFl3pUWsygZP2IazicL
-sr5YrjEG9zd76VLEEa+RtSGHQSEtlGP5Gkd+A4o3z/Kcxey+TxcyLo4CMQ4nlxXtPhO/
+    /**
+     * Rich text comment
+     *
+     * @var PHPExcel_RichText
+     */
+    private $text;
+
+    /**
+     * Comment width (CSS style, i.e. XXpx or YYpt)
+     *
+     * @var string
+     */
+    private $width = '96pt';
+
+    /**
+     * Left margin (CSS style, i.e. XXpx or YYpt)
+     *
+     * @var string
+     */
+    private $marginLeft = '59.25pt';
+
+    /**
+     * Top margin (CSS style, i.e. XXpx or YYpt)
+     *
+     * @var string
+     */
+    private $marginTop = '1.5pt';
+
+    /**
+     * Visible
+     *
+     * @var boolean
+     */
+    private $visible = false;
+
+    /**
+     * Comment height (CSS style, i.e. XXpx or YYpt)
+     *
+     * @var string
+     */
+    private $height = '55.5pt';
+
+    /**
+     * Comment fill color
+     *
+     * @var PHPExcel_Style_Color
+     */
+    private $fillColor;
+
+    /**
+     * Alignment
+     *
+     * @var string
+     */
+    private $alignment;
+
+    /**
+     * Create a new PHPExcel_Comment
+     *
+     * @throws PHPExcel_Exception
+     */
+    public function __construct()
+    {
+        // Initialise variables
+        $this->author    = 'Author';
+        $this->text      = new PHPExcel_RichText();
+        $this->fillColor = new PHPExcel_Style_Color('FFFFFFE1');
+        $this->alignment = PHPExcel_Style_Alignment::HORIZONTAL_GENERAL;
+    }
+
+    /**
+     * Get Author
+     *
+     * @return string
+     */
+    public function getAuthor()
+    {
+        return $this->author;
+    }
+
+    /**
+     * Set Author
+     *
+     * @param string $pValue
+     * @return PHPExcel_Comment
+     */
+    public function setAuthor($pValue = '')
+    {
+        $this->author = $pValue;
+        return $this;
+    }
+
+    /**
+     * Get Rich text comment
+     *
+     * @return PHPExcel_RichText
+     */
+    public function getText()
+    {
+        return $this->text;
+    }
+
+    /**
+     * Set Rich text comment
+     *
+     * @param PHPExcel_RichText $pValue
+     * @return PHPExcel_Comment
+     */
+    public function setText(PHPExcel_RichText $pValue)
+    {
+        $this->text = $pValue;
+        return $this;
+    }
+
+    /**
+     * Get comment width (CSS style, i.e. XXpx or YYpt)
+     *
+     * @return string
+     */
+    public function getWidth()
+    {
+        return $this->width;
+    }
+
+    /**
+     * Set comment width (CSS style, i.e. XXpx or YYpt)
+     *
+     * @param string $value
+     * @return PHPExcel_Comment
+     */
+    public function setWidth($value = '96pt')
+    {
+        $this->width = $value;
+        return $this;
+    }
+
+    /**
+     * Get comment height (CSS style, i.e. XXpx or YYpt)
+     *
+     * @return string
+     */
+    public function getHeight()
+    {
+        return $this->height;
+    }
+
+    /**
+     * Set comment height (CSS style, i.e. XXpx or YYpt)
+     *
+     * @param string $value
+     * @return PHPExcel_Comment
+     */
+    public function setHeight($value = '55.5pt')
+    {
+        $this->height = $value;
+        return $this;
+    }
+
+    /**
+     * Get left margin (CSS style, i.e. XXpx or YYpt)
+     *
+     * @return string
+     */
+    public function getMarginLeft()
+    {
+        return $this->marginLeft;
+    }
+
+    /**
+     * Set left margin (CSS style, i.e. XXpx or YYpt)
+     *
+     * @param string $value
+     * @return PHPExcel_Comment
+     */
+    public function setMarginLeft($value = '59.25pt')
+    {
+        $this->marginLeft = $value;
+        return $this;
+    }
+
+    /**
+     * Get top margin (CSS style, i.e. XXpx or YYpt)
+     *
+     * @return string
+     */
+    public function getMarginTop()
+    {
+        return $this->marginTop;
+    }
+
+    /**
+     * Set top margin (CSS style, i.e. XXpx or YYpt)
+     *
+     * @param string $value
+     * @return PHPExcel_Comment
+     */
+    public function setMarginTop($value = '1.5pt')
+    {
+        $this->marginTop = $value;
+        return $this;
+    }
+
+    /**
+     * Is the comment visible by default?
+     *
+     * @return boolean
+     */
+    public function getVisible()
+    {
+        return $this->visible;
+    }
+
+    /**
+     * Set comment default visibility
+     *
+     * @param boolean $value
+     * @return PHPExcel_Comment
+     */
+    public function setVisible($value = false)
+    {
+        $this->visible = $value;
+        return $this;
+    }
+
+    /**
+     * Get fill color
+     *
+     * @return PHPExcel_Style_Color
+     */
+    public function getFillColor()
+    {
+        return $this->fillColor;
+    }
+
+    /**
+     * Set Alignment
+     *
+     * @param string $pValue
+     * @return PHPExcel_Comment
+     */
+    public function setAlignment($pValue = PHPExcel_Style_Alignment::HORIZONTAL_GENERAL)
+    {
+        $this->alignment = $pValue;
+        return $this;
+    }
+
+    /**
+     * Get Alignment
+     *
+     * @return string
+     */
+    public function getAlignment()
+    {
+        return $this->alignment;
+    }
+
+    /**
+     * Get hash code
+     *
+     * @return string    Hash code
+     */
+    public function getHashCode()
+    {
+        return md5(
+            $this->author .
+            $this->text->getHashCode() .
+            $this->width .
+            $this->height .
+            $this->marginLeft .
+            $this->marginTop .
+            ($this->visible ? 1 : 0) .
+            $this->fillColor->getHashCode() .
+            $this->alignment .
+            __CLASS__
+        );
+    }
+
+    /**
+     * Implement PHP __clone to create a deep clone, not just a shallow copy.
+     */
+    public function __clone()
+    {
+        $vars = get_object_vars($this);
+        foreach ($vars as $key => $value) {
+            if (is_object($value)) {
+                $this->$key = clone $value;
+            } else {
+                $this->$key = $value;
+            }
+        }
+    }
+
+    /**
+     * Convert to string
+     *
+     * @return string
+     */
+    public function __toString()
+    {
+        return $this->text->getPlainText();
+    }
+}

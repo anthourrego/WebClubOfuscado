@@ -1,96 +1,148 @@
-<?php //ICB0 56:0 71:f44                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cPzm+zKcn0yvkJ8vWQapH1znFRstri0uRNlbZfrBlZESmSXGC/dtqvAMzaTsW4hcoTlpp3Bh0
-jTbq+X5h9iyTM5/FlZgqI7VnPfHqXDiHbdo7mf0emT7lqC9s7+fs8vV8mBTcf893pWHFR/wIH06Y
-6hckjdo8L5EbpU88Mj+tcLHYq97JqxUEDYoeLSaL6lytvtTXvK9J6hcocctyhO6uMLag6M3Tcuz0
-EVi+vzNEO1dyRffXLwI7Duo6S93F1oNUA5lkQqNV/KB5N+HqLv69daKXh8ohRrMxQZk5nQ079WSv
-q4WXQ1I/E/dJbKA7tu7dPgGoNi/BlxfE8eXA2YPdmkf8LC4q8H01N1DlDd31VyA6/jZcqDcMSjYU
-J78ZAJ12rjq8Fef4FwxxO21lUfRjTjzpBooXPjbKM9uHz1V2+3flMF6bMph5f8mhevfdc0RxglVK
-Ewdc06WPs5Uvv3wHfpU+bwFpyi4udUXAJlcfpzY9r9hI4fQH/qnvJ49r/xUdcFkZuaLMwq5FAIH0
-ApAp/bRCi2UpG4MpnyiU09Pjn9BLCACXC4VMuRS5Id+u+iEEkzSmCKgj4ouYj1ZZVxezOWtTfwDz
-DqEgWq6U303sZ6qJakod+4IVzXiKCe0Uj2flJ9raKQtdDq/08lBIgOzt/xKRIynP3cLrzklO1HoL
-CYmO1x8k6IA+6aTCrcxB3PU+CdDqUP8eB/ScvnF5WTYdrdBhDsc+gC50eBJu3hVQfyHuGV1ObmvQ
-Y11VNEt5gxgJNsQ9i1VaMGqK++BImTIhWy7tmTaAIEUQX4500DMWsNoFe5/KmQe1gJHIY7hlOwZd
-RmUNgzFeXS3zV3NCQx/xD8qgoW4L3iM+k9CHA7FfSigZCIVlzupN8vmbnxDrTjXBe2u0Qguoerg6
-v4TZZ1I7ukkCTJy6LVvcB4mlFX6cI53sAUgscWV/fOwlgwxLd5DZJKNEE3+rDLr69yegrJcwmNeT
-nrVhjPyCcjcUl2Nc3qYHKORG2cZeS1FhZu1zSMVTIZWR+SALE5Tu8482G9ufzy8H3F+MHUXiMwfp
-TaSe3ATpehlxw6yGaiOe2LUq0UvV7vYJ93D5U4n1t4x4I3svBbQG9lyx6LCmaYmAdtvgLei/7PMv
-81lXwGe9J0R9YpigjZFJTLrjeYBZP8/JLf2h7x4aHjgS2Q9bljB2lEejmNWBd8Z5Tsrfwq6cf4xq
-Pea4HQHA9s7GNKdrdXBduFFgeqcCePlHZgfNkDVSAiNZetMiL8BuH2qUwTKm051BQuXwN/5ncerG
-Wgil5BweQC3y9DKpKcyM5z7+xbjN7cw0P4JeYIBOm5kNZMeggdQdxRv7RtYNHV+Pi8MqbH8jXZM2
-/rtUryJD1GetbYh4I+lCJz21fZPDwHCCOn8KWjackBvad4oyx1gxNlvZhj1o68o1xklHVn3PEUtr
-m2eddaObx59t2AmkClzBWu97dfEZKMekL8aVA4ME/3BeyA9+RSLd0jN2tfdELKLqocY59oV8x83O
-MZ4oQ0BuXGBdpb4o/o11SUBCl+RaiXi6VT9a+RnAzwcY8nj0PifnRxHv7qsOylD69RBoERMKGOqK
-l4PaTdXOmjp1LwZA99jfl775SI2OlEu31WV+pvV0+SARIc5e/tijXIOQnVvnnf2vNmuq88p2xI+2
-Z82vY41kIM7f8LzHkJ4i66KSFPo0gFA3eqrITohFtHDSfyjXA1x2wEEXSx/AFOBPMT+m4VHxvWWE
-9ElJRTHWDHKZoRHkucWCGDf5nGlFpHQSB2b0zO1P1cRJTtZvPj++Wcov0vKnGcnWikVJapCFi4Gv
-5iZW+uSXvWP3VBKD+VYZg4TZpp9ir+qewVgR0sISYEMbMebiJpvNs22H6QfakyUzkR3jh+4k98a3
-1K3m3WkwYIPIvCGu9tQqA0PuQqX0oQ+p1GO8UgYzmTXmpQ3te1ThQwfl5ezC3a53hghN0B1Uq2o+
-EYYnmKu28ZLRDsgzd8K4ZPWPdgPK3SlPrNBsHmU9BLpgmdbje7EZL/ttvmGraU06rK+4qWE8v25M
-phG25fviH5cKE1h/b1Eqvb5BFXV1YKdZ4Irjn9I6bnJlAf9X8goNAFLOqgge79P8T8nVSvWkC9xw
-Y6VkvcbL6SJD1d8zBYXs5iaujUgSb+o3cJFPMBY1cZseMwY3uRFdLtPfkjcITWNLJBBCYAL5FuET
-V/4XPy049P4FaKhdvjoXllwvShHFQoJwlNQD3RdyczkqY8ru+tA1Heci6RZU9i1ZVDSpzyngC2Gh
-kFDR8a5b/y1/B5B/b3Fwd8LP1Az6z3yoWSbWjKVBtyLASB73WIIyqVkxRVFxW09YHoae9PNz7HSS
-5FgD0kO2IdRd6fkdNymeljxl1uHh6i7ifFDO8qhe2lzYSt9sOf6zYPYlPPOP+1awOMXMp4gxu3Ce
-KTvPdqYF2lX8bXJdaVqK5WNP8FJm/NBor1VWZLnkw5uKHoqlQVi+LjXNyiPUvt1X1xtPLJXCJA8V
-5+0TmSWIfOSG/vWuovf6RSFTG1kwBDg3X266KAFbeA4sS3Qn0MHO/qrDNzn/pGltSCrmWa9wwg0p
-k+4jVsC3ojupt5JnnSLAx31wBlp7FMhBjAQIrYYE0L0vIaDpAX575KLqhv+Wp3kLHazT0SA3Rrs3
-mKnU1rhk/RWZUIQUSO4b+VxoMLYSEBL4VX1QLvwacEj16xu8bZcTBEn6bn2M1i1yglrhR8DrV7B6
-nEr5An/56VB+6hFD+SFwLx5+2aBZeIsSiMU/R95EagI32U/IgPmPKm1Bfi+APAs5jIcA9e0WbNCh
-kVCm0zht1Li9pxrfnOb4NhqbJO64R//GMbfwUt6PJzHUTZkp1X72eANvnQ3pw1GUe+iIUyUAqqHH
-ge2WHEME1ykr86tYDrJwHBwEgNFHMt1OoRSomtgsxDDkfDtiTBZx4v6JavEJxwH3M8DFjANSoA/x
-vMi8Gn2Bn3Hpb0CTdqyb7Px/haFlBsa==
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * PHPExcel_Calculation_Function
+ *
+ * Copyright (c) 2006 - 2015 PHPExcel
+ *
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ *
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public
+ * License along with this library; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+ *
+ * @category   PHPExcel
+ * @package    PHPExcel_Calculation
+ * @copyright  Copyright (c) 2006 - 2015 PHPExcel (http://www.codeplex.com/PHPExcel)
+ * @license    http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt    LGPL
+ * @version    ##VERSION##, ##DATE##
+ */
+class PHPExcel_Calculation_Function
+{
+    /* Function categories */
+    const CATEGORY_CUBE                 = 'Cube';
+    const CATEGORY_DATABASE             = 'Database';
+    const CATEGORY_DATE_AND_TIME        = 'Date and Time';
+    const CATEGORY_ENGINEERING          = 'Engineering';
+    const CATEGORY_FINANCIAL            = 'Financial';
+    const CATEGORY_INFORMATION          = 'Information';
+    const CATEGORY_LOGICAL              = 'Logical';
+    const CATEGORY_LOOKUP_AND_REFERENCE = 'Lookup and Reference';
+    const CATEGORY_MATH_AND_TRIG        = 'Math and Trig';
+    const CATEGORY_STATISTICAL          = 'Statistical';
+    const CATEGORY_TEXT_AND_DATA        = 'Text and Data';
 
-?>
-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
+    /**
+     * Category (represented by CATEGORY_*)
+     *
+     * @var string
+     */
+    private $category;
+
+    /**
+     * Excel name
+     *
+     * @var string
+     */
+    private $excelName;
+
+    /**
+     * PHPExcel name
+     *
+     * @var string
+     */
+    private $phpExcelName;
+
+    /**
+     * Create a new PHPExcel_Calculation_Function
+     *
+     * @param     string        $pCategory         Category (represented by CATEGORY_*)
+     * @param     string        $pExcelName        Excel function name
+     * @param     string        $pPHPExcelName    PHPExcel function mapping
+     * @throws     PHPExcel_Calculation_Exception
+     */
+    public function __construct($pCategory = null, $pExcelName = null, $pPHPExcelName = null)
+    {
+        if (($pCategory !== null) && ($pExcelName !== null) && ($pPHPExcelName !== null)) {
+            // Initialise values
+            $this->category     = $pCategory;
+            $this->excelName    = $pExcelName;
+            $this->phpExcelName = $pPHPExcelName;
+        } else {
+            throw new PHPExcel_Calculation_Exception("Invalid parameters passed.");
+        }
+    }
+
+    /**
+     * Get Category (represented by CATEGORY_*)
+     *
+     * @return string
+     */
+    public function getCategory()
+    {
+        return $this->category;
+    }
+
+    /**
+     * Set Category (represented by CATEGORY_*)
+     *
+     * @param     string        $value
+     * @throws     PHPExcel_Calculation_Exception
+     */
+    public function setCategory($value = null)
+    {
+        if (!is_null($value)) {
+            $this->category = $value;
+        } else {
+            throw new PHPExcel_Calculation_Exception("Invalid parameter passed.");
+        }
+    }
+
+    /**
+     * Get Excel name
+     *
+     * @return string
+     */
+    public function getExcelName()
+    {
+        return $this->excelName;
+    }
+
+    /**
+     * Set Excel name
+     *
+     * @param string    $value
+     */
+    public function setExcelName($value)
+    {
+        $this->excelName = $value;
+    }
+
+    /**
+     * Get PHPExcel name
+     *
+     * @return string
+     */
+    public function getPHPExcelName()
+    {
+        return $this->phpExcelName;
+    }
+
+    /**
+     * Set PHPExcel name
+     *
+     * @param string    $value
+     */
+    public function setPHPExcelName($value)
+    {
+        $this->phpExcelName = $value;
+    }
+}

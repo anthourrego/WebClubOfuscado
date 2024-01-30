@@ -1,79 +1,124 @@
-<?php //ICB0 56:0 71:ca7                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+/**
+ * PHPExcel_Cell_Hyperlink
+ *
+ * Copyright (c) 2006 - 2015 PHPExcel
+ *
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ *
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public
+ * License along with this library; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+ *
+ * @category   PHPExcel
+ * @package    PHPExcel_Cell
+ * @copyright  Copyright (c) 2006 - 2015 PHPExcel (http://www.codeplex.com/PHPExcel)
+ * @license    http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt    LGPL
+ * @version    ##VERSION##, ##DATE##
+ */
+class PHPExcel_Cell_Hyperlink
+{
+    /**
+     * URL to link the cell to
+     *
+     * @var string
+     */
+    private $url;
 
-?>
-HR+cPqfVfr0ofnjdo+ioSqh50z0DTuYH6LHK38QuRtG8+etXSjI8XbwgUseIIaXRfHB4Escy6U9Q
-Gs4+RXLaio0KIcDYvWYjTVLVd9mz2MjdBxKA1Uk2mjkJpDeNzEiRkoNyxtOomGEnBd9uFTc1NRck
-iS3ULyds5RAYYCKctDAeSo1zhRGuu0fkQ8uQ2pMTRxipvDouUENAbWmLWMQCdojyEwHiPcDzHHRn
-BGZ8/o7rE7yIfIxEnPmbMAYCs5HeLJwzPTL1L1C8xCVsZvwDeENBRS1ArV9b1uOO3CcHp4LmEyns
-+yfsw7EjBubOPmn/0lTxfAtYNytXkLT1MhM80URpeFw6fqceRrwCC1cVRAlNfVj9l1XvtfqDzvW0
-G1orPh8hzjOB67pYUHclu2LbfZILcmHg4DDQGwkzQoC7lZd+0BPDsgXM2Bxz+twIQuQHYf4lXgNB
-cZrU+LkveH7lFpl9P1n78evDx0mcPHUjbyhOd9d+0Ira4ZU1Fp3vqsfA6MMYjbPUqWNN4SV1DkOc
-kU3XJWJIc4VyQ6VcG0c9jC3Wd2VWG8DoNNQ95n8FuZkK/EpiUKJKMEuiUw5HZNGBj04ZUj2Xpizo
-kLlLO5nmto6MZcOMJbC/+91/8bKO0Xl6RoPrptf2n0jjhZ3/onzmQmYYCs4pH4GxV0IXuC1ZUo0H
-Qs2flJAaZvPNrFsCVsKjBtk+kvUS/kExJ0++9thKhpd2XAufYTbvLezm0RnogIIcX728l4CalCKe
-+I82qpVceifdAKXW2zw7zA9OfFnvV72JicN/aH8Eipr80PE4FfxpXGNSMD90sxNX2dYbodx1f+ul
-hqBLQ/BgBjZqeamKqjCqPBIWZEZXyya8YO8P+hBVTtSPpMntRb79LsTSsf5C8UyQxlPmO3wwN8gq
-4CysDHlBtVc9lH7V+2ycTzoaTjIuffhE/fgo6nQGLgzMq0ksGhoeUZEQ3gX4HpMwfV+n1lLa5WOg
-SP6GJY0YMl/ndBY0qXz2GCj9yRqNQcHyuxCeaEiKb0BqKE3WQH6KN7meYHBR2skUNemcSbfOt1fW
-lA0lwnj/w7hugNmLRy61XkM49zVuin0m9hkTEkW2IbOljOkmrdH1V3H+hY0hGzxzBQlD/KR2QsK0
-SBjt9EpAH+B3LoZYVlKRxsT2OobnE0GZ4DRVu+XcLR4gWoXbr9tFMNTqRtgtAjF3IY4K7II3PhPE
-U8mswPzXeSIm61Dns7e1EtZYc1T2TFcSOeO6VeCB5fC/vWThPx2cYLqNjNStCZDazsf/psQy2DM+
-VtvOILKwHhgvLh29sSmnomWhlZ/JNELIOizwXOQmSilYEG1E8mf4moovALbiLlID51VY51l1eMoy
-QW3e4QrIJY/phXSEyz8AZa9WEgVVgrCCVTfmews09YzCQszmPh5A2Kifvdbg98QZyu6Be21XtAu8
-Am9njh3C7f2NZFJ9pJbx7rKW42I0RdipVs9Y9IQ6VtVul4I3oxB+imC0/Mrm+hX/X0xambkTLHFP
-/sS/NMNAvaO72dLpNU+qgWDecr95R6Ha6jbTLIfrsOmHOP7DEj9RCM0FYXShlUzGSdraIU1C43fI
-Zm9kkKuPak/lLfXoniLbflaZREZtx/oAnKjKSATauFGivMFGE64dNx3GhMm1oyAhIp9NO2gcgUpM
-bQBk2Ihhsn8D+eSmL0YTZ1FLdJ1H3woEkVsOb3A9b/zunf7IwJRX/wlv1bmKav6VKpBSFLu1x8RO
-BWpPvzHy6NZeoF9HxN8o3vXKP4q1xEvyO0TZuSsqPojkfkb/uozZv+TkvpEx97wZBHZz5lxV9IMV
-WsCzX1GKZfGnTQRliZM1rHMb4HXP7MEIMaxhVqJEfgC3f21eIibDYqVnWdYUradYkSg0mShUeW3W
-ejyrcThc9nB1gZ38CB3gDH7ouTXj7cijldNaOCqPT527ILwGk34sYLDXpVOeZ6Fd8n3ZL7570SDV
-Uva9auW4AS5MhLJ97bf5/+1CfCNHcQXzXFUbuhhCXjmPXfWb/hyK7PdVoXYxIfSAXma2IMEpCzu5
-TYRVGjGB5Ala3+bY0UKiCRxsUmz6cNsN788gsi7XPMfxTkzqfPSLA69uD0iG+LGQj7ZPL3JRLsoq
-mfTs/Rcgyz1t7+Q2yZwTIbKp2wAwGgAxRddKVldhyfBONSzD+T28a3gQabs+ZzsWKLknYNiWJ/mc
-M1R0A+lzVvDsQjFf04qKa/YwvCcNYu6JIukhG2iAmaE4L/mCUvypOuDnxaVBaxYSDyGhPaEoY+3T
-AJPN4fhJzjiqJXFzYOyQ7GnNAig6FlNyCEMcgzxxJ8X1fVV841IBQlMipdu9wbpZMRD6TP225DXR
-TfwYOGWDTyVbvXAhRO5gFWqFeoMVJR7pfKYT9jSjBuEJvFDuOE+J7Dq4O5ITu3TV6wi3fXaFImdN
-CgbZVic/bk5UP4OlTV3jVyhPhB9L4dxoOaM6lrcvc0lA3PhRxbMvdQ9BMv2A+S5WuIePsMwW0mGs
-lurAgZ0tH2+/o+rnN5j7IUB9ipY1je/PV8PBKnWfM3dB/t3jaXCVbjfzR7UJCP2tmu/rUWJrQg1p
-kLnE9hq=
+    /**
+     * Tooltip to display on the hyperlink
+     *
+     * @var string
+     */
+    private $tooltip;
+
+    /**
+     * Create a new PHPExcel_Cell_Hyperlink
+     *
+     * @param  string  $pUrl      Url to link the cell to
+     * @param  string  $pTooltip  Tooltip to display on the hyperlink
+     */
+    public function __construct($pUrl = '', $pTooltip = '')
+    {
+        // Initialise member variables
+        $this->url     = $pUrl;
+        $this->tooltip = $pTooltip;
+    }
+
+    /**
+     * Get URL
+     *
+     * @return string
+     */
+    public function getUrl()
+    {
+        return $this->url;
+    }
+
+    /**
+     * Set URL
+     *
+     * @param  string    $value
+     * @return PHPExcel_Cell_Hyperlink
+     */
+    public function setUrl($value = '')
+    {
+        $this->url = $value;
+        return $this;
+    }
+
+    /**
+     * Get tooltip
+     *
+     * @return string
+     */
+    public function getTooltip()
+    {
+        return $this->tooltip;
+    }
+
+    /**
+     * Set tooltip
+     *
+     * @param  string    $value
+     * @return PHPExcel_Cell_Hyperlink
+     */
+    public function setTooltip($value = '')
+    {
+        $this->tooltip = $value;
+        return $this;
+    }
+
+    /**
+     * Is this hyperlink internal? (to another worksheet)
+     *
+     * @return boolean
+     */
+    public function isInternal()
+    {
+        return strpos($this->url, 'sheet://') !== false;
+    }
+
+    /**
+     * Get hash code
+     *
+     * @return string    Hash code
+     */
+    public function getHashCode()
+    {
+        return md5(
+            $this->url .
+            $this->tooltip .
+            __CLASS__
+        );
+    }
+}
