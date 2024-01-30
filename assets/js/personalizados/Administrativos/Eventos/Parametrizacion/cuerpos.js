@@ -35,10 +35,16 @@ var tblMedioReserva = $("#tblMedioReserva").DataTable({
 		]
 	),
 	columns: [
+		{ data: "Nombre" },
+		{ data: "AplicaCotizacion", width: 130, className: "text-center" },
+		{ data: "AplicaOT", width: 130, className: "text-center" },
+		{ data: "AplicaContrato", width: 130, className: "text-center" },
+		{ data: "Estado", width: "10%", className: "text-center" },
 		{
 			data: "CuerpoId",
+			orderable: false,
 			width: "10%",
-			className: "text-center",
+			className: "text-center noExport",
 			render: function (meta, type, data, meta) {
 				btnEditar = `<button class="editar btn btn-secondary btn-xs" title="Editar">
 					<i class="fas fa-edit"></i>
@@ -49,11 +55,6 @@ var tblMedioReserva = $("#tblMedioReserva").DataTable({
 				return btnEditar + " " + btnEliminar;
 			},
 		},
-		{ data: "Nombre" },
-		{ data: "AplicaCotizacion", width: 130, className: "text-center" },
-		{ data: "AplicaOT", width: 130, className: "text-center" },
-		{ data: "AplicaContrato", width: 130, className: "text-center" },
-		{ data: "Estado", width: "10%", className: "text-center" },
 	],
 	createdRow: function (row, data, dataIndex) {
 		$(row)
@@ -78,6 +79,7 @@ var tblMedioReserva = $("#tblMedioReserva").DataTable({
 						tmpCuerpo.AplicaContrato = dataDB.AplicaContrato;
 
 						$("#modalCuerpo").modal("show");
+						$("#btnCrearCuerpo").html('<i class="fas fa-save"></i> Modificar');
 					},
 				});
 			});
@@ -94,17 +96,16 @@ var tblMedioReserva = $("#tblMedioReserva").DataTable({
 						$.ajax({
 							url: rutaGeneral + "eliminar",
 							type: "POST",
+							dataType: "json",
 							data: {
 								CuerpoId,
+								Nombre: data.Nombre,
 							},
-							success: (res) => {
-								if (res == 1) {
-									alertify.success("Cuerpo eliminado éxitosamente.");
+							success: (resp) => {
+								let metodo = !resp.valido ? "error" : "success";
+								alertify[metodo](resp.mensaje);
+								if (resp.valido) {
 									tblMedioReserva.ajax.reload();
-								} else {
-									alertify.error(
-										"Ocurrió un problema al momento de eliminar el cuerpo."
-									);
 								}
 							},
 						});
@@ -136,7 +137,6 @@ var initCKEditor = (function () {
 		} else {
 			editorElement.setAttribute("contenteditable", "true");
 			CKEDITOR.inline("editor");
-
 			// TODO we can consider displaying some info box that
 			// without wysiwygarea the classic editor may not work.
 		}
@@ -145,6 +145,7 @@ var initCKEditor = (function () {
 	function isWysiwygareaAvailable() {
 		// If in development mode, then the wysiwygarea must be available.
 		// Split REV into two strings so builder does not replace it :D.
+
 		if (CKEDITOR.revision == "%RE" + "V%") {
 			return true;
 		}
@@ -161,7 +162,19 @@ $(function () {
 
 	$("#formCuerpo").submit(function (e) {
 		e.preventDefault();
+
 		if ($(this).valid()) {
+			if (
+				$("#AplicaCotizacion").is(":checked") === false &&
+				$("#AplicaOT").is(":checked") === false &&
+				$("#AplicaContrato").is(":checked") === false
+			) {
+				alertify.error(
+					"Debe seleccionar Cotización , Orden de Trabajo ó Contrato."
+				);
+				return;
+			}
+
 			tmpCuerpo.Texto = CKEDITOR.instances.editor.getData();
 			$.ajax({
 				url: rutaGeneral + "guardar",
@@ -179,7 +192,7 @@ $(function () {
 						if (tmpCuerpo.CuerpoId !== -1) {
 							msg = "actualizado";
 						}
-						alertify.success(`Cuerpo ${msg} éxitosamente.`);
+						alertify.success(`Cuerpo ${msg} exitosamente.`);
 						$("#formCuerpo").trigger("reset");
 						$("#modalCuerpo").modal("hide");
 						tblMedioReserva.ajax.reload();
@@ -228,5 +241,6 @@ $(function () {
 			e.preventDefault();
 			tmpCuerpo.Estado = "A";
 			$("#modalCuerpo").modal("show");
+			$("#btnCrearCuerpo").html('<i class="fas fa-save"></i> Crear');
 		});
 });

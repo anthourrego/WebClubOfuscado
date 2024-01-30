@@ -6,6 +6,7 @@ let codEditarLugar = 0;
 let DTLugares;
 let DTElementos;
 let editarElemento = null;
+let bandera = false;
 let dataTablePrev = [
 	{
 		titulo: 'Código', 
@@ -163,11 +164,15 @@ function tablaLugares() {
 			);
 		},
 		createdRow: function (row, data, dataIndex) {
+			if (!data.Icono && data.Icono  === '') {
+				data.Icono = null;
+			}
 			$(row).find('.imagen-evento').html(`
 				<a href="${rutaGeneral}obtenerImagen/${data.Icono}?${Math.random()}" data-lightbox="carrusel${data.Id}">
 					<img src="${rutaGeneral}obtenerImagen/${data.Icono}?${Math.random()}" class="mw-100 m-0 d-block rounded" width="100%" alt="Imagen Evento">
 				</a>
 			`);
+
 
 			$(row).on("click", ".ediLugar", function (e) {
 				e.preventDefault();
@@ -177,8 +182,8 @@ function tablaLugares() {
 
 			$(row).on("click", ".eliLugar", function (e) {
 				e.preventDefault();
-				let data = $(this).data('lugar');
-				eliminarInformacion('¿Desea eliminar este lugar?', data, 'eliminarLugar', 'lugares');
+				let datas = $(this).data('lugar');
+				eliminarInformacion('¿Desea eliminar este lugar?', datas, 'eliminarLugar', 'lugares',data);
 			});
 
 			$(row).on("click", ".verLugar", function (e) {
@@ -194,7 +199,7 @@ function tablaLugares() {
 	});
 }
 
-function eliminarInformacion(mensaje, data, ruta, accion) {
+function eliminarInformacion(mensaje, data, ruta, accion,info) {
 	alertify.confirm('Eliminar', mensaje, function (ok) {
 		if (accion == 'lugares') {
 			$.ajax({
@@ -212,13 +217,33 @@ function eliminarInformacion(mensaje, data, ruta, accion) {
 				error: (err) => { console.error("errro ", err); alertify.error('No fue posible obtener los datos') }
 			});
 		} else if (accion == 'elementos') {
-			/* Regresamos la posicion en 1 de la posicion eliminada hacia adelante */
-			DTElementos.row(editarElemento).remove().draw();
-			$.each($(".ediElemento[data-elemento]"), function (pos) {
-				if (+$(this).attr('data-elemento') > editarElemento) {
-					$(this).attr('data-elemento', +$(this).attr('data-elemento') - 1);
+			if(info.ElementoId > 0){
+				$.ajax({
+					url: rutaGeneral + 'eliminarElemento',
+					type: 'POST',
+					dataType: 'json',
+					data: info,
+					success: (resp) => {
+						let metodo = (!resp.valido ? 'error' : 'success');
+						alertify[metodo](resp.mensaje);
+						if (resp.valido) {
+							DTElementos.row(data).remove().draw();
+						}
+					},
+					error: (err) => { console.error("errro ", err); alertify.error('No fue posible obtener los datos') }
+				});
+			}else{
+				DTElementos.row(data).remove().draw();
+				datos = DTElementos.data();
+
+				for (let i = 0; i < datos.length; i++) {
+					datos[i].pos = i;
 				}
-			});
+	
+				DTElementos.clear();
+				DTElementos.rows.add(datos);
+				DTElementos.draw();
+			}
 			editarElemento = null;
 		}
 
@@ -253,10 +278,13 @@ function lugarEditar({ datos, mensaje, valido }) {
 	$("#btnCrearLugar").html('<i class="fas fa-edit"></i> Modificar');
 	Object.keys(datos).forEach(item => $('#' + item).val(datos[item]));
 	$("#eliminarImagen").show();
-	if (!datos.Icono) {
+
+	if (!datos.Icono && datos.Icono  === '') {
 		$("#eliminarImagen").hide();
+	}else{
+		$('.icon-container').children('img').attr('src', `${rutaGeneral}obtenerImagen/${datos.Icono}`);
 	}
-	$('.icon-container').children('img').attr('src', `${rutaGeneral}obtenerImagen/${datos.Icono}`);
+
 	$("#LugarId").prop('readonly', true);
 	$(".chosen-select").trigger('chosen:updated');
 	$('#modalCrearLugar').modal('show');
@@ -269,6 +297,7 @@ function lugarEditar({ datos, mensaje, valido }) {
 				, Nombre: it.Nombre
 				, Cantidad: it.Cantidad
 				, Estado: it.Estado
+				, ElementoId : it.ElementoId
 				, pos: x
 			}
 			DTElementos.row.add(prod);
@@ -283,6 +312,10 @@ function prevLugar({ datos, mensaje, valido }) {
 
 	Object.keys(datos).forEach(item => $('#pre' + item).text(datos[item]));
 	$('#preIconoImg').hide();
+	if (!datos.Icono && datos.Icono  === '') {
+		datos.Icono = null;
+	}
+
 	let urlIcono = `${rutaGeneral}obtenerImagen/${datos.Icono}`;
 	$('#preIconoImg').attr('href', urlIcono);
 	$('#preIconoImg').attr('data-lightbox', "carrusel" + datos.LugarId);
@@ -312,11 +345,27 @@ function prevLugar({ datos, mensaje, valido }) {
 }
 
 function busquedaProducto({ success, producto }) {
+	
 	if (success) {
+		data = DTElementos.data().filter((value) => value.ProductoId == producto.productoid);
+		if(data[0]){
+			$("#ElementoIdElemento").val('');
+			let info = data[0];
+			editarElemento = info.pos;
+			$("#btnCrearElemento").html('<i class="fas fa-edit"></i> Modificar');
+			Object.keys(info).forEach(item => $(`#${item}Elemento`).val(info[item]));
+			$("#EstadoElemento").val(info.Estado).trigger('chosen:updated').change(); 
+		}else{
+			$("#CantidadElemento").val(1);
+		}
+		
 		$("#ProductoIdElemento").val(producto.productoid);
 		$("#ProductoIdElemento").closest(".input-group").find('.nombre-prod').html(producto.nombre);
 		$("#ProductoIdElemento").attr('data-valido', 'S');
+		
+		bandera = true;
 	} else {
+		bandera = false;
 		$('#modalCrearLugar').modal('hide');
 		$("#ProductoIdElemento").attr('data-valido', 'N');
 		alertify.ajaxAlert = function (url) {
@@ -332,6 +381,13 @@ function busquedaProducto({ success, producto }) {
 							delete alertify.ajaxAlert;
 							$("#tblBusqueda").unbind().remove();
 							$('#modalCrearLugar').modal('show');
+							setTimeout(() => {
+								if(bandera == true){
+									$("#CantidadElemento").focus().select();
+								}else{
+									$("#ProductoIdElemento").val('').focus();
+								}
+							}, 1500);
 						}, onshow: function () {
 							busqueda = true;
 						}
@@ -357,6 +413,7 @@ function busquedaProducto({ success, producto }) {
 						createdRow: function (row, data, dataIndex) {
 							$(row).click(function () {
 								$("#ProductoIdElemento").val(data[0]).change();
+								
 								alertify.myAlert().close();
 							});
 						},
@@ -373,7 +430,7 @@ function busquedaProducto({ success, producto }) {
 		alertify.ajaxAlert(base_url() + "Busqueda/DataTable?campos=" + campos);
 	}
 }
-
+let paginaAtual = 1;
 function tablaElementos() {
 	DTElementos = $('#tablaElementos').DataTable({
 		language: $.Constantes.lenguajeTabla,
@@ -453,20 +510,27 @@ function tablaElementos() {
 		},
 		createdRow: function (row, data, dataIndex) {
 			$(row).on("click", ".ediElemento", function (e) {
+				$("#ElementoIdElemento").val('');
 				e.preventDefault();
 				let info = DTElementos.data()[$(this).data('elemento')];
 				editarElemento = $(this).data('elemento');
 				$("#btnCrearElemento").html('<i class="fas fa-edit"></i> Modificar');
 				Object.keys(info).forEach(item => $(`#${item}Elemento`).val(info[item]));
+				$("#EstadoElemento").val(info.Estado).trigger('chosen:updated').change(); 
 				$("#ProductoIdElemento").change();
 			});
 
 			$(row).on("click", ".eliElemento", function (e) {
 				e.preventDefault();
-				let data = $(this).data('elemento');
-				eliminarInformacion('¿Desea eliminar este elemento?', data, 'eliminarElemento', 'elementos');
+				let datas = $(this).data('elemento');
+				$('#btnCancelarCrearElemento').click();
+				eliminarInformacion('¿Desea eliminar este elemento?', datas, 'eliminarElemento', 'elementos',data);
 			});
 		}
+	});
+
+	$('#tablaElementos').on('page.dt',function() {
+		paginaAtual = DTElementos.page.info().page + 1;
 	});
 }
 
@@ -475,9 +539,11 @@ function limpiarDatosElemento() {
 	$("#ProductoIdElemento").closest('.input-group').find('.nombre-prod').html('');
 	$("#CantidadElemento").val(1);
 	$("#ValorElemento").val(0);
-	$("#EstadoElemento").val('A');
+	$("#EstadoElemento").val('A').trigger('chosen:updated').change();
 	$("#btnCrearElemento").html('<i class="fas fa-plus"></i> Agregar');
+	$("#ElementoIdElemento").val('');
 	editarElemento = null;
+	DTElementos.page(paginaAtual -1).draw('page');
 }
 
 $(function () {
@@ -605,12 +671,24 @@ $(function () {
 
 	$(".chosen-select").chosen({ width: '100%' });
 
+
 	$("#ProductoIdElemento").on('change', function (e) {
 		e.preventDefault();
-		let codigo = $(this).val();
-		informacion({ codigo }, 'validarProducto', 'busquedaProducto');
+		let codigo = $(this).val().trimStart();
+		if(codigo == ''){
+			$('#ProductoIdElemento').val('');
+			$("#ProductoIdElemento").closest(".input-group").find('.nombre-prod').html('');
+		}else{
+			informacion({ codigo }, 'validarProducto', 'busquedaProducto');
+		}
 	});
 
+
+	$("#ProductoIdElemento").on('keyup', function (e) {
+		e.preventDefault();
+		$("#ProductoIdElemento").closest('.input-group').find('.nombre-prod').html('');
+	});
+	
 	$("#formCrearElemento").submit(function (e) {
 		e.preventDefault();
 		if ($(this).valid()) {
@@ -619,11 +697,21 @@ $(function () {
 				return alertify.error("El producto registrado no es valido.");
 			}
 
+			datos = DTElementos.data();
+			for (let i = 0; i < datos.length; i++) {
+				datos[i].pos = i;
+			}
+
+			DTElementos.clear();
+			DTElementos.rows.add(datos);
+			DTElementos.draw();
+
 			let data = {
 				ProductoId: $("#ProductoIdElemento").val()
 				, Nombre: $("#ProductoIdElemento").closest('.input-group').find('.nombre-prod').text()
 				, Cantidad: $("#CantidadElemento").val()
 				, Estado: $("#EstadoElemento").val()
+				, ElementoId: $("#ElementoIdElemento").val()
 				, pos: DTElementos.data().count()
 			}
 
@@ -655,3 +743,4 @@ $(function () {
 		$("#LugarId").prop('readonly', false);
 	});
 });
+

@@ -1,4 +1,5 @@
 let filtroTipoLugar = "",
+	filtrosede = "",
 	fechaIni = "",
 	fechaFin = "",
 	personas = 1,
@@ -8,6 +9,17 @@ const arrLugares = [];
 
 $(function () {
 	// Procedimientos antes de event listeners
+
+	const urlParams = new URLSearchParams(window.location.search);
+	if (urlParams.get("eventoid") == -1 && nuevaReserva.disponibilidad) {
+		sessionStorage.removeItem("newRESDisponibilidad");
+		sessionStorage.removeItem("newRESDatosBasicos");
+		sessionStorage.removeItem("newRESComplementos");
+		sessionStorage.removeItem("newRESInvitados");
+		sessionStorage.removeItem("newRESCotizacion");
+
+		location.href = "../ReservarEvento/Disponibilidad";
+	}
 
 	// 1. Obtener datos del session storage
 	if (!nuevaReserva.disponibilidad) {
@@ -107,9 +119,6 @@ $(function () {
 							placement: "right",
 						})
 						.on("click", function () {
-							const lugarid = $(this)
-								.closest("[data-lugarid]")
-								.attr("data-lugarid");
 							alertify.confirm(
 								"Descartar lugar",
 								"¿Desea no incluir el lugar seleccionado en la cotización del evento actual?",
@@ -193,12 +202,28 @@ $(function () {
 
 		$("#lugares").html("");
 		$("#filtros").addClass("d-none").find(".btn-filter:not(:first)").remove();
+		$("#filtrosSede")
+			.addClass("d-none")
+			.find(".btn-filter2:not(:first)")
+			.remove();
+		setTimeout(() => {
+			$(".labelFiltro").removeClass("d-none");
+		}, 150);
+		$(".btn-filter2.btn-primary")
+			.removeClass("btn-primary")
+			.addClass("btn-light");
+		$("#filtroTodosSedes").removeClass("btn-light").addClass("btn-primary");
+		$(".btn-filter.btn-primary")
+			.removeClass("btn-primary")
+			.addClass("btn-light");
+		$("#filtroTodos").removeClass("btn-light").addClass("btn-primary");
 
 		if (nuevaReserva.disponibilidad) {
 			const excluidos = nuevaReserva.disponibilidad.lugares
 				.map((reserva) => reserva.lugarid)
 				.toString();
 			dataAJAX.excluidos = excluidos;
+			dataAJAX.sedeId = nuevaReserva.disponibilidad.sede;
 		}
 
 		if (agrupar) {
@@ -226,7 +251,9 @@ $(function () {
 						.removeAttr("id")
 						.attr("data-lugarid", lugar.LugarId)
 						.attr("data-tipolugarid", lugar.TipoLugarId)
-						.attr("data-estado", lugar.estado);
+						.attr("data-sedeid", lugar.SedeId)
+						.attr("data-estado", lugar.estado)
+						.attr("data-almacenid", lugar.AlmacenId);
 
 					$clone.find(".lugar-badge-capacidad p").html(function () {
 						return $(this)
@@ -236,11 +263,11 @@ $(function () {
 					});
 
 					$clone.find(".lugar-badge-tipo").text(function () {
-						return $(this).text().replace("{tipo}", lugar.TipoLugarNombre);
+						return $(this).text().replace("{tipo}", lugar.Nombre);
 					});
 
 					$clone.find(".lugar-nombre").text(function () {
-						return $(this).text().replace("{nombre}", lugar.Nombre);
+						return $(this).text().replace("{nombre}", lugar.TipoLugarNombre);
 					});
 
 					$clone.find(".lugar-responsive-nombre").text(function () {
@@ -280,6 +307,7 @@ $(function () {
 					$clone.appendTo("#lugares");
 				});
 
+				$("#filtrosSede").removeClass("d-none").addClass("d-flex");
 				$("#filtros").removeClass("d-none").addClass("d-flex");
 
 				data.tipoLugares.map((tipoLugar) => {
@@ -294,6 +322,19 @@ $(function () {
 					$clone.appendTo("#filtros");
 				});
 
+				// Creamos la data que llevara los filtros de la sede que haya en la base de datos.
+				data.sedes.map((sede) => {
+					var $clone = $("#filtroTodosSedes")
+						.clone()
+						.removeAttr("id")
+						.removeClass("btn-primary")
+						.addClass("btn-light")
+						.text(sede.Nombre)
+						.attr("data-sedeid", sede.SedeId);
+
+					$clone.appendTo("#filtrosSede");
+				});
+
 				if (agrupar) {
 					validarDisponibilidad();
 				}
@@ -304,6 +345,9 @@ $(function () {
 	$(document)
 		.on("click", ".lugar-component:not(.thumbnail)", function (e) {
 			e.preventDefault();
+			const lugarid = $(this).attr("data-lugarid"),
+				sede = $(this).attr("data-sedeid"),
+				almacen = $(this).attr("data-almacenid");
 			if (agrupar) {
 				if ($(this).hasClass("excede")) {
 					if ($(this).hasClass("noExcede")) {
@@ -317,12 +361,11 @@ $(function () {
 			} else {
 				if ($(this).hasClass("excede")) {
 					if ($(this).hasClass("noExcede")) {
-						const lugarid = $(this).attr("data-lugarid");
 						alertify.confirm(
 							"Advertencia",
 							"El lugar seleccionado no satisface la cantidad de personas digitada, tras elegir el horario regresará a esta pestaña para seleccionar otros lugares donde ubicará a las personas restantes",
 							function () {
-								seleccionarLugar(lugarid, true);
+								seleccionarLugar(lugarid, true, sede, almacen);
 							},
 							function () {}
 						);
@@ -338,9 +381,19 @@ $(function () {
 						"El lugar seleccionado se encuentra ocupado en las fechas establecidas"
 					);
 				} else {
-					seleccionarLugar($(this).attr("data-lugarid"));
+					seleccionarLugar(lugarid, false, sede, almacen);
 				}
 			}
+		})
+		.on("click", ".btn-filter2", function (e) {
+			e.preventDefault();
+			$(".btn-filter2.btn-primary")
+				.removeClass("btn-primary")
+				.addClass("btn-light");
+			$(this).removeClass("btn-light").addClass("btn-primary");
+			filtrosede = $(this).attr("data-sedeid");
+			$("#filtroTodos").click();
+			filtrar("S");
 		})
 		.on("click", ".btn-filter", function (e) {
 			e.preventDefault();
@@ -349,18 +402,7 @@ $(function () {
 				.addClass("btn-light");
 			$(this).removeClass("btn-light").addClass("btn-primary");
 			filtroTipoLugar = $(this).attr("data-id");
-
-			$(".lugar-component:not(.thumbnail):not([id])")
-				.removeClass("d-none")
-				.removeClass("ocultar");
-
-			if (filtroTipoLugar !== "") {
-				$(".lugar-component:not(.thumbnail):not([id])").map(function () {
-					if (!$(this).is(`[data-tipolugarid="${filtroTipoLugar}"]`)) {
-						$(this).addClass("ocultar");
-					}
-				});
-			}
+			filtrar("TL");
 		})
 		.on("animationend", ".lugar-component.ocultar", function () {
 			$(this).addClass("d-none");
@@ -404,6 +446,8 @@ $(function () {
 		if (!nuevaReserva.disponibilidad) {
 			$("#lugares").html("");
 			$("#filtros").removeClass("d-flex").addClass("d-none");
+			$("#filtrosSede").removeClass("d-flex").addClass("d-none");
+			$(".labelFiltro").removeClass("d-flex").addClass("d-none");
 		}
 	});
 
@@ -428,6 +472,8 @@ $(function () {
 		if (!nuevaReserva.disponibilidad) {
 			$("#lugares").html("");
 			$("#filtros").removeClass("d-flex").addClass("d-none");
+			$("#filtrosSede").removeClass("d-flex").addClass("d-none");
+			$(".labelFiltro").removeClass("d-flex").addClass("d-none");
 		}
 	});
 
@@ -487,7 +533,8 @@ $(function () {
 			// Si está en modo edición
 			if (
 				nuevaReserva.cotizacion &&
-				typeof nuevaReserva.cotizacion.edicion !== "undefined"
+				typeof nuevaReserva.cotizacion.edicion !== "undefined" &&
+				nuevaReserva.cotizacion.edicion === 1
 			) {
 				const cotizacionJSON = JSON.stringify({
 					...nuevaReserva.cotizacion,
@@ -563,7 +610,12 @@ $(function () {
 
 	// Funciones / Métodos
 
-	function seleccionarLugar(lugarid, regresar = false) {
+	function seleccionarLugar(
+		lugarid,
+		regresar = false,
+		sede = null,
+		almacen = null
+	) {
 		const lugares = [lugarid];
 		// Agregamos los lugares seleccionados previamente
 		if (nuevaReserva.disponibilidad) {
@@ -577,6 +629,8 @@ $(function () {
 			personas,
 			lugares,
 			regresar,
+			sede,
+			almacen,
 		};
 
 		if (fechaFin !== "") {
@@ -647,6 +701,82 @@ $(function () {
 		}
 	}
 
+	function filtrar(tipoFiltro) {
+		// 1. Muestra todos los lugares
+		$(".lugar-component:not(.thumbnail):not([id])")
+			.removeClass("d-none")
+			.removeClass("ocultar");
+
+		$(".lugar-component:not(.thumbnail):not([id])").each(function () {
+			if (filtrosede !== "" && filtroTipoLugar !== "") {
+				// Si viene sede y tipo lugar
+				if (
+					!(
+						$(this).is(`[data-sedeid="${filtrosede}"]`) &&
+						$(this).is(`[data-tipolugarid="${filtroTipoLugar}"]`)
+					)
+				) {
+					$(this).addClass("ocultar");
+				}
+			} else if (filtrosede !== "" && filtroTipoLugar === "") {
+				// Si viene solo sede
+				if (!$(this).is(`[data-sedeid="${filtrosede}"]`)) {
+					$(this).addClass("ocultar");
+				}
+			} else {
+				// Si viene solo tipo lugar
+				if (
+					filtroTipoLugar !== "" &&
+					!$(this).is(`[data-tipolugarid="${filtroTipoLugar}"]`)
+				) {
+					$(this).addClass("ocultar");
+				}
+			}
+		});
+
+		const tmpTiposLugares = [],
+			tmpSedes = [];
+		// Recorremos los lugares que no esten oculta para guardar los id
+		$(".lugar-component:not(.thumbnail):not([id]):not(.ocultar)").each(
+			function () {
+				const sede = $(this).attr("data-sedeid"),
+					tipoLugar = $(this).attr("data-tipolugarid");
+				if (!tmpTiposLugares.includes(tipoLugar)) {
+					tmpTiposLugares.push(tipoLugar);
+				}
+				if (!tmpSedes.includes(sede)) {
+					tmpSedes.push(sede);
+				}
+			}
+		);
+
+		if (filtroTipoLugar !== "" && tmpTiposLugares.length === 0) {
+			$("#filtroTodos").click();
+		}
+
+		if (tipoFiltro == "S") {
+			$(".btn-filter:not(#filtroTodos)").each(function () {
+				const id = $(this).attr("data-id");
+
+				if (filtrosede !== "") {
+					// Validamos los tipos de lugares para ocultar o mostrar
+					if (tmpTiposLugares.includes(id)) {
+						$(this).removeClass("d-none");
+					} else {
+						$(this).addClass("d-none");
+					}
+				} else {
+					$(this).removeClass("d-none");
+				}
+				if (filtrosede === "" && filtroTipoLugar === "") {
+					$(".lugar-component:not(.thumbnail):not([id])")
+						.removeClass("d-none")
+						.removeClass("ocultar");
+				}
+			});
+		}
+	}
+
 	// Procedimientos fuera de event listeners
 
 	if (nuevaReserva.disponibilidad) {
@@ -658,5 +788,16 @@ $(function () {
 		typeof nuevaReserva.cotizacion.edicion !== "undefined"
 	) {
 		$("#btnReiniciar").addClass("d-none");
+	}
+
+	$("#fechaIni").data("DateTimePicker").minDate(moment().format("YYYY-MM-DD"));
+
+	if (urlParams.has("fechaIni") && urlParams.has("fechaFin")) {
+		setTimeout(() => {
+			$("#fechaIni").val(urlParams.get("fechaIni"));
+			$("#fechaFin").val(urlParams.get("fechaFin"));
+			$("#btnFiltrarDisponibilidad").click();
+			$("#fechaIni").datetimepicker("hide");
+		}, 1000);
 	}
 });

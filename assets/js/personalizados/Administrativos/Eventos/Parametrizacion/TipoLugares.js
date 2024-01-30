@@ -79,65 +79,70 @@ alertify.myAlert || alertify.dialog('myAlert', function factory() {
 function busquedaProducto({ success, producto }) {
 	if (success) {
 		$("#ProductoId").closest(".input-group").find('.nombre-prod').html(producto.nombre);
+		$("#ProductoId").val(producto.productoid);
 	} else {
 		$('#ProductoId').val('');
 		$("#ProductoId").closest(".input-group").find('.nombre-prod').html('');
 		
 		$('#modalTipoLugar').modal('hide');
-		alertify.ajaxAlert = function (url) {
-			$.ajax({
-				url: url,
-				async: false,
-				success: function (data) {
-					alertify.myAlert().set({
-						onclose: function () {
-							busqueda = false;
-							alertify.myAlert().set({ onshow: null });
-							$(".ajs-modal").unbind();
-							delete alertify.ajaxAlert;
-							$("#tblBusqueda").unbind().remove();
-							$('#modalTipoLugar').modal('show');
-						}, onshow: function () {
-							busqueda = true;
-						}
-					});
-					alertify.myAlert(data);
-
-					dtSS({
-						data: {
-							tblID: '#tblBusqueda'
-						},
-						ajax: {
-							url: rutaGeneral + "DTBuscarProducto",
-							type: "POST"
-						},
-						bAutoWidth: false,
-						columnDefs: [
-							{ targets: [0], width: '3%' },
-							
-						],
-						ordering: false,
-						draw: 10,
-						pageLength: 10,
-						oSearch: { sSearch: $("#ProductoId").val() },
-						createdRow: function (row, data, dataIndex) {
-							$(row).click(function () {
-								$("#ProductoId").val(data[0]).change();
-								alertify.myAlert().close();
-							});
-						},
-						scrollY: screen.height - 400,
-						scroller: {
-							loadingIndicator: false
-						},
-						dom: domftri
-					});
-				}
-			});
-		}
-		var campos = encodeURIComponent(JSON.stringify(['ProductoId', 'Nombre']));
-		alertify.ajaxAlert(base_url() + "Busqueda/DataTable?campos=" + campos);
+		AlertBuscarProduc();
 	}
+}
+
+function AlertBuscarProduc(){
+	alertify.ajaxAlert = function (url) {
+		$.ajax({
+			url: url,
+			async: false,
+			success: function (data) {
+				alertify.myAlert().set({
+					onclose: function () {
+						busqueda = false;
+						alertify.myAlert().set({ onshow: null });
+						$(".ajs-modal").unbind();
+						delete alertify.ajaxAlert;
+						$("#tblBusqueda").unbind().remove();
+						$('#modalTipoLugar').modal('show');
+					}, onshow: function () {
+						busqueda = true;
+					}
+				});
+				alertify.myAlert(data);
+	
+				dtSS({
+					data: {
+						tblID: '#tblBusqueda'
+					},
+					ajax: {
+						url: rutaGeneral + "DTBuscarProducto",
+						type: "POST"
+					},
+					bAutoWidth: false,
+					columnDefs: [
+						{ targets: [0], width: '3%' },
+						
+					],
+					ordering: false,
+					draw: 10,
+					pageLength: 10,
+					oSearch: { sSearch: $("#ProductoId").val() },
+					createdRow: function (row, data, dataIndex) {
+						$(row).click(function () {
+							$("#ProductoId").val(data[0]).change();
+							alertify.myAlert().close();
+						});
+					},
+					scrollY: screen.height - 400,
+					scroller: {
+						loadingIndicator: false
+					},
+					dom: domftri
+				});
+			}
+		});
+	}
+	var campos = encodeURIComponent(JSON.stringify(['ProductoId', 'Nombre']));
+	alertify.ajaxAlert(base_url() + "Busqueda/DataTable?campos=" + campos);
 }
 
 function dataTipoLugaresEliminar({ success, TipoLugar, msj }) {
@@ -252,9 +257,18 @@ $(function () {
 
 	$("#ProductoId").on('change', function (e) {
 		e.preventDefault();
-		let codigo = $(this).val();
+		let codigo = $(this).val().trimStart();
+		if(codigo == ''){
+			$('#ProductoId').val('');
+			$("#ProductoId").closest(".input-group").find('.nombre-prod').html('');
+		}else{
+			informacion({ codigo }, 'validarProducto', 'busquedaProducto');
+		}
+	});
 
-		informacion({ codigo }, 'validarProducto', 'busquedaProducto');
+	$("#btnBuscarProducto").on('click', function (e) {
+		$('#modalTipoLugar').modal('hide');
+		AlertBuscarProduc();
 	});
 
 

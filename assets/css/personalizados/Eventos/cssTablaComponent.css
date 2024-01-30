@@ -47,6 +47,27 @@
 	font-weight: 600;
 }
 
+.inputFechaServicio1:hover::placeholder,
+.inputFechaServicio2:hover::placeholder,
+.inputFechaServicio3:hover::placeholder,
+.inputFechaServicio1:focus::placeholder,
+.inputFechaServicio2:focus::placeholder,
+.inputFechaServicio3:focus::placeholder {
+	color: #9fa2a2;
+}
+
+.d-flex > .inputFechaServicio1,
+.d-flex > .inputFechaServicio2 {
+	width: 100px;
+}
+
+.labelFechaServicio {
+	top: -10px;
+	font-size: 0.75rem;
+	color: #4680ff;
+	position: absolute;
+}
+
 .inputTitulo:hover,
 .inputTitulo:focus,
 .inputValorLugar:hover,
@@ -129,4 +150,24 @@ table[data-productoid]:hover tr:nth-child(1) .editarValor {
 	transform: translateX(-50%);
 	top: 27px !important;
 	z-index: 10;
+}
+
+.observacionProducto {
+	padding: 0;
+	line-height: 1.5;
+	font-size: 14px;
+	min-height: 22.5px;
+	height: 22.5px;
+	border: 0;
+	width: 100%;
+	font-style: italic;
+	overflow-y: hidden;
+}
+
+.observacionProducto:empty {
+	height: 22.5px;
+}
+
+.observacionProducto:not(:empty) {
+	height: auto;
 }

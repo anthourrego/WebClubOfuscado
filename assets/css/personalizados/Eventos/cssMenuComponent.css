@@ -69,8 +69,17 @@
 	text-align: right;
 }
 
+#productosMenu{
+	justify-content: center !important;
+}
+
+#productosMenuBusqueda{
+	justify-content: center !important;
+}
+
 @media screen and (max-width: 992px) {
 	.headerMenu {
 		flex-direction: column !important;
 	}
 }
+

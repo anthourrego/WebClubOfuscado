@@ -19,6 +19,7 @@ let tercerosDesayunoOriginal = [];
 let darBajaVenta = false;
 let btnCargarCuentaClick = true;
 let cargarCuentaPendiente = false;
+let cargarCuentaEvento = false;
 let numeroPersonasPedido = 1;
 let tercerosAccion = [];
 let dataAnteriorProducto = {};
@@ -31,6 +32,7 @@ let mesaDos;
 let ReservaAplicaDesayuno = null;
 let TieneDesayunoPendiente = null;
 let HeadReservaIdHotel = null;
+let EventoId = null;
 let btnTerceroPendiente = false;
 let factElectronicaDirecta = false;
 let cantidadNuevaPedido = null;
@@ -51,11 +53,11 @@ let coloresMesa = {
 	Verde: { color: '#198754', titulo: 'Ocupada' },
 	Azul: { color: '#4680ff', titulo: 'Reserva' },
 	AzulSinConsumo: { color: '#00bcd4', titulo: 'Reserva en la mesa sin consumo' },
-	CuentaPendiente: { color: '#f5ff00', titulo: 'Cuenta Pendiente' },
 	ProdsPendientes: { color: '#ffa0a0', titulo: 'Productos Pendientes' },
 	mesaModificada: { color: '#2ce0d8', titulo: 'Nuevo Pedido' },
 }
 let btnAgregarCuentaTercero = false;
+let botonCambiarCuenta = 0;
 let dataMostrarTercero = [{
 	propiedad: 'TerceroID', titulo: 'Documento'
 }, {
@@ -89,11 +91,12 @@ let dataFechasHotel = {
 	SalidaReservaHotel: null
 }
 let posPlatoActualFami = -1;
-let btnCarrito = ['#btnBorrarPedido', '#btnDarDeBajaCuenta', '#btnCambiarSocio', '#btnCargarACuenta', '#btnCuentaPendiente'];
+let btnCarrito = ['#btnBorrarPedido', '#btnDarDeBajaCuenta', '#btnCambiarSocio', '#btnCargarACuenta'];
 let mesasDesc = null;
 let promocionesProd;
 let valor = null;
-let validarDesc = 0;
+let validaPendientes = false;
+
 
 // 11/02/2022 JCSM - Constante para definir que el IVA del 8% representa el Impuesto al Consumo en caso de que cambie en un futuro
 const $impoConsumo = 8;
@@ -147,6 +150,7 @@ $(function () {
 
 	let dataPos = sessionStorage.getItem('dataPos');
 	if (dataPos) {
+		validaPendientes = true;
 		dataPos = JSON.parse($.Desencriptar(JSON.parse(dataPos)));
 		terceroIdPedido = dataPos.TerceroId ? dataPos.TerceroId : null;
 		codBarraTercero = (!dataPos.codBarraTercero || dataPos.codBarraTercero == '') ? null : dataPos.codBarraTercero;
@@ -407,6 +411,7 @@ $(function () {
 				if (arrayProductosPedido && arrayProductosPedido[0] && arrayProductosPedido[0]['NombreTercero']) {
 					$(".clientePedido").html(arrayProductosPedido[0]['NombreTercero']);
 					$(".accionIdPedido").html((accionTercero || ''));
+					$(".documentoPedido").html((terceroIdPedido || ''));
 				}
 				if (dataTerceroPendiente && dataTerceroPendiente.TerceroID) {
 					validarBtnHotelCuentaPendiente();
@@ -439,6 +444,15 @@ $(function () {
 			}
 		}
 	} else {
+		if(validaPendientes){
+			if(dataTerceroPendiente){
+				$(".clientePedido").html(dataTerceroPendiente.Nombre != null ? dataTerceroPendiente.Nombre : "");
+				$(".accionIdPedido").html(dataTerceroPendiente.AccionId != null ? dataTerceroPendiente.AccionId : "");
+				$(".habitacionPedido").html(dataTerceroPendiente.HabitacionId != null ? dataTerceroPendiente.HabitacionId : "");
+				$(".barraPedido").html(dataTerceroPendiente.barra != null ? dataTerceroPendiente.barra : "");
+				$(".documentoPedido").html(dataTerceroPendiente.TerceroId != null ? dataTerceroPendiente.TerceroId : "");
+			}
+		}
 		if ($POST) {
 			if (!ventanaCambioPedido) {
 				informacionMesa(idMesaActual);
@@ -454,6 +468,7 @@ $(function () {
 			}
 			if (arrayProductosPedido && arrayProductosPedido[0] && arrayProductosPedido[0]['NombreTercero']) {
 				$(".clientePedido").html(arrayProductosPedido[0]['NombreTercero']);
+				$(".documentoPedido").html(arrayProductosPedido[0]['TerceroId']);
 				$(".accionIdPedido").html((accionTercero || ''));
 			}
 			if (dataTerceroPendiente && dataTerceroPendiente.TerceroID) {
@@ -541,6 +556,15 @@ $(function () {
 								$(".habitacionPedido").html(enc.NombreHabitacion);
 							}
 
+							$("#btnCuentaEvento").hide();
+							$(".eventoPedido").html('');
+							EventoId = null;
+							if (enc.EventoId && enc.EventoId != -1) {
+								$("#btnCuentaEvento").show();
+								$(".eventoPedido").html(enc.NroEvento + " - " + enc.NombreEvento);
+								EventoId = enc.EventoId;
+							}
+
 							accionTercero = (enc.AccionId || null);
 
 							$("#btnCuentaHotel").hide();
@@ -568,6 +592,7 @@ $(function () {
 				}
 
 				let enc = tercerosAccion.find(op => op.TerceroID == $("#UserPedido").val());
+
 				if (enc) {
 
 					if ($DATOSMONTAJE.FactConAbier == 'S' && enc.TotalEdicion > 0) {
@@ -609,6 +634,13 @@ $(function () {
 						}
 					} else {
 						reservaHotel = null;
+					}
+
+					$("#btnCuentaEvento").hide();
+					EventoId = null;
+					if (enc.EventoId && enc.EventoId != -1) {
+						$("#btnCuentaEvento").show();
+						EventoId = enc.EventoId;
 					}
 
 					if ($TIPOCOMERC == 'CLUB' && !enc.AccionId) {
@@ -771,9 +803,11 @@ $(function () {
 							info['barra'] = value.barra;
 							info['NombreHabitacion'] = value.NombreHabitacion;
 							info['HabitacionId'] = value.HabitacionId;
+							info['EventoId'] = value.EventoId;
 							name = true;
 						}
 					}
+					
 					if (!name && arrayProductosPedido[0]) {
 						info['NombreTercero'] = arrayProductosPedido[0]['NombreTercero'];
 						info['ReservaHotel'] = arrayProductosPedido[0]['ReservaHotel'];
@@ -781,6 +815,7 @@ $(function () {
 						info['barra'] = arrayProductosPedido[0]['barra'];
 						info['NombreHabitacion'] = arrayProductosPedido[0]['NombreHabitacion'];
 						info['HabitacionId'] = arrayProductosPedido[0]['HabitacionId'];
+						info['EventoId'] = arrayProductosPedido[0]['EventoId'];
 					}
 					if (!(productoActual.AplicaFamilia == 'S' && productoActual.TotalFamilias > 0 && totalFami > 0)) {
 						prodsAgregarNew.push(info);
@@ -880,7 +915,7 @@ $(function () {
 					observacionesProducto("#listaObservaciones", productoActual, itemsObservaciones, ".modal-observaciones-producto");
 				} else {
 					if (productoActual.EsDesayuno == 'S' && ReservaAplicaDesayuno == 'S' && TieneDesayunoPendiente == 'S') {
-						$("#btnCargarACuenta, #btnCuentaPendiente, #btnFacturarPedido, #btnBorrarPedido, #btnDarDeBajaCuenta, #btnCambiarSocio").hide();
+						$("#btnCargarACuenta, #btnFacturarPedido, #btnBorrarPedido, #btnDarDeBajaCuenta, #btnCambiarSocio").hide();
 						info['Desayuno'] = 'S';
 						info['Valor'] = 0;
 						info['HeadReservaIdHotel'] = HeadReservaIdHotel;
@@ -952,7 +987,7 @@ $(function () {
 					let producto = arrayProductosPedido[editarProductoPedidoNuevo];
 					producto.inventario = (producto.inventario || []).concat(prodSelecteds);
 					if (productoActual.EsDesayuno == 'S' && ReservaAplicaDesayuno == 'S' && TieneDesayunoPendiente == 'S') {
-						$("#btnCargarACuenta, #btnCuentaPendiente, #btnFacturarPedido, #btnBorrarPedido, #btnDarDeBajaCuenta, #btnCambiarSocio").hide();
+						$("#btnCargarACuenta, #btnFacturarPedido, #btnBorrarPedido, #btnDarDeBajaCuenta, #btnCambiarSocio").hide();
 						producto['Desayuno'] = 'S';
 						producto['Valor'] = 0;
 						producto['HeadReservaIdHotel'] = HeadReservaIdHotel;
@@ -964,7 +999,7 @@ $(function () {
 					let producto = prodsAgregarNew[prodsAgregarNew.length - 1];
 					producto.inventario = producto.inventario.concat(prodSelecteds);
 					if (productoActual.EsDesayuno == 'S' && ReservaAplicaDesayuno == 'S' && TieneDesayunoPendiente == 'S') {
-						$("#btnCargarACuenta, #btnCuentaPendiente, #btnFacturarPedido, #btnBorrarPedido, #btnDarDeBajaCuenta, #btnCambiarSocio").hide();
+						$("#btnCargarACuenta, #btnFacturarPedido, #btnBorrarPedido, #btnDarDeBajaCuenta, #btnCambiarSocio").hide();
 						producto['Desayuno'] = 'S';
 						producto['Valor'] = 0;
 						producto['HeadReservaIdHotel'] = HeadReservaIdHotel;
@@ -1030,6 +1065,7 @@ $(function () {
 	} else {
 		$("#btnCargarACuenta").click(function () {
 			cargarCuentaPendiente = false;
+			cargarCuentaEvento = false;
 			if (accesoCargarCuentaHotel) {
 				$("#btnCuentaHotel").click();
 			} else {
@@ -1041,6 +1077,7 @@ $(function () {
 
 	$("#btnCuentaHotel").click(function () {
 		cargarCuentaPendiente = false;
+		cargarCuentaEvento = false;
 		btnCargarCuentaClick = false;
 		if (accesoCargarCuentaHotel) {
 			btnCargarCuentaClick = true;
@@ -1061,9 +1098,8 @@ $(function () {
 		}
 	});
 
-	$("#btnCuentaPendiente").click(function () {
-		cargarCuentaPendiente = true;
-		accesoCargarCuentaHotel = false;
+	$("#btnCuentaEvento").click(function () {
+		cargarCuentaEvento = true;
 		guardarCuenta();
 	});
 
@@ -1098,25 +1134,30 @@ $(function () {
 						'¿Desea facturar la cuenta de todos los puntos de venta?'
 						, function (evt, value) {
 							cargarCuentaPendiente = false;
+							cargarCuentaEvento = false;
 							facturarPedido();
 						}
 						, function () {
 							cargarCuentaPendiente = false;
+							cargarCuentaEvento = false;
 							facturarPedido(printConsumos);
 						}
 					).set('labels', { ok: 'Si', cancel: 'No' });
 				} else {
 					// alertify.warning("El pedido actual no tiene productos registrados.")
 					cargarCuentaPendiente = false;
+					cargarCuentaEvento = false;
 					facturarPedido(printConsumos);
 				}
 
 			} else {
 				cargarCuentaPendiente = false;
+				cargarCuentaEvento = false;
 				facturarPedido();
 			}
 		} else {
 			cargarCuentaPendiente = false;
+			cargarCuentaEvento = false;
 			facturarPedido();
 		}
 	});
@@ -1282,7 +1323,8 @@ $(function () {
 	});
 
 	$("#btnCargarAccion").prop("disabled", true);
-	$("#numeroAccion").change(function () {
+	$("#numeroAccion").on('change',function (e) {
+		e.preventDefault();
 		$("#btnCargarAccion").prop("disabled", true);
 		$("#collapseTercero").removeClass('show');
 		if (!consultadonAccion) {
@@ -1362,7 +1404,8 @@ $(function () {
 		$("#btnCollapse").click();
 	});
 
-	$('#btnBuscarTercero').click(function () {
+	$('#btnBuscarTercero').on('click',function (e) {
+		e.preventDefault();
 		$("#UserPedido").html("");
 		$("#tercerosAccion").hide();
 		consultadonAccion = true;
@@ -1382,11 +1425,20 @@ $(function () {
 			terceroPedidoEmpresa = {};
 		}
 		if (buscar == "tercero") {
-			if ($("#numeroAccion").val() != "") {
+			inputTercero=$("#numeroAccion").val()
+			regex=/[!@#$%^&*()_+{}\[\]:;<>,.?~\\/-]/;
+			if (regex.test(inputTercero)) {
+				$("#numeroAccion").val('');
+			}
+			if ($("#numeroAccion").val() != "" ) {
+				$('#btnBuscarTercero').prop('disabled',true);
 				obtenerInformacion(data, 'obtenerAccion', 'informacionAccion');
 			} else {
 				$("#numeroAccion").focus();
 			}
+		} else if (buscar == 'evento') {
+			data['Evento'] = $("#EventosPedido").val();
+			obtenerInformacion(data, 'buscarTercerosPorEvento', 'informacionAccion');
 		} else {
 			data['Habitacion'] = $("#HabitacionPedido").val();
 			obtenerInformacion(data, 'buscarTercerosPorHabitacion', 'informacionAccion');
@@ -1454,7 +1506,7 @@ $(function () {
 	$("#btnCambiarZona").on('click', function () {
 		if (accionPos == 'pedido_mesa' && $INFOALMACEN['ManejaMesas'] == 'S') {
 			desdeFactura = false;
-			$("#btnCargarACuenta, #btnCuentaPendiente, #btnFacturarPedido, #btnBorrarPedido, #btnDarDeBajaCuenta, #btnCambiarSocio").show();
+			$("#btnCargarACuenta, #btnFacturarPedido, #btnBorrarPedido, #btnDarDeBajaCuenta, #btnCambiarSocio").show();
 			cambiarSocioCuenta = false;
 			cambiarTab("#tabMesas");
 			$("#zonaMesa").change();
@@ -1492,6 +1544,7 @@ $(function () {
 		$("#numeroAccion").val('');
 		$("#NumeroPersonas").val(numeroPersonasPedido);
 		cambiarSocioCuenta = true;
+		botonCambiarCuenta = 1;
 		abrirCerrarModal(".bd-accion-modal-sm", "show");
 		$("#tituloCentasPendiente, #cuentasPendienteMesa").hide();
 		if ($("#collapseTercero.show")[0]) {
@@ -1701,6 +1754,7 @@ $(function () {
 			}
 		}
 		$(".btnFiltroeBuscar").unbind('click').click(function () {
+			let botonsearch = $(this).data('botonsearch');
 			$(".btnFiltroeBuscar").removeClass('bg-white show').addClass("text-white");
 			$(this).addClass('bg-white show').removeClass("text-white");
 			if (!cambiarSocioCuenta && !btnAgregarCuentaTercero) {
@@ -1709,20 +1763,28 @@ $(function () {
 			tercerosAccion = [];
 			$("#tercerosAccion, #dataHabHotel").hide();
 			$("#collapseTercero").removeClass('show');
-			$(".input-" + $(this).data('botonsearch')).removeClass('d-none').addClass('d-flex');
-			if ($(this).data('botonsearch') == 'tercero') {
-				$(".input-habitacion").addClass('d-none').removeClass('d-flex');
+			$(`.input-${botonsearch}`).removeClass('d-none').addClass('d-flex');
+			if (botonsearch == 'tercero') {
+				$(".input-habitacion, .input-evento").addClass('d-none').removeClass('d-flex');
 				$("#numeroAccion").focus();
-			} else {
+			} else if (botonsearch == 'habitacion') {
 				$("#numeroAccion").val('');
-				$(".input-tercero").addClass('d-none').removeClass('d-flex');
+				$(".input-tercero, .input-evento").addClass('d-none').removeClass('d-flex');
 				let data = {
 					sede: $INFOALMACEN['SedeId']
 				}
 				$("#dataHabHotel").hide();
 				obtenerInformacion(data, 'obtenerHabitacionesBusqueda', 'datosHabitacionBuscar');
+			} else {
+				$("#numeroAccion").val('');
+				$(".input-tercero, .input-habitacion").addClass('d-none').removeClass('d-flex');
+				let data = {
+					sede: $INFOALMACEN['SedeId']
+				}
+				obtenerInformacion(data, 'obtenerEventosBusqueda', 'datosEventosBuscar');
 			}
 		});
+
 		if ($(".btnFiltroeBuscar.show").data('botonsearch') != 'habitacion' && $("#numeroAccion").val() == '') {
 			$(".btnFiltroeBuscar").first().click();
 		}
@@ -1905,12 +1967,13 @@ function consumoProductosTercero({ datos }) {
 	if (!tercerosDesayuno.length && arrayProductosPedido.length) {
 		$(".clientePedido").html(arrayProductosPedido[0].NombreTercero);
 		$(".accionIdPedido").html((accionTercero || ''));
+		$(".documentoPedido").html(arrayProductosPedido[0].TerceroId);
+		$(".barraPedido").html(arrayProductosPedido[0].barra);
 		numeroPersonasPedido = arrayProductosPedido[0].Personas;
 		$("#NumPerEditar").val(numeroPersonasPedido);
-		$("#btnCuentaHotel").hide();
-		if (cargarCuentaHotelPermiso && reservaHotel && reservaHotel != -1) {
-			$("#btnCuentaHotel").show();
-		}
+		$("#btnCuentaHotel, #btnCuentaEvento").hide();
+		if (cargarCuentaHotelPermiso && reservaHotel && reservaHotel != -1) $("#btnCuentaHotel").show();
+		if (EventoId && EventoId != -1) $("#btnCuentaEvento").show();
 	}
 	organizarAcumulado();
 	abrirCerrarModal("#modal-cambiar-cuenta", "hide");
@@ -1989,7 +2052,7 @@ function validarVendedor(abrirModal = false, vendedorId = 0) {
 		if (tipoVentaSeleccionado.vendedor && tipoVentaSeleccionado.vendedor == 'S') {
 			if (vendedorId == 0) {
 				let venUser = $VENDEDORES.find(x => x.vendUser);
-				if (accesoCargarCuentaHotel) $("#btnFacturarPedido, #btnOtraCuenta, #btnFacturarFacturaElectronico, #btnCuentaPendiente, #btnPrecuenta, #btnCambiarSocio").hide();
+				if (accesoCargarCuentaHotel) $("#btnFacturarPedido, #btnOtraCuenta, #btnFacturarFacturaElectronico, #btnPrecuenta, #btnCambiarSocio").hide();
 				if (venUser) {
 					$("#vend" + venUser['vendedorid']).addClass('card-vendedor-seleccionado');
 					$("#btnElegirVendedor").click();
@@ -2030,6 +2093,8 @@ function validarVendedor(abrirModal = false, vendedorId = 0) {
 		} else {
 			informacionMesa((accionPos != 'general' ? idMesaActual : false));
 			abrirCerrarModal(".bd-accion-modal-sm", "hide");
+			if (tipoVentaSeleccionado.vendedor != 'S') $("#btnFacturarFacturaElectronico").attr('data-vendfactura', 'S');
+			validarBtnFacturaElectronica();
 			window.scrollTo(0, 0);
 		}
 	} else {
@@ -2098,13 +2163,18 @@ function cuentaPendiente({ consumo }) {
 	if (consumo.length) {
 		let estructura = '';
 		consumo.forEach(it => {
-			estructura += `<div title="Ir a la cuenta" class="m-b-10 d-flex border rounded btnTerceroCuentaPendiente justify-content-between" style="align-items: center; ${it.TotalPendienteRojo > 0 ? 'border-color: ' + coloresMesa.ProdsPendientes.color + ' !important;' : ''}" data-info="${(it.TerceroIdC ? it.TerceroIdC : '')}" data-nombre="${it.datosCliente && it.datosCliente.NombreTercero ? it.datosCliente.NombreTercero : it.Nombre}" data-habitacion="${(it.NombreHabitacion || 'null')}" data-accion="${(it.Accion ? it.Accion : '')}" data-mesa="${it.MesasCuentaUnificar}" data-zona="${it.ZonaCuenta}" data-firma="${it.firma}">
+			let nombreEvento = '';
+			if (it.EventoId && it.EventoId != -1) {
+				nombreEvento = ((it.NroEvento || '') + ' - ' + (it.NombreEvento || ''));
+			}
+			estructura += `<div title="Ir a la cuenta" class="m-b-10 d-flex border rounded btnTerceroCuentaPendiente justify-content-between" style="align-items: center; ${it.TotalPendienteRojo > 0 ? 'border-color: ' + coloresMesa.ProdsPendientes.color + ' !important;' : ''}" data-info="${(it.TerceroIdC ? it.TerceroIdC : '')}" data-nombre="${it.datosCliente && it.datosCliente.NombreTercero ? it.datosCliente.NombreTercero : it.Nombre}" data-habitacion="${(it.NombreHabitacion || 'null')}" data-accion="${(it.Accion ? it.Accion : '')}" data-mesa="${it.MesasCuentaUnificar}" data-zona="${it.ZonaCuenta}" data-evento="${nombreEvento}" data-firma="${it.firma}">
 				<img src="${it.foto}" style="width: 70px; height: auto; max-height: 75px; border-radius: 3px" class="mr-3">
 				<div style="width: 72%;">
 					<h6>${(it.Nombre ? it.Nombre : '')}</h6>
-					<p class="m-b-0">${(it.AccionesPedido ? it.AccionesPedido : '')}</p>
+					<p class="m-b-0">${(it.AccionesPedido ? "<b>Acción: </b>" + it.AccionesPedido : "<b>Documento: </b>" +it.TerceroIdC)}</p>
 					${it.datosCliente ? `<p class="m-b-0">Cliente: ${(it.datosCliente.TerceroID + '').trim()} -  ${it.datosCliente.NombreTercero}</p>` : ''}
-					<p class="m-b-0">${(it.NombreHabitacion ? `${it.NombreHabitacion}` : '')}</p>
+					<p class="m-b-0">${(it.NombreHabitacion ? "<b>Habitación: </b>" + it.NombreHabitacion : '')}</p>
+					<p class="m-b-0">${nombreEvento}</p>
 				</div>
 				<button type="button" title="Ir a la cuenta" class="btn btn-sm btn-secondary" style="max-height: 75px; height: 75px;">
 					<i class="fas fa-share-square"></i>
@@ -2113,7 +2183,7 @@ function cuentaPendiente({ consumo }) {
 		});
 		$("#cuentasPendienteMesa").html(estructura);
 		$(".btnTerceroCuentaPendiente").on('click', function () {
-
+			
 			if (tipoVentaSeleccionado.PagoPendiente == 'S' && tipoVentaSeleccionado.vendedor != 'S') {
 				alertify.alert('¡Alerta!', '<h3 class="mensaje-alerta">No es posible continuar, el tipo de venta tiene pago pendiente y no solicita vendedor.</h3>');
 				return;
@@ -2127,12 +2197,14 @@ function cuentaPendiente({ consumo }) {
 			}
 			btnTerceroPendiente = true;
 			cuentaTerceroConsumo = consumo.find(op => op.TerceroIdC == $(this).data('info'));
+
 			ReservaAplicaDesayuno = cuentaTerceroConsumo.AplicaDesayuno;
 			TieneDesayunoPendiente = cuentaTerceroConsumo.DesayunoPendiente;
 			HeadReservaIdHotel = cuentaTerceroConsumo.HeadReservaHotel;
 			reservaHotel = cuentaTerceroConsumo.ReservaHotel;
 			habitacionHotel = cuentaTerceroConsumo.HabitacionId;
-			$("#btnCuentaHotel, #AplicoDesayuno").hide();
+			EventoId = cuentaTerceroConsumo.EventoId == -1 ? null : cuentaTerceroConsumo.EventoId;
+			$("#btnCuentaHotel, #AplicoDesayuno, #btnCuentaEvento").hide();
 			if (cargarCuentaHotelPermiso && reservaHotel && reservaHotel != -1) {
 				if (cuentaTerceroConsumo.reservaVigente) {
 					$("#btnCuentaHotel").show();
@@ -2143,6 +2215,11 @@ function cuentaPendiente({ consumo }) {
 			if (reservaHotel > 0 && ReservaAplicaDesayuno == 'S' && TieneDesayunoPendiente == 'N') {
 				$("#AplicoDesayuno").show();
 			}
+
+			if (cuentaTerceroConsumo.EventoId && cuentaTerceroConsumo.EventoId != -1) {
+				$("#btnCuentaEvento").show();
+			}
+			
 			if ($TIPOCOMERC == 'CLUB' && $(this).data('firma') != 'S') {
 				let elemento = $(this);
 				alertify.confirm(
@@ -2271,7 +2348,9 @@ function seleccionTercero($this) {
 		let nombre = $this.data('nombre');
 		$(".clientePedido").html(nombre);
 		$(".accionIdPedido").html((accionTercero || ''));
+		$(".documentoPedido").html((terceroIdPedido || ''));
 		$(".habitacionPedido").html(($this.data('habitacion') || ''));
+		$(".eventoPedido").html(($this.data('evento') || ''));
 		validarVendedor();
 	} else {
 		let mesitas = $this.data('mesa');
@@ -2312,7 +2391,7 @@ function seleccionTercero($this) {
 }
 
 function limpiarVariables() {
-	$("#btnCargarACuenta, #btnCuentaPendiente, #btnFacturarPedido, #btnBorrarPedido, #btnDarDeBajaCuenta, #btnCambiarSocio").show();
+	$("#btnCargarACuenta, #btnFacturarPedido, #btnBorrarPedido, #btnDarDeBajaCuenta, #btnCambiarSocio").show();
 	arrayProductosPedido = [];
 	$("input[name=Termino]").removeAttr("required");
 	let tempTercero = terceroIdPedido;
@@ -2670,6 +2749,7 @@ function organizarDataConsumo(array, tercero, filterNuevo = true) {
 			PorceDescP: (op.PromoPorce || 0),
 			ProdPromo: op.ProdPromo ? op.ProdPromo : null,
 			PromoProdu: (op.PromoProdu || ''),
+			TipoPromId: op.PromocionId != '' ? op.PromocionId : '',
 			PreciPubli: (op.valorUnitario ? op.valorUnitario : op.Valor),
 			PuestoMesa: (op.PuestoMesa ? op.PuestoMesa : null),
 			ReservaId: (reservaActual && reservaActual.Id ? reservaActual.Id : null),
@@ -2687,7 +2767,8 @@ function organizarDataConsumo(array, tercero, filterNuevo = true) {
 					? (btnCargarCuentaClick && filterNuevo ? habitacionTemp : null)
 					: habitacionTemp
 				)
-			)
+			),
+			EventoId: (op.EventoId != EventoId) ? EventoId : op.EventoId
 		}
 		let ivan = 0;
 		if ($DATOSMONTAJE['PreciAnIva'] != 'S') {
@@ -2756,7 +2837,6 @@ function obtenerInformacion(data, metodoBack, funcion) {
 				}
 				this[funcion](resp);
 			} else if (!resp.valido) {
-				alertify.error(resp.mensaje);
 				if (funcion == 'clickTipoMenu') {
 					$("#productosMenu").empty();
 				}
@@ -2765,6 +2845,40 @@ function obtenerInformacion(data, metodoBack, funcion) {
 						$("#btnCollapse").click();
 					}
 					$("#desayunoHabitacion").html('')
+					//validacion para la creacion de tercero al momento de bvuscar y de cumplir las condiciones si no hace el proceso igual que siempre
+					if (tipoVentaSeleccionado.manejclien == 'S' && CrearTercero || botonCambiarCuenta ==1) {
+						if ($("#numeroAccion").val().length > 4) {
+							$(".bd-accion-modal-sm").hide();
+							const paneles =["DatosPrincipales","DireccionResidencia"] ;
+							let exigeD = 'N';
+							if (tipoVentaSeleccionado.manejclien == 'S' && tipoVentaSeleccionado.ExigeDatos == 'S') {
+								exigeD = 'S';
+							}
+							terceroComponent({
+								tercero: $("#numeroAccion").val(),
+								tipoTercero:'EsCliente',
+								modulo: 'modalClientes',
+								paneles: paneles,
+								exigeD: exigeD
+							})
+								.then((res) => {
+									$(".bd-accion-modal-sm").show();
+									const datosNuevosPersonales = res.data.contentDatosPersonales;
+									$("#numeroAccion").val(datosNuevosPersonales.TerceroID);
+									$('#btnBuscarTercero').prop('disabled',false);
+									$('#btnBuscarTercero').click();
+								})
+								.catch((error) => {
+									$(".bd-accion-modal-sm").show();
+									$("#numeroAccion").val('');
+									$('#btnBuscarTercero').prop('disabled',false);
+								});			
+						}else{
+							alertify.warning('El documento diligenciado debe ser mayor a 4 caracteres');
+							$('#btnBuscarTercero').prop('disabled',false);
+							return false;
+						}
+					}
 				}
 				if (metodoBack == 'validarPassSocio') {
 					setTimeout(() => {
@@ -2781,6 +2895,8 @@ function obtenerInformacion(data, metodoBack, funcion) {
 				if (metodoBack == "agregarCuenta") {
 					accesoCargarCuentaHotel = false;
 				}
+				alertify.error(resp.mensaje);
+
 			}
 		}
 	});
@@ -3388,7 +3504,8 @@ function organizarAcumulado() {
 		impoConsumoHotel: 0,
 		pedidoActual: 0,
 		totalSoloPendientes: 0,
-		totalConPropina: 0
+		totalConPropina: 0,
+		totalOtrosImpuestos: 0
 	};
 	$(".producto-menu").children().children('div').removeClass('producto-seleccionado');
 	let nuevos = 0, pendientes = 0;
@@ -3518,6 +3635,8 @@ function organizarAcumulado() {
 				<div class="text-left col-6 px-0">
 					<p class="m-0 font-weight-600">
 						<span class="${letra != 'P' ? 'text-primary' : ''}">${item.ProductoId} - ${item.nombre} ${item.Desayuno == 'S' ? '(Desayuno)' : ''}</span>
+						<br class="${$DATOSMONTAJE.ConsolidarCuentaResponsablePago == 'S' ? "" : "d-none"}">
+						<span class="${$DATOSMONTAJE.ConsolidarCuentaResponsablePago == 'S' ? "" : "d-none"}">${item.NombreTercero}</span>
 						<br>
 						${$carritoFlotante == 'S' ? `<span class="${letra != 'P' ? 'text-muted' : ''} mb-0">
 								${item.Almacen} - ${item.NombreVendedor || $(".vendedorPedido:first").text()}
@@ -3547,49 +3666,55 @@ function organizarAcumulado() {
 			${item.ProductosFamilia ? `<div id="famiCollap${item.ProductoId}${pos}" class="collapse" aria-labelledby="famiHead${item.ProductoId}${pos}" data-parent=".platos-pedido">${estructFami}</div>` : ''}
 		`);
 		$("#produ" + item.ProductoId).children().children('div').addClass('producto-seleccionado');
-		let ivita = calcularIva(+item.ivaid, +valorProd);
 		if (+item.ivaid == $impoConsumo) {
 
 			if (claseVer == 'd-flex activoplato') {
-				datosTotales.impoConsumoPedidoActual += ivita[0];
+				datosTotales.impoConsumoPedidoActual += (+item.Iva);
 			}
 
 			if (reservaHotel && reservaHotel != -1 && tipoVentaSeleccionado.Propina == "S" && dataFechasHotel.EntradaReservaHotel) {
 				if (item.SedeAlmacen == $INFOALMACEN.SedeId && moment(fechaConsu).isSameOrAfter(dataFechasHotel.EntradaReservaHotel) && moment(fechaConsu).isSameOrBefore(dataFechasHotel.SalidaReservaHotel)) {
-					datosTotales.impoConsumoHotel += ivita[0];
+					datosTotales.impoConsumoHotel += (+item.Iva);
 				}
 			}
 		} else {
 			if (claseVer == 'd-flex activoplato') {
-				datosTotales.ivaPedidoActual += ivita[0];
+				datosTotales.ivaPedidoActual += (+item.Iva);
 			}
 
 			if (reservaHotel && reservaHotel != -1 && tipoVentaSeleccionado.Propina == "S" && dataFechasHotel.EntradaReservaHotel) {
 				if (item.SedeAlmacen == $INFOALMACEN.SedeId && moment(fechaConsu).isSameOrAfter(dataFechasHotel.EntradaReservaHotel) && moment(fechaConsu).isSameOrBefore(dataFechasHotel.SalidaReservaHotel)) {
-					datosTotales.ivaHotel += ivita[0];
+					datosTotales.ivaHotel += (+item.Iva);
 				}
 			}
 		}
+
+		if (item.PorceImpue > 0) {
+			datosTotales.totalOtrosImpuestos += (+item.Impuesto);
+		} else {
+			datosTotales.totalOtrosImpuestos += (+item.Cantidad * +item.Impuesto)
+		}
+
 		if (item.Imprime != 'P' && item.Despachado != 'P') {
-			datosTotales.todasCuentas += ivita[1];
+			datosTotales.todasCuentas += (+valorProd);
 		}
 		if (item.TotalPedidosPendientes > 0) {
 			datosTotales.totalSoloPendientes = +item.TotalPedidosPendientes;
 		}
 
 		if (claseVer == 'd-flex activoplato') {
-			datosTotales.pedidoActual += ivita[1];
+			datosTotales.pedidoActual += (+valorProd);
 		}
 
 		if (reservaHotel && reservaHotel != -1 && tipoVentaSeleccionado.Propina == "S" && dataFechasHotel.EntradaReservaHotel) {
 			if (item.SedeAlmacen == $INFOALMACEN.SedeId && moment(fechaConsu).isSameOrAfter(dataFechasHotel.EntradaReservaHotel) && moment(fechaConsu).isSameOrBefore(dataFechasHotel.SalidaReservaHotel)) {
-				datosTotales.totalHotel += ivita[1];
+				datosTotales.totalHotel += (+valorProd);
 			}
 		}
 	});
 
 	/* Calculamos el subtotal de todos los productos */
-	let subtotal = datosTotales.pedidoActual - (datosTotales.impoConsumoPedidoActual + datosTotales.ivaPedidoActual);
+	let subtotal = datosTotales.pedidoActual - (datosTotales.impoConsumoPedidoActual + datosTotales.ivaPedidoActual + datosTotales.totalOtrosImpuestos);
 	propinaPedido = 0;
 	if (tipoVentaSeleccionado.Propina == "S") {
 		if (reservaHotel && reservaHotel != -1) {
@@ -3616,8 +3741,8 @@ function organizarAcumulado() {
 
 	/* Se agregan los totales a las visuales */
 	$(".totalPropina").text("$" + addCommas(propinaPedido));
-
 	$(".totalConPropina").text("$" + addCommas(datosTotales.totalConPropina));
+	$(".totalOtrosImpuestos").text("$" + addCommas(datosTotales.totalOtrosImpuestos));
 	$(".totalCuentaNeta").text('$' + addCommas(subtotal.toFixed(2)));
 
 	$(".totalCuentaActual").text('$' + addCommas(datosTotales.pedidoActual.toFixed(2)));
@@ -3643,7 +3768,6 @@ function organizarAcumulado() {
 		$("#valProducto").val('');
 	}
 	$("#btnCargarACuenta").attr('disabled', nuevos > 0 ? false : true);
-	$("#btnCuentaPendiente").attr('disabled', pendientes > 0 ? false : true);
 	accionesProducto();
 	$(".platos-pedido").scrollTop($(".platos-pedido")[0].scrollHeight);
 	$("#btnCambiarSocio, #btnCambiarCuentaPedido, #btnAgregarCuentas").prop('disabled', false);
@@ -3651,7 +3775,7 @@ function organizarAcumulado() {
 		$("#btnCambiarSocio, #btnCambiarCuentaPedido, #btnAgregarCuentas").prop('disabled', true);
 	}
 
-	if ($DATOSMONTAJE.FactConAbier == 'S') {
+	if ($DATOSMONTAJE.FactConAbier == 'S' || $DATOSMONTAJE.ConsolidarCuentaResponsablePago == 'S') {
 		$('.totales-consumo').removeClass('bg-success');
 		if (!$(".btnOcultarConsumos").hasClass('ocultarConsumos')) {
 			$('.totales-consumo').addClass('bg-success');
@@ -3676,6 +3800,9 @@ function cargarAccionTerc(enc) {
 	accionCamposPedido();
 	$(".clientePedido").html(enc.Nombre);
 	$(".habitacionPedido").html((enc.NombreHabitacion || ''));
+	$(".documentoPedido").html((enc.TerceroID || ''));
+	$(".eventoPedido").html('');
+	if (enc.EventoId != -1) $(".eventoPedido").html(((enc.NroEvento || '') + ' - ' + (enc.NombreEvento || '')));
 	$(".accionIdPedido").html((accionTercero || ''));
 	let consumo = $(".mesaId.mesa-seleccionada").data('ocupada');
 	if ($TIPOCOMERC == 'CLUB' && enc.ZonaCuenta != null) {
@@ -3836,11 +3963,21 @@ function accionesProducto() {
 			obtenerInformacion(data, 'obtenerFamiliasProd', 'informacionFamiliaProducto');
 		}
 	});
+
+	$('#Valor').on('change', function(){
+		$('.labelPromociones').html('').css('padding-inline', '');
+		$('#bgProm').addClass('d-none');
+		changeInputCantidad();
+		productoActual.PromoPorce = 0;
+		productoActual.PromoDescuen = 0;
+		productoActual.PromocionId = '';
+		productoActual.PromoProdu = '';
+	})
 }
 
 function infoProductoEditar() {
 	Object.keys(productoActual).forEach(ite => {
-		if (variableProductoPermiso && productoActual['inventames'] != 'S' && ite === 'inventario' && productoActual[ite].length) {
+		if (productoActual['inventames'] != 'S' && ite === 'inventario' && productoActual[ite].length) {
 			productoActual[ite].forEach(op => {
 				if (op.Tipo != 'O') {
 					$('#item' + op['productoid']).attr('checked', op['elegido'] ? true : false);
@@ -3912,6 +4049,8 @@ function datosProducto({ disponibles, noDisponibles, observaciones, agrandamient
 	if (cantidadProductoPermiso) {
 		$("#btnCrearCargar, #cantProductoCont").show();
 	}
+	$('.labelPromociones').html('').css('padding-inline', '');
+	$('#bgProm').addClass('d-none');
 	if (productoActual.inventames != 'S') {
 		if (productoActual.estructura == 'S') {
 			if (disponibles.length) {
@@ -3979,6 +4118,9 @@ function datosProducto({ disponibles, noDisponibles, observaciones, agrandamient
 			abrirCerrarModal(".modal-agrandamientos", "hide", ".bd-Variables", "show")
 		});
 	}
+	setTimeout(() => {
+		changeInputCantidad();
+	}, 200);
 	if (productoActual.Promocion == "S") {
 			let data = {
 				almacen: $INFOALMACEN['almacenid'].trim(),
@@ -4000,6 +4142,8 @@ function datosProducto({ disponibles, noDisponibles, observaciones, agrandamient
 				headReservaHotel: (tercerosDesayuno.length > 0 ? HeadReservaIdHotel : 0)
 			};
 			obtenerInformacion(data, 'obtenerPromociones', 'promocionesProducto');
+	}else{
+		promocionesProd = 1;
 	}
 }
 
@@ -4082,13 +4226,24 @@ function changeInputCantidad(accion = '') {
 		if (cantidad < 0) cantidad = 0;
 	} else {
 		if (cantidad == 0) cantidad = 1;
+		if (cantidad < 0) cantidad = 0;
 	}
-	if(productoActual.Promocion == "S"){
-		setTimeout(() => {
-			validarPromociones(promocionesProd);
-		}, 300);
-	}else{
-		$('#Valor').val(+productoActual.ValorOriginal* +cantidad);
+	if(promocionesProd != undefined){
+		if(productoActual.Promocion == "S" && promocionesProd.promGene !== undefined && promocionesProd.promoProd !== undefined){
+			if(parseInt(productoActual.Valor) == $('#Valor').val()){
+				setTimeout(() => {
+					validarPromociones(promocionesProd);
+				}, 300);
+			}else{
+				$('#ValorTotal').html('<strong> <label class="floating-label text-dark m-0 px-2" style="font-size: 14px;">Valor Total: </label></strong>'+ '<strong><label class="floating-label text-dark bg-light m-0 py-1 px-2" style="font-size: 18px;"> $'+ addCommas((+$('#Valor').val() * +cantidad).toFixed(0))+ '<hr class="m-0"></label></strong>');
+			}
+		}else{
+			$('#ValorTotal').html('');
+			if (productoActual.PrecioAbierto.trim() != 'S') $('#ValorTotal').html('<strong> <label class="floating-label text-dark m-0 px-2" style="font-size: 14px;">Valor Total: </label></strong>'+ '<strong><label class="floating-label text-dark bg-light m-0 py-1 px-2" style="font-size: 18px;"> $'+ addCommas((+productoActual.Valor * +cantidad).toFixed(0))+ '<hr class="m-0"></label></strong>');
+		}
+	}else if(promocionesProd == 1){
+		$('#ValorTotal').html('');
+		if (productoActual.PrecioAbierto.trim() != 'S') $('#ValorTotal').html('<strong> <label class="floating-label text-dark m-0 px-2" style="font-size: 14px;">Valor Total: </label></strong> '+ '<strong><label class="floating-label text-dark bg-light m-0 py-1 px-2" style="font-size: 18px;"> $'+ addCommas((+productoActual.Valor * +cantidad).toFixed(0))+ '<hr class="m-0"></label></strong>');
 	}
 	$("input[name=Cantidad]").val(cantidad);
 	if (productoActual.inventames != 'S' && productoActual.estructura == 'S') {
@@ -4147,7 +4302,7 @@ function changeInputCantidad(accion = '') {
 
 		if ($DATOSMONTAJE.InventarioRojo == 'S') return
 
-		if (accion != 'restar' && (+productoActual['invenactua'] - 1) <= cantidad) {
+		if (accion != 'restar' && (+productoActual['invenactua']) <= cantidad) {
 			if (accion == 'sumar') {
 				$("input[name=Cantidad]").val(cantidad);
 			} else {
@@ -4478,6 +4633,8 @@ function facturarPedido(consumoActualesPedido = []) {
 		, HeadReservaHotel: (HeadReservaIdHotel ? HeadReservaIdHotel : null)
 		, consumoActualesPedido: consumoActualesPedido
 		, accionPedido: accionTercero
+		, cargarCuentaEvento
+		, EventoId: (EventoId ? EventoId : null)
 	}
 	if (accesoCargarCuentaHotel && tercerosDesayuno.length) {
 		data.soloDesayunoTerceros = tercerosDesayuno.map(x => x.TerceroID);
@@ -4540,6 +4697,8 @@ function guardarCuenta() {
 		, HeadReservaHotel: (HeadReservaIdHotel ? HeadReservaIdHotel : null)
 		, consumoActualesPedido: []
 		, accionPedido: accionTercero
+		, cargarCuentaEvento
+		, EventoId: (EventoId ? EventoId : null)
 	}
 
 	if (accesoCargarCuentaHotel && tercerosDesayuno.length) {
@@ -5074,6 +5233,34 @@ function datosHabitacionBuscar({ datos }) {
 	}
 }
 
+function datosEventosBuscar({ datos }) {
+	$("#dataHabHotel").hide();
+	$("#EventosPedido").html("");
+	if (datos.length) {
+		let estruc = "";
+		datos.forEach(it => {
+			estruc += `<option value="${it.EventoId}">${it.Nombre}</option>`;
+		});
+		$("#EventosPedido").html(estruc);
+		$("#EventosPedido").unbind().change(function () {
+			$('.empresa-datos').html(``);
+			terceroPedidoEmpresa = {};
+			if ($("#EventosPedido").val() != "") {
+				$("#btnBuscarTercero").click();
+			} else {
+				alertify.warning("Seleccione una habitación");
+			}
+		});
+		
+		$("#btnBuscarEvento").unbind().click(function () {
+			$("#EventosPedido").change();
+		});
+		$("#EventosPedido").change();
+	} else {
+		$("#HabitacionPedido").html('<option value="">No hay eventos disponibles</option>');
+	}
+}
+
 function obtenerDiaSemana() {
 	let dia = moment().locale('es').format('dddd');
 	if (dia == "Miércoles") {
@@ -5085,13 +5272,26 @@ function obtenerDiaSemana() {
 }
 
 function validarPromociones(promo, extra = {}) {
+	$('.labelPromociones').html('').css('padding-inline', '');
+	$('#bgProm').addClass('d-none');
+	let promocion = promo;
+	let validarDesc = 0;
+	let labelPromociones = '';
+	let validarObs = 0;
 	let promoSelect = {};
 	promoSelect.Ranc = {};
 	promoSelect.Valo = {};
 	promoSelect.Desc = {};
 	promoSelect.Obse = {};
-	if(promo !== undefined){
-		if(promo['promoProd'].length != 0){
+	promoSelect.Gene = {};
+	promoSelect.Ranc.promos = {};
+	promoSelect.Valo.promos = {};
+	promoSelect.Desc.promos = {};
+	promoSelect.Obse.promos = {};
+	promoSelect.Gene.promos = {};
+	if(promocion != undefined){
+		if(promocion['promGene'].length != 0) validarDesc = 1;
+		if(promocion['promoProd'].length != 0){
 			for(var promo of promo['promoProd']){
 				if (promo['Tipo'] == 'RANC') {
 					let cant = +$("#cantProducto").val();
@@ -5100,6 +5300,9 @@ function validarPromociones(promo, extra = {}) {
 							if (+promo.Promos[i].Valor > 0) {
 								promoSelect.Ranc.Valor = +promo.Promos[i].Valor;
 								promoSelect.Ranc.valorProductoRanc1 = +promo.Promos[i].Valor;
+								promoSelect.Ranc.promos.Descripcion = promo.Promos[i].Descripcion;
+								promoSelect.Ranc.promos.CantidadInicial = promo.Promos[i].CantidadInicial;
+								promoSelect.Ranc.promos.CantidadFinal = promo.Promos[i].CantidadFinal;
 								validarDesc = 1;
 							}
 							if (+promo.Promos[i].Porcentaje || +promo.Promos[i].Porcentaje > 0) {
@@ -5107,14 +5310,20 @@ function validarPromociones(promo, extra = {}) {
 								promoSelect.Ranc.PromoDescuen= +valor;
 								promoSelect.Ranc.PromoPorce= +promo.Promos[i].Porcentaje;
 								promoSelect.Ranc.valorProductoRanc2 = +productoActual.ValorOriginal - valor;
+								promoSelect.Ranc.promos.Descripcion = promo.Promos[i].Descripcion;
+								promoSelect.Ranc.promos.CantidadInicial = promo.Promos[i].CantidadInicial;
+								promoSelect.Ranc.promos.CantidadFinal = promo.Promos[i].CantidadFinal;
 								validarDesc = 1;
 							} 
+						}else{
+							validarDesc = 1;
 						}
 					}
 				}
 				if (promo['Tipo'] == 'VALO') {
 					promoSelect.Valo.Valor = promo['Valor'];
 					promoSelect.Valo.valorProductoValo = parseInt(promo['Valor']);
+					promoSelect.Valo.promos.Descripcion = promo['Descripcion'];
 					validarDesc = 1;
 				}
 				if (promo['Tipo'] == 'DESC') {
@@ -5122,9 +5331,11 @@ function validarPromociones(promo, extra = {}) {
 					valor = ((+productoActual.ValorOriginal * +promo['Porcentaje']) / 100);
 					promoSelect.Desc.PromoDescuen = valor;
 					promoSelect.Desc.valorProductoDesc = +productoActual.ValorOriginal - valor;
+					promoSelect.Desc.promos.Descripcion = promo['Descripcion'];
 					validarDesc = 1;
 				}
 				if (promo['Tipo'] == 'OBSE' && validarDesc == 0) {
+					validarObs = 1;
 					let cant = +$("#cantProducto").val();
 					if (+promo.PorCada > cant) {
 						alertify.warning("La cantidad es menor a la cantidad minimo para la promoción");
@@ -5156,6 +5367,9 @@ function validarPromociones(promo, extra = {}) {
 							PromoDescuen: ((+promo.datosProd.Valor) * cantProd),
 							PorCada: promo.PorCada
 						}
+						promoSelect.Obse.promos.Descripcion = promo['Descripcion'];
+						promoSelect.Obse.promos.PorCada = promo['PorCada'];
+						labelPromociones = 'Promoción: ' + promoSelect.Obse.promos.Descripcion + ' por cada: ' +parseInt(promoSelect.Obse.promos.PorCada);
 					}	
 				}
 			}
@@ -5164,39 +5378,61 @@ function validarPromociones(promo, extra = {}) {
 			const valoresProducto = Math.min(...valoresSinCero);
 			if(valoresProducto === promoSelect.Ranc.valorProductoRanc1){
 				productoActual.Valor = promoSelect.Ranc.valorProductoRanc1;
+				productoActual.PromocionId = '';
 				productoActual.PromoProdu = 'RANC';
 
+				labelPromociones = 'Promoción: ' + promoSelect.Ranc.promos.Descripcion +' de: ' + parseInt(promoSelect.Ranc.promos.CantidadInicial) + ' a ' + parseInt(promoSelect.Ranc.promos.CantidadFinal);
 			}else if(valoresProducto === promoSelect.Ranc.valorProductoRanc2){
 				productoActual.PromoDescuen = promoSelect.Ranc.PromoDescuen;
 				productoActual.PromoPorce = promoSelect.Ranc.PromoPorce;
 				productoActual.Valor = promoSelect.Ranc.valorProductoRanc2;
+				productoActual.PromocionId = '';
 				productoActual.PromoProdu = 'RANC';
 
+				labelPromociones = 'Promoción: ' + promoSelect.Ranc.promos.Descripcion +' de: ' + parseInt(promoSelect.Ranc.promos.CantidadInicial) + ' a ' + parseInt(promoSelect.Ranc.promos.CantidadFinal);
 			}else if(valoresProducto === promoSelect.Valo.valorProductoValo){
 				productoActual.Valor = promoSelect.Valo.valorProductoValo;
+				productoActual.PromocionId = '';
 				productoActual.PromoProdu = 'VALO';
 
+				labelPromociones = 'Promoción: ' + promoSelect.Valo.promos.Descripcion
 			}else if(valoresProducto === promoSelect.Desc.valorProductoDesc){
 				productoActual.PromoPorce = promoSelect.Desc.PromoPorce;
 				productoActual.PromoDescuen = promoSelect.Desc.PromoDescuen;
 				productoActual.Valor = promoSelect.Desc.valorProductoDesc;
+				productoActual.PromocionId = '';
 				productoActual.PromoProdu = 'DESC';
-			};
 
+				labelPromociones = 'Promoción: ' + promoSelect.Desc.promos.Descripcion;
+			}else{
+				productoActual.Valor = productoActual.ValorOriginal;
+			};
+	
 			if(productoActual.Valor == 0){
 				productoActual.Valor = productoActual.ValorOriginal;
 			};
-			$('#Valor').val(+productoActual.Valor * +$("#cantProducto").val()); 
-		} else if(promo['promGene'].length != 0 && promo['promoProd'].length == 0){
-			for(var promo of promo['promGene'] ){
-				productoActual.PromoPorce = promo.PorcentajeDescuento;
-				let valor = ((+productoActual.ValorOriginal * +promo.PorcentajeDescuento) / 100);
-				productoActual.PromoDescuen = valor;
-				valorProductoGene = +productoActual.ValorOriginal - valor;
-			}
-			productoActual.Valor = valorProductoGene;
-			$('#Valor').val(+productoActual.Valor * +$("#cantProducto").val());
 		}
+		if((promocion['promGene'].length != 0 && validarDesc == 1 && validarObs == 0) || (promocion['promGene'].length != 0 && validarDesc == 0 && validarObs == 0)){
+			for(var promo of promocion['promGene']){
+				let valor = ((+productoActual.ValorOriginal * +promo.PorcentajeDescuento) / 100);
+				valorProductoGene = +productoActual.ValorOriginal - valor;
+				if(valorProductoGene <= productoActual.Valor){
+					productoActual.PromocionId = promo.PromocionId;
+					productoActual.PromoProdu = 'GENE';
+					productoActual.Valor = valorProductoGene;
+					productoActual.PromoPorce = promo.PorcentajeDescuento;
+					productoActual.PromoDescuen = valor;
+					promoSelect.Gene.promos.Descripcion = promo['Tabla'];
+					promoSelect.Gene.promos.PorcentajeDescuento = promo['PorcentajeDescuento'];
+					labelPromociones = 'Promoción: ' + promoSelect.Gene.promos.Descripcion + ' ' + parseInt(promoSelect.Gene.promos.PorcentajeDescuento)+'%';
+				}
+			}
+		}
+		$('.labelPromociones').html(labelPromociones).css('padding-inline', '36px');
+		if(labelPromociones.length > 0) $('#bgProm').removeClass('d-none');
+		$('#Valor').val(+productoActual.Valor);
+		$('#ValorTotal').html('');
+		$('#ValorTotal').html('<strong> <label class="floating-label text-dark m-0 px-2" style="font-size: 14px;">Valor Total: </label></strong>'+ '<strong><label class="floating-label text-dark bg-light m-0 py-1 px-2" style="font-size: 18px;"> $' + addCommas((+productoActual.Valor * +$("#cantProducto").val()).toFixed(0)) + '<hr class="m-0"></label></strong>');
 	}
 }
 
@@ -5815,11 +6051,16 @@ function cuentasMesaTerceros({ cuentas }) {
 	let estructura = '';
 	$("#cuentasTerceroMesa").html(estructura);
 	cuentas.forEach(it => {
+		let nombreEvento = '';
+		if (it.EventoId && it.EventoId != -1) {
+			nombreEvento = ((it.NroEvento || '') + ' - ' + (it.NombreEvento || ''));
+		}
 		estructura += `<div title="Ir a la cuenta" class="m-b-10 d-flex border rounded btnTerceroCambiarCuentaPendiente" style="align-items: center; cursor:pointer; ${it.TotalPendienteRojo > 0 ? 'border-color: ' + coloresMesa.ProdsPendientes.color + ' !important;' : ''}" data-info="${(it.TerceroID + '').trim()}">
 			<div class="pl-3" style="width: 100%;">
 				<h6>${it.Nombre}</h6>
-				<p class="m-b-0">${(it.AccionId || '')}</p>
-				<p class="m-b-0">${(it.NombreHabitacion || '')}</p>
+				<p class="m-b-0">${(it.AccionId == '' ? "<b>Documento: </b>" + it.TerceroID : "<b>Acción: </b>" + it.AccionId)}</p>
+				<p class="m-b-0">${(it.NombreHabitacion == undefined ? '' : "<b>Habitación: </b>" + it.NombreHabitacion)}</p>
+				<p class="m-b-0">${nombreEvento}</p>
 			</div>
 			<button type="button" title="Ir a la cuenta" class="btn btn-sm btn-secondary" style="max-height: 75px; height: 75px;">
 				<i class="fas fa-share-square"></i>
@@ -5839,6 +6080,15 @@ function cuentasMesaTerceros({ cuentas }) {
 		codBarraTercero = (enco.barra || '');
 		$(".barraPedido").html(codBarraTercero);
 		$(".habitacionPedido").html((enco.NombreHabitacion || ''));
+		$(".eventoPedido").html('');
+		EventoId = null;
+		$("#btnCuentaEvento").hide();
+		if (enco.EventoId && enco.EventoId != -1) {
+			EventoId = enco.EventoId;
+			$(".eventoPedido").html(((enco.NroEvento || '') + ' - ' + (enco.NombreEvento || '')));
+			$("#btnCuentaEvento").show();
+		} 
+			
 		habitacionHotel = (enco.HabitacionId || '');
 		HeadReservaIdHotel = (enco.HeadReservaHotel || null);
 		reservaHotel = null;
@@ -5897,6 +6147,15 @@ function cuentaFinalizada(resp) {
 		}
 		abrirReporte(`${base_url()}reportes/imprimirComprobanteConsumoHotel/${insertados}/${accionPos}/${tipoVentaSeleccionado.impresion}`, this, 'hotelImprimir', consus, 'onbeforeunload');
 	}
+
+	if (EventoId > 0 && cargarCuentaEvento) {
+		let insertados = resp.idInsertado.join('-');
+		if (typeof tipoVentaSeleccionado.impresion == "undefined" || tipoVentaSeleccionado.impresion == null) {
+			tipoVentaSeleccionado.impresion = 1;
+		}
+		abrirReporte(`${base_url()}reportes/ComprobanteConsumoEvento/${insertados}/${accionPos}/${tipoVentaSeleccionado.impresion}`);
+	}
+
 	if (accesoCargarCuentaHotel && btnCargarCuentaClick && !btnTerceroPendiente) {
 
 		let infoDesa = sessionStorage.getItem('regresoMesaDesayuno');
@@ -5913,8 +6172,10 @@ function cuentaFinalizada(resp) {
 	prodsAgregarNew = [];
 	rastreoAbreCenta = false;
 	cargarCuentaPendiente = false;
+	cargarCuentaEvento = false;
 	accesoCargarCuentaHotel = false;
 	reservaHotel = null;
+	EventoId = null
 	alertify.success(resp.mensaje);
 	valorBuscarProducto = '';
 	$("#btnCuentaHotel").hide();
@@ -6294,7 +6555,7 @@ function dataFijosVariables(datos, titulo, lista, producto) {
 		}
 	});
 	let tituloData = false;
-	if (variableProductoPermiso && producto.inventames != 'S' && (ingredientes.variables != '' || ingredientes.fijos != '')) {
+	if (producto.inventames != 'S' && (ingredientes.variables != '' || ingredientes.fijos != '')) {
 		$(titulo).show();
 		$(lista).html(`<div class="col-${ingredientes.variables == '' ? '12' : '6'} row">
 			${ingredientes.fijos != '' ? `<div class="col-12">Fijos</div>` : ''}
@@ -6318,6 +6579,9 @@ function validarProductosFamilia() {
 
 function validarBtnFacturaElectronica() {
 	let element = $("#btnFacturarFacturaElectronico");
+
+	if (tipoVentaSeleccionado.vendedor != 'S') element.data("vendfactura", 'S');
+
 	if (tipoVentaSeleccionado.FacturaElectronica != 'S') {
 		if ((terceroIdPedido + '').trim().length < 4) {
 			if (terceroPedidoEmpresa && terceroPedidoEmpresa['TerceroID']) {
@@ -6372,4 +6636,24 @@ function abrirModuloCuentasPendientes() {
 		dataTable();
 		$('.modal-cuentas-pendientes-modulo').find('div').removeClass(['card', 'card-principal']);
 	});
+}
+
+function soloLetrasNumerosMesas(e, input) {
+	key = e.keyCode || e.which;
+	tecla = String.fromCharCode(key).toLowerCase();
+	letras = "abcdefghijklmnopqrstuvwxyz1234567890";
+	especiales = "8-37-39-46";
+
+	tecla_especial = false;
+
+	for (var i in especiales) {
+		if (key == especiales[i]) {
+			tecla_especial = true;
+			break;
+		}
+	}
+
+	if (letras.indexOf(tecla) == -1 && !tecla_especial) {
+		return false;
+	}
 }

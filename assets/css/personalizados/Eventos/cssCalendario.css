@@ -1,5 +1,5 @@
 .contenedor-tabla {
-	max-width: 1885px;
+	max-width: 1125px;
 	overflow-x: auto;
 	border-left: solid 1px #ccc;
 	border-right: solid 1px #ccc;
@@ -11,6 +11,7 @@
 	border-spacing: 0;
 	border-collapse: separate;
 	width: 0 !important;
+	justify-content: center;
 }
 
 .tabla-habitaciones thead tr th {
@@ -20,6 +21,7 @@
 	position: sticky;
 	top: 0;
 	z-index: 39;
+	font-size: 11px;
 }
 
 .tabla-habitaciones th,
@@ -43,12 +45,13 @@
 }
 
 .tabla-habitaciones tbody tr td {
-	height: 50px;
-	width: 50px;
-	min-width: 50px;
-	max-width: 50px;
-	max-height: 50px;
+	height: 30px;
+	width: 30px;
+	min-width: 30px;
+	max-width: 30px;
+	max-height: 30px;
 	position: relative;
+	vertical-align: top;
 }
 
 .tabla-habitaciones .columna-fija {
@@ -58,8 +61,8 @@
 	position: -o-sticky !important;
 	position: sticky !important;
 	left: 0;
-	min-width: 110px;
-	max-width: 110px;
+	min-width: 100px;
+	max-width: 100px;
 }
 
 .tabla-habitaciones .columna-fija2 {
@@ -90,8 +93,8 @@
 
 @media(min-width: 992px) {
 	.tabla-habitaciones .columna-fija {
-		min-width: 200px;
-		max-width: 200px;
+		min-width: 160px;
+		max-width: 160px;
 	}
 
 	.tabla-habitaciones tr .columna-fija2 {
@@ -109,118 +112,251 @@
 	padding: 0.5rem !important;
 }
 
-/* Reservado */
-.estado-R {
+/* Borrador */
+.estado-BO {
 	opacity: 0.8;
-	background-color: #DEFDE0;
-	border-color: #00ff10;
+	background-color: #B19CD9;
+	border-color: #9f79e5;
 }
 
-.estado-R:hover {
-	background-color: #A0FFA6;
-	border-color: #A0FFA6;
+.estado-BO:hover {
+	background-color: #bfb0dc;
+	border-color: #9f79e5;
 }
 
-.estado-R:focus,
-.estado-R.focus {
-	background-color: #A0FFA6;
-	border-color: #A0FFA6;
-	box-shadow: 0 0 0 0.2rem rgba(222, 253, 224, 0.5);
+.estado-BO:focus,
+.estado-BO.focus {
+	background-color: #B19CD9;
+	border-color: #B19CD9;
+	box-shadow: 0 0 0 0.2rem rgba(177, 156, 217, 0.5);
 }
 
-/* Salida Prevista */
-.estado-SP {
+/* Cotizado */
+.estado-CT {
 	opacity: 0.8;
-	background-color: #F0DEFD;
-	border-color: #D79FFF;
+	background-color: #F5A9BC;
+	border-color: #f17997;
 }
 
-.estado-SP:hover {
-	background-color: #D79FFF;
-	border-color: #D79FFF;
+.estado-CT:hover {
+	background-color: #fbbaca;
+	border-color: #f17997;
 }
 
-.estado-SP:focus,
-.estado-SP.focus {
-	background-color: #D79FFF;
-	border-color: #D79FFF;
-	box-shadow: 0 0 0 0.2rem rgba(240, 222, 253, 0.5);
+.estado-CT:focus,
+.estado-CT.focus {
+	background-color: #F5A9BC;
+	border-color: #F5A9BC;
+	box-shadow: 0 0 0 0.2rem rgba(245, 169, 188, 0.5);
 }
 
-/* Salida Confirmada (Finalizado) */
-.estado-F {
+/* Versionado */
+.estado-VR {
 	opacity: 0.8;
-	background-color: #CFBEE0;
-	border-color: #CDADDC;
+	background-color: #A9DFBF;
+	border-color: #74f7a9;
 }
 
-.estado-F:hover {
-	background-color: #CDADDC;
-	border-color: #CDADDC;
+.estado-VR:hover {
+	background-color: #c4f2d7;
+	border-color: #74f7a9;
 }
 
-.estado-F:focus,
-.estado-F.focus {
-	background-color: #CDADDC;
-	border-color: #CDADDC;
-	box-shadow: 0 0 0 0.2rem rgba(252, 247, 222, 0.5);
+.estado-VR:focus,
+.estado-VR.focus {
+	background-color: #A9DFBF;
+	border-color: #A9DFBF;
+	box-shadow: 0 0 0 0.2rem rgba(169, 223, 191, 0.5);
 }
 
-/* Ocupado */
-.estado-O {
+/* Aceptado Cliente */
+.estado-CC {
 	opacity: 0.8;
-	background-color: #C1E1ED;
-	border-color: #A5CBF0;
+	background-color: #AEDFF7;
+	border-color: #7acbf3;
 }
 
-.estado-O:hover {
-	background-color: #A5CBF0;
-	border-color: #A5CBF0;
+.estado-CC:hover {
+	background-color: #bee1f2;
+	border-color: #7acbf3;
 }
 
-.estado-O:focus,
-.estado-O.focus {
-	background-color: #A5CBF0;
-	border-color: #A5CBF0;
-	box-shadow: 0 0 0 0.2rem rgba(253, 223, 223, 0.5);
+.estado-CC:focus,
+.estado-CC.focus {
+	background-color: #AEDFF7;
+	border-color: #AEDFF7;
+	box-shadow: 0 0 0 0.2rem rgba(174, 223, 247, 0.5);
 }
 
-/* Ingreso Previsto */
-.estado-IP {
+/* Rechazado Cliente */
+.estado-RE {
 	opacity: 0.8;
-	background-color: #FDFD96;
-	border-color: #FFEA83;
+	background-color: #F5CBA7;
+	border-color: #eeb888;
 }
 
-.estado-IP:hover {
-	background-color: #FFEA83;
-	border-color: #FFEA83;
+.estado-RE:hover {
+	background-color: #f1dac8;
+	border-color: #eeb888;
 }
 
-.estado-IP:focus,
-.estado-IP.focus {
-	background-color: #FFEA83;
-	border-color: #FFEA83;
-	box-shadow: 0 0 0 0.2rem rgba(252, 247, 222, 0.5);
+.estado-RE:focus,
+.estado-RE.focus {
+	background-color: #F5CBA7;
+	border-color: #F5CBA7;
+	box-shadow: 0 0 0 0.2rem rgba(245, 203, 167, 0.5);
 }
 
-/* No Presentado */
-.estado-N {
+/* Anulado */
+.estado-NU {
 	opacity: 0.8;
-	background-color: #FFE4E1;
-	border-color: #FFB6AE;
+	background-color: #D2B4DE;
+	border-color: #ce8ce8;
 }
 
-.estado-N:hover {
-	background-color: #FFB6AE;
-	border-color: #FFB6AE;
+.estado-NU:hover {
+	background-color: #e0c6eb;
+	border-color: #ce8ce8;
 }
 
-.estado-N:focus,
-.estado-N.focus {
-	background-color: #FFB6AE;
-	border-color: #FFB6AE;
-	box-shadow: 0 0 0 0.2rem rgba(244, 195, 113, 0.5);
+.estado-NU:focus,
+.estado-NU.focus {
+	background-color: #D2B4DE;
+	border-color: #D2B4DE;
+	box-shadow: 0 0 0 0.2rem rgba(210, 180, 222, 0.5);
+}
+
+/* Confirmado */
+.estado-CO {
+	opacity: 0.8;
+	background-color: #B8E994;
+	border-color: #a4e477;
+}
+
+.estado-CO:hover {
+	background-color: #d0f9b3;
+	border-color: #a4e477;
+}
+
+.estado-CO:focus,
+.estado-CO.focus {
+	background-color: #B8E994;
+	border-color: #B8E994;
+	box-shadow: 0 0 0 0.2rem rgba(184, 233, 148, 0.5);
+}
+
+/* Cotizar Nuevamente */
+.estado-CN {
+	opacity: 0.8;
+	background-color: #87CEEB;
+	border-color: #6ec3e4;
+}
+
+.estado-CN:hover {
+	background-color: #a9e0f5;
+	border-color: #6ec3e4;
+}
+
+.estado-CN:focus,
+.estado-CN.focus {
+	background-color: #87CEEB;
+	border-color: #87CEEB;
+	box-shadow: 0 0 0 0.2rem rgba(135, 206, 235, 0.5);
+}
+
+/* Expirado */
+.estado-EX {
+	opacity: 0.8;
+	background-color: #F8C9C5;
+	border-color: #f4aba5;
+}
+
+.estado-EX:hover {
+	background-color: #f2d4d1;
+	border-color: #f4aba5;
+}
+
+.estado-EX:focus,
+.estado-EX.focus {
+	background-color: #F8C9C5;
+	border-color: #F8C9C5;
+	box-shadow: 0 0 0 0.2rem rgba(248, 201, 197, 0.5);
+}
+
+/* Vencido */
+.estado-VE {
+	opacity: 0.8;
+	background-color: #B3B6B7;
+	border-color: #979a9b;
+}
+
+.estado-VE:hover {
+	background-color: #ccd1d3;
+	border-color: #979a9b;
+}
+
+.estado-VE:focus,
+.estado-VE.focus {
+	background-color: #B3B6B7;
+	border-color: #B3B6B7;
+	box-shadow: 0 0 0 0.2rem rgba(179, 182, 183, 0.5);
+}
+
+/* Finalizado */
+.estado-FI {
+	opacity: 0.8;
+	background-color: #F9E79F;
+	border-color: #eed56f;
+}
+
+.estado-FI:hover {
+	background-color: #f5e9b8;
+	border-color: #eed56f;
+}
+
+.estado-FI:focus,
+.estado-FI.focus {
+	background-color: #F9E79F;
+	border-color: #F9E79F;
+	box-shadow: 0 0 0 0.2rem rgba(249, 231, 159, 0.5);
+}
+
+/* Activo */
+.estado-AC {
+	opacity: 0.8;
+	background-color: #C39BD3;
+	border-color: #d497ec;
+}
+
+.estado-AC:hover {
+	background-color: #d9b5e7;
+	border-color: #d497ec;
+}
+
+.estado-AC:focus,
+.estado-AC.focus {
+	background-color: #C39BD3;
+	border-color: #C39BD3;
+	box-shadow: 0 0 0 0.2rem rgba(195, 155, 211, 0.5);
+}
+
+/* Facturacion */
+.estado-FA {
+	opacity: 0.8;
+	background-color: #9fc063;
+	border-color: #c6e292;
+}
+
+.estado-FA:hover {
+	background-color: #7b9649;
+	border-color: #c6e292;
+}
+
+.estado-FA:focus,
+.estado-FA.focus {
+	background-color: #9fc063;
+	border-color: #9fc063;
+	box-shadow: 0 0 0 0.2rem rgba(159, 192, 99, 0.5);
 }
 
 .border-IP {

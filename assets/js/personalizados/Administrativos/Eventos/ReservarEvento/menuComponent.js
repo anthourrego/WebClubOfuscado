@@ -5,9 +5,9 @@ function menusComponent(nombreMenu = "", productosSeleccionados = []) {
       id="modalMenu"
       data-backdrop="static"
       data-keyboard="false"
-      tabindex="-1"
       aria-labelledby="modalMenuLabel"
       aria-hidden="true"
+	  style="overflow:auto;"
     >
       <div class="modal-dialog modal-xl">
         <div class="modal-content">
@@ -26,6 +26,21 @@ function menusComponent(nombreMenu = "", productosSeleccionados = []) {
           </div>
           <div class="modal-body">
             <div class="row">
+			
+			
+				<div class="col-11 col-sm-11 col-md-11 col-lg-11 formBuscarProductos titleDisponible">
+					<div class="form-group form-valid mb-0" style="padding-top:10px !important">
+						<input type="text" name="valProducto" class="form-control form-control-floating valProducto" placeholder="Código o Nombre" id="valProducto" style="	z-index: 99;background: transparent;position: relative;">
+						<label class="floating-label nombre-produc-buscar valProducto" for="valProducto">Código o Nombre Producto</label>
+					</div>
+				</div>
+				<div class="col-1 col-sm-1 col-md-1 formBuscarProductos">
+					<button style="display: none" title="Limpiar" type="button" id="btnLimpiarBuscadorProducto" class="btn btn-danger">
+						<i class="fas fa-times-circle"></i>
+					</button>
+				</div>
+				
+			
               <div class="col div-tipos-comida">
                 <div class="mt-2 px-1" id="tiposComida">
                   <div
@@ -140,11 +155,34 @@ function menusComponent(nombreMenu = "", productosSeleccionados = []) {
     </div>;  
   `;
 
+	const strModalBusqueda = `
+  	<div id="BusquedaProducto" data-keyboard="false" data-backdrop="static" class="modal fade" role="dialog" aria-labelledby="BusquedaProductoLabel" aria-hidden="true" style="overflow:auto;">
+		<div class="modal-dialog modal-xl modal-dialog-scrollable" role="document">
+			<div class="modal-content">
+				<div class="modal-header headerWebClub">
+					<h5 class="modal-title" id="BusquedaProductoLabel">
+						<i class="far fa-image"></i>
+						Resultado de la búsqueda
+					</h5>
+				</div>
+				<div class="modal-body">
+					<div class="row mt-2 mb-3 mx-0" id="productosMenuBusqueda"></div>
+				</div>
+				<div class="modal-footer p-2">
+					<button type="button" class="btn btn-secondary" data-dismiss="modal" onclick="$('#btnLimpiarBuscadorProducto').click()" id="btnCancelarBusquedaProducto">Cancelar</button>
+				</div>
+			</div>
+		</div>
+	</div>
+  `;
+
 	return new Promise(function (resolve, reject) {
+		modalVisible = false;
 		const rutaControlador =
 			base_url() + "Administrativos/Eventos/MenusComponent/";
 
 		let productoActual = {};
+		let ListaGruopos = [];
 
 		const obtenerGruposMenu = (mesa, subgrupoMenu = "N") => {
 			//const example = {
@@ -189,18 +227,38 @@ function menusComponent(nombreMenu = "", productosSeleccionados = []) {
 			// 	data["accion"] = accionTercero;
 			// }
 
+			const info = {
+				...data,
+				AlmacenMenuId: tmpAlmacenMenuId,
+				sedeId: nuevaReserva.disponibilidad.sede,
+			};
+
+			const AlmacenMenuId = $(".selectMenu").val();
+			if(AlmacenMenuId != "" && AlmacenMenuId != null) {
+				info.AlmacenMenuId = AlmacenMenuId;
+			} else if (nuevaReserva.disponibilidad.almacen != null) {
+				info.AlmacenMenuId = nuevaReserva.disponibilidad.almacen;
+			}
+
 			$.ajax({
 				url: rutaControlador + "obtenerGrupoMenu",
 				type: "POST",
+				dataType: "json",
 				data: {
-					info: { ...data, AlmacenMenuId: tmpAlmacenMenuId },
+					info,
 				},
 				success: function (res) {
-					clickMesa(JSON.parse(res));
+					if (res.valido) {
+						clickMesa(res);
+						$(".valProducto").attr("hidden", false);
+					} else {
+						$(".valProducto").attr("hidden", true);
+						$(".popover").popover("hide");
+						$(".titleDisponible").html(res.mensaje);
+						return alertify.warning(res.mensaje);
+					}
 				},
 			});
-
-			// obtenerInformacion(data, "obtenerGrupoMenu", "clickMesa");
 
 			//Validamos para cuando sea de cargue desayuno recargue los productos cargados
 			// if (accesoCargarCuentaHotel) {
@@ -210,6 +268,7 @@ function menusComponent(nombreMenu = "", productosSeleccionados = []) {
 
 		const clickMesa = ({ datos, /*consumo, montaje,*/ subgrupo }) => {
 			$(".popover").popover("hide");
+			ListaGruopos = datos;
 			// $DATOSMONTAJE = montaje;
 			fontProds = "";
 			baseHeight = 100;
@@ -236,7 +295,9 @@ function menusComponent(nombreMenu = "", productosSeleccionados = []) {
 			if (subgrupo == "N") {
 				$(".linea-subgrupos").addClass("d-none");
 				// .hide();
+				ListaGruopos = [];
 				datos.forEach((op) => {
+					ListaGruopos.push(op.GrupoId);
 					$("#lista-tipo-comidas")
 						.append(`<div class="col-4 col-md-3 col-sm-4 col-lg-2 col-xl-2 card-tipo-comida px-1 mb-2" data-grupo="${
 						op.GrupoId
@@ -269,7 +330,6 @@ function menusComponent(nombreMenu = "", productosSeleccionados = []) {
 				// $(".btn-Reservas").addClass("d-none");
 				// .hide();
 				$(".card-tipo-comida").on("click", function () {
-					// console.log("hola");
 					/*if ($DATOSMONTAJE["LimitarBusqueda"] != "N") {
                         $(".formBuscarProductos").removeClass("d-none");
                         // .show();
@@ -423,14 +483,17 @@ function menusComponent(nombreMenu = "", productosSeleccionados = []) {
 			// soloDesayuno: (tercerosDesayuno.length > 0 ? 1 : 0),
 			// headReservaHotel: (tercerosDesayuno.length > 0 ? HeadReservaIdHotel : 0)
 			//};
-			// console.log({ ...data, ...dataExtra });
 
 			$.ajax({
 				url: rutaControlador + "obtenerProductos",
 				type: "POST",
 				data: {
 					// info: { ...data, ...dataExtra },
-					info: { ...dataExtra, AlmacenMenuId: tmpAlmacenMenuId },
+					info: {
+						...dataExtra,
+						AlmacenMenuId: tmpAlmacenMenuId,
+						grupos: ListaGruopos,
+					},
 				},
 				success: function (res) {
 					clickTipoMenu(JSON.parse(res));
@@ -695,9 +758,6 @@ function menusComponent(nombreMenu = "", productosSeleccionados = []) {
 							// $("#cantProducto").prop("disabled", false);
 							// $("#btnEliminarPromocion").addClass("d-none");
 							// .hide();
-							// console.log(data);
-							// console.log(productoActual);
-							// console.log("stake holder", produ);
 
 							if ($(this).hasClass("productoSeleccionado")) {
 								productosSeleccionados.forEach(
@@ -707,6 +767,7 @@ function menusComponent(nombreMenu = "", productosSeleccionados = []) {
 										}
 									}
 								);
+
 								$(this).removeClass("productoSeleccionado");
 
 								if ($(".productoSeleccionado").length === 0) {
@@ -724,6 +785,9 @@ function menusComponent(nombreMenu = "", productosSeleccionados = []) {
 									.find(".btn-danger")
 									.removeClass("d-none");
 							}
+							$("#BusquedaProducto").modal("hide");
+							$("#modalMenu").modal("show");
+							$(".producto-seleccionado").click();
 
 							menusSeleccionados();
 
@@ -732,9 +796,6 @@ function menusComponent(nombreMenu = "", productosSeleccionados = []) {
 							} else {
 								$("#btnAceptarMenu").attr("disabled", true);
 							}
-
-							// console.log(datosProducto(data));
-							// obtenerInformacion(data, "obtenerItemsProducto", "datosProducto");
 						} else {
 							alertify.warning("Producto no disponible");
 						}
@@ -742,6 +803,19 @@ function menusComponent(nombreMenu = "", productosSeleccionados = []) {
 				}, 10);
 			});
 			$("#tabProductos").click();
+
+			$("#btnLimpiarBuscadorProducto").click(function () {
+				$("#btnLimpiarBuscadorProducto").hide();
+				$("#valProducto").val("").focus();
+			});
+
+			$("#btnCancelarBusquedaProducto").click(function (e) {
+				e.preventDefault();
+				modalVisible = false;
+				$("#modalMenu").modal("show");
+				$("#BusquedaProducto").modal("hide");
+				$(".producto-seleccionado").click();
+			});
 		};
 
 		const organizarSubGruposLineaTiempo = (eliminar = -1) => {
@@ -771,12 +845,13 @@ function menusComponent(nombreMenu = "", productosSeleccionados = []) {
                     </button>`
 				)
 				.removeClass("d-none")
-				.find(".btnGroupAgregarMenu")
 				.on("click", ".item-subgrupo", function () {
+					console.log("funca");
 					let data = $(this).data();
 					organizarSubGruposLineaTiempo(data.pos);
 					obtenerProducsdDelMenu("clickTipoMenu", { grupoId: data.grupo });
 				})
+				.find(".btnGroupAgregarMenu")
 				.on("click", ".btn-success", function (e) {
 					e.preventDefault();
 
@@ -797,17 +872,14 @@ function menusComponent(nombreMenu = "", productosSeleccionados = []) {
 				});
 		};
 
-		const datosProducto = (data) => {
-			const tmpDatos = {};
-			let valor = 0;
-
-			if (!productoActual.PromoProdu) {
-				valor = productoActual.Valor;
-			}
-
-			tmpDatos.valor = valor;
-
-			return tmpDatos;
+		const delay = (callback) => {
+			var timer = 0;
+			return () => {
+				clearTimeout(timer);
+				timer = setTimeout(function () {
+					callback.apply(this, arguments);
+				}, 700);
+			};
 		};
 
 		const menusSeleccionados = () => {
@@ -836,15 +908,40 @@ function menusComponent(nombreMenu = "", productosSeleccionados = []) {
 		};
 
 		$("body").append(strModal);
+		$("body").append(strModalBusqueda);
 
-		obtenerGruposMenu(false);
+		// obtenerGruposMenu(false);
 		$("#modalMenu").modal("show");
-		$("#modalMenu").find(".selectMenu").val(tmpAlmacenMenuId);
+		setTimeout(() => {
+			$("#modalMenu").find(".selectMenu").val(almacenIdEventos).change();
+		}, 500);
+
+		$("#valProducto").change(
+			delay(function () {
+				valorBuscarProducto = $("#valProducto").val().toLowerCase();
+				if (valorBuscarProducto == "") {
+					$("#btnLimpiarBuscadorProducto").hide();
+				} else {
+					$("#btnLimpiarBuscadorProducto").show();
+					let grupo = $(".card-tipo-comida.tipo-comida-seleccionado").data(
+						"grupo"
+					);
+					let data = {
+						grupoId: grupo,
+						buscar: valorBuscarProducto.trimEnd(),
+					};
+					obtenerProducsdDelMenu("clickTipoMenu", data);
+				}
+			})
+		);
+
 		menusSeleccionados();
 
 		$("#modalMenu")
 			.on("hidden.bs.modal", function () {
-				$(this).remove();
+				if (!modalVisible) {
+					$(this).remove();
+				}
 			})
 			.on("click", "#btnAceptarMenu", function (e) {
 				e.preventDefault();
@@ -875,5 +972,13 @@ function menusComponent(nombreMenu = "", productosSeleccionados = []) {
 
 				obtenerGruposMenu(false);
 			});
+
+		function productosBusqueda(resp) {
+			$("#productosMenuBusqueda").html(resp);
+			valorBuscarProducto = "";
+			modalVisible = true;
+			$("#modalMenu").modal("hide");
+			$("#BusquedaProducto").modal("show");
+		}
 	});
 }

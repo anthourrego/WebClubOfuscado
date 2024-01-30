@@ -17,13 +17,17 @@ document.addEventListener("DOMContentLoaded", function () {
 			searchParams.has("fechaini") &&
 			searchParams.has("fechafin") &&
 			searchParams.has("lugares") &&
-			searchParams.has("personas")
+			searchParams.has("personas") &&
+			searchParams.has("sede") &&
+			searchParams.has("almacen")
 		) {
 			tmpData.start = searchParams.get("fechaini");
 			tmpData.end = searchParams.get("fechafin");
 			tmpData.lugarid = searchParams.get("lugares").split(",")[0];
 			tmpData.personas = parseInt(searchParams.get("personas"));
 			tmpData.regresar = JSON.parse(searchParams.get("regresar"));
+			tmpData.sede = searchParams.get("sede");
+			tmpData.almacen = searchParams.get("almacen");
 		} else {
 			window.location.href =
 				base_url() + "Administrativos/Eventos/ReservarEvento/Disponibilidad";
@@ -281,6 +285,10 @@ document.addEventListener("DOMContentLoaded", function () {
 		}
 	});
 
+	$("#nombre").on("change", function () {
+		$(this).val($(this).val().trim());
+	});
+
 	$("#frmEvento").submit(function (e) {
 		e.preventDefault();
 
@@ -293,12 +301,31 @@ document.addEventListener("DOMContentLoaded", function () {
 
 		nuevaReserva.disponibilidad.nombre = $("#nombre").val();
 		nuevaReserva.disponibilidad.tipoevento = $("#tipoEvento").val();
+		nuevaReserva.disponibilidad.diaalerta = $(
+			"#tipoEvento option:selected"
+		).attr("diaalerta");
+
 		nuevaReserva.disponibilidad.personas = tmpData.personas;
+		nuevaReserva.disponibilidad.sede = tmpData.sede;
+		nuevaReserva.disponibilidad.almacen =
+			tmpData.almacen.trim() !== "" && tmpData.almacen != "null"
+				? tmpData.almacen.trim()
+				: null;
 		nuevaReserva.disponibilidad.description = $("#tipoEvento")
 			.find("option:selected")
 			.text()
 			.trim();
 		nuevaReserva.disponibilidad.agrupar = tmpData.regresar;
+
+		// Validar que un evento no se cree en estado expirado
+		const hoy = new Date();
+		if (evento.start < hoy) {
+			alertify.alert(
+				"Advertencia",
+				"El evento no puede iniciar a la hora que se hace la reserva"
+			);
+			return false;
+		}
 
 		// 2. Si no hay nada, creo un objeto con personas, nombre, tipo, array con lugar
 		const FORMAT = "YYYY-MM-DD HH:mm:ss";
@@ -336,12 +363,40 @@ document.addEventListener("DOMContentLoaded", function () {
 		nuevaReserva.disponibilidad.fechafin =
 			moment(maxFechaFin).format("YYYY-MM-DD");
 
+		if (nuevaReserva.disponibilidad.diaalerta == "") {
+			fechalimite = nuevaReserva.disponibilidad.fechaini;
+		} else {
+			fechaActual = moment();
+			fechalimite = fechaActual.add(
+				nuevaReserva.disponibilidad.diaalerta,
+				"days"
+			);
+			fechalimite = moment(fechalimite).format("YYYY-MM-DD");
+		}
+
+		if (nuevaReserva.disponibilidad.fechaini > fechalimite) {
+			nuevaReserva.disponibilidad.fechalimite = fechalimite;
+		} else {
+			nuevaReserva.disponibilidad.fechalimite =
+				nuevaReserva.disponibilidad.fechaini;
+		}
+
 		// 4. Guarda en el session storage
 		const disponibilidadJSON = JSON.stringify(nuevaReserva.disponibilidad);
 		sessionStorage.setItem("newRESDisponibilidad", disponibilidadJSON);
 
 		// 4.1 Actualiza los elementos fijos
 		actualizarElementosFijos();
+
+		// 4.2 Actualiza personas
+		if (
+			typeof nuevaReserva.datosBasicos !== "undefined" &&
+			nuevaReserva.datosBasicos !== null
+		) {
+			nuevaReserva.datosBasicos.hombres = nuevaReserva.disponibilidad.personas;
+			const datosBasicosJSON = JSON.stringify(nuevaReserva.datosBasicos);
+			sessionStorage.setItem("newRESDatosBasicos", datosBasicosJSON);
+		}
 
 		// 4. Me devuelve a la pestaña anterior
 		if (tmpData.regresar) {
@@ -546,7 +601,7 @@ document.addEventListener("DOMContentLoaded", function () {
 				break;
 			case "CC":
 				// Cotización confirmada
-				estado = "Confirmado Cliente";
+				estado = "Aceptado Cliente";
 				break;
 			case "RE":
 				estado = "Rechazado Cliente";
@@ -575,6 +630,10 @@ document.addEventListener("DOMContentLoaded", function () {
 			case "AC":
 				// Está Maluma en Los Mangos
 				estado = "Activo";
+				break;
+			case "FA":
+				// Lo estan facturando actualmente
+				estado = "Facturación";
 				break;
 			default:
 				estado = "";
@@ -626,5 +685,24 @@ document.addEventListener("DOMContentLoaded", function () {
 		setTimeout(() => {
 			$("#calendar").closest(".overflow-auto").addClass("d-none");
 		}, 100);
+	}
+
+	if (
+		searchParams.has("autoselect") &&
+		searchParams.get("autoselect") == "true"
+	) {
+		evento.id = -1;
+		evento.title = "";
+		evento.description = "";
+		evento.start = tmpData.start;
+		evento.end = tmpData.end;
+		evento.allDay = true;
+
+		calendar.addEvent(evento);
+		eventoCreado = true;
+		$("#btnSiguiente").prop("disabled", false);
+		calendar.setOption("selectable", false);
+
+		guia();
 	}
 });

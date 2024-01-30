@@ -290,7 +290,7 @@ function generateUUID() {
 function calcularValorProductos() {
 	let cantTerceros = 0;
 	let totalFacturar = 0;
-	let totlaIVA = 0;
+	let totalIVA = 0;
 
 	$("#productosFacturarLista").empty();
 	//validamos si dentro de los productos a facturar ya se seleccionaron terceros
@@ -302,7 +302,7 @@ function calcularValorProductos() {
 			Total = cant * it.ValorOriginal;
 			Total = calcularIva(it.ivaid, Total);
 			totalFacturar += Total.Valor;
-			totlaIVA += Total.ivan
+			totalIVA += Total.ivan
 			mostrarValor = addCommas2(Math.round(myRound(Total.Valor)));
 			$("#productosFacturarLista").append(`
 				<div class="col-7 font-weight-bold text-truncate pl-1" title="${it.NombreProducto}">${it.NombreProducto}</div>
@@ -320,8 +320,8 @@ function calcularValorProductos() {
 		$("#btnFacturarEvento").prop("disabled", false);
 		$("#productosFacturarNoResultados").addClass("d-none");
 		$("#productosFacturar").removeClass("d-none");
-		$("#productosfacturarSubTotal").text(addCommas2(Math.round(myRound(totalFacturar - totlaIVA))));
-		$("#productosfacturarIVA").text(addCommas2(Math.round(myRound(totlaIVA))));
+		$("#productosfacturarSubTotal").text(addCommas2(Math.round(myRound(totalFacturar - totalIVA))));
+		$("#productosfacturarIVA").text(addCommas2(Math.round(myRound(totalIVA))));
 		$("#productosfacturarTotal").text(addCommas2(Math.round(myRound(totalFacturar))));
 	} else {
 		$("#btnFacturarEvento").prop("disabled", true);
@@ -535,6 +535,7 @@ function facturarEvento() {
 		data: {
 			TerceroId: TerceroFactura.TerceroId
 			, AlmacenId: $DATOSALMACEN.almacenid
+			, almacen: $DATOSALMACEN
 			, VendedorId: $FACTURA.VendedorId
 			, codiventid: tipoVentaActual.codiventid
 			, entregado: $FACTURA.entregado
@@ -856,6 +857,7 @@ function ingresarEvento(idsInvitados){
 			data: {
 				idsInvitados,
 				evento: $DATOSEVENTO,
+				almacen: $DATOSALMACEN,
 				RASTREO: RASTREO(`Evento: ${$DATOSEVENTO.EventoId} - ${$DATOSEVENTO.Nombre}, Invitado: 	`, 'Ingreso Eventos')
 			},
 			dataType: 'json',
@@ -1456,4 +1458,8 @@ $(function () {
 			alertify.alert("Advertencia", "Esta acción solo se puede ejecutar con el evnetos activo para ingresos");
 		}
 	});
+
+	 $(document).on("keyup", "#codigo", function(){
+		$(this).val($(this).val().replace(/^0/, ''));
+    });
 });

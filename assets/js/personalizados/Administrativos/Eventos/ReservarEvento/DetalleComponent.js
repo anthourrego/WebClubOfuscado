@@ -1,5 +1,21 @@
 const nuevaReserva = {},
-	rutaGeneral = base_url() + "Administrativos/Eventos/ReservarEvento/";
+	rutaGeneral = base_url() + "Administrativos/Eventos/ReservarEvento/",
+	estados = {
+		BO: "Borrador",
+		CT: "Cotizado",
+		VR: "Versionado",
+		CC: "Aceptado Cliente",
+		RE: "Rechazado Cliente",
+		NU: "Anulado",
+		CO: "Confirmado",
+		CN: "Cotizar Nuevamente",
+		EX: "Expirado",
+		VE: "Vencido",
+		FI: "Finalizado",
+		FA: "Facturación",
+		AC: "Activo",
+	};
+	let urlActual = window.location.href;
 
 if (typeof reservaDB !== "undefined") {
 	Object.assign(nuevaReserva, reservaDB);
@@ -48,7 +64,7 @@ if (typeof reservaDB !== "undefined") {
 	}
 }
 
-$(function () {
+function detalleComponent(){
 	if (
 		nuevaReserva.disponibilidad ||
 		nuevaReserva.datosBasicos ||
@@ -163,24 +179,46 @@ $(function () {
 								nuevaReserva.datosBasicos.tercero.telefono
 							}</li>
 						</ul>
-						<p><strong>Hombres:</strong> ${nuevaReserva.datosBasicos.hombres}</p>
-						<p><strong>Mujeres:</strong> ${nuevaReserva.datosBasicos.mujeres}</p>
-						<p><strong>Niños:</strong> ${nuevaReserva.datosBasicos.ninos}</p>
-						<p><strong>Niñas:</strong> ${nuevaReserva.datosBasicos.ninas}</p>
-						<p><strong>Observaciones:</strong> ${nuevaReserva.datosBasicos.observacion}</p>
 					`;
 
 					htmlDetalle += strDatosBasicos;
+
+					if ($datosMontaje.SolicitaGeneroEventos == "S") {
+						htmlDetalle += `
+							<p><strong>Hombres:</strong> ${nuevaReserva.datosBasicos.hombres}</p>
+							<p><strong>Mujeres:</strong> ${nuevaReserva.datosBasicos.mujeres}</p>
+							<p><strong>Niños:</strong> ${nuevaReserva.datosBasicos.ninos}</p>
+							<p><strong>Niñas:</strong> ${nuevaReserva.datosBasicos.ninas}</p>
+							<p><strong>Observaciones:</strong> ${nuevaReserva.datosBasicos.observacion}</p>	
+						`;
+					}
 				}
+
 				if (nuevaReserva.complementos) {
 					const totales = {
 						totalFijos: 0,
 						totalMenus: 0,
 						totalOtros: 0,
 						totalServicios: 0,
-
+						totalIva: 0,
+						totalImpoConsumo: 0,
 						totalTotal: 0,
+						totalLugares: 0,
 					};
+
+					for (const value of Object.values(nuevaReserva.complementos)) {
+						for (const value2 of Object.values(value)) {
+							if (value2.ivaid == "8.0000") {
+								totales.totalImpoConsumo +=
+									((value2.total / (1 + value2.ivaid / 100)) * value2.ivaid) /
+									100;
+							} else {
+								totales.totalIva +=
+									((value2.total / (1 + value2.ivaid / 100)) * value2.ivaid) /
+									100;
+							}
+						}
+					}
 
 					// Elementos Fijos
 
@@ -194,7 +232,18 @@ $(function () {
 						(acumulador, producto) => acumulador + parseFloat(producto.total),
 						0
 					);
+
+					const lugares = nuevaReserva.complementos.elementosFijos.filter(
+						(producto) => producto.ElementoId == -1
+					);
+
+					totales.totalLugares = lugares.reduce(
+						(acumulador, producto) => acumulador + parseFloat(producto.total),
+						0
+					);
+
 					// Objeto donde se agruparán los objetos por el lugar
+
 					const fijosObjetosAgrupados = elementosFijos.reduce(
 						(acumulador, objeto) => {
 							const menu = objeto.menu;
@@ -229,12 +278,17 @@ $(function () {
 					);
 
 					// Menús
-
 					const menus = nuevaReserva.complementos.menus;
 					totales.totalMenus = menus.reduce(
 						(acumulador, producto) => acumulador + parseFloat(producto.total),
 						0
 					);
+
+					totales.totalMenus = menus.reduce(
+						(acumulador, producto) => acumulador + parseFloat(producto.total),
+						0
+					);
+
 					// Objeto donde se agruparán los objetos por el menú
 					const menusObjetosAgrupados = menus.reduce((acumulador, objeto) => {
 						const menu = objeto.menu;
@@ -250,29 +304,54 @@ $(function () {
 						([menu, objetos]) => ({ menu, objetos })
 					);
 
-					const strMenus = menusArrayAgrupado.reduce(
-						(acumulador, menu) =>
+					const strMenus = menusArrayAgrupado.reduce((acumulador, menu) => {
+						desde =
+							menu.objetos[0].hasOwnProperty("desde") && menu.objetos[0].desde
+								? menu.objetos[0].desde
+								: " ";
+						hasta =
+							menu.objetos[0].hasOwnProperty("hasta") && menu.objetos[0].hasta
+								? " " + menu.objetos[0].hasta
+								: " ";
+						hora =
+							menu.objetos[0].hasOwnProperty("hora") && menu.objetos[0].hora
+								? " " + menu.objetos[0].hora
+								: " ";
+
+						return (
 							acumulador +
-							`<li><small>${menu.objetos[0].nombreMenu}</small>
+							`<li>	
+								<span>${menu.objetos[0].nombreMenu}</span>
+								<span style="float: right;text-align: right;font-style:italic;font-size: smaller;">${
+									desde + hasta + hora
+								}
+								</span>
 								<ul>
 								${menu.objetos.reduce(
 									(acumulador2, menu2) =>
 										acumulador2 +
-										`<li><small>${menu2.nombre} x ${menu2.cantidad}</small></li>`,
+										`<li>
+											<small>${menu2.nombre} x ${menu2.cantidad}</small>
+											${
+												menu2.Observacion
+													? `<br><small style="font-size: small;font-style: italic;margin: 0;">${menu2.Observacion}</small>`
+													: ""
+											}
+										</li>`,
 									""
 								)}
 								</ul>
-							</li>`,
-						""
-					);
+							</li>`
+						);
+					}, "");
 
 					// Otros
-
 					const otros = nuevaReserva.complementos.otros;
 					totales.totalOtros = otros.reduce(
 						(acumulador, producto) => acumulador + parseFloat(producto.total),
 						0
 					);
+
 					const strOtros = otros.reduce(
 						(acumulador, producto) =>
 							acumulador +
@@ -281,12 +360,12 @@ $(function () {
 					);
 
 					// Servicios
-
 					const servicios = nuevaReserva.complementos.servicios;
 					totales.totalServicios = servicios.reduce(
 						(acumulador, producto) => acumulador + parseFloat(producto.total),
 						0
 					);
+
 					const strServicios = servicios.reduce(
 						(acumulador, producto) =>
 							acumulador +
@@ -298,7 +377,8 @@ $(function () {
 						totales.totalFijos +
 						totales.totalMenus +
 						totales.totalOtros +
-						totales.totalServicios;
+						totales.totalServicios +
+						totales.totalLugares;
 
 					const strComplementos = `
 						<h4>Complementos</h4>
@@ -370,7 +450,14 @@ $(function () {
 								  )}</p>`
 								: ""
 						}
-
+						
+						<p><strong>Sub Total:</strong> $ ${addCommas(
+							totales.totalTotal - totales.totalImpoConsumo - totales.totalIva
+						)}</p>
+						<p><strong>Total Iva:</strong> $ ${addCommas(totales.totalIva)}</p>
+						<p><strong>Total ImpoConsumo:</strong> $ ${addCommas(
+							totales.totalImpoConsumo
+						)}</p>
 						<p><strong>Total:</strong> $ ${addCommas(totales.totalTotal)}</p>
 					`;
 
@@ -405,7 +492,7 @@ $(function () {
 								},
 							},
 							success: (res) => {
-								if (res != 0) {
+								if (res > 0) {
 									hayCambiosSinGuardar = false;
 
 									alertify.alert(
@@ -419,12 +506,23 @@ $(function () {
 										}
 									);
 								} else {
-									alertify.alert(
-										"Error",
-										`Ocurrió un error al momento de ${
-											estado == "CO" ? "Confirmar" : "Anular"
-										} la cotización`
-									);
+									if (res == 0) {
+										alertify.alert(
+											"Error",
+											`Ocurrió un error al momento de ${
+												estado == "CO" ? "Confirmar" : "Anular"
+											} la cotización`
+										);
+									} else {
+										res = JSON.parse(res);
+										alertify.alert(
+											"Advertencia",
+											"Está visualizando una versión desactualizada de la cotización, se enviará automáticamente a la última versión disponible",
+											function () {
+												window.location.href = `${base_url()}Administrativos/Eventos/ReservarEvento/Disponibilidad/${res}`;
+											}
+										);
+									}
 								}
 							},
 						});
@@ -481,9 +579,12 @@ $(function () {
 							e.preventDefault();
 							alertify.confirm(
 								"Confirmar cotización",
-								"¿Está seguro de confirmar definitivamente esta cotización?",
+								`¿Está seguro de confirmar definitivamente esta cotización?
+									<br/>
+								Se abrirá la cotización en modo edición para que confirme los datos, invitados y cuerpos de documentos para la generación de Ordenes de Trabajo y Contratos
+								`,
 								function () {
-									confirmarCoti("CO");
+									editarEvento(2);
 								},
 								function () {}
 							);
@@ -511,10 +612,30 @@ $(function () {
 								"Editar evento confirmado",
 								"¿Desea abrir la cotización actual en modo edición para así crear una nueva versión pese a ya estar confirmado el evento?",
 								function () {
-									editarEvento(2);
+									editarEvento(3);
 								},
 								function () {}
 							);
+						});
+
+					$("#ddCompararVersiones")
+						.off("click")
+						.on("click", function (e) {
+							e.preventDefault();
+							window.location.href =
+								base_url() +
+								"Administrativos/Eventos/ReservarEvento/compararVersiones/" +
+								nuevaReserva.cotizacion.eventoId;
+						});
+
+					$("#ddReenviarDocumentos")
+						.off("click")
+						.on("click", function (e) {
+							e.preventDefault();
+							window.location.href =
+								base_url() +
+								"Administrativos/Eventos/ReservarEvento/ReenvioDocumentos/" +
+								nuevaReserva.cotizacion.eventoId;
 						});
 
 					$("#btnCancelarEdi")
@@ -545,7 +666,8 @@ $(function () {
 
 					htmlDetalle += strCotizacion;
 
-					$("#divVersion")
+					if($("#divVersion")[0] !== undefined){
+						$("#divVersion")
 						.find("#pEvento")
 						.html(
 							$("#divVersion")
@@ -553,6 +675,7 @@ $(function () {
 								.html()
 								.replace("{nEvento}", nuevaReserva.cotizacion.evento)
 						);
+					}
 
 					nuevaReserva.cotizacion.versiones.forEach((version) => {
 						const fecha = moment(
@@ -560,7 +683,9 @@ $(function () {
 							"YYYY-MM-DD HH:mm:ss"
 						).format("YYYY-MM-DD hh:mm:ss A");
 						$("#selectVersion").append(
-							`<option value="${version.EventoId}">${version.Version} | ${version.Estado} | ${fecha}</option>`
+							`<option value="${version.EventoId}">${version.Version} | ${
+								estados[version.Estado]
+							} | ${fecha}</option>`
 						);
 					});
 
@@ -576,11 +701,22 @@ $(function () {
 					$("#divVersion").removeClass("d-none");
 
 					if (estadosFinales.includes(nuevaReserva.cotizacion.estado)) {
-						if (nuevaReserva.cotizacion.estado === "CO") {
-							$("#ddNuevaVersion, #ddConfirmar, #ddAnular").addClass("d-none");
-							$("#ddEditarEvento").removeClass("d-none");
-						} else {
-							$("#btnGroupAcciones").addClass("d-none");
+						switch (nuevaReserva.cotizacion.estado) {
+							case "AC":
+							case "FI":
+								$(
+									"#ddNuevaVersion, #ddConfirmar, #ddAnular, #ddEditarEvento"
+								).addClass("d-none");
+								break;
+							case "CO":
+								$("#ddNuevaVersion, #ddConfirmar, #ddAnular").addClass(
+									"d-none"
+								);
+								$("#ddEditarEvento").removeClass("d-none");
+								break;
+							default:
+								$("#btnGroupAcciones").addClass("d-none");
+								break;
 						}
 					}
 				}
@@ -598,7 +734,7 @@ $(function () {
 						<div class="modal-content">
 							<div class="modal-header headerWebClub">
 								<h5 class="modal-title">
-									<i class="fa fa-file"></i>
+									<i class="fa fa-list"></i>
 									Detalle Evento
 								</h5>
 								<button
@@ -635,6 +771,13 @@ $(function () {
 				$(document).on("click", "#btnMenuFlotante", function () {
 					$("#modalDetalle").modal("show");
 				});
+
+				$("#modalDetalle").on('hide.bs.modal', function(){
+					if(!urlActual.includes('ReservarEvento')){
+						$("#modalDetalle").remove();
+						$("#btnMenuFlotante").remove();
+					}
+				})
 
 				$(document).trigger("init.detalleComponent");
 			},
@@ -709,6 +852,9 @@ $(function () {
 						$(this).find(".lugar-nombre").remove();
 					});
 				$("#btnFiltrarDisponibilidad").closest("div").addClass("d-none");
+				$(".lugar-card").each(function () {
+					$(this).addClass("cursor-default");
+				});
 
 				// Datos básicos
 				$(document).off("click", ".card-tipomontaje");
@@ -726,17 +872,42 @@ $(function () {
 					$(this).addClass("invisible");
 				});
 				$("[id=agregarProducto]").addClass("d-none");
+				$(".observacionProducto").each(function () {
+					if ($(this).val().trim().length == 0) {
+						$(this).remove();
+					} else {
+						$(this).attr("readonly", true);
+					}
+				});
+				$(".editarValor").remove();
 
 				// Invitados
 				$("[id=frmExcel]").addClass("d-none");
 
 				$("[id=divContinuar], [id=btnSiguiente]").addClass("d-none");
 				$("#btnGroupAcciones").removeClass("d-none");
+
+				// Cotización
+				$("#cuerposCT, #cuerposOT, #cuerposCO").each(function () {
+					$(this).closest("tr").prev().addClass("d-none");
+					$(this).closest("tr").addClass("d-none");
+				});
+				$(".btnEditarCuerpo").addClass("d-none");
 			} else {
 				$("#btnGroupAcciones").closest(".btn-group").addClass("d-none");
 				$("#selectVersion").attr("disabled", true);
 				$("#btnCancelarEdi").removeClass("d-none");
+
+				if (nuevaReserva.cotizacion.edicion === 2) {
+					$("#btnCancelarEdi").text("Cancelar confirmación");
+				}
 			}
 		}, 1000);
+	}	
+}
+
+$(function(){
+	if(urlActual.includes('ReservarEvento')){
+		detalleComponent();
 	}
 });

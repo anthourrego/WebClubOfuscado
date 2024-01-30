@@ -265,7 +265,11 @@ function obtenerCajeros() {
 }
 
 $(function(){
-	$('#almacenid').val($AlmacenId);
+	let almacenActivo = $Almacenes.find(almacen => almacen.almacenid == $AlmacenId);
+
+	if (almacenActivo !== undefined) {
+		$('#almacenid').val($AlmacenId);
+	}
 	$('#fInicial').val(dataFiltro.fechaInicial);
 	$('#fFinal').val(dataFiltro.fechaFinal);
 	$(".chosen-select").chosen({ width: '100%' });
@@ -329,15 +333,15 @@ $(function(){
 		let strDataReport = `&almacenes=${JSON.stringify(dataFiltro.almacenid)}`;
 
 		if (dataFiltro.FormasPago && dataFiltro.FormasPago.length) {
-			strDataReport += `&formasPago${JSON.stringify(dataFiltro.FormasPago)}`;
+			strDataReport += `&formasPago=${JSON.stringify(dataFiltro.FormasPago)}`;
 		}
 
 		if (dataFiltro.tipoVenta && dataFiltro.tipoVenta.length) {
-			strDataReport += `&tipoVenta${JSON.stringify(dataFiltro.tipoVenta)}`;
+			strDataReport += `&tipoVenta=${JSON.stringify(dataFiltro.tipoVenta)}`;
 		}
 
 		if (dataFiltro.cajeros && dataFiltro.cajeros.length) {
-			strDataReport += `&cajeros${JSON.stringify(dataFiltro.cajeros)}`;
+			strDataReport += `&cajero=s${JSON.stringify(dataFiltro.cajeros)}`;
 		}
 
 		abrirReporte(`${base_url()}Reportes/imprimirVentasCajero?FechaIni=${dataFiltro.fechaInicial}&FechaFin=${dataFiltro.fechaFinal}${strDataReport}`);

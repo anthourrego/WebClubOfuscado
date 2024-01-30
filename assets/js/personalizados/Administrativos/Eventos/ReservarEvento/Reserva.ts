@@ -38,6 +38,12 @@ type Producto = {
 	maximo: string | number;
 	ivaid: string | number | null;
 	AlmacenMenuId?: string;
+	Observacion?: string;
+	FechaInicio?: Date;
+	FechaFinal?: Date;
+	desde?: Date; // "2023-09-15"
+	hasta?: Date; // "2023-09-17"
+	hora?: string; // "13:00"
 };
 
 type Version = {
@@ -49,7 +55,7 @@ type Version = {
 	// WHEN 'CT' THEN 'Cotizado'
 	// WHEN 'VR' THEN 'Versionado'
 
-	// WHEN 'CC' THEN 'Confirmado Cliente'
+	// WHEN 'CC' THEN 'Aceptado Cliente'
 	// WHEN 'RE' THEN 'Rechazado Cliente'
 
 	// WHEN 'NU' THEN 'Anulado'
@@ -61,6 +67,7 @@ type Version = {
 	// WHEN 'VE' THEN 'Vencido'
 	// WHEN 'FI' THEN 'Finalizado'
 	// WHEN 'AC' THEN 'Activo'
+	// WHEN 'FA' THEN 'Facturación'
 	FechaSolici: Date;
 };
 
@@ -70,6 +77,18 @@ type Cuerpo = {
 	Texto: string;
 	Orden: number;
 	Estado: string;
+	Dependencias?: string | Dependencia[] | null;
+};
+
+type Dependencia = {
+	id: string;
+	nombre: string;
+	actividades: Actividad[];
+};
+
+type Actividad = {
+	id: number;
+	nombre: string;
 };
 
 export type Reserva = {
@@ -83,6 +102,9 @@ export type Reserva = {
 		personas: number; // 10;
 		tipoevento: string; // "1",
 		tipoeventonombre: string; // "Privado"
+		sede?: string;
+		almacen?: string;
+		diaalerta: number; // 10;
 	};
 	datosBasicos: {
 		boleteria: boolean; // false,
@@ -149,15 +171,19 @@ export type Reserva = {
 	cotizacion: {
 		eventoId: number;
 		evento: number;
+		ot?: number;
+		contrato?: number;
 		version: number;
 		versiones: Version[];
 		ultimaVersion: boolean;
-		edicion?: boolean;
+		// 1 = Edición, 2 = Confirmar Evento
+		edicion?: number;
 		cambiosEvento?: boolean;
 		cuerpos: {
 			CT: Cuerpo[];
 			OT: Cuerpo[];
 			CO: Cuerpo[];
 		};
+		nuevaVersion?: boolean;
 	};
 };

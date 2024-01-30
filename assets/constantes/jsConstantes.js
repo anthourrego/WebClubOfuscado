@@ -151,6 +151,12 @@ $(function () {
             valor: 'T', titulo: 'Torneo'
         },{
             valor: 'H', titulo: 'Hotel'
+        },{
+            valor: 'PV', titulo: 'Proveedor'
+        },{
+            valor: 'EM', titulo: 'Empleado'
+        },{ 
+            valor: 'EV', titulo: 'Evento'
         }]
     }
 

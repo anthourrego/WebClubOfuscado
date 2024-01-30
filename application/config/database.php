@@ -111,7 +111,7 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'PROSOF-POS\CONEXIONFIVE',
+	'hostname' => '192.168.0.247',
 	'username' => 'usuario',
 	'password' => '123/usuario.*',
 	'database' => 'GESTION_CONF_PROSOF',

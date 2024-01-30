@@ -14,9 +14,7 @@ $(function () {
 
 function dataTable() {
 	tablaMesas = $('#tabla').DataTable({
-		language: $.Constantes.lenguajeTabla,
-		order: [],
-		dom: 'Bfrtp',
+		dom: domBftrip,
 		fixedColumns: true,
 		processing: true,
 		serverSide: true,
@@ -28,22 +26,7 @@ function dataTable() {
 				return $.extend(d, { almacen: $ALMACEN });
 			},
 		},
-		buttons: [{
-			extend: 'copy',
-			className: 'copyButton',
-			text: 'Copiar'
-		}, {
-			extend: 'excel',
-			className: 'excelButton',
-			orientation: 'landscape',
-			pageSize: 'letter',
-		}, {
-			extend: 'pdf',
-			className: 'pdfButton',
-			tex: 'PDF',
-			orientation: 'landscape',
-			pageSize: 'letter'
-		}],
+		scrollX: true,
 		columns: [
 			{ data: 'Mesa', width: '11.11%' }
 			, { data: 'Nombre_Habitacion', width: '11.11%' }

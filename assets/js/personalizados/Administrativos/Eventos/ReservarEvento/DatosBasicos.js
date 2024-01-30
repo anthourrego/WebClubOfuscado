@@ -6,6 +6,18 @@ let hayCambiosSinGuardar = false,
 	terceroId = null;
 
 $(function () {
+	if ($cantVendedores == 0) {
+		alertify.alert(
+			"No se han encontrado asesores comerciales disponibles",
+			`Debe de realizar la configuración de los asesores comerciales desde el ERP ingresando a la siguiente ruta. <br> 
+			<ul><li>Actualiza / Parámetros de Facturación y Cartera / Tipos de Vendedores</li></ul>
+			Allí deben de crear el tipo de vendedor con Clasificación en <b>C</b><br>
+			Luego deben de acceder a:
+			<ul><li>Actualiza / Parámetros de Facturación y Cartera / Vendedores</li></ul>
+			Allí se deben de buscar el vendedor y en el campo "Tipo de Vendedor" seleccionar el tipo de vendedor que se configuró previamente.`
+		);
+	}
+
 	$(window).on("beforeunload", () => {
 		if (hayCambiosSinGuardar) {
 			return "¿Estás segur@ que quieres salir? Hay cambios sin guardar";
@@ -188,10 +200,14 @@ $(function () {
 			hayCambiosSinGuardar = true;
 		})
 		.on("change", "#vendedorId", function () {
-			const value = $(this).val(),
+			const value = $(this).val().trim(),
 				tabla = $(this).attr("data-foranea");
 
 			var self = this;
+
+			$(self).val("");
+			$(self).closest(".input-group").find("span").text("").attr("title", "");
+
 			if ($(self).attr("data-foranea")) {
 				if (value != "") {
 					const nombre = $(self).attr("data-foranea-codigo");
@@ -204,13 +220,39 @@ $(function () {
 							value: value,
 							nombre: nombre,
 							tblNombre: tblNombre,
+							visualiza:
+								nuevaReserva.cotizacion != null &&
+								nuevaReserva.cotizacion.edicion === undefined
+									? 1
+									: 0,
 						},
 						success: function (respuesta) {
 							if (respuesta == 0) {
-								DTalertifyBusqueda(self, tblNombre, value);
+								join = [
+									[
+										"TipoVendedor TV",
+										"Vendedor.TipoVendedorId = TV.TipoVendedorId",
+										"inner",
+									],
+								];
+								where = [
+									["Vendedor.estado", "A"],
+									["TV.Clasificacion", "C"],
+									["TV.Estado", "A"],
+								];
+								let tblNombreSelect = "Vendedor." + tblNombre;
+								DTalertifyBusqueda(
+									self,
+									tblNombre,
+									value,
+									join,
+									where,
+									tblNombreSelect
+								);
 							} else {
 								respuesta = JSON.parse(respuesta);
 
+								$(self).val(value);
 								$(self)
 									.closest(".input-group")
 									.find("span")
@@ -416,13 +458,52 @@ $(function () {
 						}
 						$("#Nombre").trigger("loadData");
 					} else {
-						$("#TerceroId").val("");
-
-						DTalertifyBusqueda(self, "nombre", terceroId);
+						$("#modalConsultarCrear").modal("show");
+						$("#btnBuscar").on("click", function (e) {
+							e.preventDefault();
+							$("#modalConsultarCrear").modal("hide");
+							$("#TerceroId").val("");
+							DTalertifyBusqueda(self, "nombre", terceroId);
+						});
 					}
 				},
 			});
 		}
+	});
+
+	$("#btnCrear").on("click", function (e) {
+		e.preventDefault();
+		$("#modalConsultarCrear").modal("hide");
+
+		terceroComponent({
+			tercero: $("#TerceroId").val(),
+			paneles: ["DatosPrincipales", "DireccionResidencia"],
+		})
+			.then((res) => {
+				const datosnuevosersonales = res.data.contentDatosPersonales;
+				const datosNuevosDireccion = res.data.contentDatosDireccion;
+				$("#Nombre, #Email,#Telefono")
+					.attr("readonly", false)
+					.attr("disabled", false);
+				$("#Email").val(datosnuevosersonales.email);
+				$("#Foto").attr("src", datosnuevosersonales.foto);
+				$("#Nombre").append(
+					`<option value="${datosnuevosersonales.TerceroID}">${datosnuevosersonales.nombre}</option>`
+				);
+				$("#Telefono").val(datosNuevosDireccion.telefono);
+				$("#TerceroId").val(datosnuevosersonales.TerceroID);
+				$("#btnSiguiente").attr("disabled", false);
+			})
+			.catch((error) => {
+				$("#TerceroId").val("");
+				console.log(error);
+			});
+	});
+
+	$("#btnCerrarModalConsultarCrear").on("click", function (e) {
+		e.preventDefault();
+		$("#modalConsultarCrear").modal("hide");
+		$("#TerceroId").val("");
 	});
 
 	$("#Nombre").on("change", function () {
@@ -459,7 +540,14 @@ $(function () {
 
 	// Métodos
 
-	function DTalertifyBusqueda(self, tblNombre, value) {
+	function DTalertifyBusqueda(
+		self,
+		tblNombre,
+		value,
+		joins = [],
+		wheres = [],
+		tblNombreSelect = null
+	) {
 		alertify.ajaxAlert = function (url) {
 			$.ajax({
 				url: url,
@@ -484,10 +572,19 @@ $(function () {
 					var config = {
 						data: {
 							tblID: $tblID,
-							select: [$(self).attr("data-foranea-codigo"), tblNombre],
-							table: [$(self).attr("data-foranea")],
-							column_order: [$(self).attr("data-foranea-codigo"), tblNombre],
-							column_search: [$(self).attr("data-foranea-codigo"), tblNombre],
+							select: [
+								$(self).attr("data-foranea-codigo"),
+								tblNombreSelect == null ? tblNombre : tblNombreSelect,
+							],
+							table: [$(self).attr("data-foranea"), joins, wheres],
+							column_order: [
+								$(self).attr("data-foranea-codigo"),
+								tblNombreSelect == null ? tblNombre : tblNombreSelect,
+							],
+							column_search: [
+								$(self).attr("data-foranea-codigo"),
+								tblNombreSelect == null ? tblNombre : tblNombreSelect,
+							],
 							orden: {},
 							columnas: [$(self).attr("data-foranea-codigo"), tblNombre],
 						},
@@ -498,7 +595,6 @@ $(function () {
 						order: [],
 						ordering: false,
 						draw: 10,
-						language: $.Constantes.lenguajeTabla,
 						pageLength: 10,
 						initComplete: function () {
 							setTimeout(function () {

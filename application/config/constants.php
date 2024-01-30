@@ -83,7 +83,7 @@ defined('EXIT_USER_INPUT')     OR define('EXIT_USER_INPUT', 7); // invalid user 
 defined('EXIT_DATABASE')       OR define('EXIT_DATABASE', 8); // database error
 defined('EXIT__AUTO_MIN')      OR define('EXIT__AUTO_MIN', 9); // lowest automatically-assigned error code
 defined('EXIT__AUTO_MAX')      OR define('EXIT__AUTO_MAX', 125); // highest automatically-assigned error code
-defined('VERSIONSOFT')         OR define('VERSIONSOFT', '1.8.0'); // Versión del sistema
+defined('VERSIONSOFT')         OR define('VERSIONSOFT', '1.12.1'); // Versión del sistema
 
 defined('LLAVE_SECRETA') OR define('LLAVE_SECRETA', 'csoftprosofdesarrollo');
 defined('ITERACIONES') OR define('ITERACIONES', 30);
@@ -142,6 +142,31 @@ defined('AYBPermisos') OR define('AYBPermisos', implode(",", [
     ,180122 //InformeVentasCajero
 	,18012201 //Filtrar por mas cajeros en InformeVentasCajero
     ,61 //Boton de pre cuenta
+	,180125 //Reimpresión de comandas
+	,180124 //Productos Eliminados
+
+	//Eventos
+	,21 //Eventos
+	,2101 //Lista Eventos
+	,2102 //Reservas/Ingresos
+	,2103 //Ingresos
+	,2105 //Crear Cotizacion
+	,2106 //Gestionar Eventos
+	,210601 // Tareas de eventos
+	,210602 // Administrar eventos
+	,2107 //Calendario
+	,2108 //Anticipos de Cartera
+	,2104 //Parametrización Eventos
+	,210401 //Sedes
+	,210402 //Tipo Montaje
+	,210403 //Tipo Eventos
+	,210404 //Medio de reserva
+	,210406 //Lugares
+	,210407 //Tipo Lugar
+	,210409 //Configuración 
+	,210410 //Cuerpos
+	,180110 //Cambio Almacen Vendedor
+	,180126 //Eventos - Panel Principal
 ]));
 
 defined('PERMISOSREEMPLAZAALMACENRASTREO') OR define('PERMISOSREEMPLAZAALMACENRASTREO', implode(",", [

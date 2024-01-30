@@ -7,6 +7,21 @@ const totales = {
 
 	totalTotal: 0,
 };
+let almacenMenu = 0;
+
+let minFechaIniEvento = new Date(9999, 0, 1),
+	maxFechaFinEvento = new Date(1000, 11, 31);
+
+nuevaReserva.disponibilidad.lugares.forEach((lugar) => {
+	let fechaIni = new Date(lugar.fechaini),
+		fechaFin = new Date(lugar.fechafin);
+	if (fechaIni < minFechaIniEvento) {
+		minFechaIniEvento = fechaIni;
+	}
+	if (fechaFin > maxFechaFinEvento) {
+		maxFechaFinEvento = fechaFin;
+	}
+});
 
 const tblElementosFijos = new Tabla("#tblElementosFijos", {
 	cantidadMax: true,
@@ -53,6 +68,29 @@ $(function () {
 		$('a[href="#datosMenu"]').closest("li").addClass("d-none");
 		$("#totalMenus").closest("div.row").addClass("d-none");
 	}
+
+	$.ajax({
+		url: rutaGeneral + "cargarMenus",
+		type: "POST",
+		dataType:'JSON',
+		data: {
+			SedeId : nuevaReserva.disponibilidad.sede,
+		},
+		success: function (respuesta) {
+			if (respuesta.length) {
+				menus = respuesta;
+				data = respuesta.filter((value) => {
+					if(value.SedeId == nuevaReserva.disponibilidad.sede && value.almacenid == almacenIdEventos ){
+						return true;
+					}else{
+						return false;
+					}
+				});
+				almacenMenu = data.length ? almacenIdEventos : menus[0].almacenid;
+				almacenIdEventos = almacenMenu;
+			}
+		},
+	});
 
 	// Event listeners
 

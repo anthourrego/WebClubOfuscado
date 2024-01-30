@@ -77,7 +77,7 @@ $(document).ready(function(){
 
 	$(document).on("focusin",'.mFecha',function(){
 		formatoModalFecha = $(this).data("formato");
-		inputModalFecha = $(this).closest(".input-group").find("input");
+		inputModalFecha = $(this);
 		var date = inputModalFecha.val();
 
 		if (modalFecha == true) {

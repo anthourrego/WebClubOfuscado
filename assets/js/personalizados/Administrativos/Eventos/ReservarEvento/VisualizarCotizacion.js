@@ -1,25 +1,40 @@
 let hayCambiosSinGuardar = false,
 	cambiosEvento = false;
 const totalesOriginales = {
-	totalFijos: dataOriginal.complementos.elementosFijos.reduce(
-		(total, producto) => total + (producto.incluir ? producto.total : 0),
-		0
-	),
-	totalMenus: dataOriginal.complementos.menus.reduce(
-		(total, producto) => total + (producto.incluir ? producto.total : 0),
-		0
-	),
-	totalOtros: dataOriginal.complementos.otros.reduce(
-		(total, producto) => total + (producto.incluir ? producto.total : 0),
-		0
-	),
-	totalServicios: dataOriginal.complementos.servicios.reduce(
-		(total, producto) => total + (producto.incluir ? producto.total : 0),
-		0
-	),
+		totalFijos: dataOriginal.complementos.elementosFijos.reduce(
+			(total, producto) => total + (producto.incluir ? producto.total : 0),
+			0
+		),
+		totalMenus: dataOriginal.complementos.menus.reduce(
+			(total, producto) => total + (producto.incluir ? producto.total : 0),
+			0
+		),
+		totalOtros: dataOriginal.complementos.otros.reduce(
+			(total, producto) => total + (producto.incluir ? producto.total : 0),
+			0
+		),
+		totalServicios: dataOriginal.complementos.servicios.reduce(
+			(total, producto) => total + (producto.incluir ? producto.total : 0),
+			0
+		),
 
-	totalTotal: 0,
-};
+		totalTotal: 0,
+	},
+	estados = {
+		BO: "Borrador",
+		CT: "Cotizado",
+		VR: "Versionado",
+		CC: "Aceptado Cliente",
+		RE: "Rechazado Cliente",
+		NU: "Anulado",
+		CO: "Confirmado",
+		CN: "Cotizar Nuevamente",
+		EX: "Expirado",
+		VE: "Vencido",
+		FI: "Finalizado",
+		FA: "Facturación",
+		AC: "Activo",
+	};
 
 totalesOriginales.totalTotal =
 	totalesOriginales.totalFijos +
@@ -250,12 +265,77 @@ function actualizarProducto(self, producto) {
 			actualizarTotales();
 		});
 
+	// Observaciones por producto
+	$(self)
+		.closest("[data-productoid]")
+		.find(".pObservaciones, .observacionProducto")
+		.remove();
+	const jqObservacion = $(
+		`<div
+			style="
+				position: relative;
+				width: 100%;
+			"
+		></div>`
+	);
+	jqObservacion.append(
+		`<textarea
+			type="text"
+			placeholder="Observación"
+			class="observacionProducto"
+			style="
+				padding: 0;
+				line-height: 1.5;
+				font-size: 14px;
+				min-height: 22.5px;
+				height: 22.5px;
+				border: 0;
+				width: 100%;
+				font-style: italic;
+				overflow-y: hidden;
+			"
+		></textarea>`
+	);
+	let tmpObservacion = producto.Observacion;
+	$(self)
+		.closest("[data-productoid]")
+		.find(".pUnidades")
+		.closest("td")
+		.append(jqObservacion)
+		.find(".observacionProducto")
+		.val(tmpObservacion);
+	$(self)
+		.on("input", ".observacionProducto", function () {
+			const regex = /\n/g;
+			let matches = $(this).val().match(regex);
+			matches = matches ? matches.length : 0;
+			matches++;
+			let height = 22.5 * matches;
+			height = $(this)[0].scrollHeight;
+			if (height < 22.5) {
+				height = 22.5;
+			}
+
+			$(this).css("height", height + "px");
+			$(this).css("min-height", 22.5 + "px");
+		})
+		.on("change", ".observacionProducto", function () {
+			const tmpObservacion = $(this).val().trim();
+			producto.Observacion = tmpObservacion === "" ? null : tmpObservacion;
+			actualizarProducto(self, producto);
+		});
+	$(self).find(".observacionProducto").trigger("input");
+
 	if (!producto.incluir) {
 		$(self)
 			.closest("[data-productoid]")
-			.find("input")
+			.find("input, textarea")
 			.css("text-decoration", "line-through")
 			.attr("readonly", true);
+		$(self)
+			.closest("[data-productoid]")
+			.find("textarea")
+			.css("background-color", "#e9ecef");
 	}
 
 	$(self)
@@ -317,7 +397,10 @@ function compararObjetos(objeto1, objeto2) {
 
 	for (let clave in objeto1) {
 		if (objeto1.hasOwnProperty(clave)) {
-			if (objeto1[clave] !== objeto2[clave]) {
+			if (
+				!(clave.length > 8 && clave.includes("Original")) &&
+				objeto1[clave] !== objeto2[clave]
+			) {
 				return false;
 			}
 		}
@@ -355,33 +438,42 @@ function strModificaciones() {
 			const partes = cambio.split(".");
 			if (
 				partes[partes.length - 1] === "cantidad" ||
-				partes[partes.length - 1] === "incluir"
+				partes[partes.length - 1] === "incluir" ||
+				partes[partes.length - 1] === "Observacion"
 			) {
 				const producto = buscarProducto(data, cambio);
 				const productoOriginal = buscarProducto(dataOriginal, cambio);
 
 				if (complementos[partes[1]].length > 0) {
 					let encontrado = -1;
+
 					for (const key in complementos[partes[1]]) {
 						if (compararObjetos(complementos[partes[1]][key], producto)) {
 							encontrado = key;
 						}
 					}
+
 					if (encontrado === -1) {
 						complementos[partes[1]].push({
 							...producto,
 							cantidadOriginal: productoOriginal.cantidad,
 							incluirOriginal: productoOriginal.incluir,
+							observacionOriginal: productoOriginal.Observacion,
 						});
 					} else {
 						if (partes[partes.length - 1] === "cantidad") {
 							complementos[partes[1]][encontrado].cantidad = producto.cantidad;
 							complementos[partes[1]][encontrado].cantidadOriginal =
 								productoOriginal.cantidad;
-						} else {
+						} else if (partes[partes.length - 1] === "incluir") {
 							complementos[partes[1]][encontrado].incluir = producto.incluir;
 							complementos[partes[1]][encontrado].incluirOriginal =
 								productoOriginal.incluir;
+						} else if (partes[partes.length - 1] === "Observacion") {
+							complementos[partes[1]][encontrado].Observacion =
+								producto.Observacion;
+							complementos[partes[1]][encontrado].observacionOriginal =
+								productoOriginal.Observacion;
 						}
 					}
 				} else {
@@ -389,6 +481,7 @@ function strModificaciones() {
 						...producto,
 						cantidadOriginal: productoOriginal.cantidad,
 						incluirOriginal: productoOriginal.incluir,
+						observacionOriginal: productoOriginal.Observacion,
 					});
 				}
 			} else if (partes[partes.length - 1] === "observacion") {
@@ -425,17 +518,7 @@ function strModificaciones() {
 					acumulador +
 					`<li><small>${menu.objetos[0].nombreMenu}</small>
 						<ul>
-						${menu.objetos.reduce(
-							(acumulador2, menu2) =>
-								acumulador2 +
-								(menu2.incluir
-									? `
-								<li><small>${menu2.nombre} <s>x ${menu2.cantidadOriginal}</s></small> <b>x ${menu2.cantidad}</b></li>
-								`
-									: `
-								<li><small><s>${menu2.nombre} x ${menu2.cantidadOriginal}</s></small></li>`),
-							""
-						)}
+						${cambiosProductos(menu.objetos)}
 						</ul>
 					</li>`,
 				""
@@ -462,17 +545,7 @@ function strModificaciones() {
 					acumulador +
 					`<li><small>${menu.objetos[0].nombreMenu}</small>
 						<ul>
-						${menu.objetos.reduce(
-							(acumulador2, menu2) =>
-								acumulador2 +
-								(menu2.incluir
-									? `
-								<li><small>${menu2.nombre} <s>x ${menu2.cantidadOriginal}</s></small> <b>x ${menu2.cantidad}</b></li>
-								`
-									: `
-								<li><small><s>${menu2.nombre} x ${menu2.cantidadOriginal}</s></small></li>`),
-							""
-						)}
+						${cambiosProductos(menu.objetos)}
 						</ul>
 					</li>`,
 				""
@@ -481,30 +554,12 @@ function strModificaciones() {
 			// Otros
 
 			const otros = complementos.otros;
-			const strOtros = otros.reduce(
-				(acumulador, producto) =>
-					acumulador +
-					(producto.incluir
-						? `
-						<li><small>${producto.nombre} <s>x ${producto.cantidadOriginal}</s></small> <b>x ${producto.cantidad}</b></li>
-						`
-						: `<li><small><s>${producto.nombre} x ${producto.cantidadOriginal}</s></small></li>`),
-				""
-			);
+			const strOtros = cambiosProductos(otros);
 
 			// Servicios
 
 			const servicios = complementos.servicios;
-			const strServicios = servicios.reduce(
-				(acumulador, producto) =>
-					acumulador +
-					(producto.incluir
-						? `
-						<li><small>${producto.nombre} <s>x ${producto.cantidadOriginal}</s></small> <b>x ${producto.cantidad}</b></li>
-						`
-						: `<li><small><s>${producto.nombre} x ${producto.cantidadOriginal}</s></small></li>`),
-				""
-			);
+			const strServicios = cambiosProductos(servicios);
 
 			const strComplementos = `
 				${
@@ -610,6 +665,31 @@ function strModificaciones() {
 	}
 }
 
+function cambiosProductos(productos) {
+	return productos.reduce((acumulador, menu) => {
+		let strCambios = "";
+		if (menu.incluir) {
+			let cambios = "";
+
+			if (menu.cantidadOriginal != menu.cantidad) {
+				cambios += ` <s>x ${menu.cantidadOriginal}</s> -> <b>x ${menu.cantidad}</b>`;
+			}
+
+			if (menu.observacionOriginal != menu.Observacion) {
+				if (menu.observacionOriginal !== null) {
+					cambios += ` <i><s>${menu.observacionOriginal} -></s>`;
+				}
+				cambios += ` <i><b>${menu.Observacion}</b>`;
+			}
+
+			strCambios = `<small>${menu.nombre}</s></small>${cambios}`;
+		} else {
+			strCambios = `<small><s>${menu.nombre} x ${menu.cantidadOriginal}</s></small>`;
+		}
+		return acumulador + `<li>${strCambios}</li>`;
+	}, "");
+}
+
 function confirmarCoti(estado) {
 	data.complementos.elementosFijos = data.complementos.elementosFijos.filter(
 		(producto) => producto.incluir === true
@@ -624,6 +704,11 @@ function confirmarCoti(estado) {
 		(producto) => producto.incluir === true
 	);
 
+	setTimeout(() => {
+		$("#overlay").removeClass("d-none");
+		$(".loader-bg").show();
+	}, 100);
+
 	$.ajax({
 		url: rutaGeneral + `Evento/Confirmar/${$nit}/${$documento}/${$eventoId}`,
 		type: "POST",
@@ -631,29 +716,135 @@ function confirmarCoti(estado) {
 			data: { data: JSON.stringify({ ...data }), estado, cambiosEvento },
 		},
 		success: (res) => {
-			if (res != 0) {
-				hayCambiosSinGuardar = false;
+			res = JSON.parse(res);
+			res = parseInt(res.trim(), 10);
 
+			$("#overlay").addClass("d-none");
+			$(".loader-bg").hide();
+
+			if (res > 0) {
+				hayCambiosSinGuardar = false;
+				const estadoEvento = estado == "CC" ? "Confirmada" : "Rechazada";
 				alertify.alert(
-					`Cotización ${estado == "CC" ? "confirmada" : "rechazada"}`,
-					`La cotización ha sido <b>${
-						estado == "CC" ? "Confirmada" : "Rechazada"
-					}</b> satisfactoriamente, se notificará al respectivo asesor comercial para proceder con el evento y se le notificará en caso de actualizaciones`,
-					function () {
-						window.close();
-						location.reload();
+					`Cotización ${estadoEvento}`,
+					`La cotización ha sido <b>${estadoEvento}</b> satisfactoriamente, se notificará al respectivo asesor comercial para proceder con el evento y se le notificará en caso de actualizaciones`,
+					async function () {
+						envioEmail(estado);
 					}
 				);
 			} else {
-				alertify.alert(
-					"Error",
-					`Ocurrió un error al momento de ${
-						estado == "CC" ? "Confirmar" : "Rechazar"
-					} la cotización`
-				);
+				if (res == 0) {
+					alertify.alert(
+						"Error",
+						`Ocurrió un error al momento de ${
+							estado == "CO" ? "Confirmar" : "Anular"
+						} la cotización`
+					);
+				} else {
+					alertify.alert(
+						"Advertencia",
+						"Está visualizando una versión desactualizada de la cotización, se enviará automáticamente a la última versión disponible",
+						function () {
+							const currentUrl = window.location.href;
+							const lastSlashIndex = currentUrl.lastIndexOf("/");
+							const baseUrl = currentUrl.substring(0, lastSlashIndex + 1);
+
+							window.location.href = `${baseUrl}${res * -1}`;
+						}
+					);
+				}
 			}
 		},
 	});
+}
+
+async function envioEmail(estado) {
+	$("#overlay").removeClass("d-none");
+	$(".loader-bg").show();
+
+	const internet = await validarConexionLimite();
+
+	let msg = "";
+	if (internet) {
+		const URLactualTemp = window.location.href;
+		const URLactual = `<a style="
+							color: #ffffff;
+							font-size: 13px;
+							padding: 15px 0px;
+							text-decoration: none;
+							display: block;
+							text-align: center;
+							width: 220px;
+							background-color: #0c1858;
+							border-radius: 50px;
+							font-weight: bold;
+							" target="_blank" id="btnConfirmar" href="${URLactualTemp}">VER EVENTO</a>`;
+
+		$.ajax({
+			url: base_url() + "Evento/envioConfirmacion/" + $nit,
+			type: "POST",
+			data: {
+				data: JSON.stringify({ ...data }),
+				estado: JSON.stringify(estado),
+				URLactual: JSON.stringify(URLactual),
+			},
+			async: false,
+			success: (res) => {
+				msg += `<div class="alert alert-warning mb-0">
+				${
+					estado == "CC"
+						? "La <b>Confirmación</b> ha sido enviada"
+						: "El <b>Rechazo</b> ha sido enviado"
+				} al correo del encargado del evento.
+				</div>`;
+			},
+		});
+	} else {
+		msg += `<div class="alert alert-warning">
+				No hay conexión a internet para enviar los correos.
+			</div>`;
+	}
+
+	$("#overlay").addClass("d-none");
+	$(".loader-bg").hide();
+
+	alertify.alert("Envío de notificaciones", msg, function () {
+		window.close();
+		location.reload();
+	});
+}
+
+async function validarConexion() {
+	return new Promise(async (resolve) => {
+		try {
+			$.ajax({
+				url: base_url() + "Evento/proxyToGoogle/" + $nit,
+				type: "GET",
+				timeout: 2500,
+				success: function () {
+					resolve(true);
+				},
+				error: function (xhr, status, error) {
+					resolve(false);
+				},
+			});
+		} catch (error) {
+			resolve(false);
+		}
+	});
+}
+
+function validarConexionLimite() {
+	const limite = 2500;
+	const validarConexionPromise = validarConexion();
+
+	const tiempoAgotadoPromise = new Promise((resolve) => {
+		setTimeout(() => {
+			resolve(false);
+		}, limite);
+	});
+
+	return Promise.race([validarConexionPromise, tiempoAgotadoPromise]);
 }
 
 // Event listeners
@@ -795,7 +986,7 @@ if (!data.cotizacion.ultimaVersion) {
 
 				$(this)
 					.closest("[data-productoid]")
-					.find("p, .inputValorProducto")
+					.find("p, .inputValorProducto, .observacionProducto")
 					.each(function () {
 						$(this).css("text-decoration", "line-through");
 					});
@@ -811,6 +1002,11 @@ if (!data.cotizacion.ultimaVersion) {
 					.closest("[data-productoid]")
 					.find(".btnMas, .btnMenos")
 					.attr("disabled", true);
+				$(this)
+					.closest("[data-productoid]")
+					.find(".observacionProducto")
+					.css("background-color", "#e9ecef")
+					.attr("readonly", true);
 
 				modificarProducto(this, "incluir", false);
 
@@ -822,7 +1018,7 @@ if (!data.cotizacion.ultimaVersion) {
 
 				$(this)
 					.closest("[data-productoid]")
-					.find("p, .inputValorProducto")
+					.find("p, .inputValorProducto, .observacionProducto")
 					.each(function () {
 						$(this).css("text-decoration", "none");
 					});
@@ -838,6 +1034,11 @@ if (!data.cotizacion.ultimaVersion) {
 					.closest("[data-productoid]")
 					.find(".btnMas, .btnMenos")
 					.attr("disabled", false);
+				$(this)
+					.closest("[data-productoid]")
+					.find(".observacionProducto")
+					.css("background-color", "#fff")
+					.attr("readonly", false);
 
 				const tipo = $(this)
 					.closest("[data-productoid]")
@@ -880,12 +1081,12 @@ if (!data.cotizacion.ultimaVersion) {
 		$("#divAplicacion").hide();
 	} else {
 		const estadosFinales = ["NU", "CO", "EX", "VE", "FI", "AC"];
-
+		const strEstado = estados[data.cotizacion.versiones[0].Estado];
 		let strAlert = `Esta cotización se encuentra en modo previsualización, `;
 		if (estadosFinales.includes(data.cotizacion.estado)) {
-			strAlert += `actualmente se encuentra en estado <b>${data.cotizacion.versiones[0].Estado}</b> por lo que no se puede modificar`;
+			strAlert += `actualmente se encuentra en estado <b>${strEstado}</b> por lo que no se puede modificar`;
 		} else {
-			strAlert += `debe de contactar con su respectivo asesor comercial para modificarla en caso de requerirlo ya que se encuentra en estado <b>${data.cotizacion.versiones[0].Estado}</b>`;
+			strAlert += `debe de contactar con su respectivo asesor comercial para modificarla en caso de requerirlo ya que se encuentra en estado <b>${strEstado}</b>`;
 		}
 
 		$("#divAplicacion").find("a").closest("td").html(strAlert);
@@ -893,3 +1094,12 @@ if (!data.cotizacion.ultimaVersion) {
 }
 
 actualizarTotales();
+
+$("body")
+	.prepend(`<div href="javascript:void(0);" id="overlay" class="d-none"></div>
+		<div class="loader-bg" style="display: none;">
+			<div class="loader-track">
+				<div class="loader-fill"></div>
+			</div>
+		</div>
+	`);

@@ -18,7 +18,7 @@ let dataFiltro = {
 	reservaActual: null
 }
 
-let tblAsistententes = $('#tablaAsistentes').DataTable({
+let tblAsistentes = $('#tablaAsistentes').DataTable({
 	fixedColumns: true,
 	serverSide: true,
 	scrollX: true,
@@ -160,7 +160,7 @@ let tblInvitados = $('#tablaInvitados').DataTable({
 		{ data: 'NombreInvitado' }, 
 		{ data: 'FechaNac' }, 
 		{ data: 'TelefonoInvitado' }, 
-		{ data: 'EmialInvitado' }, 
+		{ data: 'EmailInvitado' }, 
 		{ data: 'Observacion' }, 
 		{ data: 'Estado' }, 
 		{ data: 'nombre' },
@@ -322,7 +322,7 @@ $(function () {
 		}
 
 		primerCarga = 0;
-		tblAsistententes.ajax.reload();
+		tblAsistentes.ajax.reload();
 		tblReservas.ajax.reload();
 		totalesTablas();
 

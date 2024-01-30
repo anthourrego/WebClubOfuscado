@@ -39,13 +39,13 @@ class Tabla {
 
 		this.__productoSeleccionado = {};
 
+		this.__id = Math.floor(Math.random() * 100) + 1;
+
 		if (this.__config.tipo === "html") {
 			this.pintarTablaHTML();
 		} else {
 			this.pintarDataTables();
 		}
-
-		this.__id = Math.floor(Math.random() * 100) + 1;
 	}
 
 	// Método para pintar una tabla básica HTML utilizando jQuery
@@ -88,6 +88,18 @@ class Tabla {
 			const objetos = menu.objetos;
 			if (menu.objetos.length > 0) {
 				menu.nombreMenu = menu.objetos[0].nombreMenu;
+				menu.desde =
+					typeof menu.objetos[0].desde !== "undefined"
+						? menu.objetos[0].desde
+						: null;
+				menu.hasta =
+					typeof menu.objetos[0].hasta !== "undefined"
+						? menu.objetos[0].hasta
+						: null;
+				menu.hora =
+					typeof menu.objetos[0].hora !== "undefined"
+						? menu.objetos[0].hora
+						: null;
 				if (menu.objetos[0].ElementoId === -1) {
 					menu.Valor = menu.objetos[0].Valor;
 					menu.ProductoId = menu.objetos[0].ProductoId;
@@ -106,7 +118,7 @@ class Tabla {
 			menuTR.append(`<td width="40"></td>`);
 
 			const menuTD = $(`<td>
-				<table style="border: 1px solid #e6ebf1" cellpadding="0" cellspacing="0" align="center" width="100%" data-menu="${
+				<table style="border: 1px solid #e6ebf1" cellpadding="0" cellspacing="0" align="center" width="100%" data-menu=" ${
 					menu.menu
 				}">
 					<tbody>
@@ -117,12 +129,48 @@ class Tabla {
 										? this.__config.menusEditables
 											? `
 									<div class="form-group pr-5">
-										<input
-											type="text"
-											class="form-control form-control-floating inputTitulo"
-											placeholder="Nombre Menú"
-											value="${menu.nombreMenu}"
-										/>
+										<div class="d-flex">
+											<input
+												type="text"
+												class="form-control form-control-floating inputTitulo"
+												placeholder="Nombre Menú"
+												value="${menu.nombreMenu}"
+											/>
+											<div class="d-flex">
+												<label class="labelFechaServicio">Fecha Servicio</label>
+												<input
+													type="text"
+													class="form-control form-control-floating inputFechaServicio1 ml-2 ${
+														nuevaReserva.disponibilidad.fechaini ==
+														nuevaReserva.disponibilidad.fechafin
+															? "d-none"
+															: ""
+													}"
+													placeholder="Fecha Servicio"
+													value="${menu.desde}"
+												/>
+												<input
+													type="text"
+													class="form-control form-control-floating inputFechaServicio2 ml-2 ${
+														nuevaReserva.disponibilidad.fechaini ==
+															nuevaReserva.disponibilidad.fechafin ||
+														menu.desde === null
+															? "d-none"
+															: ""
+													}"
+													placeholder="Hasta"
+													value="${menu.hasta}"
+												/>
+												<input
+													type="text"
+													class="form-control form-control-floating inputFechaServicio3 ml-2 text-right"
+													placeholder="Hora"
+													name="I${menu.menu}"
+													id="I${menu.menu}"
+													value="${menu.hora}"
+												/>
+											</div>
+										</div>
 										<button
 											title="Seleccionar productos menú"
 											class="btnSeleccionarMenu"
@@ -133,7 +181,7 @@ class Tabla {
 									`
 											: `<p class="pTitulo ${
 													menu.objetos.length ? "" : "mb-0 pb-0"
-											  }">${menu.nombreMenu}</p> ${
+											  }"> ${menu.nombreMenu}</p> ${
 													typeof menu.Valor !== "undefined"
 														? `<input
 															type="text"
@@ -156,8 +204,9 @@ class Tabla {
 					const data = [...self.getData()];
 
 					data.forEach((item) => {
-						if (item.menu === menu.menu) {
+						if (item.menu == menu.menu) {
 							item.nombreMenu = newTitle;
+							item.desde == menu.desde;
 						}
 					});
 
@@ -170,16 +219,23 @@ class Tabla {
 						menu.objetos[menu.objetos.length - 1].AlmacenMenuId;
 					menusComponent(nombreMenu, menu.objetos)
 						.then((menusData) => {
-							const menu = $(this).closest("[data-menu]").attr("data-menu");
+							// Menú ya existente;
+							const menu = $(this)
+								.closest("[data-menu]")
+								.attr("data-menu")
+								.trim();
 
 							const data = [...self.getData()];
 
-							const filteredData = data.filter((item) => item.menu !== menu);
+							// Filtra los productos del menú seleccionado
+							const filteredData = data.filter((item) => item.menu != menu);
 
+							// Trae los productos seleccionados del menú (Nuevos y antiguos)
 							const menus = menusData.map((producto) => {
 								const {
 									ProductoId,
 									Imagen,
+									Observacion,
 									Valor,
 									nombre,
 									ivaid,
@@ -188,15 +244,23 @@ class Tabla {
 									maximo,
 									AlmacenMenuId,
 								} = producto;
+
 								return {
 									menu,
 									nombreMenu,
 									ProductoId,
 									Imagen,
+									Observacion,
 									Valor: parseFloat(Valor),
 									nombre,
-									cantidad: producto.cantidad ? producto.cantidad : 1,
-									total: parseFloat(Valor),
+									cantidad: producto.cantidad
+										? producto.cantidad
+										: nuevaReserva.disponibilidad.personas,
+									total:
+										parseFloat(Valor) *
+										(producto.cantidad
+											? producto.cantidad
+											: nuevaReserva.disponibilidad.personas),
 									ivaid,
 									ValorOriginal,
 									minimo,
@@ -206,7 +270,6 @@ class Tabla {
 							});
 
 							const updatedData = [...menus, ...filteredData];
-
 							updatedData.sort((a, b) => a.menu - b.menu);
 
 							self.setData(updatedData);
@@ -255,7 +318,7 @@ class Tabla {
 						.findIndex(
 							(producto) =>
 								producto.ProductoId === menu.ProductoId &&
-								producto.menu === menu.menu &&
+								producto.menu == menu.menu &&
 								producto.ElementoId === -1
 						);
 					if (index !== -1) {
@@ -264,6 +327,85 @@ class Tabla {
 						data[index].total = newVal;
 						self.setData(data);
 					}
+				});
+
+			let minDate = new Date(moment(minFechaIniEvento));
+			minDate = moment(minDate).format("YYYY-MM-DD HH:mm");
+			let maxDate = new Date(moment(maxFechaFinEvento));
+			maxDate = moment(maxDate).format("YYYY-MM-DD HH:mm");
+
+			menuTD
+				.find(".inputFechaServicio1")
+				.datetimepicker({
+					minDate,
+					maxDate,
+					format: "YYYY-MM-DD",
+					sideBySide: true,
+					locale: "es",
+				})
+				.val(menu.desde)
+				.on("dp.hide", function () {
+					const fechaServicio = $(this).val();
+					const data = [...self.getData()];
+
+					data.forEach((item) => {
+						if (item.menu == menu.menu) {
+							item.desde = fechaServicio;
+							item.hasta = null;
+							item.hora = "00:00";
+						}
+					});
+
+					self.setData(data);
+				});
+
+			const minDate2 =
+				menu.desde === null || menu.desde === "" ? minDate : menu.desde;
+
+			menuTD
+				.find(".inputFechaServicio2")
+				.datetimepicker({
+					minDate: minDate2,
+					maxDate,
+					format: "YYYY-MM-DD",
+					sideBySide: true,
+					locale: "es",
+				})
+				.val(menu.hasta)
+				.on("dp.hide", function () {
+					const fechaServicio = $(this).val();
+					const data = [...self.getData()];
+
+					data.forEach((item) => {
+						if (item.menu == menu.menu) {
+							item.hasta = fechaServicio;
+						}
+					});
+
+					self.setData(data);
+				});
+
+			menuTD
+				.find(".inputFechaServicio3")
+				.datetimepicker({
+					minDate,
+					maxDate,
+					format: "HH:mm",
+					sideBySide: true,
+					locale: "es",
+				})
+				.val(menu.hora)
+				.on("dp.hide", function () {
+					const fechaServicio = $(this).val();
+					const data = [...self.getData()];
+
+					data.forEach((item) => {
+						if (item.menu == menu.menu) {
+							item.hora = fechaServicio;
+						}
+					});
+
+					self.setData(data);
 				});
 
 			menu.objetos.forEach((producto) => {
@@ -292,7 +434,7 @@ class Tabla {
 							</td>
 							<td width="10px"></td>
 							<td>
-								<p class="mb-0">${producto.nombre}</p>
+								<p class="mb-0"> ${producto.nombre}</p>
 								${
 									self.__config.precios
 										? `<p class="mb-0" style="
@@ -328,6 +470,15 @@ class Tabla {
 										`
 										: ""
 								}
+								<div class="divEditarValor w-100">
+									<textarea
+										type="text"
+										placeholder="Observación"
+										class="form-control observacionProducto"
+										style="height: 22.5px;"
+									>${producto.Observacion ? producto.Observacion : ""}</textarea>
+									<i class="fas fa-pen editarValor"></i>
+								</div>
 							</td>
 							<td align="right" width="150px">
 								<div class="input-group">
@@ -391,7 +542,7 @@ class Tabla {
 									const indexToRemove = data.findIndex((item) => {
 										if (self.__config.menus) {
 											return (
-												item.menu === menu.menu &&
+												item.menu == menu.menu &&
 												item.ProductoId === producto.ProductoId
 											);
 										} else {
@@ -457,7 +608,7 @@ class Tabla {
 						const productoEditar = data.find((item) => {
 							if (self.__config.menus) {
 								return (
-									item.menu === menu.menu &&
+									item.menu == menu.menu &&
 									item.ProductoId === producto.ProductoId
 								);
 							} else {
@@ -489,7 +640,7 @@ class Tabla {
 								const indexToRemove = data.findIndex((item) => {
 									if (self.__config.menus) {
 										return (
-											item.menu === menu.menu &&
+											item.menu == menu.menu &&
 											item.ProductoId === producto.ProductoId
 										);
 									} else {
@@ -506,7 +657,38 @@ class Tabla {
 						}
 
 						self.setData(data);
+					})
+					.on("input", ".observacionProducto", function () {
+						const regex = /\n/g;
+						let matches = $(this).val().match(regex);
+						matches = matches ? matches.length : 0;
+						matches++;
+						$(this).css("height", 22.5 * matches + "px");
+						$(this).css("min-height", 22.5 * matches + "px");
+					})
+					.on("change", ".observacionProducto", function () {
+						let observacion = $(this).val();
+
+						const data = [...self.getData()];
+
+						const index = data.findIndex((item) => {
+							if (self.__config.menus) {
+								return (
+									item.menu == menu.menu &&
+									item.ProductoId === producto.ProductoId
+								);
+							} else {
+								return item.ProductoId === producto.ProductoId;
+							}
+						});
+
+						if (index !== -1) {
+							data[index].Observacion = observacion;
+
+							self.setData(data);
+						}
 					});
+				productoTable.find(".observacionProducto").trigger("input");
 
 				productoTable
 					.find(".data-int")
@@ -551,6 +733,9 @@ class Tabla {
 					.change(function () {
 						let val = $(this).val();
 						let newVal = parseFloat(val.replace(/[$,]| c\/u/g, "").trim());
+						if (isNaN(newVal) || newVal === null || newVal === "") {
+							newVal = 0;
+						}
 
 						// const index = self
 						// 	.getData()
@@ -571,7 +756,7 @@ class Tabla {
 						const index = data.findIndex((item) => {
 							if (self.__config.menus) {
 								return (
-									item.menu === menu.menu &&
+									item.menu == menu.menu &&
 									item.ProductoId === producto.ProductoId
 								);
 							} else {
@@ -613,9 +798,7 @@ class Tabla {
 			});
 
 			menuTR.append(menuTD);
-
 			menuTR.append(`<td width="40"></td>`);
-
 			tbody.append(menuTR);
 		});
 
@@ -675,10 +858,15 @@ class Tabla {
 				`)
 					.on("click", ".btnSeleccionarMenu", function (e) {
 						e.preventDefault();
-						const nombreMenu = $(this).closest("table").find("input").val();
+						const nombreMenu = $(this)
+							.closest("table")
+							.find("input")
+							.val()
+							.trim();
 						tmpAlmacenMenuId = almacenIdEventos;
 						menusComponent(nombreMenu)
 							.then((data) => {
+								// Menú nuevo
 								const menu = $(this).closest("[data-menu]").attr("data-menu");
 								self.addData(
 									data.map((producto) => {
@@ -727,10 +915,10 @@ class Tabla {
 						<div class="row">
 							<div class="col-12 col-md-8 col-xl-7 mt-3 input-group">
 								<div class="form-group mb-0 w-25">
-									<input type="text" aria-describeby="prodText" id="ProductoIdElemento${this.__id}"
-										class="form-control form-control-floating ProductoIdElemento" name="ProductoIdElemento${this.__id}"
+									<input type="text" aria-describeby="prodText" id="ProductoIdElemento${self.__id}"
+										class="form-control form-control-floating ProductoIdElemento" name="ProductoIdElemento${self.__id}"
 										placeholder="Código Producto">
-									<label for="ProductoIdElemento${this.__id}" class="floating-label">Producto</label>
+									<label for="ProductoIdElemento${self.__id}" class="floating-label">Producto</label>
 								</div>
 								<div class="input-group-append w-75">
 									<span class="input-group-text pl-2 w-100" id="prodText">

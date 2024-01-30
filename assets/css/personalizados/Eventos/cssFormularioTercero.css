@@ -1,0 +1,61 @@
+div .contenedorInformacionPrincipal {
+	background-color: rgba(255, 255, 255);
+	border-radius: 5px;
+	margin: 0 auto;
+	margin-bottom: 10px;
+	padding-top: 10px;
+}
+.container-fluid {
+	border-top-left-radius: 0;
+	border-top-right-radius: 0;
+}
+.foto {
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: 100%;
+}
+#thumbnailTitular {
+	position: relative;
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+	width: 200px;
+	top: 60px;
+	transition: all 0.2s ease-in;
+	border: 1px solid #e5e5e5;
+	margin: 0 auto;
+}
+form.FormularioTercero div {
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+#thumbnailTitular:hover {
+	cursor: pointer;
+	border-radius: 0 !important;
+	height: 250px;
+	width: 250px;
+	transition: all 0.2s ease-out;
+	top: 20px;
+	margin: 0 auto;
+}
+.adicional {
+	padding-top: 10px;
+}
+
+@media (min-width: 992px) {
+	#thumbnailTitular {
+		top: 20px;
+	}
+	.adicional button {
+		width: 116px;
+	}
+}
+@media (max-width: 991px) {
+	.adicional {
+		padding-top: 60px;
+	}
+	form.FormularioTercero div {
+		padding-top: 3px;
+		padding-bottom: 23px;
+	}
+}

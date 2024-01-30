@@ -1,89 +1,64 @@
-<?php //ICB0 56:0 71:e28                                                      ?><?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+defined('BASEPATH') OR exit('No direct script access allowed');
+?><!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>404 Page Not Found</title>
+<style type="text/css">
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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=
-<?php //000a3
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+::selection { background-color: #E13300; color: white; }
+::-moz-selection { background-color: #E13300; color: white; }
 
-?>
-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
-WCWCEz5ic9IbYWxENq/0TQGuXXBIishU71u=
+body {
+	background-color: #fff;
+	margin: 40px;
+	font: 13px/20px normal Helvetica, Arial, sans-serif;
+	color: #4F5155;
+}
+
+a {
+	color: #003399;
+	background-color: transparent;
+	font-weight: normal;
+}
+
+h1 {
+	color: #444;
+	background-color: transparent;
+	border-bottom: 1px solid #D0D0D0;
+	font-size: 19px;
+	font-weight: normal;
+	margin: 0 0 14px 0;
+	padding: 14px 15px 10px 15px;
+}
+
+code {
+	font-family: Consolas, Monaco, Courier New, Courier, monospace;
+	font-size: 12px;
+	background-color: #f9f9f9;
+	border: 1px solid #D0D0D0;
+	color: #002166;
+	display: block;
+	margin: 14px 0 14px 0;
+	padding: 12px 10px 12px 10px;
+}
+
+#container {
+	margin: 10px;
+	border: 1px solid #D0D0D0;
+	box-shadow: 0 0 8px #D0D0D0;
+}
+
+p {
+	margin: 12px 15px 12px 15px;
+}
+</style>
+</head>
+<body>
+	<div id="container">
+		<h1><?php echo $heading; ?></h1>
+		<?php echo $message; ?>
+	</div>
+</body>
+</html>

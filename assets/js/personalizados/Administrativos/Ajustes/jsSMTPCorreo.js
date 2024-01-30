@@ -1,5 +1,4 @@
 let rutaBase = base_url() + 'Administrativos/Ajustes/SMTPCorreo/';
-// se crea variable para las diferentes pestañas la cual cuando evento sea == 1 es de eventos y cuando sea == 0 es de general
 
 function obtenerInfo(evento){
 	$.ajax({
@@ -7,47 +6,37 @@ function obtenerInfo(evento){
 		type: "POST",
 		data:{ evento },
 		dataType: "json",
-		success: function(resp){
-			if (resp.length > 0) {
-				$("#email").val(resp[0].emailSMTP);
-				$("#servidor").val(resp[0].servidorSMTP);
-				$("#puerto").val(resp[0].puertoSMTP);
-				$("#conexion").val(resp[0].sslSMTP);
-				$("#contra").val("");
+		success: ({success, datos}) => {
+			if (success === true) {
+				$("#email").val(datos.emailSMTP);
+				$("#servidor").val(datos.servidorSMTP);
+				$("#puerto").val(datos.puertoSMTP);
+				$("#conexion").val(datos.sslSMTP);
+				$("#contra").val(datos.passSMTP);
 				$("#servidor, #puerto, #conexion").prop("disabled", true);
 				
-				if (resp[0].tipoEmailSMTP == undefined) {
+				if (datos.tipoEmailSMTP == undefined) {
 					let server = "O";
 
-					switch (resp[0].servidorSMTP) {
+					switch (datos.servidorSMTP) {
 						case "smtp.office365.com":
-							server = "F";
+							server = "H";
 							break;
 						case "smtp.gmail.com":
 							server = "G";
-							break;
-						case "smtp.live.com":
-							server = "H";
-							break;
-						case "smtp.office365.com":
-							server = "F";
 							break;
 					}
 
 					$("#tipoCorreo").val(server).trigger("chosen:updated");
 				} else {
-					$("#tipoCorreo").val(resp[0].tipoEmailSMTP).trigger("chosen:updated");
+					$("#tipoCorreo").val(datos.tipoEmailSMTP).trigger("chosen:updated");
 				}
 			}
-		},
-		error: function(error){
-			alertify.alert('Error', error.responseText);
 		}
 	});
 }
 
 function pruebasEmail(correo) {
-	// console.log(correo,evento);
 	data = new FormData();
 	data.append('tipoCorreo', $("#tipoCorreo").val());
 	data.append('email', $("#email").val());
@@ -57,22 +46,22 @@ function pruebasEmail(correo) {
 	data.append('conexion', $("#conexion").val());
 	data.append('correo', correo);
 	data.append('tipo', $("#tabModal").find(".item-nav.active").data("tab"));
+	data.append('pruebaSMTP', 1);
 
 	$.ajax({
 		url: rutaBase + 'pruebasEmail',
 		type: "POST",
 		dataType: "json",
-		async		: false,
-		cache		: false,
-		contentType : false,
-		processData : false,
+		async: false,
+		cache: false,
+		contentType: false,
+		processData: false,
 		data,
 		success: function(resp){
-			console.log(resp);
 			if (resp == 1) {
 				alertify.success("El correo se envio correctamente.");
 			} else {
-				alertify.alert(resp);
+				alertify.alert("Error al probar correo", "Ha ocurrido un error enviando el correo, porfavor valide la credenciales del correo y/o valide la conexión a internet. <br>" + resp);
 			}
 		}
 	});
@@ -102,18 +91,14 @@ $(function(){
 
 	$("#tipoCorreo").on("change", function(){
 		$("#email").val("");
-		$("#servidor, #puerto, #conexion").val("").prop("disabled", false);
+		$("#servidor, #puerto, #conexion, #contra").val("").prop("disabled", false);
 
 		if ($(this).val() == 'H') {
-			$("#servidor").val("smtp.live.com").prop("disabled",true);
-			$("#puerto").val("25").prop("disabled",true);
+			$("#servidor").val("smtp.office365.com").prop("disabled",true);
+			$("#puerto").val("587").prop("disabled",true);
 			$("#conexion").val("1").prop("disabled",true);
 		} else if ($(this).val() == 'G') {
 			$("#servidor").val("smtp.gmail.com").prop("disabled",true);
-			$("#puerto").val("587").prop("disabled",true);
-			$("#conexion").val("1").prop("disabled",true);
-		} else if ($(this).val() == 'F') {
-			$("#servidor").val("smtp.office365.com").prop("disabled",true);
 			$("#puerto").val("587").prop("disabled",true);
 			$("#conexion").val("1").prop("disabled",true);
 		}
@@ -162,7 +147,9 @@ $(function(){
 			sslSMTP:     $("#conexion").val() != "" ? $("#conexion").val() : null,
 			tipoCorreo: $("#tabModal").find(".item-nav.active").data("tab")
 		}
-		email = $dataCRUD.tipoCorreo == "general" ? "POS" : "Eventos";
+		console.log($dataCRUD);
+		email = $dataCRUD.tipoCorreo != "general" ? $dataCRUD.tipoCorreo == "eventos" ? "Eventos": 'Cartera' : "POS";
+		console.log(email);
 		var rastreo = `Modifica Email ${email}: ${$("#email").val()} Servidor:[${$("#servidor").val()}] Puerto:[${$("#puerto").val()}]`;
 
 		if ($(this).valid()){

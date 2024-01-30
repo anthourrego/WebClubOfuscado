@@ -1,8 +1,8 @@
 let rutaGeneral = base_url() + 'Administrativos/Servicios/ReimprimirComandas/';
 let dataFiltro = {
 	idUsuario: $USUARIO,
-	vendedores: [],
-	almacenes: [],
+	vendedores: ["-1"],
+	almacenes: ["-1"],
 	fechaInicial: moment().format('YYYY-MM-DD'),
 	fechaFinal: moment().format('YYYY-MM-DD'),
 };
@@ -26,44 +26,11 @@ var tblCuentas = $('#tabla').DataTable({
 	},
 	order: [[0, 'ASC']],
 	fixedColumns: true,
-	buttons: [{
-		extend: 'copy',
-		className: 'copyButton',
-		text: 'Copiar',
-		exportOptions: {
-			columns: ':not(.noExport)'
-		},
-	}, {
-		extend: 'excel',
-		className: 'excelButton',
-		orientation: 'landscape',
-		exportOptions: {
-			columns: ':not(.noExport)'
-		},
-		pageSize: 'letter',
-	}, {
-		extend: 'pdf',
-		className: 'pdfButton',
-		tex: 'PDF',
-		orientation: 'landscape',
-		exportOptions: {
-			columns: ':not(.noExport)'
-		},
-		pageSize: 'letter'
-	}, {
-		extend: 'print',
-		className: 'printButton',
-		orientation: 'landscape',
-		pageSize: 'letter',
-		exportOptions: {
-			columns: ':not(.noExport)'
-		},
-		text: 'Imprimir'
-	}, {
+	buttons: buttonsDT(["copy", "excel", "pdf", "print"], [{
 		className: 'btnImprimir',
 		attr: { title: "Reimprimir Comandas", "data-toggle": "modal" },
 		text: '<i class="fas fa-print"></i> <strong> Reimprimir Comandas</strong>'
-	}],
+	}]),
 	columns: [
 		{	
 			orderable: false,
@@ -105,19 +72,13 @@ var tblCuentas = $('#tabla').DataTable({
 		style: 'multi',
 		selector: '.checkColumn'
 	},
-
-	initComplete: function(){
-		$('div.dataTables_filter input').unbind();
-		$("div.dataTables_filter input").keyup( function (e) {
-			e.preventDefault();
-			if (e.keyCode == 13) {
-				busqueda = this.value ? this.value : null;
-				table = $("body").find("#tabla").dataTable();
-				table.fnFilter( this.value );
-				
-			}
-		} );
+	scrollX: '100%',
+	scrollY: $(document).height() - 390,
+	scroller: {
+		loadingIndicator: true
 	},
+	scrollCollapse: false,
+	dom: domBftri,
 	createdRow: function(row,data,dataIndex){
 		if ((seleccionoTodo == 1 && selecciones.findIndex(element => element.Id == data.Id) === -1) || (seleccionoTodo == 0 && selecciones.findIndex(element => element.Id == data.Id) !== -1)){
 			tblCuentas.row(dataIndex).select();
@@ -133,14 +94,6 @@ var tblCuentas = $('#tabla').DataTable({
 			$("#checkAll").prop("disabled", false);
 		}
 	},
-	deferRender: true,
-	scrollX: '100%',
-	scrollY: $(document).height() - 390,
-	scroller: {
-		loadingIndicator: true
-	},
-	scrollCollapse: false,
-	dom: domBftri,
 }).on('select', function ( e, dt, type, indexes ) {
 	let rowData = dt.rows( indexes ).data().toArray()[0];
 
@@ -210,10 +163,12 @@ $(function () {
 		e.preventDefault();
 		dataFiltro.fechaInicial = $("#fechaInicial").val();
 		dataFiltro.fechaFinal = $("#fechaFinal").val();
+		dataFiltro.vendedores = $("#vendedores").val(),
+		dataFiltro.almacenes = $("#almacenes").val(),
 		tblCuentas.ajax.reload();
 	});
 
-	$(".chosen-select").change(function (e) {
+	/*$(".chosen-select").change(function (e) {
 		let id = $(this).attr('id');
 		let data = dataFiltro[id];
 		let entrada = $(this).val().filter(x => !data.includes(x));
@@ -225,6 +180,21 @@ $(function () {
 			dataFiltro[id] = $(this).val();
 		}
 		$(this).trigger('chosen:updated');
+	});*/
+
+	$(".FiltrosSelec").change(function (e, el) {
+		e.preventDefault();
+		let values = ['-1'];
+		if (el.selected != -1) {
+			values = $(this).val().filter(x => x != '-1');
+			if (values.length <= 0 || values.length >= ($(this).find("option").length - 1)) values = ['-1'];
+		}
+
+		// //Esto solo lo hace para el select para tipo evento
+		// if ($(this).attr("id") == 'tipoEvento' && el.deselected != '-1') {
+		// 	// cambioProductosServicios(values);
+		// }
+		$(this).val(values).trigger("chosen:updated");
 	});
 
 	//Se deshabilitan las fecha para no colocar rango erroneos

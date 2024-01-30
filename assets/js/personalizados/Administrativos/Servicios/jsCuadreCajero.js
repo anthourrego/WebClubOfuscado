@@ -1,7 +1,7 @@
 var lastfocus = '';
 var usuarioAutoriza = 0;
-var Totalregistro = 0;
-var vanderaUsuario = 0;
+var TotalRegistro = 0;
+var banderaUsuario = 0;
 var contexto = this;
 
 alertify.myAlert || alertify.dialog('myAlert', function factory() {
@@ -75,12 +75,14 @@ function cuadreCajero() {
 }
 
 function redireccionImprimir() {
-	location.href = base_url() + 'Administrativos/Servicios/PanelPrincipal';
+	setTimeout(() => {
+		location.href = base_url() + 'Administrativos/Servicios/PanelPrincipal';
+	}, 3000);
 };
 
 function cargarTercero() {
-	Totalregistro = null;
-	vanderaUsuario = 0;
+	TotalRegistro = null;
+	banderaUsuario = 0;
 	var usuario = $('#usuario').val();
 	var fecha = $('#fecha').val();
 	$("#btCuadreSubmit").addClass('invisible');
@@ -95,40 +97,40 @@ function cargarTercero() {
 		},
 		success: function (res) {
 			try {
-				Totalregistro = res;
+				TotalRegistro = res;
 			} catch (e) {
 				alertify.alert('Error', res, function () {
 					this.destroy();
 				});
 				return false;
 			}
-			if (Totalregistro[0] == 1) {
-				if (Totalregistro[1] != null && $clavecuadr == 'S') {
+			if (TotalRegistro[0] == 1) {
+				if (TotalRegistro[1] != null && $clavecuadr == 'S') {
 					$("#btCuadreSubmit").addClass('invisible');
 					$('#valor').val(0);
-					vanderaUsuario = 1;
+					banderaUsuario = 1;
 					alertify.confirm('Advertencia', 'Este usuario ya generó el cuadre de cajero para este día. ¿Desea generar uno nuevo? ', function () {
 						if ($clavecuadr == 'S') {
 							abrirCerrarModal("#modal-solicitar-usuario", "show");
 						}
 						// $("#btCuadreSubmit").removeClass('invisible');
 						$('#valor').val(0);
-						$('#tarjetas').val(Totalregistro[2]);
-						$('#creditos').val(Totalregistro[3]);
+						$('#tarjetas').val(TotalRegistro[2]);
+						$('#creditos').val(TotalRegistro[3]);
 					}, function () { });
 
 
-				} else if (Totalregistro[1] != null && $clavecuadr != 'S') {
+				} else if (TotalRegistro[1] != null && $clavecuadr != 'S') {
 					alertify.alert('Advertencia', 'Este Usuario ya generó el cuadre de cajero para este día', function () {
 						$('#valor').val(0);
-						$('#tarjetas').val(Totalregistro[2]);
-						$('#creditos').val(Totalregistro[3]);
+						$('#tarjetas').val(TotalRegistro[2]);
+						$('#creditos').val(TotalRegistro[3]);
 					});
 				} else {
 					$("#btCuadreSubmit").removeClass('invisible');
 					$('#valor').val(0);
-					$('#tarjetas').val(Totalregistro[2]);
-					$('#creditos').val(Totalregistro[3]);
+					$('#tarjetas').val(TotalRegistro[2]);
+					$('#creditos').val(TotalRegistro[3]);
 					usuarioAutoriza = 0;
 				}
 			} else {

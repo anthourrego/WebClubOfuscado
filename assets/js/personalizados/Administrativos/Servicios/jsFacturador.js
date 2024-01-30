@@ -5,7 +5,14 @@ $FACTURA.anotacion = '';
 $FACTURA.FormaPago = {};
 $FACTURA.dctoValor = 0;
 $FACTURA.dctoPorcentaje = 0;
-$FACTURA.MeseroId = $ENCABEZADO.VendedorId;
+$FACTURA.MeseroId =
+	typeof $ENCABEZADO.MeseroId !== "undefined"
+		? $ENCABEZADO.MeseroId
+		: $ENCABEZADO.VendedorId;
+$FACTURA.Mesero =
+	typeof $ENCABEZADO.MeseroId !== "undefined"
+		? $ENCABEZADO.Mesero
+		: $ENCABEZADO.VendedorId;
 
 $FACTURA.FrmPagoValor = [];
 $FACTURA.CortesiaId = null;
@@ -29,12 +36,14 @@ var punto = false,
 	click = false;
 
 $FACTURA.Propina = 0;
+$FACTURA.PropinaAnticipo = 0;
 
 var DTCuentaValor;
 var selecciones = [];
 var ultimoBoton = '';
 var btnAutorizar = '';
 var CambioPropina = false;
+var CruzaAnticipo = false;
 var accesoModulo = '';
 
 let DTtblCRUD = $('#tblCRUD').DataTable({
@@ -58,6 +67,12 @@ let DTtblCRUD = $('#tblCRUD').DataTable({
 			data: "nombre",
 			className: "text-left",
 			width: "30%"
+		},
+		{
+			data: "TerceroConsume",
+			className: "text-left",
+			width: "30%",
+			visible: ($Montaje.ConsolidarCuentaResponsablePago == 'S' ? true : false)
 		},
 		{
 			data: "NombreVendedor",
@@ -297,7 +312,7 @@ let DTtblCRUD = $('#tblCRUD').DataTable({
 
 				$('#propinaFrm:eq(0)').find('#propinaInfoVent').val('1').prop('disabled', false);
 				setTimeout(function () {
-					if (ultimoBoton == 'btnPendiente' || (CambioPropina == false && ultimoBoton == 'btnFormasPago')) {
+					if (ultimoBoton == 'btnPendiente' || ((CambioPropina == false || CambioPropina == '_80') && ultimoBoton == 'btnFormasPago')) {
 						$('#propinaFrm:eq(0)').find('#propinaInput').closest('div').removeClass('col-4').addClass('col-12');
 						$('#propinaFrm:eq(0)').find('#propinaInput').closest('fieldset').find('div:eq(1)').addClass('d-none');
 					} else {
@@ -325,314 +340,24 @@ let DTtblCRUD = $('#tblCRUD').DataTable({
 				if (propinaNombre != null && propinaNombre != '') {
 					propinaNombre.trim();
 				}
-
-				if (value == '') {
-					$FACTURA.Propina = 0;
-					dcto();
-					if (CambioPropina != false) {
-						delete $FACTURA.FormaPago[$TerceroId][CambioPropina];
-					}
-
-					var cb = selfieie.get('callback')
-					CambioPropina = false;
-					if (typeof cb === 'function') {
-						var returnValue = cb.call(selfieie, closeEvent);
-						if (typeof returnValue !== 'undefined') {
-							closeEvent.cancel = !returnValue;
-						}
-					}
-
-					return false;
+				dataPropina = {
+					value,
+					selfieie,
+					closeEvent,
+					propinaInfoVent,
+					propinaNombre
 				}
-
-				value = parseFloat(value);
-				if (isNaN(value)) {
-					value = 0.00;
-				}
-				$FACTURA.Propina = value;
-
-				if (value > 0) {
-					if (typeof $FACTURA.FormaPago[$TerceroId] == "undefined") {
-						$FACTURA.FormaPago[$TerceroId] = {};
-					}
-					$FACTURA.FormaPago[$TerceroId]['_' + propinaInfoVent] = {
-						CodiPagoId: '_' + propinaInfoVent
-						, Nombre: propinaNombre + ' (PROPINA)'
-						, Valor: 0
-						, Propina: value
-					};
-
-					let foto = '';
-
-					$.ajax({
-						url: base_url() + "Administrativos/Servicios/EstadoCuenta/CargarForanea",
-						type: 'POST',
-						data: {
-							tabla: "Tercero",
-							value: $TerceroId.trim(),
-							nombre: "terceroid",
-							tblNombre: "nombre"
-						},
-						async: false,
-						dataType: "json",
-						success: function (respuesta) {
-							if (respuesta[0]['foto'] != null) {
-								foto = `<img class="p-1 w-100" alt="" style="object-fit: scale-down;" src="data:image/jpeg;base64,` + respuesta[0]['foto'] + `" height="100px">`;
-							}
-						}
-					});
-
-					var registro = {
-						'0': '<span class="w-100 d-block p-1 mb-0">' + $TerceroId.trim() + '</span>' + foto
-						, '1': '<span class="w-100 d-block p-1">' + $ENCABEZADO.nombre + '</span>'
-						, '2': '<span class="w-100 d-block p-1">' + addCommas2(value, 2) + '</span>'
-						, '3': '<span class="w-100 d-block p-1">' + propinaNombre + ' (PROPINA)' + '</span>'
-						, '4': `<center>
-								<div class="btn-group btn-group-sm m-2">
-									<button type="button" class="editarFrmPago btn btn-info">
-										<span class="fas fa-pen" title="Editar"></span>
-									</button>
-									<button type="button" class="guardarTercero btn btn-success d-none" disabled>
-										<span class="fas fa-check" title="Guardar Tercero"></span>
-									</button>
-								</div>
-							</center>`
-						, '5': ''
-						, '6': ''
-						, Id: FrmPagoValorId
-						, TerceroId: $TerceroId.trim()
-						, Valor: value
-						, CodiPagoId: '_' + propinaInfoVent
-						, Nombre: propinaNombre + ' (PROPINA)'
-					}
-					FrmPagoValorId++;
-
-					let optionsita = $('#propinaInfoVent option:selected');
-
-					var CodiPagoId = $(optionsita).val();
-					var nombre = $(optionsita).text().trim();
-
-					let validacionFormaPago = false;
-
-					let manejcentr = $(optionsita).data('manejcentr');
-					let manejnumer = $(optionsita).data('manejnumer');
-					let fechadocum = $(optionsita).data('fechadocum');
-					let manejcuotas = $(optionsita).data('manejcuotas');
-
-					if (manejcentr == 'S' || manejnumer == 'S' || fechadocum == 'S' || manejcuotas == 'S') {
-						validacionFormaPago = true;
-					}
-
-					if (validacionFormaPago) {
-						alertify.alert(
-							nombre,
-							'',
-							function () {
-								let FormaPagoTMP = {
-									CodiPagoId: '_' + propinaInfoVent
-									, Nombre: propinaNombre + ' (PROPINA)'
-									, Valor: 0
-									, Propina: value
-								};
-
-								if (manejcentr == 'S') {
-									if ($('.alertify:not(.ajs-hidden) .divBancos select').val() != null) {
-										FormaPagoTMP.bancoid = $('.alertify:not(.ajs-hidden) .divBancos select').val().trim();
-										registro.bancoid = FormaPagoTMP.bancoid;
-									} else {
-										return;
-									}
-
-								}
-								if (manejnumer == 'S') {
-									if ($('.alertify:not(.ajs-hidden) .divDocumento input').val() != null) {
-										FormaPagoTMP.numerdocum = $('.alertify:not(.ajs-hidden) .divDocumento input').val().trim();
-										registro.numerdocum = FormaPagoTMP.numerdocum;
-									} else {
-										return;
-									}
-								}
-								if (fechadocum == 'S') {
-									if ($('.alertify:not(.ajs-hidden) .divFechaDocum input').val() != null) {
-										FormaPagoTMP.fechacheq = $('.alertify:not(.ajs-hidden) .divFechaDocum input').val().trim();
-										registro.fechacheq = FormaPagoTMP.fechacheq;
-									} else {
-										return;
-									}
-								}
-								if (manejcuotas == 'S') {
-									if ($('.alertify:not(.ajs-hidden) .divManejcuotas input').val() != null) {
-										FormaPagoTMP.cuota = $('.alertify:not(.ajs-hidden) .divManejcuotas input').val().trim();
-										registro.cuota = FormaPagoTMP.cuota;
-									} else {
-										return;
-									}
-								}
-
-								$FACTURA.FormaPago[$TerceroId]['_' + CodiPagoId] = FormaPagoTMP;
-								$FACTURA.FrmPagoValor.push(registro);
-
-								dcto();
-								alertify.success('Propina aplicada satisfactoriamente');
-
-								$('.alertify:not(.ajs-hidden) .ajs-content').html('');
-
-								if (CambioPropina != false) {
-									if (("_" + propinaInfoVent != CambioPropina)) {
-										delete $FACTURA.FormaPago[$TerceroId][CambioPropina];
-									}
-								}
-
-								var cb = selfieie.get('callback')
-								CambioPropina = false;
-								if (typeof cb === 'function') {
-									var returnValue = cb.call(selfieie, closeEvent);
-									if (typeof returnValue !== 'undefined') {
-										closeEvent.cancel = !returnValue;
-									}
-								}
-							}
-						);
-
-						$('.DivFormasPago').clone().appendTo('.alertify:not(.ajs-hidden) .ajs-content').removeClass('d-none').on('submit', function (e) {
-							e.preventDefault();
-							$('.alertify:not(.ajs-hidden) .ajs-footer button').click();
-						})
-
-						if (manejcentr != 'S') {
-							$('.alertify:not(.ajs-hidden) .divBancos').addClass('d-none');
-						} else {
-							$('.alertify:not(.ajs-hidden) .divBancos select').prop('required', true).val(
-								(typeof $FACTURA.FormaPago[$TerceroId][CodiPagoId] !== 'undefined' && typeof $FACTURA.FormaPago[$TerceroId][CodiPagoId]['bancoid'] !== 'undefined')
-									? $FACTURA.FormaPago[$TerceroId][CodiPagoId]['bancoid']
-									: (
-										(typeof $FACTURA.FormaPago[$TerceroId]['_' + CodiPagoId] !== 'undefined' && typeof $FACTURA.FormaPago[$TerceroId]['_' + CodiPagoId]['bancoid'] !== 'undefined')
-											? $FACTURA.FormaPago[$TerceroId]['_' + CodiPagoId]['bancoid']
-											: ''
-									)
-							)
-						}
-						if (manejnumer != 'S') {
-							$('.alertify:not(.ajs-hidden) .divDocumento').addClass('d-none');
-						} else {
-							$('.alertify:not(.ajs-hidden) .divDocumento input').prop('required', true).val(
-								(typeof $FACTURA.FormaPago[$TerceroId][CodiPagoId] !== 'undefined' && typeof $FACTURA.FormaPago[$TerceroId][CodiPagoId]['numerdocum'] !== 'undefined')
-									? $FACTURA.FormaPago[$TerceroId][CodiPagoId]['numerdocum']
-									: (
-										(typeof $FACTURA.FormaPago[$TerceroId]['_' + CodiPagoId] !== 'undefined' && typeof $FACTURA.FormaPago[$TerceroId]['_' + CodiPagoId]['numerdocum'] !== 'undefined')
-											? $FACTURA.FormaPago[$TerceroId]['_' + CodiPagoId]['numerdocum']
-											: ''
-									)
-							)
-						}
-						if (fechadocum != 'S') {
-							$('.alertify:not(.ajs-hidden) .divFechaDocum').addClass('d-none');
-						} else {
-							$('.alertify:not(.ajs-hidden) .divFechaDocum input').prop('required', true)
-								.datetimepicker({
-									format: 'YYYY-MM-DD',
-									locale: 'es'
-								}).val(
-									(typeof $FACTURA.FormaPago[$TerceroId][CodiPagoId] !== 'undefined' && typeof $FACTURA.FormaPago[$TerceroId][CodiPagoId]['fechacheq'] !== 'undefined')
-										? $FACTURA.FormaPago[$TerceroId][CodiPagoId]['fechacheq']
-										: (
-											(typeof $FACTURA.FormaPago[$TerceroId]['_' + CodiPagoId] !== 'undefined' && typeof $FACTURA.FormaPago[$TerceroId]['_' + CodiPagoId]['fechacheq'] !== 'undefined')
-												? $FACTURA.FormaPago[$TerceroId]['_' + CodiPagoId]['fechacheq']
-												: ''
-										)
-								);
-						}
-						if (manejcuotas != 'S') {
-							$('.alertify:not(.ajs-hidden) .divManejcuotas').addClass('d-none');
-						} else {
-							$('.alertify:not(.ajs-hidden) .divManejcuotas input').prop('required', true).inputmask('integer', {
-								rightAlign: false,
-								maxLength: 10,
-								allowPlus: false,
-								allowMinus: false
-							}).focus(function () {
-								var selfie = this;
-								setTimeout(function () {
-									$(selfie).select();
-								}, 0);
-							}).val(
-								(typeof $FACTURA.FormaPago[$TerceroId][CodiPagoId] !== 'undefined' && typeof $FACTURA.FormaPago[$TerceroId][CodiPagoId]['cuota'] !== 'undefined')
-									? $FACTURA.FormaPago[$TerceroId][CodiPagoId]['cuota']
-									: (
-										(typeof $FACTURA.FormaPago[$TerceroId]['_' + CodiPagoId] !== 'undefined' && typeof $FACTURA.FormaPago[$TerceroId]['_' + CodiPagoId]['cuota'] !== 'undefined')
-											? $FACTURA.FormaPago[$TerceroId]['_' + CodiPagoId]['cuota']
-											: '1'
-									)
-							)
-								.on('change', function () {
-									let cuotas = parseFloat($(this).val());
-									if (cuotas < 1) {
-										$(this).val(1);
-										alertify.warning('Número mínimo de cuotas: 1');
-									}
-								}).on("keyup", function () {
-									let cuotas = parseFloat($(this).val());
-									if (cuotas < 1) {
-										$(this).val(1);
-									}
-								});
-						}
-
-						$('.alertify:not(.ajs-hidden) .ajs-footer').addClass('d-none');
-					} else {
-						if (typeof $FACTURA.FormaPago[registro.TerceroId] == "undefined") {
-							$FACTURA.FormaPago[registro.TerceroId] = {};
-						}
-						$FACTURA.FormaPago[registro.TerceroId][registro.CodiPagoId] = registro;
-						$FACTURA.FrmPagoValor.push(registro);
-						dcto();
-
-						if (CambioPropina != true) {
-							if (("_" + propinaInfoVent != CambioPropina)) {
-								delete $FACTURA.FormaPago[$TerceroId][CambioPropina];
-							}
-						}
-
-						alertify.success('Propina aplicada satisfactoriamente');
-						CambioPropina = false;
-						var cb = selfieie.get('callback')
-						if (typeof cb === 'function') {
-							var returnValue = cb.call(selfieie, closeEvent);
-							if (typeof returnValue !== 'undefined') {
-								closeEvent.cancel = !returnValue;
-							}
-						}
-					}
-				} else {
-					$FACTURA.FrmPagoValor.push(registro);
-					if (typeof $FACTURA.FormaPago[registro.TerceroId] == "undefined") {
-						$FACTURA.FormaPago[registro.TerceroId] = {};
-					}
-					$FACTURA.FormaPago[registro.TerceroId][registro.CodiPagoId] = registro;
-					dcto();
-
-					if (CambioPropina != true) {
-						if (("_" + propinaInfoVent != CambioPropina)) {
-							delete $FACTURA.FormaPago[$TerceroId][CambioPropina];
-						}
-					}
-
-					CambioPropina = false;
-					var cb = selfieie.get('callback')
-					if (typeof cb === 'function') {
-						var returnValue = cb.call(selfieie, closeEvent);
-						if (typeof returnValue !== 'undefined') {
-							closeEvent.cancel = !returnValue;
-						}
-					}
-				}
+				
+				validarAnticipoParcial(true, dataPropina);
 
 			} else {
-				if (CambioPropina != false) {
+				if (CambioPropina != false && CambioPropina != '_80') {
 					actualizarFormasPago();
 					$('#ModalFormasPago').modal('toggle');
 				} else {
+					$PIE.Anticipo = $PIEORIGINAL.Anticipo;
 					$FACTURA.Propina = 0;
+					$FACTURA.PropinaAnticipo = 0;
 					dcto();
 				}
 			}
@@ -1168,25 +893,28 @@ function facturarFormasPago(efectivo = false, pendiente = false) {
 		if (typeof $FACTURA.FormaPago[$TerceroId] == "undefined") {
 			$FACTURA.FormaPago[$TerceroId] = {};
 		}
-		if (formaPago == '1') {
-			$FACTURA.FormaPago[$TerceroId]['1'] = {
-				CodiPagoId: '1'
-				, Nombre: 'EFECTIVO'
-				, Valor: entregado - $FACTURA.Propina
-			};
-		} else {
-			$FACTURA.FormaPago[$TerceroId]['22'] = {
-				CodiPagoId: '22'
-				, Nombre: 'CRÉDITO'
-				, Valor: entregado - $FACTURA.Propina
-			};
-			if ($CodiCredito.length > 0 && $CodiCredito[0].nombre != '') {
-				$FACTURA.FormaPago[$TerceroId]['22'].Nombre = $CodiCredito[0].nombre;
+		valueFormPago = entregado - $FACTURA.Propina - ($PIE.Anticipo);
+		if (valueFormPago > 0) {
+			if (formaPago == '1') {
+				$FACTURA.FormaPago[$TerceroId]['1'] = {
+					CodiPagoId: '1'
+					, Nombre: 'EFECTIVO'
+					, Valor: valueFormPago
+				};
+			} else {
+				$FACTURA.FormaPago[$TerceroId]['22'] = {
+					CodiPagoId: '22'
+					, Nombre: 'CRÉDITO'
+					, Valor: valueFormPago
+				};
+				if ($CodiCredito.length > 0 && $CodiCredito[0].nombre != '') {
+					$FACTURA.FormaPago[$TerceroId]['22'].Nombre = $CodiCredito[0].nombre;
+				}
 			}
 		}
 	}
 
-	//Copiamos el objecto original de facturary eliminar los datos basura que no se necesitan en el backend
+	//Copiamos el objecto original de facturar y eliminar los datos basura que no se necesitan en el backend
 	$FACTURAENV = copyObjectArray($FACTURA);
 	for (const propiedad in $FACTURAENV.FormaPago) {
 		for (const pagos in $FACTURAENV.FormaPago[propiedad]) {
@@ -1280,13 +1008,17 @@ function facturarFormasPago(efectivo = false, pendiente = false) {
 			, consumos: $consumos
 			, PIE: $PIE
 			, Productos: JSON.stringify((selecciones.length ? selecciones : $ESTADOCUENTA))
-			, extraRastreo: 'Vendedor ' + $VendedorId + ' Mesero ' + ($FACTURA.MeseroId || '')
+			, extraRastreo: ($datosIngreso === null ? ('Vendedor ' + $VendedorId + ' Mesero ' + ($FACTURA.MeseroId || '') + ($datosEvento === null ? "" : " Evento Nro " + $datosEvento.NroEvento)) : "Factura Ingresos")
 
 			, factElectronicaDirecta: $factElectronicaDirecta
 
 			, RASTREO: RASTREO('Factura Cuenta Tercero ' + $TerceroId + ($MesaId ? " Mesa " + $MesaId : ""), 'Facturación')
 
 			, rastreoFormasPagoTercero: JSON.stringify(rastreoFormasPagoTercero)
+
+			, eventoId: ($datosEvento === null ? null : $datosEvento.EventoId)
+
+			, datosIngreso: ($datosIngreso === null ? null : $datosIngreso)
 		},
 		success: function (res) {
 			if (res.success) {
@@ -1308,6 +1040,10 @@ function facturarFormasPago(efectivo = false, pendiente = false) {
 								Entregado Cliente:
 								<input type="text" class="form-control form-control-lg text-right font-weight-lighter text-secondary" style="font-size: 2rem !important;height: 3rem;" value="$ `+ addCommas2(entregado, 0) + `" readonly="">
 							`;
+						}
+
+						if (res.ingreso === true) {
+							strAlerta += `<br><br>Se realiza el ingreso: <br> ${res.sociosHTML}`;
 						}
 
 						alertify.alert('Factura: ' + registro[1], strAlerta, function () {
@@ -1421,8 +1157,18 @@ function dcto(porcentaje = false, valor = false) {
 	var valorSN = 0;
 	var TotalCantidad = 0;
 	var IvaDescuen = 0;
+	var OtrosImpuestos = 0;
 	var Dcto = 0;
 	var totalItems = (selecciones.length ? selecciones.length : $ESTADOCUENTA.length);
+	var porcentPeso = 0;
+	var valorProd = 0;
+	var vTotal = 0;
+	let Iva = 0;
+	var totalPagar = 0;
+	$RF = 0;
+	$RI = 0;
+	$RC = 0;
+	$IM = 0;
 
 	(selecciones.length ? selecciones : $ESTADOCUENTA).forEach(it => {
 		valorTotal += parseFloat(it.ValorTotal);
@@ -1465,12 +1211,8 @@ function dcto(porcentaje = false, valor = false) {
 		porcentaje = redondear(porcentaje);
 	}
 
-	var porcentPeso = 0;
-	var valorProd = 0;
-	var vTotal = 0;
-	let Iva;
-
 	(selecciones.length ? selecciones : $ESTADOCUENTA).forEach(it => {
+		let ImpuestoProd = 0;
 
 		it.DescuProdu = parseFloat(it.DescuProdu);
 		vTotal = parseFloat(it.ValorTotal) + it.DescuProdu;
@@ -1480,17 +1222,33 @@ function dcto(porcentaje = false, valor = false) {
 		Iva = it.IvaId / 100;
 		it.descupiefa = (valor * porcentPeso) / 100;
 		it.Descuento = redondear((it.DescuProdu + it.descupiefa));
-		it.IvaDescuen = redondear((it.Descuento / (Iva + 1) * Iva));
+		
+		it.PorceImpue = redondear(it.PorceImpue);
+		it.Impuesto = redondear(it.Impuesto);
 		valorProd = (redondear((vTotal - it.descupiefa)) - it.DescuProdu);
 		it.PorceDescu = porcentaje;
 
 		$(`.p${it.Id}`).find(`.pTotal`).text(addCommas2(valorProd, 2));
 		$(`.p${it.Id}`).find(`.descuProdu`).text(addCommas2(it.DescuProdu, 2));
 		
-		it.Iva = redondear((valorProd / (Iva + 1) * Iva));
+		if (it.PorceImpue > 0) {
+			it.Impuesto = (valorProd / (1 + ((it.IvaId + it.PorceImpue) / 100)) * it.PorceImpue / 100);
+			it.Iva = (valorProd / (1 + ((it.IvaId + it.PorceImpue) / 100)) * it.IvaId / 100);
+			it.IvaDescuen = (it.Descuento / (1 + ((it.IvaId + it.PorceImpue) / 100)) * (it.IvaId + it.PorceImpue) / 100);
+			ImpuestoProd = redondear(it.Impuesto);
+		} else {
+			it.Iva = ((valorProd - (it.Impuesto * it.Cantidad)) / (1 + (it.IvaId / 100)) * it.IvaId / 100);
+			it.IvaDescuen = (it.Descuento / (1 + (it.IvaId / 100)) * it.IvaId / 100);
+			ImpuestoProd = redondear(it.Impuesto * it.Cantidad);
+		}
+		
+		OtrosImpuestos += ImpuestoProd;
+		it.Impuesto = redondear(it.Impuesto);
+		it.Iva = redondear(it.Iva);
+		//it.IvaDescuen = redondear((it.Descuento / (Iva + 1) * Iva));
 		it.Valor = redondear(valorProd + it.Descuento);
 		it.descupiefa = redondear(it.descupiefa);
-		valorAnteIva += (valorProd - it.Iva);
+		valorAnteIva += (valorProd - it.Iva - ImpuestoProd);
 		Dcto += it.DescuProdu;
 
 		IvaDescuen += it.IvaDescuen;
@@ -1503,33 +1261,29 @@ function dcto(porcentaje = false, valor = false) {
 
 		//Guardamos la base gravada y la base exenta 
 		if (it.IvaId != 0) {
-			valorBaseGravada += (valorProd / (Iva + 1));
+			valorBaseGravada += (valorProd - (valorProd != 0 ? (it.Iva + it.Impuesto * (it.PorceImpue > 0 ? 1 : it.Cantidad)) : 0));
 		} else {
-			valorBase += (valorProd / (Iva + 1));
+			valorBase += (valorProd - (valorProd != 0 ? (it.Impuesto * (it.PorceImpue > 0 ? 1 : it.Cantidad)) : 0));
 		}
 	});
 
+	$PIE.OtrosImpuestos = redondear(OtrosImpuestos);
 	$PIE.IVA = valorIVA;
 	$PIE.ImpoConsumo = valorImpocConsumo;
 
-	var totalPagar = valorTotal - valor;
+	totalPagar = valorTotal - valor;
 	$PIE.BaseGravada = valorBaseGravada;
 	$PIE.Base = valorBase;
 
 	$PIE.AntesIVA = valorAnteIva;
 	$PIE.IvaDescuen = IvaDescuen;
-	$PIE.SubTotal = valorSN - ($PIE.IVA + $PIE.ImpoConsumo + $PIE.IvaDescuen);
+	$PIE.SubTotal = valorSN - ($PIE.IVA + $PIE.ImpoConsumo + $PIE.IvaDescuen + $PIE.OtrosImpuestos);
 	$PIE.DctoPie = parseFloat(valor);
 	$PIE.DctoProds = Dcto;
 	$PIE.TotalDescuento = $PIE.DctoPie + Dcto;
 	$PIE.TotalFacturado = valorTotal - $PIE.DctoPie;
 
 	////////////////////////////////////////
-	$RF = 0;
-	$RI = 0;
-	$RC = 0;
-	$IM = 0;
-
 	let base = $PIE.BaseGravada + $PIE.Base;
 
 	$PIE.ReteFuente = 0;
@@ -1561,6 +1315,7 @@ function dcto(porcentaje = false, valor = false) {
 
 	if (typeof $FACTURA.Propina === "undefined" || isNaN($FACTURA.Propina)) {
 		$FACTURA.Propina = 0;
+		$FACTURA.PropinaAnticipo = 0;
 	}
 
 	$PIE.TotalPagar = totalPagar;
@@ -1575,19 +1330,14 @@ function dcto(porcentaje = false, valor = false) {
 
 	TotalPagarFPago -= $FACTURA.Propina;
 
-	$PIE.TotalPagar -= $PIEORIGINAL.Anticipo;
+	//$PIE.TotalPagar -= $PIE.Anticipo;
 
-	if ($PIE.TotalPagar < 0) {
-		$PIE.TotalPagar = 0;
-	}
+	if ($PIE.TotalPagar < 0) $PIE.TotalPagar = 0;
 
-	TotalPagarFPago -= $PIEORIGINAL.Anticipo;
+	//TotalPagarFPago -= $PIE.Anticipo;
 
-	if (TotalPagarFPago < 0) {
-		TotalPagarFPago = 0;
-	}
+	if (TotalPagarFPago < 0) TotalPagarFPago = 0;
 
-	$PIE.OtrosImpuestos = $PIEORIGINAL.OtrosImpuestos;
 	$PIE.AutoRetenciones = $PIEORIGINAL.AutoRetenciones;
 	$PIE.TotalCantidad = TotalCantidad;
 	$PIE.Peso = $PIEORIGINAL.Peso;
@@ -1612,7 +1362,12 @@ function dcto(porcentaje = false, valor = false) {
 	$('#inputAntesIVA').val($PIE.AntesIVA);
 	$('#inputPeso').val($PIE.Peso);
 	$('#inputTotalFacturado').val($PIE.TotalFacturado);
-	$('#inputTotalPagar').val($PIE.TotalPagar);
+
+	if ($PIE.facturacionParcial) {
+		$('#inputTotalPagar').val($PIE.TotalPagar);
+	} else {
+		$('#inputTotalPagar').val(($PIE.Anticipo > $PIE.TotalPagar) ? 0 : ($PIE.TotalPagar - $PIE.Anticipo));
+	}
 
 	$('#frmFormaPendiente, #frmValorPendiente').val(TotalPagarFPago);
 	$('#frmTotalPagar, #frmValorfrmValor').val($PIE.TotalPagar);
@@ -1998,14 +1753,22 @@ function redondear(num) {
 function redireccionImprimir(data) {
 	sessionStorage.removeItem('PFD');
 	sessionStorage.removeItem('dataPos');
-	if ($AlmacenNoFisico == 'S') {
-		if (accesoModulo == 'otras-ventas') {
-			location.href = base_url() + 'Administrativos/Servicios/PanelPrincipal';
+	if ($datosEvento === null && ($datosIngreso === null || $datosIngreso === '')) {
+		if ($AlmacenNoFisico == 'S') {
+			if (accesoModulo == 'otras-ventas') {
+				location.href = base_url() + 'Administrativos/Servicios/PanelPrincipal';
+			} else {
+				location.href = base_url() + 'Administrativos/Servicios/VistaGeneral/Mesas/' + $almacenOriginal;
+			}
 		} else {
-			location.href = base_url() + 'Administrativos/Servicios/VistaGeneral/Mesas/' + $almacenOriginal;
+			location.href = base_url() + 'Administrativos/Servicios/VistaGeneral/Mesas/' + $AlmacenId;
 		}
 	} else {
-		location.href = base_url() + 'Administrativos/Servicios/VistaGeneral/Mesas/' + $AlmacenId;
+		if (($datosIngreso === null || $datosIngreso === '')) {
+			location.href = base_url() + 'Administrativos/Servicios/PanelPrincipal';
+		} else {
+			location.href = base_url() + 'Administrativos/Recepcion/Ingreso';
+		}
 	}
 }
 
@@ -2013,6 +1776,409 @@ function redireccionCortesia() {
 	sessionStorage.removeItem('PFD');
 	location.href = base_url() + 'Administrativos/Servicios/VistaGeneral/Mesas/' + $AlmacenId;
 }
+
+const cruceAnticipo = (propina = 0) => {
+	let copiaPIE = copyObjectArray($PIE);
+	if (copiaPIE.Anticipo > 0 && CruzaAnticipo == true) {
+		if (typeof $FACTURA.FormaPago[$TerceroId] == "undefined") {
+			$FACTURA.FormaPago[$TerceroId] = {};
+		}
+
+		valorCruce = (copiaPIE.Anticipo >= $PIE.TotalPagar ? $PIE.TotalPagar : copiaPIE.Anticipo);
+		restanteCruce = (copiaPIE.Anticipo - valorCruce);
+
+		$FACTURA.FormaPago[$TerceroId]['80'] = {
+			CodiPagoId: '80'
+			, Nombre: "Cruce Automático de Anticipos"
+			, Valor: valorCruce
+		};
+
+		valuePropina = parseFloat(propina);
+		if (isNaN(valuePropina)) {
+			valuePropina = 0.00;
+		}
+
+		valorCrucePropina = 0;
+		if (restanteCruce > 0 && valuePropina > 0) {
+			valorCrucePropina = (restanteCruce >= valuePropina ? valuePropina : restanteCruce);
+
+			propina = valuePropina - valorCrucePropina;
+
+			$FACTURA.FormaPago[$TerceroId]['_80'] = {
+				CodiPagoId: '_80'
+				,Nombre: "Cruce Automático de Anticipos (PROPINA)"
+				,Valor: valorCrucePropina
+				,Automatico: true 
+			};
+
+			$FACTURA.PropinaAnticipo = valorCrucePropina;
+		}
+
+		$PIE.Anticipo = (valorCruce + valorCrucePropina);
+	}
+	CruzaAnticipo = false;
+
+	return propina;
+}
+
+function validarAnticipoParcial(conPropina = false, dataPropina = null) {
+	if (CruzaAnticipo == true) {
+		if ($PIE.Anticipo > 0 && $PIE.facturacionParcial == true) {
+			alertify.confirm(
+				"Advertencia",
+				`Actualemente tiene un valor de <b>$ ${addCommas2($PIE.Anticipo)}</b>. <br> Quiere realizar cruce de anticipo?`,
+				() => {
+					if (conPropina == true) {
+						validacionAnticipoPropina(dataPropina.value, dataPropina.selfieie, dataPropina.closeEvent, dataPropina.propinaInfoVent, dataPropina.propinaNombre);
+					} else {
+						cruceAnticipo();
+						window.scrollTo(0, document.body.scrollHeight);
+						setTimeout(function () {
+							$('#inputEntregado').removeAttr('readonly').val($PIE.TotalPagar).select();
+						}, 0);
+						if (formaPago == '22') {$('#inputEntregado').focusout();}
+					}
+				},
+				() => {
+					$PIE.Anticipo = 0;
+					if (conPropina == true) {
+						validacionAnticipoPropina(dataPropina.value, dataPropina.selfieie, dataPropina.closeEvent, dataPropina.propinaInfoVent, dataPropina.propinaNombre);
+					} else {
+						cruceAnticipo();
+						window.scrollTo(0, document.body.scrollHeight);
+						setTimeout(function () {
+							$('#inputEntregado').removeAttr('readonly').val($PIE.TotalPagar).select();
+						}, 0);
+						if (formaPago == '22') {$('#inputEntregado').focusout();}
+					}
+				}
+			).set('labels', {ok: 'Aceptar', cancel: 'Cancelar'});
+		} else {
+			if (conPropina == true) {
+				validacionAnticipoPropina(dataPropina.value, dataPropina.selfieie, dataPropina.closeEvent, dataPropina.propinaInfoVent, dataPropina.propinaNombre);
+			} else {
+				cruceAnticipo();
+				window.scrollTo(0, document.body.scrollHeight);
+				setTimeout(function () {
+					$('#inputEntregado').removeAttr('readonly').val($PIE.TotalPagar).select();
+				}, 0);
+				if (formaPago == '22') {$('#inputEntregado').focusout();}
+			}
+		}
+	} else {
+		if (conPropina == true) {
+			validacionAnticipoPropina(dataPropina.value, dataPropina.selfieie, dataPropina.closeEvent, dataPropina.propinaInfoVent, dataPropina.propinaNombre);
+		} else {
+			cruceAnticipo();
+		}
+	}
+} 
+
+function validacionAnticipoPropina(value, selfieie, closeEvent, propinaInfoVent, propinaNombre){
+	value = cruceAnticipo(value);
+
+	if (value == '') {
+		$FACTURA.Propina = 0;
+		dcto();
+		if (CambioPropina != false && CambioPropina != '_80') {
+			delete $FACTURA.FormaPago[$TerceroId][CambioPropina];
+		}
+
+		var cb = selfieie.get('callback')
+		CambioPropina = false;
+		if (typeof cb === 'function') {
+			var returnValue = cb.call(selfieie, closeEvent);
+			if (typeof returnValue !== 'undefined') {
+				closeEvent.cancel = !returnValue;
+			}
+		}
+
+		return false;
+	}
+
+	value = parseFloat(value);
+	if (isNaN(value)) {
+		value = 0.00;
+	}
+	$FACTURA.Propina = value;
+
+	if (value > 0) {
+		if (typeof $FACTURA.FormaPago[$TerceroId] == "undefined") {
+			$FACTURA.FormaPago[$TerceroId] = {};
+		}
+		$FACTURA.FormaPago[$TerceroId]['_' + propinaInfoVent] = {
+			CodiPagoId: '_' + propinaInfoVent
+			, Nombre: propinaNombre + ' (PROPINA)'
+			, Valor: 0
+			, Propina: value
+		};
+
+		let foto = '';
+
+		$.ajax({
+			url: base_url() + "Administrativos/Servicios/EstadoCuenta/CargarForanea",
+			type: 'POST',
+			data: {
+				tabla: "Tercero",
+				value: $TerceroId.trim(),
+				nombre: "terceroid",
+				tblNombre: "nombre"
+			},
+			async: false,
+			dataType: "json",
+			success: function (respuesta) {
+				if (respuesta[0]['foto'] != null) {
+					foto = `<img class="p-1 w-100" alt="" style="object-fit: scale-down;" src="data:image/jpeg;base64,` + respuesta[0]['foto'] + `" height="100px">`;
+				}
+			}
+		});
+
+		var registro = {
+			'0': '<span class="w-100 d-block p-1 mb-0">' + $TerceroId.trim() + '</span>' + foto
+			, '1': '<span class="w-100 d-block p-1">' + $ENCABEZADO.nombre + '</span>'
+			, '2': '<span class="w-100 d-block p-1">' + addCommas2(value, 2) + '</span>'
+			, '3': '<span class="w-100 d-block p-1">' + propinaNombre + ' (PROPINA)' + '</span>'
+			, '4': `<center>
+					<div class="btn-group btn-group-sm m-2">
+						<button type="button" class="editarFrmPago btn btn-info">
+							<span class="fas fa-pen" title="Editar"></span>
+						</button>
+						<button type="button" class="guardarTercero btn btn-success d-none" disabled>
+							<span class="fas fa-check" title="Guardar Tercero"></span>
+						</button>
+					</div>
+				</center>`
+			, '5': ''
+			, '6': ''
+			, Id: FrmPagoValorId
+			, TerceroId: $TerceroId.trim()
+			, Valor: value
+			, CodiPagoId: '_' + propinaInfoVent
+			, Nombre: propinaNombre + ' (PROPINA)'
+		}
+		FrmPagoValorId++;
+
+		let optionsita = $('#propinaInfoVent option:selected');
+
+		var CodiPagoId = $(optionsita).val();
+		var nombre = $(optionsita).text().trim();
+
+		let validacionFormaPago = false;
+
+		let manejcentr = $(optionsita).data('manejcentr');
+		let manejnumer = $(optionsita).data('manejnumer');
+		let fechadocum = $(optionsita).data('fechadocum');
+		let manejcuotas = $(optionsita).data('manejcuotas');
+
+		if (manejcentr == 'S' || manejnumer == 'S' || fechadocum == 'S' || manejcuotas == 'S') {
+			validacionFormaPago = true;
+		}
+
+		if (validacionFormaPago) {
+			alertify.alert(
+				nombre,
+				'',
+				function () {
+					let FormaPagoTMP = {
+						CodiPagoId: '_' + propinaInfoVent
+						, Nombre: propinaNombre + ' (PROPINA)'
+						, Valor: 0
+						, Propina: value
+					};
+
+					if (manejcentr == 'S') {
+						if ($('.alertify:not(.ajs-hidden) .divBancos select').val() != null) {
+							FormaPagoTMP.bancoid = $('.alertify:not(.ajs-hidden) .divBancos select').val().trim();
+							registro.bancoid = FormaPagoTMP.bancoid;
+						} else {
+							return;
+						}
+
+					}
+					if (manejnumer == 'S') {
+						if ($('.alertify:not(.ajs-hidden) .divDocumento input').val() != null) {
+							FormaPagoTMP.numerdocum = $('.alertify:not(.ajs-hidden) .divDocumento input').val().trim();
+							registro.numerdocum = FormaPagoTMP.numerdocum;
+						} else {
+							return;
+						}
+					}
+					if (fechadocum == 'S') {
+						if ($('.alertify:not(.ajs-hidden) .divFechaDocum input').val() != null) {
+							FormaPagoTMP.fechacheq = $('.alertify:not(.ajs-hidden) .divFechaDocum input').val().trim();
+							registro.fechacheq = FormaPagoTMP.fechacheq;
+						} else {
+							return;
+						}
+					}
+					if (manejcuotas == 'S') {
+						if ($('.alertify:not(.ajs-hidden) .divManejcuotas input').val() != null) {
+							FormaPagoTMP.cuota = $('.alertify:not(.ajs-hidden) .divManejcuotas input').val().trim();
+							registro.cuota = FormaPagoTMP.cuota;
+						} else {
+							return;
+						}
+					}
+
+					$FACTURA.FormaPago[$TerceroId]['_' + CodiPagoId] = FormaPagoTMP;
+					$FACTURA.FrmPagoValor.push(registro);
+
+					dcto();
+					alertify.success('Propina aplicada satisfactoriamente');
+
+					$('.alertify:not(.ajs-hidden) .ajs-content').html('');
+
+					if (CambioPropina != false) {
+						if (("_" + propinaInfoVent != CambioPropina)) {
+							delete $FACTURA.FormaPago[$TerceroId][CambioPropina];
+						}
+					}
+
+					var cb = selfieie.get('callback')
+					CambioPropina = false;
+					if (typeof cb === 'function') {
+						var returnValue = cb.call(selfieie, closeEvent);
+						if (typeof returnValue !== 'undefined') {
+							closeEvent.cancel = !returnValue;
+						}
+					}
+				}
+			);
+
+			$('.DivFormasPago').clone().appendTo('.alertify:not(.ajs-hidden) .ajs-content').removeClass('d-none').on('submit', function (e) {
+				e.preventDefault();
+				$('.alertify:not(.ajs-hidden) .ajs-footer button').click();
+			})
+
+			if (manejcentr != 'S') {
+				$('.alertify:not(.ajs-hidden) .divBancos').addClass('d-none');
+			} else {
+				$('.alertify:not(.ajs-hidden) .divBancos select').prop('required', true).val(
+					(typeof $FACTURA.FormaPago[$TerceroId][CodiPagoId] !== 'undefined' && typeof $FACTURA.FormaPago[$TerceroId][CodiPagoId]['bancoid'] !== 'undefined')
+						? $FACTURA.FormaPago[$TerceroId][CodiPagoId]['bancoid']
+						: (
+							(typeof $FACTURA.FormaPago[$TerceroId]['_' + CodiPagoId] !== 'undefined' && typeof $FACTURA.FormaPago[$TerceroId]['_' + CodiPagoId]['bancoid'] !== 'undefined')
+								? $FACTURA.FormaPago[$TerceroId]['_' + CodiPagoId]['bancoid']
+								: ''
+						)
+				)
+			}
+			if (manejnumer != 'S') {
+				$('.alertify:not(.ajs-hidden) .divDocumento').addClass('d-none');
+			} else {
+				$('.alertify:not(.ajs-hidden) .divDocumento input').prop('required', true).val(
+					(typeof $FACTURA.FormaPago[$TerceroId][CodiPagoId] !== 'undefined' && typeof $FACTURA.FormaPago[$TerceroId][CodiPagoId]['numerdocum'] !== 'undefined')
+						? $FACTURA.FormaPago[$TerceroId][CodiPagoId]['numerdocum']
+						: (
+							(typeof $FACTURA.FormaPago[$TerceroId]['_' + CodiPagoId] !== 'undefined' && typeof $FACTURA.FormaPago[$TerceroId]['_' + CodiPagoId]['numerdocum'] !== 'undefined')
+								? $FACTURA.FormaPago[$TerceroId]['_' + CodiPagoId]['numerdocum']
+								: ''
+						)
+				)
+			}
+			if (fechadocum != 'S') {
+				$('.alertify:not(.ajs-hidden) .divFechaDocum').addClass('d-none');
+			} else {
+				$('.alertify:not(.ajs-hidden) .divFechaDocum input').prop('required', true)
+					.datetimepicker({
+						format: 'YYYY-MM-DD',
+						locale: 'es'
+					}).val(
+						(typeof $FACTURA.FormaPago[$TerceroId][CodiPagoId] !== 'undefined' && typeof $FACTURA.FormaPago[$TerceroId][CodiPagoId]['fechacheq'] !== 'undefined')
+							? $FACTURA.FormaPago[$TerceroId][CodiPagoId]['fechacheq']
+							: (
+								(typeof $FACTURA.FormaPago[$TerceroId]['_' + CodiPagoId] !== 'undefined' && typeof $FACTURA.FormaPago[$TerceroId]['_' + CodiPagoId]['fechacheq'] !== 'undefined')
+									? $FACTURA.FormaPago[$TerceroId]['_' + CodiPagoId]['fechacheq']
+									: ''
+							)
+					);
+			}
+			if (manejcuotas != 'S') {
+				$('.alertify:not(.ajs-hidden) .divManejcuotas').addClass('d-none');
+			} else {
+				$('.alertify:not(.ajs-hidden) .divManejcuotas input').prop('required', true).inputmask('integer', {
+					rightAlign: false,
+					maxLength: 10,
+					allowPlus: false,
+					allowMinus: false
+				}).focus(function () {
+					var selfie = this;
+					setTimeout(function () {
+						$(selfie).select();
+					}, 0);
+				}).val(
+					(typeof $FACTURA.FormaPago[$TerceroId][CodiPagoId] !== 'undefined' && typeof $FACTURA.FormaPago[$TerceroId][CodiPagoId]['cuota'] !== 'undefined')
+						? $FACTURA.FormaPago[$TerceroId][CodiPagoId]['cuota']
+						: (
+							(typeof $FACTURA.FormaPago[$TerceroId]['_' + CodiPagoId] !== 'undefined' && typeof $FACTURA.FormaPago[$TerceroId]['_' + CodiPagoId]['cuota'] !== 'undefined')
+								? $FACTURA.FormaPago[$TerceroId]['_' + CodiPagoId]['cuota']
+								: '1'
+						)
+				)
+					.on('change', function () {
+						let cuotas = parseFloat($(this).val());
+						if (cuotas < 1) {
+							$(this).val(1);
+							alertify.warning('Número mínimo de cuotas: 1');
+						}
+					}).on("keyup", function () {
+						let cuotas = parseFloat($(this).val());
+						if (cuotas < 1) {
+							$(this).val(1);
+						}
+					});
+			}
+
+			$('.alertify:not(.ajs-hidden) .ajs-footer').addClass('d-none');
+		} else {
+			if (typeof $FACTURA.FormaPago[registro.TerceroId] == "undefined") {
+				$FACTURA.FormaPago[registro.TerceroId] = {};
+			}
+			$FACTURA.FormaPago[registro.TerceroId][registro.CodiPagoId] = registro;
+			$FACTURA.FrmPagoValor.push(registro);
+			dcto();
+
+			if (CambioPropina != true && CambioPropina != "_80") {
+				if (("_" + propinaInfoVent != CambioPropina)) {
+					delete $FACTURA.FormaPago[$TerceroId][CambioPropina];
+				}
+			}
+
+			alertify.success('Propina aplicada satisfactoriamente');
+			CambioPropina = false;
+			var cb = selfieie.get('callback')
+			if (typeof cb === 'function') {
+				var returnValue = cb.call(selfieie, closeEvent);
+				if (typeof returnValue !== 'undefined') {
+					closeEvent.cancel = !returnValue;
+				}
+			}
+		}
+	} else {
+		$FACTURA.FrmPagoValor.push(registro);
+		if (typeof $FACTURA.FormaPago[registro.TerceroId] == "undefined") {
+			$FACTURA.FormaPago[registro.TerceroId] = {};
+		}
+		$FACTURA.FormaPago[registro.TerceroId][registro.CodiPagoId] = registro;
+		dcto();
+
+		if (CambioPropina != true && CambioPropina != '_80') {
+			if (("_" + propinaInfoVent != CambioPropina)) {
+				delete $FACTURA.FormaPago[$TerceroId][CambioPropina];
+			}
+		}
+
+		CambioPropina = false;
+		var cb = selfieie.get('callback')
+		if (typeof cb === 'function') {
+			var returnValue = cb.call(selfieie, closeEvent);
+			if (typeof returnValue !== 'undefined') {
+				closeEvent.cancel = !returnValue;
+			}
+		}
+	}
+}
+
 
 function alertasFacturacionElectronica($init = false) {
 	if ($obligaElectronica == false && $Montaje.UVTsFE > 0 && $Montaje.ValorUVT > 0 && $TipoVentaSeleccionado.FacturaElectronica != 'S') {
@@ -2066,8 +2232,8 @@ $(function () {
 	$('#vendedor input').val($ENCABEZADO.VendedorId);
 	$('#vendedor span').text($ENCABEZADO.Vendedor);
 
-	$('#mesero input').val($ENCABEZADO.VendedorId);
-	$('#mesero span').text($ENCABEZADO.Vendedor);
+	$('#mesero input').val($FACTURA.MeseroId);
+	$('#mesero span').text($FACTURA.Mesero);
 
 	$('#inputDireccion').val($ENCABEZADO.Direccion);
 	$('#inputReserva').val($ENCABEZADO.Reserva);
@@ -3093,7 +3259,7 @@ $(function () {
 				$('#ModalFormasPago').modal('toggle');
 			}).set('selector', 'input[id="propinaInput"]');
 
-			if (CambioPropina == '__' || CambioPropina == false) {
+			if (CambioPropina == '__' || CambioPropina == false || CambioPropina == '_80') {
 				$('#propinaFrm:eq(0)').find('#propinaInfoVent').val($('#propinaFrm:eq(0)').find('#propinaInfoVent option:not(.d-none):eq(0)').val());
 			} else {
 				$('#propinaFrm:eq(0)').find('#propinaInfoVent').val(CambioPropina.replace("_", ""));
@@ -3128,6 +3294,7 @@ $(function () {
 		for (var k in $FACTURA.FormaPago[$TerceroId]) {
 			total = parseFloat(total) + parseFloat($FACTURA.FormaPago[$TerceroId][k].Valor) + ('Propina' in $FACTURA.FormaPago[$TerceroId][k] ? $FACTURA.FormaPago[$TerceroId][k].Propina : 0);
 		}
+
 		var faltante = parseFloat($PIE.TotalPagar) - parseFloat(total);
 
 		alertify.prompt(nombre, 'Especifique Valor a Cancelar:', (typeof $FACTURA.FormaPago[$TerceroId][CodiPagoId] !== 'undefined' ? $FACTURA.FormaPago[$TerceroId][CodiPagoId].Valor : faltante)
@@ -3348,9 +3515,13 @@ $(function () {
 	$('#btnEfectivo').click(function (e) {
 		e.preventDefault();
 		if ($PIE.TotalPagar > 0) {
+			$PIE.TotalPagar = $PIE.TotalPagar - $FACTURA.Propina;
 			$FACTURA.FormaPago = {};
 			$FACTURA.FrmPagoValor = [];
+			$FACTURA.PropinaAnticipo = 0;
+			$PIE.Anticipo = $PIEORIGINAL.Anticipo;
 			var PropinaTarifa = parseFloat($CodiVentIdHotel.PropinaTarifa);
+			CruzaAnticipo = true;
 			if ($CodiVentIdHotel.Propina == 'S' && PropinaTarifa >= 0) {
 				$FACTURA.Propina = ($PIE.AntesIVA * PropinaTarifa) / 100;
 				//$FACTURA.Propina = (($PIE.TotalFacturado / (1 + PropinaTarifa) * PropinaTarifa)) / 10 //((PropinaTarifa / 100) + 1)) / 10);
@@ -3372,11 +3543,8 @@ $(function () {
 	
 				$('#propinaFrm:eq(0)').find('#propinaInfoVent').val('1').prop('disabled', true);
 			} else {
-				window.scrollTo(0, document.body.scrollHeight);
-				setTimeout(function () {
-					$('#inputEntregado').removeAttr('readonly').val($PIE.TotalPagar).select();
-				}, 0);
 				formaPago = '1';
+				validarAnticipoParcial();
 			}
 		} else {
 			alertify.alert("Advertencia", "El valor total de la factura debe ser superior a cero.");
@@ -3389,6 +3557,9 @@ $(function () {
 			$FACTURA.FormaPago = {};
 			$FACTURA.FrmPagoValor = [];
 			var PropinaTarifa = parseFloat($CodiVentIdHotel.PropinaTarifa);
+			$FACTURA.PropinaAnticipo = 0;
+			$PIE.Anticipo = $PIEORIGINAL.Anticipo;
+			CruzaAnticipo = true;
 			if ($CodiVentIdHotel.Propina == 'S' && PropinaTarifa > 0) {
 				$FACTURA.Propina = ($PIE.AntesIVA * PropinaTarifa) / 100;
 				//$FACTURA.Propina = (($PIE.TotalFacturado / (1 + PropinaTarifa) * PropinaTarifa)) / 10 //((PropinaTarifa / 100) + 1)) / 10);
@@ -3455,9 +3626,13 @@ $(function () {
 	$('#btnCredito').click(function (e) {
 		e.preventDefault();
 		if ($PIE.TotalPagar > 0) { 
+			$PIE.TotalPagar = $PIE.TotalPagar - $FACTURA.Propina;
 			$FACTURA.FormaPago = {};
 			$FACTURA.FrmPagoValor = [];
+			$FACTURA.PropinaAnticipo = 0;
+			$PIE.Anticipo = $PIEORIGINAL.Anticipo;
 			var PropinaTarifa = parseFloat($CodiVentIdHotel.PropinaTarifa);
+			CruzaAnticipo = true;
 			if ($CodiVentIdHotel.Propina == 'S' && PropinaTarifa >= 0) {
 				$FACTURA.Propina = ($PIE.AntesIVA * PropinaTarifa) / 100;
 				//$FACTURA.Propina = (($PIE.TotalFacturado / (1 + PropinaTarifa) * PropinaTarifa)) / 10 //((PropinaTarifa / 100) + 1)) / 10);
@@ -3479,12 +3654,8 @@ $(function () {
 				}).set('selector', 'input[id="propinaInput"]');
 				$('#propinaFrm:eq(0)').find('#propinaInfoVent').val('22').prop('disabled', true);
 			} else {
-				window.scrollTo(0, document.body.scrollHeight);
-				setTimeout(function () {
-					$('#inputEntregado').removeAttr('readonly').val($PIE.TotalPagar).select();
-				}, 0);
 				formaPago = '22';
-				$('#inputEntregado').focusout();
+				validarAnticipoParcial();	
 			}
 		} else {
 			alertify.alert("Advertencia", "El valor total de la factura debe ser superior a cero.");
@@ -3493,10 +3664,14 @@ $(function () {
 
 	$('#btnFormasPago').click(function (e) {
 		e.preventDefault();
-		if ($PIE.TotalPagar > 0) {  
+		if ($PIE.TotalPagar > 0) { 
+			$PIE.TotalPagar = $PIE.TotalPagar - $FACTURA.Propina; 
 			$FACTURA.FormaPago = {};
 			$FACTURA.FrmPagoValor = [];
+			$FACTURA.PropinaAnticipo = 0;
+			$PIE.Anticipo = $PIEORIGINAL.Anticipo;
 			var PropinaTarifa = parseFloat($CodiVentIdHotel.PropinaTarifa);
+			CruzaAnticipo = true;
 			if ($CodiVentIdHotel.Propina == 'S' && PropinaTarifa >= 0) {
 				CambioPropina = false;
 				$FACTURA.Propina = ($PIE.AntesIVA * PropinaTarifa) / 100;
@@ -3509,18 +3684,26 @@ $(function () {
 				}
 	
 				alertify.propinaAlert($('#propinaFrm')[0], function () {
-					setTimeout(() => {
-						actualizarFormasPago();
-					}, 0);
-	
-					alertify.success('Forma de Pago almacenada satisfactoriamente');
-					dcto();
-	
-					$('#ModalFormasPago').modal('toggle');
+					if ($PIE.Anticipo >= $PIE.TotalPagar) {
+						$('#inputTotalPagar').val($PIE.TotalPagar);
+						$('#inputEntregado').removeAttr('readonly').val($PIE.TotalPagar);
+						$('#inputEntregado').select().change();
+					} else {
+						setTimeout(() => {
+							actualizarFormasPago();
+						}, 0);
+		
+						alertify.success('Forma de Pago almacenada satisfactoriamente');
+						dcto();
+		
+						$('#ModalFormasPago').modal('toggle');
+					}
 				}).set('selector', 'input[id="propinaInput"]');
 	
 				$('#propinaFrm:eq(0)').find('#propinaInfoVent').val("_").removeClass("d-none");
 			} else {
+				cruceAnticipo();
+				actualizarFormasPago();
 				$('#ModalFormasPago').modal('toggle');
 			}
 		} else {
@@ -3562,7 +3745,7 @@ $(function () {
 		if (total < $PIE.TotalPagar) {
 			alertify.alert('Advertencia', 'Debe regresar y cancelar según el total', function () { });
 		} else if (total > $PIE.TotalPagar) {
-			let msg = 'El valor cancelado es mayor al de la factura'
+			let msg = 'El valor cancelado es mayor al de la factura';
 
 			if ($CodiVentIdHotel.MostrarCambioCliente == "S") {
 				msg += ', ¿Desea registrar cambio para el cliente?';
@@ -3609,7 +3792,13 @@ $(function () {
 					facturarFormasPago(true);
 				}, function () {
 					$('#inputEntregado').val(0).attr('readonly', true);
+					$PIE.TotalPagar = $PIE.TotalPagar - $FACTURA.Propina;
+					$PIE.Anticipo = $PIEORIGINAL.Anticipo;
 					$FACTURA.Propina = 0;
+					$FACTURA.PropinaAnticipo = 0;
+					$FACTURA.FormaPago = {};
+					$FACTURA.CortesiaId = null;
+					CruzaAnticipo = false;
 					dcto();
 				});
 			} else {
@@ -3783,42 +3972,51 @@ $(function () {
 			sessionStorage.setItem('dataPos', $.Encriptar(datos));
 			location.href = $PaginaAnterior;
 		} else {
+			let cambio = `Cancela Factura Cuenta Tercero ${$TerceroId}`;
+			if ($datosEvento !== null) {
+				cambio += ` del Evento Nro ${$datosEvento.NroEvento}`;
+			}
+
 			$.ajax({
 				url: base_url() + "Administrativos/Servicios/EstadoCuenta/CancelarFactura",
 				type: 'POST',
 				data: {
 					consumos: $consumos
 					, consumoPendientes: pendientes
-					, RASTREO: RASTREO('Cancela Factura Cuenta Tercero ' + $TerceroId, 'Facturación')
+					, RASTREO: RASTREO(cambio, 'Facturación')
+					, eventoId: ($datosEvento === null ? null : $datosEvento.EventoId)
 				},
 				dataType: "json",
 				success: function (res) {
 					if (res.success) {
-						let datos = {
-							AlmacenId: $AlmacenId
-							, TerceroId: $TerceroId
-							, tipoVentaSeleccionado: JSON.stringify($TipoVentaSeleccionado)
-							, accionPos: $accionPos
-							, VendedorId: $VendedorId
-							, arrayProductosPedido: JSON.stringify($arrayProductosPedido)
-							, ConAccion: $ConAccion
-							, MesaId: $MesaId
-							, reservaHotel: $reservaHotel
-							, AccionPedido: $AccionPedido
-							, reactivarConsumo: $reactivarConsumo
-							, terceroDatos: JSON.stringify($datosTerceroReactivar)
-							, numPersonas: $numeroPersonasReactivar
-							, codBarraTercero: $codBarraTercero
-							, habitacionHotel: $habitacionHotel
-							, terceroPedidoEmpresa: JSON.stringify($terceroPedidoEmpresa)
-							, dataTerceroPendiente: JSON.stringify($dataTerceroPendiente)
-							, facturaPuntoNoFisico: $ventanaCambioPedido
-							, dataFechasHotel: $dataFechasHotel
-							, HeadReservaIdHotel :$HeadReservaIdHotel
-							, TerceroIdConsumo: $TerceroIdConsumo
-							, consumosOcultos: $consumosOcultos
-						};
-						sessionStorage.setItem('dataPos', $.Encriptar(datos));
+						if ($datosEvento === null) {
+							let datos = {
+								AlmacenId: $AlmacenId
+								, TerceroId: $TerceroId
+								, tipoVentaSeleccionado: JSON.stringify($TipoVentaSeleccionado)
+								, accionPos: $accionPos
+								, VendedorId: $VendedorId
+								, arrayProductosPedido: JSON.stringify($arrayProductosPedido)
+								, ConAccion: $ConAccion
+								, MesaId: $MesaId
+								, reservaHotel: $reservaHotel
+								, AccionPedido: $AccionPedido
+								, reactivarConsumo: $reactivarConsumo
+								, terceroDatos: JSON.stringify($datosTerceroReactivar)
+								, numPersonas: $numeroPersonasReactivar
+								, codBarraTercero: $codBarraTercero
+								, habitacionHotel: $habitacionHotel
+								, terceroPedidoEmpresa: JSON.stringify($terceroPedidoEmpresa)
+								, dataTerceroPendiente: JSON.stringify($dataTerceroPendiente)
+								, facturaPuntoNoFisico: $ventanaCambioPedido
+								, dataFechasHotel: $dataFechasHotel
+								, HeadReservaIdHotel :$HeadReservaIdHotel
+								, TerceroIdConsumo: $TerceroIdConsumo
+								, consumosOcultos: $consumosOcultos
+								, eventoId: ($datosEvento === null ? null : $datosEvento.EventoId)
+							};
+							sessionStorage.setItem('dataPos', $.Encriptar(datos));
+						}
 						location.href = $PaginaAnterior;
 					} else {
 						alertify.alert('Advertencia', res.msj);
@@ -4005,6 +4203,7 @@ $(function () {
 																type: 'POST',
 																data: {
 																	TerceroId: $TerceroId
+																	,BeneficiarioId: $BeneficiarioId
 																	, AlmacenId: $AlmacenId
 																	, VendedorId: $VendedorId
 																	, codiventid: $codiventid
@@ -4196,6 +4395,7 @@ $(function () {
 								}
 								alertify.ajaxAlert(base_url() + "Busqueda/DataTable");
 							} else {
+								console.log('xd');
 								$FACTURA.MeseroId = antes;
 								$(selfie).val(respuesta.vendedorid);
 								$(selfie).closest('.input-group').find('span').text(respuesta.nombre).attr('title', respuesta.nombre);
@@ -4368,9 +4568,13 @@ $(document)
 	);
 
 $(document).on('click', '#btnCancelarFrmPago', function () {
+	$PIE.TotalPagar = $PIE.TotalPagar - $FACTURA.Propina;
+	$PIE.Anticipo = $PIEORIGINAL.Anticipo;
 	$FACTURA.Propina = 0;
+	$FACTURA.PropinaAnticipo = 0;
 	$FACTURA.FormaPago = {};
 	$FACTURA.CortesiaId = null;
+	CruzaAnticipo = false;
 	DTtblFormaPago.clear().columns.adjust().draw();
 	$('#frmFormaBase').val(0);
 	$('#frmValorBase').val(0);

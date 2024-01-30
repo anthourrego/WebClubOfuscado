@@ -7,7 +7,6 @@ let coloresMesa = {
 	Azul: { color: '#4680ff', titulo: 'Reserva' },
 	AzulSinConsumo: { color: '#00bcd4', titulo: 'Reserva en la mesa sin consumo' },
 	mesaModificada: { color: '#2ce0d8', titulo: 'Nuevo Pedido' },
-	CuentaPendiente: { color: '#f5ff00', titulo: 'Cuenta Pendiente' },
 	ProdsPendientes: { color: '#ffa0a0', titulo: 'Productos Pendientes' },
 }
 $(function () {

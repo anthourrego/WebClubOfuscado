@@ -2,10 +2,8 @@ let rutaGeneralCalendario = 'Administrativos/Eventos/Calendario/';
 let valorIncialAnioMes = '';
 let configInicial = {
 	mesAnio: null
-	, capacidadMaxima: null
-	, capacidadMinima: null
 	, lugaresFiltroC: []
-	, tipoLugaresFiltroC: []
+	, sedesfiltro: []
 };
 let eventosNuevosCalendario = [];
 let lugarActualCalendario = null;
@@ -15,21 +13,12 @@ let optionFullCalendarLugar = {};
 
 
 function iniciarCalendario(datos = {}) {
-
 	configInicial = { ...configInicial, ...datos };
 	if (!configInicial.mesAnio) {
-		configInicial.mesAnio = moment().format("DD-MM-YYYY");
+		configInicial.mesAnio = moment().format("MM-YYYY");
 	}
 	obtenerInformacionCalendario(configInicial, 'initCalendarioDisponible', 'regresoCalendario');
 }
-
-// function iniciarCalendario(datos = {}) {
-// 	configInicial = { ...configInicial, ...datos };
-// 	if (!configInicial.mesAnio) {
-// 		configInicial.mesAnio = moment().format("DD-MM-YYYY");
-// 	}
-// 	obtenerInformacionCalendario(configInicial, 'initCalendarioDisponible', 'regresoCalendario');
-// }
 
 function obtenerInformacionCalendario(data, metodoBack, funcion) {
 	$.ajax({
@@ -43,31 +32,47 @@ function obtenerInformacionCalendario(data, metodoBack, funcion) {
 	});
 }
 
+//En esta funcion nos carga todos los datos dinamicos del calendario
 function regresoCalendario({ valido, cabecera, tabla, tituloCalendario, mesanio, tipoLugares, filtro }) {
+	// este boton es para redireccionar a la creacion de eventos
+	$("#btnCrearEvento").on("click", function (e) {
+		e.preventDefault();
+	
+		sessionStorage.removeItem("newRESDisponibilidad");
+		sessionStorage.removeItem("newRESDatosBasicos");
+		sessionStorage.removeItem("newRESComplementos");
+		sessionStorage.removeItem("newRESInvitados");
+		sessionStorage.removeItem("newRESCotizacion");
+	
+		setTimeout(() => {
+				location.href = `${base_url()}Administrativos/Eventos/ReservarEvento/Disponibilidad?eventoid=-1`;
+		}, 0);
+	});
 	if (valido) {
-
-		$("#mesanio").datetimepicker({
-			minDate: moment().startOf('month')
-			, format: 'MM-YYYY'
-			, locale: 'es'
-		});
-
 		$("#cabeceraCalendario").html(cabecera);
 		$(".estructuraCalendario").html(tabla);
 		$(".tituloCalendario").html(tituloCalendario);
 		$("#mesanio").val(mesanio);
 		$('[data-toggle="tooltip"]').tooltip();
 		valorIncialAnioMes = mesanio;
-
 		if (!filtro) {
 			/* Inicializamos campos para la modal de filtros */
 			let estruLugares = '<option selected value="" style="search-choice-close-disabled">Todos</option>';
-			$("#lugaresFiltroC").html(estruLugares).chosen({ width: '100%' });
+			let lugaresFiltroC= $("#lugaresFiltroC").html(estruLugares).chosen({ width: '100%' });
 
 			tipoLugares.forEach(it => {
-				estruLugares += `<option value="${it.TipoLugarId}" style="search-choice-close-disabled">${it.Nombre}</option>`
+				estruLugares += `<option value="${it.SedeId}" style="search-choice-close-disabled">${it.Nombre}</option>`
 			});
-			$("#tipoLugaresFiltroC").html(estruLugares).chosen({ width: '100%' });
+
+			for (let i = 0; i < tipoLugares.length; i++) {
+				const lugares = tipoLugares[i];
+				lugares.lugares.forEach(itLugares => {
+					lugaresFiltroC += `<option value="${itLugares.LugarId}" style="search-choice-close-disabled">${itLugares.Nombre}</option>`
+				});				
+			}
+
+			$("#sedesfiltro").html(estruLugares).chosen({ width: '100%' });			
+			$("#lugaresFiltroC").html(lugaresFiltroC).chosen({ width: '100%' });
 
 			$(".chosen-select").unbind('change').change(function (e) {
 				let id = $(this).attr('id');
@@ -81,7 +86,8 @@ function regresoCalendario({ valido, cabecera, tabla, tituloCalendario, mesanio,
 					configInicial[id] = $(this).val();
 				}
 				$(this).trigger('chosen:updated');
-				if (id == 'tipoLugaresFiltroC') {
+				if (id == 'sedesfiltro') {
+					//aqui nos redireccionara a los lugares segun lo que se seleccione en la sede
 					irPorLosLugares(configInicial[id]);
 				}
 			});
@@ -97,78 +103,29 @@ function regresoCalendario({ valido, cabecera, tabla, tituloCalendario, mesanio,
 			calendarInicial = null;
 		});
 
-		$("#btnAgregarCalendario").unbind().on('click', function () {
-			// if (configInicial.vista == 'reserva') {
-				// if (!eventosNuevosCalendario.length) {
-				// 	return alertify.warning("No se encontraron horarios seleccionados");
-				// }
-				// let datos = {
-				// 	eventoId: configInicial.eventoId
-				// 	, reservas: []
-				// 	, lugarId: lugarActualCalendario
-				// }
-				// datos.reservas = eventosNuevosCalendario.map(it => {
-				// 	return {
-				// 		fin: moment(it.end).format('YYYY-MM-DD HH:mm:ss')
-				// 		, inicio: moment(it.start).format('YYYY-MM-DD HH:mm:ss')
-				// 	}
-				// });
-				// obtenerInformacionCalendario(datos, 'guardarEventos', 'regresoGuardarEventos');
-			// } else {
-				// if (!eventosNuevosCalendario.length) {
-				// 	return alertify.warning("No se encontraron horarios seleccionados");
-				// }
-				let datos = {
-					  eventoId : configInicial.eventoId
-					, eventos  : []
-					, lugarId  : lugarActualCalendario
-				}
-
-				console.log('eventosNuevosCalendario',eventosNuevosCalendario);
-				datos.eventos = eventosNuevosCalendario.map(it => {
-					return {
-						   inicio : moment(it.start).format('YYYY-MM-DD HH:mm:ss')
-						,  fin    : moment(it.end).format('YYYY-MM-DD HH:mm:ss')
-					}
-				});
-				console.log('datos',datos);
-				// $("#modalCalendarioFull").modal('hide');
-			// }
-		});
-
 		$("#btnFiltrarCalendario").unbind().on('click', function () {
 			let data = {
 				  mesAnio: $("#mesanio").val()
-				, capacidadMinima  : $("#capacidadMinima").val()
-				, capacidadMaxima  : $("#capacidadMaxima").val()
+				, sedesfiltro   : configInicial.sedesfiltro
 				, lugaresFiltroC   : configInicial.lugaresFiltroC
 			}
-			console.log('datadata',data);
 			iniciarCalendario(data);
 			$("#modalFiltrosCalendario").modal('hide');
 		});
 
-		$("#btnAgregarCalendario").html('<i class="fas fa-check"></i> Aceptar');
-		if (configInicial.vista == 'reserva') {
-			$("#btnAgregarCalendario").html('<i class="fas fa-check"></i> Agregar');
-			bloquearODesbloquearHoy();
-		}
 	}
 }
 
-function regresoGuardarEventos({ valido, msj }) {
-	if (valido) {
-		alertify.success(msj);
-		$("#modalCalendarioFull").modal('hide');
-	} else {
-		alertify.danger(msj);
-	}
-}
-
+//Funcion para cargar los meses siguientes o anteriores
 function otroMesMas(fun) {
-	let mesAnio = moment($("#mesanio").val(), 'YYYY-MM-DD')[fun](1, 'month').format('YYYY-MM-DD');
+	let mesAnio = moment($("#mesanio").val(), 'MM-YYYY');
 
-	console.log('mesAnio',mesAnio); 
+	if (fun === 'add') {
+		mesAnio = mesAnio.add(1,'month').startOf('month');
+	}else if (fun === 'subtract') {
+		mesAnio = mesAnio.subtract(1,'month').startOf('month');
+	}
+	mesAnio = mesAnio.format('MM-YYYY');
 	iniciarCalendario({ mesAnio });
 }
 
@@ -182,160 +139,22 @@ document.getElementById('mesanio').addEventListener('focusout', function (e) {
 	}
 });
 
-function clickDiaCalendario(dia, lugar,fecha = null) {
-	console.log('dia',dia);
-	// let fecha = moment(AnioMes, 'YYYY-MM-DD').format('YYYY-MM-DD');
-	// let fecha = moment(AnioMes, 'YYYY-MM-DD').format('YYYY-MM-DD');
-	console.log('fecha',fecha);
-
-	if (configInicial.vista == 'reserva') {
-		if (moment(fecha).isSameOrAfter(moment().format('YYYY-MM-DD'))) {
-			irInfoDiaValido(fecha, lugar);
-		} else {
-			alertify.warning("El dia debe ser mayor al actual.");
-		}
-	} else {
-		irInfoDiaValido(fecha, lugar);
-	}
-}
-
-function irInfoDiaValido(dia, lugar) {
-	let datos = {
-		idDiaMes: dia,
-		lugarId: lugar
-	}
-	lugarActualCalendario = lugar;
-	obtenerInformacionCalendario(datos, 'eventosDia', 'regresoEventosDia');
-}
-
-function regresoEventosDia({ valido, diaMes, datos }) {
-	if (valido) {
-		initFullCalendar(diaMes);
-		calendarInicial.addEventSource(datos);
-		if (eventosNuevosCalendario.length) {
-			let extrasEventos = eventosNuevosCalendario.filter(it => moment(it.start).format('YYYY-MM-DD') == diaMes);
-			calendarInicial.addEventSource(extrasEventos);
-		}
-	}
-}
-
-function initFullCalendar(dia) {
-	let options = {
-		allDaySlot: false,
-		height: '100%',
-		expandRows: true,
-		locale: 'es',
-		slotMinTime: '00:00',
-		slotMaxTime: '24:00',
-		slotDuration: '00:30:00',
-		selectOverlap: false, // No deja seleccionar por encima de los demas eventos
-		headerToolbar: {
-			left: '',
-			center: 'title',
-			right: 'today prev,next'
-		},
-		displayEventTime: false,
-		initialView: 'timeGrid',
-		initialDate: moment(dia).toDate(),
-		editable: false,
-		selectable: true,
-		nowIndicator: true,
-		dayMaxEvents: true,
-		slotLabelFormat: [{
-			hour: 'numeric',
-			minute: '2-digit',
-			omitZeroMinute: false,
-			meridiem: 'short',
-			hour12: false
-		}],
-		events: [],
-	}
-
-	// if (configInicial.vista == 'reserva') {
-		options = {
-			...options
-			, eventClick
-			, select
-			, validRange: {
-				start: new Date()
-			}
-		};
-	// }
-
-	let FuCalendar = FullCalendar.Calendar;
-	calendarInicial = new FuCalendar(document.getElementById('calendarioFull'), options);
-	console.log('calendarInicial',calendarInicial);
-	setTimeout(() => {
-		calendarInicial.render();
-		$("#calendarioFull .fc-prev-button").unbind('click').click(() => {
-			clickDiaCalendario(moment(calendarInicial.getDate()).format('DD'), lugarActualCalendario);
-		});
-		$("#calendarioFull .fc-next-button").unbind('click').click(() => {
-			clickDiaCalendario(moment(calendarInicial.getDate()).format('DD'), lugarActualCalendario);
-		});
-	}, 100);
-	$("#modalCalendarioFull").modal('show');
-}
-
-function eventClick({ el, event, jsEvent, view }) {
-	if (event.id == "") {
-		alertify.confirm("Advertencia", "¿Está seguro de remover horario?", function () {
-			eventosNuevosCalendario.splice(eventosNuevosCalendario.findIndex(it => it.strInit == event.startStr), 1);
-			event.remove();
-		}, function () { });
-	}
-}
-
-function select(ev) {
-	eventoSeleccionado = ev;
-	const { start, end, startStr } = ev;
-	if (moment().isSameOrBefore(moment(start))) {
-		let data = {
-			start
-			, end
-			, editable: 1
-			, className: 'bg-secondary border-secondary'
-			, strInit: startStr
-		};
-		(calendarInicial || calendarLugar).addEventSource([data]);
-		eventosNuevosCalendario.push(data);
-	} else {
-		alertify.warning("La hora debe ser mayor a la actual.");
-	}
-}
-
 function limpiarFiltrosCalendario() {
 	$(".chosen-select").val([""]).trigger('chosen:updated');
 	configInicial.lugaresFiltroC = [];
-	configInicial.tipoLugaresFiltroC = [];
+	configInicial.sedesfiltro = [];
 	$("#modalFiltrosCalendario").modal('hide');
 	iniciarCalendario();
 }
 
-function irPorLosLugares(tipoLugaresFiltroC) {
-	configInicial.lugaresFiltroC = [];
-	if (tipoLugaresFiltroC.length) {
-		let data = { tipoLugaresFiltroC }
-		obtenerInformacionCalendario(data, 'obtenerLugares', 'regresoObtenerLugares');
-	} else {
-		let estruLugares = '<option selected value="" style="search-choice-close-disabled">Todos</option>';
-		$("#lugaresFiltroC").html(estruLugares).val([""]).trigger('chosen:updated');
-	}
-}
-
+//aqui obtenemos los lugares, los lugares para el filtro
 function regresoObtenerLugares(lugares) {
+	// console.log('lugares cuando selecciona filtro',lugares);
 	let estruLugares = '<option selected value="" style="search-choice-close-disabled">Todos</option>';
 	lugares.forEach(it => {
 		estruLugares += `<option value="${it.LugarId}" style="search-choice-close-disabled">${it.Nombre}</option>`
 	});
 	$("#lugaresFiltroC").html(estruLugares).trigger('chosen:updated');;
-}
-
-function hoyCalendario() {
-	if (configInicial.vista == 'reserva') {
-		$("#btnMesMenos, #btnHoy").prop('disabled', true);
-	}
-	iniciarCalendario({ mesAnio: moment().format('YYYY-MM-DD') });
 }
 
 function bloquearODesbloquearHoy() {
@@ -345,181 +164,70 @@ function bloquearODesbloquearHoy() {
 	}
 }
 
-function verInformacionLugar(idLugar) {
-	let datos = {
-		lugarId: idLugar
-		, idDiaMes: moment('01-' + valorIncialAnioMes, 'DD-MM-YYYY').format('YYYY-MM-DD')
-		, tipoCant: 'M'
-	};
-	obtenerInformacionCalendario(datos, 'eventosMes', 'regresoEventosMes');
+function verInformacionLugar(lugarId) {
+	location.href = `${base_url()}Administrativos/Eventos/ListaEventos/Calendario/`+lugarId;
 }
 
-function regresoEventosMes({ datos, valido, diaMes, lugarId, nombreLugar }) {
-	if (valido) {
-		$(".calendario-manual").addClass("d-none");
-		$(".calendariofull-lugar").removeClass('d-none');
-		if (calendarLugar) {
-			calendarLugar.removeAllEvents()
-		} else {
-			initFullCalendarSoloLugar(lugarId, diaMes);
-			setTimeout(() => {
-				$(".fc-regresar-button").css('background-color', '#ff5252').css('border-color', '#ff5252');
-				$(".fc-regresar-button").addClass('btn btn-danger').html(`<i class="fas fa-chevron-left"></i> Regresar`);
-
-				$(".fc-toolbar-title").closest('.fc-toolbar-chunk').append(`<h2 class="fc-toolbar-title">| ${nombreLugar}</h2>`).addClass('d-flex');
-			}, 300);
-		}
-		calendarLugar.addEventSource(datos);
+function irPorLosLugares(sedesfiltro) {
+	configInicial.lugaresFiltroC = [];
+	if (sedesfiltro.length) {
+		let data = { sedesfiltro }
+		obtenerInformacionCalendario(data, 'obtenerLugares', 'regresoObtenerLugares');
+	} else {
+		let estruLugares = '<option selected value="" style="search-choice-close-disabled">Todos</option>';
+		$("#lugaresFiltroC").html(lugaresFiltroC).val([""]).trigger('chosen:updated');
 	}
 }
 
-function initFullCalendarSoloLugar(lugarId, diaMes) {
-	optionFullCalendarLugar = {
-		customButtons: {
-			regresar: {
-				click: () => {
-					$(".calendario-manual").removeClass("d-none");
-					$(".calendariofull-lugar").addClass('d-none');
-					calendarLugar.destroy();
-					calendarLugar = null;
-				}
-			}
-		},
-		buttonText: {
-			timeGrid: 'Mes',
-			regresar: 'Regresar'
-		},
-		allDaySlot: false,
-		height: '100%',
-		locale: 'es',
-		slotMinTime: '00:00',
-		slotMaxTime: '24:00',
-		slotDuration: '00:30:00',
-		selectOverlap: false, // No deja seleccionar por encima de los demas eventos
-		headerToolbar: {
-			left: 'regresar',
-			center: 'title',
-			right: 'timeGrid,timeGridWeek,today prev,next'
-		},
-		dayHeaderContent: ({ date }) => moment(date).format('ddd D/MM'),
-		displayEventTime: true,
-		initialView: 'timeGrid',
-		editable: false,
-		selectable: true,
-		initialDate: moment().toDate(),
-		nowIndicator: true,
-		slotLabelFormat: [{
-			hour: 'numeric',
-			minute: '2-digit',
-			omitZeroMinute: false,
-			meridiem: 'short',
-			hour12: false
-		}],
-		visibleRange: {
-			start: (configInicial.vista == 'reserva' ? moment().format('YYYY-MM-DD') : moment(diaMes).startOf('month').format('YYYY-MM-DD'))
-			, end: moment(diaMes).endOf('month').add(1, 'day').format('YYYY-MM-DD')
-		}
-	}
-
-	if (calendarLugar) {
-		if (calendarLugar.view.type == 'timeGridWeek') {
-			delete optionFullCalendarLugar.visibleRange;
-			optionFullCalendarLugar.initialView = 'timeGridWeek';
-		}
-	}
-
+function hoyCalendario() {
 	if (configInicial.vista == 'reserva') {
-		optionFullCalendarLugar = {
-			...optionFullCalendarLugar
-			, eventClick
-			, select
-			, validRange: {
-				start: new Date()
-			}
-		};
+		$("#btnMesMenos, #btnHoy").prop('disabled', true);
 	}
-	let FuCalendarLugar = FullCalendar.Calendar;
-	calendarLugar = new FuCalendarLugar(document.getElementById('calendarioFullLugar'), optionFullCalendarLugar);
-	setTimeout(() => {
-		calendarLugar.render();
-		iniciarEventosCalendario(lugarId);
-	}, 100);
+	iniciarCalendario({ mesAnio: moment().format('MM-YYYY') });
 }
 
-function buscarInfoEventosLugar(lugarId, idDiaMes, tipoCant = 'M') {
-	let datos = { lugarId, idDiaMes, tipoCant };
-	obtenerInformacionCalendario(datos, 'eventosMes', 'regresoEventosMes');
+// funcion para cargas lo eventos en listas con la informacion relacionada
+function cargarEventos(eventos) {
+	var modalBody= $('#card-body');
+	modalBody.empty();
+	
+	eventos.forEach(function(event){
+		var card ='<ul class="list-group list-group-flush card-eventos">';
+		card+= `<a class='eventoCargado' href="${base_url()}Administrativos/Eventos/ReservarEvento/Disponibilidad/`+event.ReservaEvento+`">
+			<div class="card m-2">
+				<div class="card-body">
+					<li class="list-group " style="color:#000;font-size:15px">
+						<div class="row">
+						<div class="" style="background-color:`+event.Color+` ;border-left:thick solid `+event.Color+` !important;height:75%;left:1%;position: absolute;border-radius:5px;border:1px solid `+event.Color+`;width: 10px;"></div>
+							<div class="col-12">
+								`
+									+"<strong>Cliente: </strong>"+event.Cliente+
+								`
+							</div>
+							<div class='col-6'>
+								`
+									+"<strong>Reserva: </strong>"+event.IdEvento+
+									"<br><strong>Lugar: </strong>"+event.NombreLugar+
+									"<br><strong>Estado: </strong>"+event.Estado+
+								`
+							</div>
+							<div class='col-6'>
+								`
+									+"<strong>Dia Inicio: </strong>"+event.Inicio+
+									"<br><strong>Día Final: </strong>"+event.Fin+
+									"<br><strong>Días Evento: </strong>"+event.DiasEvento+
+								`
+							</div>
+						</div>
+					</li>
+				</div>
+			</div>`;
+		card+= '</ul>';
+		modalBody.append(card);
+		if (!permisoGestorActividades) {
+			$('.eventoCargado').removeAttr('href');
+		}
+	});
+	$("#eventModal").modal('show');	
 }
 
-function iniciarEventosCalendario(lugarId) {
-	$("#calendarioFullLugar .fc-prev-button").unbind('click').click(() => {
-		if (calendarLugar.view.type == 'timeGrid') {
-			let end = moment(calendarLugar.view.activeEnd).subtract(1, 'month').format('YYYY-MM-DD');
-			let start = moment(calendarLugar.view.activeStart).subtract(1, 'month').format('YYYY-MM-DD');
-			if (configInicial.vista == 'reserva') {
-				start = moment().format('YYYY-MM-DD');
-			}
-			calendarLugar.setOption('visibleRange', { end, start });
-			buscarInfoEventosLugar(lugarId, start);
-		} else {
-			let end = moment(calendarLugar.view.activeEnd).format('YYYY-MM-DD');
-			let start = moment(calendarLugar.view.activeStart).format('YYYY-MM-DD');
-			calendarLugar.setOption('visibleRange', { end, start });
-			buscarInfoEventosLugar(lugarId, start, 'S');
-		}
-	});
-	$("#calendarioFullLugar .fc-next-button").unbind('click').click(() => {
-		if (calendarLugar.view.type == 'timeGrid') {
-			let end = moment(calendarLugar.view.activeEnd).add(1, 'month').format('YYYY-MM-DD');
-			let start = moment(calendarLugar.view.activeStart).add(1, 'month').format('YYYY-MM-DD');
-			if (configInicial.vista == 'reserva') {
-				start = moment(calendarLugar.view.activeStart).startOf('month').add(1, 'month').format('YYYY-MM-DD');
-			}
-			calendarLugar.setOption('visibleRange', { end, start });
-			buscarInfoEventosLugar(lugarId, start);
-		} else {
-			let end = moment(calendarLugar.view.activeEnd).format('YYYY-MM-DD');
-			let start = moment(calendarLugar.view.activeStart).format('YYYY-MM-DD')
-			calendarLugar.setOption('visibleRange', { end, start });
-			buscarInfoEventosLugar(lugarId, start, 'S');
-		}
-	});
-	$("#calendarioFullLugar .fc-timeGrid-button").unbind('click').click(() => {
-		let end = moment().endOf('month').add(1, 'day').format('YYYY-MM-DD');
-		let start = moment().startOf('month').format('YYYY-MM-DD');
-		if (moment(calendarLugar.getDate()).format('YYYY-MM-DD') != moment().format('YYYY-MM-DD')) {
-			end = moment(calendarLugar.view.activeEnd).endOf('month').add(1, 'day').format('YYYY-MM-DD');
-			start = moment(calendarLugar.view.activeEnd).startOf('month').format('YYYY-MM-DD')
-		} else {
-			if (configInicial.vista == 'reserva') {
-				start = moment().format('YYYY-MM-DD');
-			}
-		}
-		calendarLugar.setOption('visibleRange', { end, start });
-		buscarInfoEventosLugar(lugarId, start);
-	});
-	$("#calendarioFullLugar .fc-today-button").unbind('click').click(() => {
-		let end = moment().endOf('week').format('YYYY-MM-DD');
-		let start = moment().startOf('week').format('YYYY-MM-DD');
-		if (calendarLugar.view.type == 'timeGrid') {
-			end = moment().endOf('month').add(1, 'day').format('YYYY-MM-DD');
-			start = moment().startOf('month').format('YYYY-MM-DD');
-			if (configInicial.vista == 'reserva') {
-				start = moment().format('YYYY-MM-DD');
-			}
-		}
-		calendarLugar.setOption('visibleRange', { end, start });
-		buscarInfoEventosLugar(lugarId, start, (calendarLugar.view.type == 'timeGrid' ? null : 'S'));
-
-	});
-	$("#calendarioFullLugar .fc-timeGridWeek-button").unbind('click').click(() => {
-		let end = moment(calendarLugar.getDate()).endOf('week').format('YYYY-MM-DD');
-		let start = moment(calendarLugar.getDate()).startOf('week').format('YYYY-MM-DD');
-		if (moment(calendarLugar.getDate()).startOf('month').format('YYYY-MM') == moment().startOf('month').format('YYYY-MM')) {
-			end = moment().endOf('week').format('YYYY-MM-DD');
-			start = moment().startOf('week').format('YYYY-MM-DD');
-		}
-		calendarLugar.setOption('visibleRange', { end, start });
-		buscarInfoEventosLugar(lugarId, start, 'S');
-	});
-}

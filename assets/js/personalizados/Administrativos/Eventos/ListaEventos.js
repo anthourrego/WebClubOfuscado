@@ -1,5 +1,20 @@
 const rutaGeneral = base_url() + "Administrativos/Eventos/ListaEventos/";
 const dataFiltro = {};
+const estados = {
+	BO: "Borrador",
+	CT: "Cotizado",
+	VR: "Versionado",
+	CC: "Aceptado Cliente",
+	RE: "Rechazado Cliente",
+	NU: "Anulado",
+	CO: "Confirmado",
+	CN: "Cotizar Nuevamente",
+	EX: "Expirado",
+	VE: "Vencido",
+	FI: "Finalizado",
+	AC: "Activo",
+	FA: "Facturación",
+};
 let tblEventos,
 	isTabActive = true;
 
@@ -18,28 +33,47 @@ $(function () {
 			data: function (d) {
 				return $.extend(d, { dataFiltro });
 			},
+			global: false,
 		},
 		columns: [
 			{
 				data: "EventoId",
 				className: "text-center",
 				render: function (data) {
-					return `
-					<a
-						href="${base_url()}Administrativos/Eventos/ReservarEvento/Disponibilidad/${data}"
-						class="btn btn-primary btn-xs btnVisualizar"
-						title="Visualizar evento"
-					>
-						<i class="far fa-eye"></i>
-					</a>
-					<a
-						href="${base_url()}Evento/Cotizacion/${$NIT}/{terceroid}/${data}"
-						class="btn btn-warning btn-xs btnConfirmar d-none"
-						title="URL Confirmación evento"
-						target="_blank"
-					>
-						<i class="fas fa-clipboard-check"></i>
-					</a>`;
+					btnVisualizar='';
+					btnGestor='';
+					if (permisoGestorActividades2) {
+						btnVisualizar = `
+						<a
+							href="${base_url()}Administrativos/Eventos/ReservarEvento/Disponibilidad/${data}"
+							class="btn btn-primary btn-xs btnVisualizar"
+							title="Visualizar evento"
+						>
+							<i class="far fa-eye"></i>
+						</a>
+						<a
+							href="${base_url()}Evento/Cotizacion/${$NIT}/{terceroid}/${data}"
+							class="btn btn-warning btn-xs btnConfirmar d-none"
+							title="URL Confirmación evento"
+							target="_blank"
+						>
+							<i class="fas fa-clipboard-check"></i>
+						</a>
+						`;
+					}
+					
+					if (permisoGestorActividades) {
+						btnGestor = `
+						<a
+							class="btn btn-info btn-xs btnPlaneador d-none"
+							title="Gestor de actividades"
+						>
+							<i class="fas fa-thumbtack" style="color: #ffffff;"></i>
+						</a>
+						`;
+					}
+					return btnVisualizar + btnGestor;
+
 				},
 			},
 			{ data: "Evento" },
@@ -47,7 +81,12 @@ $(function () {
 			{ data: "Nombre" },
 			{ data: "TipoEvento" },
 			{ data: "Tercero" },
-			{ data: "Estado" },
+			{
+				data: "Estado",
+				render: function (Estado) {
+					return estados[Estado];
+				},
+			},
 			{
 				data: "Inicio",
 				render: function (data) {
@@ -75,8 +114,106 @@ $(function () {
 			},
 			{ data: "MedioReserva" },
 			{ data: "Vendedor" },
+			{
+				data: "Porcentaje",
+				className: "text-center",
+				render: function (data) {
+					data = data == null ? 0 : data;
+					return `${data} %`;
+				},
+			},
 		],
 		createdRow: function (row, data, dataIndex) {
+			// Se agregan colores para los porcentajes
+			Porcentaje = $(row).find("td:eq(12)");
+			if (
+				parseInt(Porcentaje[0].textContent) >= 0 &&
+				parseInt(Porcentaje[0].textContent) <= 33
+			) {
+				Porcentaje[0].style.backgroundColor = "#F5A9BC";
+			} else if (
+				parseInt(Porcentaje[0].textContent) > 33 &&
+				parseInt(Porcentaje[0].textContent) < 66
+			) {
+				Porcentaje[0].style.backgroundColor = "#F2DDB4";
+			} else if (parseInt(Porcentaje[0].textContent) >= 66) {
+				Porcentaje[0].style.backgroundColor = "#B8E994";
+			}
+
+			//Se agrega validacion para que le cargue los colores correspondiente a cada estado y se vea en la vista.
+			EstadoCO = $(row).find("td:eq(5)");
+			switch (data.Estado) {
+				case "CT":
+					// 'Cotizado'
+					EstadoCO[0].style.backgroundColor = "#F5A9BC";
+					EstadoCO[0].title =
+						"Evento cotizado, a la espera de una respuesta del cliente";
+					break;
+				case "VR":
+					// 'Versionado'
+					EstadoCO[0].style.backgroundColor = "#A9DFBF";
+					EstadoCO[0].title =
+						"Versión antigua de un evento(No debería mostrarse en el calendario)";
+					break;
+				case "CC":
+					// 'Aceptado Cliente'
+					EstadoCO[0].style.backgroundColor = "#AEDFF7";
+					EstadoCO[0].title =
+						"El cliente confirma la cotizacion (Se puede confirmar) ";
+					break;
+				case "RE":
+					// 'Rechazado Cliente'
+					EstadoCO[0].style.backgroundColor = "#F5CBA7";
+					EstadoCO[0].title =
+						"El cliente rechaza la cotización (Se debe crear una nueva versión de la cotización y esperar que el cliente la confirme)";
+					break;
+				case "NU":
+					// 'Anulado'
+					EstadoCO[0].style.backgroundColor = "#D2B4DE";
+					EstadoCO[0].title = "Cotización anulada, finaliza el proceso";
+					break;
+				case "CO":
+					// 'Confirmado'
+					EstadoCO[0].style.backgroundColor = "#B8E994";
+					EstadoCO[0].title =
+						"Cotización confirmada por el asesor comercial después de tener el aval del cliente";
+					break;
+				case "CN":
+					// 'Cotizar Nuevamente'
+					EstadoCO[0].style.backgroundColor = "#87CEEB";
+					EstadoCO[0].title =
+						"Se requiere cotizar nuevamente el evento ya que un evento confirmado ocupó el lugar para la fecha cotizada";
+					break;
+				case "EX":
+					// 'Expirado'
+					EstadoCO[0].style.backgroundColor = "#F8C9C5";
+					EstadoCO[0].title = "Cotización que no pasó a evento";
+					break;
+				case "VE":
+					// 'Vencido'
+					EstadoCO[0].style.backgroundColor = "#B3B6B7";
+					EstadoCO[0].title = "Evento confirmado que pasó el tiempo límite";
+					break;
+				case "FI":
+					// 'Finalizado'
+					EstadoCO[0].style.backgroundColor = "#F9E79F";
+					EstadoCO[0].title = "Evento finalizado, ya se celebró";
+					break;
+				case "AC":
+					// 'Activo'
+					EstadoCO[0].style.backgroundColor = "#C39BD3";
+					EstadoCO[0].title = "Evento activo y en proceso";
+					break;
+				case "FA":
+					// 'Facturacion'
+					EstadoCO[0].style.backgroundColor = "#9fc063";
+					EstadoCO[0].title = "Evento en proceso de ser facturado";
+					break;
+			}
+
+			$(row).on("click", ".btnPlaneador", function (e) {
+				mostrarModalPlaneadorCuerpos(data.EventoId);
+			});
 			$(row).on("click", ".btnVisualizar", function (e) {
 				e.preventDefault();
 				const { Evento } = data;
@@ -95,30 +232,7 @@ $(function () {
 									campos: ["EventoId", "Versión", "Estado", "Fecha"],
 									dtConfig: {
 										data: {
-											select: [
-												"EventoId",
-												"Version",
-												`CASE Estado
-													WHEN 'BO' THEN 'Borrador'
-
-													WHEN 'CT' THEN 'Cotizado'
-													WHEN 'VR' THEN 'Versionado'
-
-													WHEN 'CC' THEN 'Confirmado Cliente'
-													WHEN 'RE' THEN 'Rechazado Cliente'
-
-													WHEN 'NU' THEN 'Anulado'
-													WHEN 'CO' THEN 'Confirmado'
-
-													WHEN 'CN' THEN 'Cotizar Nuevamente'
-
-													WHEN 'EX' THEN 'Expirado'
-													WHEN 'VE' THEN 'Vencido'
-													WHEN 'FI' THEN 'Finalizado'
-													WHEN 'AC' THEN 'Activo'
-											END AS Estado`,
-												"FechaSolici",
-											],
+											select: ["EventoId", "Version", "Estado", "FechaSolici"],
 											table: ["Evento", [], [["Evento", Evento]]],
 											column_order: [
 												"EventoId",
@@ -142,7 +256,12 @@ $(function () {
 												visible: false,
 											},
 											{ data: 1 },
-											{ data: 2 },
+											{
+												data: 2,
+												render: function (Estado) {
+													return estados[Estado];
+												},
+											},
 											{
 												data: 3,
 												render: function (FechaSolici) {
@@ -167,7 +286,9 @@ $(function () {
 				}
 			});
 
-			if (data.EstadoE === "CT") {
+			if (data.Estado === "CO") {
+				$(row).find(".btnPlaneador").removeClass("d-none");
+			} else if (data.Estado === "CT" && permisoGestorActividades2) {
 				$(row)
 					.find(".btnConfirmar")
 					.removeClass("d-none")
@@ -192,7 +313,7 @@ $(function () {
 		sessionStorage.removeItem("newRESCotizacion");
 
 		setTimeout(() => {
-			location.href = `${base_url()}Administrativos/Eventos/ReservarEvento/Disponibilidad`;
+			location.href = `${base_url()}Administrativos/Eventos/ReservarEvento/Disponibilidad?eventoid=-1`;
 		}, 0);
 	});
 
