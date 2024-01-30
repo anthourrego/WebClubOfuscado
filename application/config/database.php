@@ -111,10 +111,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => '192.168.0.247',
-	'username' => 'usuario',
-	'password' => '123/usuario.*',
-	'database' => 'GESTION_CONF_PROSOF',
+	'hostname' => '',
+	'username' => '',
+	'password' => '',
+	'database' => '',
 	'dbdriver' => 'sqlsrv',
 	'dbprefix' => '',
 	'pconnect' => FALSE,

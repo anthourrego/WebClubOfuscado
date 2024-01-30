@@ -40,7 +40,7 @@ ini_set('xdebug.var_display_max_data', -1);
 */
 $http = isset($_SERVER['HTTPS']) ? "https" : "http";
 $host = $_SERVER['HTTP_HOST'];
-$config['base_url'] = "{$http}://{$host}/liberado/WebClub/";
+$config['base_url'] = "{$http}://{$host}/CocoraA&B/";
 /*
 |--------------------------------------------------------------------------
 | Index File
