@@ -98,7 +98,7 @@ function tipoVenta(infodata) {
 				"/" + cargueHotel.ReservaId.trim() + "/" + cargueHotel.Tercero.trim();
 		}
 		location.href =
-			rutaGeneral + "VistaGeneral/Mesas/" + idAlmacen + urlCargueHotel;
+			rutaGeneral + `VistaGeneral/Mesas/${idAlmacen.toString().trim()}/${infodata.codiventid.toString().trim()}` + urlCargueHotel;
 	}
 }
 
@@ -124,7 +124,7 @@ function validarTipoVenta(tiposVenta) {
 			$("#tipoVentaAlmacen").modal("show");
 		}
 	} else {
-		alertify.warning("El almacen no tiene tipo de venta asignado");
+		alertify.warning("El almacen no tiene tipo de venta asignado" + (accionPos == "pedido_mesa" ? ' con manejo de mesas' : ''));
 	}
 }
 
@@ -197,7 +197,11 @@ function dataUsuario(resp) {
 			base_url() +
 			"Administrativos/Servicios/InformeVendedorConsumo?usuario=" +
 			resp.usuarioId;
-	} else if (accionPos == "recogidas" || accionPos == "cuadreCajero") {
+	} else if (
+		accionPos == "basecaja" ||
+		accionPos == "recogidas" ||
+		accionPos == "cuadreCajero"
+	) {
 		sessionStorage.setItem("accionPos", accionPos);
 		location.href =
 			base_url() +
@@ -657,10 +661,7 @@ function redirigirConsumo(resp) {
 	};
 	sessionStorage.setItem("dataPos", $.Encriptar(datos));
 	location.href =
-		base_url() +
-		"Administrativos/Servicios/VistaGeneral/Mesas/" +
-		fac.AlmacenIdC.trim() +
-		urlCargueHotel;
+		base_url() + `Administrativos/Servicios/VistaGeneral/Mesas/${fac.AlmacenIdC.toString().trim()}/${fac.tipoVenta.codiventid.toString().trim()}` + urlCargueHotel;
 }
 
 function datosVendedores({ vendedores }) {
@@ -668,93 +669,99 @@ function datosVendedores({ vendedores }) {
 	$("#listaVendedoresEmpty").show();
 	$(".form-buscar-vendedor").removeClass("d-flex").addClass("d-none");
 	let pos = vendedores.findIndex((x) => x.vendUser);
-	if (pos > -1) {
-		accionVendedor(vendedores[pos]);
-	} else {
-		if (vendedores.length) {
-			$(".form-buscar-vendedor").addClass("d-flex").removeClass("d-none");
-			vendedores.forEach((it) => {
-				$("#listaVendedores")
-					.append(`<div class='col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2 p-2'>
-						<div id='vend${it.vendedorid}' class='card h-100 shadow-none cursor-pointer card-vendedor' data-vendedor='${it.vendedorid}' >
-							<div class='card-body p-1'>
-								<div class='container-vendedor text-center rounded' style='background-image: url("${it.foto}")'></div>
-								<p class='card-text text-center pt-1 nombre-vendedor'>${it.nombre}</p>
+	//se hace validacion para que al momento de ingresar al modulo reimprimir no muestre la modal de vendedores si no que pase directo
+	reimprimirVendedor = window.location.search;
+	if (reimprimirVendedor == '?reimprimir=true') {
+		accionVendedor(null);
+	}else{
+		if (pos > -1) {
+			accionVendedor(vendedores[pos]);
+		} else {
+			if (vendedores.length) {
+				$(".form-buscar-vendedor").addClass("d-flex").removeClass("d-none");	
+				vendedores.forEach((it) => {
+					$("#listaVendedores")
+						.append(`<div class='col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2 p-2'>
+							<div id='vend${it.vendedorid}' class='card h-100 shadow-none cursor-pointer card-vendedor' data-vendedor='${it.vendedorid}' >
+								<div class='card-body p-1'>
+									<div class='container-vendedor text-center rounded' style='background-image: url("${it.foto}")'></div>
+									<p class='card-text text-center pt-1 nombre-vendedor'>${it.nombre}</p>
+								</div>
 							</div>
-						</div>
-					</div>`);
-			});
-			$("#listaVendedoresEmpty").hide();
-		}
-		$("#ElegirVendedor").modal("show");
-		$(".card-vendedor").click(function () {
-			let actual = this;
-			let vend = vendedores.find(
-				(it) => it.vendedorid == $(this).data("vendedor")
-			);
-			vendedorElegido = vend.vendedorid;
-			if (vend.Pass && $DATOSMONTAJE.SolicitaClaveVendedor == "S") {
-				let mensaje = `
-					<h6>${vend.nombre}</h6>
-					<input type="password" class="form-control data-pass p-1 alertify" autocomplete="off" id="dataPass">
-				`;
-
-				alertify
-					.confirm()
-					.setting({
-						message: mensaje,
-						onok: function () {
-							let pass = $(".ajs-content").find(".data-pass").val();
-							if (pass != "") {
-								$.ajax({
-									url: rutaGeneral + "PanelPrincipal/validarPassVendedor",
-									type: "POST",
-									dataType: "json",
-									data: {
-										idVendedor: vend.vendedorid,
-										pass: pass,
-									},
-									success: function (resp) {
-										if (resp.success) {
-											accionVendedor(vend);
-										} else {
-											setTimeout(() => {
-												$(actual).click();
-											}, 100);
-											alertify.error("Contraseña incorrecta");
-										}
-									},
-								});
-							} else {
-								setTimeout(() => {
-									$(actual).click();
-								}, 100);
-								alertify.warning("Por favor digite una contraseña");
-							}
-						},
-						title: "Confirmar Contraseña",
-					})
-					.set({
-						onshow: function () {
-							$(".data-pass").keyup(function (e) {
-								e.preventDefault();
-								if (e.keyCode == 13 && $(this).val() != "")
-									$(".ajs-ok").click();
-							});
-							$(".ajs-content").find(".data-pass").val("");
-							setTimeout(function () {
-								$(".ajs-content").find(".data-pass").focus();
-							}, 1000);
-						},
-						onclose: function () {
-							alertify.alert().set({ onshow: null });
-						},
-					})
-					.show();
-			} else {
-				accionVendedor(vend);
+						</div>`);
+				});
+				$("#listaVendedoresEmpty").hide();
 			}
-		});
+			$("#ElegirVendedor").modal("show");
+			$(".card-vendedor").click(function () {
+				let actual = this;
+				let vend = vendedores.find(
+					(it) => it.vendedorid == $(this).data("vendedor")
+				);
+				vendedorElegido = vend.vendedorid;
+				if (vend.Pass && $DATOSMONTAJE.SolicitaClaveVendedor == "S") {
+					let mensaje = `
+						<h6>${vend.nombre}</h6>
+						<input type="password" class="form-control data-pass p-1 alertify" autocomplete="off" id="dataPass">
+					`;
+	
+					alertify
+						.confirm()
+						.setting({
+							message: mensaje,
+							onok: function () {
+								let pass = $(".ajs-content").find(".data-pass").val();
+								if (pass != "") {
+									$.ajax({
+										url: rutaGeneral + "PanelPrincipal/validarPassVendedor",
+										type: "POST",
+										dataType: "json",
+										data: {
+											idVendedor: vend.vendedorid,
+											pass: pass,
+										},
+										success: function (resp) {
+											if (resp.success) {
+												accionVendedor(vend);
+											} else {
+												setTimeout(() => {
+													$(actual).click();
+												}, 100);
+												alertify.error("Contraseña incorrecta");
+											}
+										},
+									});
+								} else {
+									setTimeout(() => {
+										$(actual).click();
+									}, 100);
+									alertify.warning("Por favor digite una contraseña");
+								}
+							},
+							title: "Confirmar Contraseña",
+						})
+						.set({
+							onshow: function () {
+								$(".data-pass").keyup(function (e) {
+									e.preventDefault();
+									if (e.keyCode == 13 && $(this).val() != "")
+										$(".ajs-ok").click();
+								});
+								$(".ajs-content").find(".data-pass").val("");
+								setTimeout(function () {
+									$(".ajs-content").find(".data-pass").focus();
+								}, 1000);
+							},
+							onclose: function () {
+								alertify.alert().set({ onshow: null });
+							},
+						})
+						.show();
+				} else {
+					accionVendedor(vend);
+				}
+			});
+		}
 	}
 }
 
@@ -810,7 +817,7 @@ function irAlmacenNoFisico(info) {
 	if (info.tiposVenta) {
 		sessionStorage.setItem("acceso-modulo", "otras-ventas");
 		sessionStorage.setItem("tipoVenta", JSON.stringify(info.tiposVenta));
-		location.href = rutaGeneral + `VistaGeneral/Mesas/${info.almacenid}`;
+		location.href = rutaGeneral + `VistaGeneral/Mesas/${info.almacenid.toString().trim()}/${info.tiposVenta.codiventid.toString().trim()}`;
 	} else {
 		alertify.warning("El almacen no esta asignado a un tipo de venta");
 	}
@@ -961,6 +968,7 @@ $(function () {
 
 	if (
 		(accionPos == "general" ||
+			accionPos == "basecaja" ||
 			accionPos == "recogidas" ||
 			accionPos == "gasto-base-ventas" ||
 			accionPos == "cuentas_pendientes" ||
@@ -984,9 +992,10 @@ $(function () {
 		idAlmacen = $(this).data("almacen");
 		idAlmacen = typeof idAlmacen === "string" ? idAlmacen.trim() : idAlmacen;
 		almacenActual = $ALMACENES.find((it) => it.AlmacenId == idAlmacen);
-
 		if ($EVENTO > 0) {
 			validarTipoVenta(almacenActual.tiposVenta);
+		} else if (accionPos == 'facturas_pendientes_pago') {
+			location.href = rutaGeneral + `FacturasPendientes?vendedor=null&almacen=${idAlmacen}`;
 		} else if (accionPos == "mesa_edicion") {
 			location.href = rutaGeneral + "MesaEdicion?almacen=" + idAlmacen;
 		} else if (accionPos == "actualiza_forma_pago") {
@@ -1002,6 +1011,8 @@ $(function () {
 			} else {
 				alertify.warning("No se encontro usuario autorizador");
 			}
+		} else if (accionPos == "basecaja") {
+			location.href = `${base_url()}Administrativos/Servicios/BaseCaja?almacenid=${idAlmacen}`;
 		} else if (accionPos == "cuadreCajero") {
 			location.href = `${base_url()}Administrativos/Servicios/CuadreCajero?almacenid=${idAlmacen}`;
 		} else if (accionPos == "gasto-base-ventas") {
@@ -1352,7 +1363,9 @@ function tblEventos(MeseroId) {
 		},
 	}).then((res) => {
 		$("#ElegirVendedor").modal("hide");
-		location.href = `${base_url()}Administrativos/Servicios/Eventos/Complementos/${res[0]}/${MeseroId}`
+		location.href = `${base_url()}Administrativos/Servicios/Eventos/Complementos/${
+			res[0]
+		}/${MeseroId}`;
 	});
 }
 

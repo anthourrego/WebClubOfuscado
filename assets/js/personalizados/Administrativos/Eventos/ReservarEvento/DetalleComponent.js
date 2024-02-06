@@ -15,7 +15,7 @@ const nuevaReserva = {},
 		FA: "Facturación",
 		AC: "Activo",
 	};
-	let urlActual = window.location.href;
+const urlActual = window.location.href;
 
 if (typeof reservaDB !== "undefined") {
 	Object.assign(nuevaReserva, reservaDB);
@@ -64,7 +64,7 @@ if (typeof reservaDB !== "undefined") {
 	}
 }
 
-function detalleComponent(){
+function detalleComponent() {
 	if (
 		nuevaReserva.disponibilidad ||
 		nuevaReserva.datosBasicos ||
@@ -471,7 +471,8 @@ function detalleComponent(){
 
 					htmlDetalle += strInvitados;
 				}
-				if (nuevaReserva.cotizacion) {
+
+				if (nuevaReserva.cotizacion && urlActual.includes("ReservarEvento")) {
 					// Funciones
 
 					function confirmarCoti(estado) {
@@ -656,7 +657,7 @@ function detalleComponent(){
 
 					// Procedimientos
 
-					const estadosFinales = ["NU", "CO", "EX", "VE", "FI", "AC"];
+					const estadosFinales = ["NU", "CO", "EX", "VE", "FI", "AC", "FA"];
 
 					const strCotizacion = `
 						<h4>Cotización</h4>
@@ -666,8 +667,7 @@ function detalleComponent(){
 
 					htmlDetalle += strCotizacion;
 
-					if($("#divVersion")[0] !== undefined){
-						$("#divVersion")
+					$("#divVersion")
 						.find("#pEvento")
 						.html(
 							$("#divVersion")
@@ -675,7 +675,6 @@ function detalleComponent(){
 								.html()
 								.replace("{nEvento}", nuevaReserva.cotizacion.evento)
 						);
-					}
 
 					nuevaReserva.cotizacion.versiones.forEach((version) => {
 						const fecha = moment(
@@ -772,142 +771,144 @@ function detalleComponent(){
 					$("#modalDetalle").modal("show");
 				});
 
-				$("#modalDetalle").on('hide.bs.modal', function(){
-					if(!urlActual.includes('ReservarEvento')){
+				$("#modalDetalle").on("hide.bs.modal", function () {
+					if (!urlActual.includes("ReservarEvento")) {
 						$("#modalDetalle").remove();
 						$("#btnMenuFlotante").remove();
 					}
-				})
+				});
 
 				$(document).trigger("init.detalleComponent");
 			},
 		});
 	}
 
-	if (nuevaReserva.disponibilidad) {
-		$(
-			".nav-link[data-href=Disponibilidad], .nav-link[data-href=DatosBasicos]"
-		).each(function () {
-			$(this).removeClass("disabled").parent().attr("disabled", false);
-		});
-	}
-	if (nuevaReserva.datosBasicos) {
-		$(
-			".nav-link[data-href=DatosBasicos], .nav-link[data-href=Complementos]"
-		).each(function () {
-			$(this).removeClass("disabled").parent().attr("disabled", false);
-		});
-
-		if (!nuevaReserva.datosBasicos.manejalista) {
-			$(".nav-link[data-href=Invitados]")
-				.addClass("disabled")
-				.parent()
-				.attr("disabled", true);
+	if (urlActual.includes("ReservarEvento")) {
+		if (nuevaReserva.disponibilidad) {
+			$(
+				".nav-link[data-href=Disponibilidad], .nav-link[data-href=DatosBasicos]"
+			).each(function () {
+				$(this).removeClass("disabled").parent().attr("disabled", false);
+			});
 		}
-	}
-	if (nuevaReserva.complementos) {
-		$(".nav-link[data-href=Complementos]")
-			.removeClass("disabled")
-			.parent()
-			.attr("disabled", false);
+		if (nuevaReserva.datosBasicos) {
+			$(
+				".nav-link[data-href=DatosBasicos], .nav-link[data-href=Complementos]"
+			).each(function () {
+				$(this).removeClass("disabled").parent().attr("disabled", false);
+			});
 
-		if (nuevaReserva.datosBasicos.manejalista) {
-			$(".nav-link[data-href=Invitados]")
+			if (!nuevaReserva.datosBasicos.manejalista) {
+				$(".nav-link[data-href=Invitados]")
+					.addClass("disabled")
+					.parent()
+					.attr("disabled", true);
+			}
+		}
+		if (nuevaReserva.complementos) {
+			$(".nav-link[data-href=Complementos]")
 				.removeClass("disabled")
 				.parent()
 				.attr("disabled", false);
-		} else {
+
+			if (nuevaReserva.datosBasicos.manejalista) {
+				$(".nav-link[data-href=Invitados]")
+					.removeClass("disabled")
+					.parent()
+					.attr("disabled", false);
+			} else {
+				$(".nav-link[data-href=Cotizacion]")
+					.removeClass("disabled")
+					.parent()
+					.attr("disabled", false);
+			}
+		}
+		if (nuevaReserva.invitados) {
+			if (nuevaReserva.datosBasicos.manejalista) {
+				$(".nav-link[data-href=Invitados]")
+					.removeClass("disabled")
+					.parent()
+					.attr("disabled", false);
+			}
 			$(".nav-link[data-href=Cotizacion]")
 				.removeClass("disabled")
 				.parent()
 				.attr("disabled", false);
 		}
-	}
-	if (nuevaReserva.invitados) {
-		if (nuevaReserva.datosBasicos.manejalista) {
-			$(".nav-link[data-href=Invitados]")
+		if (nuevaReserva.cotizacion) {
+			$(".nav-link[data-href=Cotizacion]")
 				.removeClass("disabled")
 				.parent()
 				.attr("disabled", false);
-		}
-		$(".nav-link[data-href=Cotizacion]")
-			.removeClass("disabled")
-			.parent()
-			.attr("disabled", false);
-	}
-	if (nuevaReserva.cotizacion) {
-		$(".nav-link[data-href=Cotizacion]")
-			.removeClass("disabled")
-			.parent()
-			.attr("disabled", false);
 
-		setTimeout(() => {
-			if (typeof nuevaReserva.cotizacion.edicion === "undefined") {
-				// Disponibilidad
-				$(document).off("click", ".lugar-component:not(.thumbnail)");
-				$("#lugaresComponent div:eq(0)")
-					.find(`[data-lugarid] .card .lugar-card-container`)
-					.off("click")
-					.each(function () {
-						$(this).find(".lugar-nombre").remove();
+			setTimeout(() => {
+				if (typeof nuevaReserva.cotizacion.edicion === "undefined") {
+					// Disponibilidad
+					$(document).off("click", ".lugar-component:not(.thumbnail)");
+					$("#lugaresComponent div:eq(0)")
+						.find(`[data-lugarid] .card .lugar-card-container`)
+						.off("click")
+						.each(function () {
+							$(this).find(".lugar-nombre").remove();
+						});
+					$("#btnFiltrarDisponibilidad").closest("div").addClass("d-none");
+					$(".lugar-card").each(function () {
+						$(this).addClass("cursor-default");
 					});
-				$("#btnFiltrarDisponibilidad").closest("div").addClass("d-none");
-				$(".lugar-card").each(function () {
-					$(this).addClass("cursor-default");
-				});
 
-				// Datos básicos
-				$(document).off("click", ".card-tipomontaje");
-				$("input[type=text], input[type=email]").each(function () {
-					$(this).attr("readonly", true);
-				});
-				$(
-					"input[type=checkbox], select:not(#selectVersion), #btnReiniciar, #btnFiltrarDisponibilidad"
-				).each(function () {
-					$(this).prop("disabled", true);
-				});
-
-				// Complementos
-				$(".btnTabla, .btnSeleccionarMenu").each(function () {
-					$(this).addClass("invisible");
-				});
-				$("[id=agregarProducto]").addClass("d-none");
-				$(".observacionProducto").each(function () {
-					if ($(this).val().trim().length == 0) {
-						$(this).remove();
-					} else {
+					// Datos básicos
+					$(document).off("click", ".card-tipomontaje");
+					$("input[type=text], input[type=email]").each(function () {
 						$(this).attr("readonly", true);
+					});
+					$(
+						"input[type=checkbox], select:not(#selectVersion), #btnReiniciar, #btnFiltrarDisponibilidad"
+					).each(function () {
+						$(this).prop("disabled", true);
+					});
+
+					// Complementos
+					$(".btnTabla, .btnSeleccionarMenu").each(function () {
+						$(this).addClass("invisible");
+					});
+					$("[id=agregarProducto]").addClass("d-none");
+					$(".observacionProducto").each(function () {
+						if ($(this).val().trim().length == 0) {
+							$(this).remove();
+						} else {
+							$(this).attr("readonly", true);
+						}
+					});
+					$(".editarValor").remove();
+
+					// Invitados
+					$("[id=frmExcel]").addClass("d-none");
+
+					$("[id=divContinuar], [id=btnSiguiente]").addClass("d-none");
+					$("#btnGroupAcciones").removeClass("d-none");
+
+					// Cotización
+					$("#cuerposCT, #cuerposOT, #cuerposCO").each(function () {
+						$(this).closest("tr").prev().addClass("d-none");
+						$(this).closest("tr").addClass("d-none");
+					});
+					$(".btnEditarCuerpo").addClass("d-none");
+				} else {
+					$("#btnGroupAcciones").closest(".btn-group").addClass("d-none");
+					$("#selectVersion").attr("disabled", true);
+					$("#btnCancelarEdi").removeClass("d-none");
+
+					if (nuevaReserva.cotizacion.edicion === 2) {
+						$("#btnCancelarEdi").text("Cancelar confirmación");
 					}
-				});
-				$(".editarValor").remove();
-
-				// Invitados
-				$("[id=frmExcel]").addClass("d-none");
-
-				$("[id=divContinuar], [id=btnSiguiente]").addClass("d-none");
-				$("#btnGroupAcciones").removeClass("d-none");
-
-				// Cotización
-				$("#cuerposCT, #cuerposOT, #cuerposCO").each(function () {
-					$(this).closest("tr").prev().addClass("d-none");
-					$(this).closest("tr").addClass("d-none");
-				});
-				$(".btnEditarCuerpo").addClass("d-none");
-			} else {
-				$("#btnGroupAcciones").closest(".btn-group").addClass("d-none");
-				$("#selectVersion").attr("disabled", true);
-				$("#btnCancelarEdi").removeClass("d-none");
-
-				if (nuevaReserva.cotizacion.edicion === 2) {
-					$("#btnCancelarEdi").text("Cancelar confirmación");
 				}
-			}
-		}, 1000);
-	}	
+			}, 1000);
+		}
+	}
 }
 
-$(function(){
-	if(urlActual.includes('ReservarEvento')){
+$(function () {
+	if (urlActual.includes("ReservarEvento")) {
 		detalleComponent();
 	}
 });

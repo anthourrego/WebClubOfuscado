@@ -110,11 +110,12 @@ alertify.myAlert2 || alertify.dialog('myAlert2', function factory() {
 				options: {
 					maximizable: false,
 					resizable: false,
-					title: 'Especifique valor entregado por el cliente'
+					title: 'Especifique valor entregado por el cliente',
+					closable: false
 				},
 				buttons: [
 					{
-						text: 'OK',
+						text: 'Aceptar',
 						key: 27,
 						className: alertify.defaults.theme.ok,
 					}
@@ -123,7 +124,7 @@ alertify.myAlert2 || alertify.dialog('myAlert2', function factory() {
 		},
 		settings: {
 			selector: undefined,
-			callback: undefined
+			callback: undefined,
 		},
 		hooks: {
 			onclose: function () {
@@ -200,7 +201,7 @@ alertify.myAlert2 || alertify.dialog('myAlert2', function factory() {
 				},
 				buttons: [
 					{
-						text: 'OK',
+						text: 'Aceptar',
 						key: 13,
 						className: alertify.defaults.theme.ok + ' btnGuardarDcto',
 					},
@@ -605,6 +606,7 @@ alertify.myAlert2 || alertify.dialog('myAlert2', function factory() {
 					}
 				}
 			} else {
+				facturaNoConfirmada($FACTURA.FacturaId, $FACTURA.NroFactura);
 				if (CambioPropina != false) {
 					actualizarFormasPago();
 					$('#ModalFormasPago').modal('toggle');
@@ -932,6 +934,7 @@ alertify.dialog('myConfirm', function () {
 					}
 					break;
 				default:
+					facturaNoConfirmada($FACTURA.FacturaId, $FACTURA.NroFactura);
 					alertify.confirm().callback.call(this, closeEvent);
 					break;
 			}
@@ -1033,6 +1036,7 @@ function facturarFactura(row, data, dataIndex) {
 							formaPago = '1';
 							facturarFormasPago(true);
 						}, function () {
+							facturaNoConfirmada($FACTURA.FacturaId, $FACTURA.NroFactura);
 						});
 					} else {
 						let msg = 'El valor cancelado es mayor al de la factura'
@@ -1053,6 +1057,7 @@ function facturarFactura(row, data, dataIndex) {
 							formaPago = '1';
 							facturarFormasPago(true);
 						}, function () {
+							facturaNoConfirmada($FACTURA.FacturaId, $FACTURA.NroFactura);
 						});
 					}
 				})
@@ -1260,7 +1265,7 @@ function facturarFormasPago(efectivo = false) {
 		}
 	}
 
-	//Copiamos el objecto original de facturary eliminar los datos basura que no se necesitan en el backend
+	//Copiamos el objecto original de facturar y eliminar los datos basura que no se necesitan en el backend
 	$FACTURAENV = copyObjectArray($FACTURA);
 	for (const propiedad in $FACTURAENV.FormaPago) {
 		for (const pagos in $FACTURAENV.FormaPago[propiedad]) {
@@ -1812,6 +1817,7 @@ function iniciarFacturacion(data, row, dataIndex) {
 		, TotalPagar: 0
 		, entregado: 0
 		, FacturaId: null
+		, NroFactura: null
 		, TerceroId: null
 		, Propina: 0
 		, FrmPagoValor: []
@@ -1823,6 +1829,7 @@ function iniciarFacturacion(data, row, dataIndex) {
 	};
 
 	$FACTURA.FacturaId = data['FacturaId'];
+	$FACTURA.NroFactura = data['Factura'].trim();
 	$FACTURA.TerceroId = data['Codigo'];
 	$TerceroId = data['Codigo'];
 	$FACTURA.TotalPagar = parseFloat(data['Valor']) + parseFloat(data['Propina_Factura']) - parseFloat(data['RetenFuent']) - parseFloat(data['RetenIva']) - parseFloat(data['RetenIca']) - parseFloat(data['descuento']);
@@ -1857,6 +1864,23 @@ function iniciarFacturacion(data, row, dataIndex) {
 	
 	facturarFactura(row, data, dataIndex);
 }
+
+const facturaNoConfirmada = (facturaId, NroFactura) => {
+	$.ajax({
+		url: rutaGeneral + "facturaNoConfirmada",
+		type: 'POST',
+		dataType: "json",
+		data: {
+			facturaId,
+			RASTREO: RASTREO(`No se definen la formas de pago de la factura ${NroFactura.trim()} con factura id ${facturaId}`, 'Facturas Pendientes')
+		},
+		success: (data) => {
+			if (!data.success) {
+				alertify.error(data.msj);
+			}
+		}
+	});
+} 
 
 $(function(){
 	RastreoIngresoModulo('Facturas Pendientes');
@@ -1939,7 +1963,6 @@ $(function(){
 				}
 			}
 
-
 			$(row).on('click', function () {
 				$.ajax({
 					type: "POST",
@@ -1982,7 +2005,7 @@ $(function(){
 								const name = $(input).attr("name");
 								datos[name] = $(input).val();
 							});
-							datos['permiso'] = 2609; //2630;
+							datos['permiso'] = 2609;
 							datos["RASTREO"] = RASTREO(`Accede a facturar en proceso de WhatsApp la factura ${data.Factura.trim()} con el usuario ${datos['usuarioid']}`, 'Facturas Pendientes');
 
 							datos = $.Encriptar(datos);
@@ -3369,6 +3392,7 @@ $(document).on('shown.bs.modal', function () {
 });
 
 $(document).on('click', '#btnCancelarFrmPago', function () {
+	facturaNoConfirmada($FACTURA.FacturaId, $FACTURA.NroFactura);
 	$FACTURA.FormaPago = {};
 	DTtblFormaPago.clear().columns.adjust().draw();
 	$('#frmFormaBase').val(0);
@@ -3410,6 +3434,7 @@ $(document).on('click', '#btnAgregarTercero', function (e) {
 	$(this).attr('disabled', true);
 }).on('click', '#btnCancelarCuentaValor', function (e) {
 	e.preventDefault();
+	facturaNoConfirmada($FACTURA.FacturaId, $FACTURA.NroFactura);
 	$FACTURA.FrmPagoValor = [];
 }).on('click', '#btnValoresIguales', function (e) {
 	e.preventDefault();
@@ -3488,33 +3513,6 @@ $(document).on('click', '#btnAgregarTercero', function (e) {
 	}
 }).on('click', '#btnAceptarValores', function (e) {
 	e.preventDefault();
-
-	// for (var k in $FACTURA.FrmPagoValor) {
-	// 	if(typeof $FACTURA.FormaPago[$FACTURA.FrmPagoValor[k].TerceroId] == "undefined"){
-	// 		$FACTURA.FormaPago[$FACTURA.FrmPagoValor[k].TerceroId] = {};
-	// 	}
-
-	// 	let FormaPagoTMP = {
-	// 		CodiPagoId: $FACTURA.FrmPagoValor[k].CodiPagoId
-	// 		,Nombre: $FACTURA.FrmPagoValor[k]['3']
-	// 		,Valor: $FACTURA.FrmPagoValor[k].Valor
-	// 	};
-
-	// 	if(typeof $FACTURA.FrmPagoValor[k].bancoid !== "undefined"){
-	// 		FormaPagoTMP.bancoid = $FACTURA.FrmPagoValor[k].bancoid;
-	// 	}
-	// 	if(typeof $FACTURA.FrmPagoValor[k].numerdocum !== "undefined"){
-	// 		FormaPagoTMP.numerdocum = $FACTURA.FrmPagoValor[k].numerdocum;
-	// 	}
-	// 	if(typeof $FACTURA.FrmPagoValor[k].fechacheq !== "undefined"){
-	// 		FormaPagoTMP.fechacheq = $FACTURA.FrmPagoValor[k].fechacheq;
-	// 	}
-	// 	if(typeof $FACTURA.FrmPagoValor[k].cuota !== "undefined"){
-	// 		FormaPagoTMP.cuota = $FACTURA.FrmPagoValor[k].cuota;
-	// 	}
-
-	// 	$FACTURA.FormaPago[$FACTURA.FrmPagoValor[k].TerceroId][$FACTURA.FrmPagoValor[k].CodiPagoId] = FormaPagoTMP;
-	// }
 
 	var total = 0;
 

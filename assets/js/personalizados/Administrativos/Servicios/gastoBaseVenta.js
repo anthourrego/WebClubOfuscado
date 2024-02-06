@@ -155,7 +155,7 @@ function GuardarGasto(data) {
 				cambioDatoEditar = false;
 				alertify.success(resp.mensaje);
 				DT.ajax.reload();
-				alertify.alert('Gasto Base Ventas: ' + resp.idinsert, resp.mensaje, function () {
+				alertify.alert('Gasto Base Ventas: ' + resp.idInsert, resp.mensaje, function () {
 					abrirReporte(base_url() + 'Reportes/ImprimirGastoBaseVenta/' + resp.id, contexto, 'redireccionGastoBaseVenta');
 				});
 			} else {

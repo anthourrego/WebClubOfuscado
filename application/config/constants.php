@@ -83,7 +83,7 @@ defined('EXIT_USER_INPUT')     OR define('EXIT_USER_INPUT', 7); // invalid user 
 defined('EXIT_DATABASE')       OR define('EXIT_DATABASE', 8); // database error
 defined('EXIT__AUTO_MIN')      OR define('EXIT__AUTO_MIN', 9); // lowest automatically-assigned error code
 defined('EXIT__AUTO_MAX')      OR define('EXIT__AUTO_MAX', 125); // highest automatically-assigned error code
-defined('VERSIONSOFT')         OR define('VERSIONSOFT', '1.12.1'); // Versión del sistema
+defined('VERSIONSOFT')         OR define('VERSIONSOFT', '1.13.0'); // Versión del sistema
 
 defined('LLAVE_SECRETA') OR define('LLAVE_SECRETA', 'csoftprosofdesarrollo');
 defined('ITERACIONES') OR define('ITERACIONES', 30);
@@ -93,6 +93,7 @@ defined('AYBPermisos') OR define('AYBPermisos', implode(",", [
 	10 // Ajustes
     ,1002 //Modifica Reporte
 	,1003 // SMTP Correo
+	,1004 //Cerrar sesiones activas
 	,16 //Reserva Mesas
 	,1601 //Reserva Mesa
 	,1602 //Informe reservas
@@ -115,8 +116,12 @@ defined('AYBPermisos') OR define('AYBPermisos', implode(",", [
     ,180117 //Informe Vendedor Por Consumo
     ,180119 //Cuadre Cajero
 	,180120 //Gastos base ventas
+		,18012001
+		,18012002
+		,18012003
 	,180121 //Recogidas
 	,180123 //Congela Caja
+	,180128 //Base a Caja
     ,57 //Buscar Producto
     ,55 //Modificar
     ,67 //Borrar Cuenta

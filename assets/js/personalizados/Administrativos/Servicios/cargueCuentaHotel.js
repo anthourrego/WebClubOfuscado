@@ -62,11 +62,12 @@ $(function () {
 	let infoDesa = sessionStorage.getItem('regresoMesaDesayuno');
 	if (infoDesa) {
 		infoDesa = $.Desencriptar(JSON.parse(infoDesa));
+		infoDesa = JSON.parse(infoDesa);
 		$("#btnRegresarMesas").show();
 		$("#btnRegresarMesas").click(function () {
 			sessionStorage.removeItem('regresoMesaDesayuno');
 			sessionStorage.setItem('accionPos', 'pedido_mesa');
-			location.href = base_url() + `Administrativos/Servicios/VistaGeneral/Mesas/${infoDesa.split('"').join('')}`;
+			location.href = base_url() + `Administrativos/Servicios/VistaGeneral/Mesas/${infoDesa.AlmacenId.toString().trim()}/${infoDesa.CodiVent.toString().trim()}`;
 		});
 	}
 

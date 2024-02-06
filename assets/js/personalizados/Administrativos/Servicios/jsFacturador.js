@@ -1136,7 +1136,7 @@ function facturarFormasPago(efectivo = false, pendiente = false) {
 				} else {
 					if (res.alert) {
 						alertify.alert('Advertencia', res.msj, function () {
-							location.href = base_url() + 'Administrativos/Servicios/VistaGeneral/Mesas/' + $AlmacenId;
+							location.href = base_url() + `Administrativos/Servicios/VistaGeneral/Mesas/${$AlmacenId.toString().trim()}/${$codiventid.toString().trim()}`;
 						});
 					} else {
 						alertify.error(res.msj);
@@ -1758,10 +1758,10 @@ function redireccionImprimir(data) {
 			if (accesoModulo == 'otras-ventas') {
 				location.href = base_url() + 'Administrativos/Servicios/PanelPrincipal';
 			} else {
-				location.href = base_url() + 'Administrativos/Servicios/VistaGeneral/Mesas/' + $almacenOriginal;
+				location.href = base_url() + `Administrativos/Servicios/VistaGeneral/Mesas/${$almacenOriginal.toString().trim()}/${$codiventid.toString().trim()}`;
 			}
 		} else {
-			location.href = base_url() + 'Administrativos/Servicios/VistaGeneral/Mesas/' + $AlmacenId;
+			location.href = base_url() + `Administrativos/Servicios/VistaGeneral/Mesas/${$AlmacenId.toString().trim()}/${$codiventid.toString().trim()}`;
 		}
 	} else {
 		if (($datosIngreso === null || $datosIngreso === '')) {
@@ -1774,7 +1774,7 @@ function redireccionImprimir(data) {
 
 function redireccionCortesia() {
 	sessionStorage.removeItem('PFD');
-	location.href = base_url() + 'Administrativos/Servicios/VistaGeneral/Mesas/' + $AlmacenId;
+	location.href = base_url() + `Administrativos/Servicios/VistaGeneral/Mesas/${$AlmacenId.toString().trim()}/${$codiventid.toString().trim()}`;
 }
 
 const cruceAnticipo = (propina = 0) => {
